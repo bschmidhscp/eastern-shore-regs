@@ -54,7 +54,12 @@ was decided, what was learned, and what's next. Background and layout are in **S
   Critical Area, septic tiers, PFA, W&S service areas, easements, protected lands, etc.); built a
   one-point parcel lookup tool.
 - Created the private GitHub repo for version history of text and tools.
-- Created these guides so Ben and his AI can work from the drive directly.
+- Created these guides so Ben and his AI can work from the drive directly; added an automatic
+  Change History (word-level regulation changes) published at the top of the drive.
+- Made the GitHub mirror public (github.com/bschmidhscp/eastern-shore-regs) so any AI can open it from
+  a link; history was cleaned so it contains no personal emails.
+- Found Talbot's open upload-folder listings: inventoried 1,830 files in seconds (141 Council bills,
+  124 Council minutes, 138 transcripts, 208 resolutions, 159 Board of Appeals decisions since 2016–2022).
 - **Next:** finish Talbot documents (comp plan + 2026 draft, W&S plan, FY2027 fees, 2026 bills,
   2–3 years of Planning Commission / Board of Appeals minutes), then statewide rules, then review the
   pilot before fanning out to the other 8 counties.

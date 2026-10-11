@@ -30,7 +30,7 @@ Step two is comparing counties and narrowing to the best two or three.
 | Talbot County | `Docs + Regs/Talbot/` | [folder](https://drive.google.com/drive/folders/14_TrTThEqTsvNu_1JJpwaeoztYALTRkJ) |
 | Talbot zoning & subdivision code (Ch. 190) | `Talbot/Code/Chapter 190/` | [folder](https://drive.google.com/drive/folders/1nodfjD4q-NmbaWZ2XWCSqdbcjO3k3jcK) |
 | What changed in the regulations, word for word | `02. Change History.docx` (top of drive) | — |
-| Backup with full version history (optional; needs repo access) | GitHub, private | [bschmidhscp/eastern-shore-regs](https://github.com/bschmidhscp/eastern-shore-regs) |
+| Same text and tools with full version history — public, no login needed | GitHub | [github.com/bschmidhscp/eastern-shore-regs](https://github.com/bschmidhscp/eastern-shore-regs) |
 
 Each county folder has the same layout:
 
@@ -64,6 +64,12 @@ Each county folder has the same layout:
   `~/.venvs/esl/bin/python -I "02. Tools/search.py" '"minor subdivision" AND lots' --county Talbot`
 - Everything a parcel is subject to, from one point:
   `~/.venvs/esl/bin/python -I "02. Tools/gis_point_lookup.py" --lat 38.765 --lon -76.08`
+
+**From GitHub (any AI that can open a URL):** the repo mirrors everything here except `Originals/`
+(PDFs, map files) and the search database. Browse it at the link above, read raw files at
+`https://raw.githubusercontent.com/bschmidhscp/eastern-shore-regs/main/<path>` (spaces as `%20`),
+or `git clone https://github.com/bschmidhscp/eastern-shore-regs` to get the tools and text locally.
+The repo is public: never commit personal emails, credentials or confidential deal data.
 
 **Either way:**
 - Cite sections (`§ 190-36.2`) and documents with page numbers.
