@@ -21,7 +21,7 @@ if git diff --cached --quiet; then
 fi
 
 # Substantive changes to regulation text (code sections, converted documents, tables)
-changed=$(git diff --cached --name-only "${NOISE[@]}" -- '*/Code/*' '*/Documents/*' '*/Data/*' '*/Meeting Minutes/*' '01. Maryland/*' | grep -v '00. Contents.md$' || true)
+changed=$(git diff --cached --name-only --diff-filter=M "${NOISE[@]}" -- '*/Code/*' '*/Documents/*' '*/Data/*' '*/Meeting Minutes/*' '01. Maryland/*' | grep -v '00. Contents.md$' || true)
 added=$(git diff --cached --name-only --diff-filter=A -- '*/Code/*' '*/Documents/*' '*/Meeting Minutes/*' | wc -l | tr -d ' ')
 
 {
