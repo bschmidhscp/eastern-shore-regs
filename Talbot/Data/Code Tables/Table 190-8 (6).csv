@@ -1,0 +1,10 @@
+Table II-7. Cluster Requirements,,,,
+Column A Parcel Size (acres),Column B Maximum Lots (including remainder of original parcel),Column C Minimum Clustered Lots,Column D Maximum Total Acreage in Cluster Lots,Column E Maximum Nonclustered Lots
+Less than 4,1,n/a,n/a,n/a
+At least 4 and less than 6,2,n/a,n/a,n/a
+At least 6 and less than 20,3,2,7,1
+At least 20 and less than 40,4,2,7,2
+At least 40 and less than 60,5,3,11,2
+At least 60 and less than 80,6,3,11,3
+At least 80 and less than 100,7,4,14,3
+100 acres or larger,3 plus 1 lot per 20 acres,All except 3 lots,3.5 acres times the number of cluster lots,3

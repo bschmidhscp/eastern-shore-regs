@@ -1,0 +1,10 @@
+Table V-2. Type of Required Landscape Yard 3 Between Zoning Districts or Land Uses,,,,,,,,
+Zoning of Proposed Development,Zoning of Adjacent Land,,,,,,,
+Zoning of Proposed Development,"AC, CP, WRC, TC, RC","RR, TR",VR,VH or VM,,LC,GC,LI
+Zoning of Proposed Development,"AC, CP, WRC, TC, RC","RR, TR",VR,Residential or Undeveloped,Non-Residential Principal Use,LC,GC,LI
+"AC, CP, WRC, TC, RC, RR, TR, VR 1, 2",B,C,C,C,A,—,—,—
+"VM 1, 2",B,C,C,C,—,—,—,—
+"VH 1, 2",B,C,C,B,A,—,—,—
+LC,B,C,C,C,A,—,—,—
+GC,C,C,C,C,B,A,—,—
+LI,C,D,D,D,C,B,B,—

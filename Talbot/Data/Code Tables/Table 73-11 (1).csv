@@ -1,0 +1,15 @@
+Zoning Classifications,,Threshold Percentage
+"Agricultural Conservation (AC), Countryside Preservation (CP), Western Rural Conservation (WRC), Town Conservation (TC)",,
+,Unclustered,50% of net tract area
+,Clustered,50% of proposed net tract area
+Town Residential (TR),,
+,Without sewer,25%
+,With sewer,20%
+"Village Residential (VR), Village Hamlet (VH) and Village Mixed (VM)",,
+,Without sewer,25%
+,With sewer,20%
+Affordable Workforce Housing Floating District (AWH),,20%
+Limited Industrial (LI),,15%
+Limited Commercial (LC),,15%
+General Commercial (GC),,15%
+Institutional Uses (any zone),,15%
