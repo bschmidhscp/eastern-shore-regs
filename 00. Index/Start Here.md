@@ -36,14 +36,32 @@ Each county folder has the same layout:
 
 ```
 <County>/
+  00. Summary.md   layer-1 summary for small subdivisions (start here for a county)
+  01. Digests/     one-line-per-item tables (legislation, PC actions, appeals, council, pre-apps)
   Code/            county code, one markdown file per section (e.g. Chapter 190/190-36.md);
-                   each chapter folder has "00. Contents.md" (outline) and "00. History.md"
+                   each chapter folder has "00. Contents.md" (outline) and "00. History.md";
+                   "Code/00. Amendments Not Yet in Code.md" lists newer bills to read alongside
   Documents/       searchable text of PDFs (fees, plans, legislation…), with <!-- page N --> markers
-  Meeting Minutes/ minutes and agendas as text, plus short summaries
+  Meeting Minutes/ minutes, agendas and decisions as text (Planning Commission, County Council,
+                   Board of Appeals, pre-application meetings)
   Data/            tables as CSV (e.g. the Table of Land Uses)
   Originals/       files exactly as downloaded — PDFs (readable directly), web pages, map layers (GeoJSON)
   Manifest.csv     one row per downloaded file: source URL, retrieved date, effective date, SHA-256
 ```
+
+## Read in this order (don't drown in documents)
+
+Answer from the cheapest layer that can answer; go deeper only to verify.
+
+| Layer | What | Where |
+|---|---|---|
+| 0 | Orientation, status, decisions | this guide, the Project Log |
+| 1 | **County summary** — rules, fees, process, risks for small subdivisions, all cited (~2 pages) | `<County>/00. Summary.md` |
+| 2 | **Digests** — one line per item: Legislation Index, Planning Commission Actions, Board of Appeals Decisions, County Council Land-Use Actions, Pre-Application Projects | `<County>/01. Digests/` (.md and .csv) |
+| 3 | Search — snippets with file + page | Drive full-text search or `02. Tools/search.py` |
+| 4 | Full code sections and documents — only to confirm a citation | `<County>/Code/`, `Documents/`, `Meeting Minutes/` |
+
+Digests are AI-generated from the source documents; verify anything decisive in the source file named in the row.
 
 ## How an AI should read this drive
 

@@ -1,0 +1,1070 @@
+---
+county: "Talbot"
+category: "law"
+title: "Bills 1531- 1543 (FY24 Capital Enabling Leg.) As Enacted and Enrolled"
+source_url: "https://talbotcountymd.gov/uploads/File/Council_2022/Bills/Bills%201531-%201543%20%28FY24%20Capital%20Enabling%20Leg.%29%20As%20Enacted%20and%20Enrolled.pdf"
+effective: ""
+retrieved: "2026-10-11"
+original: "Talbot/Originals/Legislation/Bills/Bills 1531- 1543 (FY24 Capital Enabling Leg.) As Enacted and Enrolled.pdf"
+pages: "39"
+needs_ocr: "no"
+ocr: "yes (tesseract)"
+---
+
+# Bills 1531- 1543 (FY24 Capital Enabling Leg.) As Enacted and Enrolled
+
+<!-- page 1 -->
+COUNTY COUNCIL
+OF
+
+TALBOT COUNTY, MARYLAND
+
+2023 Legislative Session, Legislative Day No. : June 13, 2023
+Bill No.: 1531
+
+Expiration Date: | August 17, 2023
+
+Introduced by: Mr. Callahan, Ms. Haythe, Mr. Lesher, Ms. Mielke, Mr. Stepp
+
+A BILL TO AMEND BILL NOS. 1393, 1452, AND 1480, TO AMEND THE
+APPROPRIATION FOR THE DEVELOPMENT OF THE FREDERICK
+DOUGLASS PARK ON THE TUCKAHOE LOCATED AT 13213 LEWISTOWN
+ROAD, QUEEN ANNE, MARYLAND
+
+By the Council: June 13, 2023
+
+Introduced, read first time, ordered posted, and public hearing scheduled on Tuesday, July
+11, 2023 at 5:30 p.m. in the Bradley Meeting Room, South Wing, Talbot County
+Courthouse, 11 North Washington Street, Easton, Maryland 21601.
+
+By Order Suto Wnevam.
+
+Secretary
+
+<!-- page 2 -->
+A BILL TO AMEND BILL NOS. 1393, 1452, AND 1480 FOR THE PURPOSE OF
+AMENDING THE APPROPRIATION FOR THE DEVELOPMENT OF THE
+FREDERICK DOUGLASS PARK ON THE TUCKAHOE LOCATED AT 13213
+LEWISTOWN ROAD, QUEEN ANNE, MARYLAND
+
+WHEREAS, Bill Nos. 1393, 1452, and 1480 authorized the development of the Frederick
+Douglass Park on the Tuckahoe.
+
+NOW, THEREFORE, BE IT ENACTED BY the County Council of Talbot County,
+Maryland, as follows:
+
+SECTION 1: The development of the Frederick Douglass Park on the Tuckahoe is hereby
+authorized as a capital project. The scope of work includes, but is not limited to, the
+planning, design and construction of park assets, scenic overlook platforms and an
+interpretive kiosk. Approval of this capital project includes authorization to expend funds,
+not to exceed the total amount of the appropriation, for all incidental and customary costs
+and charges associated with, and reasonably necessary for, design, engineering,
+construction and completion of the project.
+
+SECTION 2: The Talbot County Council is hereby authorized to expend up to $1,000,000
+for this project. Acceptance of federal and State Grants for this capital project is hereby
+authorized. This project will be funded by approximately $726,000 in federal and State
+grants and $274,000 of funds from the Capital Projects Fund. This represents an increase
+of $500,000 over prior authorizations. The increase will be funded by additional federal
+and State grants of $500,000.
+
+SECTION 3: This Bill will take effect sixty (60) calendar days from the date of enactment.
+
+<!-- page 3 -->
+PUBLIC HEARING
+Having been posted and Notice of time, date, and place of hearing, and Title of Bill No.
+1531 having been published, a public hearing was held on Tuesday, July 11, 2023 at 5:30
+
+p.m, in the Bradley Meeting Room, South Wing, Talbot County Courthouse, 11 North
+Washington Street, Easton, Maryland 21601.
+
+BY THE COUNCIL
+
+Read the third time.
+
+ENACTED: July 25, 2023
+
+By Order Sudan W. M 0 aw
+
+Susan W. Moran, Secretary
+
+Callahan - Aye
+
+Stepp - Aye (via absentee ballot
+Lesher - Aye
+Mielke - Aye
+Haythe - Aye
+
+EFFECTIVE: September 23, 2023
+
+<!-- page 4 -->
+COUNTY COUNCIL
+OF
+
+TALBOT COUNTY, MARYLAND
+
+2023 Legislative Session, Legislative Day No. : June 13, 2023
+BillNo.: 1532
+
+Expiration Date: | August 17, 2023
+
+Introduced by: Mr. Callahan, Ms. Haythe, Mr. Lesher, Ms. Mielke, Mr. Stepp
+
+A BILL TO AMEND BILL NO. 1516 FOR THE PURPOSE OF AMENDING THE
+APPROPRIATION FOR IMPROVEMENTS TO AND EXPANSION OF THE ST.
+MICHAELS BRANCH OF THE TALBOT COUNTY FREE LIBRARY
+
+By the Council: June 13, 2023
+
+Introduced, read first time, ordered posted, and public hearing scheduled on Tuesday, July
+11, 2023 at 5:30 p.m. in the Bradley Meeting Room, South Wing, Talbot County
+Courthouse, 11 North Washington Street, Easton, Maryland 21601.
+
+By Onter GUdda Wi We
+
+Secretary
+
+<!-- page 5 -->
+A BILL TO AMEND BILL NO. 1516 FOR THE PURPOSE OF AMENDING THE
+APPROPRIATION FOR IMPROVEMENTS TO AND EXPANSION OF THE ST.
+MICHAELS BRANCH OF THE TALBOT COUNTY FREE LIBRARY
+
+WHEREAS, Bill No. 1516 authorized the architectural and engineering fees associated
+with the renovation of the St. Michaels Branch of the Talbot County Free Library.
+
+NOW, THEREFORE, BE IT ENACTED BY the County Council of Talbot County,
+Maryland, as follows:
+
+SECTION 1: Improvements to and expansion of the St. Michaels Branch of the Talbot
+County Free Library is hereby authorized as a capital project. Prior authorization for this
+project included, but was not limited to, the planning, design and preparation of
+construction documents for the renovation of the St. Michaels Branch of the Talbot County
+Free Library. The scope of work is hereby extended to include, but will not be limited to,
+design, completion and construction of the expansion and renovation of the St. Michaels
+Branch of the Talbot County Free Library. Approval of this capital project includes
+authorization to expend funds, not to exceed the total amount of the appropriation, for all
+associated transactional costs and for incidental and customary costs and charges
+associated with, and reasonably required for, planning, design and completion of the
+project.
+
+SECTION 2: The County Council of Talbot County is hereby authorized to expend up to
+$719,600 for this project. Acceptance of federal and State grant funds is hereby authorized.
+The County Council is authorized to utilize a combination of federal and State grants, funds
+from the Capital Projects fund, and Development Impact Fees not to exceed $719,600 for
+this project. This project will be funded by approximately $359,800 of federal and State
+grants, $245,000 from the Capital Projects Fund, and $114,800 from Development Impact
+Fees. This represents an increase of $674,600 over prior authorizations. The increase will
+be funded by additional federal and State grants of $359,800, $200,000 of which is from
+the Capital Projects Fund, and $114,800 in Development Impact Fees.
+
+SECTION 3: This Bill will take effect sixty (60) calendar days from the date of enactment.
+
+<!-- page 6 -->
+PUBLIC HEARING
+
+Having been posted and Notice of time, date, and place of hearing, and Title of Bill No.
+1532 having been published, a public hearing was held on Tuesday, July 11, 2023 at 5:30
+p.m. in the Bradley Meeting Room, South Wing, Talbot County Courthouse, 11 North
+Washington Street, Easton, Maryland 21601.
+
+BY THE COUNCIL
+
+Read the third time.
+
+ENACTED: July 25,2023
+
+By onder Sau or
+
+Susan W. Moran, Secretary
+
+Callahan - Aye
+
+Stepp - Aye (via absentee ballot)
+Lesher - Aye
+Mielke - Aye
+Haythe - Aye
+
+EFFECTIVE: September 23, 2023
+
+<!-- page 7 -->
+COUNTY COUNCIL
+OF
+
+TALBOT COUNTY, MARYLAND
+
+2023 Legislative Session, Legislative Day No. : June 13, 2023
+Bill No. 1533
+
+Expiration Date: | August 17, 2023
+
+Introduced by: Mr. Callahan, Ms. Haythe, Mr. Lesher, Ms. Mielke, Mr. Stepp
+
+A BILL TO AUTHORIZE IMPROVEMENTS TO THE TALBOT COUNTY
+DETENTION CENTER
+
+By the Council: June 13, 2023
+
+Introduced, read first time, ordered posted, and public hearing scheduled on Tuesday, July
+11, 2023 at 5:30 p.m. in the Bradley Meeting Room, South Wing, Talbot County
+Courthouse, 11 North Washington Street, Easton, Maryland 21601.
+
+syowe Daw Wi lina
+
+Secretary
+
+<!-- page 8 -->
+A BILL TO AUTHORIZE IMPROVEMENTS TO THE TALBOT COUNTY
+DETENTION CENTER
+
+BE IT ENACTED BY the County Council of Talbot County, Maryland, as follows:
+
+SECTION 1: Improvements to the Talbot County Detention Center are hereby authorized
+as a capital project. The scope of work includes, but is not limited to, planning, design,
+preparation of construction documents, construction, and furnishing necessary to make
+improvements to the Talbot County Detention Center. Approval of this capital project
+includes authorization to expend funds, not to exceed the total amount of the appropriation,
+for all incidental and customary costs and charges reasonably necessary for the completion
+of the project.
+
+SECTION 2: The Talbot County Council is hereby authorized to expend up to $330,000
+for this project. The project will be funded by $330,000 in funds from the Capital Projects
+Fund.
+
+SECTION 3: This Bill will take effect sixty (60) calendar days from the date of enactment.
+
+<!-- page 9 -->
+PUBLIC HEARING
+
+Having been posted and Notice of time, date, and place of hearing, and Title of Bill No.
+1533 having been published, a public hearing was held on Tuesday, July 11, 2023 at 5:30
+p.m. in the Bradley Meeting Room, South Wing, Talbot County Courthouse, 11 North
+Washington Street, Easton, Maryland 21601.
+
+BY THE COUNCIL
+
+Read the third time.
+
+ENACTED: July 25, 2023
+
+By Order Sudan W. MOan/
+
+Susan W. Moran, Secretary
+
+Callahan - Aye
+
+Stepp - Aye (via absentee ballot)
+Lesher - Aye
+Mielke - Aye
+Haythe - Aye
+
+EFFECTIVE: September 23, 2023
+
+<!-- page 10 -->
+COUNTY COUNCIL
+OF
+
+TALBOT COUNTY, MARYLAND
+
+2023 Legislative Session, Legislative Day No. : June 13, 2023
+BillNo.: 1534
+
+Expiration Date: August 17, 2023
+
+Introduced by: Mr. Callahan, Ms. Haythe, Mr. Lesher, Ms. Mielke, Mr. Stepp
+
+A BILL TO AMEND BILL NOS. 1424 AND 1486 FOR THE PURPOSE OF
+AMENDING THE APPROPRIATION TO PURCHASE IMPROVED OR
+UNIMPROVED REAL PROPERTY FOR FUTURE COUNTY PURPOSES
+
+By the Council: June 13, 2023
+
+Introduced, read first time, ordered posted, and public hearing scheduled on Tuesday, July
+11, 2023 at 5:30 p.m. in the Bradley Meeting Room, South Wing, Talbot County
+Courthouse, 11 North Washington Street, Easton, Maryland 21601.
+
+By Order Sud! ‘Motaw
+
+Secretary
+
+<!-- page 11 -->
+A BILL TO AMEND BILL NOS. 1424 AND 1486 FOR THE PURPOSE OF
+AMENDING THE APPROPRIATION TO PURCHASE IMPROVED OR
+UNIMPROVED REAL PROPERTY FOR FUTURE COUNTY PURPOSES
+
+WHEREAS, Bill Nos. 1424 and 1486 authorized the purchase of land for future County
+purposes.
+
+NOW, THEREFORE, BE IT ENACTED BY the County Council of Talbot County,
+Maryland, as follows:
+
+SECTION 1: The purchase of improved or unimproved real property for future County
+purposes is hereby authorized as a capital project. The scope of work includes, but is not
+limited to, the purchase of improved or unimproved real property, including any associated
+fees, title work and land surveys, and, if long-term borrowing is utilized, the cost of
+issuance of any bonds or other long-term borrowing needed to finance the project.
+Approval of this capital project includes authorization to expend funds, not to exceed the
+total amount of the appropriation, for all associated transactional costs and for incidental
+and customary costs and charges associated with, and reasonably required for, the
+acquisition of improved or unimproved real property.
+
+SECTION 2: The Talbot County Council is hereby authorized to utilize either long-term
+borrowing or Capital Projects funds, or a combination of long-term borrowing and Capital
+Projects funds, not to exceed $6,100,000 for this project. This represents an increase of
+$2,000,000 over prior authorizations. The increase will be funded by additional funds from
+the Capital Projects Fund of $2,000,000.
+
+SECTION 3: This Bill will take effect sixty (60) calendar days from the date of enactment.
+
+<!-- page 12 -->
+PUBLIC HEARING
+
+Having been posted and Notice of time, date, and place of hearing, and Title of Bill No.
+1534 having been published, a public hearing was held on Tuesday, July 11, 2023 at 5:30
+p.m. in the Bradley Meeting Room, South Wing, Talbot County Courthouse, 11 North
+Washington Street, Easton, Maryland 21601.
+
+BY THE COUNCIL
+
+Read the third time.
+
+ENACTED: July 25, 2023
+
+By Order Susan: Moraw
+
+Susan W. Moran, Secretary
+
+Callahan - Aye
+
+Stepp - Aye (via absentee ballot)
+Lesher - Aye
+Mielke - Aye
+Haythe - Aye
+
+EFFECTIVE: September 23, 2023
+
+<!-- page 13 -->
+COUNTY COUNCIL
+OF
+
+TALBOT COUNTY, MARYLAND
+
+2023 Legislative Session, Legislative Day No. : June 13, 2023
+
+Bill No.: 1535
+
+Expiration Date: August 17, 2023
+
+Introduced by: Mr. Callahan, Ms. Haythe, Mr. Lesher, Ms. Mielke, Mr. Stepp
+
+A BILL TO AMEND BILL NO. 1488 FOR THE PURPOSE OF AMENDING THE
+APPROPRIATION FOR THE UPGRADE OR REPLACEMENT OF THE
+WASTEWATER TREATMENT PLANT AT THE PRESERVE AT WYE MILLS
+
+By the Council: June 13, 2023
+
+Introduced, read first time, ordered posted, and public hearing scheduled on Tuesday, July
+11, 2023 at 5:30 p.m. in the Bradley Meeting Room, South Wing, Talbot County
+Courthouse, 11 North Washington Street, Easton, Maryland 21601.
+
+By order SA WI Mae
+
+Secretary
+
+<!-- page 14 -->
+A BILL TO AMEND BILL NO. 1488 FOR THE PURPOSE OF AMENDING THE
+APPROPRIATION FOR THE UPGRADE OR REPLACEMENT OF THE
+WASTEWATER TREATMENT PLANT AT THE PRESERVE AT WYE MILLS
+
+WHEREAS, Bill No. 1488 authorized the upgrade or replacement of the Wastewater
+Treatment Plant at The Preserve at Wye Mills.
+
+NOW, THEREFORE, BE IT ENACTED BY the County Council of Talbot County,
+Maryland, as follows:
+
+SECTION 1: The upgrade or replacement of the wastewater treatment plant at The
+Preserve at Wye Mills is hereby authorized as a capital project. The scope of work
+includes, but is not limited to, the design, engineering and construction of a Membrane
+Bioreactor (MBR) wastewater treatment system to upgrade or replace the wastewater
+treatment plant utilized by the sixty-seven (67) lot community of The Preserve at Wye
+Mills. Approval of this capital project includes authorization to expend funds, not to exceed
+the total amount of the appropriation, for all incidental and customary costs and charges
+associated with, and reasonably necessary for, completion of the project and the cost of
+issuance of any bonds needed to finance the project.
+
+SECTION 2: The Talbot County Council is hereby authorized to expend up to $1,550,000
+for the project. Borrowing to finance this capital project and acceptance of federal and/or
+State grant funds for this project is hereby authorized. This project will be funded by
+approximately $650,000 of federal and State grants and $900,000 of funds from long-term
+borrowing. This represents an increase of $800,000 over prior year authorizations. The
+increase will be funded by additional federal and State grants of approximately $400,000
+and $400,000 from long-term borrowing. All costs incurred for this capital project shall
+be repaid by the users of the wastewater treatment system at The Preserve at Wye Mills.
+
+SECTION 3: This Bill will take effect sixty (60) calendar days from the date of
+enactment.
+
+<!-- page 15 -->
+PUBLIC HEARING
+
+Having been posted and Notice of time, date, and place of hearing, and Title of Bill No.
+1535 having been published, a public hearing was held on Tuesday, July 11, 2023 at 5:30
+p.m. in the Bradley Meeting Room, South Wing, Talbot County Courthouse, 11 North
+Washington Street, Easton, Maryland 21601.
+
+BY THE COUNCIL
+
+Read the third time.
+
+ENACTED: July 25, 2023
+
+ay onder SWSAM NW: Mort
+
+Susan W. Moran, Secretary
+
+Callahan - Aye
+
+Stepp - Aye (via absentee ballot)
+Lesher - Aye
+Mielke - Aye
+Haythe - Aye
+
+EFFECTIVE: September 23, 2023
+
+<!-- page 16 -->
+COUNTY COUNCIL
+OF
+
+TALBOT COUNTY, MARYLAND
+
+2023 Legislative Session, Legislative Day No. : June 13, 2023
+BillNo.: 1536
+
+Expiration Date: August 17,2023
+
+Introduced by: Mr. Callahan, Ms. Haythe, Mr. Lesher, Ms. Mielke, Mr. Stepp
+
+A BILL TO AMEND BILL NO. 1187 FOR THE PURPOSE OF AUTHORIZING
+THE APPROPRIATION FOR EXTENSION OF WATER AND SEWER LINES TO
+THE PROPOSED UNIVERSITY OF MARYLAND SHORE REGIONAL
+MEDICAL CENTER HOSPITAL SITE LOCATED BETWEEN LONGWOODS
+ROAD (MARYLAND RT. 662) AND U.S. ROUTE 50 IN EASTON, MARYLAND
+
+By the Council: June 13, 2023
+
+Introduced, read first time, ordered posted, and public hearing scheduled on Tuesday, July
+11, 2023 at 5:30 p.m. in the Bradley Meeting Room, South Wing, Talbot County
+Courthouse, 11 North Washington Street, Easton, Maryland 21601.
+
+By Order CwawW. Moyww
+
+Secretary
+
+<!-- page 17 -->
+A BILL TO AMEND BILL NO. 1187 FOR THE PURPOSE OF AUTHORIZING
+THE APPROPRIATION FOR EXTENSION OF WATER AND SEWER LINES TO
+THE PROPOSED UNIVERSITY OF MARYLAND SHORE REGIONAL
+MEDICAL CENTER HOSPITAL SITE LOCATED BETWEEN LONGWOODS
+ROAD (MARYLAND RT. 662) AND U.S. ROUTE 50 IN EASTON, MARYLAND
+
+WHEREAS, Bill No. 1187 authorized the extension of water and sewer lines to the
+proposed University of Maryland Shore Regional Medical Center hospital site between
+Longwoods Road and U.S. Route 50.
+
+NOW, THEREFORE, BE IT ENACTED BY the County Council of Talbot County,
+Maryland, as follows:
+
+SECTION 1: The extension of water and sewer lines to the proposed University of
+Maryland Shore Regional Medical Center hospital site between Longwoods Road
+(Maryland Rt. 662) and U.S. Route 50 is hereby authorized as a capital project. The scope
+of work includes, but is not limited to, the design, engineering and construction of water
+and sewer line extensions to the proposed Regional Medical Center.
+
+SECTION 2: The Talbot County Council is hereby authorized to expend up to $7,950,000
+for this project. The project will be funded by $6,000,000 in long-term borrowing and
+$1,950,000 from the Capital Projects Fund. This represents an increase of $1,950,000 over
+prior year authorizations. The increase will be funded by additional funds from the Capital
+Projects Fund of $1,950,000.
+
+SECTION 3: This Bill will take effect sixty (60) calendar days from the date of enactment.
+
+<!-- page 18 -->
+PUBLIC HEARING
+
+Having been posted and Notice of time, date, and place of hearing, and Title of Bill No.
+1536 having been published, a public hearing was held on Tuesday, July 11, 2023 at 5:30
+p.m. in the Bradley Meeting Room, South Wing, Talbot County Courthouse, 11 North
+Washington Street, Easton, Maryland 21601.
+
+BY THE COUNCIL
+
+Read the third time.
+
+ENACTED: July 25,2023
+
+By Order Shaw W. Moray
+
+Susan W. Moran, Secretary
+
+Callahan - Aye
+
+Stepp - Aye (via absentee ballot)
+Lesher - Aye
+Mielke - Aye
+Haythe - Aye
+
+EFFECTIVE: September 23, 2023
+
+<!-- page 19 -->
+COUNTY COUNCIL
+OF
+
+TALBOT COUNTY, MARYLAND
+
+2023 Legislative Session, Legislative Day No. : June 13, 2023
+BillNo.: 153
+
+Expiration Date: August 17, 2023
+
+Introduced by: Mr. Callahan, Ms. Haythe, Mr. Lesher, Ms. Mielke, Mr. Stepp
+
+A BILL TO AMEND BILL NOS. 1484 AND 1509 FOR THE PURPOSE OF
+AMENDING THE APPROPRIATION FOR A CAPITAL PROJECT FOR THE
+CONSTRUCTION OF EMERGENCY MEDICAL SERVICES STATIONS
+
+By the Council: June 13, 2023
+
+Introduced, read first time, ordered posted, and public hearing scheduled on Tuesday, July
+11, 2023 at 5:30 p.m. in the Bradley Meeting Room, South Wing, Talbot County
+Courthouse, 11 North Washington Street, Easton, Maryland 21601.
+
+By Order Sd W, Mt
+
+Secretary
+
+<!-- page 20 -->
+A BILL TO AMEND BILL NOS. 1484 AND 1509 FOR THE PURPOSE OF
+AMENDING THE APPROPRIATION FOR A CAPITAL PROJECT FOR THE
+CONSTRUCTION OF EMERGENCY MEDICAL SERVICES STATIONS
+
+WHEREAS, Bill Nos. 1484 and 1509 authorized the acquisition, renovation and/or
+construction of Emergency Medical Services (EMS) Stations in Talbot County.
+
+NOW, THEREFORE, BE IT ENACTED BY the County Council of Talbot County,
+Maryland, as follows:
+
+SECTION 1: The acquisition, renovation and/or construction of Emergency Medical
+Services (EMS) Stations in Talbot County is hereby authorized as a capital project. The
+scope of work includes, but is not limited to, acquisition of a site and/or building, the
+planning, design, preparation of construction/renovation documents, — the
+construction/renovation of the facility and equipping of EMS stations for the northern and
+Bay Hundred areas of Talbot County. Approval of this capital project includes
+authorization to expend funds, not to exceed the total amount of the appropriation, for all
+associated transactional costs and for incidental and customary costs and charges
+associated with, and reasonably required for, acquisition, planning, design, engineering,
+construction/renovation and equipping necessary for the completion of the project.
+
+SECTION 2: The County Council of Talbot County is hereby authorized to expend up to
+$3,005,000 in funding from the Capital Projects Fund for this project. Acceptance of
+federal and State grant funds, and the use of funds in the Capital Projects Fund is hereby
+authorized. This project will be funded by approximately $1,000,000 of federal and State
+grants and $2,005,000 of funds from the Capital Projects Fund. This represents an increase
+of $800,000 over prior authorizations. The increase will be funded by additional funds
+from the Capital Projects Fund of $800,000.
+
+SECTION 3: This Bill will take effect sixty (60) calendar days from the date of enactment.
+
+<!-- page 21 -->
+PUBLIC HEARING
+
+Having been posted and Notice of time, date, and place of hearing, and Title of Bill No.
+1537 having been published, a public hearing was held on Tuesday, July 11, 2023 at 5:30
+p.m. in the Bradley Meeting Room, South Wing, Talbot County Courthouse, 11 North
+Washington Street, Easton, Maryland 21601.
+
+BY THE COUNCIL
+
+Read the third time.
+
+ENACTED: July 25,2023
+
+by ower Sudan Weed’
+
+Susan W. Moran, Secretary
+
+Callahan - Aye
+
+Stepp - Aye (via absentee ballot)
+Lesher - Aye
+Mielke - Aye
+Haythe - Aye
+
+EFFECTIVE: September 23, 2023
+
+<!-- page 22 -->
+COUNTY COUNCIL
+OF
+
+TALBOT COUNTY, MARYLAND
+
+2023 Legislative Session, Legislative Day No. : June 13, 2023
+Bill No.: 1538
+
+Expiration Date: August 17, 2023
+
+Introduced by: Mr. Callahan, Mr. Stepp
+
+A BILL TO AUTHORIZE IMPROVEMENTS TO AND EXPANSION OF THE
+CHAPEL DISTRICT ELEMENTARY SCHOOL
+
+By the Council: June 13, 2023
+
+Introduced, read first time, ordered posted, and public hearing scheduled on Tuesday, July
+11, 2023 at 5:30 p.m. in the Bradley Meeting Room, South Wing, Talbot County
+Courthouse, 11 North Washington Street, Easton, Maryland 21601.
+
+By Order Suddwl! i Mth
+
+Secretary
+
+<!-- page 23 -->
+A BILL TO AUTHORIZE IMPROVEMENTS TO AND EXPANSION OF THE
+CHAPEL DISTRICT ELEMENTARY SCHOOL
+
+BE IT ENACTED BY the County Council of Talbot County, Maryland, as follows:
+
+SECTION 1: The improvements to and expansion of the Chapel District Elementary
+School is hereby authorized as a capital project. The scope of work includes, but is not
+limited to, engineering and architectural services associated with design and preparation
+phases, construction, and furnishings. Approval of this capital project includes
+authorization to expend funds, not to exceed the total amount of the appropriation, for all
+incidental and customary costs and charges reasonably necessary for the completion of the
+project.
+
+SECTION 2: The Talbot County Council is hereby authorized to expend up to $900,000
+for this project. The project will be funded by $900,000 in funds from the Capital Projects
+Fund.
+
+SECTION 3: This Bill will take effect sixty (60) calendar days from the date of enactment.
+
+<!-- page 24 -->
+PUBLIC HEARING
+
+Having been posted and Notice of time, date, and place of hearing, and Title of Bill No.
+1538 having been published, a public hearing was held on Tuesday, July 11, 2023 at 5:30
+p.m. in the Bradley Meeting Room, South Wing, Talbot County Courthouse, 11 North
+Washington Street, Easton, Maryland 21601.
+
+BY THE COUNCIL
+
+Read the third time.
+
+ENACTED: August 8, 2023
+
+By Order Syuoauh!: Mora
+
+Susan W. Moran, Secretary
+
+Callahan- = Aye
+
+Stepp - Aye (via absentee ballot)
+Lesher - Aye
+Mielke - Aye
+Haythe- Aye
+
+EFFECTIVE: October 7, 2023
+
+<!-- page 25 -->
+COUNTY COUNCIL
+OF
+
+TALBOT COUNTY, MARYLAND
+
+2023 Legislative Session, Legislative Day No. : June 13,2023
+Bill No. 153
+
+Expiration Date: | August 17, 2023
+
+Introduced by: Mr. Callahan, Ms. Haythe, Mr. Lesher, Ms. Mielke, Mr. Stepp
+
+A BILL TO AUTHORIZE THE CONSTRUCTION OF AND IMPROVEMENTS
+TO A DRIVING RANGE COMPLEX AT THE TALBOT COUNTY HOG NECK
+GOLF COURSE
+
+By the Council: June 13, 2023
+
+Introduced, read first time, ordered posted, and public hearing scheduled on Tuesday, July
+11, 2023 at 5:30 p.m. in the Bradley Meeting Room, South Wing, Talbot County
+Courthouse, 11 North Washington Street, Easton, Maryland 21601.
+
+Secretary
+
+<!-- page 26 -->
+A BILL TO AUTHORIZE THE CONSTRUCTION OF AND IMPROVEMENTS
+TO A DRIVING RANGE COMPLEX AT THE TALBOT COUNTY HOG NECK
+GOLF COURSE
+
+BE IT ENACTED BY the County Council of Talbot County, Maryland, as follows:
+
+SECTION 1: The construction of and improvements to a driving range complex at the
+Talbot County Hog Neck Golf Course is hereby authorized as a capital project. The scope
+of work includes, but is not limited to, the planning, design, preparation of construction
+documents, construction, software and hardware installation, and furnishing necessary to
+convert and upgrade the existing driving range. Approval of this capital project includes
+authorization to expend funds, not to exceed the total amount of the appropriation, for all
+incidental and customary costs and charges associated with, and reasonably necessary for,
+completion of the project.
+
+SECTION 2: The Talbot County Council is hereby authorized to expend up to $2,420,000
+for this project upon completion of a third-party feasibility study and analysis. The project
+will be funded by $2,420,000 in funds from the Recreation Fund that were made available
+through a transfer from the Talbot County General Fund.
+
+SECTION 3: This Bill will take effect sixty (60) calendar days from the date of enactment.
+
+<!-- page 27 -->
+PUBLIC HEARING
+
+Having been posted and Notice of time, date, and place of hearing, and Title of Bill No.
+1539 having been published, a public hearing was held on Tuesday, July 11, 2023 at 5:30
+p.m. in the Bradley Meeting Room, South Wing, Talbot County Courthouse, 11 North
+Washington Street, Easton, Maryland 21601.
+
+BY THE COUNCIL
+
+Read the third time.
+
+ENACTED: July 25, 2023
+
+By Order aM W. Von WW
+
+Susan W. Moran, Secretary
+
+Callahan - Aye
+
+Stepp - Aye (via absentee ballot)
+Lesher - Aye
+Mielke - Aye
+Haythe - Aye
+
+EFFECTIVE: September 23, 2023
+
+<!-- page 28 -->
+COUNTY COUNCIL
+OF
+
+TALBOT COUNTY, MARYLAND
+
+2023 Legislative Session, Legislative Day No. : June 13, 2023
+
+Bill No.: 1540
+
+Expiration Date: August 17, 2023
+
+Introduced by: Mr. Callahan, Ms. Haythe, Mr. Lesher, Ms. Mielke, Mr. Stepp
+
+A BILL TO AMEND BILL NO. 1460 FOR THE PURPOSE OF AMENDING THE
+APPROPRIATION FOR A GYMNASIUM ADDITION TO THE TALBOT
+COUNTY COMMUNITY CENTER
+
+By the Council: June 13, 2023
+
+Introduced, read first time, ordered posted, and public hearing scheduled on Tuesday, July
+11, 2023 at 5:30 p.m. in the Bradley Meeting Room, South Wing, Talbot County
+Courthouse, 11 North Washington Street, Easton, Maryland 21601.
+
+By Order Suda W. Maw
+
+Secretary
+
+<!-- page 29 -->
+A BILL TO AMEND BILL NO. 1460 FOR THE PURPOSE OF AMENDING THE
+APPROPRIATION FOR A GYMNASIUM ADDITION TO THE TALBOT
+COUNTY COMMUNITY CENTER
+
+WHEREAS, Bill No. 1460 authorized the addition of a gymnasium to the Talbot County
+Community Center.
+
+NOW, THEREFORE, BE IT ENACTED BY the County Council of Talbot County,
+Maryland, as follows:
+
+SECTION 1: The addition of a gymnasium to the Talbot County Community Center is
+hereby authorized as a capital project. The scope of work includes, but is not limited to,
+the planning, design, preparation of construction documents, construction and furnishing
+of a new gymnasium, and the cost of issuance of any bonds needed to finance the project.
+Approval of this capital project includes authorization to expend funds, not to exceed the
+total amount of the appropriation, for all incidental and customary costs and charges
+associated with and reasonably necessary for completion of the project.
+
+SECTION 2: The Talbot County Council is hereby authorized to expend up to $5,000,000
+for the project. Borrowing to finance this capital project and the acceptance of federal and
+State grants for this project is hereby authorized. The project will be funded by federal and
+State grants of approximately $2,450,000, long-term borrowing of approximately
+$2,385,000, and approximately $165,000 in funds from the Recreation Fund, and any
+contributions received for the project. This represents an increase of $1,000,000 over prior
+authorizations. The increase is funded by additional federal and State grants of $1,000,000.
+
+SECTION 3: This Bill will take effect sixty (60) calendar days from the date of enactment.
+
+<!-- page 30 -->
+PUBLIC HEARING
+
+Having been posted and Notice of time, date, and place of hearing, and Title of Bill No.
+1540 having been published, a public hearing was held on Tuesday, July 11, 2023 at 5:30
+p.m. in the Bradley Meeting Room, South Wing, Talbot County Courthouse, 11 North
+Washington Street, Easton, Maryland 21601.
+
+BY THE COUNCIL
+
+Read the third time.
+
+ENACTED: July 25, 2023
+
+By Order ShauWwiotn/
+
+Susan W. Moran, Secretary
+
+Callahan - Aye
+
+Stepp - Aye (via absentee ballot)
+Lesher - Aye
+Mielke - Aye
+Haythe - Aye
+
+EFFECTIVE: September 23, 2023
+
+<!-- page 31 -->
+COUNTY COUNCIL
+OF
+
+TALBOT COUNTY, MARYLAND
+
+2023 Legislative Session, Legislative Day No. : June 13, 2023
+
+Bill No. 1541
+
+Expiration Date: | August 17. 2023
+
+Introduced by: Mr. Callahan, Ms. Haythe, Mr. Lesher, Ms. Mielke, Mr. Stepp
+
+A BILL TO AMEND BILL NO. 1506 FOR THE PURPOSE OF AUTHORIZING
+THE APPROPRIATION FOR IMPROVEMENTS TO COUNTY ROADS
+
+By the Council: June 13, 2023
+
+Introduced, read first time, ordered posted, and public hearing scheduled on Tuesday.
+Tuesday, July 11, 2023 at 5:30 p.m. in the Bradley Meeting Room, South Wing, Talbot
+County Courthouse, 11 North Washington Street, Easton, Maryland 21601.
+
+By Order Suda W. Mov
+
+Secretary
+
+<!-- page 32 -->
+A BILL TO AMEND BILL NO. 1506 FOR THE PURPOSE OF AUTHORIZING
+THE APPROPRIATION FOR IMPROVEMENTS TO COUNTY ROADS
+
+WHEREAS, Bill No. 1506 authorized improvements to County roads.
+
+NOW, THEREFORE, BE IT ENACTED BY the County Council of Talbot County,
+Maryland, as follows:
+
+SECTION 1: Improvements to County roads is hereby authorized as a capital project. The
+scope of work includes, but is not limited to, surveying, drainage improvements, surface
+upgrades, and construction and widening of roadways to improve traffic safety. Approval
+of this capital project includes authorization to expend funds, not to exceed the total amount
+of the appropriation, for all associated transactional costs and for incidental and customary
+costs and charges associated with, and reasonably required for, planning, design,
+construction and completion of the project.
+
+SECTION 2: The County Council of Talbot County is hereby authorized to expend up to
+$1,000,000 for this project. The project will be funded by $1,000,000 in funds from the
+Capital Projects Fund. This represents an increase of $500,000 over prior year
+authorizations. The increase will be funded by additional funds from the Capital Projects
+Fund of $500,000.
+
+SECTION 3: This Bill will take effect sixty (60) calendar days from the date of enactment.
+
+<!-- page 33 -->
+PUBLIC HEARING
+
+Having been posted and Notice of time, date, and place of hearing, and Title of Bill No.
+1541 having been published, a public hearing was held on Tuesday, July 11, 2023 at 5:30
+p.m. in the Bradley Meeting Room, South Wing, Talbot County Courthouse, 11 North
+Washington Street, Easton, Maryland 21601.
+
+BY THE COUNCIL
+
+Read the third time.
+
+ENACTED: July 25, 2023
+
+By Order isan WMotan/
+
+Susan W. Moran, Secretary
+
+Callahan - Aye
+
+Stepp - Aye (via absentee ballot)
+Lesher - Aye
+Mielke - Aye
+Haythe - Aye
+
+EFFECTIVE: September 23, 2023
+
+<!-- page 34 -->
+COUNTY COUNCIL
+OF
+
+TALBOT COUNTY, MARYLAND
+
+2023 Legislative Session, Legislative Day No. : June 13, 2023
+BillNo.: 1542
+
+Expiration Date: August 17, 2023
+
+Introduced by: Mr. Callahan, Ms. Haythe, Mr. Lesher, Ms. Mielke, Mr. Stepp
+
+A BILL TO AMEND BILL NO. 1505 FOR THE PURPOSE OF AUTHORIZING
+THE APPROPRIATION FOR REPLACEMENT OF THE 911 DIVISION
+COMPUTER AIDED DISPATCH (CAD) SYSTEM
+
+By the Council: June 13, 2023
+
+Introduced, read first time, ordered posted, and public hearing scheduled on Tuesday, July
+11, 2023 at 5:30 p.m. in the Bradley Meeting Room, South Wing, Talbot County
+Courthouse, 11 North Washington Street, Easton, Maryland 21601.
+
+By Order SubawW. Mtv,
+
+Secretary
+
+<!-- page 35 -->
+A BILL TO AMEND BILL NO. 1505 FOR THE PURPOSE OF AUTHORIZING
+THE APPROPRIATION FOR REPLACEMENT OF THE 911 DIVISION
+COMPUTER AIDED DISPATCH (CAD) SYSTEM
+
+WHEREAS, Bill No. 1505 authorized the study for the replacement of the 911 Division
+Computer Aided Dispatch (CAD) System.
+
+NOW, THEREFORE, BE IT ENACTED BY the County Council of Talbot County,
+Maryland, as follows:
+
+SECTION 1: The replacement of the 911 Division Computer Aided Dispatch (CAD)
+System is hereby authorized as a capital project. The scope of work originally included,
+but was not limited to, the hiring of a consultant to design a new CAD system for Talbot
+County, prepare bid documents for a new CAD System, and evaluate responses to the bids
+received for the replacement of the CAD System. The scope of work is extended to include,
+but will not be limited to, the design and implementation of system hardware and software,
+and any corresponding third-party consultation costs necessary for the replacement of the
+911 Division CAD System. Approval of this capital project includes authorization to
+expend funds, not to exceed the total amount of the appropriation, for all associated
+transactional costs and for incidental and customary costs and charges associated with and
+reasonably required for planning, design and completion of the project.
+
+SECTION 2: The County Council of Talbot County is hereby authorized to expend up to
+$687,430 for this project. The project will be funded by Development Impact Fees of
+$550,000 and $137,430 in funds from the Capital Projects Fund. This represents an
+increase of $550,000 over prior year authorizations. The increase will be funded by
+Development Impact Fees of $550,000.
+
+SECTION 3: This Bill will take effect sixty (60) calendar days from the date of enactment.
+
+<!-- page 36 -->
+PUBLIC HEARING
+
+Having been posted and Notice of time, date, and place of hearing, and Title of Bill No.
+1542 having been published, a public hearing was held on Tuesday, July 11, 2023 at 5:30
+p.m. in the Bradley Meeting Room, South Wing, Talbot County Courthouse, 11 North
+Washington Street, Easton, Maryland 21601.
+
+BY THE COUNCIL
+
+Read the third time.
+
+ENACTED: July 25, 2023
+
+By order OMAAM NV. MEL
+
+Susan W. Moran, Secretary
+
+Callahan - Aye
+
+Stepp - Aye (via absentee ballot)
+Lesher - Aye
+Mielke - Aye
+Haythe - Aye
+
+EFFECTIVE: September 23, 2023
+
+<!-- page 37 -->
+COUNTY COUNCIL
+OF
+
+TALBOT COUNTY, MARYLAND
+
+2023 Legislative Session, Legislative Day No. : June 13, 2023
+Bill No.: 1543
+
+Expiration Date: | August 17, 2023
+
+Introduced by: Mr. Callahan, Ms. Haythe, Mr. Lesher, Ms. Mielke, Mr. Stepp
+
+A BILL TO AUTHORIZE REPLACEMENT OF THE ROOF AT THE WHITE
+MARSH ELEMENTARY SCHOOL
+
+By the Council: June 13, 2023
+
+Introduced, read first time, ordered posted, and public hearing scheduled on Tuesday, July
+11, 2023 at 5:30 p.m. in the Bradley Meeting Room, South Wing, Talbot County
+Courthouse, 11 North Washington Street, Easton, Maryland 21601.
+
+By onser_ Suda Ml, Move
+
+Secretary
+
+<!-- page 38 -->
+A BILL TO AUTHORIZE REPLACEMENT OF THE ROOF AT THE WHITE
+MARSH ELEMENTARY SCHOOL
+
+BE IT ENACTED BY the County Council of Talbot County, Maryland, as follows:
+
+SECTION 1: The replacement of the roof at the White Marsh Elementary School is hereby
+authorized as a capital project. The scope of work includes, but is not limited to,
+engineering and construction services associated with design, preparation, and completion
+for replacement of the roof at the White Marsh Elementary School. Approval of this capital
+project includes authorization to expend funds, not to exceed the total amount of the
+appropriation, for all incidental and customary costs and charges reasonably necessary for
+the completion of the project.
+
+SECTION 2: The Talbot County Council is hereby authorized to expend up to $860,000
+for this project. The project will be funded by Development Impact Fees of $160,000 and
+$700,000 in funds from the Capital Projects Fund.
+
+SECTION 3: This Bill will take effect sixty (60) calendar days from the date of enactment.
+
+<!-- page 39 -->
+PUBLIC HEARING
+
+Having been posted and Notice of time, date, and place of hearing, and Title of Bill No.
+1543 having been published, a public hearing was held on Tuesday, July 11, 2023 at 5:30
+p.m. in the Bradley Meeting Room, South Wing, Talbot County Courthouse, 11 North
+Washington Street, Easton, Maryland 21601.
+
+BY THE COUNCIL
+
+Read the third time.
+
+ENACTED: July 25, 2023
+
+By Order udu W ‘ Mitte
+
+Susan W. Moran, Secretary
+
+Callahan - Aye
+
+Stepp - Aye (via absentee ballot)
+Lesher - Aye
+Mielke - Aye
+Haythe - Aye
+
+EFFECTIVE: September 23, 2023

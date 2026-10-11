@@ -31,7 +31,9 @@ added=$(git diff --cached --name-only --diff-filter=A -- '*/Code/*' '*/Documents
   if [ -n "$changed" ] && git rev-parse -q --verify HEAD >/dev/null; then
     echo "- Files whose content changed: $(echo "$changed" | wc -l | tr -d ' ')"
     echo
-    echo "$changed" | git diff --cached --name-only --diff-filter=M "${NOISE[@]}" --pathspec-from-file=- | while read -r f; do
+    echo "$changed" | while read -r f; do
+      [ -n "$f" ] || continue
+      [ "$(git diff --cached --name-status -- "$f" | cut -f1)" = "M" ] || continue
       echo "### $f"
       echo '```diff'
       git diff --cached -U1 "${NOISE[@]}" -- "$f" | grep -E '^[-+][^-+]' | head -60

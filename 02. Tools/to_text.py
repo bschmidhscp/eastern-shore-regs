@@ -1,14 +1,17 @@
 """Convert downloaded documents (PDF, DOCX, XLSX) to searchable markdown.
 
 For every manifest row of a county whose file is a document and has no text_path yet
-(or --force), writes <County>/Documents/<Kind>/<name>.md (minutes go to <County>/Meeting Minutes/Text/)
+(or --force), writes a markdown copy that mirrors the Originals folder:
+  <County>/Originals/<Sub>/<name>.pdf                 -> <County>/Documents/<Sub>/<name>.md
+  <County>/Originals/Meeting Minutes/<Body>/<name>   -> <County>/Meeting Minutes/<Body>/<name>.md
 with front matter and "<!-- page N -->" markers, and records text_path in the manifest.
 
 Pages with almost no extractable text are flagged needs_ocr (scanned) so they can be OCR'd later.
 
-Usage: python -I "02. Tools/to_text.py" --county Talbot [--force] [--only <substring of path>]
+Usage: python -I "02. Tools/to_text.py" --county Talbot [--force] [--only <substring of path>] [--workers 8]
 """
 import argparse
+from concurrent.futures import ProcessPoolExecutor
 import subprocess
 import sys
 from pathlib import Path
@@ -19,7 +22,8 @@ import pymupdf4llm
 sys.path.insert(0, str(Path(__file__).parent))
 from common import CORPUS, KIND_FOLDER, county_dir, county_name, read_manifest, upsert_manifest, write_md  # noqa: E402
 
-DOC_EXT = {".pdf", ".docx", ".doc", ".xlsx", ".xls", ".rtf", ".txt"}
+DOC_EXT = {".pdf", ".docx", ".doc", ".xlsx", ".xls", ".rtf", ".txt", ".html"}
+LAYOUT_MAX_PAGES = 60  # table-aware conversion is slow; long plans use plain text
 
 
 def pdf_text(p):
@@ -27,7 +31,7 @@ def pdf_text(p):
     doc = fitz.open(p)
     n = len(doc)
     try:
-        if n > 600:
+        if n > LAYOUT_MAX_PAGES:
             raise ValueError("too long for layout mode")
         chunks = pymupdf4llm.to_markdown(doc, page_chunks=True, show_progress=False)
         texts = [c["text"].strip() for c in chunks]
@@ -54,18 +58,48 @@ def office_text(p):
         return "\n".join(out), 0, 0
     if p.suffix.lower() == ".txt":
         return p.read_text(errors="replace"), 0, 0
+    if p.suffix.lower() == ".html":
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup(p.read_text(errors="replace"), "lxml")
+        for t in soup(["script", "style"]):
+            t.decompose()
+        return "\n".join(l.strip() for l in soup.get_text("\n").splitlines() if l.strip()), 0, 0
     r = subprocess.run(["pandoc", str(p), "-t", "gfm", "--wrap=none"], capture_output=True, text=True)
     return (r.stdout if r.returncode == 0 else f"*(conversion failed: {r.stderr[:200]})*"), 0, 0
 
 
 def target_for(row):
-    base = CORPUS / Path(row["path"]).parts[0]
-    cat = row["category"] or "other"
-    name = Path(row["path"]).stem
-    if cat in ("minutes", "agenda", "staff-report"):
-        return base / "Meeting Minutes" / "Text" / f"{name}.md"
-    sub = "Code Attachments" if cat == "code" else KIND_FOLDER.get(cat, cat.title())
+    parts = Path(row["path"]).parts  # <County>/Originals/<Sub...>/<file>
+    base, name = CORPUS / parts[0], Path(row["path"]).stem
+    sub = Path(*parts[2:-1]) if len(parts) > 3 and parts[1] == "Originals" else Path(
+        KIND_FOLDER.get(row["category"] or "other", "Other"))
+    if sub.parts and sub.parts[0] == "Meeting Minutes":
+        return base / sub / f"{name}.md"
     return base / "Documents" / sub / f"{name}.md"
+
+
+def convert(item):
+    """Worker: convert one document; returns (path, updated_row or None, flagged, error)."""
+    path, row = item
+    src = CORPUS / path
+    try:
+        if src.suffix.lower() == ".pdf":
+            text, pages, empty = pdf_text(src)
+        else:
+            text, pages, empty = office_text(src)
+    except Exception as e:
+        return path, None, False, str(e)
+    needs_ocr = pages > 0 and empty / pages > 0.5
+    dest = target_for(row)
+    meta = dict(county=row["county"], category=row["category"], title=row["title"],
+                source_url=row["source_url"], effective=row["effective"],
+                retrieved=row["retrieved"], original=path, pages=pages,
+                needs_ocr="yes" if needs_ocr else "no")
+    write_md(dest, meta, f"# {row['title']}\n\n{text}")
+    notes = row.get("notes", "")
+    if needs_ocr and "needs_ocr" not in notes:
+        notes = (notes + "; needs_ocr").strip("; ")
+    return path, {**row, "text_path": str(dest.relative_to(CORPUS)), "notes": notes}, needs_ocr, None
 
 
 def main():
@@ -73,10 +107,11 @@ def main():
     ap.add_argument("--county", required=True)
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--only")
+    ap.add_argument("--workers", type=int, default=8)
     a = ap.parse_args()
 
     rows = read_manifest(a.county)
-    updated, flagged = [], []
+    todo = []
     for path, row in rows.items():
         src = CORPUS / path
         if src.suffix.lower() not in DOC_EXT or not src.exists():
@@ -85,29 +120,26 @@ def main():
             continue
         if row.get("text_path") and not a.force and (CORPUS / row["text_path"]).exists():
             continue
-        try:
-            if src.suffix.lower() == ".pdf":
-                text, pages, empty = pdf_text(src)
-            else:
-                text, pages, empty = office_text(src)
-        except Exception as e:
-            print("  ! failed", path, e)
-            continue
-        needs_ocr = pages > 0 and empty / pages > 0.5
-        dest = target_for(row)
-        meta = dict(county=row["county"], category=row["category"], title=row["title"],
-                    source_url=row["source_url"], effective=row["effective"],
-                    retrieved=row["retrieved"], original=path, pages=pages,
-                    needs_ocr="yes" if needs_ocr else "no")
-        write_md(dest, meta, f"# {row['title']}\n\n{text}")
-        notes = row.get("notes", "")
-        if needs_ocr and "needs_ocr" not in notes:
-            notes = (notes + "; needs_ocr").strip("; ")
-            flagged.append(path)
-        updated.append({**row, "text_path": str(dest.relative_to(CORPUS)), "notes": notes})
+        todo.append((path, row))
+    print(f"{len(todo)} documents to convert", flush=True)
+
+    updated, flagged, done = [], [], 0
+    with ProcessPoolExecutor(a.workers) as ex:
+        for path, new, ocr, err in ex.map(convert, todo, chunksize=2):
+            done += 1
+            if err:
+                print("  ! failed", path, err, flush=True)
+                continue
+            updated.append(new)
+            if ocr:
+                flagged.append(path)
+            if done % 50 == 0:
+                print(f"  {done}/{len(todo)}", flush=True)
+                upsert_manifest(a.county, updated)
+                updated = []
     if updated:
         upsert_manifest(a.county, updated)
-    print(f"converted {len(updated)} documents; {len(flagged)} look scanned (needs_ocr)")
+    print(f"converted {done - 0} documents; {len(flagged)} look scanned (needs_ocr)")
     for f in flagged:
         print("   needs_ocr:", f)
 

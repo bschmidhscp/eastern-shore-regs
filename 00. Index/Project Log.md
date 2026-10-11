@@ -7,23 +7,24 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 | Area | Status |
 |---|---|
-| Talbot — county code | ✅ Complete (eCode360, legislation through 2025-12-09; 905 sections) |
+| Talbot — county code | ✅ Complete (eCode360; includes bills through 1624, Mar 2026; 3 later bills listed in Code/00. Amendments Not Yet in Code.md) |
 | Talbot — map data | ✅ 30 layers downloaded; point lookup tool working |
-| Talbot — fee schedules | ⚠️ Have FY2026 only; FY2027 (effective 2026-07-01) still to find |
-| Talbot — comprehensive plan, W&S plan | ⏳ In progress (county website being inventoried) |
-| Talbot — 2026 Council bills | ⏳ In progress |
-| Talbot — meeting minutes | ⏳ Not started |
+| Talbot — fee schedules | ⚠️ FY2026 only — county hasn't posted FY27; FY27 impact fees rose automatically (waiver failed 2-2, 2026-07-14) |
+| Talbot — plans | ✅ 2016 Comp Plan + 12 village plans + 2 master plans; ⚠️ 2026 update not yet adopted/posted; no current CWSP document online (amendments only) |
+| Talbot — legislation | ✅ 141 bills + 208 resolutions (2022–2026), indexed |
+| Talbot — meetings & decisions | ✅ PC minutes (36, Oct 2023–), Council minutes (79), 159 Board of Appeals decisions, 26 pre-app agendas — all digested |
+| Talbot — summary (layer 1) | ✅ `Talbot/00. Summary.md` |
 | Statewide rules (COMAR etc.) | ⏳ Not started |
 | Other 8 counties | ⏳ After Talbot pilot is reviewed |
 | County comparison table | ⏳ After counties are collected |
 
 ## Open questions / watch items
 
-- **Talbot 2026 Comprehensive Plan update** — Council action was scheduled for October 2026. Confirm
-  whether adopted; the new plan may change growth areas and densities.
-- **Bill 1627** (amends Ch. 190, release of reserved land agreements for MALPF) — hearing 2026-06-30;
-  outcome unknown. Not in the eCode360 text.
-- Any other 2026 Council bills amending Ch. 190 after 2025-12-09.
+- **Talbot 2026 Comprehensive Plan update** — drafts in work sessions Aug–Sep 2026; adoption not yet
+  found. May change growth areas and densities.
+- **FY27 fee schedules** — not posted; impact fees rose by the automatic ENR adjustment.
+- **Septic Tier IV ceiling** — code implies max 7 lots on septic (small-scale); confirm with staff.
+- **Minor-subdivision timelines** — decided by the Planning Director, not minuted; ask staff/engineers.
 
 ## Key findings so far
 
@@ -42,6 +43,20 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-11 (later) — Talbot documents, digests and summary (Brian + Claude)
+- Found Talbot's open upload-folder index (1,830 files) and its Granicus meeting archive; pulled 715
+  documents: 141 bills, 208 resolutions, 79 Council minutes, 36 PC minutes, 159 Board of Appeals
+  decisions, 26 pre-app agendas, comp/village/master plans, fees, septic/BRF, application forms.
+- Converted all to text; OCR'd 246 scanned PDFs; search index now 1,629 files.
+- Built layered access so nobody needs to read raw documents: `Talbot/00. Summary.md` (layer 1) and
+  `Talbot/01. Digests/` (layer 2: legislation index, 211 PC actions, 151 appeals, 305 council
+  land-use actions, 112 pre-app projects). Digests made by Haiku agents; summary by Sonnet, spot-checked.
+- Findings: Board of Appeals granted 147/151 (123 with conditions); PC approved/recommended 129 items vs
+  4 denials, 43 continuances; 66 water-sewer plan amendments in 3 years (many for existing homes, not
+  new lots); only 9 major subdivisions at PC in 3 years; Bill 1627 enacted (eff. 2026-09-12).
+- **Next:** statewide rules (`01. Maryland/`), then review the Talbot pilot with Brian/Ben before
+  fanning out to the other 8 counties — each in a fresh session.
 
 ### 2026-10-11 — Corpus setup and Talbot pilot (Brian + Claude)
 - Decided scope: all 9 Eastern Shore counties; towns deferred. Talbot as pilot to settle format and cost.
