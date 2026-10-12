@@ -89,6 +89,8 @@ def get(url, retries=4, **kw):
             if r.status_code == 200:
                 return r
             last = RuntimeError(f"HTTP {r.status_code} for {url}")
+            if r.status_code in (400, 401, 403, 404, 410):  # permanent: don't waste time retrying
+                break
             if r.status_code in (429, 503):  # rate-limited: honor Retry-After, else back off hard
                 ra = r.headers.get("retry-after", "")
                 time.sleep(int(ra) if ra.isdigit() else 30 * (i + 1))

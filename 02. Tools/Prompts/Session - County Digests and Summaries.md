@@ -11,6 +11,11 @@ Dorchester, Wicomico, Somerset and Worcester. For each county, finish the AI ste
 
 1. Review `<County>/02. Coverage Report.md`; fix obvious gaps (a missing key document listed in
    `02. Tools/County Configs/<County>.json` → add it with fetch_list.py). Note what can't be found.
+   **Fees are the priority gap:** for every county confirm (a) whether it charges a development impact fee or
+   excise tax on new homes and the current per-home amount, and (b) the current planning/subdivision fee
+   schedule and its fiscal year (FY27 = effective July 1, 2026). Search the county code (fees/taxation
+   chapters), budget ordinances/resolutions, and the county website; record the result in the summary and
+   Key Metrics, or "not found — confirm with county". Statewide rules are in `01. Maryland/00. Summary.md`.
 2. Digests: batch lists are in `~/.cache/esl/<County>/digest/*.txt` (pc = Planning Commission minutes,
    boa/boam = Board of Appeals decisions/minutes, council/commissioners = filtered governing-body minutes,
    preapp, tac). Launch one Haiku subagent per batch with `02. Tools/Prompts/Digest Instructions.md`

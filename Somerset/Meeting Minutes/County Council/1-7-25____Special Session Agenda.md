@@ -1,0 +1,35 @@
+---
+county: "Somerset"
+category: "minutes"
+title: "1-7-25____Special Session Agenda"
+source_url: "https://www.somersetmd.us/document_center/Agendas/SpecialSessions/2025/1-7-25____Special Session Agenda.pdf?t=202501071331120"
+effective: "2025-01-07"
+retrieved: "2026-10-11"
+original: "Somerset/Originals/Meeting Minutes/County Council/1-7-25____Special Session Agenda.pdf"
+pages: "1"
+needs_ocr: "no"
+---
+
+# 1-7-25____Special Session Agenda
+
+<!-- page 1 -->
+<!-- Start of picture text -->
+fj Eley \s<br>ee)<br>to) rues fae]<br>OF (hy FY,<br><!-- End of picture text -->
+
+**BOARD OF COUNTY COMMISSIONERS** 
+
+**FOR SOMERSET COUNTY Special Session Meeting 11916 Somerset Avenue Room 111/Meeting Room Princess Anne, MD  21853 January 7, 2025 2:00 p.m.** 
+
+**Appointment:** 
+
+- 2:00 p.m. – Mr. Jesse Drewer (DTCS), Ms. Yvette Cross (Emergency Services), Ms. Kim Hopkins (Eastern Shore Long Term Recovery Committee) 
+
+   - Maryland Department of Emergency Management (MDEM) Flood Mitigation Assistance (FMA) Grant 
+
+**Public Comments:** Members of the audience who have signed up to address the Board will be permitted to do so at this time and allotted 5 minutes. 
+
+# **2:15 p.m.  - Closed Session- Mr. Ralph D. Taylor, Mr. Ernest Leatherbury, Ms. Jamie Manaia, Mr. Scott Sturgis, Ms. Yvette Cross, Mr. Woody Barnes** 
+
+Authority of the General Provisions Article of the Annotated Code of Maryland § 3-305 (b)(1) the appointment, employment, assignment, promotion, discipline, demotion, compensation, removal, resignation, or performance evaluation of an appointee, employee, or official over whom it has jurisdiction; (3) To consider the acquisition of real property for a public purpose and matters directly related thereto; and (8) To consult with staff, consultants, or other individuals about pending or potential litigation. 
+
+ _Denotes Action Item_

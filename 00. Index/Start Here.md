@@ -39,6 +39,7 @@ Each county folder has the same layout:
 <County>/
   00. Summary.md   layer-1 summary for small subdivisions (start here for a county)
   01. Digests/     one-line-per-item tables (legislation, PC actions, appeals, council, pre-apps)
+                   + Fee Findings.md (impact/excise fee, fee schedule and FY, septic/sewer charges, cited)
                    + Key Metrics.json (feeds the County Comparison)
   02. Coverage Report.md   what was found / missing for this county
   Code/            county code, one markdown file per section (e.g. Chapter 190/190-36.md);
@@ -60,7 +61,7 @@ Answer from the cheapest layer that can answer; go deeper only to verify.
 |---|---|---|
 | 0 | Orientation, status, decisions | this guide, the Project Log |
 | 1 | **County summary** — rules, fees, process, risks for small subdivisions, all cited (~2 pages) | `<County>/00. Summary.md` |
-| 2 | **Digests** — one line per item: Legislation Index, Planning Commission Actions, Board of Appeals Decisions, County Council Land-Use Actions, Pre-Application Projects | `<County>/01. Digests/` (.md and .csv) |
+| 2 | **Digests** — one line per item: Legislation Index, Planning Commission Actions, Board of Appeals Decisions, County Council / Commissioners Land-Use Actions, Pre-Application Projects, **Fee Findings** | `<County>/01. Digests/` (.md and .csv) |
 | 3 | Search — snippets with file + page | Drive full-text search or `02. Tools/search.py` |
 | 4 | Full code sections and documents — only to confirm a citation | `<County>/Code/`, `Documents/`, `Meeting Minutes/` |
 
@@ -105,12 +106,17 @@ The repo is public: never commit personal emails, credentials or confidential de
 2. Automated: `~/.venvs/esl/bin/python -I "02. Tools/run_county.py" --county <County>` — code, inventories,
    meetings, document selection, download, text + OCR, legislation index, digest batches, coverage report,
    search index. Progress log: `~/.cache/esl/<County>/run.log`.
-3. AI steps: Haiku digest agents per batch list (`02. Tools/Prompts/Digest Instructions.md`) →
+3. AI steps: Sonnet fees-and-gaps agent (`02. Tools/Prompts/Fees and Gaps Prompt.md`) → `01. Digests/Fee Findings.md`;
+   Haiku digest agents per batch list (`02. Tools/Prompts/Digest Instructions.md`) →
    `merge_digests.py`; Sonnet summary agent (`02. Tools/Prompts/County Summary Prompt.md`) writes
    `00. Summary.md` + `01. Digests/Key Metrics.json`; then `build_comparison.py`.
 4. Review `<County>/02. Coverage Report.md`, then publish guides and sync GitHub.
 
 Cross-county comparison: `00. Index/County Comparison.md` (one column per county).
+
+**Monthly refresh:** a scheduled task on Brian's machine (1st of each month, 6 AM) runs
+`02. Tools/refresh_all.sh` for every county, then logs what changed in the Project Log and the
+Change History. New minutes are downloaded but not digested until a digest pass is run.
 
 **Statewide layer (`01. Maryland/`):** `00. Summary.md` (layer 1, cited) → `Documents/<Topic>/` (one markdown file
 per COMAR chapter or statute range, plus agency guidance) → `Originals/<Topic>/`. Topics: Critical Area, Septic and

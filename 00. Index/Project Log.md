@@ -15,10 +15,23 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | Talbot — meetings & decisions | ✅ PC minutes (36, Oct 2023–), Council minutes (79), 159 Board of Appeals decisions, 26 pre-app agendas — all digested |
 | Talbot — summary (layer 1) | ✅ `Talbot/00. Summary.md` |
 | Statewide rules (COMAR etc.) | ✅ `01. Maryland/00. Summary.md` + 72 COMAR chapters / statute ranges and 69 agency guidance docs (retrieved 2026-10-11) |
-| Other 8 counties | ⏳ Pipeline built; sources being scouted |
-| County comparison table | 🟡 `00. Index/County Comparison.md` started (Talbot) |
+| Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico, Worcester | ✅ Documents, digests, Fee Findings, summary (layer 1), Key Metrics — 2026-10-11 |
+| Somerset | ⏳ Pipeline re-running (code is PDF only); digests and summary next |
+| County comparison table | 🟡 `00. Index/County Comparison.md` — 8 of 9 counties (Somerset pending) |
 
 ## Open questions / watch items
+
+- **Fees not posted for FY27** in Cecil (latest 2/2024), Kent (9/2024), Wicomico (planning section 2012–15), Worcester
+  (FY26), Queen Anne's (FY27 impact fee inferred from a State fiscal note) — confirm with each county before underwriting.
+- **Septic/perc fees, sewer connection charges and BAT costs** were not found for any county except Talbot (BAT) and
+  Kent/Cecil (sewer allocation) — call county health departments.
+- **Planning Commission / Board of Appeals records in Caroline, Dorchester and Cecil are mostly agendas** (no outcomes),
+  so approval rates there are unknown.
+- **Worcester never adopted septic tier maps:** Commissioners say a major subdivision on private septic is not
+  eligible (2025-11-04) — 6+ lots need public sewer there. Confirm.
+- **Pending local changes:** Dorchester Bill 2026-9 (RR lot sizes, not codified); Wicomico Critical Area rewrite
+  (Bill 2026-02) and comp plan update; Worcester 2026 comp plan (hearing 2026-10-06); Caroline 2026 comp plan (final
+  draft July 2026); Queen Anne's Res. 25-12 sewer moratorium (Kent Island) and Chapter 18:1 rewrite.
 
 - **Talbot 2026 Comprehensive Plan update** — drafts in work sessions Aug–Sep 2026; adoption not yet
   found. May change growth areas and densities.
@@ -47,6 +60,18 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Perc testing:** wet-season testing on high-water-table soils; 10,000 sf disposal area per lot.
 - **Ag transfer tax:** 3–5% plus a 25% surcharge when farm-assessed land leaves agricultural use.
 
+**Across counties (details in `00. Index/County Comparison.md` and each `<County>/00. Summary.md`):**
+- **Minor-subdivision size differs a lot:** 3 lots (Talbot, Wicomico), 4 (Caroline), 5 (Cecil, Worcester), 7 (Kent,
+  Dorchester, Queen Anne's). All are decided by staff (Dorchester: Planning Commission chairman signs).
+- **Impact / excise fee per new home:** none in Kent, Cecil, Wicomico, Worcester; $5,000 in Caroline (schools) and
+  Dorchester (excise, suspended in some years); Talbot $9,356; Queen Anne's ~$5.99/sf (≈ $15,000 for 2,500 sf).
+- **Planning fees for a 3-lot minor are small everywhere** ($200–$1,375); impact fees and septic/BAT dominate.
+- **Rural density is the real limiter:** Cecil allows 1 unit/acre in minor subdivisions (NAR/SAR/RR) — the most
+  generous; Caroline 1/acre gross but only 4 lots; Kent 1 per 30 ac; Queen Anne's sliding scale 1 per 100 ac; Wicomico
+  1 per 15 ac (3-lot minor right preserved); Dorchester 3 + 1 per 15 ac.
+- **Boards of Appeals grant almost everything** where decisions are recorded: 85–97% (Kent, Queen Anne's, Talbot,
+  Wicomico, Worcester, Cecil).
+
 **Talbot:**
 
 - **Soils:** NRCS rates almost every Talbot soil "Very limited" for septic. Lots outside sewer service
@@ -64,6 +89,33 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-11 (late night 2) — County digests, fee research and summaries for 7 counties (Brian + Claude)
+- Finished the AI steps for Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico and Worcester, matching the
+  Talbot pilot: ~110 Haiku digest agents → `<County>/01. Digests/` (PC actions, Council/Commissioners land-use actions,
+  Board of Appeals decisions/actions); a Sonnet **fees-and-gaps** agent per county → new
+  `<County>/01. Digests/Fee Findings.md`; a Sonnet summary agent per county → `00. Summary.md` + `Key Metrics.json`.
+  Spot-checked 3 load-bearing claims per county against the code (minor-subdivision threshold, density, impact fee):
+  all matched.
+- `00. Index/County Comparison.md` now covers 8 counties. Headline differences are under *Key findings → Across counties*.
+- New prompt `02. Tools/Prompts/Fees and Gaps Prompt.md`; the summary prompt now uses Fee Findings and counts
+  approval rates only from rows with a decision. `merge_digests.py` routes Board of Appeals parts by header (schema C
+  `case_no` → Decisions table), so either schema merges correctly.
+- Learned: subagents launched by a subagent share the same 20-agent limit, so the County Coordinator prompt only
+  helps when the orchestrator isn't already running agents. A usage-limit stop mid-run left partial CSVs; agents were
+  re-run with a "resume from existing CSV" instruction.
+- Gaps: see *Open questions* (unposted FY27 fees; septic/sewer charges; agenda-only PC/BOA records in Caroline,
+  Dorchester, Cecil; long Worcester Commissioner packets truncated in digest prep).
+- **Next:** Somerset (pipeline re-running), then build_index, comparison, publish, sync.
+
+### 2026-10-11 (late) — All 8 counties collected; monthly refresh scheduled (Brian + Claude)
+- Automated runs finished for Cecil, Queen Anne's, Caroline, Dorchester, Wicomico, Worcester (Kent earlier).
+  Fixes during the batch: eCode360 rate-limit backoff (Caroline re-run: 1,098 sections), crawler honors
+  `<base href>` (Somerset's first run got 0 of 571 documents — re-running), 404s fail fast.
+- Statewide rules completed in a separate session (`01. Maryland/00. Summary.md`).
+- Monthly refresh scheduled (1st of month, 6 AM; `02. Tools/refresh_all.sh` + Project Log notes).
+- Digests & summaries for the 8 counties run in a separate session (Brian), using
+  `02. Tools/Prompts/County Coordinator Prompt.md` / `Session - County Digests and Summaries.md`.
 
 ### 2026-10-11 (late night) — Statewide rules layer (Brian + Claude)
 - Built `01. Maryland/`: statutes (mgaleg) and COMAR (regs.maryland.gov) for Critical Area, septic/SB 236/BAT/BRF,

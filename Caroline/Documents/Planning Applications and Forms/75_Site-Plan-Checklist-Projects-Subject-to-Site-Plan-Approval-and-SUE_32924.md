@@ -1,0 +1,135 @@
+---
+county: "Caroline"
+category: "other"
+title: "75_Site-Plan-Checklist-Projects-Subject-to-Site-Plan-Approval-and-SUE_32924"
+source_url: "https://www.carolinemd.org/DocumentCenter/View/10662/75_Site-Plan-Checklist-Projects-Subject-to-Site-Plan-Approval-and-SUE_32924"
+effective: ""
+retrieved: "2026-10-11"
+original: "Caroline/Originals/Planning Applications and Forms/75_Site-Plan-Checklist-Projects-Subject-to-Site-Plan-Approval-and-SUE_32924.pdf"
+pages: "3"
+needs_ocr: "no"
+---
+
+# 75_Site-Plan-Checklist-Projects-Subject-to-Site-Plan-Approval-and-SUE_32924
+
+<!-- page 1 -->
+# **SITE PLAN REQUIREMENTS CHECKLIST FOR: ANY USE SUBJECT TO SITE PLAN APPROVAL AND SPECIAL USE EXCEPTIONS** 
+
+<u>www.carolinemd.org</u> 
+
+**Caroline County, Maryland Department of Planning & Codes Health & Public Services Bldg. 403 South 7**<sup>**th**</sup> **Street, Suite 210 Denton, Maryland 21629-1335 Tel: 410-479-8100 Fax: 410-479-4187** 
+
+In order to ensure smooth and timely processing of your permit application, please be sure to submit as accurate and detailed a site plan as possible. <mark>All items should be marked appropriately; if an item is not required it shall be marked as not applicable (N/A). This checklist must be signed, dated and submitted with the site plan. Applications will not be accepted without submittal of the site plan requirements checklist.</mark> All new dwellings/replacement dwellings will require a building location survey prepared by a licensed professional surveyor. 
+
+All site plans should be drawn to scale. Any site plan that does not require preparation from a licensed professional surveyor shall be based on actual survey or deed description or a reproduction of a plat of survey if it includes the surveyor’s name, date of survey and includes all easements and other information from the original plat of survey. **The additional requirements on page three must be included on the site plan if properties are partially or completely located in the Chesapeake Bay Critical Area and/or Special Flood Hazard Area** . The site plan copies must be separate from any building plans and contain the following: 
+
+- _______THE SIZE AND ARRANGEMENT OF ALL EXISTING AND PROPOSED IMPROVEMENTS AND BUILDINGS, INCLUDING THE PROPOSED DENSITY OF ANY RESIDENTIAL UNITS ALONG WITH EXTERIOR DIMENSIONS AND DISTANCE FROM PROPERTY LINES 
+
+- ______AN OPEN-SPACE PLAN SHOWING THE LOCATION, DIMENSIONS, ARRANGEMENTS AND PROPOSED USE OF ALL OPEN SPACES, YARDS AND BUFFERYARDS, INCLUDING SPECIFICATION OF ALL PLANT MATERIALS TO BE UTILIZED IN PROVIDING THE BUFFERYARDS AND LANDSCAPING REQUIRED 
+
+- _______THE  LOCATION,  HEIGHT  AND  COMPOSITION  MATERIAL  OF  ALL  WALLS,  FENCES  OR  OTHER STRUCTURES TO BE UTILIZED IN PROVIDING THE BUFFERYARDS REQUIRED 
+
+- _______THE LOCATION AND DIMENSION OF ALL EXISTING AND PROPOSED VEHICULAR ROADS, DRIVES, ENTRANCES, EXITS, TRAFFIC CIRCULATION PATTERNS AND ACCELERATION AND DECELERATION LANES 
+
+- _______SHOW  ANY  STREETS  ABUTTING  WITH  THE  PROPERTY  (THIS  INCLUDES  STREETS,  ACCESS EASEMENTS, AND JOINT USE DRIVEWAYS) 
+
+- _______THE LOCATION AND DIMENSION OF ALL EXISTING AND PROPOSED PEDESTRIAN ENTRANCES, EXITS, SIDEWALKS AND WALKWAYS 
+
+- _______THE LOCATION, SIZE, ARRANGEMENT AND CAPACITY OF ALL AREAS TO BE USED FOR OFF-STREET PARKING AND OFF-STREET LOADING 
+
+- ________PROVISIONS FOR THE TREATMENT AND DISPOSAL OF SEWAGE AND INDUSTRIAL WASTES, WATER SUPPLY, DRAINAGE, GRADING AND SEDIMENT CONTROL. 
+
+- _______THE LOCATION, SIZE, HEIGHT, COMPOSITION MATERIAL, ILLUMINATION AND ORIENTATION OF ALL SIGNS 
+
+- _______LOCATION AND DESIGN FOR OUTDOOR LIGHTING FACILITIES 
+
+- _______LOCATION OF EXISTING FOREST AND WOODLAND 
+
+- _______IDENTIFY ANY THREATENED AND/OR ENDANGERED SPECIES HABITAT 
+
+- _______LOCATION OF ALL STREAMS, DITCHES, WATERWAYS, WETLANDS AND STEEP SLOPES (GREATER THAN 15%) ALONG WITH THEIR BUFFERS (WETLANDS DELINEATION MAY BE REQUIRED) 
+
+- _______BUFFER LIMITS FOR WETLANDS OR OTHER PROTECTED AREAS SHALL BE MARKED IN THE FIELD 
+
+**_Revised August 1, 2009 (updated floodplain requirements)_** 
+
+**_Effective July 1, 2008_**
+
+<!-- page 2 -->
+- _______SHOW LIMITS OF CLEARING/DISTURBANCE, GRADING, METHODS OF STORMWATER CONVEYANCE AND LOCATION FOR PLACEMENT OF ALL TEMPORARY SEDIMENT & EROSION CONTROL MEASURES (SILT FENCE) 
+
+- _______IF THE PROJECT IS SCHEDULED FOR PHASED DEVELOPMENT, THE PROPOSED LAYOUT OF THE TOTAL PROJECTED DEVELOPMENT SHALL BE INDICATED, AND EACH PHASE’S PROJECTED SCOPE AND TIME PERIOD SHALL BE INDICATED TO THE EXTENT POSSIBLE 
+
+### **ADDITIONAL REQUIREMENTS FOR A PERMITTED USE SUBJECT TO SITE PLAN APPROVAL:** 
+
+- _____SITE PLANS SHALL BE PREPARED AND SUBMITTED OVER THE CERTIFICATION OF A REGISTERED PROFESSIONAL ENGINEER, ARCHITECT, LANDSCAPE ARCHITECT OR LAND SURVEYOR, AS APPROPRIATE. 
+
+_____SIGNATURE LINE ON SITE PLAN FOR PLANNING DIRECTOR APPROVAL 
+
+### **FOR COMMERCIAL OR INDUSTRIAL USES, THE SITE PLAN WILL ALSO DESIGNATE THE FOLLOWING:** 
+
+- _____THE SPECIFIC USES PROPOSED 
+
+- _____THE NUMBER OF EMPLOYEES FOR WHICH BUILDINGS ARE DESIGNED 
+
+- _____THE TYPE OF POWER TO BE USED FOR ANY MANUFACTURING PROCESS 
+
+- _____THE TYPE OF WASTES OR BY-PRODUCTS TO BE PRODUCED BY ANY PROCESS AND THE PROPOSED METHOD OF DISPOSAL OF SUCH WASTES OR BY-PRODUCTS 
+
+- _____SUCH OTHER INFORMATION AS MAY BE REQUIRED TO DETERMINE THE IMPACT OF A PARTICULAR USE ON THE NEIGHBORHOOD AND THE ENVIRONMENT THAT MAY BE AFFECTED BY CONSTRUCTION OR DEVELOPMENT 
+
+- _____MEET ALL OF THE ADDITIONAL STANDARDS FOR BUSINESS/COMMERCIAL OPERATIONS, INCLUDING COTTAGE INDUSTRIES AS SPECIFIED IN § 175-12.K OF THE CODE 
+
+|**SETBACKS**|**Park**|**MH**<br>**Subdivision**|**VC**|**MI**<br>**VN**|**NIMUM**<br>**R**|**S ALL**<br>**C-1**|**OWED**<br>**C-2**|<br>**I-2**|**R-1**|**R-2**|
+|---|---|---|---|---|---|---|---|---|---|---|
+|FRONT|20’|30’|10’|20’|40’|50’|50’|50’|30’|30’|
+|REAR|None|25’|15’|20’|30’|30’|30’|40’|25’|25’|
+|SIDE|None|15’|5’|10’|25’|15’|15’|25’|15’|8’<br>1-family: 5<br>15’<br>2-family: 5|
+|CRITICAL AREA BUFFER||100’|100’|100’|100’|100’|100’|100’|100’|100’|
+|PERENNIAL STREAM||100’|100’|100’|100’|100’|100’|100’|100’|100’|
+|INTERMITTENT STREAM||25’|25’|25’|25’|25’|25’|25’|25’|25’|
+
+<!-- page 3 -->
+### **FOR PARCELS PARTIALLY OR COMPLETELY LOCATED WITHIN THE** **<u>CHESAPEAKE BAY CRITICAL AREA</u> (WITHIN 1000’ OF TIDAL WATER OR WETLANDS) AND/OR CONSTRUCTION IN THE** **<u>SPECIAL FLOOD HAZARD AREA MUST PROVIDE A PROFESSIONAL LOCATION SURVEY PREPARED</u> BY A REGISTERED SURVEYOR WITH THE FOLLOWING ADDITIONAL INFORMATION:** 
+
+- <u>1,000 FOOT CRITICAL AREA LINE</u> 
+
+- <u>100 FOOT CRITICAL AREA BUFFER LINE (THIS SHOULD TAKE INTO ACCOUNT EXTENDED BUFFERS</u> FOR WETLANDS, TRIBUTARIES AND STEEP SLOPES) 
+
+<u>LIMIT OF DISTURBANCE FOR ALL DEVELOPMENT ACTIVITIES</u> 
+
+- <u>EXISTING  FOREST  AND  WOODLAND  COVER,  INDICATED  BY  SYMBOLS  SHOWING  INDIVIDUAL</u> PLANTS ON A SPARSELY VEGETATED PARCEL, OR A TREE LINE FOR PARCELS WITH ESTABLISHED CONTINUOUS  VEGETATED  AREAS. ALL WOODY VEGEATION WITHIN THE PROPOSED CONSTRUCTION LIMITS, WITH A STEM DIAMETER OF <u>></u> 1.5” AND/OR A HEIGHT OF <u>></u> 6’ SHOULD BE SHOWN ON THE PLAN. IF EXISTING FOREST AND WOODLAND COVER IS LESS THAN 15% OF THE PARCEL, AFFORESTATION WILL BE REQUIRED TO MEET THE 15% THRESHOLD AND THE AREA OF PLANTING SHOULD BE DELINATED ON SITE PLAN. 
+
+- <u>LIMITS OF VEGETATION REMOVAL (SQUARE FOOTAGE OR NUMBER OF TREES) MUST BE</u> INDICATED. **ANY VEGETATION REMOVAL WILL REQUIRE A MITIGATION PLAN.** IT IS RECOMMENDED THAT THIS MITIGATION PLAN BE DEPICTED ON THE SITE PLAN, AT THE TIME OF PERMIT SUBMITTAL. 
+
+- <u>ANY SENSITIVE SPECIES OR SENSITIVE SPECIES HABITAT AREAS MUST BE INDICATED ON THE</u> PLAN, OR THE PLAN MUST INCLUDE A NOTE, STATING THAT NO SENSITIVE SPECIES OR SENSITIVE SEPCIES HABITAT EXISTS ON THE PARCEL.  PROVIDE APPROVAL FROM DNR HERITATE DIVISION. 
+
+- <u>ALL EXISTING AND PROPOSED LOT COVERAGE MUST BE SHOWN ON THE PLAN.  PLAN MUST ALSO</u> SHOW CALCULATION FOR MAXIMUM ALLOWABLE LOT COVERAGE (15% ON ALL LOTS; EXCEPT FOR GRANDFATHERED LOTS) AND PERCENTAGE OF EXISTING AND PROPOSED LOT COVERAGE.* 
+
+_*Lot coverage is the maximum percentage of the total lot area that may be covered with buildings and/or structures, including outdoor storage, sidewalks, paved areas (i.e. concrete, asphalt, gravel, stone, shell, impermeable decking, pavers, permeable pavement or any manmade material), and other impervious surfaces that prevents or substantially reduces absorption of storm water into the ground. (i.e. concrete, asphalt, sidewalks, buildings, solid surface or covered decks, etc.) A break-down of what has been included in the lot coverage calculation must be shown._ 
+
+## **MAXIMUM IMPERVIOUS SURFACE CALCULATION:** 
+
+- (LOT SIZE) X (ALLOWED % OF IMPERVIOUS SURFACE) = MAXIMUM ALLOWED IMPERVIOUS SURFACE 
+
+## **PERCENTAGE OF IMPERVIOUS SURFACE CALCULATION:** 
+
+(TOTAL IMPERVIOUS SURFACE) / (LOT SIZE) = PERCENTAGE OF PROPOSED IMPERVIOUS SURFACE 
+
+### **ADDITIONAL REQUIREMENTS FOR CONSTRUCTION IN SPECIAL FLOOD HAZARD AREAS:** 
+
+- <u>ELEVATION CONTOURS (NATIONAL VERTICAL DATUM OF 1988)</u> 
+
+<u>DELINEATION OF THE SPECIAL FLOOD HAZARD AREA AND BOUNDARY</u> 
+
+### **Owner/Applicant Certification:** 
+
+I hereby certify that the checklist and information on the site plan submitted are true and correct to the best of my knowledge and that if I am not the owner, than I am acting with the knowledge and consent of the owner(s) of the property. I understand that the review process may be delayed if the information submitted is incomplete or inaccurate and that any deficiencies to the site plan will need to be corrected and re-submitted. 
+
+Owner / Authorized Agent 
+
+Date 
+
+**_Revised March 12, 2015_** 
+
+**_Effective July 1, 2008_**

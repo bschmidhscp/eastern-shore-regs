@@ -1,0 +1,7 @@
+,Table 137-2,,,
+,Maximum Allowable Sound Levels For Sensitive Receptors,,,
+,Sensitive Receptor,Noise Limit,,
+,Sensitive Receptor,After 7:00 a.m. To Before 7:00 p.m. (dBA),After 7:00 p.m. To Before 10:00 p.m. (dBA),After 10:00 p.m. To Before 7:00 a.m. (dBA)
+,"Hospitals, elder care facilities, nursing homes",60,55,50
+,"Libraries, churches, funeral homes",60,55,N/A
+,"Daycare facilities, special population schools",60,55,N/A

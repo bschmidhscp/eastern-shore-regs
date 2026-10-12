@@ -6,6 +6,7 @@ Writes <County>/01. Digests/<Name>.csv and <Name>.md for each group:
   council-* -> County Council Land-Use Actions
   preapp-*  -> Pre-Application Projects
   boa-*     -> Board of Appeals Decisions
+  boam-*    -> Board of Appeals Actions (from minutes); a boa/boam part whose header has case_no goes to boa
 Rows are de-duplicated and sorted newest first. Source files are linked by name; their text lives in
 <County>/Meeting Minutes/<Body>/.
 """
@@ -68,9 +69,17 @@ def main():
     a = ap.parse_args()
     out = county_dir(a.county) / "01. Digests"
     out.mkdir(exist_ok=True)
+    # Board of Appeals parts may come in either schema: route by header (case_no = decisions schema C).
+    routed = {}
+    for f in sorted(Path(a.parts).glob("*.csv")):
+        prefix = f.stem.split("-")[0]
+        if prefix in ("boa", "boam"):
+            header = f.open(errors="replace").readline().lower()
+            prefix = "boa" if "case_no" in header else "boam"
+        routed.setdefault(prefix, []).append(f)
     for prefix, (name, datecol, cols) in GROUPS.items():
         rows, seen = [], set()
-        files = sorted(Path(a.parts).glob(f"{prefix}-*.csv"))
+        files = routed.get(prefix, [])
         if not files:
             continue
         for f in files:

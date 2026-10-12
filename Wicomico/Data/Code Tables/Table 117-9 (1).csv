@@ -1,0 +1,10 @@
+,Table 1,
+,Delivered Audio Quality (DAQ),
+,Delivered Audio Quality,Subjective Performance Description
+,1,"Unusable, speech present but unreadable"
+,2,Understandable with considerable effort; frequent repetition due to noise/distortion
+,3,Speech understandable with slight effort; occasional repetition required due to noise/distortion
+,3.5,Speech understandable with repetition only rarely required; some noise/distortion.
+,4,Speech easily understood; occasional noise/distortion
+,4.5,Speech easily understood; infrequent noise/distortion
+,5,Speech easily understood

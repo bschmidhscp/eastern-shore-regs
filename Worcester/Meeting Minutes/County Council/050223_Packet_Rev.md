@@ -1,0 +1,8905 @@
+---
+county: "Worcester"
+category: "minutes"
+title: "050223_Packet_Rev"
+source_url: "https://worcestermd.gov/sites/default/files/2023-05/050223_Packet_Rev.pdf"
+effective: "2023-12-31"
+retrieved: "2026-10-11"
+original: "Worcester/Originals/Meeting Minutes/County Council/050223_Packet_Rev.pdf"
+pages: "289"
+needs_ocr: "no"
+---
+
+# 050223_Packet_Rev
+
+<!-- page 1 -->
+Hearing Assistance Units Available – see County Administration Office 
+Please be thoughtful and considerate of others. *Turn OFF all cell phones and notification during the meeting!* 
+AGENDA
+WORCESTER COUNTY COMMISSIONERS 
+Worcester County Government Center, Room 1101, One West Market Street, Snow Hill, Maryland 21863 
+The public is invited to view this meeting live online at - https://worcestercountymd.swagit.com/live 
+May 2nd, 2023 
+Item # 
+9:00 AM - Vote to Meet in Closed Session in Commissioners’ Conference Room – Room 1103 
+          Government Center, One West Market Street, Snow Hill, Maryland 
+9:01 -  
+Closed Session 
+(Discussion regarding a personnel update, request to hire a WWW Maintenance Worker, request to 
+hire Roads Workers and transfer to a Roads Worker, request to hire a Natural Resources 
+Administrator, receiving legal advice, and performing administrative functions) 
+10:00 - 
+Call to Order, Prayer (Pastor George Tasker) Pledge of Allegiance 
+10:01 -        Report on Closed Session; Review and Approval of Minutes from April 18, 2023    
+10:02 -        Commendations (Foster Parent of the Year) and Proclamations (National Foster Care Month, Travel 
+      and Tourism Week) 
+1 
+10:05 -        Consent Agenda 
+(HUD Housing Rehab Grant Request, Jail Improvements Change Order, Request to Award Batting 
+Cage, Power Boat Special Event Request, Greys Creek Grant MOU Request, Berlin VFD Letter of 
+Support) 
+2-7
+10:06 -        Chief Administrative Officer: Administrative Matters  
+(Request to Award Sound Attenuating Panels, Request to Bid Recreation Storage Addition, Request to 
+Bid Berlin Roads Building Improvements, Request for Public Hearing Rezoning Case 441, Introduction 
+of Text Amendment Separation Distances A2, Code Revision for Paid Parking, Board Appointments) 
+8-14
+12:00 PM - Questions from the Press; County Commissioner’s Remarks 
+Lunch 
+1:00 PM -  Chief Administrative Officer: Administrative Matters (if necessary) 
+Evening Budget Public Hearing at County Government Center 
+5:00 PM - Light Fare Dinner for Commissioners and All County Department, Agency and Division Heads 
+7:00 PM - Public Hearing on Constant Yield Tax Rate and Requested FY2024 County Operation Budgets       
+15 
+AGENDAS ARE SUBJECT TO CHANGE UNTIL THE TIME OF CONVENING
+
+<!-- page 2 -->
+1 
+Open Session – April 18, 2023 
+02Minutes of the County Commissioners of Worcester County, Maryland 
+ 
+April 18, 2023 
+ 
+ 
+ Anthony W. Bertino, Jr., president 
+Madison J. Bunting, Jr., vice president 
+Caryn G. Abbott 
+Theodore J. Elder 
+Eric J. Fiori 
+Joseph M. Mitrecic  
+Diana Purnell 
+ 
+Following a motion by Commissioner Bunting, seconded by Commissioner Elder, the 
+commissioners unanimously voted to meet in closed session at 9:01 a.m. in the Commissioners’ 
+Conference Room to discuss legal and personnel matters permitted under the provisions of 
+Section 3-305(b)(1) and (7) of the General Provisions (GP) Article of the Annotated Code of 
+Maryland and to perform administrative functions permitted under the provisions of Section GP 
+3-104. Also present at the closed session were Chief Administrative Officer Weston Young, 
+Deputy Chief Administrative Officer Candace Savage, County Attorney Roscoe Leslie, Public 
+Information Officer Kim Moses, and Human Resources Director Stacey Norton. Topics 
+discussed and actions taken included the following: a personnel update; hiring Dana Hubble and 
+Jordan Taylor as emergency communications specialist trainees in Emergency Services and 
+promoting GIS Analyst III Matt Laick to deputy director in Development Review and 
+Permitting; receiving legal advice from counsel; and performing administrative functions, 
+including considering board appointments. 
+ 
+Following a motion by Commissioner Bunting, seconded by Commissioner Elder, the 
+commissioners unanimously voted to adjourn their closed session at 9:49 a.m. 
+ 
+After the closed session, the commissioners reconvened in open session. Commissioner 
+Bertino called the meeting to order, and following a morning prayer by Father John Solomon of 
+the Holy Savior Roman Catholic Church in Ocean City and pledge of allegiance, announced the 
+topics discussed during the morning closed session. 
+ 
+The commissioners reviewed and approved the open and closed session minutes of their 
+March 21, 2023 regular meeting and April 21 budget work session and the open minutes of their 
+March 28 budget work session as presented. 
+ 
+The commissioners presented a years-of-service commendation to Lieutenant Katherine 
+L. Worth who is retiring following 27 years of service to the County Jail. 
+ 
+The commissioners presented a commendation to Stephen Decatur High School senior 
+William Kozma in recognition of his service as Worcester County’s Page to the 2023 Maryland 
+General Assembly.
+
+<!-- page 3 -->
+2 
+Open Session – April 18, 2023 
+The commissioners presented a proclamation to CRICKET Center Executive Director 
+Lauren Cooper, Life Crisis Center (LCC) Director Jamie Manning, Department of Social 
+Services (DSS) Assistant Director Tammy Jones, and others recognizing April as National Child 
+Abuse Prevention Month in Worcester County. The commissioners commended the local 
+partnerships that have been established to help prevent abuse from occurring and support child 
+victims of maltreatment.  
+ 
+The commissioners presented a proclamation to Housing Rehabilitation Program 
+Coordinator Davida Washington recognizing April as Fair Housing Month and promoting the 
+Worcester County Housing Rehabilitation Program, which plays a key role locally in furthering 
+the principles of safe, stable housing by assisting low to moderate income individuals and 
+families obtain grants and loan funding for general rehabilitation, pesticide inspection and 
+treatment, and lead abatement services.  
+ 
+The commissioners presented a proclamation to Health Officer Becky Jones retroactively 
+recognizing April 3-9, 2023 as Public Health Week in Worcester County. 
+ 
+The commissioners presented a proclamation to Ms. Manning recognizing April as 
+Sexual Assault Awareness Month, noting that in 2021 the LCC provided sexual assault services 
+– including counseling, medical and legal advocacy, victims’ rights assistance, and crisis hotline 
+services – to 448 child and adult survivors of sexual violence. Ms. Manning urged all in the 
+community to partner with the LCC to prevent sexual abuse from occurring.  
+ 
+The commissioners presented a proclamation retroactively recognizing April 9 - 15, 2023 
+as National Public Safety Telecommunicators Week in Worcester County to Emergency Services 
+Director Billy Birch and other 911 professionals. The commissioners commended the 
+County’s emergency communications specialists for their diligence and professionalism. 
+ 
+Upon a motion by Commissioner Purnell, the commissioners unanimously approved by 
+consent agenda item numbers 2-16 as follows: bid specifications for the County’s paving 
+contract and to upgrade the fuel system at the Ocean Pines Wastewater Treatment Plant; River 
+Run Towns, LLC turnover documents, to include accepting the utilities into the County’s River 
+Run Service Area for operation; Shorepoint Cottage Court Small Project Agreement to extend 
+water and sewer via the Mystic Harbour Sanitary Service Area to serve 52 cottage units; 
+irrevocably transferring Worcester County’s full $2,185,554 tax-exempt housing bond allocation 
+to the Department of Housing and Community Development for use in issuing housing bonds or 
+mortgage credit certificates on behalf of Worcester County for use under the Maryland Mortgage 
+Program; scheduling Agricultural Scrap Tire Collection for May 20 and 22, 2023; letter of 
+support for a Coastal Resiliency Fund grant for a Maryland Coastal Bays marsh restoration 
+project; out-of-state travel for one staff member to attend the Zartico inaugural user conference 
+for ZDOS in Tampa, Florida May 206, 2023; applications for an FY23 Police Recruitment and 
+Retention (PRAR) program grant of $27,623, two FY23 White Paper Solicitation for Special 
+Projects Edward J. Byrne Memorial Justice Assistance grants of $10,000 and $27,172.41, an 
+FY24 Body Armor for Local Law Enforcement grant of $9,908, an FY24 PRAR program grant 
+of $57,170 (or $29,547 if a portion of these funds are approved in the white paper solicitation),
+
+<!-- page 4 -->
+3 
+Open Session – April 18, 2023 
+an FY24 Sex Offender Compliance and Enforcement grant of $8,759, and an FY24 Local 
+Warrant Apprehension and Absconding program grant of $10,000 for the Sheriff’s Office; and 
+recommended FY24 tax rates, certifications, and recommended managers for all 18 tax ditches in 
+the County.  
+ 
+Atlantic General Hospital President Don Owrey provided an annual update to the 
+commissioners outlining the hospital’s community partnerships, FY21-22 financials, 
+partnerships, challenges, new providers, and accomplishments during the past year. In response 
+to a question by Commissioner Mitrecic, Mr. Owrey confirmed that AGH is not requesting a 
+County grant for FY24. 
+ 
+Board of Education (BOE) Superintendent Lou Taylor and Chief Financial Officer Vince 
+Tolbert presented the requested FY24 BOE Operating Budget of $131,965,977, with a County 
+appropriation of $106,026,226 that represents an increase of $4,167,621 or 4.1% over the 
+County’s FY23 appropriation. In response to questions by Commissioner Mitrecic regarding the 
+$758,679 for Appropriation – Retirement Expenses, Mr. Tolbert advised that this is Pay-Go, for 
+employees outside of the State teacher system, and he provided an overview of this funding 
+responsibility.  
+Following questions from Commissioner Abbott, Mr. Taylor advised that the 
+appointment of 21 assistant principals within the 14 Worcester County Public Schools is based 
+on best practices issued by the State, and he agreed to provide the commissioners with the list of 
+take-home vehicles in the BOE’s fleet. In response to questions by Commissioner Fiori regarding 
+the possibility of reallocating funding in certain categories to help close the budget shortfall, Mr. 
+Taylor advised that ESSER grant funds are allocated for certain uses and cannot be easily 
+reallocated. Commissioner Bertino advised that the documents before them can best be described 
+as a budget summary and not a detailed budget, like those provided by all the other County 
+departments and State agencies over which the commissioners exercise funding authority. He 
+reminded Mr. Taylor that there have been multiple requests, including discussions he has had 
+with elected BOE members and an email from Chief Administrative Officer Weston Young to 
+Mr. Tolbert requesting a detailed budget, and he asked when the commissioners can expect to 
+receive these documents. He said the commissioners are seeking more detail and clarity to help 
+them better understand where the money is going and how they can close an $11.7 million 
+deficit, which includes the additional $4 million the BOE requesting for FY24, plus unfunded 
+mandates in other areas. Mr. Taylor stated that the BOE wants to be fully transparent and agreed 
+to discuss this request with the BOE members. BOE President Todd Ferrante confirmed that the 
+BOE members would discuss the County’s request when they meet later that day. Commissioner 
+Mitrecic disagreed with the need for the level of detail being requested and suggested that 
+individual commissioners could file a Freedom of Information Act request if they so choose to 
+obtain the requested documents. 
+Following some discussion and upon a motion by Commissioner Mitrecic, the 
+commissioners voted 6-1, with Commissioner Fiori voting in opposition, to separate the 
+requested FY24 BOE operating budget from the requested FY24 County operating budget when 
+voting to adopt these budgets on June 6, 2023.  
+ 
+The commissioners recessed for 10 minutes.
+
+<!-- page 5 -->
+4 
+Open Session – April 18, 2023 
+The commissioners conducted a public hearing to consider a request to establish a 
+residential planned community floating zone for the Refuge at Windmill Creek on approximately 
+95 acres located on the northwesterly side of Beauchamp Road, north of MD Rt. 589 and more 
+specifically identified on Tax Map 15 as Parcels 127 and 259 zoned R-1 Rural Residential and 
+RP Resource Protection Districts. Development Review and Permitting Director Jennifer Keener 
+and Zoning Administrator Kristen Tremblay reviewed the project details, noting that the 
+Planning Commission provided a favorable recommendation to the request. 
+Commissioner Bertino opened the floor to receive public comment. 
+Attorney Cristina Winkowski concurred with the staff report and stated that the plans 
+have met and exceed the requirements for step one approval. Upon questions by Ms. Winkowski, 
+Ronnie Carpenter, P.E. of Carpenter Engineering, LLC agreed that the zoning is suitable for 
+infill development, and the intended use is consistent with the existing land uses in the vicinity. 
+He stated that the design plans provide twice the amount of required open space, with added 
+forest protection and water recharge onsite that are environmentally friendly.  
+There being no further public comment, Commissioner Bertino closed the public hearing. 
+Upon a motion by Commissioner Mitrecic, the commissioners unanimously approved the 
+Step I plan for the Refuge at Windmill Creek RPC floating zone and adopted the Findings of 
+Fact. 
+ 
+The commissioners conducted a public hearing to receive comments on the proposed 
+disposal of surplus property by quitclaim. This includes the former Liquor Control warehouse at 
+5363 Snow Hill Road on a 7.9 +/- acre commercial site located along the southwest side of Snow 
+Hill Road west of the town of Snow Hill to Talkie Communications, Inc. for $380,000. 
+Commissioner Bertino opened the floor to receive public comment. 
+There being no public comments, Commissioner Bertino closed the public hearing. 
+Upon a motion by Commissioner Mitrecic, the commissioners unanimously agreed to 
+dispose of the surplus property by selling it to Talkie Communications as proposed.  
+ 
+The commissioners conducted a public hearing to receive comments on the proposed 
+disposal of surplus property by quitclaim. This includes the three-story commercial structure at 
+100 Pearl Street in Snow Hill that previously housed Tourism and Economic Development to 
+Garibay Construction, LLC for $280,000 cash.  
+Commissioner Bertino opened the floor to receive public comment. 
+There being no public comments, Commissioner Bertino closed the public hearing. 
+Upon a motion by Commissioner Elder, the commissioners unanimously agreed to 
+dispose of the surplus property by selling it to Garibay Construction, LLC as proposed.  
+ 
+The commissioners conducted a public hearing to receive comments on the disposal of 
+surplus County vehicles and equipment no longer used by the County by auctioning these items 
+on GovDeals.com.  
+Commissioner Bertino opened the floor to receive public comment. 
+There being no public comments, Commissioner Bertino closed the public hearing. 
+Upon a motion by Commissioner Elder, the commissioners unanimously agreed that the 
+list of County vehicles and equipment will be sold online at www.govdeals.com as County 
+surplus property.
+
+<!-- page 6 -->
+5 
+Open Session – April 18, 2023 
+Pursuant to the request of Chief Administrative Officer Weston Young and upon a 
+motion by Commissioner Elder, the commissioners unanimously agreed to allocate $203,259 in 
+American Rescue Plan (ARPA) funds for the following audio visual improvement projects: 
+$101,822 23 for courtrooms two and three in the Circuit Court, $6,265 for video court in the 
+County Jail, and $95,172 in County Administration for the Commissioners’ Meeting Room.  
+ 
+Finance Officer Phil Thompson presented a summary of the financials of the fire and 
+emergency medical services companies in the County by UHY, LLC Certified Public 
+Accountants. Fire EMS Audit Report (FYI), which shows how the companies operate and 
+provides transparency with regard to the cash on hand.  
+ 
+On July 5, 2022 the commissioners voted to allocate $1.5 million of ARPA funding to 
+fire and EMS companies operating in the County and tasked the individual companies with 
+determining the highest priority items to fix the fragile system. Mr. Young and Procurement 
+Officer Nick Rice reviewed the requests that have been received from some of the companies to 
+date and efforts to work with them to obtain the best pricing for the requested items. 
+Commissioner Bertino expressed concern that Ocean City, Ocean Pines, and Girdletree 
+Volunteer Fire Companies are the only companies that have proposed uses that seem to fit the 
+criteria to fix the fragile system. In response to a question by Commissioner Bertino, Mr. Young 
+advised that the fire chiefs voted to split the money equally 10 ways; however, the intended use 
+of the funds by the commissioners was to fix the fragile system.  
+A motion by Commissioner Mitrecic to approve the ARPA funding requests as presented 
+failed 3-4, with Commissioners Elder, Mitrecic, and Purnell voting in favor and Commissioners 
+Abbott, Bertino, Bunting, and Fiori voting in opposition. 
+Upon a motion by Commissioner Abbott, the commissioners voted 6-1, with 
+Commissioner Mitrecic voting in opposition, to table their discussion on the proposed allocation 
+of ARPA funding for a future meeting to provide them with time to further review the requests. 
+ 
+The commissioners met with Mr. Young to review and discuss the FY24 Fire and EMS 
+budget requests. These include supplemental requests of $10,677 per volunteer fire company, an 
+additional $10,000 per ambulance, increasing mileage supplement to the IRS rate of $0.655, 
+increase the non-credit out-of-town and credit runs in-town to $224, increase credit runs out-of-
+town to $900, and $28,637.28 for 560 gallons of firefighting foam.  
+ 
+Pursuant to the recommendation of Mr. Young and upon a motion by Commissioner 
+Mitrecic, the commissioners unanimously authorized Commission President Bertino to sign a 
+letter to the IRS and Section n147(f) Approval and Written Agreement supporting the Berlin Fire 
+Company’s efforts to utilize Public Approval of Private Activity Bonds, which will provide low 
+interest rates, to purchase two apparatus. 
+ 
+Pursuant to the request of Delmarva Power & Light Company and upon a motion by 
+Commissioner Mitrecic, the commissioners voted 6-1, with Commissioner Elder voting in 
+opposition, to adjust certain easements owned by Ocean City and Delmarva Power in the vicinity 
+of the Ocean City Branch Library at 100th Street in Ocean City for the Ocean City battery energy 
+storage project.
+
+<!-- page 7 -->
+6 
+Open Session – April 18, 2023 
+Pursuant to the recommendation of Information Technology Director Brian Jones and 
+upon a motion by Commissioner Bunting, the commissioners unanimously authorized the 
+purchase of TRIO Solution at a cost of $56,674 from CentralSquare.  
+ 
+The commissioners met with Procurement Officer Nick Rice to review a 
+recommendation to award the best and lowest bid for advertising creative, medial placement, and 
+social media services to D3 Corp at an annual cost of $24,000 annually. Mr. Young advised the 
+State allocated a little over $1 million to the County for continuing to invest in tourism marketing 
+during COVID, but the County must spend those funds by the close of FY23. He stated that this 
+was one of the approved uses of those funds. Tourism and Economic Development Director 
+Melanie Pursel advised that D3 Corp could continue charging the County monthly through the 
+close of the existing campaign without entering into a contract.  
+Upon a motion by Commissioner Abbott, the commissioners voted 5-1-1, with 
+Commissioner Mitrecic abstaining and Commissioner Elder voting in opposition, to table the 
+proposed contract and continue working with D3 Corp under the current marketing plan. 
+ 
+Pursuant to the request of Mr. Rice and upon a motion by Commissioner Elder, the 
+commissioners unanimously accepted the proposal from H2I Group of $346,911.60 to replace 
+the bleachers at the Worcester County Recreation Center in Snow Hill. Mr. Young advised that 
+Local Parks and Playground Infrastructure funding from the State will be used to cover this cost. 
+ 
+Pursuant to a request from the Library Board of Trustees and upon a motion by 
+Commissioner Abbott, the commissioners unanimously granted authorization to move forward 
+with planning and construction of a new Pocomoke Branch Library on the existing library site 
+and to place the County loan to Pocomoke for the demolition of the Armory on hold pending the 
+outcome of a decision from the Town of Ocean City. 
+ 
+Mr. Rice advised the commissioners that the County received no bids for the sale of the 
+synthetic ice rink by the time the bid period closed on Tuesday, March 28, 2023, and he sought 
+direction on how to proceed. 
+Commissioner Mitrecic made a motion to solicit proposed use proposals from interested 
+parties, which he withdrew following comments from Commissioner Elder that Recreation and 
+Parks should maintain ownership and operation of the rink for the enjoyment of County 
+residents. 
+Following some discussion and upon a motion by Commissioner Fiori, the 
+commissioners voted 4-3, with Commissioners Abbott, Bertino, Bunting, and Fiori voting in 
+favor and Commissioners Elder, Mitrecic, and Purnell voting in opposition, to place the synthetic 
+ice rink for sale on GovDeals.com. 
+ 
+Development Review and Permitting Director Jennifer Keener updated the 
+commissioners on the cannabis reform bills passed by the Maryland General Assembly, 
+including the types of new licenses that will be available for adult-use cannabis beginning July 
+2023. She provided background on how staff previously applied zoning regulations for 
+processing, growing, and dispensaries for medical use. She then advised that the new State law
+
+<!-- page 8 -->
+7 
+Open Session – April 18, 2023 
+includes provisions for the County to establish certain distance limitations for adult-use cannabis 
+dispensaries and either restrict or outright prohibit on-site consumption establishments.  
+In response to questions by Commissioner Bertino, Ms. Keener advised that the 
+Maryland Cannabis Administration is expected to adopt emergency regulations on how to license 
+these types of establishments effective July 1, 2023, with the first round of licenses to be issued 
+beginning January 1, 2024 (round one will not include on-site consumption), and the second 
+round of licenses to be issued May 1, giving the County time to further discuss its local authority 
+under the legislation, develop any potential code amendments, conduct a public hearing on the 
+proposal, and adopt emergency legislation to enact these regulations ahead of the issuance of 
+State licenses. 
+Following some discussion and upon a motion by Commissioner Mitrecic, the 
+commissioners unanimously directed Ms. Keener to continue to monitor State developments on 
+the new law and to provide the commissioners with options to move forward.   
+   
+The commissioners recessed for five minutes. 
+ 
+The commissioners met with Ms. Keener to review an application to rename a private 
+lane in Berlin from Ned Purnell Lane to Leonard Lane. Commissioner Purnell noted the historic 
+significance of the existing lane name and opposed renaming the lane. Upon a motion by 
+Commissioner Mitrecic, the commissioners unanimously approved Option 2 to retain the name 
+of Ned Purnell Lane.  
+ 
+Pursuant to the request of Public Works Director Dallas Baker and upon a motion by 
+Commissioner Elder, the commissioners unanimously authorized the sole source purchase of six 
+replacement cassettes, membrane modules, and associated hardware for the Riddle Farm 
+Wastewater Treatment Plant at a cost of $440,000 from Veolia.  
+ 
+Pursuant to the request of Mr. Baker and upon a motion by Commissioner Fiori, the 
+commissioners unanimously approved a memorandum of understanding and cost share 
+agreements to complete a $124,000 feasibility study of the MD Rt. 611 Shared Use Path. This 
+project is to be funded through a Transportation Alternative Program grant and a Bikeways 
+program grant.  
+ 
+Pursuant to the recommendation of Mr. Baker following the results of a speed study on 
+Purnell Crossing Road on March 15 and 20, 2023 and upon a motion by Commissioner Elder, 
+the commissioners agreed to reduce the speed limit on this road from 50 mph to 45 mph and post 
+the new speed limit on this currently unposted road. 
+ 
+Pursuant to the request of Ms. Purcell and upon a motion by Commissioner Bunting, the 
+commissioners unanimously agreed to reallocate Tri-County Council Rural Maryland grant 
+funds from the Pocomoke Pathways to Economic Development to the Riddle Farm water and 
+wastewater optimization project.  
+ 
+Pursuant to the request of Ms. Purcell and the Town of Snow Hill and upon a motion by 
+Commissioner Elder, the commissioners unanimously adopted Resolution No. 23-05 consenting
+
+<!-- page 9 -->
+8 
+Open Session – April 18, 2023 
+to the Snow Hill Enterprise Zone.  
+ 
+The commissioners reviewed and discussed various board appointments. 
+Upon a nomination by Commissioner Purnell, the commissioners unanimously agreed to 
+reappoint JT Novak to the Electrical Board and to appoint Joslyn Briddle to the Commission for 
+Women. 
+ 
+The commissioners directed Public Information Officer Kim Moses to issue a press 
+release advising that the public hearing on the requested FY24 County operating budget will take 
+place in the Commissioners’ Meeting Room on May 2, 2023 at 7 p.m. and advising that 
+comments will be limited to three minutes.  
+ 
+The commissioners answered questions from the press, after which they adjourned to 
+meet again on May 2, 2023.
+
+<!-- page 10 -->
+ITEM 1
+1 - 1
+
+<!-- page 11 -->
+ITEM 1
+1 - 2
+
+<!-- page 12 -->
+ITEM 1
+1 - 3
+
+<!-- page 13 -->
+TO: 
+Weston Young, Chief Administrative Officer 
+Candace Savage, Deputy Chief Administrative Officer 
+FROM: 
+Lynn Wright, Senior Budget Accountant 
+DATE: 
+April 25, 2023 
+RE: 
+FY23 HUD Grant-Housing Rehabilitation Program 
+Attached is the FY23 Community Project Funding Grant Agreement for review and approval. Worcester County 
+has been awarded $100,000 per the Consolidated Appropriations Act, 2023. This funding will be used for 
+continuance of the housing rehabilitation program which allows for rehabilitation of substandard dwellings in the 
+county. 
+Attachment 
+ITEM 2
+2 - 1
+
+<!-- page 14 -->
+ITEM 2
+2 - 2
+
+<!-- page 15 -->
+ITEM 2
+2 - 3
+
+<!-- page 16 -->
+ITEM 2
+2 - 4
+
+<!-- page 17 -->
+ITEM 2
+2 - 5
+
+<!-- page 18 -->
+ITEM 2
+2 - 6
+
+<!-- page 19 -->
+ITEM 2
+2 - 7
+
+<!-- page 20 -->
+ITEM 2
+2 - 8
+
+<!-- page 21 -->
+ITEM 2
+2 - 9
+
+<!-- page 22 -->
+ITEM 2
+2 - 10
+
+<!-- page 23 -->
+ITEM 2
+2 - 11
+
+<!-- page 24 -->
+ITEM 2
+2 - 12
+
+<!-- page 25 -->
+ITEM 2
+2 - 13
+
+<!-- page 26 -->
+ITEM 2
+2 - 14
+
+<!-- page 27 -->
+ITEM 2
+2 - 15
+
+<!-- page 28 -->
+ITEM 2
+2 - 16
+
+<!-- page 29 -->
+ITEM 2
+2 - 17
+
+<!-- page 30 -->
+ITEM 2
+2 - 18
+
+<!-- page 31 -->
+ITEM 2
+2 - 19
+
+<!-- page 32 -->
+ITEM 2
+2 - 20
+
+<!-- page 33 -->
+ITEM 2
+2 - 21
+
+<!-- page 34 -->
+ITEM 2
+2 - 22
+
+<!-- page 35 -->
+ITEM 3
+3 - 1
+
+<!-- page 36 -->
+ITEM 3
+3 - 2
+
+<!-- page 37 -->
+ITEM 3
+3 - 3
+
+<!-- page 38 -->
+MEMORANDUM 
+TO: 
+Worcester County Commissioners 
+FROM: 
+Nicholas W. Rice, Procurement Officer 
+DATE: 
+May 2, 2023 
+RE: 
+Request to Award – Batting Cage System 
+Please see the attached bid tabulation for the purchase of a hands-free batting cage system at our Recreation and 
+Parks facility.  Parks and Recreation is requesting the Commissioner’s review and approval to award this purchase 
+to the lowest responsive and responsible vendor, TJ Distributors, in the amount of $55,350.  Bids were due and 
+opened on April 17, 2023 at 2:30pm.  Two bids were received.   
+Local Parks and Playground Infrastructure (LPPI) funding has been approved in the amount of $75,000 for this 
+purchase.  LPPI grant funds are 100% reimbursable.   
+Should you have any questions, please feel free to contact me. 
+Hands Free Batting Cage System 
+April 17, 2023 - 2:30pm 
+Bid Tabulation 
+Vendor Name 
+Base Bid 
+TJ Distributors of MD, Inc* 
+Option#1: $44,200.00  
+Option #2: $55,350.00 
+Promounds LLC, DBA on Deck Sports 
+$65,683.00 
+*apparent low bidder
+County Administration Office 
+1 West Market Street, Room 1103 
+Snow Hill, MD 21863 
+Phone: 410-632-1194 
+Fax: 410-632-3131 
+ITEM 4
+4 - 1
+
+<!-- page 39 -->
+WORCESTER COUNTY, MARYLAND 
+OFFICE OF THE COUNTY COMMISIONEERS 
+1 WEST MARKET STREET, ROOM 1103 
+SNOW HILL, MARYLAND 21863 
+410-632-1194
+FAX:  410-632-3131 
+Weston Young  
+ Nicholas W. Rice, CPPO, CPPB, NIGP-CPP 
+Chief Administrative Officer 
+        Procurement Officer 
+CONTRACT 
+THIS CONTRACT, made on May 2, 2023, between the County Commissioners of Worcester County, 
+Maryland (“County”); and TJ Distributors of MD, Inc. (“Successful Vendor”). 
+WITNESSED:  That for and in consideration for payment and agreements hereinafter mentioned: 
+1.
+Successful Vendor will commence and complete the HANDS-FREE BATTING CAGE
+SYSTEM.
+2.
+Successful Vendor will furnish all of the material, supplies, tools, equipment, labor and other
+services necessary for the Work described herein.
+3.
+Successful Vendor will commence and complete the Work required by the Contract Documents
+within the timeframes listed in the Bid Documents unless the period for completion is extended
+otherwise.
+4.
+Successful Vendor agrees to perform all of the Work described in the Contract Documents and
+comply with the terms therein for the sum of $55,350 (Fifty-five thousand three hundred fifty
+dollars and no cents) or as shown in the Form of Bid.
+5.
+The term ‘Contract Documents’ means and includes the following:
+a.
+This Contract
+b.
+Exhibit A - Worcester County Maryland Standard Terms and Conditions
+c.
+Advertisement
+d.
+Section I: Introduction
+e.
+Section II: General Information
+f.
+Section III: Bid Specifications
+g.
+Form of Bid
+h.
+References
+i.
+Exceptions
+j.
+Individual Principal
+k.
+Vendor’s Affidavit of Qualification to Bid
+l.
+Non-Collusive Affidavit
+m. Addendums 1 and 2
+n.
+Successful Vendor’s Completed Bid Documents
+o.
+Notice of Award
+p.
+Notice to Proceed
+ITEM 4
+4 - 2
+
+<!-- page 40 -->
+6.
+Any inconsistency or conflict between the Contract Documents shall be resolved in their order
+listed above.
+7.
+The County will pay the Successful Vendor in the manner and at such times as set forth in the Bid
+Documents.
+8.
+This Contract will be binding upon all parties hereto and their respective heirs, executors,
+administrators, successors, and assigns.
+IN WITNESS WHEREOF, the parties hereto have executed, or caused to be executed by their duly 
+authorized officials, this Contract in duplicate each of which will be deemed an original on the date first 
+above written. 
+ATTEST: 
+COUNTY COMMISSIONERS OF 
+WORCESTER COUNTY, MARYLAND 
+__________________________________ 
+_________________________________ 
+Anthony W. Bertino, Jr. 
+President 
+Date: 
+WITNESS: 
+CONTRACTOR: 
+TJ DISTRIBUTORS OF MD, INC. 
+__________________________________ 
+_________________________________ 
+By: 
+Title: 
+Date: 
+ITEM 4
+4 - 3
+
+<!-- page 41 -->
+MEMORANDUM 
+TO: 
+Weston S. Young, Chief Administrative Officer 
+Candace Savage, Deputy Chief Administrative Officer 
+FROM: 
+Kelly Rados, Director of Recreation & Parks 
+DATE: 
+April 5, 2023 
+SUBJECT: 
+Power Boat Race Request – August 18 – 20, 2023 
+____________________________________________________________________________ 
+Please find attached a Special Event application from Phil Houck, owner of Crab Alley, requesting permission to 
+use the West Ocean City commercial parking lot and boat ramp for the proposed Ocean City Power Boat Race on 
+August 19 - 20, 2023. The Recreation & Parks Department has reviewed this request and supports the request. This 
+is an annual request and there have been no issues in previous year. 
+His request includes: 
+1.
+Use of two-thirds of the east end of the parking lot to accommodate trailers and racing boats.
+2.
+Use of one (1) recreational boat launch.
+3.
+Use of traffic cones and barriers provided by the county.
+In as much, if you approve, we are recommending the following information for Mr. Houck to be required: 
+1. Provide a list of activities for the day of the race.
+2. Work with the Parks Department on the parking lot set-up.
+3. Work with the Parks Department on trash removal daily with final clean up inspection.
+4. Continued use of the recreational boating side of the ramp (2 - ramps by County).
+5. Provide for any security and traffic control during use and coordination with the County Sheriff’s
+department including overnight hours.
+6. On site Point of Contact name, telephone number, etc. to handle any unforeseen issues.
+7. Not to block any of the handicapped parking spaces available next to the public restrooms.
+8. Provides the required insurance naming Worcester County as insured.
+9. Acknowledges all the required permitting for the operation of the event.
+10. Provide promotion to Worcester County.
+11. Operation of any music or public address system in accordance to any and all Worcester County codes.
+Should you have any questions, please feel free to reach out at your convenience. 
+Attachments  
+cc:   Jacob Stephens, Parks Superintendent    
+        Melanie Pursel, Worcester County Tourism 
+        Matt Crisafull, Worcester County Sheriff 
+ITEM 5
+5 - 1
+
+<!-- page 42 -->
+ITEM 5
+5 - 2
+
+<!-- page 43 -->
+ITEM 5
+5 - 3
+
+<!-- page 44 -->
+ITEM 5
+5 - 4
+
+<!-- page 45 -->
+ITEM 5
+5 - 5
+
+<!-- page 46 -->
+ITEM 5
+5 - 6
+
+<!-- page 47 -->
+ITEM 5
+5 - 7
+
+<!-- page 48 -->
+Bull on The Beach Offshore Power Boat Races 
+Friday August 18th 2023 
+All Day:  
+Arrival of Race Boats - Race Village - West Ocean City Public Ramp, Sunset Ave, MD 
+9 :00 AM – 4:00 PM 
+Race Boats Inspections - Race Village 
+Crane Area - West Ocean City Public Ramp 
+Ramp Area - West Ocean City Public Ramp 
+Wet Pits - West Ocean City Public Ramp 
+Dry Pits - West Ocean City Public Ramp 
+7:00 PM 
+Meet the Racers Party @ Pier 23 Across from wet pits 
+Saturday August 19th, 2023 
+All Day:  
+Arrival of Race Boats - Race Village - West Ocean City Public Ramp, Sunset Ave, MD 
+8AM 
+Course Buoys set 
+8:30 AM 
+Race Control Operational 
+9:00 AM 
+Drivers Meeting @ Crab Alley Restaurant 
+9 AM - 5 PM 
+Crane lift and Ramp operational - West Ocean City Public Ramp 
+10:00 AM - 4:00 PM 
+Team Registration - CRAB ALLEY 
+10:00 AM - 5:00 PM 
+Race Boat testing must be 1 (one) mile off racecourse per Ocean City 
+12:00 PM - 4:00 PM 
+GPS Registration @ Crab Alley 
+7 PM- Til 
+Meet the Racers Party: TBD 
+Sunday August 20th, 2023 
+All Day:  
+Arrival of Race Boats - Race Village - West Ocean City Public Ramp, Sunset Ave, MD 
+7:30 AM 
+ Team physicals – Crab Alley Restaurant 
+7:30 AM 
+Course Buoy's set 
+8:30 AM 
+Medical and Dive team briefing (Bruce Johnson) – Crab Alley 
+8:30 AM 
+Race Control Operational 
+9:00 AM 
+Driver’s meeting – Crab Alley 
+9:00 AM 
+Patrol Fleet Briefing- Crab Alley  
+9:00 AM - 5:00 PM 
+Crane lift and Ramp Operational  
+10:30 AM 
+Race Patrol Fleet and Course Support Fleet on Station  
+12:00 PM 
+Race 1 (start subject to adjustment  
+2:00 PM 
+Race 2 (start subject to adjustment) 
+7:00 PM 
+Awards Party- Crab Alley- 9703 Golf Course Road, West Ocean City, MD 
+ITEM 5
+5 - 8
+
+<!-- page 49 -->
+ITEM 6
+6 - 1
+
+<!-- page 50 -->
+ITEM 6
+6 - 2
+
+<!-- page 51 -->
+ITEM 6
+6 - 3
+
+<!-- page 52 -->
+ITEM 6
+6 - 4
+
+<!-- page 53 -->
+ITEM 6
+6 - 5
+
+<!-- page 54 -->
+ITEM 6
+6 - 6
+
+<!-- page 55 -->
+ITEM 6
+6 - 7
+
+<!-- page 56 -->
+ITEM 6
+6 - 8
+
+<!-- page 57 -->
+ITEM 6
+6 - 9
+
+<!-- page 58 -->
+ITEM 6
+6 - 10
+
+<!-- page 59 -->
+ITEM 6
+6 - 11
+
+<!-- page 60 -->
+ITEM 6
+6 - 12
+
+<!-- page 61 -->
+ITEM 6
+6 - 13
+
+<!-- page 62 -->
+ITEM 6
+6 - 14
+
+<!-- page 63 -->
+ITEM 6
+6 - 15
+
+<!-- page 64 -->
+ITEM 6
+6 - 16
+
+<!-- page 65 -->
+ITEM 6
+6 - 17
+
+<!-- page 66 -->
+ITEM 6
+6 - 18
+
+<!-- page 67 -->
+ITEM 6
+6 - 19
+
+<!-- page 68 -->
+ITEM 6
+6 - 20
+
+<!-- page 69 -->
+ITEM 6
+6 - 21
+
+<!-- page 70 -->
+ITEM 6
+6 - 22
+
+<!-- page 71 -->
+MEMORANDUM 
+TO: 
+ 
+Worcester County Commissioners 
+FROM:  
+Weston S. Young, Chief Administrative Officer 
+DATE:   
+April 26, 2023 
+RE: 
+ 
+Berlin Fire Company Letter of Support Request  
+Berlin Fire Company is requesting the Commissioners send a letter of support for their Assistance to Firefighters 
+Grant application to replace their Self‐Contained Breathing Apparatus. 
+Attachments: 
+Email from President Fitzgerald – Page 2 
+ITEM 7
+7 - 1
+
+<!-- page 72 -->
+1
+Weston S. Young
+From:
+David A Fitzgerald <dfitzgerald@berlinfire.com>
+Sent:
+Friday, April 21, 2023 1:08 PM
+To:
+commissioners
+Cc:
+Candace Savage; Weston S. Young
+Subject:
+Letter of Support for Berlin Fire Co Assistance to Firefighters Grant Applications
+We are requesting a letter of support for our Assistance to Firefighters Grant for the self-contained 
+breathing apparatus.  
+The following important information must be in the letter. 
+We are supporting the Assistance to Firefighters Grant application of Berlin Fire Company, Inc., 
+application number EMW-022-FG-06672 for funding consideration to replace their Self-Contained 
+Breathing Apparatus (SCBA) and to make the necessary air compressor modifications to fill the new 
+air cylinders. 
+Their request is to replace units that have reached end of their useful lifespan and are no longer 
+complaint with NFPA and other safety standards.  Their newest units are over 16 years old with some 
+units dating back to 1988.  Units that were purchased in 2007 were refurbished units. 
+The letter should be sent to: 
+Mrs. Pamela Williams 
+Assistant Administrator, Grants Program Directorate 
+Federal Emergency Management Agency 
+500 C Street SW, Room 700 
+Washington, DC 20472-3198 
+Thank you for your support of our grant application. 
+David A. Fitzgerald 
+President 
+Berlin Fire Company, Inc, 
+Berlin Fire Company Emergency Medical Services, Inc, 
+214 North Main Street 
+Berlin, MD 21811 
+410‐641‐1977 firehouse 
+410‐641‐2494 firehouse fax 
+410‐629‐1474 home 
+410‐626‐1476 home fax 
+410‐726‐9083 cell 
+dfitzgerald@berlinfire.com 
+ITEM 7
+7 - 2
+
+<!-- page 73 -->
+MEMORANDUM 
+TO: 
+Worcester County Commissioners 
+FROM: 
+Nicholas W. Rice, Procurement Officer 
+DATE: 
+May 2, 2023 
+RE: 
+Request to Award – Government Center Sound Attenuating Panels 
+Please see the attached proposal tabulation for the purchase of Sound Attenuating Panels to be located within the 
+Worcester County Government Center.  Public Works is requesting the Commissioner’s review and approval to 
+award this purchase to Snap-Wall, Inc., in the amount of $50,424.  Proposals were due and opened on April 6, 2023 
+at 2:30pm.  One proposal was received.   
+Funding in the amount of $60,000 has been approved under Assigned Funds – Government Center Panels for this 
+project. 
+Should you have any questions, please feel free to contact me. 
+Worcester County Government Center Sound Attenuating Project 
+4/6/2023, 2:30pm 
+Request for Proposals Tabulation Sheet 
+Respondent's Name(s): 
+Snap-Wall Inc
+County Administration Office 
+1 West Market Street, Room 1103 
+Snow Hill, MD 21863 
+Phone: 410-632-1194 
+Fax: 410-632-3131 
+ITEM 8
+8 - 1
+
+<!-- page 74 -->
+WORCESTER COUNTY, MARYLAND 
+OFFICE OF THE COUNTY COMMISIONEERS 
+1 WEST MARKET STREET, ROOM 1103 
+SNOW HILL, MARYLAND 21863 
+410-632-1194
+FAX:  410-632-3131 
+Weston Young  
+ Nicholas W. Rice, CPPO, CPPB, NIGP-CPP 
+Chief Administrative Officer 
+        Procurement Officer 
+CONTRACT 
+THIS CONTRACT, made on May 2, 2023, between the County Commissioners of Worcester County, 
+Maryland (“County”); and Snap-Wall, Inc. (“Successful Vendor”). 
+WITNESSED:  That for and in consideration for payment and agreements hereinafter mentioned: 
+1.
+Successful Vendor will commence and complete the WORCESTER COUNTY
+GOVERNEMENT CENTER SOUND ATTENUATING PANELS.
+2.
+Successful Vendor will furnish all of the material, supplies, tools, equipment, labor and other
+services necessary for the Work described herein.
+3.
+Successful Vendor will commence and complete the Work required by the Contract Documents
+within the timeframes listed in the Proposal Documents unless the period for completion is
+extended otherwise.
+4.
+Successful Vendor agrees to perform all of the Work described in the Contract Documents and
+comply with the terms therein for the sum of $50,424 (Fifty-thousand four hundred twenty-four
+dollars and no cents) or as shown in the Form of Bid.
+5.
+The term ‘Contract Documents’ means and includes the following:
+a.
+This Contract
+b.
+Exhibit A - Worcester County Maryland Standard Terms and Conditions
+c.
+Advertisement
+d.
+Section I: Introduction
+e.
+Section II: General Information
+f.
+Section III:  General Conditions
+g.
+Section IV: Proposal Specifications
+h.
+Section V: Evaluation and Selection Process
+i.
+Form of Proposal
+j.
+References
+k.
+Exceptions
+l.
+Individual Principal
+m. Vendor’s Affidavit of Qualification to Bid
+n.
+Non-Collusive Affidavit
+o.
+Addendum 1
+p.
+Successful Vendor’s Completed Proposal Documents
+ITEM 8
+8 - 2
+
+<!-- page 75 -->
+q.
+Notice of Award
+r.
+Notice to Proceed
+6.
+Any inconsistency or conflict between the Contract Documents shall be resolved in their order
+listed above.
+7.
+The County will pay the Successful Vendor in the manner and at such times as set forth in the
+Proposal Documents.
+8.
+This Contract will be binding upon all parties hereto and their respective heirs, executors,
+administrators, successors, and assigns.
+IN WITNESS WHEREOF, the parties hereto have executed, or caused to be executed by their duly 
+authorized officials, this Contract in duplicate each of which will be deemed an original on the date first 
+above written. 
+ATTEST: 
+COUNTY COMMISSIONERS OF 
+WORCESTER COUNTY, MARYLAND 
+__________________________________ 
+_________________________________ 
+Anthony W. Bertino, Jr. 
+President 
+Date: 
+WITNESS: 
+CONTRACTOR: 
+SNAP-WALL, INC. 
+__________________________________ 
+_________________________________ 
+By: 
+Title: 
+Date: 
+ITEM 8
+8 - 3
+
+<!-- page 76 -->
+MEMORANDUM 
+TO: 
+Worcester County Commissioners 
+FROM: 
+Nicholas W. Rice, Procurement Officer 
+DATE: 
+May 2, 2023 
+RE: 
+Request to Bid – Recreation Center Storage Addition 
+Attached for your review and approval are bid documents for the addition of a storage area to the existing 
+Recreation Center.  Once the Commissioners have had the opportunity to review these documents, it is requested 
+that authorization be provided to solicit bids for these services. 
+Funding for these services were approved by Program Open Space in the amount of $623,000.  Project Open Space 
+funding is 90% reimbursable.   
+Should you have any questions, please feel free to contact me. 
+ITEM 9
+9 - 1
+
+<!-- page 77 -->
+1 
+Worcester County Administration 
+1 West Market Street, Room 1103 
+Snow Hill, Maryland 21863 
+ INVITATION FOR BID 
+      PROJECT:    Worcester County Recreation Storage Addition      
+    DEPARTMENT:    
+  Parks and Recreation 
+VENDOR: 
+       NAME: 
+     ADDRESS: 
+BID OPENING: 
+ DATE: 
+        TIME: 
+ITEM 9
+9 - 2
+
+<!-- page 78 -->
+2 
+TABLE OF CONTENTS 
+SECTION I:  INTRODUCTION .......................................................................................................................................................................................................... 3
+A.
+PURPOSE ............................................................................................................................................................................................................................ 3
+B.
+CLARIFICATION OF TERMS ......................................................................................................................................................................................... 3
+C. 
+QUESTIONS AND INQUIRES .......................................................................................................................................................................................... 3
+D.
+FILLING OUT BID DOCUMENTS .................................................................................................................................................................................. 3
+E.
+SUBMISSION OF BID DOCUMENTS ............................................................................................................................................................................. 3
+F.
+OPENING OF BIDS ............................................................................................................................................................................................................ 4
+G.
+ACCEPTANCE OR REJECTION OF BIDS .................................................................................................................................................................... 4
+H.
+QUALIFICATIONS ............................................................................................................................................................................................................ 5
+I.
+DESCRIPTIVE LITERATURE ......................................................................................................................................................................................... 5
+J. 
+NOTICE TO VENDORS .................................................................................................................................................................................................... 5
+K.
+PIGGYBACKING ............................................................................................................................................................................................................... 6
+SECTION II:  GENERAL INFORMATION ....................................................................................................................................................................................... 7
+A.
+ECONOMY OF BID ........................................................................................................................................................................................................... 7
+B.
+PUBLIC INFORMATION ACT (PIA) .............................................................................................................................................................................. 7
+C. 
+CONTRACT AWARD ........................................................................................................................................................................................................ 7
+D.
+AUDIT .................................................................................................................................................................................................................................. 7
+E.
+NONPERFORMANCE ....................................................................................................................................................................................................... 7
+F.
+MODIFICATION OR WITHDRAWL OF BID ................................................................................................................................................................ 8
+G.
+DEFAULT ............................................................................................................................................................................................................................ 8
+H.
+COLLUSION/FINANCIAL BENEFIT .............................................................................................................................................................................. 8
+I.
+TAX EXEMPTION ............................................................................................................................................................................................................. 8
+J. 
+CONTRACT CHANGES .................................................................................................................................................................................................... 8
+K.
+ADDENDUM ....................................................................................................................................................................................................................... 9
+L.
+EXCEPTIONS/ SUBSTITUTIONS.................................................................................................................................................................................... 9
+M. 
+APPROVED EQUALS ...................................................................................................................................................................................................... 10 
+N.
+DELIVERY ........................................................................................................................................................................................................................ 10 
+O.
+INSURANCE ..................................................................................................................................................................................................................... 10 
+P.
+BID EVALUATION .......................................................................................................................................................................................................... 10 
+SECTION III:  GENERAL CONDITIONS ....................................................................................................................................................................................... 11 
+A.
+DRAWINGS AND SPECIFICATIONS ........................................................................................................................................................................... 11 
+B.
+MATERIALS, SERVICES AND FACILITIES .............................................................................................................................................................. 11 
+C. 
+INSPECTION AND TESTING ........................................................................................................................................................................................ 11 
+D.
+APPROVAL OF SUBSTITUTION OF MATERIALS ................................................................................................................................................... 12 
+E.
+PROTECTION OF WORK, PROPERTY AND PERSONS .......................................................................................................................................... 12 
+F.
+BARRICADES, DANGER, WARNING AND DETOUR SIGNS .................................................................................................................................. 12 
+G.
+LICENSES AND PERMITS ............................................................................................................................................................................................. 12 
+H.
+SUPERVISION .................................................................................................................................................................................................................. 12 
+I.
+CLEAN UP ........................................................................................................................................................................................................................ 13 
+J. 
+CHANGES IN WORK ...................................................................................................................................................................................................... 13 
+K.
+TIME FOR COMPLETION ............................................................................................................................................................................................. 13 
+L.
+LIQUIDATED DAMAGES .............................................................................................................................................................................................. 13 
+M. 
+CORRECTION OF WORK ............................................................................................................................................................................................. 14 
+N.
+CONSTRUCTION SAFETY AND HEALTH STANDARDS ........................................................................................................................................ 14 
+O.
+BID BOND ......................................................................................................................................................................................................................... 14 
+P.
+PERFORMANCE AND PAYMENT BONDS ................................................................................................................................................................. 14 
+Q.
+GUARANTEE ................................................................................................................................................................................................................... 15 
+SECTION IV:  BID SPECIFICATIONS............................................................................................................................................................................................ 16 
+A.
+SCOPE ............................................................................................................................................................................................................................... 16 
+B.
+CONTRACT PRICING .................................................................................................................................................................................................... 16 
+C. 
+SUMMARY ....................................................................................................................................................................................................................... 16 
+D.
+PROJECT SCHEDULE .................................................................................................................................................................................................... 18 
+E.
+BID SUBMITTALS ........................................................................................................................................................................................................... 18 
+F.
+PERMITS .......................................................................................................................................................................................................................... 18 
+G.
+GENERAL REQUIREMENTS ........................................................................................................................................................................................ 19 
+H.
+ATTACHMENTS .............................................................................................................................................................................................................. 19 
+I.
+PRE-BID CONFERENCE ................................................................................................................................................................................................ 19 
+J. 
+PAYMENT......................................................................................................................................................................................................................... 19 
+K.
+QUESTIONS...................................................................................................................................................................................................................... 20 
+L.
+AWARD ............................................................................................................................................................................................................................. 20 
+FORM OF BID .................................................................................................................................................................................................................................... 21 
+REFERENCES .................................................................................................................................................................................................................................... 22 
+EXCEPTIONS ..................................................................................................................................................................................................................................... 23 
+INDIVIDUAL PRINCIPAL ................................................................................................................................................................................................................ 24 
+VENDOR’S AFFIDAVIT OF QUALIFICATION TO BID .............................................................................................................................................................. 25 
+NON-COLLUSIVE AFFIDAVIT ....................................................................................................................................................................................................... 26 
+EXHIBIT A .......................................................................................................................................................................................................................................... 27 
+ITEM 9
+9 - 3
+
+<!-- page 79 -->
+3 
+SECTION I:  INTRODUCTION 
+A. PURPOSE
+1.
+The purpose of this Invitation for Bid Document is for Worcester County (“County”) to contract
+for the construction of an addition to the existing Recreation Center at 6030 Public Landing Road
+in conformity with the requirements contained herein (“Bid Document(s)”).
+B. CLARIFICATION OF TERMS
+1.
+Firms or individuals that submit a bid for award of a contract (“Contract”) are referred to as
+vendors (“Vendors”) in this document.  The Vendor that is awarded the Contract is herein
+referred to as the (“Successful Vendor”).
+C. QUESTIONS AND INQUIRES
+1.
+Questions must be addressed in writing to the Worcester County Procurement Officer at
+nrice@co.worcester.md.us.
+2.
+The last date to submit questions for clarification will be noon on _____________________.
+3.
+Addenda are posted on the County website at https://www.co.worcester.md.us/ under County
+Info: Bid Board: at https://www.co.worcester.md.us/commissioners/bids at least five calendar
+days before bid opening.
+4.
+It is the Vendors responsibly to make sure all addenda are acknowledged in their bid. Failure to
+do so could result in the bid being disqualified.
+D. FILLING OUT BID DOCUMENTS
+1.
+Use only forms supplied by the County.
+2.
+One unbound original and two bound copies of the bid form and any required attachments must
+be submitted in the solicitation and can be submitted in the same envelope unless otherwise
+instructed.
+3.
+Bid Documents should be complied as follows: (1) Cover letter, (2) Form of Bid, (3) References,
+(4) Exceptions Document and Signed addenda, if necessary (5) Individual Principal Document,
+(6) Vendor’s Affidavit of Qualification to Bid, and (7) Non-Collusive Affidavit
+4.
+Where so indicated by the make-up of the Bid Documents, sums will be expressed in both words
+and figures, and in the case of a discrepancy between the two, the amount written in words will
+govern.  In the event there is a discrepancy between the unit price and the extended totals, the unit
+prices will govern.
+5.
+Any interlineation, alteration, or erasure will be initialed by the signer of the Bid Documents.
+6.
+Each copy of the Bid Documents will be signed by the person(s) legally authorized to bind the
+Vendor to a contract, using the legal name of the signer.  Bid Documents submitted by an agent
+will have a current Power of Attorney attached certifying the agent’s authority to bind the
+Vendor.
+7.
+Vendor will supply all information and submittals required by the Bid Documents to constitute a
+proper and responsible completed Bid Document package.
+8.
+Any ambiguity in the Bid Documents as a result of omission, error, lack of clarity or non-
+compliance by the Vendor with specifications, instructions, and/or all conditions of bidding will
+be construed in the light most favorable to the County.
+E. SUBMISSION OF BID DOCUMENTS
+1.
+All copies of the Bid Documents and any other documents required to be submitted with the Bid
+Documents will be enclosed in a sealed envelope.  The envelope will be addressed to the
+ITEM 9
+9 - 4
+
+<!-- page 80 -->
+4 
+Worcester County Commissioners and will be identified with the project name: WORCESTER 
+COUNTY RECREATION STORAGE ADDITION and the Vendor’s name and address.  If the 
+Bid Documents are sent by mail, the sealed envelope will be enclosed in a separate mailing 
+envelope with the notation “SEALED BID DOCUMENTS ENCLOSED” on the face thereof. 
+2.
+Bids must be mailed or hand carried to the Worcester County Administration Office, 1 West
+Market Street, Room 1103, Snow Hill, MD 21863, in order to be received prior to the
+announced bid deadline.  Bids received after said time or delivered to the wrong location will be
+returned to the Vendor unopened.
+3.
+Bids are due and will be opened at the time listed on the front of this Bid Document.
+4.
+If you are delivering a bid in person please keep in mind to allow time to get through security and
+into the Administration Office. It is fully the responsibility of the Vendor to ensure that the bid is
+received on time.
+5.
+The County will not speculate as to reasonableness of the postmark, nor comment on the apparent
+failure of a public carrier to have made prompt delivery of the bid.
+6.
+Vendors, or their authorized agents, are expected to fully inform themselves as to the conditions,
+requirements, and specifications before submitting Bid Documents; failure to do so will be at the
+Vendor’s own risk.
+7.
+A fully executed Affidavit of Qualification to Bid will be attached to each Bid Document.
+8.
+Minority vendors are encouraged to participate.
+9.
+All Vendor submitted Bid Documents will be valid for a minimum of sixty days from the date of
+Bid Document opening.
+10. Electronically mailed bids are not considered sealed bids and will not be accepted.
+F.
+OPENING OF BIDS
+1.
+Bid Documents received on time will be opened publicly and Vendor’s names and total costs will
+be read aloud for the record.
+2.
+The Contract will be awarded or all Bid Documents will be rejected within sixty days from the
+date of the Bid Document opening.
+G. ACCEPTANCE OR REJECTION OF BIDS
+1.
+Unless otherwise specified, the Contract will be awarded to the most responsible and responsive
+Vendor complying with the provisions of the Bid Documents, provided the bid does not exceed
+the funds available, and it is in the best interest of the County to accept it.  The County reserves
+the right to reject the Bid Documents of any Vendor who has previously failed to perform
+properly in any way or complete on time contracts of a similar nature; or a Bid Document from a
+Vendor who, investigation shows, is not in a position to perform the Contract; or Bid Documents
+from any person, firm, or corporation which is in arrears or in default to the County for any debt
+or contract.
+2.
+Completed Bid Documents from Vendors debarred from doing business with the State of
+Maryland or the Federal Government will not be accepted.
+3.
+In determining a Vendor’s responsibility, the County may consider the following qualifications,
+in addition to price:
+a.
+Ability, capacity, and skill to provide the commodities or services required within the
+specified time, including future maintenance and service, and including current financial
+statement or other evidence of pecuniary resources and necessary facilities.
+b.
+Character, integrity, reputation, experience and efficiency.
+ITEM 9
+9 - 5
+
+<!-- page 81 -->
+5 
+c.
+Quality of past performance on previous or existing contracts, including a list of current
+and past contracts and other evidence of performance ability.
+d.
+Previous and existing compliance with laws and ordinances relating to contracts with the
+County and to the Vendor’s employment practices.
+e.
+Evidence of adequate insurance to comply with Contract terms and conditions.
+f.
+Statement of current work load and capacity to perform/provide the Goods and/or
+Services.
+g.
+Explanation of methods to be used in fulfilling the Contract.
+h.
+The Vendor, if requested, will be prepared to supply evidence of its qualifications, listed
+above, and its capacity to provide/perform the Goods and/or Services; such evidence to
+be supplied within a specified time and to the satisfaction of the County.
+4.
+In determining a Vendor’s responsiveness, the County will consider whether the Bid Document
+conforms in all material respects to the Bid Documents.  The County reserves the right to waive
+any irregularities that may be in its best interest to do so.
+5.
+The County will have the right to reject any and all Bid Documents, where applicable to accept in
+whole or in part, to add or delete quantities, to waive any informalities or irregularities in the Bid
+Document received, to reject a Bid Document not accompanied by required Bid security or other
+data required by the Bid Documents, and to accept or reject any Bid Document which deviates
+from specifications when in the best interest of the County.  Irrespective of any of the foregoing,
+the County will have the right to award the Contract in its own best interests.
+H. QUALIFICATIONS
+1.
+The Vendor must be in compliance with the laws regarding conducting business in the State of
+Maryland.
+All Vendors shall provide a copy Certificate of Status from the Maryland Department of
+Assessments and Taxation, evidencing the Vendor is in good standing with the State of Maryland.
+See https://sdatcert1.resiusa.org/certificate_net/ for information on obtaining the Certificate of
+Status. Certificates of status are not available for trade names, name reservations, government
+agencies, sole proprietorships, and some other accounts as these are not legal entities and thus
+are not required for these categories of Vendors. For more information on the Certificate of
+Status please see http://www.dat.state.md.us/sdatweb/COSinfo.html .
+2.
+Worcester County reserves the right, at its sole discretion, to extend the date this documentation
+must be provided. The Vendor’s inability to provide this documentation could result in the bid
+being rejected.
+I.
+DESCRIPTIVE LITERATURE
+1.
+The proposed descriptive literature fully describing the product bid is what is intended to be
+included as the price.  Failure to do so may be cause for rejection of the bid.
+2.
+Any items, systems or devices supplied in this bid that are proprietary in nature relative to
+maintenance, repair, servicing or updating must be disclosed on the bid form.
+J.
+NOTICE TO VENDORS
+1.
+Before a Vendor submits the Bid Documents it will need to become fully informed as to the
+extent and character of the Goods and/or Services required and are expected to completely
+familiarize themselves with the requirements of this Bid Document’s specifications.  Failure to do
+so will not relieve the Vendor of the responsibility to fully perform in accordance therewith.  No
+consideration will be granted for any alleged misunderstanding of the material to be furnished or
+ITEM 9
+9 - 6
+
+<!-- page 82 -->
+6 
+the Services to be performed, it being understood that the submission of a Bid Document is an 
+agreement with all of the items and conditions referred to herein. 
+K. PIGGYBACKING
+1.
+Worcester County may authorize, upon request, any governmental entity (hereafter Authorized
+User) within the County to purchase items under the contract awarded pursuant to this bid
+solicitation.
+2.
+All purchase orders issued against the contract by an authorized User shall be honored by the
+Successful Vendor in accordance with all terms and conditions of this contract.
+3.
+The issuance of a purchase order by an Authorized User pursuant to this provision shall constitute
+an express assumption of all contractual obligations, covenants, conditions and terms of the
+contract.  A breach of the contract by any particular Authorized User shall neither constitute nor
+be deemed a breach of the contract as a whole which shall remain in full force and effect, and
+shall not affect the validity of the contract nor the obligations of the Successful Vendor
+thereunder respecting the County.
+4.
+The County specifically and expressly disclaims any and all liability for any breach by an
+Authorized User other than the County and each such Authorized User and Successful Vendor
+guarantee to save the County, its officers, agents and employees harmless from any liability that
+may be or is imposed by the Authorized User’s failure to perform in accordance with its
+obligations under the contract.
+END OF SECTION 
+ITEM 9
+9 - 7
+
+<!-- page 83 -->
+7 
+SECTION II:  GENERAL INFORMATION 
+A. ECONOMY OF BID
+1.
+Bid Documents will be prepared simply and economically, providing straightforward and concise
+description of the Vendor’s capabilities to satisfy the requirements of the Bid Documents.
+Emphasis should be on completeness and clarity of content.  Elaborate brochures and other
+representations beyond that sufficient to present a complete and effective Bid Document are
+neither required nor desired.
+B. PUBLIC INFORMATION ACT (PIA)
+1.
+Worcester County is subject to the Maryland Public Information Act and may be required to
+release bid submissions in accordance with the Act.
+2.
+Any materials the Vendor deems to be proprietary or copyrighted must be marked as such;
+however, the material may still be subject to analysis under the Maryland Public Information Act.
+a.
+The Vendor may invoke proprietary information or trade secret protection for submission
+of any data/material by (1) identifying the data/material in a written description, (2)
+clearly marking the data/material as proprietary, and (3) providing a written statement
+detailing the reasons why protection is necessary. The County reserves the right to ask for
+additional clarification prior to establishing protection.
+C. CONTRACT AWARD
+1.
+A written award by the County to the Successful Vendor in the form of a Purchase Order or other
+contract document will result in a binding Contract without further action by either party.  If the
+Successful Vendor fails or refuses to sign and deliver the Contract and the required insurance
+documentation, the County will have the right to award to the next responsible and responsive
+Vendor.  Contract will be executed by the Successful Vendor within fourteen calendar days of
+receipt of the Contract.
+2.
+Bid Documents and Contracts issued by the County will bind the Vendor to applicable conditions
+and requirements herein set forth, unless otherwise specified in the Bid Documents, and are
+subject to all federal, state, and municipal laws, rules, regulations, and limitations.
+3.
+County personal property taxes (“Taxes”) must be on a current basis; if any such Taxes are
+delinquent, they must be paid before award of Contract.  Failure to pay will result in the award of
+Contract to another Vendor.
+4.
+The County reserves the right to engage in individual discussions and interviews with those
+Vendors deemed fully qualified, responsible, suitable and professionally competent to provide the
+required Goods and/or Services should the project size warrant it.  Vendors will be encouraged to
+elaborate on their qualifications, performance data, and staff expertise.
+D. AUDIT
+1.
+The Successful Vendor agrees to retain all books, records, and other documents relative to the
+awarded Contract for five years after final payment, or until audited.  The County, its authorized
+agents, and/or State auditors will have full access to and the right to examine any of said materials
+during said period.
+E. NONPERFORMANCE
+1.
+The County reserves the right to inspect all operations and to withhold payment for any goods not
+performed or not performed in accordance with the specifications in this Bid Document.  Errors,
+omissions or mistakes in performance will be corrected at no cost to the County.  Failure to do so
+ITEM 9
+9 - 8
+
+<!-- page 84 -->
+8 
+will be cause for withholding of payment for that Goods and/or Services.  In addition, if 
+deficiencies are not corrected in a timely manner, the County may characterize the Successful 
+Vendor as uncooperative, which may jeopardize future project order solicitations. 
+F.
+MODIFICATION OR WITHDRAWL OF BID
+1.
+A Bid Document may not be modified, withdrawn, or cancelled by the Vendor during the
+stipulated time period following the time and date designated for the receipt of Bid Documents,
+and each Vendor so agrees in submitting Bid Documents.
+G. DEFAULT
+1.
+The Contract may be cancelled or annulled by the County in whole or in part by written notice of
+default to the Successful Vendor upon non-performance, violation of Contract terms, delivery
+failure, bankruptcy or insolvency, any violation of state or local laws, or the making of an
+assignment for the benefit of creditors.  An award may then be made to the next most highly rated
+Vendor, or when time is of the essence, similar commodities and/or service may be purchased on
+the open market.  In either event, the defaulting Vendor (or his surety) will be liable to the County
+for cost to the County in excess of the defaulted Contract price.
+2.
+If a representative or warranty of either Party to the Contract is false or misleading in any
+material respect, or if either Party breaches a material provision of the Contract (“Cause”), the
+non-breaching Party will give the other Party written notice of such cause. If such Cause is not
+remedied within fifteen calendar days (“Cure Period”) after receipt of such notice, (unless, with
+respect to those Causes which cannot be reasonably corrected or remedied within the Cure
+Period, the breaching Party will have commenced to correct or remedy the same within such Cure
+Period and thereafter will proceed with all due diligence to correct or remedy the same), the Party
+giving notice will have the right to terminate this Contract upon the expiration of the Cure Period.
+H. COLLUSION/FINANCIAL BENEFIT
+1.
+The Vendor certifies that his/her Bid is made without any previous understanding, agreement, or
+connection with any person, firm, or corporation making a Bid Document for the same project;
+without prior knowledge of competitive prices; and is in all respects fair, without outside control,
+collusion, fraud, or otherwise illegal action.
+2.
+Upon signing the Bid Document, Vendor certifies that no member of the governing body of the
+County, or members of his/her immediate family, including spouse, parents or children, or any
+other officer or employee of the County, or any member or employee of a Commission, Board, or
+Corporation controlled or appointed by the County Commissioners has received or has been
+promised, directly or indirectly, any financial benefit, related to this Bid Document and
+subsequent Contract.
+I.
+TAX EXEMPTION
+1.
+In buying products directly from a Vendor, Worcester County is exempt from being directly
+charged Federal excise and Maryland sales tax.  A copy of an exemption certificate shall be
+furnished upon request.
+2.
+According to the Office of the Comptroller of Maryland, a Contractor is responsible for paying
+sales tax on his/her purchases relating to any projects or services and should incorporate it into
+their bid.
+3.
+Successful Vendors cannot use the County tax exemption to buy materials or products used on
+County projects.
+J.
+CONTRACT CHANGES
+ITEM 9
+9 - 9
+
+<!-- page 85 -->
+9 
+1.
+No claims may be made by anyone that the scope of the project or that the Vendor’s Goods
+and/or Services have been changed (requiring changes to the amount of compensation to the
+Vendor or other adjustments to the Contract) unless such changes or adjustments have been made
+by an approved written amendment (Change Order) to the Contract signed by the Chief
+Administrative Officer (and the County Commissioners, if required), prior to additional Goods
+and/or Services being initiated.  Extra Goods and/or Services performed without prior, approved,
+written authority will be considered as unauthorized and at the expense of the Vendor.  Payment
+will not be made by the County.
+2.
+No oral conversations, agreements, discussions, or suggestions, which involve changes to the
+scope of the Contract, made by anyone including any County employee, will be honored or valid.
+No written agreements or changes to the scope of the Contract made by anyone other than the
+Procurement Officer (with the Chief Administrative Officer and/or County Commissioners
+approval, if required) will be honored or valid.
+3.
+If any Change Order in the Goods and/or Services results in a reduction in the Goods and/or
+Services, the Vendor will neither have, nor assert any claim for, nor be entitled to any additional
+compensation for damages or for loss of anticipated profits on Goods and/or Services that are
+eliminated.
+K. ADDENDUM
+1.
+No oral statements of any person will modify or otherwise affect or interpret the meaning of the
+Contract specifications, or the terms, conditions, or other portions of the Contract.  All
+modifications and every request for any interpretation must be addressed to Worcester County’s
+Procurement Officer and to be given consideration, must be received no later than the last day for
+questions listed in Section I, Subsection C.2.
+2.
+Any and all interpretations, corrections, revisions, and amendments will be issued by the
+Procurement Officer to all holders of Bid Documents in the form of written addenda.  Vendors
+are cautioned that any oral statements made by any County employee that materially change any
+portion of the Bid Documents cannot be relied upon unless subsequently ratified by a formal
+written amendment to the Bid Document.
+3.
+All addenda will be issued so as to be received at least five days prior to the time set for receipt of
+Bid Documents, and will become part of the Contract and will be acknowledged in the Bid
+Document form.  Failure of any Vendor to receive any such addenda will not relieve said Vendor
+from any obligation under the Bid Document as submitted.
+4.
+Vendors are cautioned to refrain from including in their Bid Document any substitutions which
+are not confirmed by written addenda.  To find out whether the County intends to issue an
+amendment reflecting an oral statement made by any employee, contact Worcester County’s
+Procurement Officer during normal business hours.
+5.
+The Worcester County Procurement Officer reserves the right to postpone the Bid Document
+opening for any major changes occurring in the five-day interim which would otherwise
+necessitate an Addendum.
+L. EXCEPTIONS/ SUBSTITUTIONS
+1.
+Any exceptions or substitutions to the specifications requested should be marked on the bid form
+and listed on a separate sheet of paper attached to the bid.
+2.
+An exception to the specifications may disqualify the bid.  The County will determine if the
+exception is an essential deviation or a minor item.
+ITEM 9
+9 - 10
+
+<!-- page 86 -->
+10 
+3.
+In the case of a minor deviation, the County maintains the option to award to that Vendor if it
+determines the performance is not adversely affected by the exception.
+M. APPROVED EQUALS
+1.
+In all specifications where a material or article is defined by describing a proprietary product or
+by using the name of a Vendor or manufacturer, it can be assumed that an approved equal can be
+substituted.
+2.
+The use of a named product is an attempt to set a particular standard of quality and type that is
+familiar to the County.  Such references are not intended to be restrictive.
+3.
+However, the County shall decide if a product does in fact meet or exceed the quality of the
+specifications listed in the solicitation. It shall be the responsibility of the Vendor that claims his
+product is an equal to provide documentation to support such a claim.
+N. DELIVERY
+1.
+All items shall be delivered F.O.B. destination and delivery costs and charges included in the bid
+unless otherwise stated in the specifications or bid form.
+O. INSURANCE
+1.
+If required by the General Conditions or Terms and Conditions, the Successful Vendor shall
+provide the County with Certificates of Insurance within ten calendar days of bid award
+notification evidencing the required coverage.
+2.
+Successful Vendor must provide Certificates of Insurance before commencing work in
+connection with the Contract.
+P.
+BID EVALUATION
+1.
+Bid tabulations will be posted on the County website at
+https://www.co.worcester.md.us/commissioners/bids. Click on the Expired Bids & Results tab
+and find the bid tabulation for the bid you are interested in. Bid tabulations will be posted as soon
+as reasonably possible after the Bid opening.
+END OF SECTION 
+ITEM 9
+9 - 11
+
+<!-- page 87 -->
+11 
+SECTION III:  GENERAL CONDITIONS 
+A. DRAWINGS AND SPECIFICATIONS
+1.
+Should any detail be omitted from the drawings or specifications, or should any errors appear in
+either, it shall be the duty of the Successful Vendor to notify the County’s designated construction
+inspector.
+2.
+In no case shall the Successful Vendor proceed with the work without notifying and receiving
+definite instructions from the County.  Work wrongly constructed without such notification shall
+be corrected by the Successful Vendor at his own cost.
+B. MATERIALS, SERVICES AND FACILITIES
+1.
+It is understood that, except as otherwise specifically stated in the Bid Documents, the Successful
+Vendor will provide and pay for all materials, labor, tools, equipment, water, light, power and
+transportation, supervision, temporary construction of any nature, and all other services and
+facilities of any nature whatsoever necessary to execute, complete, and deliver the Work within
+the specified time.
+2.
+Materials and equipment will be so stored as to insure the preservation of their quality and fitness
+for the Work.  Stored materials and equipment to be incorporated in the Work will be located so
+as to facilitate prompt inspection.
+3.
+Manufactured articles, materials, and equipment will be applied, installed, connected, erected,
+used, cleaned and conditioned as directed by the manufacturer.
+4.
+Materials, supplies and equipment will be in accordance with samples submitted by the
+Successful Vendor and approved by the County.
+C. INSPECTION AND TESTING
+1.
+All materials and equipment used in the construction of the Work will be subject to adequate
+inspection and testing in accordance with generally accepted standards, as required and defined in
+the Bid Documents.
+2.
+The County or its representatives may, at any time, enter upon the work and the premises used by
+the Successful Vendor, and the Successful Vendor shall provide proper and safe facilities to
+secure convenient access to all parts of the work, and all other facilities necessary for inspection,
+as may be required.
+3.
+The County will appoint such persons as deemed necessary to properly inspect the materials
+furnished or to be furnished, and the work done under the contract and to see that the same
+strictly corresponds with the drawings and specifications.  All such materials and workmanship
+shall be subject to approval of the County.  Approval or acceptance of payment shall not be
+misconstrued as approval of items or work not in conformance with specifications and drawings
+nor shall it prevent the rejection of said work or materials at any time thereafter during the
+existence of the contract, should said work or materials be found to be defective, or not in
+accordance with the requirements of the contract.
+4.
+Work and material will be inspected promptly, but if for any reason should a delay occur, the
+Successful Vendor shall have no claim for damages or extra compensation.
+5.
+The Successful Vendor shall pay for all inspection costs necessary to complete the work which
+may be incurred to comply with the requirements of any agency other than the County, such as a
+railroad, public service utility company, or any other governmental agency or any other agency
+whose jurisdiction affects the work in any manner unless otherwise specified herein.
+ITEM 9
+9 - 12
+
+<!-- page 88 -->
+12 
+D. APPROVAL OF SUBSTITUTION OF MATERIALS
+1.
+Samples of materials shall be submitted by the Successful Vendor for approval before such
+materials are ordered from the manufacturers or distributors and shall be approved by the County
+before actual work is begun.
+2.
+It is the intention of these specifications to permit all vendors bidding on this work to secure the
+fullest amount of competition on the various materials and specialties names herein.  Wherever a
+material or article is defined by describing a proprietary product or by using the name of a vendor
+or manufacturer, the term or approved equal shall be presumed to be implied unless otherwise
+stated.
+E. PROTECTION OF WORK, PROPERTY AND PERSONS
+1.
+Successful Vendor will be responsible for initiating, maintaining and supervising all safety
+precautions and programs in connection with the Work.  Successful Vendor will take all
+necessary precautions and programs in connection with the Work.  Successful Vendor will take
+all necessary precautions for the safety of, and will provide the necessary protection to prevent
+damage, injury or loss to, all employees on the Work and other persons who may be affected
+thereby, all the Work and all materials or equipment to be incorporated therein, whether in
+storage on off the site, and other property at the site or adjacent thereto, including trees, shrubs,
+lawns, walks, pavements, roadways, structures and utilities not designated for removal, relocation
+or replacement in the course of construction.
+2.
+Successful Vendor will comply with all applicable laws, ordinances, rules, regulations and orders
+of any public body having jurisdiction. Successful Vendor will erect and maintain, as required by
+the conditions and progress of the Work, all necessary safeguards for safety and protection.
+Successful Vendor will notify owners of adjacent utilities when progress of the Work may affect
+them.  The Successful Vendor will remedy all damage, injury or loss to any property caused,
+directly or indirectly, in whole or in part, by Successful Vendor, any Subcontractor or anyone
+directly or indirectly employed by any of them or anyone for whose acts any of them be liable.
+3.
+In emergencies affecting the safety of persons or the Work or property at the site or adjacent
+thereto, the Successful Vendor, without special instruction or authorization from the County, will
+act to prevent threatened damage, injury or loss.  Successful Vendor will give the County prompt
+Written Notice of any significant changes in the Work or deviations from the Bid Documents
+caused thereby, and a Change Order will thereupon be issued covering the changes and deviations
+involved.
+F.
+BARRICADES, DANGER, WARNING AND DETOUR SIGNS
+1.
+The Successful Vendor shall provide, erect and maintain all necessary barricades, sufficient red
+lights, flares, danger signals and signs, provide a sufficient number of watchmen and take all
+necessary precautions for the protection of the work and safety of the public.
+G. LICENSES AND PERMITS
+1.
+The Successful Vendor shall have all necessary licenses required to do the work and give all
+notices and obtain and pay all necessary permits required by local laws and regulations for
+building.
+2.
+State and Federal permits (if applicable) to undertake work have been obtained by the County and
+accompany these specifications.
+H. SUPERVISION
+ITEM 9
+9 - 13
+
+<!-- page 89 -->
+13 
+1.
+The Successful Vendor shall maintain, at all times during the progress of work, a competent and
+experienced supervisor who shall represent the Successful Vendor, and all directions given to him
+shall be binding.  Important decisions regarding directions, if requested by the supervisor, shall be
+confirmed in writing.
+2.
+Supervision by the County or its representative does not relieve the Successful Vendor of
+responsibility for defective work executed under the direct control of the Successful Vendor.
+Responsibility for defective work rests upon the Successful Vendor, whether discovered by the
+County prior to final payment or subsequent thereto.
+I.
+CLEAN UP
+1.
+Upon completion of the items within a given location as specified and before monthly estimates
+will be paid, the construction area and all other areas occupied by the Successful Vendor during
+the construction of said Contract shall be cleaned of all surplus and discarded materials, bracing,
+forms, rubbish and temporary structures that were placed there by the Successful Vendor.
+2.
+Disposal of the aforementioned shall be the responsibility of the Successful Vendor.
+J.
+CHANGES IN WORK
+1.
+The County, without invalidating the contract, may order extra work or make changes by altering,
+adding or deducting from the work with the contract sum being adjusted accordingly.
+2.
+All such work shall be executed under the conditions of the original contract, except that any
+claim for the extension of time caused thereby shall be adjusted at the time of ordering such
+change.
+3.
+The value of any such extra work or change shall be determined in one or more of the following
+ways:
+a.
+By estimate and acceptance of lump sum.
+b.
+By unit prices named in the contract or subsequently agreed upon.
+K. TIME FOR COMPLETION
+1.
+The Work contemplated under this Contract shall be considered as continuous and be completed
+within the timeframe(s) stated in Section IV of this Bid Document.
+2.
+The Successful Vendor will be allowed to work eight hours per day, Monday through Friday,
+except for holidays, fifty-two weeks per year.
+3.
+The Successful Vendor will not be permitted to work on holidays observed by Worcester County
+or the State of Maryland or on Sundays unless otherwise authorized in writing.
+4.
+In case of an emergency which may require that work be done on Saturdays, Sundays, and
+Holidays, the Successful Vendor shall request permission of the County to do so.  If, in the
+opinion of the County, the emergency is bonafide, permission may be granted to the Successful
+Vendor to work such hours as may be determined are necessary by the County.  Also, if in the
+opinion of the County a bonafide emergency exists, the Successful Vendor may be directed to
+work such hours as may be necessary whether or not the Successful Vendor requests permission
+to do so.
+5.
+The Successful Vendor shall pay the County for all costs incurred for inspection services required
+for work permitted during holidays, weekends or in excess of eight hours per day.
+L. LIQUIDATED DAMAGES
+1.
+If the Successful Vendor shall fail to start and complete the project within the time frame stated
+above, the County shall assess liquidated damages in the amounts listed below per calendar day
+for each and every day the Successful Vendor fails to complete the contract.
+ITEM 9
+9 - 14
+
+<!-- page 90 -->
+14 
+Amount of Contract 
+Liquidated Damages per Day 
+Less than $10,000 
+$100.00 
+$10,000 or less than $100,000 
+ $250.00 
+$100,000 or less than $500,000 
+ $750.00 
+$500,000 or more 
+$1,000.00 
+Or will be based on actual cost to the County, whichever is greater. 
+2.
+The designated County project manager reserves the option to extend the scheduled completion
+date or waive the liquidated damages clause in its entirety if he is of the opinion that extenuating
+circumstances deemed such action appropriate.
+M. CORRECTION OF WORK
+1.
+The Successful Vendor will promptly remove from the premises all Work rejected by the County
+for failure to comply with the Bid Documents, whether incorporated in the construction or not,
+and the Successful Vendor will promptly replace and re-execute the Work in accordance with the
+Bid Documents and without expense to the County and will bear the expense of making good all
+Work of other Vendors destroyed or damaged by such removal or replacement.
+2.
+All removal and replacement Work will be done at the Successful Vendor’s expense.  If the
+Successful Vendor does not act to remove such rejected Work within ten days after receipt of
+Written Notice, the County may remove such Work and store the materials at the expense of the
+Successful Vendor.
+N. CONSTRUCTION SAFETY AND HEALTH STANDARDS
+1.
+It is a condition of this contract, and shall be made a condition of each sub-contract entered into
+pursuant to this contract, that the Successful Vendor and any sub-contractor shall not require any
+laborer or mechanic employed in performance of the contract to work in surroundings or under
+working conditions which are unsanitary, hazardous, or dangerous to his health or safety, as
+determined under construction safety and health standards (Title 29, Code of Federal Regulations,
+Part 1926, formerly Part 1518, as revised from time to time, promulgated by the United States
+Secretary of Labor, in accordance with Section 107 of the Contract Work Hours and Safety
+Standard Act.) (83 Stat. 96).
+2.
+Failure of Worcester County to inform the Successful Vendor of safety violations will not release
+the Successful Vendor of his responsibilities.
+O. BID BOND
+1.
+Bid Documents must be accompanied by a Bid Bond if the Vendor’s total Bid amount exceeds
+$100,000, payable to the County for five percent of the total amount of the bid.  After the analysis
+of the Bid Documents the County will return Bid Bonds to all Vendors except the three lowest
+Responsive and Responsible Vendors.  After execution of the Contract, and receipt, execution,
+and approval of the Successful Vendor’s Payment and Performance bond, the Bid Bonds will be
+returned.  A certified check may be used in lieu of a Bid Bond.
+2.
+The County, at its discretion, may consider a Vendor in default if the Vendor fails to execute the
+Contract, in which the County will retain said Bid Bond.
+P.
+PERFORMANCE AND PAYMENT BONDS
+1.
+The Successful Vendor will be required to provide the County with a Performance Bond and
+Payment Bond if the total Contract amount exceeds $100,000, each in the amount of one hundred
+ITEM 9
+9 - 15
+
+<!-- page 91 -->
+15 
+percent of the Contract Price, with a corporate surety approved by the County for the faithful 
+performance of the Contract. 
+2.
+The Successful Vendor will within fourteen calendar days after the receipt of the Contract furnish
+the County with a Performance Bond and Payment Bond in penal sums equal to the amount of the
+Contract Price, conditioned upon the performance by the Successful Vendor of all undertakings,
+covenants, terms, conditions and agreements of the Bid Documents, and upon the prompt
+payment by the Successful Vendor to all persons supplying labor and materials in the prosecution
+of the Work provided by the Bid Document.  Such Bonds will be executed by the Successful
+Vendor and corporate bonding company licensed to transact such business in the state in which
+the Work is to be performed and named on the current list of "Surety Companies Acceptable on
+Federal Bonds" as published in the Circular Number 570.  The expense of these Bonds will be
+borne by the Successful Vendor.  If at any time a surety on any such Bond is declared bankrupt or
+loses its right to do business in the State of Maryland or is removed from the list of surety
+companies accepted on federal bonds, Successful Vendor will within ten calendar days after
+notice from the County to do so, substitute an acceptable Bond(s) in such form and sum and
+signed by such other surety or sureties as may be satisfactory to the County.
+Q. GUARANTEE
+1.
+The Successful Vendor shall furnish the County with a one-year guarantee of workmanship and
+materials, dating from time of acceptance of the project and shall make good any defects which
+may occur during that period.
+2.
+If any special guarantees in excess of the one-year period are specified by the manufacturer, these
+guarantees shall take precedence over the one-year period guarantee.
+3.
+Upon completion of work, and before final payment or release of retainage, the Successful
+Vendor shall submit, and obtain from each subcontractor, material supplier and equipment
+manufacture general warranties and a notarized asbestos free guarantee.
+END OF SECTION 
+ITEM 9
+9 - 16
+
+<!-- page 92 -->
+16 
+SECTION IV:  BID SPECIFICATIONS 
+A. SCOPE
+1.
+The County is seeking bids from qualified Vendors to construct an addition to the
+existing Recreation Center at 6030 Public Landing Road in accordance with the terms
+and conditions and specifications set forth in this solicitation.
+2.
+This scope of work is written to outline services of General Contractor to complete the
+improvements in accordance with plans and specifications.  Construction includes all
+labor, material, supervision and work necessary to complete the site work and building
+construction delineated on the project plans, drawings and specifications.
+B. CONTRACT PRICING
+1.
+Pricing must include all labor, materials, tools, and equipment to perform Work.
+2.
+Pricing will not change during the Contract Period.
+C. SUMMARY
+1.
+The existing building currently contains offices and recreation facilities.  Water and
+sewer service are supplied by Town of Snow Hill, Maryland.  Electric service is provided
+by Delmarva Power.
+2.
+Additions include approximately 1500 square feet for equipment storage.  The Successful
+Vendor will be required to coordinate with Worcester County Personnel,
+Architect/Engineers, Building Director, and County designees as appropriate to complete
+the project.  This project will require relocation of existing gas piping underground to the
+existing building prior to construction of the new addition to allow continued service of
+the existing facility.  Any utility outage must be approved by the facility manager.
+3.
+Time for Performance:  Construction for the building shall be substantially complete in
+12 Months beyond “Notice to Proceed” by Worcester County.  The contractor shall
+provide a timeline schedule of all major work and provide to the owner.  Schedules must
+be updated monthly.  Project progress meetings will be held bi-monthly.  The contractor
+will be responsible to meet with and coordinate sub-contractors on-site.
+4.
+Equipment and Material Supply and Installation – per Architect’s Drawings and
+Specifications “Worcester County Recreation Storage Addition”.
+5.
+Construction Services – Supply all labor and supervision, tools and equipment necessary
+to complete the project in accordance with the plans and specifications.
+6.
+The contractor shall submit within 10 days after contract award a schedule of values and
+timeline schedule for review and approval by the owner and architect.
+7.
+The Local Jurisdiction for the project is Worcester County Maryland.
+8.
+Material supply shop drawings are required for owner approval. Submittals shall include
+equipment drawings, specifications, brochures, and literature that describes the
+equipment proposed.  Submittals mechanical, electrical, and those designated on the
+architectural drawings are required.  A minimum of four (3) copies of submittals are
+required and one copy will be returned to the general contractor.  Structural shop
+drawings for the steel building require design and certification by a Maryland Engineer.
+Designs must include COMcheck reports showing energy code compliance.
+9.
+Material color selections shall match the existing building and shall be approved by the
+Owner and Architect.  Submittals are required.
+10. Upon completion, the contractor shall provide a set of “As-built drawings” showing all
+deviations from the contract drawings and actual installation details affecting
+architectural, electrical, mechanical, civil, structural, plumbing and HVAC systems.
+ITEM 9
+9 - 17
+
+<!-- page 93 -->
+17 
+11. Change orders – Change orders shall be submitted to the owner – 2 copies are required.
+Change orders must include a full itemization of material and labor necessary to complete
+the work and include a written description of the change.  It is preferable to execute
+change orders by lump sum price.
+12. Storage – Contractors may store material on-site and stage for installation.  Stored
+material must be protected as required.  The owner is not responsible for stolen or
+damaged stored material.  Site storage space is limited and items must be minimized to
+allow use of the adjacent parking area.  Perimeter fencing around the construction area is
+required to prevent danger to the public and protect the worksite.  The Recreation Facility
+shall function during construction.  Contractors must coordinate with County Personnel
+to maintain public parking and access.
+13. Contractor shall maintain a construction work crew at site and include supervision and all
+trade labor sufficient to expedite and complete the designated work.  A responsible
+Contractor representative must be maintained on-site while work is in progress.
+14. A work initiating meeting shall be held with the contractor and owner after award to
+review the contract documents, schedule, work plan and any other issues pertinent to the
+completion of the project.  At the initial meeting, the contractor shall present the work
+plan and sequence of work to the owner.  Prior to beginning work on the project, the
+selected contractor shall be provided “Notice to Proceed” letter from the Owner.
+15. The contractor will be required to provide any field office required for job personnel.
+The contractor shall provide temporary toilet facilities for the job personnel and remove
+at the end of the job.  Toilets must be maintained in a sanitary condition.
+16. Work Hours - Site Work hours are 7AM-9PM Monday-Saturday, 9AM-5PM – Sunday.
+The contractor must notify the owner 48 hours prior to scheduling any weekend work.
+17. The Recreation Facility and site is a SMOKE FREE CAMPUS.  Smoking is NOT
+permitted on the property.
+a.
+The contractor shall maintain rated fire extinguishers at storage locations and
+central to the new construction during construction.
+b.
+Flammable materials shall not be permitted to accumulate.  Flammable and
+volatile chemicals shall be properly stored at all times.
+c.
+Closely supervise welding and cutting operations.  Provide fire watch personnel
+as required.
+d.
+No burning of debris is permitted.
+18. Temporary water and power may be provided by the owner for the project.  Any
+connections/disconnections are the responsibility of the contractor.  Temporary heat must
+be provided by the Contractor as necessary during construction.
+19. Landscaping – Where existing landscaping is impeding work or damaged due to work,
+the contractor shall relocate landscape shrubbery by excavating, balling and maintaining
+on same property during construction.  The shrubbery must be replaced at the end of
+construction.  All landscape work must be completed by a licensed landscape contractor
+demonstrating capabilities for specified work.  Worcester County shall be responsible for
+final planting and mulching of additional shrubbery at the end of the project.  All final
+grading and seeding is the responsibility of the contractor.
+20. Scaffolding – The contractor must supply all necessary scaffolding and access equipment
+necessary to safely complete the remediation project.  Scaffolding must meet all current
+MOSH/OSHA safety regulations.
+ITEM 9
+9 - 18
+
+<!-- page 94 -->
+18 
+21. Dumpsters – The contractor is responsible for providing and maintaining an on-site
+dumpster and dumping as needed to keep the work site in a clean condition.  Existing
+dumpsters for owner’s operation may not be utilized for the project.
+22. The owner may complete additional work during the performance of these specifications
+by hiring additional contractors or with County personnel.  The contractor must cooperate
+with other owner authorized work at the same site.
+23. Cleaning – prior to final acceptance by the Owner, the contractor shall clean the exterior
+and interior of the project, remove any stored material and equipment, repair/stabilize and
+reseed disturbed areas of the yard and notify the Owner for inspection.
+24. The contractor shall notify the owner when ready for final acceptance.  Prior to final
+inspection, the contractor shall provide:
+a.
+As-built drawings.
+b.
+Maintenance manuals for supplied equipment and materials.  Training for
+equipment including HVAC and Sanitary Systems.
+c.
+All test, inspection and certification reports.
+d.
+Guarantees, certificates for equipment and building.
+e.
+Release of liens for all contractors and subcontractors, bonding company
+approvals and consent of surety to final payment.
+f.
+One copy of all approved shop drawings.
+g.
+Extra material supplies as specified in the drawings and specifications.
+h.
+Cleaning (interior and exterior).
+i.
+Stabilize and seed as necessary.
+j.
+Removal of temporary facilities and equipment.
+D. PROJECT SCHEDULE
+1.
+The Successful Vendor will receive a “Notice to Proceed” from Worcester County and
+will then proceed to execute the project.  The timeline for completion of the renovations
+shall be no more than 12 months beyond “notice to proceed”.  Notice to proceed shall be
+based on Worcester County Commissioner approval and finalization of all contract, bond
+and insurance requirements.
+E. BID SUBMITTALS
+1.
+Professional Resume’s, Subcontractor Name(S) and credentials, Form of Bid, and any
+exceptions shall be included with the vendor’s bid submittal.
+2.
+Vendors shall provide licensing credentials for the jurisdiction of practice and include a
+minimum of three references able to provide information regarding the completion of
+similar work/projects.
+3.
+Bids shall include pricing for listed equipment and services.
+4.
+Where noted on the project drawings and specifications, alternate/option pricing is
+requested.
+5.
+Allowances, if identified, for items shall be established during the bid process as needed
+and included in the final bid proposal forms.
+6.
+Equipment or material shall be warranted a minimum of 1 year from acceptance by
+Owner.
+F.
+PERMITS
+1.
+Worcester County will supply a construction permit after the Successful Vendor submits
+and competes the application. The contractor shall provide as per the drawings certified
+engineered designs for building structure (phased submittal), envelope, mechanical and
+electrical portion of the projects.  Mechanical, Electrical, and energy systems certified
+ITEM 9
+9 - 19
+
+<!-- page 95 -->
+19 
+designs are required to fulfill the contract and building permit application by the General 
+Contractor.   
+2.
+Designs shall include energy code certifications.  All inspections – coordination and
+completion – are the responsibility of the Contractor.
+3.
+Electrical Permits and inspections and all associated fees are the responsibility of the
+electrical contractor.
+4.
+Fire Marshal permits for all protection systems are the responsibility of the GC/Fire
+subcontractor.
+5.
+Environmental permits (including sediment erosion control and storm water) are the
+responsibility of the contractor.
+6.
+A County gas permit is required for the re-location of the gas line at the new addition
+prior to foundation.
+7.
+Schedule for all permits and inspections is the responsibility of the contractor.
+8.
+The building/zoning/environmental programs/fire marshal permit will be no charge to the
+contractor.
+9.
+Permits including electrical/plumbing are the responsible of the contractors and will be
+charged regular fees.
+10. All third-party inspections including soils, steel/welding, concrete, electrical, structural
+observations/inspections are the responsibility of the contractor.
+G. GENERAL REQUIREMENTS
+1.
+The Successful Vendor must be licensed to perform Work in the state of Maryland.
+2.
+Material substitutions will be contingent on approval by Owner and Architect.
+3.
+The contractor shall verify all conditions and dimensions prior to construction.
+Conditions not reported prior to construction may not be used as grounds for additional
+expense claims.
+4.
+It is the responsibility of the contractor to assure that all work is completed in accordance
+with all codes, ordinances and regulations applicable to the project.
+5.
+Proper assembly, installation and operation of all materials and components, systems and
+finishes shall be in accordance with manufacturer’s instructions.
+6.
+Components for construction safety are not included in these drawings.  It shall be the
+Successful Vendor’s responsibility to comply will all rules and regulations of
+OSHA/MOSH during all construction.
+H. ATTACHMENTS
+1.
+DRAWINGS, SPECIFICATIONS, AND SUPPLEMENTAL REPORTS
+a.
+ARCHITECTURAL DRAWINGS AND SPECIFICATIONS – SEE Becker
+Morgan plan set Worcester County Recreation Center Addition for bidding.
+2.
+Field Service Report – Underground Survey provided by On the Mark Locators.
+I.
+PRE-BID CONFERENCE
+1.
+A pre-bid meeting will be held on _________________ at the Worcester County
+Recreation Center, located at 6030 Public Landing Road.
+J.
+PAYMENT
+1.
+Payment shall be governed by the approved award amount and schedule of values.
+Invoices may be submitted based on completed work and paid based on approval by the
+County.  The County shall not be required to pay for incomplete work.  A partial release
+of liens must be provided from the Contractor and all sub-contractors prior to release of
+payment in the amount of the requested amount less the retention for each application.
+For each application, a retention amount of 5% will be held until final acceptance of all
+ITEM 9
+9 - 20
+
+<!-- page 96 -->
+20 
+ 
+work complete.  Final release of liens is required from each contractor prior to releases of 
+final payment.  Application for payment shall be submitted on AIA form G702 and 
+follow associated instructions.  Two (2) copies are required to be submitted to the Owner. 
+2. The County will make payment(s) to the Successful Vendor within thirty (30) calendar 
+days from the receipt of a proper invoice for approved and accepted work performed. 
+K. QUESTIONS 
+1. The last day for questions is listed under Section I, Subsection C.2. 
+L. AWARD 
+1. The County intends to award to the lowest Responsive and Responsible Vendor meeting 
+the specifications. 
+END OF SECTION 
+THIS AND PREVIOUS SECTIONS, OTHER THAN THE COVER PAGE, DO NOT NEED TO BE 
+RETURNED WITH SUBMITTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ITEM 9
+9 - 21
+
+<!-- page 97 -->
+21 
+FORM OF BID 
+To whom it may concern: 
+We hereby submit our Bid Documents for “WORCESTER COUNTY RECREATION CENTER 
+STORAGE ADDITION” as indicated in the Bid Documents.  Having carefully examined the Bid 
+Documents and having received clarification on all items of conflict or upon which any doubt arose, the 
+undersigned hereby requests consideration of our Vendor for award of the referenced Bid. 
+ITEM 
+DESCRIPTION 
+EXTENDED 
+PRICE 
+1 
+Provide labor, materials and equipment for the construction of an 
+addition to the existing Worcester County Recreation Center as stated in 
+the Bid Specifications. 
+Vendor agrees to have the Work completed within 12 months of Notice to Proceed. (Yes)____   (No) 
+_____    Check One. 
+Have you included your certificate of good standing with the State of Maryland?  (See Section I, 
+Subsection H.1 for more information.) (Yes)____   (No) _____    Check One. 
+Is your company currently involved in any active litigation?  (Yes)____   (No) _____    Check One. 
+Is your company currently involved in any mergers or acquisitions?  (Yes)____   (No) _____    Check 
+One. 
+The Vendor agrees that their bid will be good for at least sixty days unless otherwise indicated in the bid 
+specifications.  
+Note: This bid form must be signed by an officer of your company or an authorized agent for this bid to 
+be considered valid by the county.  
+________________________________   _________________________________ 
+Sign for Identification                               Printed Name 
+________________________________   _________________________________ 
+Title 
+   
+                                         Email  
+ITEM 9
+9 - 22
+
+<!-- page 98 -->
+22 
+REFERENCES 
+List three references for which the Vendor has provided Goods/Services similar to those requested 
+in the Bid Document within the last 12-36 months.  Include contact name, address, telephone 
+number, email address and services provided. 
+Company 
+Name: 
+Company 
+Name: 
+Type of Project: 
+Type of Project: 
+Address: 
+Address: 
+Town, State, 
+Zip Code: 
+Town, State, Zip 
+Code: 
+Contact Person: 
+Contact Person: 
+Telephone 
+Number: 
+Telephone 
+Number: 
+Email: 
+Email: 
+Date of Service: 
+Date of Service: 
+Company 
+Name: 
+Type of Project: 
+Address: 
+Town, State, 
+Zip Code: 
+Contact Person: 
+Telephone 
+Number: 
+Email: 
+Date of Service: 
+__________________________ 
+____________________________
+      Sign for Identification 
+Printed Name 
+ITEM 9
+9 - 23
+
+<!-- page 99 -->
+23 
+ 
+EXCEPTIONS 
+ 
+ 
+The undersigned hereby certifies that, except as listed below, or on separate sheets 
+attached hereto, the enclosed Completed Bid Document covers all items as specified. 
+ 
+EXCEPTIONS: 
+ 
+(If none, write none) _______________________________________________ 
+ 
+ 
+ 
+How did you hear about this solicitation? 
+ 
+ Worcester County’s Website  
+ eMaryland Marketplace Advantage (eMMA) 
+ Newspaper Advertisement 
+ Direct email 
+ Other _______________________ 
+ 
+ 
+ 
+ 
+The vendor hereby acknowledges receipt of the following addenda. 
+ 
+ 
+    Number 
+ 
+                     Date 
+ 
+ 
+ Initials 
+ 
+ 
+ 
+____________ 
+ 
+_______________ 
+ 
+________ 
+ 
+ 
+____________ 
+ 
+_______________ 
+ 
+________ 
+ 
+ 
+____________ 
+ 
+_______________ 
+ 
+________ 
+ 
+ 
+ 
+ 
+ 
+ 
+__________________________   
+____________________________            
+        Sign for Identification  
+ 
+                 Printed Name 
+ITEM 9
+9 - 24
+
+<!-- page 100 -->
+24 
+INDIVIDUAL PRINCIPAL 
+Vendor Name: ______________________________________ 
+Signed By:  _____________________________ In the presence of: _________________________ 
+Address of Vendor:  ____________________________ Town, State, Zip ____________________ 
+Telephone No.:  _________________ Fax: _________________ Email: _____________________ 
+******************************************************************************** 
+CO-PARTNERSHIP PRINCIPAL 
+Name of Co-Partnership:  ____________________________ 
+Address: __________________________________ Town, State, Zip 
+_________________________ 
+Telephone No.:  _______________________________ Fax:  ______________________________ 
+Signed By:  ______________________________ In the presence of:  ________________________ 
+Partner 
+ 
+ 
+ 
+ 
+Witness 
+Signed By:  ______________________________ In the presence of:  ________________________ 
+Partner 
+ 
+ 
+ 
+ 
+Witness 
+Signed By:  ______________________________ In the presence of:  ________________________ 
+Partner 
+ 
+ 
+ 
+ 
+Witness 
+******************************************************************************** 
+CORPORATE PRINCIPAL 
+Name of Corporation:  _______________________________ 
+Address:  _________________________________ Town, State, Zip 
+__________________________ 
+Telephone No.:  ____________________________ Fax:  
+__________________________________ 
+Signed By:  ______________________________ In the presence of:  ________________________ 
+President 
+ 
+ 
+ 
+ 
+Witness 
+Attest:  ___________________________________ 
+          Corporate Secretary 
+       Affix Corporate Seal 
+ITEM 9
+9 - 25
+
+<!-- page 101 -->
+25 
+VENDOR’S AFFIDAVIT OF QUALIFICATION TO BID 
+I HEREBY AFFIRM THAT: 
+I, __________________________________ am the _____________________________ 
+         (Printed Name)  
+ 
+ 
+ 
+(title) 
+and the duly authorized representative of the Vendor of 
+________________________________________ whose address is 
+(name of corporation) 
+__________________________________________________________________________
+______________________________________________________________ 
+and that I possess the legal authority to make this affidavit on behalf of myself and the Vendor 
+for which I am acting. 
+Except as described in paragraph 3 below, neither I nor the above Vendor, nor to the best of my 
+knowledge and of its officers, directors or partners, or any of its employees directly involved in 
+obtaining contracts with the State or any county, bi-county or multi-county agency, or 
+subdivision of the State have been convicted of, or have pleaded nolo-contendere to a charge of, 
+or have during the course of an official investigation or other proceeding admitted in writing or 
+under oath acts or omissions which constitute, bribery, attempted bribery, or conspiracy to bribe 
+under the provisions of Article 27 of the Annotated Code of Maryland or under the laws of any 
+state or federal government (conduct prior to July 1, 1977 is not required to be reported). 
+(State “none” or, as appropriate, list any conviction, plea or admission described in paragraph 2 
+above, with the date, court, official or administrative body, the individuals involved and their 
+position with the Vendor, and the sentence or disposition, if any.) 
+_____________________________________________________________________________
+_____________________________________________________________________________
+___________________________________________________________ 
+I acknowledge that this affidavit is to be furnished to the County, I acknowledge that, if the 
+representations set forth in this affidavit are not true and correct, the County may terminate any 
+Contract awarded and take any other appropriate action.  I further acknowledge that I am 
+executing this affidavit in compliance with section 16D of Article 78A of the Annotated Code of 
+Maryland, which provides that certain persons who have been convicted of or have admitted to 
+bribery, attempted bribery or conspiracy to bribe may be disqualified, either by operation of law 
+or after a hearing, from entering into contracts with the State or any of its agencies or 
+subdivisions. 
+I do solemnly declare and affirm under the penalties of perjury that the contents of this affidavit 
+are true and correct. 
+______________________________ 
+____________________________     
+Sign for Identification    
+        Printed Name 
+ITEM 9
+9 - 26
+
+<!-- page 102 -->
+26 
+NON-COLLUSIVE AFFIDAVIT 
+__________________________________________________________being first duly sworn, 
+deposes and says that: 
+1.
+He/she is the ____________________________________, (Owner, Partner, Officer,
+Representative or Agent) of _________________________________________, the 
+Vendor that has submitted the attached Bid Documents; 
+2.
+He/she is fully informed respecting the preparation and contents of the attached Bid
+Document and of all pertinent circumstances respecting such Bid Documents; 
+3.
+Such Bid Document is genuine and is not a collusive or sham Bid Document;
+4.
+Neither the said Vendor nor any of its officers, partners, owners, agents, representatives,
+employees or parties in interest, including this affiant, have in any way colluded, 
+conspired, connived or agreed, directly or indirectly, with any other Vendor, firm, or 
+person to submit a collusive or sham Bid Document in connection with the Work for 
+which the attached Bid Document has been submitted; or to refrain from bidding in 
+connection with such Work; or have in any manner, directly or indirectly, sought by 
+agreement or collusion, or  communication, or conference with any Vendor, firm, or 
+person to fix the price or prices in the attached Bid Document or of any other 
+Vendor, or to fix any overhead, profit, or cost elements on the Bid Document price 
+or the Bid Document price of any other Vendor, or to secure through any collusion, 
+conspiracy, connivance, or unlawful agreement any disadvantage against 
+(Recipient), or any person interested in the Work; 
+5.
+The price or prices quoted in the attached Bid Document are fair and proper and are not
+tainted by any collusion, conspiracy, connivance, or unlawful agreement on the part 
+of  the Vendor or any other of its agents, representatives, owners, employees or 
+parties in interest, including this affiant. 
+Signed, sealed and delivered in the presence of: 
+______________________________________ 
+By: _______________________________ 
+Witness 
+         Signature 
+______________________________________ 
+      _______________________________ 
+Witness 
+          Printed Name 
+     ________________________________ 
+Title 
+ITEM 9
+9 - 27
+
+<!-- page 103 -->
+27 
+EXHIBIT A 
+WORCESTER COUNTY MARYLAND 
+ STANDARD TERMS AND CONDITIONS 
+The provisions below are applicable to all Worcester County (“County”) contracts. These 
+provisions are not a complete agreement. These provisions must be attached to an executed 
+document that identifies the work to be performed, compensation, term, incorporated attachments, 
+and any special conditions (“Contract”). If the Standard Terms and any other part of the Contract 
+conflict, then the Standard Terms will prevail. 
+1.
+Amendment. Amendments to the Contract must be in writing and signed by the parties.
+2.
+Bankruptcy. If a bankruptcy proceeding by or against the Contractor is filed, then:
+a.
+The Contractor must notify the County immediately; and
+b.
+The County may cancel the Contract or affirm the Contract and hold the Contractor
+responsible for damages.
+3.
+Compliance with Law. Contractor must comply with all applicable federal, state, and local
+law. Contractor is qualified to do business in the State of Maryland. Contractor must obtain, at
+its expense, all licenses, permits, insurance, and governmental approvals needed to perform its
+obligations under the Contract.
+4.
+Contingent Fee Prohibition. The Contractor has not directed anyone, other than its employee
+or agent, to solicit the Contract and it has not promised to pay anyone a commission,
+percentage, brokerage fee, contingent fee, or other consideration contingent on the making of
+the Contract.
+5.
+Counterparts and Signature. The Contract may be executed in several counterparts, each of
+which may be an original and all of which will be the same instrument. The Contract may be
+signed in writing or by electronic signature, including by email. An electronic signature, a
+facsimile copy, or computer image of the Contract will have the same effect as an original
+signed copy.
+6.
+Exclusive Jurisdiction. All legal proceedings related to this Contract must be exclusively
+filed, tried, and maintained in either the District Court of Maryland for Worcester County,
+Maryland or the Circuit Court of Worcester County, Maryland. The parties expressly waive
+any right to remove the matter to any other state or federal venue and waive any right to a jury
+trial.
+7.
+Force Majeure. The parties are not responsible for delay or default caused by fire, riot, acts of
+God, County-declaration-of-emergency, or war beyond their reasonable control. The parties
+must make all reasonable efforts to eliminate a cause of delay or default and must, upon
+cessation, diligently pursue their obligations under the Contract.
+8.
+Governing Law. The Contract is governed by the laws of Maryland and the County.
+9.
+Indemnification. The Contractor must indemnify the County and its agents from all liability,
+penalties, costs, damages, or claims (including attorney’s fees) resulting from personal injury,
+death, or damage to property that arises from or is connected to the performance of the work
+or failure to perform its obligations under the Contract. All indemnification provisions will
+survive the expiration or termination of the Contract.
+ITEM 9
+9 - 28
+
+<!-- page 104 -->
+28 
+10. Independent Contractor.
+a.
+Contractor is an “Independent Contractor”, not an employee. Although the County
+may determine the delivery schedule for the work and evaluate the quality of the
+work, the County will not control the means or manner of the Contractor’s
+performance.
+b.
+Contractor is responsible for all applicable taxes on any compensation paid under the
+Contract. Contractor is not eligible for any federal Social Security, unemployment
+insurance, or workers’ compensation benefits under the Contract.
+c.
+Contractor must immediately provide the County notice of any claim made against
+Contractor by any third party.
+11. Insurance Requirements.
+a.
+Contractor must have Commercial General Liability Insurance in the amounts listed
+below. The insurance must include coverage for personal injury, discrimination, and
+civil rights violation claims. All insurance must name County, its employees, and
+agents as “ADDITIONAL INSURED”. A copy of the certificate of insurance must be
+filed with the County before the Contract is executed, providing coverage in the
+amount of $1,000,000 per occurrence, $2,000,000 general aggregate, and $500,000 for
+property damage.
+b.
+Contractor must have automobile insurance on all vehicles used in the Contract to
+protect Contractor against claims for damages resulting from bodily injury, including
+wrongful death, and property damage that may arise from the operations in connection
+with the Contract. All insurance must name County, its employees, and agents as
+“ADDITIONAL INSURED”.
+c.
+Contractor must provide the County with a certification of Workers’ Compensation
+Insurance, with employer’s liability in the minimum amount required by Maryland
+law in effect for each year of the Contract.
+d.
+All insurance policies must have a minimum 30 days’ notice of cancellation. The
+County must be notified immediately upon cancellation.
+e.
+When insurance coverage is renewed, Contractor must provide new certificates of
+insurance prior to expiration of current policies.
+12. Nondiscrimination. Contractor must not discriminate against any worker, employee, or
+applicant because of religion, race, sex, age, sexual orientation, physical or mental disability,
+or perceived disability. This provision must be incorporated in all subcontracts related to the
+Contract.
+13. Ownership of Documents; Intellectual Property.
+a.
+All documents prepared under the Contract must be available to the County upon
+request and will become the exclusive property of the County upon termination or
+completion of the services. The County may use the documents without restriction or
+without additional compensation to the Contractor. The County will be the owner of
+the documents for the purposes of copyright, patent, or trademark registration.
+b.
+If the Contractor obtains, uses, or subcontracts for any intellectual property, then it
+must provide an assignment to the County of ownership or use of the property.
+c.
+The Contractor must indemnify the County from all claims of infringement related to
+ITEM 9
+9 - 29
+
+<!-- page 105 -->
+29 
+the use of any patented design, device, materials, or process, or any trademark or 
+copyright, and must indemnify the County, its officers, agents, and employees with 
+respect to any claim, action, costs, or infringement, for royalties or user fees, arising 
+out of purchase or use of materials, construction, supplies, equipment, or services 
+covered by the Contract.  
+14. Payments. Payments to the Contractor under the Contract will be within 30 days of the
+County’s receipt of a proper invoice from the Contractor. If an invoice remains unpaid 45 days
+after the invoice was received, interest will accrue at 6% per year.
+15. Records. Contractor must maintain fiscal records relating to the Contract in accordance with
+generally accepted accounting principles. All other relevant records must be retained by
+Contractor and kept accessible for at least three years after final payment, termination of the
+Contract, or until the conclusion of any audit, controversy, or litigation related to the Contract.
+All subcontracts must comply with these provisions. County may access all records of the
+Contractor related to the Contract.
+16. Remedies.
+a.
+Corrections of errors and omissions. Contractor must perform work necessary to
+correct errors and omissions in the services required under the Contract, without
+undue delays and cost to the County. The County’s acceptance will not relieve the
+Contractor of the responsibility of subsequent corrections of errors.
+b.
+Set-off. The County may deduct from any amounts payable to the Contractor any
+back-charges, penalties, or damages sustained by the County, its agents, or employees
+caused by Contractor’s breach. Contractor will not be relieved of liability for any
+costs caused by a failure to satisfactorily perform the services.
+c.
+Cumulative. These remedies are cumulative and without waiver of any others.
+17. Responsibility of Contractor.
+a.
+The Contractor must perform the services with the standard of care, skill, and
+diligence normally provided by a Contractor in the performance of services similar the
+services.
+b.
+Notwithstanding any review, approval, acceptance, or payment for the services by the
+County, the Contractor will be responsible for the accuracy of any work, design,
+drawings, specifications, and materials furnished by the Contractor under the
+Contract.
+c.
+If the Contractor fails to conform with subparagraph (a) above, then it must, if
+required by the County, perform at its own expense any service necessary for the
+correction of any deficiencies or damages resulting from the Contractor’s failure. This
+obligation is in addition to any other remedy available to the County.
+18. Severability/Waiver. If a court finds any term of the Contract to be invalid, the validity of the
+remaining terms will not be affected. The failure of either party to enforce any term of the
+Contract is not a waiver by that party.
+19. Subcontracting or Assignment. The Contractor may not subcontract or assign any part of the
+Contract without the prior written consent of the County. The County may withhold consent
+for any reason the County deems appropriate.
+ITEM 9
+9 - 30
+
+<!-- page 106 -->
+30 
+20. Termination. If the Contractor violates any provision of the Contract, the County may
+terminate the Contract by written notice. All finished or unfinished work provided by the
+Contractor will, at the County’s option, become the County’s property. The County will pay
+the Contractor fair compensation for satisfactory performance that occurred before termination
+less the amount of damages caused by the Contractor’s breach. If the damages are more than
+the compensation payable to the Contractor, the Contractor will remain liable after termination
+and the County can affirmatively collect damages.
+21. Termination of Contract for Convenience. Upon written notice, the County may terminate
+the Contract when the County determines termination is in the County’s best interest.
+Termination for convenience is effective on the date specified in the County’s written notice.
+The County will pay for reasonable costs allocable to the Contract for costs incurred by the
+Contractor up to the date of termination. But the Contractor will not be reimbursed for any
+anticipatory profits that have not been earned before termination.
+22. Termination of Multi-year Contract. If funds are not available for any fiscal period of the
+Contract after the first fiscal period, then the Contract will be terminated automatically as of
+the beginning of unfunded fiscal period. Termination will discharge the Contractor and the
+County from future performance of the Contract, but not from their rights and obligations
+existing at the time of termination.
+23. Third Party Beneficiaries. The County and Contractor are the only parties to the Contract
+and are the only parties entitled to enforce its terms. Nothing in the Contract gives any benefit
+or right to third persons unless individually identified by name and expressly described as
+intended beneficiaries of the Contract.
+24. Use of County Facilities. Contractor may only County facilities that are needed to perform
+the Contract. County has no responsibility for the loss or damage to Contractor’s personal
+property which may be stored on County property.
+25. Whole Contract. The Contract, the Standard Terms, and attachments are the complete
+agreement between the parties and supersede all earlier agreements, proposals, or other
+communications between the parties relating to the subject matter of the Contract.
+ITEM 9
+9 - 31
+
+<!-- page 107 -->
+GPR Survey 
+EM Scan  
+Site Training 
+Leak Locate 
+VPI 
+Concrete Scan 
+ 
+Survey & Mapping 
+Other:________________ 
+Date: 
+# : 
+Description of Services: 
+STD Hours 
+OT Hours 
+Begin 
+Onsite 
+Offsite 
+End 
+ /  
+ /  
+Full Scope of Work: 
+Utilities/Features Designated:  
+GAS  
+ WATER          ELECTRIC         FIBER OPTIC         COMM  
+  STORM 
+ SEWER         REBAR  
+  UST  
+  UNKNOWN 
+ NONE 
+Other:__________________________________________________________________________________________________________ 
+Additional Resources: (traffic control, rentals, supplies, etc…) 
+Results and Notes: 
+Soil Conditions:        Saturated  
+ Dry 
+  Clay        Sand       Other:  
+Weather Conditions:      Clear 
+   Overcast        Rain  
+ Snow       Other: 
+Client Communication: 
+Deliverables Requested: 
+ PMU        ENGINEERING REPORT       CAD UPDATE       SKETCH       OTHER
+ Deliverables Provided Onsite:    YES      NO 
+Survey Methodologies 
+Other: 
+Known Utilities: 
+Unknown Utilities: 
+(Grid Spacing) 
+Utilities within Scope of Work: 
+Passive Scans: 
+Utilities outside Scope of Work: 
+Split Box Scans: 
+Building Feeds: 
+GPR Scans: 
+FIELD SERVICE REPORT 
+Bear, Delaware 19701 
+1-888-272-6065
+www.onthemarklocators.com
+  Project: 
+ML Office Rep/PM: 
+Address: 
+Air / Hydro Excavation 
+Fault Locate 
+Contacts on Site: 
+  Client PO #:_________________ 
+Project Complete: 
+YES   
+  NO 
+Name:__ ______________________  Company:_ ________________________  Phone:_________________ Signature:______________________ 
+Name:______________________   Company:________________________ Phone:_________________ Signature:______________________ 
+Form 018  14 Sep 07  Rev G  16 March 2016 
+Company:        
+Customer Contact: 
+Lead Technician: 
+Services Performed:
+Ref:
+ITEM 9
+9 - 32
+Worcester County Commissioners
+Worcester County Recreation Center
+Worcester County Com
+N. Kelley
+6030 Public Landing Rd
+02/27/2023
+Ground Penetrating Radar
+SIGN
+SIGN
+8:30 am
+12:30 pm
+RECOMMEND CALLING 811 TO HAVE PUBLIC UTILITIES MARKED AND VERIFIED  
+ 
+POSSIBLE ABANDON UTILITIES IN THE WORK AREA  
+ 
+MARKED UNKNOWNS
+
+<!-- page 108 -->
+ON THE MARK LOCATORS
+Po Box 918
+Bear, DE 19701
+888-272-6065
+Field Report Photos
+image.jpg
+2/27/2023 12:53:00 PM
+image.jpg
+2/27/2023 12:53:00 PM
+image.jpg
+2/27/2023 12:53:00 PM
+image.jpg
+2/27/2023 12:52:00 PM
+image.jpg
+2/27/2023 12:52:00 PM
+image.jpg
+2/27/2023 12:52:00 PM
+image.jpg
+2/27/2023 12:52:00 PM
+image.jpg
+2/27/2023 12:52:00 PM
+ITEM 9
+9 - 33
+
+<!-- page 109 -->
+image.jpg
+2/27/2023 12:30:00 PM
+image.jpg
+2/27/2023 12:29:00 PM
+image.jpg
+2/27/2023 12:28:00 PM
+image.jpg
+2/27/2023 12:26:00 PM
+image.jpg
+2/27/2023 12:25:00 PM
+ITEM 9
+9 - 34
+
+<!-- page 110 -->
+PROJECT LOCATION
+FIELD NOTES 
+Page #
+1080 S Chapel St, Newark DE 19702
+Website
+https://
+www.onthemarklocators.com
+Contact Us At
+info@onthemarklocators.com
+S/L
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+ST
+ST
+ST
+ST
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+P
+P
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+UNK
+UNK
+UNK
+EOI
+EOI
+G
+G
+G
+G
+G
+G
+G
+G
+SCOPE OF WORK
+ITEM 9
+9 - 35
+RECOMMEND CALLING 811 TO HAVE PUBLIC 
+UTILITIES MARKED AND VERIFIED  
+ 
+POSSIBLE ABANDON UTILITIES IN THE WORK 
+AREA  
+ 
+MARKED UNKNOWNS 
+6030 PUBLIC LANDING RD SNOW HILL MD  
+ 
+WORCESTER COUNTY COMMISSIONERS 
+02/27/2023
+1.0
+
+<!-- page 111 -->
+MEMORANDUM 
+TO: 
+Worcester County Commissioners 
+FROM: 
+Nicholas W. Rice, Procurement Officer 
+DATE: 
+May 2, 2023 
+RE: 
+Request to Bid – Public Works Roads Division Building Remodel 
+Attached for your review and approval are bid documents for the renovation of the Worcester County Roads 
+Building.  Once the Commissioners have had the opportunity to review these documents, it is requested that 
+authorization be provided to solicit bids for these services. 
+Funding for these services were approved in the FY22 Assigned Fund Balance “North End Public Works Building”.  
+Balance available for this portion of the project is $431,586.  
+Should you have any questions, please feel free to contact me. 
+ITEM 10
+10 - 1
+
+<!-- page 112 -->
+■■ ■■ 
+ARCHITECTS/ENGINEERS 
+206 WEST MAIN STREET 
+SALISBURY, MD 21801 
+410.742.3115 
+SALISBURY/BALTIMORE/SEAFORD 
+■ ■ ■ ■
+PROJECT MANUAL 
+RENOVATIONS FOR: 
+WORCESTER COUNTY ROADS BUILDING 
+BERLIN, MARYLAND 
+BID SPECIFICATIONS 
+MARCH 2023 
+GMB FILE NO. 210241 
+ITEM 10
+10 - 2
+
+<!-- page 113 -->
+210241 
+CONTENTS - 1 
+TABLE OF CONTENTS 
+DIVISION 00 – PROCUREMENT AND CONTRACTING REQUIREMENTS 
+00 11 16 
+INVITATIONS TO BID 
+00 21 13 
+INSTRUCTIONS TO BIDDERS 
+00 22 13 
+SUPPLEMENTAL INSTRUCTIONS TO BIDDERS 
+00 26 00 
+SUBSTITUTION REQUEST FORM 
+00 41 23 
+BID FORM 
+00 43 13 
+BID SECURITY FORMS 
+00 52 53 
+AGREEMENT FORM – OWNER-DESIGN AND CONTRACTOR (AIA 
+A312) 
+00 61 13 
+PERFORMANCE BOND AND PAYMENT BOND 
+00 65 19.13 CONTRACTOR’S AFFIDAVIT OF PAYMENT AND DEBTS AND 
+CLAIMS (AIA G706) 
+00 65 19.16 CONTRACTOR’S AFFIDAVIT OF RELEASE OF LIENS (AIA G706A) 
+00 72 00 
+GENERAL CONDITIONS OF THE CONTRACT FOR CONSTRUCTION 
+(AIA A201) 
+00 90 00 
+MODIFICATIONS TO THE GENERAL CONDITIONS 
+EXHIBIT A – WORCESTER COUNTY MARYLAND STANDARD TERMS 
+DIVISION 01 - GENERAL REQUIREMENTS 
+01 11 00 
+SUMMARY OF WORK 
+01 21 00 
+ALLOWANCES 
+01 23 00 
+ALTERNATES 
+01 29 00 
+PROJECT PROCEDURES 
+01 31 19 
+PROJECT MEETINGS 
+01 32 00 
+CONSTRUCTION DOCUMENTATION 
+01 33 00 
+SUBMITTAL PROCEDURES 
+01 40 00 
+QUALITY REQUIREMENTS 
+01 41 00 
+REGULATORY REQUIREMENTS 
+01 42 00 
+REFERENCES 
+01 51 00 
+TEMPORARY UTILITIES 
+01 52 13 
+FIELD OFFICES AND SHEDS 
+01 54 00 
+CONSTRUCTION AIDS 
+01 56 00 
+TEMPORARY BARRIERS AND ENCLOSURES 
+01 70 00 
+EXECUTION AND CLOSEOUT REQUIREMENTS 
+01 73 29 
+CUTTING& PATCHING 
+01 74 00 
+CLEANING AND WASTE MANAGEMENT 
+01 78 39  
+PROJECT RECORD DOCUMENTS 
+01 80 00 
+PERFORMANCE REQUIREMENTS 
+ITEM 10
+10 - 3
+
+<!-- page 114 -->
+210241 
+CONTENTS - 2 
+Page left intentionally blank. 
+ITEM 10
+10 - 4
+
+<!-- page 115 -->
+210241 
+00 11 16 - 1 
+DIVISION 00 – PROCUREMENT AND CONTRACTING REQUIREMENTS 
+SECTION 00 11 16 
+INVITATION TO BID 
+You are invited to bid on a General Contract for the renovation of the Worcester County 
+Roads Building located at 10146 Main Street, Berlin, Maryland.  First floor renovation to 
+include removal of a spiral staircase, small partition addition and installation of new door 
+and frame.  The second-floor renovation will create new office space, update the 
+bathroom to be accessible and a new janitor closet.  The removal of the existing skylight 
+and chimney and patching the roof with all necessary appurtenances.  The completed 
+work shall include masonry, wood framing, EIFS, roofing, drywall, mechanical, electrical 
+and plumbing.  The Contractor shall provide all necessary labor, equipment, tools, 
+materials and incidentals, and shall perform all operations required to completely finish 
+all of the work in the manner approved by the Architect. 
+Subcontractors shall be qualified and experienced in projects of similar size, type and 
+complexity as this one, and shall be subject, if requested by the Owner, to submit 
+evidence of same prior to execution of the construction contract. 
+Bids must be on a lump sum basis and may not be withdrawn for 60 days. 
+A pre-bid meeting will be held at the Worcester County Roads Building on ________,
+__________ 2023 at 1:30 PM.  Attendance is recommended but not mandatory to
+bid.  By submitting their bid, Bidders acknowledge they have examined the site in 
+sufficient detail and familiarized themselves to prepare a complete and responsible bid 
+for the specified work. No claims will be approved during construction for items that can 
+be reasonably verified by field examination. 
+Sealed proposals will be accepted until 2:30 PM (EDT) on ___th day, June, 2023
+in the: 
+Office of the County Commissioners 
+Worcester County Government Center 
+One West Market Street; Room 1103 
+Snow Hill, Maryland 21863 
+Envelops shall be marked “Bid Enclosed – Worcester County Roads Building – 
+Berlin, MD” in the lower left-hand corner. 
+Bidders may purchase full set copies of the drawings and specifications from Dicarlo 
+Printing for a sum determined by the printer.  Dicarlo Printing will issue all addenda and 
+ITEM 10
+10 - 5
+
+<!-- page 116 -->
+210241 
+00 11 16 - 2 
+maintain a plan holder list of firms who have purchased drawings and specifications. 
+No electronic files will be available from the Architect for bidding purposes. 
+Bidders must be registered to perform work in the State of Maryland and shall include 
+their license number on the Bid Form. 
+Bid Security in the amount of five (5) percent of the Bid must accompany each bid in
+the Instructions to Bidders. The successful Bidder’s security will be retained until he has 
+signed the Contract and furnished a Performance Bond and a Payment Bond AIA 
+Document A312, each in the amount of the contract sum. 
+Contractor is required, as an attachment to his bid, to provide a “Contractor’s 
+Qualification Statement”, current AIA Document A305, including financial data. Bids 
+received without this information will be considered non-responsive. 
+The right is reserved, as the interests of Worcester County may appear, to reject any 
+and all bids, to waive any informality in bids received, and to accept or reject any items 
+of any bid. 
+END OF SECTION 
+ITEM 10
+10 - 6
+
+<!-- page 117 -->
+210241 
+00 21 13 - 1 
+DIVISION 00 – PROCUREMENT AND CONTRACTING REQUIREMENTS 
+SECTION 00 21 13 
+AIA DOCUMENT A701-2017 
+INSTRUCTIONS TO BIDDERS 
+Bidders shall comply with the requirements of the above document. Submitting a bid 
+denotes acknowledgement by the Bidder that he has read and understands the content 
+of this document. 
+END OF SECTION 
+ITEM 10
+10 - 7
+
+<!-- page 118 -->
+210241 
+00 21 13 - 2 
+Page left intentionally blank. 
+ITEM 10
+10 - 8
+
+<!-- page 119 -->
+210241 
+00 22 13 - 1 
+DIVISION 00 – PROCUREMENT AND CONTRACTING REQUIREMENTS 
+SECTION 00 22 13 
+SUPPLEMENTARY INSTRUCTIONS TO BIDDERS 
+AIA DOCUMENT A701 
+Supplementary Instructions contain changes and additions to AIA Document A701 2018 
+Edition. Where any part of the INSTRUCTIONS TO BIDDERS are modified or voided by 
+the Supplementary Instructions, the unaltered provisions remain in effect. 
+MODIFICATIONS 
+ARTICLE 2 - BIDDER’S REPRESENTATION 
+2.1 
+Add the following subparagraph to Paragraph 2.1: 
+2.1.7:  This bid has been arrived at independently, without consultation, 
+communication, or agreement as to any matter relating to this Bid with any other 
+Bidder or with any competitor. 
+ARTICLE 3 - BIDDING DOCUMENTS 
+3.1 
+COPIES 
+Delete Paragraphs 3.1.1 and 3.1.2 and substitute the following: 
+3.1.1: Bidders and Sub-bidders may purchase complete sets only of the Bidding 
+Documents from the issuing office designated in the Invitation to Bid for a sum 
+determined by the issuing office. The purchase sum is not refundable. 
+3.3 
+SUBSTITUTIONS 
+Delete Paragraphs 3.3.2.2 and 3.3.2.3 and substitute the following: 
+3.3.2.2:  All requests for substitution prior to receipt of Bids shall be submitted on 
+this attached “SUBSTITUTION REQUEST FORM, DOCUMENT 00 26 00”. 
+ARTICLE 4 - BIDDING PROCEDURES 
+4.1 
+PREPARATION OF BIDS 
+Add the following sentence to Subparagraph 4.1.1: 
+ITEM 10
+10 - 9
+
+<!-- page 120 -->
+210241 
+00 22 13 - 2 
+Only one copy of the Bid is to be submitted. 
+4.2 
+BID SECURITY 
+Add the following subparagraph to Paragraph 4.2: 
+4.2.5:  If a Bidder refuses to execute the Agreement and obtain the performance 
+and payment bonds within the agreed time, the Owner may consider the Bidder 
+in default, in which case the Bid Bond accompanying the Bid shall become the 
+property of the Owner. 
+4.4 
+MODIFICATION OR WITHDRAWAL OF BIDS 
+Delete Subparagraph 4.4.1 and substitute the following: 
+4.4.1   No Bidder may withdraw, modify or cancel, a Bid within 60 calendar days 
+after the actual date of the opening thereof. Should there be reasons why the 
+Contract cannot be awarded within the specified period, the time may be 
+extended by mutual agreement between the Owner and the Bidder. 
+ARTICLE 5 - CONSIDERATION OF BIDS 
+5.3 
+ACCEPTANCE OF BID (AWARD) 
+Delete Subparagraph 5.3.2 and substitute the following: 
+5.3.2 The Owner shall have the right to accept Alternates in the sequence or 
+combinations listed and to determine the low Bidder on the basis of the sum of 
+the Base Bid and the Alternates accepted. 
+ END OF SECTION 
+ITEM 10
+10 - 10
+
+<!-- page 121 -->
+210241 
+00 26 00 - 1 
+DIVISION 00 – BIDDING REQUIREMENTS, CONTRACT FORMS AND 
+CONDITIONS OF THE CONTRACT 
+SECTION 00 26 00 
+     SUBSTITUTION REQUEST FORM 
+No substitution will be considered prior to receipt of Bids unless written request is made on this SUBSTITUTION REQUEST 
+FORM at least ten days prior to the date for receipt of Bids.  Requests for substitution after Contract award shall be done so 
+at proposer’s risk that item may be disapproved.  The Architect’s decision of approval or disapproval of a proposed 
+substitution shall be final. 
+SUBSTITUTION REQUEST 
+TO: _________________________________________________________________________________________ 
+PROJECT: ____________________________________________________________________________________ 
+SPECIFIED ITEM: 
+_____________________    ______________________    ______________________ 
+ ____________________ 
+Section                                  Page                                        Paragraph     
+ Description 
+The undersigned requests consideration of the following: 
+PROPOSED SUBSTITUTION ____________________________________________________________________ 
+Attached data includes product description, specifications, drawings, photographs, performance and test data adequate for 
+evaluation of the request; applicable portions of the data are clearly identified. 
+Attached data includes a description of Changes to the Contract Documents which the proposed substitution will require for 
+its proper installation. 
+The undersigned certifies that the following paragraphs, unless modified by attachments, are correct: 
+1. The proposed substitution does not affect the dimensions shown on the drawings.
+2. The undersigned will pay for changes to the building design, including engineering design, detailing, and
+construction costs caused by the requested substitution.
+3. The proposed substitution will have no adverse effect on other trades, the construction schedule, or specified
+warranty requirements.
+4. Maintenance and service parts will be locally available for the proposed substitution.
+The undersigned further states that the function, appearance and quality of the proposed substitution are equivalent or 
+superior to the specified item. 
+Signature 
+For use by the design consultant 
+Firm 
+Accepted 
+Address 
+Accepted as noted  
+Not accepted 
+Date 
+Received too late  
+Telephone 
+Remarks  
+Attachments 
+END OF SECTION 
+ITEM 10
+10 - 11
+
+<!-- page 122 -->
+210241 
+00 26 00 - 2 
+Page left intentionally blank.     
+ITEM 10
+10 - 12
+
+<!-- page 123 -->
+210241 
+00 41 23 - 1 
+DIVISION 00 – PROCUREMENT AND CONTRACTING REQUIREMENTS 
+SECTION 00 41 23 
+BID FORM 
+TO: 
+WORCESTER COUNTY PUBLIC WORKS 
+RENOVATION TO: 
+6113 TIMMONS ROAD 
+WORCESTER COUNTY ROADS 
+BUILDING 
+SNOW HILL, MARYLAND 
+I have received the construction documents titled Renovation to Worcester County 
+Roads Building. I have also received Addenda Nos.             , and have included their 
+provisions in this Proposal.  I have examined both the documents and the site and 
+submit the following bid. 
+In submitting this bid, I agree: 
+1. To hold my bid open until 60 days after bids are opened.
+2. To enter into and execute a Contract, if awarded on the basis of this bid, and to
+furnish Performance and Labor and Material Payment Bonds in accord with the
+Supplementary Instructions to AIA Document A701.
+3. To accomplish the work in accord with the Contract Documents.
+4. To complete the work to Substantial Completion as certified in writing by the
+Architect within ____ following receipt of written notice to proceed.
+5. Bidder agrees to pay a penalty of $1,000 per calendar day in Liquidated
+Damages for not completing the work within the specified times.
+SCHEDULE A - LUMP SUM BID PRICE  
+_____________________ will construct this project for the lump sum price of: 
+___________________________________ Dollars ($_________________) 
+Included within the lump sum price is $ 
+ for the full payment & performance 
+bond premium.  
+I include a copy of my current Maryland Contractor’s license or proof of application with 
+my bid. 
+I include the required Bid Security with my bid. 
+ITEM 10
+10 - 13
+
+<!-- page 124 -->
+210241 
+00 41 23 - 2 
+SCHEDULE B – BID ALTERNATES 
+I include the following BID COST ALTERNATES.  Worcester County reserves the right 
+to incorporate alternates, in part or in total, it deems to be in its own best interests. 
+DEDUCT ALTERNATE NO. 1:  Existing doors 208A to remain. 
+DEDUCT $__________________________________ 
+DEDUCT ALTERNATE NO. 2:  Contractor to remove all HVAC work from 
+contract.  Contractor to coordinate with Worcester County who will provide HVAC 
+work. 
+DEDUCT $__________________________________ 
+DEDUCT ALTERNATE NO. 3:   Contractor to remove all electrical work from the 
+contract.  Contractor to coordinate with Worcester County who will provide 
+electric work. 
+DEDUCT $__________________________________ 
+DEDUCT ALTERNATE NO. 4:  Contractor to remove all low voltage work 
+(access control, cameras, security and fire alarm) from the contract.  Contractor 
+to coordinate with Worcester County who will provide low voltage work. 
+DEDUCT $__________________________________ 
+SCHEDULE C - ALLOWANCES  
+I include the following ALLOWNACES in my Lump Sum Price. 
+1.
+Allow Six Hundred Dollars ($600.00) to provide and install a new kitchen
+faucet and sprayer in the existing kitchen sink that is to be reused.
+2.
+Allow Sixty Thousand Dollars ($60,000.00) for running data/cable lines to
+the building.
+3.
+Allow Thirty-six Thousand, Seven Hundred and Fifty Dollars ($36,750.00)
+for Absolute Security to install the security alarm system, fire alarm
+system, keyscan access control and the IP camera system.
+SUBCONTRACTORS 
+The undersigned BIDDER proposes to use the following named SUBCONTRACTORS: 
+MASONRY____________________________________________________________________ 
+ITEM 10
+10 - 14
+
+<!-- page 125 -->
+210241 
+00 41 23 - 3 
+CARPENTRY__________________________________________________________________ 
+ROOFING_____________________________________________________________________ 
+EIFS_________________________________________________________________________ 
+DRYWALL ____________________________________________________________________ 
+FLOORING____________________________________________________________________ 
+PAINT________________________________________________________________________ 
+DOOR/HARDWARE_____________________________________________________________ 
+WINDOWS_____________________________________________________________________ 
+HVAC_________________________________________________________________________ 
+ELECTRICAL___________________________________________________________________ 
+PLUMBING____________________________________________________________________ 
+The following Corporation is chartered in the State of Maryland. 
+Witness 
+Signature 
+Title 
+CORPORATE SEAL 
+Firm Name 
+Date 
+Business Address 
+Maryland Contractor’s License # 
+END OF SECTION 
+ITEM 10
+10 - 15
+
+<!-- page 126 -->
+210241 
+00 41 23 - 4 
+Page left intentionally blank. 
+ITEM 10
+10 - 16
+
+<!-- page 127 -->
+210241 
+00 41 23 - 5 
+ITEM 10
+10 - 17
+
+<!-- page 128 -->
+210241 
+00 43 13 - 1 
+DIVISION 00 – PROCUREMENT AND CONTRACTING REQUIREMENTS 
+SECTION 00 43 13 
+AIA DOCUMENT A310 - 2010 
+BID SECURITY FORMS 
+Bidders are required to submit an executed AIA DOCUMENT A310 – BID BOND as an 
+attachment to their bid. 
+END OF DOCUMENT 
+ITEM 10
+10 - 18
+
+<!-- page 129 -->
+210241 
+00 43 13 - 2 
+Page left intentionally blank. 
+ITEM 10
+10 - 19
+
+<!-- page 130 -->
+210241 
+00 52 53 - 1 
+DIVISION 00 – PROCUREMENT AND CONTRACTING REQUIREMENTS 
+SECTION 00 52 53 
+AIA DOCUMENT A101-2017 
+AGREEMENT FORM BETWEEN OWNER-DESIGN AND CONTRACTOR 
+– STIPULATED SUM
+The successful bidder shall be required to execute the above named agreement. 
+Submitting a bid denotes acknowledgement by the Bidder that he has read and 
+understands the content of this document. 
+END OF DOCUMENT 
+ITEM 10
+10 - 20
+
+<!-- page 131 -->
+210241 
+00 52 53 - 2 
+Page left intentionally blank. 
+ITEM 10
+10 - 21
+
+<!-- page 132 -->
+210241 
+00 61 13 - 1 
+DIVISION 00 – PROCUREMENT AND CONTRACTING REQUIREMENTS 
+SECTION 00 61 13 
+AIA DOCUMENT A312 - 2010 
+PERFORMANCE BOND AND PAYMENT BOND 
+The successful bidder shall be required to execute the above named bonds as a 
+requirement of the contract.  
+END OF DOCUMENT 
+ITEM 10
+10 - 22
+
+<!-- page 133 -->
+210241 
+00 61 13 - 2 
+Page left intentionally blank. 
+ITEM 10
+10 - 23
+
+<!-- page 134 -->
+210241 
+00 65 19.13 - 1 
+DIVISION 00 – PROCUREMENT AND CONTRACTING REQUIREMENTS 
+SECTION 00 65 19.13 
+AIA DOCUMENT G706 - 1994 
+CONTRACTOR’S AFFIDAVIT OF PAYMENT OF DEBTS AND CLAIMS 
+At completion, and as a condition of final acceptance and payment, the contractor shall 
+be required to submit documentation according to the requirements of the above 
+document.  
+END OF DOCUMENT 
+ITEM 10
+10 - 24
+
+<!-- page 135 -->
+210241 
+00 65 19.13 - 2 
+Page left intentionally blank. 
+ITEM 10
+10 - 25
+
+<!-- page 136 -->
+210241 
+00 65 19.16 - 1 
+DIVISION 00 – PROCUREMENT AND CONTRACTING REQUIREMENTS 
+SECTION 00 65 19.16 
+AIA DOCUMENT G706A - 1994 
+CONTRACTOR’S AFFIDAVIT OF RELEASE OF LIENS 
+At completion, and as a condition of final acceptance and payment, the contractor shall 
+be required to submit documentation according to the requirements of the above 
+document.  
+END OF DOCUMENT 
+ITEM 10
+10 - 26
+
+<!-- page 137 -->
+210241 
+00 65 19.16 - 2 
+Page left intentionally blank. 
+ITEM 10
+10 - 27
+
+<!-- page 138 -->
+210241 
+00 72 00 - 1 
+DIVISION 00 – PROCUREMENT AND CONTRACTING REQUIREMENTS 
+SECTION 00 72 00 
+AIA DOCUMENT A201-2017 
+GENERAL CONDITIONS OF THE CONTRACT FOR CONSTRUCTION 
+The successful bidder shall be required to execute his contract according to the 
+requirements of the above named document.  Submitting a bid denotes 
+acknowledgement by the Bidder that he has read and understands the content of this 
+document. 
+END OF SECTION 
+ITEM 10
+10 - 28
+
+<!-- page 139 -->
+210241 
+00 72 00 - 2 
+Page left intentionally blank. 
+ITEM 10
+10 - 29
+
+<!-- page 140 -->
+210241 
+00 90 00 - 1 
+DIVISION 00 – BIDDING REQUIREMENTS,  
+CONTRACT FORMS AND CONDITIONS OF THE CONTRACT 
+SECTION 00 90 00 
+MODIFICATIONS TO THE GENERAL CONDITIONS 
+These modifications contain changes and conditions to the General Conditions of the 
+Contract for Construction AIA Document A201, 2017 Edition.  Where any part of the 
+General Conditions are modified or deleted by these modifications, the unaltered 
+provisions remain in effect.   
+MODIFICATIONS 
+ARTICLE 1 – GENERAL PROVISIONS 
+Add 1.2.1.2:  The Contractor shall be responsible for coordinating his own work with 
+all the contract drawings and other trades affecting his work. A claim of limitation of 
+responsibility by the contractor due to the failure to do such coordination is not 
+acceptable. 
+ARTICLE 3 - CONTRACTOR 
+Add 3.13.2:  The Contractor shall confine his work to the ‘Limit of Construction'.  He 
+shall not obstruct public roads by delivery or other vehicles and shall work out 
+material storage areas, vehicular access and work crew parking. 
+Paragraph 3.18.1, line 5, delete the phrase "other than the Work itself". 
+ARTICLE 5 - SUBCONTRACTORS 
+Add 5.2.5:  Approval of Subcontractors. The Bid Form requires that the Contractor 
+shall state the name of certain major subcontractors whom he proposes to employ. 
+The Contractor shall be required to enter a subcontract with the subcontractors 
+named in his proposal for these major divisions of the work, except those against 
+whom the Architect or Owner shall have reasonable objection before the execution of 
+the Contract. Subcontractors shall furnish suitable evidence of qualifications, 
+experience, references and financial background, when requested by the Owner, to 
+assist the Owner in its evaluation if such question should arise. 
+ITEM 10
+10 - 30
+
+<!-- page 141 -->
+210241 
+00 90 00 - 2 
+ARTICLE 7 – CHANGE ORDERS 
+Add 7.2.3: Costs Excluded - The term Cost of the Work shall not include any of the 
+following items: 
+.1 
+Payroll costs and other compensation of Contractor’s officers, executives, 
+principals (of partnerships and sole proprietorships), general managers, safety 
+managers, engineers, architects, estimators, attorneys, auditors, accountants, 
+purchasing and contracting agents, expediters, timekeepers, clerks, and other 
+personnel employed by Contractor, whether at the Site or in Contractor’s principal or 
+branch office for general administration of the Work. The payroll costs and other 
+compensation excluded here are to be considered administrative costs covered by 
+the Contractor’s fee. 
+.2  
+Expenses of Contractor’s principal and branch offices other than 
+Contractor’s office at the Site. 
+.3  
+Any part of Contractor’s capital expenses, including interest on Contractor’s 
+capital employed for the Work and charges against Contractor for delinquent 
+payments. 
+.4  
+Costs due to the negligence of Contractor, any Subcontractor, or anyone 
+directly or indirectly employed by any of them or for whose acts any of them may be 
+liable, including but not limited to, the correction of defective Work, disposal of 
+materials or equipment wrongly supplied, and making good any damage to property. 
+.5  
+Other overhead or general expense costs of any kind and the costs of any 
+item not specifically and expressly included in the work. 
+ARTICLE 9 - PAYMENTS AND COMPLETION 
+Add 9.3.1.3:  Progress Payments will be 90% monthly and will cover the period up to 
+the first day of each month and are to include payment for stored materials and 
+equipment.  Stored materials shall be only stored on site or in a bonded warehouse 
+assigned to the Owner. 
+Add 9.3.1.4:  In applying for payments, excluding the first payment and the final 
+payment, the Contractor shall submit a written certificate in the exact wording that he 
+has paid: 
+.1 
+Labor to date. 
+.2 
+Vendors and material suppliers in full to include items included in his previous 
+statement and for which he received payment from the Owner. 
+.3 
+Subcontractors in full, less the related 10%, to the amount included in his 
+previous statement and for which he received payment from the Owner. 
+Contractor shall submit partial lien releases for work performed or materials provided 
+by his subcontractors when work is complete and when requested by the Architect. 
+ITEM 10
+10 - 31
+
+<!-- page 142 -->
+210241 
+00 90 00 - 3 
+Add 9.3.1.5:  Upon Substantial Completion of the entire work, the sum of the total 
+payments will be required to equal 95% of the Contract Sum, less amounts for 
+incomplete work and unsettled claims. 
+ARTICLE 11 - INSURANCE 
+.1 
+Reference Exhibit A attached. 
+END OF SECTION 
+ITEM 10
+10 - 32
+
+<!-- page 143 -->
+11.2021 
+Page 1 of 4 
+EXHIBIT A 
+Worcester County Maryland 
+Standard Terms 
+The provisions below are applicable to all Worcester County (“County”) contracts. These 
+provisions are not a complete agreement. These provisions must be attached to an 
+executed document that identifies the work to be performed, compensation, term, 
+incorporated attachments, and any special conditions (“Contract”). If the Standard Terms 
+and any other part of the Contract conflict, then the Standard Terms will prevail. 
+1.
+Amendment. Amendments to the Contract must be in writing and signed by the
+parties.
+2.
+Bankruptcy. If a bankruptcy proceeding by or against the Contractor is filed, then:
+a.
+The Contractor must notify the County immediately; and
+b.
+The County may cancel the Contract or affirm the Contract and hold the
+Contractor responsible for damages.
+3.
+Compliance with Law. Contractor must comply with all applicable federal, state,
+and local law. Contractor is qualified to do business in the State of Maryland.
+Contractor must obtain, at its expense, all licenses, permits, insurance, and
+governmental approvals needed to perform its obligations under the Contract.
+4.
+Contingent Fee Prohibition. The Contractor has not directed anyone, other than its
+employee or agent, to solicit the Contract and it has not promised to pay anyone a
+commission, percentage, brokerage fee, contingent fee, or other consideration
+contingent on the making of the Contract.
+5.
+Counterparts and Signature. The Contract may be executed in several counterparts,
+each of which may be an original and all of which will be the same instrument. The
+Contract may be signed in writing or by electronic signature, including by email. An
+electronic signature, a facsimile copy, or computer image of the Contract will have
+the same effect as an original signed copy.
+6.
+Exclusive Jurisdiction. All legal proceedings related to this Contract must be
+exclusively filed, tried, and maintained in either the District Court of Maryland for
+Worcester County, Maryland or the Circuit Court of Worcester County, Maryland.
+The parties expressly waive any right to remove the matter to any other state or
+federal venue and waive any right to a jury trial.
+7.
+Force Majeure. The parties are not responsible for delay or default caused by fire,
+riot, acts of God, County-declaration-of-emergency, or war beyond their reasonable
+control. The parties must make all reasonable efforts to eliminate a cause of delay or
+default and must, upon cessation, diligently pursue their obligations under the
+Contract.
+8.
+Governing Law. The Contract is governed by the laws of Maryland and the County.
+9.
+Indemnification. The Contractor must indemnify the County and its agents from all
+liability, penalties, costs, damages, or claims (including attorney’s fees) resulting
+from personal injury, death, or damage to property that arises from or is connected to
+the performance of the work or failure to perform its obligations under the Contract.
+All indemnification provisions will survive the expiration or termination of the
+Contract.
+ITEM 10
+10 - 33
+
+<!-- page 144 -->
+11.2021 
+Page 2 of 4 
+10. Independent Contractor.
+a.
+Contractor is an “Independent Contractor”, not an employee. Although the
+County may determine the delivery schedule for the work and evaluate the
+quality of the work, the County will not control the means or manner of the
+Contractor’s performance.
+b.
+Contractor is responsible for all applicable taxes on any compensation paid
+under the Contract. Contractor is not eligible for any federal Social Security,
+unemployment insurance, or workers’ compensation benefits under the
+Contract.
+c.
+Contractor must immediately provide the County notice of any claim made
+against Contractor by any third party.
+11. Insurance Requirements.
+a.
+Contractor must have Commercial General Liability Insurance in the
+amounts listed below. The insurance must include coverage for personal
+injury, discrimination, and civil rights violation claims. All insurance must
+name County, its employees, and agents as “ADDITIONAL INSURED”. A
+copy of the certificate of insurance must be filed with the County before the
+Contract is executed, providing coverage in the amount of $1,000,000 per
+occurrence, $2,000,000 general aggregate, and $500,000 for property
+damage.
+b.
+Contractor must have automobile insurance on all vehicles used in the
+Contract to protect Contractor against claims for damages resulting from
+bodily injury, including wrongful death, and property damage that may arise
+from the operations in connection with the Contract. All insurance must
+name County, its employees, and agents as “ADDITIONAL INSURED”.
+c.
+Contractor must provide the County with a certification of Workers’
+Compensation Insurance, with employer’s liability in the minimum amount
+required by Maryland law in effect for each year of the Contract.
+d.
+All insurance policies must have a minimum 30 days’ notice of cancellation.
+The County must be notified immediately upon cancellation.
+e.
+When insurance coverage is renewed, Contractor must provide new
+certificates of insurance prior to expiration of current policies.
+12. Nondiscrimination. Contractor must not discriminate against any worker, employee,
+or applicant because of religion, race, sex, age, sexual orientation, physical or mental
+disability, or perceived disability. This provision must be incorporated in all
+subcontracts related to the Contract.
+13. Ownership of Documents; Intellectual Property.
+a.
+All documents prepared under the Contract must be available to the County
+upon request and will become the exclusive property of the County upon
+termination or completion of the services. The County may use the
+documents without restriction or without additional compensation to the
+Contractor. The County will be the owner of the documents for the purposes
+of copyright, patent, or trademark registration.
+ITEM 10
+10 - 34
+
+<!-- page 145 -->
+11.2021 
+Page 3 of 4 
+b.
+If the Contractor obtains, uses, or subcontracts for any intellectual property,
+then it must provide an assignment to the County of ownership or use of the
+property.
+c.
+The Contractor must indemnify the County from all claims of infringement
+related to the use of any patented design, device, materials, or process, or any
+trademark or copyright, and must indemnify the County, its officers, agents,
+and employees with respect to any claim, action, costs, or infringement, for
+royalties or user fees, arising out of purchase or use of materials,
+construction, supplies, equipment, or services covered by the Contract.
+14. Payments. Payments to the Contractor under the Contract will be within 30 days of
+the County’s receipt of a proper invoice from the Contractor. If an invoice remains
+unpaid 45 days after the invoice was received, interest will accrue at 6% per year.
+15. Records. Contractor must maintain fiscal records relating to the Contract in
+accordance with generally accepted accounting principles. All other relevant records
+must be retained by Contractor and kept accessible for at least three years after final
+payment, termination of the Contract, or until the conclusion of any audit,
+controversy, or litigation related to the Contract. All subcontracts must comply with
+these provisions. County may access all records of the Contractor related to the
+Contract.
+16. Remedies.
+a.
+Corrections of errors and omissions. Contractor must perform work
+necessary to correct errors and omissions in the services required under the
+Contract, without undue delays and cost to the County. The County’s
+acceptance will not relieve the Contractor of the responsibility of subsequent
+corrections of errors.
+b.
+Set-off. The County may deduct from any amounts payable to the Contractor
+any back-charges, penalties, or damages sustained by the County, its agents,
+or employees caused by Contractor’s breach. Contractor will not be relieved
+of liability for any costs caused by a failure to satisfactorily perform the
+services.
+c.
+Cumulative. These remedies are cumulative and without waiver of any
+others.
+17. Responsibility of Contractor.
+a.
+The Contractor must perform the services with the standard of care, skill, and
+diligence normally provided by a Contractor in the performance of services
+similar the services.
+b.
+Notwithstanding any review, approval, acceptance, or payment for the
+services by the County, the Contractor will be responsible for the accuracy of
+any work, design, drawings, specifications, and materials furnished by the
+Contractor under the Contract.
+c.
+If the Contractor fails to conform with subparagraph (a) above, then it must,
+if required by the County, perform at its own expense any service necessary
+for the correction of any deficiencies or damages resulting from the
+Contractor’s failure. This obligation is in addition to any other remedy
+available to the County.
+ITEM 10
+10 - 35
+
+<!-- page 146 -->
+11.2021 
+Page 4 of 4 
+18. Severability/Waiver. If a court finds any term of the Contract to be invalid, the
+validity of the remaining terms will not be affected. The failure of either party to
+enforce any term of the Contract is not a waiver by that party.
+19. Subcontracting or Assignment. The Contractor may not subcontract or assign any
+part of the Contract without the prior written consent of the County. The County may
+withhold consent for any reason the County deems appropriate.
+20. Termination. If the Contractor violates any provision of the Contract, the County
+may terminate the Contract by written notice. All finished or unfinished work
+provided by the Contractor will, at the County’s option, become the County’s
+property. The County will pay the Contractor fair compensation for satisfactory
+performance that occurred before termination less the amount of damages caused by
+the Contractor’s breach. If the damages are more than the compensation payable to
+the Contractor, the Contractor will remain liable after termination and the County can
+affirmatively collect damages.
+21. Termination of Contract for Convenience. Upon written notice, the County may
+terminate the Contract when the County determines termination is in the County’s
+best interest. Termination for convenience is effective on the date specified in the
+County’s written notice. The County will pay for reasonable costs allocable to the
+Contract for costs incurred by the Contractor up to the date of termination. But the
+Contractor will not be reimbursed for any anticipatory profits that have not been
+earned before termination.
+22. Termination of Multi-year Contract. If funds are not available for any fiscal period
+of the Contract after the first fiscal period, then the Contract will be terminated
+automatically as of the beginning of unfunded fiscal period. Termination will
+discharge the Contractor and the County from future performance of the Contract, but
+not from their rights and obligations existing at the time of termination.
+23. Third Party Beneficiaries. The County and Contractor are the only parties to the
+Contract and are the only parties entitled to enforce its terms. Nothing in the Contract
+gives any benefit or right to third persons unless individually identified by name and
+expressly described as intended beneficiaries of the Contract.
+24. Use of County Facilities. Contractor may only County facilities that are needed to
+perform the Contract. County has no responsibility for the loss or damage to
+Contractor’s personal property which may be stored on County property.
+25. Whole Contract. The Contract, the Standard Terms, and attachments are the
+complete agreement between the parties and supersede all earlier agreements,
+proposals, or other communications between the parties relating to the subject matter
+of the Contract.
+ITEM 10
+10 - 36
+
+<!-- page 147 -->
+210241 
+01 11 00 - 1 
+DIVISION 01 – GENERAL REQUIREMENTS 
+SECTION 01 11 00 
+SUMMARY OF WORK 
+PART 1 - GENERAL 
+1.01   SECTION INCLUDES 
+A.
+Award of the following work to one (1) General Contractor for single source
+responsibility.  This firm shall engage other specialist firms to perform any part of the
+work which they are not equipped or qualified to perform properly with their own
+personnel.
+1.
+Do not engage any firm unacceptable to manufacturers of products to be
+used.
+2.
+General Contractor is responsible for coordination of materials/data
+submission, production/delivery,  installation, warranties and guarantees,
+and administration of subcontracts
+3.
+Do not engage any firm unacceptable to Architect or Owner.
+B.
+Furnish labor and materials to construct the project as specified in the
+construction documents.
+C.
+The Owner reserves the right, without penalty, not to award a Contract.
+1.02  CONTRACT 
+A.
+The specified work is to be accomplished under a single Base Bid.
+1.03 EXCLUSIVE VENDOR CONTRACTS 
+A.
+The owner has elected to engage the services of a select list of specialist
+vendor/subcontractors for this project.
+B.
+The General Contractor shall enter into subcontracts with the named specialist
+vendor/subcontractor firms as part of the general construction contract.
+1.
+Bids by firms other than those listed herein will not be accepted
+C.
+List of approved Exclusive Specialist Vendor/Subcontractors:
+ITEM 10
+10 - 37
+
+<!-- page 148 -->
+210241 
+01 11 00 - 2 
+1.
+Fire and Carbon Monitoring System:
+a.
+Absolute Security Group, Inc., 300 Mill Street Suite A, Salisbury,
+Maryland 21801, 410-860-0620, www.absolutesecuritygroup.com.
+1.04    WORK SCHEDULE 
+A.
+A construction schedule based upon the base bid shall be submitted for approval
+by the Owner along with the Contractor’s bid prior to start of construction.
+B.
+Contractor shall update his construction schedule on a monthly basis or as
+otherwise requested by the owner.
+1.05  USE OF PREMISES 
+A.
+Use of premises by Contractor to be limited to the specified work areas and
+Owner approved storage area.
+1.06 OWNER OCCUPANCY 
+A.
+The Contractor shall work toward substantial completion of all work concurrently.
+1.07 CODES 
+A.
+All work shall be performed in accordance with the applicable codes and rules
+and regulations of the regulatory agencies which have jurisdiction over this project and
+its location.
+1.08 PROGRESS MEETINGS 
+A.
+In addition to a pre-construction meeting, progress meetings will be held during
+the course of the project at dates and times to be announced.
+1.09 PERMITS AND LICENSES 
+A.
+All required permits shall be paid for and obtained by the Contractor.
+B.
+All Contractors must be licensed by the State of Maryland.
+PART 2 – PRODUCTS 
+Not used. 
+ITEM 10
+10 - 38
+
+<!-- page 149 -->
+210241 
+01 11 00 - 3 
+PART 3 – EXECUTION 
+Not used. 
+END OF SECTION 
+ITEM 10
+10 - 39
+
+<!-- page 150 -->
+210241 
+01 21 00 - 1 
+DIVISION 1 – GENERAL REQUIREMENTS 
+SECTION 01 21 00 
+ALLOWANCES 
+PART 1 - GENERAL 
+1.01   SECTION INCLUDES 
+A.
+This section includes administrative and procedural requirements governing
+allowances.
+B.
+Certain materials and equipment are specified in the contract documents by
+allowances.  Allowances have been established in lieu of additional requirements and to
+defer selection of actual materials and equipment to a later date when additional
+information is available for evaluation.  If necessary, additional requirements will be
+issued by Change Order.
+C.
+Allowance amounts are for materials only.  Installation shall be covered in Base
+Bid unless noted otherwise.
+1.02 SELECTION AND PURCHASE 
+A.
+At the earliest practical date after award of the Contract, advise Owner of the
+date when final selection and purchase of each product or system described by an
+allowance must be completed to avoid delaying the work.
+B.
+At Owner’s request, obtain proposals for each allowance for use in making final
+selections.  Include recommendations that are relevant to performing the Work.
+C.
+Purchase products selected by Owner from the designated supplier.
+1.03 SUBMITTALS 
+A.
+Submit proposals for purchase of products or systems included in allowances, in
+the form specified for Change Orders.
+B.
+Submit invoices or delivery slips to show actual quantities of materials delivered
+to the site for use in fulfillment of each allowance.
+ITEM 10
+10 - 40
+
+<!-- page 151 -->
+210241 
+01 21 00 - 2 
+1.04 UNUSED MATERIALS 
+A.
+Return unused materials purchased under an allowance to manufacturer or
+supplier for credit to Owner after installation has been completed and accepted.
+B.
+If requested by Architect, prepare unused material for storage by Owner when it
+is not economically practical to return the material for credit.  If directed by Architect,
+deliver unused material to Owner’s storage space.  Otherwise, disposal of unused
+material is Contractor’s responsibility.
+PART 2 - PRODUCTS 
+Not used. 
+PART 3 – EXECUTION 
+3.01 EXAMINATION 
+A.
+Examine products covered by an allowance promptly on delivery for
+damage or defects. Return damaged or defective products to manufacturer for
+replacement.
+3.02 PREPARATION 
+A.
+Coordinate materials and their installation for each allowance with related
+materials and installations to ensure that each allowance item is completely
+integrated and interfaced with related work.
+3.03 SCHEDULE OF ALLOWANCES 
+A.
+ALLOWANCE NO. 1:
+1.
+Allow Two Six Hundred Dollars ($600.00) for providing a new
+kitchen faucet and sprayer in the existing kitchen sink that is being
+reused.
+B.
+ALLOWANCE NO. 2:
+1.
+Allow Sixty Thousand Dollars ($60,000.00) for running data/cable
+lines to the building.
+ITEM 10
+10 - 41
+
+<!-- page 152 -->
+210241 
+01 21 00 - 3 
+C 
+ALLOWANCE NO 3: 
+1.
+Allow Thirty-six Thousand, Seven Hundred and Fifty Dollars
+($36,750.00) for Absolute Security including fire and carbon monitoring
+system.
+END OF SECTION 
+ITEM 10
+10 - 42
+
+<!-- page 153 -->
+210241 
+01 23 00 - 1 
+DIVISION 1 – GENERAL REQUIREMENTS 
+SECTION 01 23 00 
+ALTERNATES 
+PART 1 - GENERAL 
+1.01   SECTION INCLUDES 
+A.
+Changes to be incorporated into the work, only when that Alternate is made a part
+of the work by specific provisions in the Owner-Contractor Agreement.  The Owner
+reserves the right to incorporate alternates, or parts of alternates, deemed to be in the
+Owner's best interest.
+B.
+Referenced Sections of specifications stipulate pertinent requirements for products
+and methods to achieve the work stipulated under each Alternate.
+C.
+Coordinate pertinent related work and modify surrounding work as required to
+properly integrate the work under each Alternate, and to provide the complete
+construction required by Contract Documents.
+D.
+The alternates are described in Section 00 41 23, Bid Form.
+PART 2 - PRODUCTS 
+Not used. 
+PART 3 – EXECUTION 
+Not used. 
+END OF SECTION 
+ITEM 10
+10 - 43
+
+<!-- page 154 -->
+210241 
+01 23 00 - 2 
+Page to be left intentionally blank. 
+ITEM 10
+10 - 44
+
+<!-- page 155 -->
+210241 
+01 29 00 - 1 
+DIVISION 1 – GENERAL REQUIREMENTS 
+SECTION 01 29 00 
+PAYMENT PROCEDURES 
+1.01    SECTION INCLUDES 
+A.
+Payment for the work completed under this Contract will be made at the lump
+sum, contingent/unit, and allowance prices bid, which prices shall include the furnishing
+of all labor, tools, equipment and materials and the performance of all work required to
+complete the project as indicated and specified in accordance with all requirements of
+the Contract Documents.
+B.
+All incidental minor and miscellaneous items, work and materials for which no
+specific lump sum or unit price bid item is shown and which are necessary to complete
+the work and to maintain and/or repair the work, shall be done and furnished by the
+Contractor without extra charge.
+1.02   PAYMENT 
+A.
+After the award of the Contract, the Contractor will develop an itemized
+breakdown of the bid amount according to specific work activities.  The Contractor will
+be required to submit an itemized breakdown of his bid for approval within 14 days after
+the Pre-construction Conference. At the end of each pay period, the Contractor shall
+submit to the Owner or his authorized representative for approval an invoice showing
+percent complete for each item on the breakdown.
+B.
+With each Application for Payment, the Contractor shall submit a Form of Waiver
+and Release of Mechanic's Liens relating to the work for which they are to be paid with
+the proceeds of such Application of Payment.
+C.
+The Contractor shall promptly pay each Subcontractor (including suppliers, 
+laborers and material men) performing labor or furnishing material for the work upon 
+receipt of payment from the Owner out of the amount paid to the Contractor on account 
+of the work for each subcontractor, supplier, laborer, or material men, the amount to 
+which said subcontractor is entitled, reflecting the percentage actually retained, if any, 
+from payments to the Contractor on account of such work.
+D.
+The Owner may, on request and at his discretion, furnish to any subcontractor, if 
+practicable, information regarding the percentages of completion or the amounts applied
+for by the Contractor and the action taken thereon by the Owner on account of work
+done by such contractor.
+ITEM 10
+10 - 45
+
+<!-- page 156 -->
+210241 
+   01150-2 
+E.
+The Owner shall not have any obligation to pay or to see to the payment of any
+monies to any subcontractor except as may otherwise be required by law.
+F.
+No progress payment or any partial or entire use of occupancy of the Project by
+the Owner shall constitute an acceptance of any work which is not in accordance with
+the Contract Documents.
+1.03 PAYMENTS WITHHELD 
+A.
+The Owner may decline to pay all or any part thereof or, because of subsequent
+observations, it may nullify the whole or any part of any payment previously issued, to
+such extent as may be necessary in its opinion to protect the Owner from loss because
+of:
+1.
+Defective work not remedied.
+2.
+Third party claims filed or reasonable evidence indicating probable filing of 
+such claims.
+3.
+Failure of the Contractor to make payments properly to subcontractors or 
+for labor, material or equipment.
+4.
+Reasonable evidence that the work cannot be completed for unpaid 
+balance of the Contract Sum.
+5.
+Damage to the Owner or another Contractor.
+6.
+Reasonable evidence that the work will not be or has not been completed 
+within the Contract time.
+7.
+Failure to carry out the work in accordance with the Contract Documents.
+8.
+Cancellation, material change or lapse of required insurance as specified 
+in the Contract Documents.
+END OF SECTION 
+ITEM 10
+10 - 46
+
+<!-- page 157 -->
+210241 
+01 31 19 - 1 
+DIVISION 1 – GENERAL REQUIREMENTS 
+SECTION 01 31 19 
+PROJECT MEETINGS 
+PART 1 - GENERAL 
+1.01 SECTION INCLUDES 
+A.
+Owner’s Representative, known hereafter as the Project Manager (PM), will
+schedule and administer pre-construction meeting, call progress meetings throughout
+progress of the work, and will:
+1.
+Prepare agenda for meetings.
+2.
+Set meeting date.
+3.
+Make arrangements for meeting room.
+4.
+Preside at meetings.
+5.
+Record minutes; include significant proceedings and decisions.
+6.
+Reproduce and distribute copies of minutes within five days after each
+meeting.
+a.
+To participants in meeting.
+b.
+To parties affected by decisions made at meeting.
+B.
+Representatives of contractors and subcontractors attending meeting shall be
+qualified and authorized to act on behalf of entity each represents.
+1.02  PRE-CONSTRUCTION MEETING 
+A.
+Schedule within 15 days after date of Notice to Proceed.
+B.
+Location:  As announced.
+C.
+Attendance:
+1.
+Owner's Representative (Project Manager).
+2.
+Architect and his professional consultants.
+3.
+Contractor's Superintendent.
+4.
+Major Subcontractors.
+5.
+Others as appropriate.
+D.
+Suggested Agenda:
+ITEM 10
+10 - 47
+
+<!-- page 158 -->
+210241 
+01 31 19 - 2 
+1.
+Discussion of:
+a.
+Contract.
+b.
+Certificates of Insurance.
+c.
+Bonds.
+d.
+List of major subcontractors and suppliers.
+e.
+Projected Construction Schedule.
+2.
+Critical work sequencing.
+3.
+Project Coordination.
+a.
+Designation of responsible personnel.
+b.
+Architect's representative.
+c.
+Owner's representative.
+d.
+Contractor's superintendent.
+4.
+Procedures and processing of:
+a.
+Field decisions.
+b.
+Proposal requests.
+c.
+Substitutions.
+d.
+Installation procedures.
+e.
+Closeout procedures.
+f.
+Submittals.
+(1)
+Shop drawings – To be submitted as PDF electronic files.
+(2)
+Samples.
+g.
+Change Orders.
+h.
+Monthly Applications for Payment.
+(1)
+How many copies?
+(2)
+Who approves same?
+(3)
+Schedule of values.
+(4)
+Stored material payments.  (Off-site) (Insurance)
+5.
+Adequacy of distribution of Contract Documents.
+6.
+Procedures for maintaining Record Documents.
+7.
+Use of premises.
+a.
+Office, work and storage areas.
+b.
+Owner's requirements.
+8.
+Construction facilities, controls and construction aids.
+9.
+Temporary utilities.
+10.
+Safety and first-aid procedures.
+11.
+Security procedures.
+12.
+Housekeeping procedures.
+13.
+Contractor's after-hours telephone number (3 key people).
+14.
+Temporary usage of permanent elevator.
+15.
+Other business.
+1.03   PROGRESS MEETINGS 
+A.
+Schedule as called.
+ITEM 10
+10 - 48
+
+<!-- page 159 -->
+210241 
+01 31 19 - 3 
+B.
+Location of meetings:  As Announced.
+C.
+Attendance:
+1.
+Same personnel as at pre-construction meeting.
+2.
+Others as appropriate.
+D.
+Suggested Agenda:
+1.
+Review, approval of minutes of previous meeting.
+2.
+Review of work progress since previous meeting.
+3.
+Field observations, problems, and conflicts.
+4.
+Problems which impede Construction Schedules.
+5.
+Corrective measures and procedures to regain projected schedule.
+6.
+Revisions to Construction Schedule.
+7.
+Plan progress, schedule, during succeeding work period.
+8.
+Coordination of schedules.
+9.
+Review submittal schedules; expedite as required.
+10.
+Maintenance of quality standards.
+11.
+Review proposed changes for effect on Construction Schedule on
+completion date.
+12.
+Other business.
+1.04  FINAL INSPECTION 
+A.
+Schedule as called.
+B.
+Attendance:
+1.
+Same personnel as at pre-construction meeting.
+2.
+Others as appropriate.
+C.
+Suggested agenda for walk-through:
+1. The final inspection and acceptance of the work will focus largely on the
+appearance of the finished work.
+PART 2 – PRODUCTS 
+Not used. 
+PART 3 – EXECUTION 
+Not used. 
+END OF SECTION 
+ITEM 10
+10 - 49
+
+<!-- page 160 -->
+210241 
+01 31 19 - 4 
+Page left intentionally blank. 
+ITEM 10
+10 - 50
+
+<!-- page 161 -->
+210241 
+01 32 00 - 1 
+DIVISION 1 – GENERAL REQUIREMENTS 
+SECTION 01 32 00 
+CONSTRUCTION DOCUMENTATION 
+PART 1 - GENERAL 
+1.01   SECTION INCLUDES 
+A.
+Section includes administrative and procedural requirements for documenting the
+progress of construction during performance of the Work, including the following:
+1.
+Construction schedule updating reports.
+2.
+Daily construction reports.
+3.
+Site condition reports.
+4.
+Unusual event reports.
+1.02 INFORMATIONAL SUBMITTALS 
+A.
+Format for Submittals: Submit required submittals in PDF electronic files.
+B.
+Construction Schedule Updating Reports:  Submit with Applications for Payment.
+C.
+Daily Construction Reports:  Submit at weekly intervals.
+D.
+Site Condition Reports:  Submit at time of discovery of differing conditions.
+E.
+Unusual Event Reports: Submit at time of unusual event.
+PART 2 - PRODUCTS 
+2.01 DAILY CONSTRUCTION REPORTS 
+A.
+Prepare a daily construction report recording the following information
+concerning events at Project site:
+1.
+List of subcontractors at Project site.
+2.
+List of separate contractors at Project site.
+3.
+Approximate count of personnel at Project site per contractor and
+subcontractor.
+4.
+Equipment at Project site.
+5.
+Material deliveries.
+6.
+High and low temperatures and general weather conditions,
+including presence of rain or snow.
+7.
+Accidents.
+8.
+Meetings and significant decisions.
+ITEM 10
+10 - 51
+
+<!-- page 162 -->
+210241 
+01 32 00 - 2 
+9.
+Unusual events.
+10.
+Stoppages, delays, shortages, and losses.
+11.
+Meter readings and similar recordings.
+12.
+Emergency procedures.
+13.
+Orders and requests of authorities having jurisdiction.
+14.
+Change Orders received and implemented.
+15.
+Construction Change Directives received and implemented.
+16.
+Services connected and disconnected.
+17.
+Equipment or system tests and startups.
+18.
+Partial completions and occupancies.
+19.
+Substantial Completions authorized.
+2.02 SITE CONDITION REPORTS 
+A.
+Immediately on discovery of a difference between site conditions and the
+Contract Documents, prepare and submit a detailed report.  Submit with a
+Request for Information.  Include a detailed description of the differing conditions,
+together with recommendations for changing the Contract Documents
+PART 3 – EXECUTION 
+Not used. 
+END OF SECTION 
+ITEM 10
+10 - 52
+
+<!-- page 163 -->
+210241 
+01 33 00 - 1 
+DIVISION 1 – GENERAL REQUIREMENTS 
+SECTION 01 33 00 
+SUBMITTAL PROCEDURES 
+PART 1 - GENERAL 
+1.01    SECTION INCLUDES 
+A.
+Shop drawings are generally defined as all fabrication and erection drawings, 
+diagrams, brochures, schedules, bills or material and other data prepared by the 
+Contractor, his subcontractors, suppliers or manufacturers which illustrate the 
+manufacturer, fabrication, construction and installation of the work, or a portion thereof.
+B.
+All costs necessary for compliance with the requirements of this Section of the 
+Specifications shall be included under the lump sum price bid.
+C.
+Detailed shop drawings, data, literature for fabricated materials or equipment to 
+be incorporated in the work shall be submitted to the Architect for review for general 
+compliance with the Contract Documents before fabrication.  The Contractor shall 
+obtain and check manufacturer's shop drawings, certified prints and other pertinent data 
+for conformance with all requirements of the Plans and Specification and in ample time 
+to permit satisfactory progress of the work.  After the completion of such checking and 
+verification by the Contractor, the Contractor shall sign or stamp such drawing, which 
+stamp shall state as follows:
+Checked by 
+(Contractor's Name) 
+Signed by 
+  (Checker's Name) 
+D.
+All data, drawings and correspondence from subcontractors, manufacturers or 
+suppliers shall be routed through the Contractor.  The Architect shall review only such 
+data and details as are transmitted to him by the Contractor.  All correspondence from 
+the Contractor to the Architect shall refer to the appropriate section of these 
+specifications containing the subject matter of the inquiry.
+E.
+All shop drawings shall be in conformity with all requirements of the plans and 
+specifications.  All shop drawings, except diagrams, brochures, schedules and 
+illustrations, shall be to an appropriate scale, no smaller than 1/8 inch = 1 foot 0 inches, 
+ITEM 10
+10 - 53
+
+<!-- page 164 -->
+210241 
+01 33 00 - 2 
+and shall give all dimensions necessary for installation and incorporation in the work.  
+All shop drawings shall be accurate and complete, showing outline and section views, 
+details, materials, accessories, appurtenances and related items.  
+F.
+The Contractor shall submit to the Architect PDF electronic files of shop drawings 
+and approval data. The Architect's notation of the action taken will be noted on the 
+returned PDF electronic file.  At the time of each submission, the Contractor shall call to 
+the Architect's attention, in writing, any deviations that the shop drawings may have from 
+the requirements of the Plans and Specifications. At conclusion of the project, the 
+Contractor shall provide (1) print copy and (1) combined PDF electronic file of all 
+electronic file submittals.
+G.
+Within fourteen (14) days of the Pre-construction Conference, the Contractor 
+shall submit a list of all shop drawings to be submitted.  This list can then be used as a 
+check to ensure that all items are submitted.
+1.02    OPERATION AND MAINTENANCE MANUALS 
+A.
+The Contractor shall furnish the Architect six (6) copies of a complete instruction 
+manual for installation, operation, maintenance and lubrication of each component of all
+equipment.  The operation and maintenance manual shall be submitted at least ninety 
+(90) days prior to the anticipated completion of the project.
+PART 2 – PRODUCTS 
+Not used. 
+PART 3 – EXECUTION 
+Not used. 
+ END OF SECTION 
+ITEM 10
+10 - 54
+
+<!-- page 165 -->
+210241 
+01 40 00 - 1 
+DIVISION 1 – GENERAL REQUIREMENTS 
+SECTION 01 40 00 
+QUALITY REQUIREMENTS 
+PART 1 - GENERAL 
+1.01    SECTION INCLUDES 
+A.
+General:
+1.
+The Contractor shall give all necessary notices, obtain all permits (except 
+those referenced above) and pay all governmental taxes, fees and other 
+costs in connection with the work, file all necessary plans, prepare all 
+documents and obtain all necessary approvals of all governmental 
+departments having jurisdiction, obtain all required Certificates of 
+Inspection and Approval for the work and deliver same to the Architect, 
+except as otherwise noted herein.
+B.
+Compliance:  All materials furnished and all work installed shall comply with the 
+requirements of all governmental departments having jurisdiction.
+1.02    STANDARDS 
+A. 
+Any reference to standards in the Contract Documents shall always refer to the 
+latest issue in effect, including all revisions at the time bids are taken, of said standards 
+unless otherwise stated.
+1.03    VERIFICATION OF DIMENSIONS 
+A.
+The Contractor shall be responsible for field verification of all dimensions of 
+existing facilities and other items which are shown on the Contract Drawings.
+B.
+The Contractor shall be responsible for cross checking dimensions between 
+different drawings as facilities are being laid out.  Any discrepancies shall immediately 
+be brought to the attention of the Architect.
+PART 2 – PRODUCTS 
+Not used. 
+ITEM 10
+10 - 55
+
+<!-- page 166 -->
+210241 
+01 40 00 - 2 
+PART 3 – EXECUTION 
+Not used. 
+END OF SECTION 
+ITEM 10
+10 - 56
+
+<!-- page 167 -->
+210241 
+01 41 00 - 1 
+DIVISION 1 – GENERAL REQUIREMENTS 
+SECTION 01 41 00 
+REGULATORY REQUIREMENTS 
+PART 1 – GENERAL 
+1.01 
+SECTION INCLUDES 
+A.
+Contractor shall select, employ and pay for services of an Independent Testing
+Laboratory to perform specified inspection, sampling and testing where specified in the
+various sections of the specifications.
+1.
+Contractor shall cooperate with laboratory to facilitate execution of its
+required services.
+2.
+Employment of laboratory shall in no way relieve Contractor’s obligations to
+perform the Work of the Contract.
+1.02 
+LABORATORY DUTIES 
+A.
+Cooperate with Architect and Contractor; provide qualified personnel after due
+notice.
+B.
+Perform specified inspections, sampling and testing of materials and methods of
+construction.
+1.
+Comply with specified standards.
+2.
+Ascertain compliance of materials with requirements of Contract
+Documents.
+C.
+Promptly notify Architect of observed irregularities or deficiencies of work or
+products.
+D.
+Promptly submit five (5) copies of written report of each test and inspection to
+Architect.  Each report shall include:
+1.
+Date issued.
+2.
+Project title and number.
+3.
+Testing laboratory name, address and telephone number.
+4.
+Name and signature of laboratory inspector.
+5.
+Date and time of sampling or inspection.
+ITEM 10
+10 - 57
+
+<!-- page 168 -->
+210241 
+01 41 00 - 2 
+6.
+Record of temperature and weather conditions.
+7.
+Date of test.
+8.
+Identification of product and specification section.
+9.
+Location of sample or test in the Project.
+10.
+Type of inspection or test.
+11.
+Results of tests and compliance with Contract Documents.
+12.
+Interpretation of test results, when requested by Architect.
+E.
+Perform additional tests as required by Owner or the Owner.
+1.03 
+LIMITATIONS OF AUTHORITY OF TESTING LABORATORY 
+A.
+Laboratory is not authorized to:
+1.
+Release, revoke, alter or enlarge on requirements of Contract Documents.
+2.
+Approve or accept any portion of the Work.
+1.04 
+CONTRACTOR  RESPONSIBILITIES 
+A.
+Cooperate with laboratory personnel and provide access to Work.
+B.
+Furnish incidental labor and facilities:
+1.
+To provide access to Work to be tested and to maintain traffic in order to
+provide laboratory personnel a safe work site.
+2.
+To obtain and handle samples at Project site or at source of product to be
+tested.
+3.
+To facilitate inspections and tests.
+4.
+For storage and curing of test samples.
+C.
+Inspection and testing exclusively for the Contractor’s convenience shall be the
+sole responsibility of the Contractor, at no additional cost to the Owner.
+PART 2 – PRODUCTS 
+Not used. 
+PART 3 – EXECUTION 
+Not used. 
+END OF SECTION 
+ITEM 10
+10 - 58
+
+<!-- page 169 -->
+210241 
+01 42 00 - 1 
+DIVISION 1 – GENERAL REQUIREMENTS 
+SECTION 01 42 00 
+REFERENCES 
+PART 1 - GENERAL 
+1.01   SECTION INCLUDES 
+A.
+Where "as shown", "as indicated", "as detailed", or words of similar import are
+used, it is understood that reference to the drawings accompanying this specification is
+made unless stated otherwise.
+B.
+Where "as directed", "as required", "as selected", "permitted", "acceptance", or
+words of similar import are used, it is understood that direction, requirement, selection,
+permission or acceptance by the Architect and compliance with codes and regulations
+are intended unless stated otherwise.
+C.
+Where used "provide" is understood to mean "provide complete in place"; that is
+"furnished and installed".
+D.
+Where "items of material, equipment, work, etc." and "methods of installation,
+finish, and accomplishment, etc." are referred to in this specification it is understood to
+refer to all such "items, materials, equipment, work, finish, etc."
+E.
+Where "includes" is used, it is understood to mean "includes, but is not limited
+to".
+F.
+Where "Engineer" and "Architect" are used, they shall be understood to have the
+same meaning and to be the same reference.
+1.02  SPECIFICATION REFERENCE 
+A.
+Materials or operations specified by reference to specification of a manufacturer
+or society or institute or other standard must comply with requirements of current
+specification or standard listed.
+B.
+In case of conflict between referenced specification or standard, the one having
+the more stringent requirement governs.
+ITEM 10
+10 - 59
+
+<!-- page 170 -->
+210241 
+01 42 00 - 2 
+1.03   INSTITUTE, SOCIETY, ASSOCIATION AND STANDARDS ABBREVIATION 
+AAMA  
+Architectural Aluminum Manufacturer's Association 
+ACI 
+American Concrete Institute 
+AIA 
+American Institute of Architects 
+AISC 
+American Institute of Steel Construction 
+ANSI 
+American National Standards Institute 
+ASTM 
+American Society for Testing and Materials 
+AWS 
+American Welding Society 
+FM 
+Factory Mutual 
+FS 
+Federal Standard 
+NEC 
+National Electrical Code 
+NRCA 
+National Roofing Contractors Association 
+OSHA  
+Occupational Safety and Health Act 
+SIGMA 
+Sealed Insulating Glass Manufacturer's Association 
+SMACNA 
+Sheet Metal and Air Conditioning Contractors National Association 
+SSPC 
+Steel Structures Painting Council 
+UL 
+Underwriter's Laboratories 
+Not all of the above names are necessarily referenced in the specifications. 
+PART 2 – PRODUCTS 
+Not used. 
+PART 3 – EXECUTION 
+Not used. 
+ END OF SECTION 
+ITEM 10
+10 - 60
+
+<!-- page 171 -->
+210241 
+01 51 00 - 1 
+DIVISION 1 – GENERAL REQUIREMENTS 
+SECTION 01 51 00 
+TEMPORARY UTILITIES 
+PART 1 - GENERAL 
+1.01  SECTION INCLUDES 
+A.
+Furnishing, installing and maintaining temporary utilities required for construction;
+remove on completion of work.
+1.02  REQUIREMENTS OF REGULATORY AGENCIES 
+A.
+Comply with National Electric Code.
+B.
+Comply with Federal, State and local codes and regulations and with utility
+company requirements.
+PART 2 - PRODUCTS 
+2.01  GENERAL 
+A.
+Materials may be new or used, but must be adequate in capacity for the required
+usage, must not create unsafe conditions, and must not violate requirements of
+applicable codes and standards.
+2.02  TEMPORARY ELECTRICITY AND LIGHTING 
+A.
+Contractor to tie into existing service for temporary power and lighting at the
+owner’s expense.
+B.
+Provide adequate artificial lighting for areas of work when natural light is not
+adequate.
+C.
+Provide and maintain necessary temporary night lighting devices to properly
+mark hazards and obstructions and to maintain security of property and materials.
+ITEM 10
+10 - 61
+
+<!-- page 172 -->
+210241 
+01 51 00 - 2 
+2.03   TEMPORARY HEAT AND VENTILATION 
+A.
+Provide temporary heat and ventilation, if necessary, to maintain adequate
+environmental conditions to facilitate progress of work, to meet specified minimum
+conditions for installation of materials, and to protect materials and finishes from
+damage due to temperature or humidity.
+B.
+Use of portable heaters when required shall be standard approved units
+complete with controls.  Fuel costs shall be paid by Contractor.
+2.04  TEMPORARY WATER 
+A.
+Contractor to tie into existing service at no charge.
+2.05  SANITARY FACILITIES 
+A.
+Provide temporary sanitary facilities in compliance with laws and regulations.
+B.
+Service, clean and maintain facilities and enclosures.
+PART 3 - EXECUTION 
+3.01  GENERAL 
+A.
+Maintain and operate systems to assure continuous service.
+B.
+Modify and extend systems as work progress requires.
+3.02  REMOVAL 
+A.
+Completely remove temporary materials and equipment when their use is no
+longer required.
+B.
+Clean and repair damage caused by temporary installations or use of temporary
+facilities.
+C.
+Restore existing facilities used for temporary services to specified, or to original,
+condition.
+ END OF SECTION 
+ITEM 10
+10 - 62
+
+<!-- page 173 -->
+210241 
+01 52 13 - 1 
+DIVISION 1 – GENERAL REQUIREMENTS 
+SECTION 01 52 13   
+FIELD OFFICES AND SHEDS 
+PART 1 - GENERAL 
+1.01  SECTION INCLUDES 
+A.
+At the contractor’s discretion, furnish, install and maintain temporary field office
+and storage sheds during construction period.
+B.
+At completion of work, remove field offices, sheds and contents.
+1.02  REQUIREMENTS OF REGULATORY AGENCIES 
+A.
+Comply with requirements of Federal, State and local codes and regulations.
+1.03  OTHER REQUIREMENTS 
+A.
+Prior to installation of offices and sheds, consult with Owner on location, access
+and related facilities.  Location must be approved by the Public Work Department prior
+to placement.
+PART 2 – PRODUCTS 
+Not used. 
+PART 3 – EXECUTION 
+Not used. 
+END OF SECTION 
+ITEM 10
+10 - 63
+
+<!-- page 174 -->
+210241 
+01 52 13 - 2 
+Page left intentionally blank. 
+ITEM 10
+10 - 64
+
+<!-- page 175 -->
+210241 
+01 54 00 - 1 
+DIVISION 1 – GENERAL REQUIREMENTS 
+SECTION 01 54 00 
+CONSTRUCTION AIDS 
+PART 1 - GENERAL 
+1.01  SECTION INCLUDES 
+A.
+Furnishing, installing and maintaining construction aids; remove on completion of
+work.
+1.02  SAFETY REQUIREMENTS 
+A.
+Except as modified by governing codes and by this Specification comply with
+applicable provisions and recommendations of following standards.
+1.
+ANSI A10.2, Safety Code for Building Construction.
+2.
+ANSI A10.8, Safety Requirements for Scaffolding.
+3.
+ANSI A10.10, Safety Requirements for Temporary and Portable Space
+Heating Devices and Equipment Used in the Construction Industry.
+4.
+ANSI A14.2, Safety Requirements for Portable Metal Ladders.
+B.
+Comply with Federal, State and local codes and regulations.
+C.
+Upon request, contractor shall furnish written certification that he has adhered to
+the referenced standards in the performance of his work on this project.
+PART 2 - PRODUCTS 
+2.01  CONSTRUCTION AIDS 
+A.
+Provide and maintain in good condition required temporary ladders, ramps,
+chutes, scaffolding, and platforms as required.
+B.
+Temporary Enclosures:  Provide as required for protecting the work.  Provide for
+both exterior and interior openings, for passageways, and any other location where
+temporary enclosures and protection may be required.
+ITEM 10
+10 - 65
+
+<!-- page 176 -->
+210241 
+01 54 00 - 2 
+PART 3 - EXECUTION 
+3.01  PREPARATION 
+A.
+Review site conditions and factors which affect construction procedures and
+construction aids.
+3.02  GENERAL 
+A.
+Relocate construction aids as required by progress of construction, by storage or
+work requirements, and to accommodate legitimate requirements of Owner.
+3.03  REMOVAL 
+A.
+Completely remove temporary materials, equipment and services at completion
+of project.
+B.
+Clean, repair damage caused by installation or by use of temporary facilities.
+C.
+Restore existing facilities used for temporary purposes to specified, or to original,
+condition.
+ END OF SECTION 
+ITEM 10
+10 - 66
+
+<!-- page 177 -->
+210241 
+01 56 00 - 1 
+DIVISION 1 – GENERAL REQUIREMENTS 
+SECTION 01 56 00 
+ TEMPORARY BARRIERS AND ENCLOSURES 
+PART 1 - GENERAL 
+1.01  SECTION INCLUDES 
+A.
+Furnishing, installing and maintaining suitable barriers as required to prevent
+entry, and to protect the work and existing facilities from construction operations;
+remove when no longer needed, or at completion of work.
+1.02  REQUIREMENTS OF REGULATORY AGENCIES 
+A.
+Comply with federal, state and local codes and regulations.
+PART 2 - PRODUCTS 
+2.01  MATERIALS 
+A.
+Materials may be new or used, suitable for the intended purpose, and shall
+comply with the requirements of applicable codes and standards.
+2.02  BARRIERS 
+A.
+Contractor's option, as appropriate to serve the required purpose.
+PART 3 - EXECUTION 
+3.01  GENERAL 
+A.
+Install facilities of a neat and reasonable uniform appearance, structurally
+adequate for the required purposes.
+B.
+Maintain during entire construction period.
+C.
+Relocate as required by progress of construction.
+ITEM 10
+10 - 67
+
+<!-- page 178 -->
+210241 
+01 56 00 - 2 
+3.02   REMOVAL 
+A.
+Completely remove barricades when construction has progressed to the point
+that they are no longer needed, and when approved by the Architect.
+B.
+Clean and repair damage caused by installation.
+ END OF SECTION 
+ITEM 10
+10 - 68
+
+<!-- page 179 -->
+210241 
+01 70 00 - 1 
+DIVISION 1 - GENERAL REQUIREMENTS 
+SECTION 01 70 00 
+EXECUTION AND CLOSEOUT REQUIREMENTS 
+PART 1 - GENERAL 
+1.01   SECTION INCLUDES 
+A.
+Substantial Completion:  The project will be considered substantially complete
+when building and all equipment has been completed, installed and tested and the
+building is ready to be used for its intended use.
+1.02   CLEANUP 
+A.
+Upon completion of the work and before Final Acceptance will be made, the work
+site, storage areas, and other areas occupied by the Contractor during construction
+shall be cleaned, and all surplus and discarded materials, false work and rubbish placed
+thereon by the Contractor shall be removed by the Contractor.  The Contractor's storage
+area shall be top soiled, seeded and mulched.  No separate payment will be made for
+the work as all such costs shall be included in the lump sum price bid.
+1.03   TOOLS, ACCESSORIES AND SPARE PARTS 
+A.
+The Contractor shall, unless otherwise stated, furnish with each type, kind and
+size of equipment, one complete set of any special tools and appliances which may be
+needed to adjust, operate, maintain or repair the equipment.
+B.
+Each piece of equipment shall be provided with a substantial name plate, which
+is securely fastened in place and clearly inscribed with the manufacturer's name, year of
+manufacture and principal rating data.
+C.
+Where the Specifications require spare parts to be furnished by the Contractor,
+said spare parts for each item of equipment shall be kept separate and tagged to
+identify the specific item of equipment to which they belong, shall be packaged so as to
+preclude damage from handling and storage, and shall be bagged or packaged together
+where items are small in dimension.
+ITEM 10
+10 - 69
+
+<!-- page 180 -->
+210241 
+01 70 00 - 2 
+1.04    DELAYS AND EXTENSIONS OF TIME 
+A.
+The Contractor shall not be entitled to payment or compensation of any kind from
+the Owner for direct, indirect or impact damages, including but not limited to costs of
+acceleration arising because of hindrance or delay from any cause whatsoever, whether
+such hindrances or delays be reasonable or unreasonable, foreseeable or
+unforeseeable, or avoidable or unavoidable; provided, however, that this provision shall
+not preclude recovery by the Contractor of damages for hindrances or delays due solely
+to fraud or bad faith on the part of the Owner or his agents.
+B.
+In the event the Contractor requests an extension of the Contract Time, he shall
+furnish such justification and supporting evidence as the Owner may deem necessary
+for a determination of whether or not the Contractor is entitled to an extension of time
+under the provisions of the Contract.  The Owner shall base his findings of fact and
+decision on such justification and supporting evidence and shall advise the Contractor in
+writing thereof.  If the Owner finds that the Contractor is entitled to any extension of the
+Contract Time, the Owner's determination of the total number of days' extension shall
+be based upon the currently approved progress schedule and on all data relevant to the
+extension.  Such data will be incorporated into the schedule in the form of a revision
+thereto, accomplished in a timely manner.  The Contractor acknowledges and agrees
+that the actual delays in activities or time that are required to execute change order
+activities which, according to the schedule, do not affect the critical path and therefore
+do not have any effect upon Contract completion time, will not be a basis for an
+extension of time.
+1.05    WARRANTY AND GUARANTEE 
+A.
+After the project is substantially complete and the Architect has issued the
+Certificate of Substantial Completion, all guarantees and warranties shall commence.
+B.
+The Contractor warrants to the Owner the following for a period of one year:
+1.
+That all materials and equipment provided under this Contract are new,
+unless otherwise specified.
+2.
+That all work is of good quality and free from faults and defects and in
+accordance with the requirements of the Contract Documents.
+3.
+That all equipment and systems and each and every part thereof, shall
+operate (with proper care and attention) in a satisfactory and efficient
+manner, and in accordance with the Contract Documents.
+4.
+That the Contractor shall, upon receipt of written notice from the Owner,
+promptly replace with workmanship and materials which comply with these
+Specifications, and re-execute, correct or repair, without cost to the
+Owner, all work which may be found to be not in accordance with the
+Contract Documents.
+ITEM 10
+10 - 70
+
+<!-- page 181 -->
+210241 
+01 70 00 - 3 
+5.
+That the guarantee obligations assumed by the Contractor under these
+Contract Documents shall not be held or taken to be in any way impaired
+because of the Specifications, indication or approval by or on behalf of the
+Owner of any articles, materials, means, combinations of things used or to
+be used in the construction, performance and completion of the work, or
+any part thereof.
+6.
+That no use or acceptance by the Owner of the work or any part thereof,
+nor any failure to use the same, nor any repairs, adjustments or
+corrections made by the Owner due to the Contractor's failure to comply
+with any of his obligations under the Contract Documents, shall impair in
+any way the guarantee obligations of the Contractor under these Contract
+Documents.
+C.
+If the Contractor fails to make repairs during the guarantee period, the Owner
+may cause such damaged or defective work to be repaired and made good at the cost
+and expense of the Contractor, including, but not limited to, compensation if required for
+additional professional Owners.  The Contractor shall also bear the expenses of making
+good all work destroyed or damaged by the correction, removal or replacement of his
+defective work.
+1.06    TESTING OF EQUIPMENT AND SYSTEMS 
+A.
+Preliminary Testing
+1.
+When the Contractor has completed the installation of all equipment
+including electrical appurtenances, he shall perform preliminary testing on
+each piece of equipment.
+2.
+Contractor shall provide for the inspection of each piece of equipment by
+authorized and 
+qualified 
+manufacturer's representatives.  
+These
+manufacturer's representatives shall verify that all equipment has been
+installed properly.
+3.
+Manufacturer's representatives shall verify that the individual equipment
+and/or components are functioning in accordance with the Contract
+Documents.
+4.
+The manufacturer of each piece of equipment shall provide a
+manufacturer's certificate in accordance with Section 01 33 00 -
+SUBMITTALS.
+B.
+Pre-Final Testing
+1.
+Pre-final testing shall include the actual running of equipment to ensure
+that all electric and controls are properly connected.  This testing shall be
+done under the supervision of the manufacturer's representative.
+ITEM 10
+10 - 71
+
+<!-- page 182 -->
+210241 
+01 70 00 - 4 
+1.07    FINAL ACCEPTANCE 
+A.
+Upon completion of all work under this Contract, the Contractor shall request, in
+writing, final acceptance by the Owner.
+B.
+Prior to this request, all specified operation and maintenance instructions and
+training shall have been provided for the plant personnel and all certificates, spare
+parts, test equipment, record drawings, and other items required to be delivered shall
+have been provided.
+C.
+Upon receipt of the request, the Architect, the Owner, and the Contractor will
+make an inspection of the Project to determine the status of completion as follows:
+1.
+If the Architect does not consider the Project to be complete, the Architect
+will notify the Contractor in writing of this fact, and will include the reasons
+why the Project is not considered complete.
+2.
+Any items that are not satisfactorily completed or unsatisfactory as
+determined by the Architect, shall be promptly remedied or completed.
+3.
+Upon satisfactory correction of defects or incomplete information or work,
+the Architect will certify to the Owner that the plant is finally complete.
+PART 2 – PRODUCTS 
+Not used. 
+PART 3 – EXECUTION 
+Not used. 
+END OF SECTION 
+ITEM 10
+10 - 72
+
+<!-- page 183 -->
+210241 
+01 73  29 - 1 
+DIVISION 1 – GENERAL REQUIREMENTS 
+SECTION 01 73 29 
+CUTTING AND PATCHING 
+PART 1 - GENERAL 
+1.01    SECTION INCLUDES 
+A.
+Provision for cutting, removing, replacing, patching, restoration, refinishing and
+similar type work as necessary to work scheduled to remain.  Restore existing facilities
+damaged as a result of construction activities to a condition equivalent to that prior to
+the start of work, except where otherwise specified.
+B.
+Extent of work includes removal and replacement of defective work and
+installation of new work to be installed in existing construction.
+1.02 SUBMITTALS 
+A.
+Submit procedures proposed for accomplishment of cutting, patching and
+repairing when such work affects:
+1.
+The structural value of or structural integrity of any element of the project.
+2.
+Integrity of effectiveness of weather-exposed or moisture-resistant elements
+or systems.
+3.
+Efficiency and operational life, maintenance or safety of operational
+elements.
+4.
+Visual qualities of sight-exposed elements.
+B.
+The submittals shall include:
+1.
+Identification of project.
+2.
+Description of affected work.
+3.
+Necessity for cutting, patching or alteration.
+4.
+Effect on structural or weatherproof integrity of project.
+5.
+Alternatives to cutting, patching or repairing.
+PART 2 - PRODUCTS 
+2.01 MATERIALS 
+ITEM 10
+10 - 73
+
+<!-- page 184 -->
+210241 
+01 73  29 - 2 
+A.
+Materials for replacement, repairing, patching, restoration and similar type
+work shall conform to applicable sections of the specifications. Waste materials
+resulting from cutting and removal work shall be removed from the job site.
+PART 3 – EXECUTION 
+3.01 INSPECTION AND PREPARATION 
+A.
+Inspect existing conditions of work for possible movement or damage
+during cutting or uncovering procedures.  After uncovering work, inspect
+conditions affecting installation of new products.  Do not proceed with further
+cutting, patching or repair work if defects are observed or if any unsafe condition
+exists.
+B.
+Prior to cutting or uncovering work provide shoring, bracing and supports
+as required to maintain structural integrity of project. Prior to restoration work
+properly prepare existing surfaces to receive new materials such as to provide a
+proper bond or joining.
+3.02 CUTTING 
+A.
+Cutting shall be performed by hand or power tools. Cut holes and slots
+neat and to the size required, with a minimum disturbance of adjacent work.
+B.
+Saw cut patch perimeters ¼” deep minimum to prevent feathering of patch
+material.
+3.03 PATCHING AND REPAIRS 
+A.
+Existing work shall be cut, altered, removed, temporarily removed and
+replaced as required for performance of work specified.  Work remaining in place
+that is damaged or defaced by reason of alteration or renovation shall be
+restored to a condition equivalent or better than that prior to start of work.
+Contractor shall be responsible for coordinating patching and repairing involving
+the various trades, whether or not specifically mentioned under the respective
+sections.
+B.
+Restore surfaces affected by patching and repairing work to match
+existing adjacent surfaces.  Repainting of affected areas or surfaces shall match
+color and shade of existing painted surfaces.
+END OF SECTION 
+ITEM 10
+10 - 74
+
+<!-- page 185 -->
+210241 
+01 74 00 - 1 
+DIVISION 1 – GENERAL REQUIREMENTS 
+SECTION 01 74 00 
+CLEANING AND WASTE MANAGEMENT 
+PART 1 - GENERAL 
+1.01 
+SECTION INCLUDES 
+A.
+Cleaning, during progress of the Work, and at completion of the Work, as required
+by General Conditions.
+1.02 
+DISPOSAL REQUIREMENTS 
+A.
+Conduct cleaning and disposal operations to comply with codes, ordinances,
+regulations, and anti-pollution laws.
+PART 2 - PRODUCTS 
+2.01 
+MATERIALS 
+A.
+Use only those cleaning materials which will not create hazards to health or
+property and which will not damage surfaces.
+B.
+Use only those cleaning materials and methods recommended by manufacturer on
+the surface material to be cleaned.
+C.
+Use cleaning materials only on surfaces recommended by cleaning material
+manufacturer.
+PART 3 - EXECUTION 
+3.01 
+DURING CONSTRUCTION 
+A.
+Execute daily cleaning to keep Work, site and adjacent properties free from
+accumulations of waste materials, rubbish and windblown debris, resulting from renovation
+operations.
+B.
+Provide on-site containers for collection of waste materials, debris and rubbish.
+ITEM 10
+10 - 75
+
+<!-- page 186 -->
+210241 
+01 74 00 - 2 
+C.
+Remove waste materials, debris and rubbish from site periodically and dispose of at
+legal disposal areas away from site.
+3.02 
+FINAL CLEANING 
+A.
+Employ skilled workmen for final cleaning.
+B.
+Remove mastic, adhesives, dust, dirt, stains, fingerprints, labels and other foreign
+materials from sight-exposed interior and exterior surfaces.
+C.
+Wash and shine glazing.
+D.
+Polish glossy surfaces to a clear shine.
+E.
+Broom clean exterior paved surfaces; rake clean other surfaces of the grounds.
+F.
+Prior to final completion, or Owner occupancy, Contractor shall conduct an
+inspection of sight-exposed interior and exterior surfaces, and all work areas, to verify that
+the entire work is clean.
+ END OF SECTION 
+ITEM 10
+10 - 76
+
+<!-- page 187 -->
+210241 
+01 78 39 - 1 
+DIVISION 1 – GENERAL REQUIREMENTS 
+SECTION 01 78 39 
+PROJECT RECORD DOCUMENTS 
+PART 1 - GENERAL 
+1.01   SECTION INCLUDES 
+A.
+Maintain at site one record copy of:
+1.
+Drawings.
+2.
+Specifications.
+3.
+Addenda.
+4.
+Change orders and other modifications to contract.
+5.
+Architect field orders or written instructions.
+6.
+Approved shop drawings, product data and samples.
+7.
+Field test reports.
+1.02   MAINTENANCE OF DOCUMENTS AND SAMPLES 
+A.
+Store documents and samples in Contractor's field office apart from documents
+used for construction.
+1.
+Provide files and racks for storage of documents.
+2.
+Provide secure storage space for storage of samples.
+B.
+Maintain documents in a clean, dry, legible condition and in good order.  Do not use
+record documents for construction purposes.
+1.03 
+MARKING DEVICES 
+A.
+Provide felt tip marking pens for recording information.
+1.04 
+RECORDING 
+A.
+Label each document "PROJECT RECORD" in neat large printed letters.
+B.
+Record information concurrently with construction progress.
+C.
+Drawings:  Legibly mark to record actual construction.
+ITEM 10
+10 - 77
+
+<!-- page 188 -->
+210241 
+01 78 39 - 2 
+D.
+Specifications and Addenda:  Legibly mark each section to record
+1.
+Manufacturer, trade name, catalog number, and supplier of each product
+and item of equipment actually installed.
+2.
+Changes made by Field Order or by Change Order.
+1.05 
+SUBMITTAL 
+A.
+Submit electronic copies of the as-built Record Documents to the Architect at the
+end of the project.
+B.
+At contract close out, deliver paper and electronic copies of the Record Documents
+to Architect or Owner as directed. Final payment will not be due and payable until
+acceptable Record Documents are submitted to the Architect.
+C.
+Accompany submittal with transmittal letter in duplicate, containing:
+1.
+Date.
+2.
+Project title and number.
+3.
+Contractor's name and address.
+4.
+Title and number of each Record Document.
+5.
+Signature of Contractor or his authorized representative.
+PART 2 – PRODUCTS 
+Not used. 
+PART 3 – EXECUTION 
+Not used. 
+ END OF SECTION 
+ITEM 10
+10 - 78
+
+<!-- page 189 -->
+210241 
+01 80 00 - 1 
+DIVISION 1 – GENERAL REQUIREMENTS 
+SECTION 01 80 00 
+PERFORMANCE REQUIREMENTS 
+PART 1 - GENERAL 
+1.01  SECTION INCLUDES 
+A.
+Owner’s expectations for the performance, quality, workmanship, management
+and cooperation of the General Contractor and his Sub-Contractors in the execution of
+the Construction Contract of this project.
+1.02  OWNER’S PROJECT REQUIREMENTS 
+A.
+The completed facility shall provide comfortable conditions in an energy efficient
+way.
+B.
+The completed facility shall be an environment that does not promote the
+propagation of mold.
+C.
+The completed facility shall be constructed in compliance with all applicable
+building standards.
+D.
+The completed facility will operate efficiently, and in full compliance with the
+intent of the plans and specifications, to ensure 100% utilization by the Owner at all
+times.
+E.
+The completed building work will be aesthetically acceptable to the
+owner/architect.  Unacceptable work will be corrected by the contractor without
+additional cost to the owner.  The contractor will use the most cost effective practices
+and exhibit pride of workmanship of the builders and workers who construct the project.
+1.03 CONTRACTING OF LOCAL SUBCONTRACTORS 
+A.
+The Contractor shall make good faith efforts to encourage the participation of
+qualified local sub-contractors and personnel in bidding and performance of his
+Contract.
+1.04    WORK SCHEDULE 
+ITEM 10
+10 - 79
+
+<!-- page 190 -->
+210241 
+01 80 00 - 2 
+A.
+An executed Contract shall denote acknowledgment by the Contractor and his
+Sub-Contractors that they understand the critical need of constructing the project within
+the required schedule, in a professional and efficient manner.
+1.
+The construction schedule and requirements for Liquidated Damages are
+defined in Section 00 41 23, Bid Form.
+END OF SECTION 
+ITEM 10
+10 - 80
+
+<!-- page 191 -->
+ITEM 11
+11 - 1
+
+<!-- page 192 -->
+ITEM 11
+11 - 2
+
+<!-- page 193 -->
+ITEM 11
+11 - 3
+
+<!-- page 194 -->
+ITEM 11
+11 - 4
+
+<!-- page 195 -->
+ITEM 11
+11 - 5
+
+<!-- page 196 -->
+ITEM 11
+11 - 6
+
+<!-- page 197 -->
+ITEM 11
+11 - 7
+
+<!-- page 198 -->
+ITEM 11
+11 - 8
+
+<!-- page 199 -->
+ITEM 11
+11 - 9
+
+<!-- page 200 -->
+ITEM 11
+11 - 10
+
+<!-- page 201 -->
+ITEM 11
+11 - 11
+
+<!-- page 202 -->
+ITEM 11
+11 - 12
+
+<!-- page 203 -->
+ITEM 11
+11 - 13
+
+<!-- page 204 -->
+ITEM 11
+11 - 14
+
+<!-- page 205 -->
+ITEM 11
+11 - 15
+
+<!-- page 206 -->
+ITEM 11
+11 - 16
+
+<!-- page 207 -->
+ITEM 11
+11 - 17
+
+<!-- page 208 -->
+ITEM 11
+11 - 18
+
+<!-- page 209 -->
+ITEM 11
+11 - 19
+
+<!-- page 210 -->
+ITEM 11
+11 - 20
+
+<!-- page 211 -->
+ITEM 11
+11 - 21
+
+<!-- page 212 -->
+ITEM 11
+11 - 22
+
+<!-- page 213 -->
+ITEM 11
+11 - 23
+
+<!-- page 214 -->
+ITEM 11
+11 - 24
+
+<!-- page 215 -->
+ITEM 11
+11 - 25
+
+<!-- page 216 -->
+ITEM 11
+11 - 26
+
+<!-- page 217 -->
+ITEM 11
+11 - 27
+
+<!-- page 218 -->
+ITEM 11
+11 - 28
+
+<!-- page 219 -->
+ITEM 11
+11 - 29
+
+<!-- page 220 -->
+ITEM 11
+11 - 30
+
+<!-- page 221 -->
+ITEM 11
+11 - 31
+
+<!-- page 222 -->
+ITEM 11
+11 - 32
+
+<!-- page 223 -->
+ITEM 11
+11 - 33
+
+<!-- page 224 -->
+ITEM 11
+11 - 34
+
+<!-- page 225 -->
+ITEM 11
+11 - 35
+
+<!-- page 226 -->
+ITEM 11
+11 - 36
+
+<!-- page 227 -->
+ITEM 11
+11 - 37
+
+<!-- page 228 -->
+ITEM 11
+11 - 38
+
+<!-- page 229 -->
+ITEM 11
+11 - 39
+
+<!-- page 230 -->
+ITEM 11
+11 - 40
+
+<!-- page 231 -->
+ITEM 12
+12 - 1
+
+<!-- page 232 -->
+ITEM 12
+12 - 2
+
+<!-- page 233 -->
+ITEM 12
+12 - 3
+
+<!-- page 234 -->
+ITEM 12
+12 - 4
+
+<!-- page 235 -->
+ITEM 12
+12 - 5
+
+<!-- page 236 -->
+ITEM 12
+12 - 6
+
+<!-- page 237 -->
+ITEM 12
+12 - 7
+
+<!-- page 238 -->
+ITEM 12
+12 - 8
+
+<!-- page 239 -->
+ITEM 12
+12 - 9
+
+<!-- page 240 -->
+ITEM 12
+12 - 10
+
+<!-- page 241 -->
+ITEM 12
+12 - 11
+
+<!-- page 242 -->
+ITEM 12
+12 - 12
+
+<!-- page 243 -->
+ITEM 12
+12 - 13
+
+<!-- page 244 -->
+ITEM 12
+12 - 14
+
+<!-- page 245 -->
+ITEM 12
+12 - 15
+
+<!-- page 246 -->
+ITEM 12
+12 - 16
+
+<!-- page 247 -->
+County Commissioners
+From:
+Roscoe R. Leslie
+Date:
+April 21, 2023
+RE:
+Code revisions for paid parking
+M inor amendments to 
+the County
+’s current parking ordi
+nance (P
+S 3
+-
+203) must be ma
+de to implement the recently
+approved pilot program for 
+paid parking at a County 
+landing
+.
+We 
+have 
+simpl
+y ad ded the word 
+“ paid
+” into provisions that already 
+empower the County to 
+limit or 
+ban parking in certain areas. 
+ITEM 13
+13 - 1
+
+<!-- page 248 -->
+COUNTY COMMISSIONER
+S OF WORCESTER COUNTY
+, 
+MARYLAND BILL 2
+3 - __
+BY:INTRODUCED: 
+A legislative bill f
+or the purpose of 
+allowing paid parking on county public 
+property
+.
+I. Be It Enacted 
+b y 
+the County Commissioners 
+o f Worcester County, 
+Maryland
+, that 
+§ PS
+3 - 203
+(Designation of limited parking or no parking 
+zones ) of the County Government Article of the Code of Public Local Laws of Worcester County, Maryland is 
+amended
+as follows
+:
+§ PS 
+3 - 203
+. Designation of limited parking, 
+PAID,
+or no parking zones
+(a) Establishment of limited parking
+, PAID,
+or no parking zones.
+The County 
+Commissioners may by resolution adopt regulations for or designations of no parking
+, PAID, or limited parking zones in areas where such are 
+deemed necessary or appropriate by the County Commissioners and which said areas and zones shall include, without limitation, handicapped zones, fire lanes, areas of limited vehicular access or any other ar
+ea deeded by the 
+County Commissioners to be desirable as limited
+, PAID,
+or no parking 
+areas. Such designations may be upon public or quasi
+-public property.
+(b) Designation of limited parking
+, PAID,
+or no parking zones.
+Any areas established 
+as limited parking
+, PAID, or no parking zones shall be posted with a sign or 
+designated by a painted curb as determined by resolution of the County Commissioners
+.
+(c) Fire lanes. The proper posting and marking of fire lanes shall be the responsibility 
+of the property owner if 
+on private property. The property owner shall be 
+responsible for providing and maintaining proper designation of such fire lane as required. It shall be unlawful for any person to obstruct or interfere or allow the obstruction or interference with the oper
+ation or access of any emergency vehicle 
+or equipment within a fire lane or to any fire hydrant or any Fire Department connection or to permit or to engage in any activity within any designated fire lane which would interfere with the proper use of that fi
+re lane by fire
+-fighting 
+personnel and equipment.
+DRAFT
+ITEM 13
+13 - 2
+
+<!-- page 249 -->
+2 
+II. Be It Further Enacted by the County Commissioners of Worcester County, Maryland
+that this Bill 
+will take effect 45 days from the date of its 
+passage.PASSED this _____ day of_______________, 2023:
+Attest:
+County Commissioners of Worcester County, Maryland
+________________________Weston S. YoungChief Administrative Officer
+______________________________Anthony W. Bertino, Jr.
+, President
+______________________________Madison J. Bunting, Jr., Vice 
+President
+______________________________Caryn G. Abbott, Commissioner
+______________________________Eric J. Fiori, Commissioner
+______________________________Theodore J. Elder, Commissioner
+______________________________Joseph M. Mitrecic, 
+Commissioner
+______________________________Diana Purnell, Commissioner
+ITEM 13
+13 - 3
+
+<!-- page 250 -->
+TEL: 410-632-1194 
+FAX: 410-632-3131 
+WEB: www.co.worcester.md.us 
+COMMISSIONERS 
+Anthony W. Bertino, Jr., PRESIDENT 
+Madison J. Bunting, Jr., VICE PRESIDENT 
+Caryn Abbott 
+Theodore J. Elder 
+Eric J. Fiori 
+Joseph M. Mitrecic 
+Diana Purnell 
+OFFICE OF THE 
+COUNTYCOMMISSIONERS 
+Worcester County 
+GOVERNMENT CENTER 
+ONE WEST MARKET STREET• ROOM 1103 
+SNOW HILL, MARYLAND 
+21863-1195 
+April 24, 2023 
+WESTON S. YOUNG, P.E. 
+CHIEF ADMINISTRATIVE OFFICER 
+CANDACE I. SAVAGE 
+DEPUTY ADMINISTRATIVE OFFICER 
+ROSCOE R. LESLIE 
+COUNTY ATTORNEY 
+TO: 
+FROM: 
+Worcester County Commissioners 
+Karen Hammer, Administrative Assistant V 
+SUBJECT: 
+Upcoming Board Appointments -Terms Beginning January 1, 2023_ 
+Attached, please find copies of the Board Summary sheets for all County Boards or 
+Commissions (11), which have current or upcoming vacancies (24).  
+Please Note: Commission For Women – 2 available for reappointment – Colson and Phillips (see 
+      attached letters). 
+President Bertino – You have Two (2) positions open: 
+•
+George Solyak – Term Ending – Agricultural Reconciliation Bd.
+Commissioner Purnell – You have fulfilled all board positions, Thank you! 
+Commissioner Bunting - You have Two (2) positions open: 
+•
+David Deutsch - Term Ending - Dec. 21- Ethics Board.
+•
+Susan Childs – Resigned – April, 2022 – Commission For Women
+Commissioner Abbott - You have fulfilled all board positions, Thank you! 
+Commissioner Mitrecic - You have One (1) position open: 
+•
+Jake Mitrecic – Resigned – Housing Review Bd.
+   Commissioner Elder - You have Two (2) positions open: 
+•
+George Dix – Term Ending – Solid Waste Advisory Bd.
+•
+Hope Carmean – Tenure Expires – Commission For Women - Not a Reappointment
+ITEM 14
+14 - 1
+
+<!-- page 251 -->
+Commissioner Fiori - You have Seven (7) positions open: 
+•
+Martin Kwesko - Term Ended - Dec. 21-Water & Sewer Advisory Council, Mystic Harbour
+•
+Matthew Kraeuter - Term Ended - Dec. 21-Water & Sewer Advisory Council, Mystic Harbour
+•
+Joseph Weitzell – passed - Water & Sewer Advisory Council, Mystic Harbour
+•
+Richard Jendrek- passed- Water & Sewer Advisory Council, Mystic Harbour
+•
+Bruce Bums -passed- Water & Sewer Advisory Council, Mystic Harbour
+•
+Keith Swanton -Term Ended-Dec. 21- Water & Sewer Advisory Council, West Ocean City
+•
+Elizabeth Rodier -Term Ending-Dec. 21- Commission for Women- Not a Reappointment
+All Commissioners:
+•
+(5)-Adult Public Guardianship Board- (1) Vacancy/Resignation- Dr. Kenneth Widra
+- Psychiatrist – (4) Term Endings – Dr. Greer, Mr. Collins, Ms. Howard and Ms. Wessels.
+(1) -Drug and Alcohol Abuse Council - 4 Positions – (1) (Passing of Dr. Cragway, Jr),
+•
+(2) - Local Development Council For the Ocean Downs Casino-4 yr.-
+Mark Wittmyer At-Large, David Massey (At-Large-Business O.P.),
+•
+(5) - Water and Sewer Advisory Council - Mystic Harbour  (3) (Passing of Richard Jendrek, Bruce
+Burns and Joseph Weitzell) (2)-Term E n d e d -Martin Kwesko and Matthew Kraeuter
+•
+(1)- Water and Sewer Advisory Council- West Ocean City-(1) Term Ended-Dec. 21 -
+Keith Swanton
+•
+(6 Total) - Commission for Women- (3) Resigned -Elizabeth Rodier, (Fiori) not a reappointment
+resignation of Susan Childs (Bunting) and the resignation of Kris Heiser           
+(2) Term Ending- Coleen Colson (DSS), and Windy Phillips (Bd. Of Ed.) Both Available For Reappointment
+(1) Tenure Ending - Hope Carmean (Elder)
+ITEM 14
+14 - 2
+
+<!-- page 252 -->
+Pending Board Appointments - By Commissioner 
+District 1 – Abbott        Thank You, all of your boards are complete. 
+District 2 -Purnell         Thank You, all of your boards are complete. 
+ District 3 – Fiori           p.13 Martin Kwesko - Term Ending - Dec. 21-Water & Sewer Adv. Mystic Harbor
+p.13 Matthew Kraeuter - Term Ending - Dec. 21-Water & Sewer Adv. Mystic Harbor
+p.13   Joseph Weitzell – passed - Water & Sewer Advisory Council, Mystic Harbor
+p. 13   Richard Jendrek- passed- Water & Sewer Advisory Council, Mystic Harbor
+p. 13  Bruce Bums -passed- Water & Sewer Advisory Council, Mystic Harbor
+p. 14    Keith Swanton -Term Ended- Water & Sewer Adv., West Ocean City
+p. 15   Elizabeth Rodier -Term Ended- Commission for Women
+District 4 -Elder           p.12   George Dix – Term Ended – Solid Waste Adv. Bd.
+p.15   Hope Carmean – Term Ended – Comm. For Women
+District 5 – Bertino 
+p.6   George Solyak – Term Ending – Ag. Reconciliation Bd.
+District 6- Bunting        p. 9  David Deutsch– Ethics Board
+p. 15  Susan Childs - resigned– Commission For Women
+District 7-Mitrecic        p.10 Jake Mitrecic – Resigned – Housing Review Bd.
+All Commissioners: 
+p. 4- (5)-Adult Public Guardianship Board - (1) Vacancy/Resignation- Dr. Kenneth Widra
+- Psychiatrist – (4) Term Endings – Dr. Greer, Mr. Collins, Ms. Howard and Ms. Wessels.
+p. 7 - (1) -Drug and Alcohol Abuse Council – (1) (Passing of Dr. Cragway, Jr),
+p. 11 - (2) - Local Development Council For the Ocean Downs Casino-4 yr.-
+   Mark Wittmyer At-Large, David Massey (At-Large-Business O.P.)            
+p. 13 - (5) - Water and Sewer Advisory Council - Mystic Harbour (Passing of Richard
+     Jendrek, Bruce Burns and Joseph Weitzell) (1)-Term Endings - Martin Kwesko and 
+     Matthew Kraeuter. 
+p. 14- (1)- Water and Sewer Advisory Council-West Ocean City- -Keith Swanton
+p. 15 - (6 Total) - Commission for Women (3) Resigned -Elizabeth Rodier, (Fiori)
+   Resignation of Susan Childs (Bunting) and the resignation of Kris Heiser.     
+(2) Term Ending- Coleen Colson (DSS), and Windy Phillips (Bd. Of Ed.)
+Available for Reappointment
+(1) Tenure Ending - Hope Carmean (Elder)
+p. 17-18 - Two Reappointment Letters
+ITEM 14
+14 - 3
+
+<!-- page 253 -->
+ADULT PUBLIC GUARDIANSHIP BOARD 
+Reference: 
+PGL Family Law 14-402, Annotated Code of Maryland 
+Appointed by: 
+County Commissioners 
+Function: 
+Advisory 
+Perform 6-month reviews of all guardianships held by a public agency. 
+Recommend that the guardianship be continued, modified or terminated. 
+Number/Term: 
+11/3 year terms 
+Terms expire December 31st 
+Compensation: 
+None, travel expenses (under Standard State Travel Regulations) 
+Meetings: 
+Semi-annually 
+Special Provisions: 
+1 member must be a professional representative of the local department 
+1 member must be a physician 
+1 member must be a psychiatrist from the local department of health 
+1 member must be a representative of a local commission on aging 
+1 member must be a representative of a local nonprofit social services 
+organization 
+1 member must be a lawyer 
+2 members must be lay individuals 
+1 member must be a public health nurse 
+1 member must be a professional in the field of disabilities 
+1 member must be a person with a physical disability 
+Staff Contact: 
+Department of Social Services - Roberta Baldwin 
+(410-677-6872) 
+Current Members: 
+Member’s Name 
+Representing 
+Years of Term(s) 
+ Dr. Kenneth Widra 
+ Dr. William Greer 
+ Richard Collins 
+ Nancy Howard 
+ Connie Wessels 
+Brandy Trader 
+Non-profit Soc. Service Rep. 
+*15-17, 17-20, 20-23
+LuAnn Siler 
+Commission on Aging Rep. 
+17-20, 20-23 
+Jack Ferry 
+Professional in field of disabilities 
+*14-14-17-20, 20-23
+Thomas Donoway 
+Person with physical disability  17-20, 20-23 
+Roberta Baldwin 
+Local Dept. Rep. - Social Services 03-06-09-12-15-18-21-24 
+Melissa Banks 
+Public Health Nurse 
+*02-03-06-09-12-15-18-21-24
+* = Appointed to fill an unexpired term 
+Updated: March 15, 2022 
+Printed: November 28, 2022 
+Psychiatrist 
+Physician 
+Lawyer 
+Lay Person 
+Lay Person 
+18-21 
+95-98-01-04-07-10-13-16 -19-22 
+*15-16-19, 19-22
+*17-19, 19-22
+07-10-13-16-19, 19-22
+ITEM 14
+14 - 4
+
+<!-- page 254 -->
+ADULT PUBLIC GUARDIANSHIP BOARD 
+(Continued) 
+Prior Members: 
+Since 1972 
+Dr. Donald Harting 
+Maude Love 
+Thomas Wall 
+Dr. Dorothy Holzworth 
+B. Randall Coates
+Kevin Douglas
+Sheldon Chandler
+Martha Duncan
+Dr. Francis Townsend
+Luther Schultz
+Mark Bainum
+Thomas Mulligan
+Dr. Paul FloryBarbara Duerr
+Craig Horseman
+Faye Thornes
+Mary Leister
+Joyce Bell
+Ranndolph Barr
+Elsie Briddell
+John Sauer
+Dr. Timothy Bainum
+Ernestine Bailey
+Terri Selby (92-95)
+Pauline Robbins (92-95) 
+Darryl Hagey
+Dr. Ritchie Shoemaker (92-95) 
+Barry Johansson (93-96) 
+Albert Straw (91-97) 
+Nate Pearson (95-98) 
+Dr. William Greer, III (95-98) 
+Rev. Arthur L. George (95-99) 
+Irvin Greene (96-99)
+Mary Leister (93-99) 
+Otho Aydelotte, Jr. (93-99) 
+Shirley D’Aprix (98-00) 
+Theresa Bruner (91-02) 
+Tony Devereaux (93-02)
+Dr. William Krone (98-02) 
+David Hatfield (99-03)
+Dr. Kimberly Richardson (02-03) 
+Ina Hiller (91-03) 
+Dr. David Pytlewski (91-06) 
+Jerry Halter (99-06) 
+Dr. Glenn Arzadon (04-07) 
+Madeline Waters (99-08)
+Mimi Peuser (03-08)
+Dr. Gergana Dimitrova
+(07-08)Carolyn Cordial (08-13) 
+June Walker (02-13) 
+Bruce Broman (00-14) 
+Lori Carson (13-14) 
+Pattie Tingle (15-16) 
+The Rev. Guy H. Butler 
+(99-17)Debbie Ritter (07-17) 
+Dean Perdue (08-17) 
+Dr. Dia Arpon *(10-18) 
+* = Appointed to fill an unexpired term 
+Updated: March 15, 2022 
+Printed: November 28, 2022 
+ITEM 14
+14 - 5
+
+<!-- page 255 -->
+AGRICULTURAL RECONCILIATION BOARD 
+Reference: 
+Public Local Law ' ZS 1-346 (Right to Farm Law) 
+Appointed by: 
+County Commissioners 
+Function: 
+Regulatory 
+Mediate and arbitrate disputes involving agricultural or forestry operations 
+conducted on agricultural lands and issue opinions on whether such 
+agricultural or forestry operations are conducted in a manner consistent with 
+generally accepted agricultural or forestry practices and to issue orders and 
+resolve disputes and complaints brought under the Worcester County Right to 
+Farm Law. 
+Number/Term: 
+5 Members/4-Year Terms - Terms expire December 31st 
+Compensation: 
+None - Expense Reimbursement as provided by County Commissioners 
+Meetings: 
+At least one time per year, more frequently as necessary 
+Special Provisions: 
+- All members must be County residents
+- Two Members chosen from nominees of Worcester County Farm Bureau
+- One Member chosen from nominees of Worcester County Forestry Board
+- Not less than 2 but not more than 3 members shall be engaged in the
+agricultural or forestry industries (At-Large members - non-ag/forestry)
+Staff Contact: 
+Dept. of Development Review & Permitting 
+- Jennifer Keener (410-632-1200)
+County Agricultural Extension Agent - As Consultant to the Board
+- Doug Jones, District Manager, Resource Conservation District - (632-3109, x112)
+Current Members: 
+Ag/Forest 
+Member=s Name 
+Nominated By 
+Industry 
+Resides 
+Years of Term(s) 
+Stacey Esham 
+Forestry Bd. 
+Yes 
+Berlin 
+12-16-20, 20-24
+Brooks Clayville 
+Farm Bureau 
+Yes 
+Snow Hill 
+00-04-08-12-16-20, 20-24
+Dean Ennis 
+Farm Bureau 
+Yes 
+Pocomoke 
+06-10-14-18-22-26
+Tom Babcock 
+At-Large 
+No 
+Whaleyville 
+14-18-22-26
+Prior Members: 
+Since 2000 
+Michael Beauchamp (00-06) 
+Phyllis Davis (00-09) 
+Richard G. Holland, Sr. (00-12) 
+Rosalie Smith (00-14) 
+Betty McDermott *(09-17) 
+* = Initial terms staggered 
+Updated: January 10, 2023 
+Printed: January 10, 2023 
+At-Large 
+No 
+18-22
+Ocean Pines 
+George Solyak 
+ITEM 14
+14 - 6
+
+<!-- page 256 -->
+Knowledgeable on Substance Abuse Issues 
+DRUG AND ALCOHOL ABUSE COUNCIL 
+Reference: 
+PGL 
+Health-General, Section 8-1001 
+Appointed by: 
+County Commissioners 
+Functions: 
+Advisory 
+Develop and implement a plan for meeting the needs of the general public 
+and the criminal justice system for alcohol and drug abuse evaluation, 
+prevention and treatment services. 
+Number/Term: 
+At least 18 - At least 7 At-Large, and 11 ex-officio (also several non-voting members) 
+At-Large members serve 4-year terms; Terms expire December 31 
+Compensation: 
+None 
+Meetings: 
+As Necessary 
+Special Provisions: 
+Former Alcohol and Other Drugs Task Force was converted to Drug and 
+Alcohol Abuse Council on October 5, 2004. 
+Staff Contact: 
+Regina Mason, Council Secretary, Health Department (410-632-1100) 
+Doug Dods, Council Chair, Sheriff=s Office (410-632-1111) 
+Current Members: 
+Name 
+Representing 
+Years of Term(s) 
+At-Large Members 
+Jaclyn Sturgis 
+Knowledgeable on Substance Abuse Issues 
+*22-23
+Jim Freeman, Jr. 
+Knowledgeable on Substance Abuse Issues 
+04-11-15, 15-19, 19-23
+Mimi Dean 
+Substance Abuse Prevention Provider 
+*18-19, 19-23
+Kim Moses 
+Knowledgeable on Substance Abuse Issues 
+08-12-16-20, 20-24
+Rev. James Jones 
+Knowledge of Substance Abuse Issues 
+*21-25
+Tina Simmons 
+ Knowledge of Substance Abuse Treatment 
+21-25
+Eric Gray (Christina Purcell) 
+Substance Abuse Treatment Provider 
+*15-18-22-26
+Sue Abell-Rodden 
+Recipient of Addictions Treatment Services 
+10-14-18-22-26
+Colonel Doug Dods 
+Knowledgeable on Substance Abuse Issues 
+04-10 (adv)-14-18-22-26
+Ex-Officio Members 
+Rebecca Jones 
+Health Officer 
+Ex-Officio, Indefinite 
+Roberta Baldwin 
+Social Services Director 
+Ex-Officio, Indefinite 
+Spencer Lee Tracy, Jr. 
+Juvenile Services, Regional Director 
+Ex-Officio, Indefinite 
+Trudy Brown 
+Parole & Probation, Regional Director 
+Ex-Officio, Indefinite 
+Kris Heiser 
+State’s Attorney 
+Ex-Officio, Indefinite 
+Burton Anderson 
+District Public Defender 
+Ex-Officio, Indefinite 
+Sheriff Matt Crisafulli 
+County Sheriff 
+Ex-Officio, Indefinite 
+William Gordy (Eloise Henry Gordy) 
+Board of Education President 
+Ex-Officio, Indefinite 
+Diana Purnell 
+County Commissioners 
+Ex-Officio, Indefinite 
+Judge Brian Shockley (Jen Bauman)
+Circuit Court Administrative Judge 
+Ex-Officio, Indefinite 
+Judge Gerald Purnell (Tracy Simpson) 
+District Court Administrative Judge 
+Ex-Officio, Indefinite 
+Donna Bounds 
+Warden, Worcester County Jail 
+Ex-Officio, Indefinite 
+Updated: January 10, 2023 
+* Appointed to a partial term for proper staggering, or to fill a vacant term 
+Printed: January 10, 2023 
+*17-20, 20-24
+Dr. Roy W. Cragway, Jr. 
+ITEM 14
+14 - 7
+
+<!-- page 257 -->
+Advisory Members 
+Lt. Earl W. Starner 
+Maryland State Police 
+Since 2004 
+Charles ABuddy@ Jenkins 
+Business Community - Jolly Roger Amusements 
+Chief Ross Buzzuro (Lt. Rick Moreck) Ocean City Police Dept. 
+Leslie Brown 
+Hudson Health Services, Inc. 
+James Mcquire, P.D. 
+Health Care Professional - Pharmacist  Since 2018 
+Shane Ferguson 
+Wor-Wic Community College Rep. 
+Since 2018 
+Jessica Sexauer, Director 
+Local Behavioral Health Authority 
+Since 2018 
+Prior Members: 
+Since 2004 
+Vince Gisriel 
+Michael McDermott 
+Marion Butler, Jr. 
+Judge Richard Bloxom 
+Paula Erdie 
+Tom Cetola 
+Gary James (04-08) 
+Vickie Wrenn 
+Deborah Winder 
+Garry Mumford 
+Judge Theodore Eschenburg 
+Andrea Hamilton 
+Fannie Birckhead 
+Sharon DeMar Reilly 
+Lisa Gebhardt 
+Jenna Miller 
+Dick Stegmaier 
+Paul Ford 
+Megan Griffiths 
+Ed Barber 
+Eloise Henry-Gordy 
+Lt. Lee Brumley 
+Ptl. Noal Waters 
+Ptl. Vicki Fisher 
+Chief John Groncki 
+Chief Arnold Downing 
+Frank Pappas 
+Captain William Harden 
+Linda Busick (06-10) 
+Sheriff Chuck Martin 
+Joel Todd 
+Diane Anderson (07-10) 
+Joyce Baum (04-10) 
+James Yost (08-10) 
+Ira ABuck@ Shockley (04-13) 
+Teresa Fields (08-13) 
+Frederick Grant (04-13) 
+Doris Moxley (04-14) 
+Commissioner Merrill Lockfaw 
+Kelly Green (08-14) 
+Sheila Warner - Juvenile Services 
+Chief Bernadette DiPino - OCPD 
+Chief Kirk Daugherty -SHPD 
+Mike Shamburek - Hudson Health 
+Shirleen Church - BOE 
+Tracy Tilghman (14-15) 
+Marty Pusey (04-15) 
+Debbie Goeller 
+Peter Buesgens 
+Aaron Dale 
+Garry Mumford 
+Sharon Smith 
+Jennifer Standish 
+Karen Johnson (14-17) 
+Rev. Bill Sterling (13-17) 
+Kat Gunby (16-18) 
+William McDermott 
+Sheriff Reggie Mason 
+Colleen Wareing ( *06-19) 
+Rev. Matthew D=Amario(*18-21) 
+Donna Nordstron *(19-21) 
+Jennifer LaMade (*12-22) 
+Updated: January 10, 2023 
+* Appointed to a partial term for proper staggering, or to fill a vacant term 
+Printed: January 10, 2023 
+ITEM 14
+14 - 8
+
+<!-- page 258 -->
+ETHICS BOARD 
+Reference: 
+Public Local Law, Section CG 5-103 
+Appointed by: 
+County Commissioners 
+Function: 
+Advisory 
+Maintain all Ethics forms; develop procedures and policies for advisory 
+opinions to persons subject to the Ethics Law and for processing 
+complaints alleging violations of the Ethics Law; conduct a public 
+information program regarding the purpose and application of the Ethics 
+Law; annually certify compliance to the State; and recommend any 
+changes to the Commissioners in order to comply with State Ethics Law. 
+Number/Term: 
+7/4 years 
+Terms expire December 31st 
+Compensation: 
+$100 per meeting 
+Meetings: 
+As Necessary 
+Special Provisions: 
+Staff Contact: 
+Roscoe Leslie, County Attorney 
+(410-632-1194) 
+Current Members: 
+Member=s Name 
+Nominated By 
+Resides 
+Years of Term(s) 
+Frank Knight 
+D-7, Mitrecic
+ Ocean City 
+*14-19, 19-23
+Judy Giffin 
+D-5, Bertino
+ Ocean Pines 
+*21-24
+Joseph Stigler 
+D-4, Elder
+Berlin 
+16-20, 20-24
+Bruce Spangler 
+D-3, Fiori
+Berlin 
+*02-05-09-13-17-21-25
+Iola Tariq 
+D-2, Purnell
+Berlin 
+*22-26
+Mickey Ashby 
+D-1, Abbott
+Pocomoke 
+14-18-22-26
+Prior Members: (Since 1972) 
+J.D. Quillin, III
+Charles Nelson
+Garbriel Purnell
+Barbara Derrickson
+Henry P. Walters
+William Long
+L. Richard Phillips (93-98)
+Marigold Henry (94-98)
+Louis Granados (94-99) 
+Kathy Philips (90-00)
+Mary Yenney (98-05)
+Bill Ochse (99-07) 
+Randall Mariner (00-08)
+Wallace D. Stein (02-08)
+William Kuhn (90-09)
+Walter Kissel (05-09) 
+Marion Chambers (07-11) 
+Jay Knerr (11-14) 
+Robert I. Givens, Jr. (98-14) 
+Diana Purnell (09-14) 
+Kevin Douglas (08-16) 
+Lee W. Baker (08-16) 
+Richard Passwater (09-17) 
+Jeff Knepper (16-21) 
+Faith Mumford (14-22) 
+* = Appointed to fill an unexpired term 
+Updated: January 10, 2023 
+Printed: January 10, 2023 
+17-21
+Ocean Pines 
+D-6, Bunting
+David Deutsch 
+ITEM 14
+14 - 9
+
+<!-- page 259 -->
+Jake Mitrecic
+D-7, Mitrecic
+Ocean City
+15-18-21, 21-24(resigning)
+HOUSING REVIEW BOARD 
+Reference: 
+Public Local Law 'BR 3-104 
+Appointed by: 
+County Commissioners 
+Function: 
+Regulatory/Advisory 
+To decide on appeals of code official=s actions regarding the Rental 
+Housing Code. Decide on variances to the Rental Housing Code. 
+Review Housing Assistance Programs. 
+Number/Term 
+7/3-year terms 
+Terms expire December 31st 
+Compensation: 
+$100 per meeting (policy) 
+Meetings: 
+As Needed 
+Special Provisions: 
+Immediate removal by Commissioners for failure to attend meetings. 
+Staff Support: 
+Development Review & Permitting Department 
+Davida Washington, Housing Program Administrator - 410-632-1200 
+Ext: 1171 
+Current Members: 
+Member=s Name 
+Nominated By 
+Resides 
+Years of Terms(s) 
+Scott Tingle 
+D-4, Elder
+Snow Hill 
+14-17-20, 20-23
+Maria Campione-Lawrence  D-5, Bertino   Ocean Pines
+*22-23
+Felicia Green 
+D-2, Purnell
+  Ocean Pines 
+*21-24
+Keri-Ann F. Byrd 
+D-1, Abbott
+Pocomoke 
+22-25
+Debbie Hileman 
+D-6, Bunting
+Ocean Pines 
+10-13-16-19-22-25
+Don Furbay 
+D-3, Fiori
+Ocean Pines 
+23-26
+Prior Members: 
+Phyllis Mitchell 
+William Lynch 
+Art Rutter 
+William Buchanan 
+Christina Alphonsi 
+Elsie Purnell 
+William Freeman 
+Jack Dill 
+Elbert Davis 
+J. D. Quillin, III (90-96)
+Ted Ward (94-00) 
+Larry Duffy (90-00)
+Patricia McMullen (00-02)
+William Merrill (90-01)
+Debbie Rogers (92-02)
+Wardie Jarvis, Jr. (96-03) 
+Albert Bogdon (02-06) 
+Jamie Rice (03-07) 
+Howard Martin (08) 
+Marlene Ott (02-08) 
+Mark Frostrom, Jr. (01-10) 
+Joseph McDonald (08-10) 
+Sherwood Brooks (03-12) 
+Otho Mariner (95-13) 
+Becky Flater (13-14) 
+Ruth Waters (12-15) 
+John Glorioso (*06-19) 
+Sharon Teagle (00- 20) 
+Davida Washington (*21-21) 
+Donna Dillion (08-22) 
+C.D. Hall 10-22 
+Chase Church (*19-22) 
+* = Appointed to fill an unexpired term 
+Updated: February 21, 2023 
+Printed: February 21, 2023 
+ITEM 14
+14 - 10
+
+<!-- page 260 -->
+LOCAL DEVELOPMENT COUNCIL 
+FOR THE OCEAN DOWNS CASINO 
+Reference: 
+Subsection 9-1A-31(c) - State Government Article, Annotated Code of Maryland 
+Appointed by: 
+County Commissioners 
+Function: 
+Advisory 
+Review and comment on the multi-year plan for the expenditure of the local 
+impact grant funds from video lottery facility proceeds for specified public 
+services and improvements; Advise the County on the impact of the video lottery 
+facility on the communities and the needs and priorities of the communities in the 
+immediate proximity to the facility. 
+Number/Term: 
+15/4-year terms; Terms Expire December 31 
+Compensation: 
+None 
+Meetings: 
+At least semi-annually 
+Special Provisions: 
+Membership to include State Delegation (or their designee); one representative of 
+the Ocean Downs Video Lottery Facility, seven residents of communities in 
+immediate proximity to Ocean Downs, and four business or institution 
+representatives located in immediate proximity to Ocean Downs. 
+Staff Contacts: 
+Kim Moses, Public Information Officer, 410-632-1194 
+Roscoe Leslie, County Attorney, 410-632-1194 
+Current Members: 
+Member=s Name 
+Nominated By 
+Represents/Resides 
+Years of Term(s) 
+David Massey c 
+Bobbi Sample 
+Mary Beth Carozza 
+Wayne A. Hartman 
+Charles Otto 
+Roxane Rounds 
+Michael Donnelly 
+Steve Ashcraft 
+Kerrie Bunting 
+Mayor Rick Meehan c 
+Bob Gilmore 
+Ocean Downs Casino 
+Indefinite 
+Indefinite 
+Indefinite 
+Dist. 2 - Purnell 
+Dist. 7 - Mitrecic 
+Dist. 6 - Bunting 
+Dist. 4 - Elder 
+At-Large 
+Dist. 5 - Bertino 
+Ocean Downs Casino 
+Maryland Senator 
+Maryland Delegate 
+Maryland Delegate 
+Resident - Berlin 
+Resident - Ocean City 
+Resident - Ocean Pines 
+Resident - Snow Hill 
+Business - Ocean City 
+Resident - Ocean Pines 
+17-indefinite 
+14-indefinite 
+18-indefinite 
+14-indefinite 
+*14-15-19, 19-23
+*16-19, 19-23
+*19-20, 20-24
+*22-24
+*09-12-16-20-24
+*19-21, 21-25
+Matt Gordon 
+Dist. 1 – Abbott 
+Resident - Pocomoke 
+19-22, 22-26 
+Ivy Wells 
+Dist. 3 - Church 
+Resident - Berlin 
+22-26 
+Cam Bunting c 
+At-Large 
+Business - Berlin 
+*09-10-14-18-22-26
+Prior Members: 
+Since 2009 
+J. Lowell Stoltzfus c (09-10)
+Mark Wittmyer c (09-11) 
+John Salm c (09-12) 
+Mike Pruitt c (09-12) 
+Norman H. Conway c (09-14) 
+Michael McDermott (10-14) 
+Diana Purnell c (09-14) 
+Linda Dearing (11-15) 
+Todd Ferrante c (09-16) 
+Joe Cavilla (12-17) 
+James N. Mathias, Jr.c (09-18) 
+Ron Taylor c (09-14) 
+James Rosenberg (09-19) 
+Rod Murray c (*09-19) 
+Gary Weber (*19-21) 
+Charlie Dorman (12-19) 
+Gee Williams (09-21) 
+* = Appointed to fill an unexpired term/initial terms staggered 
+Updated: February 21, 2023 
+c = Charter Member
+Printed: February 23, 2023 
+09-13-17, 17-21
+15-19
+Business - Ocean Pines
+Business - Ocean Pines
+At-Large
+At-Large
+Mark Wittmyer
+ITEM 14
+14 - 11
+
+<!-- page 261 -->
+SOLID WASTE ADVISORY COMMITTEE 
+Reference: 
+County Commissioners= Resolution 5/17/94 and 03-6 on 2/18/03 
+Appointed by: 
+County Commissioners 
+Function: 
+Advisory 
+Review and comment on Solid Waste Management Plan, Recycling Plan, 
+plans for solid waste disposal sites/facilities, plans for closeout of landfills, 
+and to make recommendations on tipping fees. 
+Number/Term: 
+11/4-year terms; Terms expire December 31st. 
+Compensation: 
+$100 per meeting expense allowance, subject to annual appropriation 
+Meetings: 
+At least quarterly 
+Special Provisions: 
+One member nominated by each County Commissioner; and one member 
+appointed by County Commissioners upon nomination from each of the 
+four incorporated towns. 
+Staff Support: 
+Solid Waste - Solid Waste Superintendent – David Candy - (410-632-3177) 
+Solid Waste - Recycling Coordinator - Mike McClung - (410-632-3177) 
+Department of Public Works - Dallas Baker- (410-632-5623) 
+Current Members: 
+Member=s Name 
+Nominated By 
+Resides 
+Years of Term(s) 
+John O’Brien 
+D-6, Bunting
+Bishopville 
+*22-23
+Granville Jones 
+D-7, Mitrecic
+Berlin 
+*15-16-20, 20-24
+Michelle Beckett-El Soloh 
+Town of Pocomoke City 
+*19-20, 20-24
+Michael Pruitt 
+Town of Snow Hill 
+*22-24
+Don Furbay 
+D-3, Fiori 
+Berlin 
+20-24
+James Charles 
+Town of Berlin 
+21-25
+Brain Scarborough 
+Town of Ocean City 
+21-25
+Vaughn White 
+D-2, Purnell
+Berlin 
+*19-21, 21-25
+Bob Gilmore 
+D-5, Bertino
+Ocean Pines 
+*21-22, 22-26
+George Linvill 
+D-1, Abbott
+Pocomoke 
+14-18-22-26
+Prior Members: 
+(Since 1994) 
+Ron Cascio (94-96) 
+Roger Vacovsky, Jr. (94-96) 
+Lila Hackim (95-97) 
+Raymond Jackson (94-97) 
+William Turner (94-97) 
+Vernon ACorey@ Davis, Jr. (96-98) 
+Robert Mangum (94-98) 
+Richard Rau (94-96) 
+Jim Doughty (96-99) 
+Jack Peacock (94-00) 
+Hale Harrison (94-00) 
+Richard Malone (94-01) 
+William McDermott (98-03) 
+Fred Joyner (99-03) 
+Hugh McFadden (98-05) 
+Dale Pruitt (97-05) 
+Frederick Stiehl (05-06) 
+Eric Mullins (03-07) 
+Mayor Tom Cardinale (05-08) 
+William Breedlove (02-09) 
+Lester D Shockley (03-10) 
+Woody Shockley (01-10) 
+John C Dorman (07-10) 
+Robert Hawkins (94-11) 
+Victor Beard (97-11) 
+Mike Gibbons (09-14) 
+Hank Westfall (00-14) 
+Marion Butler, Sr (00-14) 
+Robert Clarke (11-15) 
+Bob Donnelly (11-15) 
+Howard Sribnick (10-16) 
+Dave Wheaton (14-16) 
+Wendell Purnell (97-18) 
+George Tasker (*15-20) 
+Rodney Bailey *19 
+Steve Brown *10-19 
+Bob Augustine 16-19 
+Michael Pruitt *15-19 
+James Rosenburg (*06-19) 
+Jamey Latchum *17-19 
+Hal Adkins (*20-21) 
+Mike Poole (11-22) 
+* = Appointed to fill an unexpired term 
+Updated: December 20, 2022 
+Printed: January 27, 2023 
+George Dix 
+D-4, Elder
+*10-10-14-18, 18-22
+Snow Hill 
+ITEM 14
+14 - 12
+
+<!-- page 262 -->
+Ocean Reef 
+WATER AND SEWER ADVISORY COUNCIL 
+MYSTIC HARBOUR SERVICE AREA 
+Reference: 
+County Commissioners= Resolutions of 11/19/93 and 2/1/05 
+Appointed by: 
+County Commissioners 
+Function: 
+Advisory 
+Advise Commissioners on water and sewer needs of the Service Area; 
+review amendments to Water and Sewer Plan; make recommendations on 
+policies and procedures; review and recommend charges and fees; review 
+annual budget for the service area. 
+Number/Term: 
+7/4-year terms 
+Terms Expire December 31 
+Compensation: 
+$100.00/meeting 
+Meetings: 
+Monthly or As-Needed 
+Special Provisions: 
+Must be residents of Mystic Harbour Service Area 
+Staff Support: 
+Department of Public Works - Water and Wastewater Division 
+Chris Clasing - (410-641-5251) 
+Current Members: 
+Member=s Name 
+Resides 
+Years of Term(s) 
+David Dypsky 
+Teal Marsh Center 
+*10-12-16, 16-20, 20-24
+Stan Cygam 
+Whispering Woods 
+*18-20, 20-24
+Prior Members: 
+(Since 2005) 
+John PinneroC (05-06) 
+Brandon PhillipsC (05-06) 
+William BradshawC (05-08) 
+Buddy Jones (06-08) 
+Lee TriceC (05-10) 
+W. Charles FriesenC (05-13)
+Alma Seidel (08-14)
+Gerri Moler (08-16)
+Mary Martinez (16-18)
+Carol Ann Beres (14-18) 
+Bob Huntt (*06-19) 
+19-23 
+05-11-15-19, 19-23
+Deer Point 
+Mystic Harbour
+Bruce Burns 
+Joseph Weitzell
+19-22
+05-10-14-18, 18-22
+13-17, 17-21
+Bay Vista I 
+Mystic Harbour 
+Matthew Kraeuter 
+Richard JendrekC 
+Martin Kwesko 
+ITEM 14
+14 - 13
+
+<!-- page 263 -->
+WATER AND SEWER ADVISORY COUNCIL 
+WEST OCEAN CITY SERVICE AREA 
+Reference: 
+County Commissioners= Resolution of November 19, 1993 
+Appointed by: 
+County Commissioners 
+Function: 
+Advisory 
+Advise Commissioners on water and sewer needs of the Service Area; 
+review amendments to Water and Sewer Plan; make recommendations on 
+policies and procedures; review and recommend charges and fees; review 
+annual budget for the service area. 
+Number/Term: 
+5/4-year terms 
+Terms Expire December 31 
+Compensation: 
+$100.00/Meeting 
+Meetings: 
+Monthly 
+Special Provisions: 
+Must be residents/ratepayers of West Ocean City Service Area 
+Staff Support: 
+Department of Public Works - Water and Wastewater Division 
+Chris Clasing - (410-641-5251) 
+Current Members: 
+Member=s Name 
+Resides/Ratepayer of 
+Terms (Years) 
+Deborah Maphis 
+West Ocean City 
+95-99-03-07-11-15-19, 19-23
+Gail Fowler 
+ West Ocean City 
+99-03-07-11-15-19,19-23
+Blake Haley 
+ West Ocean City 
+*19-20, 20-24
+Todd Ferrante 
+West Ocean City 
+13-17-21-25 
+Prior Members: 
+(Since 1993) 
+Eleanor Kellyc (93-96) 
+John Mickc 
+(93-95) 
+Frank Gunionc  (93-96) 
+Carolyn Cummins (95-99) 
+Roger Horth 
+(96-04) 
+Whaley Brittinghamc (93-13) 
+Ralph Giovec (93-14) 
+Chris Smack (04-14) 
+Andrew Delcorro (*14-19) 
+13-17, 17-21
+West Ocean City 
+Keith Swanton 
+ITEM 14
+14 - 14
+
+<!-- page 264 -->
+* = Appointed to fill an unexpired term 
+ Updated: April 18, 2023 
+c = Charter member
+Printed:  April 24, 2023
+COMMISSION FOR WOMEN 
+Reference: 
+Public Local Law CG 6-101 
+Appointed by:  
+County Commissioners 
+Function: 
+Advisory 
+Number/Term: 
+11/3-year terms; Terms Expire December 31 
+Compensation: 
+None 
+Meetings: 
+At least monthly (3rd Tuesday at 5:30 PM - alternating between Berlin and Snow Hill) 
+Special Provisions: 
+7 district members, one from each Commissioner District 
+4 At-large members, nominations from women=s organizations & citizens 
+4 Ex-Officio members, one each from the following departments: Social   
+Services, Health & Mental Hygiene, Board of Education, Public Safety 
+No member shall serve more than six consecutive years 
+Contact: 
+Tamara White and Coleen Colson, Co-Chair 
+Worcester County Commission for Women - P.O. Box 1712, Berlin, MD 21811 
+Current Members: 
+Member=s Name 
+Nominated By 
+Resides 
+Years of Term(s) 
+      Elizabeth Rodier 
+D-3, Fiori 
+Bishopville 
+18-21(Resigned) 
+Coleen Colson 
+Dept of Social Services 
+19-22 
+Hope Carmean 
+D-4, Elder 
+Snow Hill 
+*15-16-19, 19-22
+Windy Phillips 
+Board of Education 
+19-22
+Tamara White 
+D-1, Nordstrom
+Pocomoke City 
+17-20, 20-23
+Kris Heiser 
+Public Safety – State Attorney Office 
+21-24 (Resigned)
+Susan Childs 
+D-6, Bunting 
+Berlin 
+21-24(Resigned)
+Terri Shockley 
+At-Large 
+Snow Hill 
+17-20, 20-23
+Laura Morrison 
+At-Large 
+Pocomoke 
+*19-20, 20-23
+Crystal Bell, MPA 
+Health Department 
+*22-23
+  Judith Giffin 
+D-5, Bertino 
+Ocean Pines 
+*22-23
+Dr. Darlene Jackson- Bowen 
+D-2, Purnell 
+Pocomoke 
+*19-21, 21-24
+Kimberly List 
+D-7, Mitrecic 
+Ocean City 
+18- 21, 21-24
+Gwendolyn Lehman       At-Large         OP, Berlin 
+*19-21, 21-24
+Jocelyn Briddell 
+At-Large 
+Berlin 
+23-26
+Prior Members:    Since 1995 
+Ellen Pilchardc (95-97) 
+Helen Hensonc (95-97) 
+Barbara Beaubienc (95-97) 
+Sandy Wilkinsonc (95-97) 
+Helen Fisherc (95-98) 
+Bernard Bondc (95-98) 
+Jo Campbellc (95-98) 
+Karen Holckc (95-98) 
+Judy Boggsc (95-98) 
+Mary Elizabeth Fearsc (95-98) 
+Pamela McCabec (95-98) 
+Teresa Hammerbacherc (95-98) 
+Bonnie Platter  (98-00) 
+Marie Velongc (95-99) 
+Carole P. Voss (98-00) 
+Martha Bennett (97-00) 
+Patricia Ilczuk-Lavanceau (98-99) 
+Lil Wilkinson (00-01) 
+Diana Purnellc  (95-01) 
+Colleen McGuire (99-01) 
+Wendy Boggs McGill (00-02) 
+Lynne Boyd (98-01) 
+Barbara Traderc (95-02) 
+Heather Cook (01-02) 
+Vyoletus Ayres (98-03) 
+Terri Taylor (01-03) 
+Christine Selzer (03) 
+Linda C. Busick (00-03) 
+Gloria Bassich (98-03) 
+Carolyn Porter (01-04) 
+Martha Pusey (97-03) 
+Teole Brittingham (97-04) 
+Catherine W. Stevens (02-04) 
+Hattie Beckwith (00-04) 
+Mary Ann Bennett (98-04) 
+Rita Vaeth (03-04) 
+Sharyn O=Hare (97-04) 
+Patricia Layman (04-05) 
+Mary M. Walker (03-05) 
+Norma Polk Miles (03-05) 
+Roseann Bridgman (03-06) 
+Sharon Landis (03-06) 
+Vanessa Alban (17-22) 
+ITEM 14
+14 - 15
+
+<!-- page 265 -->
+* = Appointed to fill an unexpired term 
+ Updated: April 18, 2023 
+c = Charter member
+Printed:  April 24, 2023
+Prior Members:  Since 1995 (continued)
+Dr. Mary Dale Craig (02-06) 
+Dee Shorts (04-07) 
+Ellen Payne (01-07) 
+Mary Beth Quillen (05-08) 
+Marge SeBour (06-08) 
+Meg Gerety (04-07) 
+Linda Dearing (02-08) 
+Angela Hayes (08) 
+Susan Schwarten (04-08) 
+Marilyn James (06-08) 
+Merilee Horvat (06-09) 
+Jody Falter (06-09) 
+Kathy Muncy (08-09) 
+Germaine Smith Garner (03-09) 
+Nancy Howard (09-10) 
+Barbara Witherow  (07-10) 
+Doris Moxley (04-10) 
+Evelyne Tyndall (07-10) 
+Sharone Grant (03-10) 
+Lorraine Fasciocco (07-10) 
+Kay Cardinale (08-10) 
+Rita Lawson (05-11)
+Cindi McQuay (10-11)
+Linda Skidmore (05-11)
+Kutresa Lankford-Purnell (10-11) 
+Monna Van Ess (08-11) 
+Barbara Passwater (09-12) 
+Cassandra Rox (11-12) 
+Diane McGraw (08-12) 
+Dawn Jones (09-12) 
+Cheryl K. Jacobs (11) 
+Doris Moxley (10-13)
+Kutresa Lankford-Purnell (10-12)
+Terry Edwards (10-13)
+Dr. Donna Main (10-13)
+Beverly Thomas (10-13) 
+Caroline Bloxom (14) 
+Tracy Tilghman (11-14) 
+Joan Gentile (12-14) 
+Carolyn Dorman (13-16) 
+Arlene Page (12-15) 
+Shirley Dale (12-16) 
+Dawn Cordrey Hodge (13-16) 
+Carol Rose (14-16) 
+Mary Beth Quillen (13-16) 
+Debbie Farlow (13-17) 
+Corporal Lisa Maurer (13-17) 
+Laura McDermott (11-16) 
+Charlotte Cathell (09-17) 
+Eloise Henry-Gordy (08-17) 
+Michelle Bankert *(14-18) 
+Nancy Fortney (12-18) 
+Cristi Graham (17-18) 
+Alice Jean Ennis (14-17) 
+Lauren Mathias Williams *(16-18) 
+Teola Brittingham *(16-18) 
+Jeannine Jerscheid *(18-19) 
+Shannon Chapman (*17-19) 
+Julie Phillips (13-19) 
+Bess Cropper (15-19) 
+Kelly Riwniak *(19-20) 
+Kelly O=Keane (17-22) 
+Mary Mumford (*16-22) 
+ITEM 14
+14 - 16
+
+<!-- page 266 -->
+ITEM 14
+14 - 17
+
+<!-- page 267 -->
+ITEM 14
+14 - 18
+
+<!-- page 268 -->
+TO: 
+Worcester County Commissioners 
+FROM: 
+Weston S. Young, Chief Administrative Officer 
+Kim Reynolds, Budget Officer 
+DATE: 
+March 23, 2023 
+RE: 
+FY2024 Notice of Public Hearing Operating Budget Advertisement 
+Attached please find a copy of the required advertisement that will be placed in the newspapers for the Notice of Public 
+Hearing for the FY2024 Operating Budget.  The meeting will be held at the Government Center. 
+We plan to advertise with the following options: 
+If you wish to speak or attend in person, we encourage you to pre-register by calling the County Administration office at 
+410-632-1194.  Speakers will be allowed to address the County Commissioners for up to two (2) minutes.  Public Comment may
+also be submitted in advance by email at wchearing@co.worcester.md.us or in writing received on or before 4:00 PM Eastern
+Standard Time on Monday, May 1, 2023 in the County Commissioners’ Office at Room 1103 Government Center, One West
+Market Street, Snow Hill, MD 21863.  All commenters must identify themselves by their full name and address to be included in
+the public record.  Written comments received by the deadline will be read into the record by Worcester County staff during the
+public comment portion of the meeting.  Anyone not planning to speak may view the public hearing live on the County website at
+https://worcestercountymd.swagit.com/live.  The Public Hearing will be held at:
+7:00 P.M., Tuesday, May 2, 2023 
+WORCESTER COUNTY GOVERNMENT CENTER, SNOW HILL, MD 
+The advertisement for the Notice of Public Hearing FY2024 Estimated Operating Budget is legally required to run at least 
+once a week for two weeks.  It will be advertised during the weeks of April 20 and April 27, 2023. 
+Attachment: Notice of Public Hearing 
+S:\Commissioners\Budget\Kim R Budget\FY24 Budget\FY24 Public Budget Hearing Memo.docx 
+ITEM 15
+15 - 1
+
+<!-- page 269 -->
+WORCESTER COUNTY 
+NOTICE OF PUBLIC HEARING 
+FY 2024 REQUESTED OPERATING BUDGETS 
+The Worcester County Commissioners will hold a public hearing to receive comments on the Fiscal Year 
+2024 Operating Budgets as requested by the Agencies and Departments which are funded by the Worcester County 
+Commissioners. If you wish to speak or attend in person, we encourage you to pre-register by calling the County 
+Administration office at 410-632-1194.  Speakers will be allowed to address the County Commissioners for up to 
+two (2) minutes.  Public Comment may also be submitted in advance by email at wchearing@co.worcester.md.us or 
+in writing received on or before 4:00 PM Eastern Standard Time on Monday, May 1, 2023 in the County 
+Commissioners’ Office at Room 1103 Government Center, One West Market Street, Snow Hill, MD 21863.  All 
+commenters must identify themselves by their full name and address to be included in the public record.  Written 
+comments received by the deadline will be read into the record by Worcester County staff during the public 
+comment portion of the meeting.  Anyone not planning to speak may view the public hearing live on the County 
+website at https://worcestercountymd.swagit.com/live.  The Public Hearing will be held at: 
+7:00 P.M., Tuesday, May 2, 2023 
+WORCESTER COUNTY GOVERNMENT CENTER, SNOW HILL, MD 
+General Fund requested expenditures exceed available revenues (based upon current tax rates) by 
+$11,586,353.  This difference must be reconciled by the County Commissioners either through reductions in 
+expenditures or increases in taxes, fees and/or use of Budget Stabilization Funds.  Copies of the requested budgets 
+are available for public inspection on the Worcester County website at www.co.worcester.md.us. 
+GENERAL FUND ESTIMATED REVENUES 
+Requested Budget 
+Requested Budget 
+Property Taxes 
+$ 158,667,691 
+Licenses & Permits 
+2,576,190 
+Income Taxes 
+38,000,000 
+Charges for Services 
+1,550,115 
+Other Local Taxes 
+13,241,000 
+Fines & Forfeits 
+27,765 
+State Shared 
+2,870,169 
+Interest 
+5,000,000 
+Federal Grants 
+865,299 
+Misc/Sale of Assets/& Other 
+610,188 
+State Grants 
+6,761,294 
+TOTAL ESTIMATED REVENUES   $230,169,711 
+GENERAL FUND REQUESTED EXPENDITURES 
+Requested Budget 
+Requested Budget 
+Board of Education: 
+Operating Expenses 
+Debt Payments to be paid on behalf 
+$105,151,226 
+10,797,206 
+Library 
+2,944,918 
+Boat Landings 
+326,138 Maintenance 
+1,585,447 
+Circuit Court 
+1,669,222 Mosquito Control 
+197,586 
+Commission On Aging 
+1,626,702 Natural Resources 
+625,935 
+County Administration 
+1,183,181 Orphan's Court 
+36,900 
+Debt Service (less Education Debt) 
+2,402,056 Other General Government 
+3,334,784 
+Development Review & 
+Permitting 
+2,137,026 
+Other General Government: 
+ (State Dept. of Assessment Operating Exp) 
+633,848 
+Economic Development 
+451,715 Parks 
+2,312,032 
+Elections 
+1,356,453 Public Works Administration 
+775,342 
+ITEM 15
+15 - 2
+
+<!-- page 270 -->
+Emergency Services 
+3,251,479 Recreation 
+1,930,799 
+Environmental Programs 
+3,236,494 Recreation & Culture 
+139,426 
+Extension Office 
+255,625 Recycling 
+906,070 
+Fire Marshal 
+684,806 Sheriff 
+11,467,155 
+Grants to Towns 
+7,174,272 Social Service Groups 
+920,768 
+Health Department 
+6,060,717 State’s Attorney 
+3,181,582 
+Homeowner Convenience 
+Centers 
+742,936 Taxes Shared w/ Towns 
+2,944,157 
+Human Resources 
+503,002 Tourism 
+1,373,990 
+Information Technology 
+661,401 Treasurer 
+1,380,661 
+Insurance & Benefits: 
+      (Includes OPEB-all employees) 
+28,004,200 Vol. Fire Co. & Ambulance Co. 
+10,590,413 
+Jail 
+9,822,496 Wor-Wic Community College 
+2,530,242 
+Roads 
+4,445,656 
+TOTAL REQUESTED EXPENDITURES   $241,756,064 
+ITEM 15
+15 - 3
+
+<!-- page 271 -->
+FY2024
+FY2023
+Estimate
+Estimate
+Property Taxes
+158,667,691
+$   
+152,507,544
+$   
+6,160,147
+$   
+4.0%
+Income Taxes
+38,000,000
+38,000,000
+-
+$   
+    
+0.0%
+Other Local Taxes
+13,241,000
+17,141,000
+(3,900,000)
+$  
+-22.8%
+State Shared
+2,870,169
+2,572,746
+297,423
+$      
+11.6%
+Licenses & Permits
+2,576,190
+2,500,231
+75,959
+$   
+  
+3.0%
+Charges for Services
+1,550,115
+1,515,755
+34,360
+$        
+2.3%
+Interest on Investments
+5,000,000
+100,000
+4,900,000
+$   
+4900.0%
+Fines & Forfeits
+27,765
+29,000
+(1,235)
+$    
+  
+-4.3%
+Misc./Sale of Assets/Other Revenue
+610,188
+561,986
+48,202
+$   
+  
+8.6%
+Federal Grants
+865,299
+357,746
+507,553
+$      
+141.9%
+State Grants
+6,761,294
+4,344,131
+2,417,163
+$   
+55.6%
+Transfers In - Casino/Local Impact
+3,244,000
+(3,244,000)
+$  
+-100.0%
+Transfers In - Prior Year Surplus
+4,182,639
+$  (4,182,639) -100.0%
+TOTAL REVENUES
+230,169,711
+$   
+$   227,056,778
+$   3,112,933
+1.3%
+FY2024
+FY2023
+Requested
+Amended
+County Commissioners & Admin.
+Personnel Services
+1,114,433
+1,121,605
+(7,172)
+-0.6%
+Supplies & Materials
+55,261
+49,512
+5,749
+11.6%
+Maintenance & Services
+49,410
+48,390
+1,020
+2.1%
+Other Charges
+63,036
+46,246
+16,790
+36.3%
+Interfund Charges
+(98,959)
+(83,219)
+(15,740)
+18.9%
+Capital Equipment
+0
+0
+0
+N/A
+1,183,181
+1,182,534
+647
+0.1%
+Circuit Court
+Personnel Services
+1,114,843
+1,159,681
+(44,838)
+-3.9%
+Supplies & Materials
+436,682
+218,231
+218,451
+100.1%
+Maintenance & Services
+108,765
+108,765
+0
+0.0%
+Other Charges
+8,932
+8,932
+0
+0.0%
+Capital Equipment
+0
+0
+0
+N/A
+1,669,222
+1,495,609
+173,613
+11.6%
+Orphan's Court
+Personnel Services
+28,500
+28,500
+0
+0.0%
+Supplies & Materials
+1,600
+1,100
+500
+45.5%
+Other Charges
+6,800
+6,800
+0
+0.0%
+36,900
+36,400
+500
+1.4%
+FY2024 Revenue Estimate
+Summary
+WORCESTER COUNTY
+($) Difference (%)
+($) Difference (%)
+FY 2024 Requested General Fund Budget
+ITEM 15
+15 - 4
+
+<!-- page 272 -->
+FY2024
+FY2023
+Requested
+Amended
+State's Attorney
+Personnel Services
+2,991,210
+2,495,304
+495,906
+19.9%
+Supplies & Materials
+104,772
+188,787
+(84,015)
+-44.5%
+Maintenance & Services
+18,150
+21,450
+(3,300)
+-15.4%
+Other Charges
+24,450
+27,580
+(3,130)
+-11.3%
+Capital Equipment
+43,000
+0
+43,000
+N/A
+3,181,582
+2,733,121
+448,461
+16.4%
+Treasurer
+Personnel Services
+1,461,244
+1,470,150
+(8,906)
+-0.6%
+Supplies & Materials
+172,910
+163,820
+9,090
+5.5%
+Maintenance & Services
+2,500
+2,500
+0
+0.0%
+Other Charges
+9,260
+4,900
+4,360
+89.0%
+Interfund Charges
+(265,253)
+(261,705)
+(3,548)
+1.4%
+Capital Equipment
+0
+0
+0
+N/A
+1,380,661
+1,379,665
+996
+0.1%
+Elections Office
+Personnel Services
+621,993
+580,643
+41,350
+7.1%
+Supplies & Materials
+572,792
+579,968
+(7,176)
+-1.2%
+Maintenance & Services
+141,590
+157,670
+(16,080)
+-10.2%
+Other Charges
+20,078
+17,150
+2,928
+17.1%
+Capital Equipment
+0
+0
+0
+N/A
+1,356,453
+1,335,431
+21,022
+1.6%
+Human Resources
+Personnel Services
+520,468
+555,319
+(34,851)
+-6.3%
+Supplies & Materials
+22,940
+24,640
+(1,700)
+-6.9%
+Maintenance & Services
+29,500
+27,500
+2,000
+7.3%
+Other Charges
+4,500
+4,000
+500
+12.5%
+Interfund Charges
+(74,406)
+(79,250)
+4,844
+-6.1%
+Capital Equipment
+0
+0
+0
+N/A
+503,002
+532,209
+(29,207)
+-5.5%
+Development Review & Permitting
+Personnel Services
+1,760,200
+1,731,905
+28,295
+1.6%
+Supplies & Materials
+242,922
+296,375
+(53,453)
+-18.0%
+Maintenance & Services
+186,910
+111,933
+74,977
+67.0%
+Other Charges
+41,983
+40,726
+1,257
+3.1%
+Interfund Charges
+(94,989)
+(93,148)
+(1,841)
+2.0%
+Capital Equipment
+0
+24,000
+(24,000) -100.0%
+2,137,026
+2,111,791
+25,235
+1.2%
+Environmental Programs
+Personnel Services
+1,276,885
+1,257,623
+19,262
+1.5%
+Supplies & Materials
+1,882,911
+279,052
+1,603,859
+574.8%
+Maintenance & Services
+102,045
+98,045
+4,000
+4.1%
+Other Charges
+5,300
+3,495
+1,805
+51.6%
+Interfund Charges
+(30,647)
+(30,647)
+0
+0.0%
+Capital Equipment
+0
+0
+0
+N/A
+3,236,494
+1,607,568
+1,628,926
+101.3%
+($) Difference (%)
+ITEM 15
+15 - 5
+
+<!-- page 273 -->
+FY2024
+FY2023
+Requested
+Amended
+Information Technology
+Personnel Services
+660,409
+672,615
+(12,206)
+-1.8%
+Supplies & Materials
+23,900
+24,830
+(930)
+-3.7%
+Maintenance & Services
+2,840
+2,540
+300
+11.8%
+Other Charges
+7,600
+7,600
+0
+0.0%
+Interfund Charges
+(33,348)
+(33,348)
+0
+0.0%
+Capital Equipment
+0
+0
+0
+N/A
+661,401
+674,237
+(12,836)
+-1.9%
+Other General Government
+Supplies & Materials
+1,495,884
+1,316,284
+179,600
+13.6%
+Maintenance & Services
+955,094
+1,156,383
+(201,289)
+-17.4%
+Other Charges
+1,367,654
+1,197,961
+169,693
+14.2%
+Capital Equipment
+150,000
+0
+150,000
+N/A
+3,968,632
+3,670,628
+298,004
+8.1%
+Sheriff's Department
+Personnel Services
+8,080,129
+7,439,751
+640,378
+8.6%
+Supplies & Materials
+1,637,105
+1,530,165
+106,940
+7.0%
+Maintenance & Services
+700,567
+582,601
+117,966
+20.2%
+Other Charges
+135,370
+103,109
+32,261
+31.3%
+Capital Equipment
+913,984
+610,000
+303,984
+49.8%
+11,467,155
+10,265,626
+1,201,529
+11.7%
+Emergency Services
+Personnel Services
+2,073,472
+1,967,956
+105,516
+5.4%
+Supplies & Materials
+971,097
+937,776
+33,321
+3.6%
+Maintenance & Services
+182,010
+170,903
+11,107
+6.5%
+Other Charges
+24,900
+25,900
+(1,000)
+-3.9%
+Capital Equipment
+0
+135,000
+(135,000) -100.0%
+3,251,479
+3,237,535
+13,944
+0.4%
+County Jail
+Personnel Services
+6,751,748
+6,675,545
+76,203
+1.1%
+Supplies & Materials
+831,308
+946,168
+(114,860)
+-12.1%
+Maintenance & Services
+2,223,384
+2,146,111
+77,273
+3.6%
+Other Charges
+16,056
+16,056
+0
+0.0%
+Capital Equipment
+0
+0
+0
+N/A
+9,822,496
+9,783,880
+38,616
+0.4%
+Fire Marshal's Office
+Personnel Services
+557,573
+536,066
+21,507
+4.0%
+Supplies & Materials
+67,363
+68,103
+(740)
+-1.1%
+Maintenance & Services
+50,360
+26,460
+23,900
+90.3%
+Other Charges
+9,510
+23,285
+(13,775)
+-59.2%
+Capital Equipment
+0
+0
+0
+N/A
+684,806
+653,914
+30,892
+4.7%
+($) Difference (%)
+ITEM 15
+15 - 6
+
+<!-- page 274 -->
+FY2024
+FY2023
+Requested
+Amended
+Volunteer Fire & Ambulance
+Supplies & Materials
+53,000
+81,152
+(28,152)
+-34.7%
+Maintenance & Services
+21,548
+19,996
+1,552
+7.8%
+Other Charges
+10,515,865
+9,632,096
+883,769
+9.2%
+Capital Equipment
+0
+0
+0
+N/A
+10,590,413
+9,733,244
+857,169
+8.8%
+Public Works Department
+Personnel Services
+627,345
+585,299
+42,046
+7.2%
+Supplies & Materials
+23,870
+25,685
+(1,815)
+-7.1%
+Maintenance & Services
+207,046
+202,046
+5,000
+2.5%
+Other Charges
+15,090
+14,690
+400
+2.7%
+Interfund Charges
+(98,009)
+(98,009)
+0
+0.0%
+Capital Equipment
+0
+0
+0
+N/A
+775,342
+729,711
+45,631
+6.3%
+Maintenance Division
+Personnel Services
+1,307,279
+1,322,293
+(15,014)
+-1.1%
+Supplies & Materials
+88,154
+73,424
+14,730
+20.1%
+Maintenance & Services
+99,564
+99,938
+(374)
+-0.4%
+Other Charges
+11,000
+7,500
+3,500
+46.7%
+Capital Equipment
+79,450
+54,500
+24,950
+45.8%
+1,585,447
+1,557,655
+27,792
+1.8%
+Roads Division
+Personnel Services
+1,739,643
+1,779,745
+(40,102)
+-2.3%
+Supplies & Materials
+1,377,102
+1,307,156
+69,946
+5.4%
+Maintenance & Services
+803,965
+717,761
+86,204
+12.0%
+Other Charges
+12,301
+29,846
+(17,545)
+-58.8%
+Capital Equipment
+512,645
+464,362
+48,283
+10.4%
+4,445,656
+4,298,870
+146,786
+3.4%
+Boat Landings
+Supplies & Materials
+280,000
+330,000
+(50,000)
+-15.2%
+Maintenance & Services
+46,138
+51,250
+(5,112)
+-10.0%
+Capital Equipment
+0
+0
+0
+N/A
+326,138
+381,250
+(55,112)
+-14.5%
+Homeowner Convenience Centers
+Personnel Services
+267,549
+268,482
+(933)
+-0.3%
+Supplies & Materials
+10,700
+10,700
+0
+0.0%
+Maintenance & Services
+264,736
+259,060
+5,676
+2.2%
+Other Charges
+1,000
+0
+1,000
+N/A
+Interfund Charges
+198,951
+206,441
+(7,490)
+-3.6%
+Capital Equipment
+0
+0
+0
+N/A
+742,936
+744,683
+(1,747)
+-0.2%
+($) Difference (%)
+ITEM 15
+15 - 7
+
+<!-- page 275 -->
+FY2024
+FY2023
+Requested
+Amended
+Recycling
+Personnel Services
+457,978
+509,922
+(51,944)
+-10.2%
+Supplies & Materials
+19,590
+19,500
+90
+0.5%
+Maintenance & Services
+226,457
+206,575
+19,882
+9.6%
+Other Charges
+1,000
+0
+1,000
+N/A
+Interfund Charges
+183,045
+167,041
+16,004
+9.6%
+Capital Equipment
+18,000
+17,000
+1,000
+5.9%
+906,070
+920,038
+(13,968)
+-1.5%
+Health Department
+Supplies & Materials
+0
+500
+(500) -100.0%
+Maintenance & Services
+445,445
+497,118
+(51,673)
+-10.4%
+Other Charges
+5,615,272
+5,260,993
+354,279
+6.7%
+Capital Equipment
+0
+0
+0
+N/A
+6,060,717
+5,758,611
+302,106
+5.2%
+Mosquito Control Division
+Personnel Services
+64,336
+64,336
+0
+0.0%
+Supplies & Materials
+3,550
+3,450
+100
+2.9%
+Maintenance & Services
+27,250
+23,850
+3,400
+14.3%
+Other Charges
+70,200
+70,200
+0
+0.0%
+Capital Equipment
+32,250
+0
+32,250
+N/A
+197,586
+161,836
+35,750
+22.1%
+Commission on Aging
+Supplies & Materials
+173,802
+183,383
+(9,581)
+-5.2%
+Maintenance & Services
+188,600
+211,300
+(22,700)
+-10.7%
+Other Charges
+1,264,300
+1,150,000
+114,300
+9.9%
+Capital Equipment
+0
+0
+0
+N/A
+1,626,702
+1,544,683
+82,019
+5.3%
+Social Service Groups
+Personnel Services
+0
+0
+0
+N/A
+Other Charges
+920,768
+730,368
+190,400
+26.1%
+920,768
+730,368
+190,400
+26.1%
+Wor-Wic Community College
+Other Charges
+2,530,242
+2,530,242
+0
+0.0%
+Capital Equipment
+0
+0
+0
+N/A
+2,530,242
+2,530,242
+0
+0.0%
+Board of Education
+Personnel Services
+83,910,534
+79,340,670
+4,569,864
+5.8%
+Supplies & Materials
+3,973,785
+3,732,333
+241,452
+6.5%
+Maintenance & Services
+9,146,959
+8,662,925
+484,034
+5.6%
+Other Charges
+33,565,157
+31,832,789
+1,732,368
+5.4%
+Interfund Charges
+(25,939,751)
+(23,079,654)
+(2,860,097)
+12.4%
+Capital Equipment
+494,542
+494,542
+0
+0.0%
+  Total Operating Budget
+105,151,226
+100,983,605
+4,167,621
+4.1%
+School Debt Service
+10,797,206
+12,455,856
+(1,658,650)
+-13.3%
+Total Operating & Debt Service
+115,948,432
+113,439,461
+2,508,971
+2.2%
+($) Difference (%)
+ITEM 15
+15 - 8
+
+<!-- page 276 -->
+FY2024
+FY2023
+Requested
+Amended
+Recreation Department
+Personnel Services
+1,106,514
+1,033,654
+72,860
+7.0%
+Supplies & Materials
+530,565
+555,640
+(25,075)
+-4.5%
+Maintenance & Services
+210,590
+178,528
+32,062
+18.0%
+Other Charges
+45,630
+46,685
+(1,055)
+-2.3%
+Capital Equipment
+37,500
+27,000
+10,500
+38.9%
+1,930,799
+1,841,507
+89,292
+4.8%
+Parks Department
+Personnel Services
+505,292
+498,371
+6,921
+1.4%
+Supplies & Materials
+1,553,325
+867,321
+686,004
+79.1%
+Maintenance & Services
+139,815
+175,773
+(35,958)
+-20.5%
+Other Charges
+12,600
+11,700
+900
+7.7%
+Capital Equipment
+101,000
+66,000
+35,000
+53.0%
+2,312,032
+1,619,165
+692,867
+42.8%
+Library
+Personnel Services
+2,120,651
+2,089,778
+30,873
+1.5%
+Supplies & Materials
+469,810
+456,525
+13,285
+2.9%
+Maintenance & Services
+343,257
+370,514
+(27,257)
+-7.4%
+Other Charges
+11,200
+9,900
+1,300
+13.1%
+Capital Equipment
+0
+0
+0
+N/A
+2,944,918
+2,926,717
+18,201
+0.6%
+Recreation & Culture
+Other Charges
+139,426
+80,000
+59,426
+74.3%
+139,426
+80,000
+59,426
+74.3%
+Extension Service
+Supplies & Materials
+17,014
+17,014
+0
+0.0%
+Maintenance & Services
+2,980
+2,500
+480
+19.2%
+Other Charges
+235,631
+223,164
+12,467
+5.6%
+Capital Equipment
+0
+0
+0
+N/A
+255,625
+242,678
+12,947
+5.3%
+Natural Resources
+Supplies & Materials
+73,935
+73,935
+0
+0.0%
+Other Charges
+552,000
+538,554
+13,446
+2.5%
+625,935
+612,489
+13,446
+2.2%
+Economic Development Department
+Personnel Services
+138,682
+138,682
+0
+0.0%
+Supplies & Materials
+221,500
+241,500
+(20,000)
+-8.3%
+Maintenance & Services
+46,750
+42,750
+4,000
+9.4%
+Other Charges
+14,783
+19,875
+(5,092)
+-25.6%
+Capital Equipment
+30,000
+0
+30,000
+N/A
+451,715
+442,807
+8,908
+2.0%
+Tourism Department
+Personnel Services
+316,428
+302,127
+14,301
+4.7%
+Supplies & Materials
+236,778
+220,026
+16,752
+7.6%
+Maintenance & Services
+812,734
+817,284
+(4,550)
+-0.6%
+Other Charges
+8,050
+8,050
+0
+0.0%
+1,373,990
+1,347,487
+26,503
+2.0%
+($) Difference (%)
+ITEM 15
+15 - 9
+
+<!-- page 277 -->
+FY2024
+FY2023
+Requested
+Amended
+Taxes Shared W/Towns
+Other Charges
+2,944,157
+2,944,157
+0
+0.0%
+2,944,157
+2,944,157
+0
+0.0%
+Grants to Towns
+Supplies & Materials
+150,000
+0
+150,000
+N/A
+Other Charges
+7,024,272
+6,608,867
+415,405
+6.3%
+7,174,272
+6,608,867
+565,405
+8.6%
+Insurance & Benefits
+Maintenance & Services
+5,000
+5,000
+0
+0.0%
+Health, OPEB & Other
+27,999,200
+23,962,617
+4,036,583
+16.8%
+28,004,200
+23,967,617
+4,036,583
+16.8%
+Debt Service
+Interfund Charges
+13,199,262
+13,648,343
+(449,081)
+-3.3%
+Less: Alloc. Brd of Ed Debt
+(10,797,206)
+(12,455,856)
+1,658,650
+-13.3%
+2,402,056
+1,192,487
+1,209,569
+101.4%
+TOTAL EXPENDITURES
+241,756,064
+$   
+227,056,778
+$   
+14,699,286
+$ 
+6.5%
+($) Difference (%)
+ITEM 15
+15 - 10
+
+<!-- page 278 -->
+Board of Education 
+•
+The Board of Education has requested $106,026,226. School construction debt is paid by
+the County on behalf of the Board of Education. It is not reflected in the Board’s budget;
+however, it is included in the County’s operating budget. The Board’s operating and
+capital budget request is $106,026,226 plus debt of $10,797,206 which totals
+$116,823,432 or 50.7% of the County’s total estimated revenue.
+FY2024 
+Requested     
+Budget 
+FY2023 
+Adopted 
+Budget 
+Dollar 
+Variance 
++/- FY2023 
+County Required Local Share* 
+$101,244,522 
+$99,985,947 
++1,258,575
+County Appropriation requested above required 
+2,848,025 
++2,848,025
+County Appropriation: Technology + Capital Outlay * 
+300,000 
+300,000 
++0
+County Appropriation: Retirement for Non-Teachers 
+758,679 
+697,658 
++61,021
+School Construction Projects 
+875,000 
+205,000 
++670,000
+Sub-Total County Appropriation 
+$106,026,226 $101,188,605 
++4,837,621
+State and Other Funding Sources
+25,939,751 
+23,079,654 
++2,860,097
+Total Unrestricted Budget 
+$131,965,977 $124,268,259 
++7,697,718
+Restricted Programs: Pocomoke Middle ** 
+50,000 
+50,000 
++0
+Restricted: Federal and State Programs 
+24,703,275 
+20,524,050 
++4,179,225
+Total 
+$156,719,252 $144,842,309 
++11,876,943
+*Fiscal 2024 County Required Local Share is calculated based on state aid formula educational
+effort calculations.
+**FY2024 and FY2023 Construction projects and restricted programs is funded through fund
+balance.
+Board of Education Requested Salary Increase: 
+The Board of Education submission includes the following salary request: 
+•
+The salary package for the Board of Education reflects a payroll increase of $4,569,864
+which includes a step, longevity step for those eligible and salary scale adjustments as
+negotiated with a 4% COLA for Teachers and 4.5% COLA for Support Staff employees.
+•
+The bus contracts account increase over FY23 is $403,742 and includes an increase in the
+hourly rate from $25 per hour to $28.00 per hour, increase in per mile rate from $1.62 per
+mile to $1.76 per mile, and $22,385 PVA.
+•
+Starting Teacher pay would increase 4.0% from $49,707 to $51,695.
+ITEM 15
+15 - 11
+
+<!-- page 279 -->
+ITEM 15
+15 - 12
+
+<!-- page 280 -->
+ITEM 15
+15 - 13
+
+<!-- page 281 -->
+TO: 
+Worcester County Commissioners 
+FROM: 
+Weston S. Young, Chief Administrative Officer 
+Kim Reynolds, Budget Officer 
+DATE: 
+March 27, 2023 
+RE: 
+Notice of a Proposed Real Property Tax Increase (Constant Yield Advertisement) 
+The following draft advertisement is submitted for your consideration of a proposed Real Property Tax 
+Increase (Constant Yield Advertisement).  The State Department of Assessments and Taxation has been sent this 
+draft to approve for the required advertisement with a tax increase that would retain the current real property tax 
+rate, which is greater than the constant yield rate. The language for the constant yield advertisement is 
+established by State Code (Tax-Property Article, § 6-308) and must appear in the newspapers as written. The 
+Constant Yield Tax Rate notice gives property owners’ the opportunity to be heard on the issue of real property 
+tax rates before they are final. 
+The Proposed Real Property Tax Increase advertisement states the following: 
+•
+In FY2024 the real property assessable base will increase as outlined by Part 1 and Part 2 of the notice.
+•
+Part 3 of the notice indicates the real property tax rate could be $0.8197 to offset the increasing
+assessments. This is the constant yield tax rate.
+•
+Part 4 of the notice proposes to adopt and maintain the real property tax rate of $.8450 which is 3.1%
+higher than the constant yield tax rate and will generate $4,422,354 in additional real property tax
+revenues.
+With the proposal that the Constant Yield Advertisement reflect the current real property tax rate of $.845 this 
+would therefore NOT ALLOW the County to increase the rate higher than $.845 per $100 of assessment for real 
+property.  We are available for any questions you may have. 
+Attached please find copies of the following: 
+Page 2 
+Constant Yield advertisement 
+Page 4 
+2024 Constant Yield Tax Rate Certification 
+KR\S:\Commissioners\Budget\Kim R Budget\FY24 Budget\FY24 Constant Yield\FY24 Constant Yield Memo.docx
+ITEM 15
+15 - 14
+
+<!-- page 282 -->
+WORCESTER COUNTY NOTICE 
+OF A PROPOSED REAL PROPERTY TAX INCREASE 
+ 
+The Board of County Commissioners of Worcester County 
+proposes to increase real property taxes. 
+1. For the tax year beginning July 1, 2023, the estimated
+real property assessable base will increase by 3.1% from 
+$16,990,586,016 to $17,513,941,509. 
+2. If Worcester County maintains the current tax rate of
+$0.845 per $100 of assessment, real property tax revenues will 
+increase by 3.1% resulting in $4,422,354 of new real property 
+tax revenues. 
+3. In order to fully offset the effect of increasing
+assessments, the real property tax rate should be reduced to 
+$0.8197, the constant yield tax rate. 
+4. The County is considering not reducing its real property
+tax rate enough to fully offset increasing assessments.  The 
+County proposes to adopt a real property tax rate of $0.845 per 
+$100 of assessment.  This tax rate is 3.1% higher than the 
+constant yield tax rate and will generate $4,422,354 in additional 
+property tax revenues. 
+ 
+A public hearing on the proposed real property tax rate 
+increase will be held at 7:00 P.M., on Tuesday, May 2, 2023 at 
+the Worcester County Government Center, One West Market 
+Street, Room 1103, Snow Hill, Maryland 21863. 
+ 
+If you wish to speak or attend in person, we encourage you 
+to pre-register by calling the County Administration office at 
+410-632-1194.
+The meeting will also be streamed live on the County
+website at https://worcestercountymd.swagit.com/live. 
+The hearing is open to the public, and public testimony is 
+encouraged. Speakers will be allowed to address the County 
+DRAFT
+ITEM 15
+15 - 15
+
+<!-- page 283 -->
+Commissioners for up to two (2) minutes. Public Comment may 
+also be submitted in advance by email at 
+wchearing@co.worcester.md.us or in writing received on or 
+before 4:00 PM Eastern Standard Time on Monday,  
+May 1, 2023 in the County Commissioners’ Office at Room 
+1103 Government Center, One West Market Street, Snow Hill, 
+MD 21863. 
+All commenters must identify themselves by their full 
+name and address to be included in the public record. Written 
+comments received by the deadline will be read into the record 
+by Worcester County staff during the public comment portion of 
+the meeting. 
+Persons with questions regarding this hearing may call 
+(410) 632-1194 for further information.
+DRAFT
+ITEM 15
+15 - 16
+
+<!-- page 284 -->
+State of Maryland
+Department of Assessments and Taxation
+Taxing authority:
+Worcester
+County
+1 1-Jul-2022 Gross assessable real property base
+$
+17,190,985,244
+2 1-Jul-2022 Homestead Tax Credit
+-
+200,399,228
+3 1-Jul-2022 Net assessable real property base
+16,990,586,016
+4 1-Jul-2022 Actual local tax rate (per $100)
+x
+0.8450
+5 1-Jul-2022 Potential revenue
+$
+143,570,452
+6 1-Jul-2023 Estimated assessable base
+$
+18,025,296,071
+7 1-Jan-2023 Half year new construction
+-
+70,789,980
+8 1-Jul-2023 Estimated full year new construction*
+-
+74,520,600
+9 1-Jul-2023 Estimated abatements and deletions** -
+366,043,982
+10 1-Jul-2023 Net assessable real property base
+$
+17,513,941,509
+11 1-Jul-2022 Potential revenue
+$
+143,570,452
+12 1-Jul-2023 Net assessable real property base
+÷
+17,513,941,509
+13 1-Jul-2023 Constant yield tax rate
+$
+0.8197
+* Includes one-quarter year new construction where applicable.
+**Actual + estimated as of July 1, 2023, including Homestead Tax Credit.
+Form CYTR #1
+February 14, 2023
+2023 Constant Yield Tax Rate Certification
+Director
+Certified by
+ITEM 15
+15 - 17
+
+<!-- page 285 -->
+ITEM 15
+15 - 18
+
+<!-- page 286 -->
+MEMORANDUM 
+TO: 
+Worcester County Commissioners 
+FROM: 
+Candace Savage, Deputy Chief Administrative Officer 
+DATE: 
+May 1, 2023 
+SUBJECT: 
+Showell Fire Department ARPA Request 
+_____________________________________________________________________________________________ 
+Showell Fire Department has provided additional details on the requested ARPA funding that they would like 
+considered. 
+Attachments 
+ITEM 16
+16 - 1
+
+<!-- page 287 -->
+ITEM 16
+16 - 2
+
+<!-- page 288 -->
+ITEM 16
+16 - 3
+
+<!-- page 289 -->
+ITEM 16
+16 - 4

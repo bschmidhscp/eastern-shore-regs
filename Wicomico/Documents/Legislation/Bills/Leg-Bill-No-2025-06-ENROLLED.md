@@ -1,0 +1,1625 @@
+---
+county: "Wicomico"
+category: "law"
+title: "Leg-Bill-No-2025-06-ENROLLED"
+source_url: "https://www.wicomicocounty.org/DocumentCenter/View/15347/Leg-Bill-No-2025-06-ENROLLED"
+effective: "2025-12-31"
+retrieved: "2026-10-11"
+original: "Wicomico/Originals/Legislation/Bills/Leg-Bill-No-2025-06-ENROLLED.pdf"
+pages: "49"
+needs_ocr: "no"
+---
+
+# Leg-Bill-No-2025-06-ENROLLED
+
+<!-- page 1 -->
+# ENROLLED 
+
+COUNTY COUNCIL OF WICOMICO COUNTY, MARYLAND 
+
+2025 LEGISLATIVE SESSION 
+
+LEGISLATIVE DAY NO.09 
+
+BILL NO. 2025-06 
+
+Introduced: May 6, 2025 
+
+BY: County Council President at the request of the County Executive 
+
+THE ANNUAL BUDGET AND APPROPRIATION BILL OF WICOMICO COUNTY, MARYLAND TO ADOPT THE COUNTY BUDGET, CONSISTING OF THE OPERATING AND CAPITAL BUDGET FOR THE FISCAL YEAR ENDING JUNE 30, 2026, THE GOVERNMENTAL AND ENTERPRISE FUNDS BUDGET FOR THE FISCAL YEAR ENDING JUNE 30, 2026, THE ANTICIPATED GRANT FUNDING BUDGET FOR THE FISCAL YEAR ENDING JUNE 30, 2026, THE FY26 POSITION CHANGES BUDGET FOR THE FISCAL YEAR ENDING JUNE 30, 2026, THE FY26 SALARY TABLES, THE FY26 PROPOSED CAPITAL BUDGET FOR THE FISCAL YEAR ENDING JUNE 30, 2026, AND TO APPROPRIATE FUNDS FOR ALL EXPENDITURES FOR THE FISCAL YEAR BEGINNING JULY 1, 2025, AND ENDING JUNE 30, 2026, AS HEREINAFTER INDICATED. 
+
+WHEREAS, pursuant to Article VII of the Wicomico County Charter, the County Executive has prepared and submitted to the County Council a proposed budget for Wicomico County for Fiscal Year 2026; and 
+
+WHEREAS, the County Council has complied with all requirements of the Wicomico County Charter, and has made revisions to the proposed budget as it considers proper. 
+
+SECTION 1. BE IT ENACTED AND ORDAINED BY THE COUNTY COUNCIL OF WICOMICO COUNTY, MARYLAND, IN LEGISLATIVE SESSION that the Operating and Capital Budget for the fiscal year ending June 30, 2026, is hereby approved and finally adopted for such fiscal year, and funds for all expenditures for the purposes specified in the Operating and Capital Budget beginning July 1, 2025, and ending June 30, 2026, are hereby appropriated in the amounts hereinafter specified to and for the purposes hereinafter indicated as follows: 
+
+Operating and Capital Budget is attached hereto as Wicomico County — FY2026 General Fund Operating Budget, including Exhibit A and B, and Appendices. 
+
+SECTION 2. BE IT ENACTED AND ORDAINED BY THE COUNTY COUNCIL OF WICOMICO COUNTY, MARYLAND, IN LEGISLATIVE SESSION that the Governmental and Enterprise Funds Budget for the fiscal year ending June 30, 2026, is hereby approved and finally adopted for such fiscal year and funds for all expenditures for purposes specified in the Governmental and Enterprise Funds Budget beginning July 1, 2025, and ending June 30, 2026,
+
+<!-- page 2 -->
+are hereby appropriated in the amounts hereinafter specified to and for the purposes hereinafter indicated as follows: 
+
+Governmental and Enterprise Funds Budget is attached hereto as Wicomico County 2025 Budget - Exhibit C — Governmental and Enterprise Funds. 
+
+SECTION 3. AND BE IT FURTHER ENACTED AND ORDAINED, THAT the Anticipated Grant Funding for the fiscal year ending June 30, 2026, is hereby authorized and approved for such fiscal year. The funds for all expenditures for the purposes specified in the Anticipated Grant Funding Budget shall be deemed appropriated in the amount specified upon certification by the Director of Finance in accordance with Chapter 29, Article II titled “Grant Funds.” The authorized grants are as follows: 
+
+Anticipated Grant Funding Budget is attached hereto as Wicomico County — 2026 Budget — Exhibit D — Anticipated Grant Funding. 
+
+SECTION 4. AND BE IT FURTHER ENACTED AND ORDAINED, THAT the FY26 Position Changes Budget and Position Control Budget for the fiscal year ending June 30, 2026, is hereby authorized and approved for such fiscal year. The funds for all expenditures for the purposes specified in the FY26 Position Changes Budget and Position Control Budget are hereby appropriated in the amounts hereinafter specified for the purposes hereinafter indicated as follows: 
+
+FY25 Position Changes Budget and Position Control Budget are attached hereto as Wicomico County — 2026 Position Changes Budget and Position Control Budget — Exhibit E and Exhibit F. 
+
+SECTION 5. AND BE IT FURTHER ENACTED AND ORDAINED, THAT the salary tables labeled for 2026 Salary Range 3%, Corrections 2026 and FOP are hereby authorized and adopted. 
+
+SECTION 6. AND BE IT FUTHER ENACTED AND ORDAINED, THAT the FY26 Proposed Capital Budget for the fiscal year ending June 30, 2026, is hereby approved as finally adopted for such fiscal year in the amounts hereinafter specified and for the purposes hereinafter indicated as follows: 
+
+FY26 Proposed Capital Budget is attached hereto as Wicomico County — 2026 Capital Budget. 
+
+SECTION 7. AND BE IT FURTHER ENACTED AND ORDAINED BY THE COUNTY COUNCIL OF WICOMICO COUNTY, MARYLAND, IN LEGISLATIVE SESSION, that subject to the laws of Maryland, the Wicomico County Charter, and the Wicomico County Code relating to budgetary and fiscal procedures, the amounts specified are approved, appropriated, and authorized to be disbursed for the purposes specified and the sums itemized for the fiscal year beginning July 1, 2025, and ending June 30, 2026.
+
+<!-- page 3 -->
+SECTION 8. AND BE IT FUTHER ENACTED AND ORDAINED BY THE COUNTY COUNCIL OF WICOMICO COUNTY, MARYLAND, IN LEGISLATIVE SESSION, that this Act shall be known as the Annual Budget and Appropriation Bill of Wicomico County. 
+
+SECTION 9. AND BE IT FUTHER ENACTED AND ORDAINED BY THE COUNTY COUNCIL OF WICOMICO COUNTY, MARYLAND, IN LEGISLATIVE SESSION, that the County Budget as finally adopted by this Act shall take effect on July 1, 2025. 
+
+Certified correct as passed and adopted by the County Council of Wicomico County, Maryland, this 3’’ day of June, 2025. 
+
+COUNTY, MARYLAND 
+
+I HEREBY CERTIFY that on introduction copies of the Bill shall be made available for distribution to the public, press and other news media. 
+
+By: (SEAL) Laura Hurley, cretary 
+
+Explanation: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW. Strike out indicates material deleted from law. CAPITAL — STRIKE OUT indicates matter stricken from Bill by Amendment Underlining indicates Amendments to Bill
+
+<!-- page 4 -->
+
+
+<!-- page 5 -->
+## FY26 Adopted Budget TAX RATE AND REVENUE UNDER REVENUE CAP 
+
+|Existing Determination ofTax Rateand RevenueunderRevenue Cap|ExistingDeterminationofTax Rate andRevenueunder <sup>R</sup>|<sup>evenue Cap</sup>|
+|---|---|---|
+|Part 1 - Determination ofAllowable TaxRate|Part I<br>- DeterminationofAllowableTaxRate||
+|FY 2025|FY 2026||
+|Revenue FY 2024<br>66,155,247|Revenue FY 2025|69,085,741|
+|(basedonConstant YieldNotice onnetbase)<br>Allowable FY 2025<br>67,478,352|(basedonConstant Yield Noticeonnetbase)<br>Allowable FY 2026|70,467,456|
+|(Revenue <sup>FY23*1.02% </sup>increase)|(Revenue <sup>FY24*1.02% </sup>increase)||
+|AssessableNet Base<br>7,968,198,165<br>Tax Rate (rev base/100)<br>0.008468|Assessable NetBase<br>TaxRate (revbase/100)|8,700,415,316<br>0.008099|
+|Part 2 - DeterminationofRevenue<br>FY2024|Part 2 - DeterminationofRevenue<br>FY2025||
+|Allowableon netbase<br>67,478,352|Allowableon netbase|70,467,456|
+|NewConstruction|NewConstruction||
+|HalfYear(dividedby 2)<br>49,231,765|HalfYear (dividedby 2)<br>19,728,230||
+|FullYear<br>32,120,000|Full Year<br>35,600,000||
+|688,924||448,121|
+|AllowableRevenue<br>68,167,276|Allowable Revenue|70,915,577|
+
+<!-- page 6 -->
+FY 26 ADOPTED 
+
+###### GENERAL FUND REVENUE BY CATEGORY 
+
+
+
+<!-- Start of picture text -->
+• Local Property Tax (37%) • Licenses and Permits (1%) Service Charges (1%) Appropriated Fund Balance (9%)<br>• American Rescue Plan (1%) • Local Income Tax (34%) I Disparity Grant (8%) I Fines and Forfeitures (0%)<br>• Other Local Tax (3%) • Other Intragovernmental (2%) • Miscellaneous Revenue (4%)<br><!-- End of picture text -->
+
+<!-- page 7 -->
+Exhibit A 
+
+General Fund Revenue 
+
+|ORG|OBJECT<br>PROJ|ACCOUNT DESCRIPTION||FY24 ACTUALS<br>FY25|ADOPTED BUDGET|FY26 P|ROPOSED BUDGET|COUNCIVEXECUTIVE<br>ADJUSTMENTS<br>FY 26|ADOPTED BUDGET|
+|---|---|---|---|---|---|---|---|---|---|
+|010802|412000|REAL ESTATE TAX|$|(66,980,972)<br>$|(67,750,359)<br>|$|(70,755,792)|$|(70,755,792)|
+|010802|412100|RE 6 MNTH LEVY CURRENT|$|(427,517)<br>$|(416,917)<br>|$|(159,785)|$|(159,785)|
+|010802|412600|ADDITIONS & ABATEMENTS REAL|$|(328,894)<br>$|18,177<br>|$|18,177|$|18,177|
+|010802|415021|COUNTYASSESSMENTCREDIT|$|833,316<br>$|-<br>|$|-|$|-|
+|010802|415222|ENTERPRISE ZONE CREDIT|$|193,043<br>$|-<br>|$|-|$|-|
+|010802|415323|DEFTAXAGREEMENT|$|(1,937)<br>$|-<br>|$|-|$|-|
+|010802|416600|TAX SALE REV<br>- EXCESS MONEY|$|(2,460)<br>$|-<br>|$|-|$|-|
+|010802|417000|INTEREST-COUNTY|$|(367,581)<br>$|(300,000)<br>|$|(325,000)|$|(325,000)|
+|010802|417300|SEMI-ANNUALSERVCHG|$|(360)<br>$|(2,850)<br>|$|(500)|$|(500)|
+|010802|417500|PENALTY|$|(114,387)<br>$|(95,000)<br>|$|(100,000)|$|(100,000)|
+|010802|419100|DISC ALLOWED ON TAXES|$|414,254<br>$|424,726<br>|$|437,467|$|437,467|
+|010802|419155|PROV FOR UNCDLL TAX|$|711,131<br>$|115,000<br>|$|50,000|$|50,000|
+|010802|419160|UNEARNED REVENUE|$|513,169<br>$|-|||$|-|
+|010890|412200|PERSONAL PROPERTY CURRENT|$|(188,799)<br>$|(248,000)<br>|$|(221,950)|$|(221,950)|
+|010891|412400|ORDINARY BUSINESS CORP CURRENT|S|(4,449,108)<br>$|(4,416,000)<br>|$|(4,149,500)|$|(4,149,500)|
+|010891|412600|ADDITIONS&ABATEMENTSOBC|$|(304)<br>$|15,000<br>|$|5,000|$|5,000|
+|010891|419100|DISCALLOWEDONTAXES|$|68,973<br>$|70,000<br>|$|70,000|$|70,000|
+|010892|412300|RR/ PUB UTILiTY CURRENT|$|(4,115,656)<br>$|(4,290,000)<br>|$|(3,957,000)|$|(3,957,000)|
+|PROPERTY|TAX TOTAL||$|(74,244,087)<br>$|(76,876,223)<br>|$|(79,088,883)<br>$|-<br>$|(79,088,883)|
+|01A0300|419200|INCOME TAX|$|(77,380,868)<br>$|(66,500,000)<br>$||(74,000,000)|$|(74,000,000)|
+|INCOME T|AX TOTAL||$|(77,380,868)<br>$|(66,500,000)<br>$||(74,000,000)<br>$|-<br>$|(74,000,000)|
+|01A0300|435200|RECORDATION TAX|$|(4,864,112)<br>$|(4,750,000)<br>$||(4,750,000)|$|(4,750,000)|
+|01A0300|435400|ADMISSION&AMUSEMENT|$|(226,292)<br>$|(200,000)<br>$||(200,000)|$|(200,000)|
+|01A0300|442000 CASUT|CANNABIS SALES & USE|$|-<br>$|-<br>$||-<br>$|(12,000)<br>$|(12,000)|
+|01A0313|444000|TRAILER TAX-OTHER|$|(386,585)<br>$|(420,000)<br>$||(400,000)|$|(400,000)|
+|01A0313|444001|MOBILE HOME PARK<br>- PEN! INT|$|(2,889)<br>$|(1,S00)<br>$||(4,000)|$|(4,000)|
+|01A0322|435300|911 FEE REVENUE|$|(1,438,059)<br>$|(1,350,000)<br>$||(1,390,000)|$|(1,390,000)|
+|01A03S5|446030|AGRIC. TRANSFER TAX|$|-<br>$|(50,000)<br>$||-|$|-|
+|OTHER REV|ENUES TOTAL||$|(6,917,937)<br>$|(6,771,500) $||(6,744,000)<br>$|(12,000)<br>$|(6,756,000)|
+|01A0400|443000|TRADERS|$|(57,749)<br>$|(55,000)<br>$||(55,000)|$|(55,000)|
+|01A0400|445410|AMUSEMENT TAX|$|(3,825)<br>$|(3,000)<br>$||(3,500)|$|(3,500)|
+|01A0400|447000|MARRIAGE|$|(23,480)<br>$|(22,000)<br>$||(23,000)|$|(23,000)|
+|01A0400|448000|CATV FRANCHISE FEE|$|(741,196)<br>$|(780,000)<br>S||(740,000)|$|(740,000)|
+|01A0400|449000|OTHER LIC & PERMITS|$|(4,413)<br>$|(4,000)<br>$||(4,000)|$|(4,000)|
+|01A0413|446020|BUILDING & EQUIP|$|(233,690)<br>$|(180,000)<br>$||(200,000)|$|(200,000)|
+|01A0413|446021 ADDTN|PLUMBING|$|(3,550)<br>$|(3,000)<br>$||(3,000)|$|(3,000)|
+|01A0413|446021 LCNS|PLUMBING|$|(1,700)<br>$|(2,250)<br>$||(2,250)|$|(2,250)|
+|01A0413|446021 NWCON|PLUMBING|$|(6,600)<br>$|(12,500)<br>$||(12,500)|$|(12,500)|
+|01A0413|446021 OTHER|PLUMBING|$|(600)<br>$|(3,000)<br>$||(500)|$|(500)|
+|01A0413|446021 PMOD|PLUMBING|$|(1,025)<br>$|(800)<br>$||(1,000)|$|(1,000)|
+|01A0413|446021 PPCMM|PLUMBING|$|(1,625)<br>$|(1,200)<br>$||(1,200)|$|(1.200)|
+|01A0413|446021 PPDX|PLUMBING|$|(75)<br>$|-<br>$||-|$|-|
+|01A0416|441010|LIQUOR BOARD LICENSE FEES|$|(137,505)<br>$|(140,000)<br>$||(140,000)|$|(140,000)|
+|01A0416|441020|LIQUOR BD ADVERTISING FEE|$|(12,890)<br>$|(7,000)<br>$||(7,000)|$|(7,000)|
+|01A0416|441030|BEER WINE & LIQUOR|$|(12,810)<br>$|(10,000)<br>$||(10,000)|$|(10,000)|
+|LICENSE &|PERMITS TOTAL||$|(1,242,733)<br>$|(1,223,750)<br>$||(1,202,950)<br>$|-<br>$|(1,202,950)|
+
+<!-- page 8 -->
+Exhibit A 
+
+General Fund Revenue 
+
+|ORG|OBJECT<br>PROJ|ACCOUNT DESCRIPTION|FY24 ACTUALS|FY25|ADOPTED BUDGET|FY26 P|ROPOSED BUDGET|COUNCIL/EXECUTIVE<br>ADJUSTMENTS<br>FY26|ADOPTED BUDGET|
+|---|---|---|---|---|---|---|---|---|---|
+|01A0500|409920|PAYMENTS-LIEU OF TAXES LOC|$ (3,569)|$|(18,000)|$|(17,000)|$|(17,000)|
+|O1AOSOO|419300|DISPARITY GRANT|$ (15,063,448)|$|(13,054,914)|$|(16,203,591)|$|(16,203,591)|
+|01A0500|419301|TEACHER RET SUP GRANT|$ (1,567,837)|$|(1,567,837)|$|(783,919)|$|(783,919)|
+|01A0502|470000|JUROR FEES|$ (158,340)|$|(157,333)|$|(158,000)|$|(158,000)|
+|01A0517|455510|POLICE PROTECT - REGULAR|$ (765,919)|$|(450,000)|$|(600,000)|$|(600,000)|
+|01A0521|467218|WCHDJMHP|$ (115,319)|$|(104,907)|$|(104,907)|$|(104,907)|
+|01A0534|467700|HEALTH DEPTGRANT|$ -|$|-|||$|-|
+|01A0S34|467700 124DC|HEALTH DEPT REVENUE|$ (82,091)|$|(80,817)|$|(80,817)|$|(80,817)|
+|01A0534|467700 1240C|HEALTH DEPT REVENUE|$ (76,276)|$|(73,546)|$|-|$|-|
+|01A0550|465501|HUR|$ (1,875,440)|$|(2,243,705)|$|(2,537,646)|$|(2,537,646)|
+|01A0634|467701|HEALTH DEPT COLL REVENUE|$ (558,123)|S|(587,183)|$|(587,183)|$|(587,183)|
+|TOTAL<br>|GF-INTERGOV REV||$ (20,266,362)|$|(18,338,242)|$|(21,073,063)<br>$|-<br>$|(21,073,063)|
+|01A0800|421110|USE OF PRIOR YEAR FUND BAL|$ -|$|(21,377,480)|$|(20,167,207)<br>$|340,038<br>$|(19,827,169)|
+|01A0800|455003|CD&INVESTMENTS|$ (10,221,689)|$|(6,250,000)|$|(8,950,000)|$|(8,950,000)|
+|01A0800|455007|PURCHASE CARD REBATE|$ (24,891)|$|(20,000)|$|(20,000)|$|(20,000)|
+|01A0800|460010|RENTAL|$ (17,246)|$|(3,300)|$|(14,000)|$|(14,000)|
+|01A0800|480004|MISCELLANEOUS REVENUE|$ (213,561)|$|(10,000)|$|(39,395)|$|(39,395)|
+|01A0800|480004 ROSS|ROSS BUILDING ADMIN FEE REV|$ (250)|$|-|$|(250)|$|(250)|
+|01A0800|480007|UNANTICIPATED REVENUE|$ (3,975)|$|-|$|-|$|-|
+|01AO800|480015|AMERICAN RESCUE PLAN|$ (12,555,288)|$|(3,642,031)|$|(1,514,342)|$|(1,514,342)|
+|01A0800|480016|LATCF|$ -|$|(100,000)|$|-|$|-|
+|01A0802|419175|BUILDINGS COURT SPACE|$ (11,606)|$|(10,969)|$|(10,968)|$|(10,968)|
+|01A0804|446001|BLDGRENTSTATESATTY/CAC|$ (120,365)|$|(120,364)<br>|$|(125,227)|$|(125,227)|
+|01A0850|462005|PUBLIC WORKS PERMITS|$ (61,698)|$|(20,000)<br>|$|(30,000)|S|(30,000)|
+|01A0821|467214|COMMISSION LEASE-DETCTR|$ (28,344)|$|(28,344)<br>|$|(28,344)|5|(28,344)|
+|01A0822|446010|TOWER LEASE-VERIZON|$ (26,354)|$|(29,471)<br>|$|(26,353)|$|(26,353)|
+|01A0847|457100|SALE OF VEHICLES - LEASES|$ (62,761)|$|(400,000)<br>|$|(120,000)|$|(120,000)|
+|TOTAL MIS|CELLANEOUS REVE|NUES|$ (23,348,028)|$|(32,011,959)<br>|$|(31,046,086)<br>$|340,038<br>$|(30,706,048)|
+|01AO416|441040|LIQUOR VIOLATION FINES|$ (16,415)|$|(13,000)<br>|$|(13,000)|$|(13,000)|
+|01A0704|467600|1ST OFFEND. DRUG DIV PGM.|$ (2,960)|$|(3,500)<br>|$|(3,000)|$|(3,000)|
+|01AO708|480008|BADCHECKCHARGE|$ (475)|$|(500)<br>|$|(500)|$|(500)|
+|01AO713|469000|P & Z ADVERTIZING REV|$ (1,600)|$|(2,650)<br>|$|(2,650)|$|(2,650)|
+|01AO713|480002|P&ZONING VIOLATIONS|5<br>(1,205)|5|(1,000)<br>|$|(1,000)|$|(1,000)|
+|01A0600|495004|OTHER INTEREST|$ (268)|$|-|||$|-|
+|TOTAL FIN|ES & FORFEITURES||$ (22,923)|$|(20,650)<br>|$|(20,150) $|-<br>$|(20,150)|
+
+<!-- page 9 -->
+Exhibit A 
+
+General Fund Revenue 
+
+|ORG|OBJECT<br>PROJ|ACCOUNTDESCRIPTION||FY24ACTUALS<br>FY25|ADOPTED BUDGET|FY26 P|ROPOSED BUDGET|COUNCIL/EXECUTIVE<br>ADJUSTMENTS<br>FY2|6ADOPTED BUDGET|
+|---|---|---|---|---|---|---|---|---|---|
+|01A0600|417600|BAY RESTORATION-ADMIN FEE|$|(46,791)<br>$|(20,000)<br>|$|(50,000)|$|(50,000)|
+|01A0600|431000|LIQUOR CONTROL BOARD|$|(970,000)<br>$|(720,000)<br>|$|(800,000)<br>$|400,000<br>$|(400,000)|
+|01A0600|469030|ROOM TAX<br>- ADMIN FEE|$|(28,300)<br>$|(23,000)<br>|$|(23,000)|$|(23,000)|
+|01A0600|469040|BUILDERS GUARANTY - ADMIN FEE|$|(47)<br>$|(50)<br>|$|(50)|$|(50)|
+|01A0600|469045|HEALTH CARE<br>- ADMIN FEE|$|(3,699)<br>$|(3,500)<br>|$|(3,500)|$|(3,500)|
+|01A0600|469100|ADMIN OH URBAN SERVICES|$|(56,088)<br>$|(56,088)<br>|$|(56,088)|$|(56,088)|
+|01A0602|470003|DIGITAL RECORDING|$|(1,450)<br>$|(2,500)<br>|$|(1,300)|$|(1,300)|
+|01A0607|469502|ELECTION FILING FEES|$|-<br>$|-<br>|$|-|$|-|
+|01A0607|480006|VOTER REGISTRATION LISTS|$|(844)<br>$|-<br>|$|-|$|-|
+|01A0608|469501|MAPS & PUBLICATIONS|$|(1,125)<br>$|(500)<br>|$|(500)|S|(500)|
+|01AO613|454010|FOREST CONSERVATION PLAN|$|(63,738)<br>$|(23,500)<br>|$|(23,500)|$|(23,500)|
+|01A0613|454030|CBCA PLAN REVIEW|$|(3,100)<br>$|(2,400)<br>|$|(2,400)|$|(2,400)|
+|01AO613|463000|SUBDIVISION REVIEW FEES|$|(15,485)<br>$|(11,250)<br>|$|(10,000)|$|(10,000)|
+|01AO613|463002|ZONING PROCESSING FEES|$|(1,000)<br>$|(1,500)<br>|$|(1,500)|$|(1,500)|
+|01A0613|463003|P & Z PRINTING REVENUE|$|(10)<br>$|(50)<br>|$|(SO)|$|(50)|
+|01AO613|464000|FIRE SAFETY FEES|$|(61,623)<br>$|(32,500)<br>|S|(30,000)|$|(30,000)|
+|01A0614|469300|SALISBURY-OPER EXPENSE|$|(194,897)<br>$|(212,500)<br>|$|(212,500)|$|(212,500)|
+|01A0535|463045|SECURITY|$|(18,886)<br>$|(40,888)<br>|$|(40,000)|$|(40,000)|
+|01A0617|453540|BD OF ED RESOURCE OFFICE|$|(816,988)<br>$|(900,000)<br>|$|(912,416)|$|(912,416)|
+|01A0617|463500|SHERIFF’S FEES|$|(120,368)<br>$|(110,000)<br>|$|(120,000)|$|(120,000)|
+|01A0617|463540|SHERIFF UNANTICIPATED REV|$|(101,773)<br>$|-<br>$||-|$|-|
+|01A0617|463550|SHERIFF’S MISC SERVICES|$|(504,737)<br>$|(360,000)<br>$||(360,000)|$|(360,000)|
+|01AO617|469250|TO SHERFF FR BOE CROSS GUARD|$|(89,348)<br>$|(85,000)<br>$||(90,000)|$|(90,000)|
+|01A0621|467210|WORK RELEASE RENT|$|-<br>$|-<br>$||-|$|-|
+|01A0621|467211|WCDC WEEKENDERS RENT|$|(2,118)<br>$|(2,520)<br>$||(4,018)|$|(4,018)|
+|01A0621|467213|WCDC INCENTIVE-INMATE SS|$|(200)<br>$|-<br>$||-|$|-|
+|01A0621|467215|PRETRIAL REVENUE|$|(20,453)<br>$|(11,781)<br>$||(27,520)|$|(27,520)|
+|01A0621|467216|HOME DETENTION REV|$|(6,340)<br>$|(4,920)<br>$||(6,000)|$|(6,000)|
+|01A0621|467220|COMMUNITY SERVICE|$|-<br>$|-<br>$||-|$|-|
+|01A0621|467221|DRUG COURT E/M|$|(55,940)<br>$|(23,861)<br>$||(38,025)|$|(38,025)|
+|01A0621|467250|WCDC MISCELLANEOUS INCOME|$|(40)<br>$|-<br>$||-|$|-|
+|01A0621|467300|STATE PER DIEM|$|(232,920)<br>$|(256,212)<br>$||(200,000)|S<br>|(200,000)|
+|01A0621|467310|FEDERAL PER DIEM|||$||(85)|$|(85)|
+|01A0622|465000|HAZMAT BILL ADMIN. CHARGE|$|(417)<br>$|(500)<br>$||(500)|$|(500)|
+|01A0622|469060|CITY OPERATION COST|$|(44,788)<br>$|(46,131)<br>$||(46,131)|$|(46,131)|
+|01A0627|463030|MOSQUITO CONTROL REVENUE|$|(139,924)<br>$|(135,000)<br>$||(135,000)|$|(135,000)|
+|01A0634|460410 VRIZN|RENTALAGREEMENTS|$|(317,293)<br>$|(968,000)<br>$||(305,000)|$|(305,000)|
+|01A0650|464S04|OUTSIDE SERVICES ROADS|$|(79,192)<br>$|(90,000)<br>$||(90,000)|$|(90,000)|
+|O1AO6SO|464506|SURCHARGE FEE REVENUE|$|(11,411)<br>$|(12,000)<br>$||(12,000)|$|(12,000)|
+|01A0650|465500|ROADS DEPT REVENUE|$|(4,125)<br>$|(1,000)<br>$||(1,000)|$|(1,000)|
+|01A0650|465502|OUTDOOR SERVICES<br>- PIPE|$|(257,980)<br>$|(20,000)<br>$||(20,000)|$|(20,000)|
+|SERVICE C|HARGES TOTAL||$|(4,273,437)<br>$ .|(4,177,151)<br>$||(3,622,083)<br>$|$ 400,000|(3,222,083)|
+|TOTAL GEN|ERAL FUND REVE|NUE|$|(207,696,375) $|(205,919,475) $||(216,797,215) $|728,038<br>$|(216,069,177)|
+
+<!-- page 10 -->
+#### FY26 GENERAL FUND OPERATING EXPENSES BREAKDOWN 
+
+##### BY CATEGORY 
+
+
+
+<!-- Start of picture text -->
+$61,944,344 $67,147,689<br>$70,000,000.00<br>$60,000,000.00<br>$so,000,000.o0<br>$27,855,984<br>$4000000000<br>$23,985,179<br>$14,552,000<br>$30,000,000 00<br>$14,666,643<br>$20,000,000.00 $5,917,338<br>$10,000,000.00<br>GENERAL GOVERNMENT PUBLIC SAFETY PUBLIC WORKS HEALTH AND SOCIAL EDUCATION MISCELLANEOUS DEBT SERVICE<br>SERVICES<br><!-- End of picture text -->
+
+Of the $14552 million in debt service, 60.3% of the total is allocated to the Board of Education.
+
+<!-- page 11 -->
+|Exhibit B<br>General Fund Expenses|FY2024<br>Actual|FY2025 Original<br>Budget|FY2026 Proposed<br>Budget|Council/Executive<br>Adjustments|FY2026Adopted<br>Budget|
+|---|---|---|---|---|---|
+|01 COUNTY COUNCIL||||||
+|50 SALARIES|366,263|387,353|396,727||396,727|
+|51 BENEFITS|280,486|318,281|318,255||318,255|
+|52 OPERATING EXPENSES|151,626|284,627|390,227||390,227|
+|53 ONE TIME OPERATING|4,090|5,600||||
+|54 CAPITAL EXPENSES|-|-||||
+|TOTAL COUNTY COUNCIL|802,465|995,861|1,105,209|-|1,105,209|
+|02 CIRCUIT COURT||||||
+|50 SALARIES|768,127|850,442|867,799|3,796|871,595|
+|51 BENEFITS|536,446|534,546|597,606|290|597,896|
+|52 OPERATING EXPENSES|577,931|788,969|879,469||879,469|
+|53 ONE TIME OPERATING|29,877|35,000|35,000||35,000|
+|54 CAPITAL EXPENSES|265,485|150,000|75,000||75,000|
+|TOTAL CIRCUITCOURT|2,177,866|2,358,957|2,454,874|4,086|2,458,960|
+|03 ORPHANS COURT||||||
+|50 SALARIES|28,842|51,480|66,480||66,480|
+|51 BENEFITS|22,909|26,640|30,927||30,927|
+|52 OPERATING EXPENSES|10,212|16,450|19,000||19,000|
+|53 ONE TIME OPERATING||||||
+|54 CAPITAL EXPENSES||||||
+|TOTAL ORPHANS COURT|61,963|94,570|116,407|-|116,407|
+|04 STATESATTORNEY||||||
+|50 SALARIES|2,614,088|3,481,885|3,762,479|123,125|3,885,604|
+|51 BENEFITS|1,283,882|1,383,332|1,435,898||1,435,898|
+|52 OPERATING EXPENSES|302,147|426,250|528,400||528,400|
+|53 ONE TIME OPERATING|35,055|82,900|63,660||63,660|
+|54 CAPITAL EXPENSES|(21,458)|40,000|81,675||81,675|
+|TOTAL STATESATTORNEY|4,213,714|5,414,367|5,872,112|123,125|5,995,237|
+
+<!-- page 12 -->
+|Exhibit B<br>General Fund Expenses|FY2024<br>Actual|FY2025 Original<br>Budget|FY 2026 Proposed<br>Budget|Council/Executive<br>Adjustments|FY2026 Adopted<br>Budget|
+|---|---|---|---|---|---|
+|05 EXECUTIVE/ADMINISTRATION||||||
+|50 SALARIES|470,125|493,183|504,632||504,632|
+|51 BENEFITS|152,035|168,881|188,982||188,982|
+|52 OPERATING EXPENSES|81,568|96,050|107,800|(11,750)|96,050|
+|53 ONE TIME OPERATING|||3,800||3,800|
+|54 CAPITAL EXPENSES||||||
+|TOTAL EXECUTIVE/ADMINISTRATIC|703,727|758,114|805,214|(11,750)|793,464|
+|06 COMMUNITY PROMOTION||||||
+|52 OPERATING EXPENSES|33,988|44,000|45,000|(20,000)|25,000|
+|TOTAL COMMUNITY PROMOTION|33,988|44,000|45,000|(20,000)|25,000|
+|07 ELECTIONS||||||
+|50 SALARIES|841,553|1,109,568|1,133,068||1,133,068|
+|51 BENEFITS|248,977|331,572|302,693||302,693|
+|52 OPERATING EXPENSES|501,468|954,327|916,617||916,617|
+|53 ONE TIME OPERATING|1,964|9,820|9,820||9,820|
+|54 CAPITAL EXPENSES|-|35,000|-|||
+|TOTAL ELECTIONS|1,593,962|2,440,287|2,362,198||2,362,198|
+|08 FINANCE||||||
+|50 SALARIES|793,040|1,058,920|1,167,652|(7,504)|1,160,148|
+|51 BENEFITS|467,426|575,981|557,851|(574)|557,277|
+|52 OPERATING EXPENSES|113,277|239,100|263,000||263,000|
+|53 ONE TIME OPERATING|4,454|18,700|13,880||13,880|
+|54 CAPITAL EXPENSES|-|||||
+|TOTAL FINANCE|1,378,197|1,892,701|2,002,383|(8,078)|1,994,305|
+|09 PUBLICACCOUNTANT||||||
+|52 OPERATING EXPENSES|85,966|200,000|215,000||215,000|
+|TOTAL PUBLICACCOUNTANT|85,966|200,000|215,000|-|215,000|
+
+<!-- page 13 -->
+|Exhibit B<br>General Fund Expenses|FY2024<br>Actual|FY 2025 Original<br>Budget|FY 2026 Proposed<br>Budget|Council/Executive<br>Adjustments|FY 2026Adopted<br>Budget|
+|---|---|---|---|---|---|
+|10 PURCHASING||||||
+|50 SALARIES|159,546|177,280|186,903||186,903|
+|51 BENEFITS|115,362|141,369|145,180||145,180|
+|52 OPERATING EXPENSES|31,079|55,300|47,650||47,650|
+|53 ONE TIME OPERATING|4,166|1,000|-|||
+|54 CAPITAL EXPENSES|-|64,200|44,100||44,100|
+|TOTAL PURCHASING|310,153|439,149|423,833|-|423,833|
+|11 LAW||||||
+|51 BENEFITS|6,936|6,752|9,334||9,334|
+|52 OPERATING EXPENSES|511,095|430,000|500,000||500,000|
+|TOTAL LAW|518,032|436,752|509,334||509,334|
+|12 HUMAN RESOURCES||||||
+|50 SALARIES|396,271|412,586|437,113|(5,136)|431,977|
+|51 BENEFITS|153,973|183,300|185,769|(393)|185,376|
+|52 OPERATING EXPENSES|229,347|290,450|350,450||350,450|
+|53 ONETIME OPERATING|8,180|10,800|6,500||6,500|
+|TOTAL HUMAN RESOURCES|787,771|897,136|979,832|(5,529)|974,303|
+|13 PLANNING_&ZONING||||||
+|50 SALARIES|1,254,501|1,608,926|1,832,754|(17)|1,832,737|
+|51 BENEFITS|631,447|742,928|828,298|(1)|828,297|
+|52 OPERATING EXPENSES|225,786|331,350|466,600||466,600|
+|53 ONE TIME OPERATING|7,689|8,650|6,400||6,400|
+|54 CAPITAL EXPENSES|-|-|-||-|
+|TOTAL PLANNING & ZONING|2,119,423|2,691,854|3,134,052|(18)|3,134,034|
+
+<!-- page 14 -->
+|Exhibit B<br>General Fund Expenses|FY2024<br>Actual|FY2025 Original<br>Budget|FY2026 Proposed<br>Budget|Council/Executive<br>Adjustments|FY2026Adopted<br>Budget|
+|---|---|---|---|---|---|
+|14 GENERALSERVICES||||||
+|50 SALARIES|258,026|289,561|306,658|954|307,612|
+|51 BENEFITS|166,723|191,763|188,867|73|188,940|
+|52 OPERATING EXPENSES|429,990|695,250|574,600||574,600|
+|53 ONE TIME OPERATING|1,099|1,000|1,000||1,000|
+|54 CAPITAL EXPENSES|61,209|625,000|605,000||605,000|
+|TOTAL GENERAL SERVICES|917,047|1,802,574|1,676,125|1,027|1,677,152|
+|15 IT||||||
+|50 SALARIES|440,566|501,645|528,109|(5,869)|522,240|
+|51 BENEFITS|210,065|229,374|253,130|(449)|252,681|
+|52 OPERATING EXPENSES|739,531|865,050|841,050||841,050|
+|53 ONETIME OPERATING|42,123|270,000|220,000||220,000|
+|54 CAPITAL EXPENSES|(579)|-|-|||
+|TOTAL IT|1,431,705|1,866,069|1,842,289|(6,318)|1,835,971|
+|16 LIQUOR/LICENSE BOARD||||||
+|50 SALARIES|171,395|186,021|182,030||182,030|
+|51 BENEFITS|77,355|81,453|85,740||85,740|
+|53 ONE TIME OPERATING|37,116|39,480|38,200||38,200|
+|54CAPITALEXPENSES|-|6,350|-|||
+|TOTAL LIQUOR/LICENSE BOARD|285,866|313,304|305,970||305,970|
+|17 SHERIFF’S_DEPARTMENT||||||
+|50 SALARIES|9,454,864|10,614,407|11,839,349|2,584|11,841,933|
+|51 BENEFITS|2,479,213|5,039,798|5,422,555|198|5,422,753|
+|52 OPERATING EXPENSES|1,208,237|1,442,320|1,461,681||1,461,681|
+|53 ONE TIME OPERATING|168,319|43,150|144,900||144,900|
+|54 CAPITAL EXPENSES|859,781|836,825|879,500||879,500|
+|TOTAL SHERIFF’S DEPARTMENT|14,170,414|17,976,500|19,747,985|2,782|19,750,767|
+
+<!-- page 15 -->
+|Exhibit B<br>General Fund Expenses|FY2024<br>Actual|FY2025 Original<br>Budget|FY 2026 Proposed<br>Budget|Council/Executive<br>Adjustments|FY2026Adopted<br>Budget|
+|---|---|---|---|---|---|
+|18 SALISBURY_FIRE/AMBULANCE||||||
+|52 OPERATING EXPENSES|999,998|1,600,000|2,205,000|1,500,000|3,705,000|
+|TOTAL SALISBURY FIRE/AMBULANC|999,998|1,600,000|2,205,000|1,500,000|3,705,000|
+|19 VOLUNTEER AMBULANCE||||||
+|51 BENEFITS|70,276|220,000|253,000||253,000|
+|52 OPERATING EXPENSES|4,675,000|5,211,250|5,775,000||5,775,000|
+|TOTAL VOLUNTEER AMBULANCE|4,745,276|5,431,250|6,028,000|-|6,028,000|
+|20 VOLUNTEER FIRE||||||
+|51 BENEFITS|72,944|220,000|100,000||100,000|
+|52 OPERATING EXPENSES|2,405,492|2,856,385|3,202,635||3,202,635|
+|TOTAL VOLUNTEER FIRE|2,478,436|3,076,385|3,302,635|-|3,302,635|
+|21 CORRECTIONS||||||
+|50 SALARIES|8,450,975|9,332,112|10,476,452|8,647|10,485,099|
+|51 BENEFITS|4,381,211|4,695,601|4,708,904|662|4,709,566|
+|52 OPERATING EXPENSES|6,323,150|7,571,000|8,157,608||8,157,608|
+|53ONETIMEOPERATING|116,135|83,800|26,700||26,700|
+|54 CAPITAL EXPENSES|76,738|119,500|91,200||91,200|
+|TOTAL CORRECTIONS|19,348,209|21,802,013|23,460,864|9,309|23,470,173|
+|22 EMERGENCY SERVICES||||||
+|50 SALARIES|1,665,086|2,010,974|2,336,115|(101,568)|2,234,547|
+|51 BENEFITS|857,969|945,459|1,030,826|(23,089)|1,007,737|
+|52 OPERATING EXPENSES|1,094,470|1,367,128|1,449,737||1,449,737|
+|53 ONE TIME OPERATING|19,148|20,720|24,700||24,700|
+|54 CAPITAL EXPENSES|219,093|350,850|50,000||50,000|
+|TOTAL EMERGENCY SERVICES|3,855,766|4,695,131|4,891,378|(124,657)|4,766,721|
+|23 PROTECTION_OFANIMALS||||||
+|52 OPERATING EXPENSES|507,011|593,205|601,328||601,328|
+|54 CAPITAL EXPENSES|-|-|-||-|
+|TOTAL PROTECTION OF ANIMALS|507,011|593,205|601,328|-|601,328|
+
+<!-- page 16 -->
+|Exhibit B<br>General Fund Expenses|FY 2024<br>Actual|FY 2025 Original<br>Budget|FY 2026 Proposed<br>Budget|Council/Executive<br>FY2026 Adopted<br>Adjustments<br>Budget|
+|---|---|---|---|---|
+|24 PUBLIC WORKS|||||
+|50 SALARIES|170,143|499,951|439,034|439,034|
+|51 BENEFITS|181,553|275,168|299,584|299,584|
+|52 OPERATING EXPENSES|(24,212)|372,600|267,350|267,350|
+|53ONETIMEOPERATING|-|7,450|14,150|14,150|
+|54 CAPITAL EXPENSES||50,000|40,000|40,000|
+|TOTAL PUBLICWORKS|327,484|1,205,169|1,060,118|-<br>1,060,118|
+|25 FRUITLAND WATER & SEWER|||||
+|52 OPERATING EXPENSES|||||
+|TOTAL FRU(TLAND WATER & SEWEI|-|-|-||
+|27 MOSQUITO CONTROL|||||
+|50 SALARIES|112,548|152,562|138,519|138,519|
+|51 BENEFITS|31,763|36,299|34,595|34,595|
+|52 OPERATING EXPENSES|37,627|50,000|40,000|40,000|
+|53 ONE TIME OPERATING|-||||
+|54 CAPITAL EXPENSES|-|-|35,000|35,000|
+|TOTAL MOSQUITO CONTROL|181,938|238,861|248,114|248,114|
+|28 GYPSY MOTH CONTROL|||||
+|52 OPERATING EXPENSES|44,063|35,000|35,000|35,000|
+|TOTAL GYPSY MOTH CONTROL|44,063|35,000|35,000|35,000|
+|30 BOARD_OF_EDUCATION|||||
+|52 OPERATING EXPENSES|49,935,024|51,636,953|57,512,791|57,512,791|
+|54 CAPITAL EXPENSES|-|1,000,000|-|-|
+|55 P&l ON CAPITAL INVESTM|7,341,189|8,600,000|8,775,000|8,775,000|
+|TOTAL BOARD OF EDUCATION|57,276,213|61,236,953|66,287,791|-<br>66,287,791|
+
+<!-- page 17 -->
+|Exhibit B<br>General Fund Expenses|FY2024<br>Actual|FY2025 Original<br>Budget|FY2026 Proposed<br>Budget|Council/Executive<br>Adjustments|FY 2026Adopted<br>Budget|
+|---|---|---|---|---|---|
+|31 COMMUNITY COLLEGE||||||
+|52 OPERATING EXPENSES|6,639,054|7,052,000|7,362,832||7,362,832|
+|TOTAL COMMUNITY COLLEGE|6,639,054|7,052,000|7,362,832|-|7,362,832|
+|32 PUBLIC LIBRARY||||||
+|52 OPERATING EXPENSES<br>54 CAPITAL EXPENSES|1,767,303|2,009,424|2,099,486||2,099,486|
+|TOTAL PUBLIC LIBRARY|1,767,303|2,009,424|2,099,486|-|2,099,486|
+|33 TRI-COUNTY COUN/SHORE T|RANSIT|||||
+|52 OPERATING EXPENSES|769,060|769,060|818,475||818,475|
+|TOTAL TRI-COUNTY COUN/SHORE 1|769,060|769,060|818,475||818,475|
+|34 PUBLIC HEALTH||||||
+|50 SALARIES|136,347|149,506|84,424||84,424|
+|51 BENEFITS|3,526,108|4,219,442|4,398,434||4,398,434|
+|52 OPERATING EXPENSES|621,210|901,805|769,323||769,323|
+|53 ONE TIME OPERATING<br>54 CAPITAL EXPENSES||||||
+|TOTAL PUBLIC HEALTH|4,283,665|5,270,753|5,252,181||5,252,181|
+|35 GOB_SECURITY||||||
+|50 SALARIES|76,683|98,501|100,000||100,000|
+|51 BENEFITS|9,234|11,949|12,622||12,622|
+|52 OPERATING EXPENSES|814|1,150|1,150||1,150|
+|53 ONE TIME OPERATING|||||-|
+|TOTAL GOB SECURITY|86,731|111,600|113,772|-|113,772|
+
+<!-- page 18 -->
+|Exhibit B<br>FY 2024<br>General Fund Expenses<br>Actual|FY2025 Original<br>Budget|FY2026 Proposed<br>Budget|Council/Executive<br>Adjustments|FY2026Adopted<br>Budget|
+|---|---|---|---|---|
+|36 EXTENSION_SERVICE|||||
+|52 OPERATING EXPENSES<br>153,150|164,256|172,580||172,580|
+|TOTAL EXTENSION SERVICE<br>153,150|164,256|172,580|-|172,580|
+|37 COMMUNITYACCESS CHANNEL|||||
+|52 OPERATING EXPENSES<br>242,000|247,000|251,000||251,000|
+|TOTAL COMMUNITY ACCESS CHANT<br>242,000|247,000|251,000||251,000|
+|38 OFFICE OF ECONOMIC DEVELOPMENT|||||
+|52 OPERATING EXPENSES<br>228,450|246,450|251,940||251,940|
+|TOTAL OFFICE OF ECONOMIC DEVEI<br>228,450|246,450|251,940|-|251,940|
+|39 POLICEACCOUNTABLITY BOARD|||||
+|52 OPERATING EXPENSES|10,000|7,500||7,500|
+|53 ONE TIME OPERATING|6,250|6,250||6,250|
+|TOTAL POLICE ACCOUNTABLITY BO<br>-|16,250|13,750||13,750|
+|40 PENSIONS & RETIREMENT|||||
+|51 BENEFITS<br>95,395|63,000|67,000||67,000|
+|95,395<br>TOTAL PENSIONS & RETIREMENT|63,000|67,000||67,000|
+|41 HOSPITAL & DISABILITY|||||
+|50 SALARIES<br>127,151|193,504|160,000||160,000|
+|51 BENEFITS<br>75,242|164,804|131,990||131,990|
+|TOTAL HOSPITAL & DISABILITY<br>202,393|358,308|291,990||291,990|
+|42 WORK COMP/LIABILITY INSURANCE|||||
+|52 OPERATING EXPENSES<br>739,106|1,400,000|2,000,000||2,000,000|
+|TOTAL WORK COMP/LIABILITY INSL<br>739,106|1,400,000|2,000,000||2,000,000|
+|43 DEBT RETIREMENT|||||
+|52 OPERATING EXPENSES<br>10,058|35,000|47,000||47,000|
+|55 P&l ON CAPITAL INVESTM<br>5,528,467|6,000,000|6,000,000|(270,000)|5,730,000|
+|TOTAL DEBT RETIREMENT<br>5,538,525|6,035,000|6,047,000|(270,000)|5,777,000.|
+
+<!-- page 19 -->
+|Exhibit B<br>General Fund Expenses|FY2024<br>Actual|FY2025 Original<br>Budget|FY2026 Proposed<br>Budget|Council/Executive<br>Adjustments|FY2026Adopted<br>Budget|
+|---|---|---|---|---|---|
+|45 SOCIAL SERVICES||||||
+|51 BENEFITS|3,881|3,567|4,931||4,931|
+|TOTAL SOCIAL SERVICES|3,881|3,567|4,931||4,931|
+|46 CONTINGENCYTRANSFER RE|SERVES|||||
+|52 OPERATING EXPENSES|1,577,288|5,098,224|5,226,245|(100,750)|5,125,495|
+|54 CAPITAL EXPENSES|25,844,483|17,650,000|16,062,500|(1,916,000)|14,146,500|
+|TOTAL CONTINGENCYTRANSFER R|27,421,771|22,748,224|21,288,745|(2,016,750)|19,271,995|
+|47 FLEETVEHICLES LEASED||||||
+|54 CAPITAL EXPENSES|377,737|950,000|940,000||940,000|
+|TOTAL FLEETVEHICLES LEASED|377,737|950,000|940,000||940,cm|
+|50 ROADS||||||
+|50 SALARIES|1,974,486|2,617,953|2,742,648|4,361|2,747,009|
+|51 BENEFITS|1,226,932|1,496,130|1,455,425|334|1,455,759|
+|52 OPERATING EXPENSES|3,818,925|8,250,528|6,794,300||6,794,300|
+|53ONETIMEOPERATING|4,568|20,000|68,250||68,250|
+|54 CAPITAL EXPENSES|(113,648)|971,788|1,722,732||1,722,732|
+|TOTAL ROADS|6,911,263|13,356,399|12,783,355|4,695|12,788,050|
+|60 RECREATION & PARKS||||||
+|52 OPERATING EXPENSES|3,307,253|3,730,200|4,081,811|90,038|4,171,849|
+|TOTAL RECREATION & PARKS|3,307,253|3,730,200|4,081,811|90,038|4,171,849|
+|83 GRANTS AND_MANDATES||||||
+|52 OPERATING EXPENSES|463,092|476,210|861,210||861,210|
+|TOTAL GRANTS AND MANDATES|463,092|476,210|861,210|-|861,210|
+|84 TEEN_ADULT CENTER/DOVE_|POINT|||||
+|52 OPERATING EXPENSES|61,362|61,362|61,362||61,362|
+|TOTAL TEEN ADULT CENTER/DOVE|61,362|61,362|61,362|-|61,362|
+
+<!-- page 20 -->
+|Exhibit B<br>General Fund Expenses|FY2024<br>Actual|FY2025 Original<br>Budget|FY2026 Proposed<br>Budget|Council/Executive<br>Adjustments|FY2026Adopted<br>Budget|
+|---|---|---|---|---|---|
+|85 MAINT OF AGED IN COMMU|NITY|||||
+|52 OPERATING EXPENSES|300,000|300,000|300,000||300,000|
+|TOTAL MAINT OF AGED IN COMMU|300,000|300,000|300,000|-|300,000|
+|86 COMMISSION ON AGING||||||
+|52 OPERATING EXPENSES|750|750|750||750|
+|TOTAL COMMISSION ON AGING|750|750|750|-|750|
+|87 LIFE CRISIS CENTER||||||
+|52 OPERATING EXPENSES|13,500|13,500|15,000||15,000|
+|TOTAL LIFE CRISIS CENTER|13,500|13,500|15,000||15,000|
+|TOTAL GENERAL FUND|180,962,094|205,919,475|216,797,215|(728,038)|216,069,177|
+
+<!-- page 21 -->
+##### Appendix “A” page 1 of 2 
+
+##### County Appropriation to BOE Operating Budget by Category 
+
+Fiscal Year 2026 
+
+|Category|FY24County<br>Appropriation|Adopted FY25<br>County<br>Appropriation|FY26-FY25<br>Increase<br>(Decrease)|Adopted FY26<br>Appropriation|Percentof<br>Budget|
+|---|---|---|---|---|---|
+|Administration|$ 1,338,608|$ 1,315,434|134,330<br>$|$ 1,449,763|2.6%|
+|School Management and Support|$ 3,366,514|$ 3,397,638|346,960<br>$|$ 3,744,599|6.7%|
+|Instructional Salaries & Wages|$ 19,297,227|$ 19,369,699|1,977,997<br>$|$ 21,347,696|38.3%|
+|Textbooks & Instructional Supplies|$ 774,263|$ 1,042,687|106,477<br>$|$ 1,149,164|2.1%|
+|Other Instructional Costs|$ 610,178|$ 545,823|55,738<br>$|$ 601,561|1.1%|
+|Special Education|$ 4,435,712|$ 4,293,100|438,403<br>$|$ 4,731,503|8.5%|
+|Student Personnel Services|$ 1,130,902|$ 946,066|96,611<br>$|$ 1,042,677|1.9%|
+|Student Health Services|$ 465,781|$ 256,578|26,201<br>$|$ 282,779|0.5%|
+|StudentTransportation Services|$ 2,026,365|$ 2,141,871|218,724<br>$|$ 2,360,595|4.2%|
+|Operation ofPlant|$ 3,551,593|$ 3,831,234|391,238<br>$|$ 4,222,472|7.6%|
+|Maintenance of Plant|$ 1,082,595|$ 1,224,893|125,084<br>$|$ 1,349,976|2.4%|
+|Fixed Charges (including teacher pension)|$ 10,749,369|$ 10,407,790|1,062,824<br>$|$ 11,470,614|20.6%|
+|Food Services|$ -|$ -|$||0.0%|
+|Community Services|$ 72,780|$ 38,215|$ 3,902|$ 42,117|0.1%|
+|Capital Outlay|$ 1,546,831|$ 1,825,927|$ 186,460|$ 2,012,387|3.6%|
+|Subtotal before Teacher Pension|$ 50,448,718|$ 50,636,953|5,170,950<br>$|$ 55,807,903|100%|
+|State Teacher supplement (byState Law)|$ -|$|-|$||
+|TOTALSforappropriations|$ 50,448,718|$ 50,636,953|$ 5,170,950|$ 55,807,903|100%|
+|Reduction (not spread)|$ (513,694)||$|||
+|Amount Added for increase to MOE (not spread)||$ 1,000,000|$ (1,000,000)|||
+|Amount Added forone time expenses||$ 1,000,000|$ (1,000,000)|||
+|Total Funds Committedforexpenditure by<br>BOE (excludingdebtservice)|$ 49,935,024|$ 52,636,953|$ 4,170,950|$ 55,807,903|100%|
+
+<!-- page 22 -->
+##### Appendix “A” page 2 of 2 
+
+##### BOE General Fund Budget by Category 
+
+Fiscal Year 2026 
+
+|Category|FY24 BOEActual|BOE Restated FY<br>25 Budget|-FY 6<br>Increase<br>(Decrease)|BOE Proposed<br>FY26Adopted|Percent of<br>Budget|
+|---|---|---|---|---|---|
+|Administration|$ 6,599,840|$ 6,784,557|$ 463,704|$ 7,248,261|2.6%|
+|School Management and Support|$ 16,621,624|$ 17,851,104|$ 870,454|$ 18,721,558|6.7%|
+|Instructional Salaries & Wages|$ 95,787,848|$ 100,768,606|$ 5,961,691|$ 106,730,297|38.3%|
+|Textbooks & Instructional Supplies|$ 3,843,394|$ 4,682,287|$ 1,063,091|$ 5,745,378|2.1%|
+|Other Instructional Costs|$ 3,010,507|$ 3,388,335|$ (380,759)|$ 3,007,576|1.1%|
+|Special Education|$ 21,950,244|$ 21,929,688|$ 1,726,012|$ 23,655,700|8.5%|
+|Student Personnel Services|$ 5,611,647|$ 4,948,415|$ 264,570|$ 5,212,985|1.9%|
+|Student Health Services|$ 2,111,971|$ 1,602,576|$ (188,787)|$ 1,413,789|0.5%|
+|StudentTransportation Services|$ 9,820,195|$ 10,902,099|$ 899,969|$ 11,802,068|4.2%|
+|Operation of Plant|$ 17,504,656|$ 18,220,187|$ 2,890,554|$ 21,110,741|7.6%|
+|Maintenance of Plant|$ 5,371,221|$ 5,397,420|$ 1,351,944|$ 6,749,364|2.4%|
+|Fixed Charges (including teacher pension)|$ 50,737,715|$ 51,989,453|$ 5,359,221|$ 57,348,674|20.6%|
+|Food Services||$ -|$ -|$ -|0.0%|
+|Community Services|$ 355,899|$ 185,402|$ 25,167|$ 210,569|0.1%|
+|Capital Outlay|$ 7,396,596|$ 8,177,057|$ 1,884,105|$ 10,061,162|3.6%|
+|Total General Fund BOE Budget|$ 246,723,357|$ 256,827,186|$ 22,190,936|$ 279,018,122|100%|
+
+<!-- page 23 -->
+### Appendix B 
+
+### Lease Expenditures By Department for the General Fund 
+
+|Department#|Department Name|Estimated Lease Expense|
+|---|---|---|
+|21|Corrections|112,000|
+|7|Elections|17,000|
+|22|Emergency Services|129,000|
+|5|Executive|55,000|
+|14|General Services|43,000|
+|54|LMB|17,000|
+|15|IT|20,000|
+|16|Liquor License|7,000|
+|27|Mosquito Control|66,000|
+|13|Planning & Zoning|84,000|
+|4|States Attorney|75,000|
+|50|Roads|315,000|
+|47|Total In Leased Vehicles|940,000|
+|17|Sheriff|770,500|
+
+<!-- page 24 -->
+|Exhibit C<br>Governmental_and_Enterprise_Funds|FY 2024<br>Actual|FY2025 Original<br>Budget|FY2026 Proposed<br>Budget|Council/Executive<br>Adjustments|FY 2026Adopted<br>Budget|
+|---|---|---|---|---|---|
+|51 SOLID WASTE||||||
+|Revenue|11,504,235|15,100,900|15,148,000|(1,200,000)|13,948,000|
+|SALARIES|2,126,961|2,768,596|2,999,555|6,120|3,005,675|
+|BENEFITS|1,284,772|1,554,768|1,563,602|469|1,564,071|
+|OPERATING EXPENSES|3,568,097|3,899,499|4,232,800||4,232,800|
+|CONTRIBUTIONTO FUND BALANCE|-|2,447,480|1,373,523|(1,076,589)|296,934|
+|ONE TIME OPERATING|1,782|4,250|16,520||16,520|
+|CAPITAL EXPENSES|71,720|4,026,307|3,992,000||3,992,000|
+|P&I ON CAPITAL INVST|110,578|400,000|970,000|(130,000)|840,000|
+|TOTAL SOLID WASTE|7,163,909|15,100,900|15,148,000|(1,200,000)|13,948,000|
+|52 AIRPORT||||||
+|REVENUE|3,396,766|2,013,616|2,459,246||2,459,246|
+|TRANSFER FROM GENERAL FUND||2,945,962|2,802,282||2,802,282|
+|TOTAL REVENUE|3,396,766|4,959,578|5,261,528|-|5,261,528|
+|SALARIES|609,287|841,728|963,212||963,212|
+|BENEFITS|302,308|379,344|441,740||441,740|
+|OPERATING EXPENSES|1,556,402|1,752,706|1,727,250||1,727,250|
+|ONE TIME OPERATING|21,398|21,949|27,326||27,326|
+|CAPITAL EXPENSES|4,769,368|213,851|327,000||327,000|
+|P&I ON CAPITAL INVST|1,225,051|1,750,000|1,775,000||1,775,000|
+|TOTAL AIRPORT|8,483,815|4,959,578|5,261,528|-|5,261,528|
+
+<!-- page 25 -->
+|Exhibit C<br>Governmental_and_Enterprise_Funds|FY2024<br>Actual|FY 2025 Original<br>Budget|FY2026 Proposed<br>Budget|Council/Executive<br>Adjustments|FY2026Adopted<br>Budget|
+|---|---|---|---|---|---|
+|53 ELECTRICAL BOARD||||||
+|REVENUE|77,090|44,100|48,000||48,000|
+|CONTRIBUTION TO FUND BALANCE||1,391|5,721||5,721|
+|SALARIES|18,595|18,764|19,514||19,514|
+|BENEFITS|9,378|14,445|14,415||14,415|
+|OPERATING EXPENSES|7,731|9,100|7,950||7,950|
+|ONETIMEOPERATING|-|400|400||400|
+|CAPITAL EXPENSES|-|-||||
+|TOTAL ELECTRICAL BOARD|35,704|44,100|48,000|-|48,000|
+|54 LOCAL MANAGEMENT BOARD||||||
+|REVENUE|981,627|1,782,359|1,773,638||1,773,638|
+|TRANSFER FROM GENERAL FUND||55,953|96,979||96,979|
+|TOTAL REVENUE|981,627|1,838,312|1,870,617|-|1,870,617|
+|SALARIES|206,470|485,494|400,313||400,313|
+|BENEFITS|41,556|118,251|125,694||125,694|
+|OPERATING EXPENSES|729,128|1,195,856|1,327,961||1,327,961|
+|ONE TIME OPERATING|2,850|38,711|16,649||16,649|
+|TOTAL_LOCAL_MANAGEMENT_BOARD|980,004|1,838,312|1,870,617|-|1,870,617|
+
+<!-- page 26 -->
+|Exhibit C<br>Governmental_and_Enterprise_Funds|FY2024<br>Actual|FY2025 Original<br>Budget|FY2026 Proposed<br>Budget|Council/Executive<br>Adjustments|FY 2026Adopted<br>Budget|
+|---|---|---|---|---|---|
+|60 RECREATION&PARKS||||||
+|REVENUE|2,110,193|2,686,868|2,477,408||2,477,408|
+|TRANSFER_FROM_GENERAL_FUND|3,307,253|3,730,200|4,081,811|90,038|4,171,849|
+|TOTAL REVENUE|5,417,446|6,417,068|6,559,219|90,038|6,649,257|
+|SALARIES|2,057,080|2,568,609|2,525,087|2,822|2,527,909|
+|BENEFITS|890,797|1,121,388|1,189,879|216|1,190,095|
+|OPERATING EXPENSES|1,598,141|1,981,302|2,098,333||2,098,333|
+|ONE TIME OPERATING|23,712|2,100|12,860||12,860|
+|CAPITAL EXPENSES|358,921|513,669|503,060|27,000|530,060|
+|P&I ON CAPITAL INVST|70,453|230,000|230,000|60,000|290,000|
+|TOTAL RECREATION & PARKS|4,999,104|6,417,068|6,559,219|90,038|6,649,257|
+|61 WICOMICO YOUTH & CIVIC CENTER||||||
+|REVENUE|2,718,715|5,603,545|5,175,512||5,175,512|
+|TRANSFER_FROM_GENERAL_FUND|1,502,313|1,596,309|1,826,984|49,250|1,876,234|
+|TOTAL REVENUE|4,221,028|7,199,854|7,002,496|49,250|7,051,746|
+|SALARIES|1,238,766|2,182,657|2,286,426||2,286,426|
+|BENEFITS|543,292|716,481|742,455||742,455|
+|OPERATING EXPENSES|1,310,331|2,969,160|3,159,655||3,159,655|
+|ONE TIME OPERATING|172,017|157,750|175,970||175,970|
+|CAPITAL EXPENSES|36,397|1,166,956|633,240||633,240|
+|P&I ON CAPITAL INVST|11,508|6,850|4,750|49,250|54,000|
+|TOTAL WICOMICO YOUTH & CIVIC CENTER|3,312,310|7,199,854|7,002,496|49,250|7,051,746|
+
+<!-- page 27 -->
+|Exhibit C<br>Governmental_and_Enterprise_Funds|FY2024<br>Actual|FY2025 Original<br>Budget|FY2026 Proposed<br>Budget|Council/Executive<br>Adjustments|FY2026Adopted<br>Budget|
+|---|---|---|---|---|---|
+|62 TOURISM||||||
+|REVENUE|832,506|3,468,448|3,858,705||3,858,705|
+|SALARIES|518,186|753,591|771,650||771,650|
+|BENEFITS|161,695|199,633|199,668||199,668|
+|OPERATING EXPENSES|759,723|2,219,574|2,093,447||2,093,447|
+|ONE TIME OPERATING|-|20,650|6,590||6,590|
+|CAPITAL EXPENSES|(65,831)|275,000|787,350||787,350|
+|P&I ON CAPITAL INVST|-|-||||
+|TOTAL TOURISM|1,373,773|3,468,448|3,858,705||3,858,705|
+|NURSING HOME||||||
+|REVENUE|8,856,922|10,652,600|11,832,110||11,832,110|
+|NURSING|4,144,661|6,489,731|6,704,800||6,704,800|
+|OPERATING EXPENSES|5,181,719|2,314,633|2,383,884||2,383,884|
+|CONTRIBUTION TO (USE OF) FUND BALANCE||1,848,236|2,743,426||2,743,426|
+|TOTAL NURSING HOME|9,326,380|10,652,600|11,832,110||11,832,110|
+
+<!-- page 28 -->
+|||EXHI<br>Anticipated Gran|BIT “D”<br>t Funding - Adop<br>|ted||||
+|---|---|---|---|---|---|---|---|
+||Dept N|Name ofGrant|Expected amount||Expected amountfor|Expected amountfor<br>Total Ex|pected GrantAward|
+|Circuit Court|02<br>State|Juvenile and Family Services Jurisdictionalgrant|$ 174,135<br>$|49,816<br>$|292,926|$|516,877|
+|Circuit Court|02<br>State|Office of Problem-Solving Courts Discretionary Grant|$ 151,622<br>$|70,186<br>$|177,994|$ <br>|399,802|
+|Circuit CourtTotal|||$ 325,757<br>$|120,002<br>$|470,920|$ -<br>$|916,679|
+|States Attorney|04<br>State|Wicomico County Adult Drug Treatment Court|$ 18,720|||$|18,720|
+|States Attorney|04<br>State|Maryland Criminal Information Network|$ 72,975<br>$|21,893||$|94,868|
+|States Attorney Total|||$ 91,695<br>$|21,893<br>$||$ $|113,588|
+|Planning & Zoning|13<br>Federal|MPO (MARYLAND)|$ 30,895|$|244,105|$|275,000|
+|Planning & Zoning|13<br>State|Rural Legacy||$|4,813,759|$|4,813,759|
+|Planning & Zoning|13<br>Federal|House Elevation Project<br>- 20349 Nanticoke Drive|$ 4,876|$|87,773|$|92,649|
+|Planning & Zoning|13<br>Federal|House Elevation Project<br>- 2705 Church Street|$ 8,789|$|158,202|$|166,991|
+|Planning & Zoning|13<br>Federal|Community Development Block Grant Housing Assistance||$|500,000|S|500,000|
+|Planning & Zoning|13<br>State|Chesapeake and Atlantic Coastal Bays Grant-In-Aid Progra|m<br>S<br>6,000|||$|6,000|
+|Planning & Zoning|13<br>Federal|Maryland SoIarAPP+ Implementation||$|7,500|S|7,500|
+|Piannlng&ZoningTotal|||$ 50,560<br>$|-<br>$|5,811,339|$ -<br>$|5,861,899|
+|Sheriff|17<br>State|Peace Order/ Protective Order Supporl)DV)|$ 10,000|||$|10,000|
+|Sheriff|17<br>State|MD Criminal Intelligence Network)MCIN)|$ 75,000<br>$|13,500<br>$|7,000|$|95,500|
+|Sheriff|17<br>State|Tobacco Program|$ 17,500<br>|$|500|$|18,000|
+|Sheriff|17<br>State|School Bus Safety|$ 20,000<br>|||$|20,000<br>|
+|Sheriff|17<br>State|Sex OffenderCompliance and Enforcement|$ 23,000|||$|23,000|
+|Sheriff|17<br>State|Gun Violence Reduction Grant Program|$ 20,000|||$|20,000|
+|Sh<br>if|17<br>Federal and|||||||
+||State|Law Enforcement Training Scholarship Program (LETS)||$|1,500|$|1,500|
+|Sheriff|17<br>Federal|WicomicoCounty Highway Safety Grant|$ 9,000|||$|9,000|
+|Sheriff|17<br>Federal|BulletproofVest Partnership||$|10,000|$|10,000|
+|Sheriff|17<br>State|BodyArmorGrant||$|10,000|$|10,000|
+|Sheriff|17<br>Federal|IJSMS Regional Fugitive Task Force|$ 20,000|||$|20,000|
+|Sheriff|17<br>State|Community Outreach Addictions Team (COAT)|$ 5,000|||$|5,000|
+|Sheriff|17<br>State|Police Recruitment & Retention|$ 15,000|$|10,000|$|25,000|
+|Sheriff|17<br>State|Police Accountability, Community and Transparency (PACT|)|$|40,000|$|40,000|
+|||Local WarrantApprehension and Absconding Grant||||||
+|Sheriff|17<br>State|Program(WAAG)|$ 25,000|||5|25,000|
+|Sheriff|17<br>State|Wicomico County Adult Drug Court Program|$ 6,000|||S|6,000|
+|Sheriff|17<br>Federal|Wicomico County Adult Drug Court Program|$ 15,000|||$|15,000|
+|Sheriff|17<br>Federal|Edward J Byrne Memorial Justice Assistance Grant )BJAG)||$|15,000|$|15,000|
+|SheriffTotal|||$ 260,500<br>$|13,500<br>$|94,000|$ -<br>$|368,000|
+|Corrections|21<br>State|Local Jail Capital Improvement Program<br>|$ -<br>|||$ 3,544,000<br>$|3544,000<br>|
+|Corrections|21<br>State|Performance Incentive Grant Fund|$ -|$|400,000|$|400,000|
+|CorrectionsTotal|||$ -<br>$|-<br>$|400,000|$ 3,544,000<br>$|3,944,000|
+
+<!-- page 29 -->
+||Dept N|NameofGrant|Expectedamount|at,nr|Expected amountfor|Expectedamountfor|Total Ex|pected GrantAward|
+|---|---|---|---|---|---|---|---|---|
+|Emergency Services|22<br>State|Maryland 9-1-1 Board|||$ 80,000||$|80,000|
+|Emergency Services|22<br>State|MIEMSS/MEMA- Education/MedicalServices|||$ 2,500||$|2,500|
+|Emergency Services|22<br>Federal|2025 Emergency Management Performance Grant(EMP|G)<br>$ 80,492|||$ -|$|80,492|
+|Emergency Services|22<br>Federal|2025 State Homeland Security Program(SHSP)||||$ 104,249|$|104,249|
+|Emergency Services|22<br>State|Hazardous Materials Grant||||$ 2,000|$|2,000|
+|Emergency Services|22<br>Other|Safety Grant||||$ 1,500|$|1,500|
+|Emergency Services|22<br>Federal|Hazard Mitigation Project Officer|||$ 37,500||$|37,500|
+|Emergency ServicesTotal|||$ 80,492|$ -|$ 120,000<br>|$ 107,749|$|308,241|
+|Local Management Board CPA|54<br>State|Children’s Cabinet Interagency Fund|$ 500,000|$ 100,000|$ 257,420||$|857,420|
+|Local Management Board MSDE|54<br>State|Home Visiting|$ 8,055|$ 895|$ 289,413||$|298,363|
+|Local Management Board EN|54<br>State|Enough Act Capacity Building Grant|$ 68,500|$ 13,025|$ 129,975||$|211,500|
+|Local Management Board OFC|54<br>Federal|Drug Free Communities|||$ 125,000||$|125,000|
+|Local Management Board PIGF|54<br>State|Performance Incentive Grant Fund|||$ 154,333||$|154,333|
+|Local Management Board|54<br>State|Cannabis Funds|||$ 320,000||$|320,000|
+|Local Management Board FACT|54<br>State|Police Accountability, Community, and Transparency|$ 57,750|$ 11,500|$ 38,128||$|107,378|
+|Local Management Board Total|||$ 634,305|5<br>125,420|$ 1,314,269<br>|$ -|$|2,073,994|
+|Airport|52<br>Federal|SAFER Grant|$ 55,000|$ 25,000|$ 5,000||$|85,000|
+||Federal and||||||||
+|Airport|52<br>State|ATCT Equipment|||$|1,330,000|$|1,330,000|
+|A<br>t|Federal and<br>52||||||||
+|r|State|Wetland Mitigation|||$|1,330,000|$|1,330,000|
+|Airport|52<br>Federal|Access Road<br>- ARFF|||$|67,500|$|67,500|
+|Airport|52<br>State<br>|Maryland Capital Projects|||$|1,500,000|$|1,500,000|
+|A<br>P <sup>rt</sup>|52<br>t:te<br>I<br>d|StE Equipment|||$|1,235,000|$|1,235,000|
+|A i rt|Federal and<br>52<br>State|Rehab Runway 14-32|||$|2,375,000|$|2,375,000|
+|AIrport Total|||$ 55,000|$ 25,000|$ 5,000<br>$|7,837,500|$|7,922,500|
+|Tourism|62<br>Other|Beach to Bay Heritage Area Mini Grants|||$|5,000|$|5,000|
+|Tourism|62<br>State|Public Art Across Maryland|||$|10,000|$|10,000|
+|Tourism|62<br>Federal|ChesapeakeGatewaysGrants|||$|100,000|$|100,000|
+|Tourism Total|||$ -|$|$ -<br>$|115,000|$|115,000|
+|Recreation & Parks|60<br>Federal|Congressionally Directed Spending (Mason Diuon)|||$|2,000,000|$|2,000,000|
+|Recreation & Parks|60<br>State|Legislative Bond Initiative (Mason Dixon(|||$|500,000|$|500,000|
+|Recreation & Parks|60<br>State|Program Open Space|||$ 75,000||$|75,000|
+|RecreatIon & ParksTotal|||$ -|$ -<br>|$ 75,000<br>$|2,500,000|$|2,575,000|
+|Grand Total|||$ 1,498,309<br>|$ 305,815<br>|$ 8,290,528<br>$|14,104,249|$|24,198,901|
+
+
+
+2 of 2
+
+<!-- page 30 -->
+######
+
+<!-- page 31 -->
+|Department|Job Class #|Position #|PositionTitle|Grade|Salary|New Position Title|NewiobClass It|NewGrade|Type ofChange|New Salary|Increase amount|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|P & Z|570|100127|Pres/Dev Review Planner|M36|56,000|Long Range Planner|615|M36|Title change/incroeto mid-point|$60,293|$4,293|
+|P & Z|604|100519|Chief Fire Protection|||Sr Dept. Finance Specialist|411|M36||$60,293|$60,293|
+|EM&||1O1O2||||Chcf EMS OMsion|48&|M40|roew nncition/budcctto rni,u|886|8’|
+|SAO|713|100066|ASST STATES ATTORNEY|AlT||Principle Investigator|505|M39|Rctlcate/enmpwito,/b,,dgn!tonld-pol,t|$80,164|$80,164|
+|SAO||101028||||Principle Investigator|505|M39|New position/budget to mid-point|$80,164|$80,164|
+|Corrections|417|100349|Community Correctional Officer|M34|||||Reactivate/budget to mid-point|$49,847|$49,847|
+|Corrections|417|100407|Community Correctional Officer|M34|||||Reactivate/budget to mid-point|$49,847|$49,847|
+
+<!-- page 32 -->
+## 2026 Adopted Position Control Document 
+
+Exhibit F 
+
+|Position<br>Department|Job Title|Grade<br>202|5 Annual Salary<br>Adop|ted FY 26 Salary<br>%|Increase|
+|---|---|---|---|---|---|
+|100011 COUNTY COUNCIL|COUNCIL MEMBER||21,000|21,000|0%|
+|100007 COUNTY COUNCIL|COUNCIL PRESIDENT||25,000|25,000|0%|
+|100017 COUNTY COUNCIL|INTERNALAUDITOR|M43|96,600|101,430|5%|
+|100010 COUNTY COUNCIL|COUNCIL MEMBER||21,000|21,000|0%|
+|100008 COUNTY COUNCIL|COUNCIL MEMBER||21,000|21,000|0%|
+|100015 COUNTY COUNCIL|COUNCILADMINISTRATOR|M41|83,852|88,045|5%|
+|100001 COUNTY COUNCIL|EXECUTIVE OFFICE COORDINATOR|M36|53,901|56,597|5%|
+|100012 COUNTY COUNCIL|COUNCIL VICE PRESIDENT||23,000|23,000|0%|
+|100009 COUNTY COUNCIL|COUNCIL MEMBER||21,000|21,000|0%|
+|100013 COUNTY COUNCIL|COUNCIL MEMBER||21,000|21,000|0%|
+|100036 ORPHANS COURT|JUDGE||11,600|11,600|0%|
+|100035 ORPHANS COURT|JUDGE||11,600|11,600|0%|
+|100037 ORPHANS COURT|JUDGE||11,600|11,600|0%|
+|100006 EXECUTIVE ADMINISTRATION|COUNTY EXECUTIVE||107,000|107,000|0%|
+|100004 EXECUTIVE ADMINISTRATION|EXECUTIVE OFFICE COORDINATOR|M36|53,108|55,765|5%|
+|100005 EXECUTIVE ADMINISTRATION|DIRECTOR OF ADMINISTRATION|M45|136,899|143,744|5%|
+|100016 EXECUTIVE ADMINISTRATION|EXECUTIVE OFFiCE COORDINATOR|M36|58,388|61,308|5%|
+|100003 EXECUTIVE ADMINISTRATION|ASST DIRECTOR ADMINISTRATION|M44|132,300|132,300|0%|
+|100068 ELECTIONS|DEPUTY DIRECTOR ELECTIONS||75,559|79,271|5%|
+|100067 ELECTIONS|ELECTIONS DIRECTOR||105,784|110,955|5%|
+|100997 ELECTIONS|ELECTION SUPERVISOR||60,283|75,717|26%|
+|100072 ELECTIONS|ELECTION PROGRAM IT||49,771|63,318|27%|
+|100078 ELECTIONS|BOARD ATTORNEY||20,000|20,000|0%|
+|100070 ELECTIONS|ELECTION PROGRAM ASST I||47,245|51,190|8%|
+|100070 ELECTIONS|ELECTION PROGRAM ASST I||66,385|47,592|-28%|
+|100758 ELECTIONS|BOARD MEMBER||4,000|4,000|0%|
+|100071 ELECTIONS|ELECTION PROGRAM ASST I||64,572|47,592|-26%|
+|100073 ELECTIONS|BOARD PRESIDENT||4,500|4,500|0%|
+|100757 ELECTIONS|BOARD MEMBER||4,000|4,000|0%|
+|100069 ELECTIONS|ELECTION PROGRAM ASST II||47,245|62,021|31%|
+|100074 ELECTIONS|BOARD MEMBER||4,000|4,000|0%|
+|100069 ELECTIONS|ELECTION PROGRAM ASST II||60,283|59,113|-2%|
+|100075 ELECTIONS|BOARD MEMBER||4,000|4,000|0%|
+|100095 FINANCE|TAX COORDINATOR|M34|56,443|59,265|5%|
+|100654 FINANCE|GRANT ADMINISTRATOR|M43|100,000|105,000|5%|
+|100102 FINANCE|DISBURSEMENT ASSISTANT|M33|42,764|44,902|5%|
+|100094 FINANCE|REVENUE ASSISTANT|M33|37,063|38,916|5%|
+
+
+
+1
+
+<!-- page 33 -->
+|Position<br>Department|JobTitle|Grade<br>202|5 Annual Salary|Adopted FY26 Salary|% Increase|
+|---|---|---|---|---|---|
+|100103<br>FINANCE|SENIOR REVENUE ASSISTANT|M34|40,736|46,500|14%|
+|100092<br>FINANCE|PRINCIPAL ACCOUNTANT|M37|60,000|63,000|5%|
+|100086<br>FINANCE|REVENUE ASSISTANT|M33|40,077|42,081|5%|
+|100091<br>FINANCE|ACCOUNTING ASSISTANT|M33|47,915|50,312|5%|
+|100090<br>FINANCE|MANAGER ACCOUNTING|M40|77,822|89,250|15%|
+|100087<br>FINANCE|PRINCIPALACCOUNTANT|M37|65,444|68,717|5%|
+|100099<br>FINANCE|DIRECTOR FINANCE|M45|119,789|130,570|9%|
+|100097<br>FINANCE|PAYROLL COORDINATOR|M34|45,280|47,544|5%|
+|100100<br>FINANCE|REVENUE ASSISTANT|M33|40,000|42,000|5%|
+|100101<br>FINANCE|DEPUTY DIRECTOR FINANCE|M42|88,998|97,008|9%|
+|100098<br>FINANCE|MANAGER REVENUE SYSTEM|M39|65,445|68,718|5%|
+|100096<br>FINANCE|MANAGER DISBURSEMENT ACCOUNTIN|M40|79,141|90,825|15%|
+|100088<br>FINANCE|ACCOUNTING ASSISTANT|M33|37,842|39,734|5%|
+|100888<br>PURCHASING|SR PURCHASING ASSISTANT|M34|42,000|48,395|15%|
+|100104<br>PURCHASING|PURCHASINGAGENT|M43|96,052|100,856|5%|
+|100105<br>PURCHASING|PURCHASING ASSISTANT|M33|37,128|38,985|5%|
+|100111<br>HUMAN RESOURCES|HR MANAGER BENEFITS|M39|64,821|68,063|5%|
+|100403<br>HUMAN RESOURCES|HUMAN RESOURCE COORDINATOR|M36|48,836|51,279|5%|
+|100336<br>HUMAN RESOURCES|HUMAN RESOURCES ASSISTANT|M35|45,000|47,250|5%|
+|100108<br>HUMAN RESOURCES|MANAGER HUMAN RESOURCES|M41|84,514|88,741|5%|
+|100106<br>HUMAN RESOURCES|HUMAN RESOURCE COORDINATOR|M36|56,286|59,101|5%|
+|100112<br>HUMAN RESOURCES|HEAD OF HUMAN RESOURCES|M44|108,129|117,861|9%|
+|100123<br>PLANNING & ZONING|PERMIT SERVICES COORDINATOR|M36|53,025|55,677|5%|
+|100120<br>PLANNING & ZONING|DEPUTY DIRECTOR PLNG & ZONING|M42|96,911|101,758|5%|
+|100132<br>PLANNING & ZONING|PLANNER ENVIRONMENTAL|M36|58,537|61,465|5%|
+|100508<br>PLANNING & ZONING|SR BUILDING INSPECTOR|M37|65,000|68,250|5%|
+|100130<br>PLANNING & ZONING|MANAGER PLANNING|M41|82,500|86,625|5%|
+|100520<br>PLANNING & ZONING|FIRE INSPECTOR II|M37|61,438|64,511|5%|
+|100513<br>PLANNING & ZONING|PLANNER COMMUNITY DEVELOPMENT|M36|51,523|54,100|5%|
+|100124<br>PLANNING&ZONING|MGR GEOGRAPHIC INFO SYSTEM|M41|104,730|109,967|5%|
+|100126<br>PLANNING & ZONING|ZONING ADMINISTRATOR|M39|85,149|89,407|5%|
+|100125<br>PLANNING & ZONING|SENIOR DEPARTMENT COORDINATOR|M36|49,306|51,773|5%|
+|100119<br>PLANNING & ZONING|GEOGRAPHIC INFO SYS SPECIALIST|M35|55,340|58,108|5%|
+|100515<br>PLANNING&ZONING|PLUMBING INSPECTOR|M36|55,000|57,750|5%|
+|100518<br>PLANNING & ZONING|SENIOR DEPARTMENT COORDINATOR|M36|48,836|51,279|5%|
+|100131<br>PLANNING & ZONING|DEPARTMENT ASSISTANT|M32|41,127|43,184|5%|
+|100511<br>PLANNING & ZONING|CHIEF BUILDING INSPECTOR|M38|67,594|78,500|16%|
+|100523<br>PLANNING & ZONING|SENIOR PLUMBING INSPECTOR|M38|83,364|87,533|5%|
+|100514<br>PLANNING & ZONING|BUILDING INSPECTOR|M36|52,979|55,629|5%|
+|100122<br>PLANNING & ZONING|HEAD OF PLANNING & ZONING|M44|125,000|131,250|5%|
+
+
+
+2
+
+<!-- page 34 -->
+|Position<br>Department|Job Title|Grade<br>202|5 Annual Salary<br>Ado|pted FY26 Salary<br>%Increase|
+|---|---|---|---|---|
+|100121 PLANNING & ZONING|PLANNER LAND DEVELOPMENT|M36|53,559|56,238<br>5%|
+|100129 PLANNING & ZONING|GIS SPECIALIST|M38|76,755|76,171<br>-1%|
+|100510 PLANNING & ZONING|ZONING TECHNITION|M34|48,861|51,304<br>5%|
+|100127 PLANNING & ZONING|PRES/DEV REVIEW PLANNER|M36|56,000|60,293<br>8%|
+|100133 PLANNING & ZONING|BUILDING INSPECTOR|M36|52,979|55,628<br>5%|
+|100128 PLANNING & ZONING|NUISANCE CODE ENFORCE OFFICER|M34|54,000|56,700<br>5%|
+|100134 GENERAL SERVICES|SR FACILITIES MAINENANCE TECH|M35|46,567|48,897<br>5%|
+|100138 GENERAL SERVICES|LEAD FACILITIES MAINTTECH|M36|55,460|58,234<br>5%|
+|100139 GENERAL SERVICES|GENERAL SERVICES SUPERVISOR|M40|77,174|81,034<br>5%|
+|100140 GENERALSERVICES|DEPARTMENTASSISTANT|M32|48,038|50,440<br>5%|
+|100766 GENERAL SERVICES|LEAD FACILITIES MAINTTECH|M36|49,306|51,773<br>5%|
+|100079 INFORMATION TECHNOLOGY|PRINCIPLE SYSTEMS ADMINISTR|M38|83,364|87,533<br>5%|
+|100080 INFORMATION TECHNOLOGY|PRINCIPLE NETWORK ENGINEER|M38|63,745|71,395<br>12%|
+|100084 INFORMATION TECHNOLOGY|SR NETWORK SPECIALIST|M37|57,199|64,063<br>12%|
+|100085 INFORMATION TECHNOLOGY|PRINCIPLE SYSTEMS ADMINISTR|M38|65,082|72,892<br>12%|
+|100082 INFORMATION TECHNOLOGY|HEAD OF INFO TECHNOLOGY|M44|110,478|120,421<br>9%|
+|100083 INFORMATION TECHNOLOGY|DEPUTY DIRECTOR IT|M41|83,537|91,055<br>9%|
+|101008 LIQUOR/LICENSE BOARD|LICENSE BOARD MEMBER||4,000|4,000<br>0%|
+|100506 LIQUOR/LICENSE BOARD|LICENSE BOARD ATTORNEY||10,000|10,000<br>0%|
+|100500 LIQUOR/LICENSE BOARD|CHIEF ALCOHOL LICENSE INSPECT|M38|68,545|71,973<br>5%|
+|100505 LIQUOR/LICENSE BOARD|LICENSE BOARD MEMBER||4,000|4,000<br>0%|
+|100503 LIQUOR/LICENSE BOARD|LICENSE BOARD MEMBER||4,000|4,000<br>0%|
+|100504 LIQUOR/LICENSE BOARD|LICENSE BOARD CHAIRMAN||5,000|5,000<br>0%|
+|100499 LIQUOR/LICENSE BOARD|ALCOHOL LICENSE INSP PT|16|18,867|19,812<br>5%|
+|100502 LIQUOR/LICENSE BOARD|LICENSE BOARD MEMBER||4,000|4,000<br>0%|
+|100501 LIQUOR/LICENSE BOARD|DEPARTMENT COORDINATOR|M35|53,000|55,650<br>5%|
+|100357 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608<br>3%|
+|100979 CORRECTIONS|CORRECTIONS MAINTENANCETECHN|M35|45,000|47,250<br>5%|
+|100415 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608<br>3%|
+|100426 CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|53,625|57,948<br>8%|
+|100410 CORRECTIONS|CORRECTIONAL OFCR /CAPTAIN|CAPT|87,868|94,951<br>8%|
+|100393 CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|55,792|60,288<br>8%|
+|100344 CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|53,625|57,948<br>8%|
+|100406 CORRECTIONS|CORRECTIONS MAINTENANCETECHN|M35|48,657|51,091<br>5%|
+|100331 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608<br>3%|
+|100443 CORRECTIONS|CORRECTIONAL OFFICER I|COl|45,000|46,350<br>3%|
+|100416 CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|56,908|61,494<br>8%|
+|100482 CORRECTIONS|CORRECTIONAL OFFICER I|COl|45,000|46,350<br>3%|
+|100390 CORRECTIONS|CORR MAINT SUPPLY TECH|M35|46,954|49,303<br>5%|
+|100432 CORRECTIONS|CORRECTIONAL OFCR/ SERGEANT|SGT|63,712|68,848<br>8%|
+
+
+
+3
+
+<!-- page 35 -->
+|Position<br>Department|Job Title|Grade<br>202|5 Annual Salary<br>Adop|ted FY26 Salary|% Increase|
+|---|---|---|---|---|---|
+|100308 CORRECTIONS|CORRECTIONAL OFCR/ SERGEANT|SGT|67,612|73,061|8%|
+|100346 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100464 CORRECTIONS|CORRECTIONAL OFFICER Il|COIl|49,134|50,608|3%|
+|100484 CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|62,812|68,523|9%|
+|100386 CORRECTIONS|CORRECTIONS ASSISTANT|M32|35,730|37,517|5%|
+|100480 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100325 CORRECTIONS|CLASSIFICATION COUNSELOR|M34|47,500|49,875|5%|
+|100321 CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|60,983|66,526|9%|
+|100425 CORRECTIONS|RECORDS ASSISTANT|M32|35,644|37,427|5%|
+|100323 CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|53,625|57,948|8%|
+|100481 CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|53,625|57,948|8%|
+|100365 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100311 CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|64,697|66,638|3%|
+|100367 CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|53,625|57,948|8%|
+|100439 CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|53,625|57,948|8%|
+|100334 CORRECTIONS|RECORDS ASSISTANT|M32|35,644|37,427|5%|
+|100456 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100335 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100338 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100383 CORRECTIONS|CORRECTIONAL OFFICER LT|LIEU|72,632|78,486|8%|
+|100466 CORRECTIONS|CORRECTIONAL OFCR/ SERGEANT|SGT|63,712|68,848|8%|
+|100441 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100455 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100300 CORRECTIONS|CORRECTIONAL OFFICER LT|LIEU|75,566|81,657|8%|
+|100318 CORRECTIONS|CORRECTIONAL OFFICER LT|LIEU|87,627|90,256|3%|
+|100322 CORRECTIONS|SUPER DEPARTMENT ACCOUNTING|M38|62,956|66,105|5%|
+|100404 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100391 CORRECTIONS|RECORDS ASSISTANT|M32|37,967|39,867|5%|
+|100306 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100305 CORRECTIONS|CORRECTIONAL OFCR/ SERGEANT|SGT|70,343|76,738|9%|
+|100400 CORRECTIONS|CORRECTIONAL OFCR/ SERGEANT|SGT|63,712|68,848|8%|
+|100341 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100351 CORRECTIONS|CORRECTIONAL OFCR/ MAJOR|MJR|98,206|106,121|8%|
+|100395 CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|55,792|60,288|8%|
+|100487 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100476 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100442 CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|64,697|66,638|3%|
+|100401 CORRECTIONS|MAIL CLERK|M31|32,461|34,085|5%|
+|100471 CORRECTIONS|DEPTACCOUNTING ASSISTANT|M33|37,063|38,917|5%|
+|100312 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+
+
+
+4
+
+<!-- page 36 -->
+|Position<br>Department|Job Title|Grade<br>202|5 Annual Salary|Adopted FY26 Salary|% Increase|
+|---|---|---|---|---|---|
+|100438<br>CORRECTIONS|MAIL CLERK|M31|33,600|35,280|5%|
+|100389<br>CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100358<br>CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100374<br>CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100414<br>CORRECTIONS|SENIOR DEPARTMENTASSISTANT|M34|56,986|59,836|5%|
+|100457<br>CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|62,812|68,523|9%|
+|100397<br>CORRECTIONS|CORRECTIONAL OFFICER I|COI|45,000|46,350|3%|
+|100299<br>CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|64,697|66,638|3%|
+|100468<br>CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|55,792|60,288|8%|
+|100385<br>CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100435<br>CORRECTIONS|DEPUTY DIRECTOR CORRECTIONS|DPTY|111,955|120,978|8%|
+|100328<br>CORRECTIONS|SUPERVISOR RECORDS|M36|49,717|52,204|5%|
+|100348<br>CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|53,625|57,948|8%|
+|100450<br>CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|64,697|66,638|3%|
+|100449<br>CORRECTIONS|CORRECTIONAL OFFICER U|COIl|49,134|50,608|3%|
+|100488<br>CORRECTIONS|CLASSIFICATION COUNSELOR|M34|59,666|62,650|5%|
+|100447<br>CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100315<br>CORRECTIONS|RECORDS ASSISTANT|M32|35,644|37,427|5%|
+|100392<br>CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|53,625|57,948|8%|
+|100372<br>CORRECTIONS|COMMUNITY CLERK I|M32|35,361|37,130|5%|
+|100440<br>CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100370<br>CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|64,697|66,638|3%|
+|100490<br>CORRECTIONS|DEPUTY DIRECTOR CORRECTIONS|DPTY|122,371|133,496|9%|
+|100364<br>CORRECTIONS|COMMUNITY CORRECTIONAL OFFICER|M34|46,581|48,911|5%|
+|100430<br>CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100343<br>CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|53,625|57,948|8%|
+|100380<br>CORRECTIONS|CORRECTIONS ASSISTANT|M32|48,004|50,405|5%|
+|100402<br>CORRECTIONS|QUARTERMASTER|M34|56,986|59,836|5%|
+|100408<br>CORRECTIONS|CORRECTIONAL OFFICER I|COl|45,000|46,350|3%|
+|100330<br>CORRECTIONS|DEPT PURCHASING ASSISTANT|M33|38,757|40,696|5%|
+|100412<br>CORRECTIONS|CORRECTIONS MAINTENANCE TECHN|M35|44,854|47,098|5%|
+|100417<br>CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|64,697|66,638|3%|
+|100409<br>CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|53,625|57,948|8%|
+|100316<br>CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100360<br>CORRECTIONS|CUSTODIAL/MAINT TECHNICIAN|M31|38,919|40,866|5%|
+|100463<br>CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100418<br>CORRECTIONS|SUPER CLASSIFICATION|LIEU|76,866|90,256|17%|
+|100309<br>CORRECTIONS|CORRECTIONAL OFCR/ SERGEANT|SGT|70,343|76,738|9%|
+|100363<br>CORRECTIONS|CORRECTIONAL OFFICER I|COI|45,000|46,350|3%|
+|100394<br>CORRECTIONS|CORRECTIONAL OFFICER LT|LIEU|72,632|78,486|8%|
+
+
+
+5
+
+<!-- page 37 -->
+|Position<br>Department|Job Title|Grade<br>202|5 Annual Salary<br>Ado|pted FY26 Salary<br>%|Increase|
+|---|---|---|---|---|---|
+|100304 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100320 CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|64,697|66,638|3%|
+|100362 CORRECTIONS|MGR COMMUNITY CORRECTIONS|LIEU|75,566|81,657|8%|
+|100378 CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|53,625|57,g48|8%|
+|100356 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100353 CORRECTIONS|COMMUNITY CORRECTIONAL OFFICER|M34|51,036|53,589|5%|
+|100361 CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|55,792|60,288|8%|
+|100340 CORRECTIONS|CORRECTIONAL OFCR/ SERGEANT|SGT|63,712|68,848|8%|
+|100470 CORRECTIONS|SUPER CORRECTIONS MAINTENANCE|M38|59,546|62,524|5%|
+|100451 CORRECTIONS|CORRECTIONAL OFCR/SERGEANT|SGT|63,712|68,848|8%|
+|100303 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100366 CORRECTIONS|CORRECTIONAL OFFICER I|COI|45,000|46,350|3%|
+|100317 CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|53,625|57,948|8%|
+|100368 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100313 CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|64,697|70,343|9%|
+|100419 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|S0,608|3%|
+|100405 CORRECTIONS|SUPER TRAINING STANDARDS|SGT|67,612|73,061|8%|
+|100437 CORRECTIONS|CORRECTIONAL OFCR/ SERGEANT|SGT|76,866|79,172|3%|
+|100454 CORRECTIONS|CORRECTIONAL OFCR/ SERGEANT|SGT|66,286|71,629|8%|
+|100396 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100354 CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|53,625|57,948|8%|
+|100477 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100310 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100301 CORRECTIONS|CLASSIFICATION COUNSELOR|M34|50,306|52,823|5%|
+|100483 CORRECTIONS|CORRECTIONAL OFCR/ SERGEANT|SGT|67,612|73,061|8%|
+|100337 CORRECTIONS|HEAD OF CORRECTIONS|HEAD|131,323|136,550|4%|
+|100761 CORRECTIONS|CORRECTIONS MAINTENANCE TECHN|M35|50,104|52,611|5%|
+|100333 CORRECTIONS|CORRECTIONAL OFFICER I|COl|45,000|46,350|3%|
+|100413 CORRECTIONS|CORRECTIONAL OFFICER I|COI|59,207|46,350|-22%|
+|100329 CORRECTIONS|CORRECTIONAL OFFICER I|COI|45,000|46,350|3%|
+|100347 CORRECTIONS|CORRECTIONAL OFFICER I|COl|45,000|46,350|3%|
+|100339 CORRECTIONS|CORRECTIONAL OFFICER I|COI|45,000|46,350|3%|
+|100314 CORRECTIONS|CORRECTIONAL OFFICER I|COl|49,134|46,350|-6%|
+|100429 CORRECTIONS|CORRECTIONAL OFFICER I|COl|46,134|46,350|0%|
+|100474 CORRECTIONS|CORRECTIONAL OFFICER I|COI|45,000|46,350|3%|
+|100479 CORRECTIONS|CORRECTIONAL OFFICER I|COl|45,000|46,350|3%|
+|100469 CORRECTIONS|CORRECTIONAL OFFICER I|COI|45,000|46,350|3%|
+|100376 CORRECTIONS|CORRECTIONAL OFFICER I|COl|45,000|46,350|3%|
+|100384 CORRECTIONS|CORRECTIONAL OFFICER I|COl|45,000|46,350|3%|
+|100319 CORRECTIONS|CORRECTIONAL OFFICER I|COI|33,750|46,350|37%|
+
+
+
+6
+
+<!-- page 38 -->
+|Position<br>Department|JobTitle|Grade<br>202|5 Annual Salary<br>Adop|ted FY 26 Salary|% Increase|
+|---|---|---|---|---|---|
+|100453 CORRECTIONS|CORRECTIONAL OFFICER I|COl|45,000|46,350|3%|
+|100382 CORRECTIONS|CORRECTIONAL OFFICER I|COl|22,500|-|-100%|
+|100420 CORRECTIONS|CORRECTIONAL OFFICER I|COP|33,750|46,350|37%|
+|100478 CORRECTIONS|CORRECTIONAL OFFICER I|COP|22,500|46,350|106%|
+|100459 CORRECTIONS|CORRECTIONAL OFFICER<br>I|COP|45,000|-|-100%|
+|100422 CORRECTIONS|CORRECTIONAL OFFICER <sup>I</sup>|COP|45,000|46,350|3%|
+|100465 CORRECTIONS|CORRECTIONAL OFFICER <sup>I</sup>|COP|33,750|46,350|37%|
+|100326 CORRECTIONS|CORRECTIONAL OFFICER I|COP|33,750|46,350|37%|
+|100428 CORRECTIONS|CORRECTIONAL OFFICER I|COP|22,500|46,350|106%|
+|100448 CORRECTIONS|CORRECTIONAL OFFICER I|COP|22,500|46,350|106%|
+|100444 CORRECTIONS|CORRECTIONAL OFFICER <sup>I</sup>|COP|45,000|46,350|3%|
+|100369 CORRECTIONS|CORRECTIONAL OFFICER I|COP|33,750|46,350|37%|
+|100424 CORRECTIONS|CORRECTIONAL OFFICER I|CCI|22,500|46,350|106%|
+|10048 CORRECTIONS|CORRECTIONAL OFFICER I|COP|22,500|46,350|106%|
+|100431 CORRECTIONS|CORRECTIONAL OFFICER <sup>I</sup>|COP|33,750|46,350|37%|
+|100462 CORRECTIONS|CORRECTIONAL OFFICER I|COP|22,500|46,350|106%|
+|100327 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100399 CORRECTIONS|DEPARTMENT ASSISTANT|M32|50,819|53,360|5%|
+|100491 CORRECTIONS|CLASSIFICATION COUNSELOR|M34|49,763|52,252|5%|
+|100307 CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|53,625|57,948|8%|
+|100324 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100345 CORRECTIONS|CORRECTIONAL OFCR /CAPTAIN|CAPT|82,800|89,474|8%|
+|100486 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100350 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100423 CORRECTIONS|DEPT ACCOUNTING ASSISTANT|M33|51,866|54,460|5%|
+|100387 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100302 CORRECTIONS|INMATE ACCOUNTS CLERK|M32|34,653|36,387|5%|
+|100472 CORRECTIONS|CLASSIFICATION COUNSELOR|M34|49,321|51,788|5%|
+|100398 CORRECTIONS|MASTER CORRECTIONAL OFFICER|MCO|56,908|61,494|8%|
+|100375 CORRECTIONS|CORRECTIONAL OFFICER II|COIl|49,134|50,608|3%|
+|100279 EMERGENCY SERVICES|911 SPECIALIST IV SHIFT SUPER|M37|55,752|58,752|5%|
+|100999 EMERGENCY SERVICES|PART-TIME 911 SPECIALIST||19,OSO|20,836|9%|
+|100268 EMERGENCY SERVICES|911 SPECIALIST Ill ASSIST SUP|M36|50,715|53,715|6%|
+|100269 EMERGENCY SERVICES|911 SPECIALIST Ill ASSISTSUP|M36|50,715|53,715|6%|
+|100274 EMERGENCY SERVICES|911 SPECIALIST II|M34|44,427|47,427|7%|
+|100276 EMERGENCY SERVICES|911 SPECIALIST IV SHIFT SUPER|M37|57,603|60,603|5%|
+|100280 EMERGENCYSERVICES|911 SPCL CF COMM SUPER|M39|68,561|74,836|9%|
+|100296 EMERGENCY SERVICES|911 SPECIALIST I|M34|46,136|49,136|7%|
+|100286 EMERGENCYSERVICES|HEAD OF EMERGENCY SVCS|M44|103,621|112,947|9%|
+|100275 EMERGENCY SERVICES|DATA SERVICES TECHNICIAN|M37|76,749|80,587|5%|
+
+
+
+7
+
+<!-- page 39 -->
+|Position<br>Department|Job Title|Grade<br>2025|Annual Salary|Adopted FY26 Salary|% Increase|
+|---|---|---|---|---|---|
+|100284 EMERGENCY SERVICES|911 TRAINING COORDINATOR|M36|58,959|61,908|5%|
+|100273 EMERGENCY SERVICES|RADIO COMMUNICATION ELECTTECH|M34|56,206|58,126|3%|
+|101006 EMERGENCY SERVICES|911 SPECIALIST<br>I|M34|41,900|50,427|20%|
+|100281 EMERGENCY SERVICES|EMERGE MGMT SAFETY SPECIALIST|M37|67,309|70,676|5%|
+|100972 EMERGENCY SERVICES|911 SPECIALIST I|M34|41,900|44,900|7%|
+|100277 EMERGENCY SERVICES|911 SPECIALIST I|M34|41,900|44,900|7%|
+|100285 EMERGENCY SERVICES|DEPUTY DIRECTOR EMERGENCY SVCS|M41|79,357|86,499|9%|
+|100270 EMERGENCY SERVICES|911 SPECIALIST I|M34|41,900|50,427|20%|
+|100272 EMERGENCY SERVICES|911 SPECIALIST II|M34|46,136|49,136|7%|
+|100290 EMERGENCYSERVICES|PT EMS TECHNICIAN||19,843|20,836|5%|
+|100282 EMERGENCY SERVICES|911 SPECIALIST III ASSIST SUP|M36|50,715|53,715|6%|
+|101000 EMERGENCY SERVICES|PART-TIME 911 SPECIALIST||19,050|20,836|9%|
+|100795 EMERGENCY SERVICES|LEAD RADIO SYS TECH|M39|67,773|71,163|5%|
+|100295 EMERGENCY SERVICES|HAZARD MATERIAL COORDINATOR|M37|55,125|57,882|5%|
+|101007 EMERGENCY SERVICES|911 SPECIALIST 1|M34|41,900|50,427|20%|
+|100283 EMERGENCYSERVICES|MANAGER RADIO SYSTEM|M39|89,006|93,457|5%|
+|100287 EMERGENCY SERVICES|RADIO COMM ELECTRONIC SPECIALI|M38|60,900|63,945|5%|
+|100294 EMERGENCY SERVICES|911 SPECIALIST III ASSIST SUP|M36|61,440|64,440|5%|
+|101005 EMERGENCY SERVICES|PART-TIME 911 SPECIALIST||19,050|20,836|9%|
+|100297 EMERGENCY SERVICES|SR EMERGENCY MANAGEMENT PLANNE|M37|61,605|64,687|5%|
+|100288 EMERGENCY SERVICES|911 SPECIALIST I|M35|47,039|44,900|-5%|
+|100271 EMERGENCY SERVICES|911 SPECIALIST I|M34|41,900|44,900|7%|
+|100289 EMERGENCY SERVICES|DEPARTMENTASSISTANT|M32|48,038|50,440|5%|
+|100292 EMERGENCY SERVICES|911 SPECIALIST IV SHIFT SUPER|M37|57,579|60,579|5%|
+|100278 EMERGENCY SERVICES|911 SPECIALIST IV SHIFT SUPER|M37|57,603|60,603|5%|
+|100778 PUBLIC WORKS|EXECUTIVE DIRECTOR OF ENVIRONMENTAL HEALTH|M44|128,319|134,736|5%|
+|100600 PUBLIC WORKS|PRINCIPLE CIVIL ENGINEER|M39|78,578|82,S08|5%|
+|100963 PUBLIC WORKS|DEPARTMENT ASSISTANT|M32|41,493|43,568|5%|
+|100509 PUBLIC WORKS|MANAGER CIVIL ENGINEER|M41|105,525|110,802|5%|
+|100507 PUBLIC WORKS|ENGINEERING INSPECTOR|M36|53,734|56,422|5%|
+|100516 PUBLIC WORKS|DEPUTY DIRECTOR PUBLIC WORKS|M44|144,900|152,145|5%|
+|100521 PUBLIC WORKS|DIRECTOR PUBLIC WORKS|M45|168,000|171,360|2%|
+|100633 PUBLIC WORKS|ENGINEER|M38|75,075|84,000|12%|
+|100756 MOSQUITO CONTROL|ENTOMOLOGIST|M37|65,883|69,178|5%|
+|100522 HEALTH DEPARTMENT|HEALTH OFFICER||12,094|12,094|0%|
+|100524 HEALTH DEPARTMENT|DRUG & ALCOHOL COORDINATOR||68,885|72,330|5%|
+|100142 BUILDING SECURITY|PART-TIME BUILDING SECURITY||63,557|100,000|57%|
+|100798 ROADS|ASSOCIATE EQUIPMENTOPERATOR|M32|41,127|43,184|5%|
+|100627 ROADS|FACILITY/GROUNDS WORKER|M31|32,845|34,488|5%|
+|100605 ROADS|ASSOCIATE EQUIPMENTOPERATOR|M32|36,071|37,876|5%|
+
+
+
+8
+
+<!-- page 40 -->
+|Position<br>Department|JobTitle|Grade<br>2025|Annual Salary|Adopted FY 26 Salary|% Increase|
+|---|---|---|---|---|---|
+|100645 ROADS|ASSOCIATE EQUIPMENT OPERATOR|M32|37,500|39,375|5%|
+|100603 ROADS|SR MAINTENANCE MECHANIC|M35|44,854|47,098|5%|
+|100594 ROADS|SENIOR CREW LEADER|M35|59,238|62,201|5%|
+|100619 ROADS|LEAD EQUIPMENTOPERATOR|M35|44,854|47,098|5%|
+|100599 ROADS|FACILITY/GROUNDS WORKER|M31|32,846|34,489|5%|
+|100621 ROADS|FACILITY/GROUNDS WORKER|M31|32,845|34,488|5%|
+|100623 ROADS|EQUIPMENT OPERATOR|M33|42,101|44,208|5%|
+|100618 ROADS|FACILITY/GROUNDS WORKER|M31|38,953|40,902|5%|
+|100588 ROADS|SENIOR EQUIPMANT OPERATOR|M34|44,100|46,305|5%|
+|100592 ROADS|SR DEPART FINANCE SPECIALIST|M36|57,321|60,187|5%|
+|100601 ROADS|FACILITY/GROUNDS WORKER|M31|32,845|34,488|5%|
+|100681 ROADS|LEAD EQUIPMENT OPERATOR|M35|44,854|47,098|5%|
+|100617 ROADS|FERRY OPERATOR|M34|41,000|43,050|5%|
+|100596 ROADS|FERRY OPERATOR|M34|41,000|43,050|5%|
+|100642 ROADS|LEAD EQUIPMENTOPERATOR|M35|50,961|53,510|5%|
+|100604 ROADS|SIGN MARKINGS TECHNICIAN|M31|35,000|36,750|5%|
+|100608 ROADS|LEAD EQUIPMENTOPERATOR|M35|50,961|53,510|5%|
+|100578 ROADS|FERRY OPERATOR|M34|41,000|43,050|5%|
+|100606 ROADS|ROADS SUPERINTENDENT|M41|89,250|93,713|5%|
+|100579 ROADS|SR MAINTENANCE MECHANIC|M35|62,774|65,913|5%|
+|100684 ROADS|EQUIPMENTOPERATOR|M33|37,063|38,917|5%|
+|100609 ROADS|ASSOCIATE EQUIPMENT OPERATOR|M32|36,071|37,876|5%|
+|100620 ROADS|TRAFFIC CONTROL DEVICE SPECIAL|M35|53,246|55,909|5%|
+|100626 ROADS|SR ROADS SYSTEMS ASSOCIATE|M35|48,000|50,400|5%|
+|100589 ROADS|LEAD EQUIPMENTOPERATOR|M35|48,852|51,296|5%|
+|100640 ROADS|FACILITY/GROUNDS WORKER|M31|44,335|46,553|5%|
+|100582 ROADS|FERRY OPERATOR|M34|43,000|45,150|5%|
+|100777 ROADS|EQUIPMENT OPERATOR|M33|44,100|46,305|5%|
+|100630 ROADS|ASSOCIATE EQUIPMENT OPERATOR|M32|40,734|42,772|5%|
+|100634 ROADS|ASSOCIATE EQUIPMENT OPERATOR|M32|37,500|39,375|5%|
+|100598 ROADS|DEPARTMENT ASSISTANT|M32|40,734|42,772|5%|
+|100614 ROADS|PUBLIC WORKS INSPECTOR|M35|48,698|51,133|5%|
+|100631 ROADS|SENIOR CREW LEADER|M35|56,976|59,826|5%|
+|100799 ROADS|ASSOCIATE EQUIPMENT OPERATOR|M32|41,127|43,184|5%|
+|100602 ROADS|ROADS PROJECT SPECIALIST|M35|44,854|47,098|5%|
+|100597 ROADS|FACILITY/GROUNDS WORKER|M31|32,845|34,488|5%|
+|100611 ROADS|FACILITY/GROUNDS WORKER|M31|38,840|40,783|5%|
+|100639 ROADS|SUPERVISOR OF OPERATIONS|M37|64,380|67,600|5%|
+|100636 ROADS|CREW LEADER|M33|41,331|43,398|5%|
+|100593 ROADS|LEAD EQUIPMENT OPERATOR|M35|46,055|48,359|5%|
+
+
+
+9
+
+<!-- page 41 -->
+|Position<br>Department|JobTitle|Grade<br>202|5 Annual Salary<br>Adopt|ed FY26 Salary<br>%|Increase|
+|---|---|---|---|---|---|
+|100632 ROADS|SUPERVISOR SHOP|M37|77,866|81,760|5%|
+|100590 ROADS|SENIOR EQUIPMANT OPERATOR|M34|40,348|49,847|24%|
+|100595 ROADS|EQUIPMENT OPERATOR|M33|43,986|45,306|3%|
+|100583 ROADS|MAINTENANCE MECHANIC|M33|41,671|45,306|9%|
+|100591 ROADS|ASSOCIATE EQUIPMENT OPERATOR|M32|41,127|41,956|2%|
+|100644 ROADS|LEAD EQUIPMENT OPERATOR|M35|44,854|54,843|22%|
+|100580 ROADS|MASON BRICKLAYER|M35|47,676|50,060|5%|
+|100612 ROADS|FACILITY/GROUNDS WORKER|M31|38,840|40,006|3%|
+|100704 SOLID WASTE|SR MAINTENANCE MECHANIC|M35|62,774|65,913|5%|
+|100613 SOLID WASTE|RECYCLING COORDINATOR|M35|49,525|52,002|5%|
+|100742 SOLID WASTE|CONVENIENCE CENTER OPERATORS|M31|32,846|34,489|5%|
+|100725 SOLID WASTE|CONVENIENCE CENTER OPERATORS|M31|35,932|37,729|5%|
+|100708 SOLID WASTE|SENIOR CREW LEADER|M35|53,246|55,909|5%|
+|100723 SOLID WASTE|CONVENIENCE CENTER OPERATORS|M31|35,932|37,729|5%|
+|100517 SOLID WASTE|SUPERVISOR CONVENIENCE CENTER|M37|59,761|62,750|5%|
+|100687 SOLID WASTE|MAINTENANCE MECHANIC|M33|52,941|55,589|5%|
+|100794 SOLID WASTE|ASSOCIATE EQUIPMENTOPERATOR|M32|36,071|37,876|5%|
+|100698 SOLID WASTE|SENIOR CREW LEADER|M35|44,854|47,098||
+|100625 SOLID WASTE|LEAD EQUIPMENT OPERATOR|M35|44,854|47,098|5%|
+|100733 SOLID WASTE|BRUSH PILE ATTENDANT|M31|37,473|39,348|5%|
+|100701 SOLID WASTE|SCALE OPERATOR|M32|37,982|39,882|5%|
+|100719 SOLID WASTE|CONVENIENCE CENTER OPERATORS|M31|37,473|39,348|5%|
+|100710 SOLID WASTE|ASSOCIATE EQUIPMENTOPERATOR|M32|34,944|36,692|5%|
+|100793 SOLID WASTE|SCALE OPERATOR|M32|39,168|41,128|5%|
+|100727 SOLID WASTE|CONVENIENCE CENTER OPERATORS|M31|35,932|37,729|5%|
+|100720 SOLID WASTE|CONVENIENCE CENTER OPERATORS|M31|33,852|35,546|5%|
+|100713 SOLID WASTE|ASSOCIATE EQUIPMENT OPERATOR|M32|34,944|36,692|5%|
+|100694 SOLID WASTE|SENIOR CREW LEADER|M35|61,248|64,311|5%|
+|100779 SOLID WASTE|SUPER DEPARTMENT ACCOUNTING|M35|63,441|66,613|5%|
+|100699 SOLID WASTE|CREW LEADER|M33|44,100|46,305|5%|
+|100889 SOLID WASTE|DEPARTMENTASSISTANT|M32|35,218|41,949|19%|
+|100716 SOLID WASTE|MAINTENANCE MECHANIC|M33|44,409|46,631|5%|
+|100722 SOLID WASTE|CONVENIENCE CENTER OPERATORS|M31|35,932|37,729|5%|
+|100702 SOLID WASTE|DEPARTMENTASSISTANT|M32|53,545|56,223|5%|
+|100741 SOLID WASTE|BRUSH PILE ATTENDANT|M31|35,000|36,750|5%|
+|100717 SOLID WASTE|CONVENIENCE CENTER OPERATORS|M31|32,845|34,488|5%|
+|100731 SOLID WASTE|CONVENIENCE CENTER OPERATORS|M31|35,289|37,054|5%|
+|100693 SOLID WASTE|LEAD EQUIPMENTOPERATOR|M35|44,854|47,098|5%|
+|100711 SOLID WASTE|CREW LEADER|M33|43,986|46,186|5%|
+|100709 SOLID WASTE|ASSOCIATE EQUIPMENT OPERATOR|M32|40,000|42,000|5%|
+
+
+
+10
+
+<!-- page 42 -->
+|Position<br>Department|JobTitle|2025<br>Grade|Annual Salary<br>Adop|ted FY26 Salary|% Increase|
+|---|---|---|---|---|---|
+|100737 SOLID WASTE|CONVENIENCE CENTER OPERATORS|M31|35,932|37,729|5%|
+|100700 SOLID WASTE|SENIOR DEPARTMENT ASSISTANT|M34|44,997|47,247|5%|
+|100682 SOLID WASTE|LEAD EQUIPMENT OPERATOR|M35|50,961|53,510|5%|
+|100890 SOLID WASTE|FACILITY/GROUNDS WORKER|M31|44,154|46,363|5%|
+|100688 SOLID WASTE|ASSOCIATE EQUIPMENT OPERATOR|M32|35,501|37,278|5%|
+|100683 SOLID WASTE|EQUIPMENTOPERATOR|M33|44,409|46,631|5%|
+|100782 SOLID WASTE|FLEET COORDINATOR|M34|42,630|44,762|5%|
+|100697 SOLID WASTE|LEAD EQUIPMENT OPERATOR|M35|44,427|46,649|5%|
+|100726 SOLID WASTE|CONVENIENCE CENTER OPERATORS|M31|35,932|37,729|5%|
+|100715 SOLID WASTE|SUPERVISOR OF OPERATIONS|M37|54,204|56,915|5%|
+|100707 SOLID WASTE|SCALE OPERATOR|M32|38,796|40,736|5%|
+|100703 SOLID WASTE|EQUIPMENT OPERATOR|M33|41,961|45,306|8%|
+|100712 SOLID WASTE|ASSOCIATE EQUIPMENT OPERATOR|M32|40,000|41,956|5%|
+|100685 SOLID WASTE|FACILITY/GROUNDS WORKER|M31|33,852|35,545|5%|
+|100714 SOLID WASTE|SUPINTENDENT WASTE DISPOSAL|M39|65,445|80,164|22%|
+|100705 SOLID WASTE|ASSOCIATE EQUIPMENT OPERATOR|M32|40,734|41,956|3%|
+|100728 SOLID WASTE|ENVIORNMENTAL COMPLIANCE TECHNICIAN|M40|85,658|88,226|3%|
+|100721 SOLID WASTE|CONVENIENCE CENTER OPERATORS|M31|32,845|34,488|5%|
+|100730 SOLID WASTE|CONVENIENCE CENTER OPERATORS|M31|32,845|34,488|5%|
+|100689 SOLID WASTE|EQUIPMENTOPERATOR|M33|37,063|38,917|5%|
+|101015 AIRPORT|AIRPORT OPSTECH & FIREFIGHTER|M35|48,300|50,715|5%|
+|100967 AIRPORT|AIRPORTTRUSTED AGENT|M34|40,736|42,773|5%|
+|100876 AIRPORT|CH1EF ARFF|M38|68,775|72,215|5%|
+|100673 AIRPORT|ARFF & AlPORT OPERATIONS|M35|48,300|50,715|5%|
+|100670 AIRPORT|DEPUTY DIRECTOR AIRPORT|M40|90,300|94,815|5%|
+|100671 AIRPORT|MAINTENANCE MECHANIC|M33|42,776|44,916|5%|
+|100970 AIRPORT|SUPERVISOR AIRPORT MAINTENANCE|M38|58,978|61,928|5%|
+|100672 AIRPORT|SUPER ASSIST OPS & MAIN|M37|53,687|56,372|5%|
+|100964 AIRPORT|AIRPORT OPS TECH & FIREFIGHTER|M35|48,300|50,715|5%|
+|100966 AIRPORT|SR DEPART FINANCE SPECIALIST|M36|54,026|56,728|5%|
+|100971 AIRPORT|AIRPORT RECORDS ASSISTANT|M35|47,477|49,852|5%|
+|100669 AIRPORT|DIRECTOR OF AVIATION|M44|119,787|130,000|9%|
+|100965 AIRPORT|AIRPORT OPSTECH & FIREFIGHTER|M35|46,000|48,300|5%|
+|100747 ELECTRICAL BOARD|DEPARTMENTASSISTANT|M32|37,527|39,404|5%|
+|100574 LOCAL MANGEMENT BOARD|DEPARTMENT ASSISTANT||43,000|45,150|5%|
+|100572 LOCAL MANGEMENT BOARD|COMMUNITY PROGRAM COORDINATOR||55,650|56,763|2%|
+|100571 LOCAL MANGEMENT BOARD|LOCAL CARE TEAM COORDINATOR||26,383|27,703|5%|
+|100570 LOCAL MANGEMENT BOARD|HEAD OF LOCAL MGMT BOARD|M42|90,000|94,500|5%|
+|101017 LOCAL MANGEMENT BOARD|POLICE ACCOUNTABILITY BRD COOR/COMM OUTREACH||59,999|62,098|3%|
+|100573 LOCAL MANGEMENT BOARD|GRANT COORDINATOR||60,000|60,000|0%|
+
+
+
+11
+
+<!-- page 43 -->
+|Position<br>Department|JobTitle|Grade<br>2025|Annual Salary|Adopted FY26Salary|% Increase|
+|---|---|---|---|---|---|
+|100566<br>LOCAL MANGEMENT BOARD|PROGRAM COORDINATOR||55,000|55,000|0%|
+|100552 RECREATION|CREW LEADER|M33|36,173|37,983|5%|
+|100527 RECREATION|FACILITY/GROUNDS WORKER|M31|36,982|38,832|5%|
+|100542 RECREATION|EQUIPMENT OPERATOR|M33|43,986|46,186|5%|
+|100538 RECREATION|RECREATION PROGRAM SPECIALIST|M34|47,915|50,312|5%|
+|100547 RECREATION|SUPERVISOR MACHINE MAINTENANCE|M35|56,380|59,200|5%|
+|100553 RECREATION|SENIOR DEPARTMENT COORDINATOR|M36|53,180|55,840|5%|
+|100530 RECREATION|SENIOR FACILITIES MAINTENANCETECH|M35|44,500|46,725|5%|
+|101004 RECREATION|FACILITY/GROUNDS WORKER|M31|35,175|36,935|5%|
+|100529 RECREATION|SR MAINTENANCE MECHANIC|M35|54,844|57,587|5%|
+|100535 RECREATION|SR DEPART FINANCE SPECIALIST|M36|64,001|67,203|5%|
+|100549 RECREATION|CREW LEADER|M33|48,841|51,284|5%|
+|100536 RECREATION|DEPARTMENT ASSISTANT|M32|46,795|49,135|5%|
+|100548 RECREATION|RECREATION PROGRAM SPECIALIST|M34|43,500|45,675|5%|
+|100534 RECREATION|SUPERINTENDENT RECREATIONS|M41|78,601|82,533|5%|
+|100551 RECREATION|BOX OFFICE COORDINATOR|M35|47,303|49,670|5%|
+|100537 RECREATION|RECREATION PROGRAM SPECIALIST|M34|50,085|52,590|5%|
+|100550 RECREATION|MANAGER ATHLETIC COMPLEX|M38|60,500|63,525|5%|
+|100540 RECREATION|HEAD OF REC PARKS & TOURISM|M45|130,838|137,381|5%|
+|100544 RECREATION|SENIOR FACILITIES MAINTENANCETECH|M35|47,250|49,613|5%|
+|100526 RECREATION|FACILITY/GROUNDS WORKER|M31|36,737|38,575|5%|
+|100531 RECREATION|DEPARTMENT ASSISTANT|M32|42,150|44,258|5%|
+|100539 RECREATION|SUPERINTENDENT PARKS|M41|93,121|97,778|5%|
+|100543 RECREATION|FACILITY/GROUNDS WORKER|M31|33,594|35,274|5%|
+|101019 RECREATION|SENIOR FACILITIES MAINTENANCE TECH|M35|47,250|49,613|5%|
+|100525 RECREATION|DEPUTY DIR REC PKS & TOURISM|M43|98,263|103,177|5%|
+|100554 RECREATION|DEPUTY DIR REC PKS & TOURISM|M43|105,933|111,230|5%|
+|100546 RECREATION|SUP PARK FACILITIES MAINTENANC|M37|59,154|62,113|5%|
+|101018 RECREATION|DEPUTY DIR REC PKS & TOURISM|M43|97,000|101,850|5%|
+|100541 RECREATION|CREW LEADER|M33|58,813|61,754|5%|
+|100545 RECREATION|SENIOR PARKS SPECIALIST|M38|61,000|68,000|11%|
+|100532 RECREATION|FACILITY/GROUNDS WORKER|M31|35,000|36,750|5%|
+|100771 RECREATION|CREW LEADER|M33|44,409|45,306|2%|
+|100533 RECREATION|CREW LEADER|M33|37,982|45,306|19%|
+|100528 RECREATION|SENIOR FACILITIES MAINTENANCETECH|M35|45,150|47,408|5%|
+|101020 RECREATION|SENIOR RECREATION SPECIALIST|M38|69,119|72,576|5%|
+|100764 YOUTH & CIVIC CENTER|SENIOR DEPARTMENT ASSISTANT|M34|42,437|44,560|5%|
+|100657 YOUTH & CIVIC CENTER|FACILITY/GROUNDS WORKER|M31|36,750|38,588|5%|
+|100667 YOUTH & CIVIC CENTER|AUDIO/VISUALTECHNICIAN|M33|40,321|42,338|5%|
+|100892 YOUTH & CIVIC CENTER|SENIOR DEPARTMENT ASSISTANT|M34|40,736|42,774|5%|
+
+
+
+12
+
+<!-- page 44 -->
+|Position<br>Department|Job Title|Grade<br>2025|Annual Salary<br>Adopted FY 26 Salary|% Increase|
+|---|---|---|---|---|
+|100666 YOUTH & CIVIC CENTER|CREW LEADER|M33|39,690<br>41,675|5%|
+|100665 YOUTH & CIVIC CENTER|FINANCE OFFICER|M36|49,651<br>52,135|5%|
+|100649 YOUTH & CIVIC CENTER|EVENTS MANAGER|M37|71,187<br>74,747|5%|
+|100664 YOUTH & CIVIC CENTER|EVENTS COORDINATOR|M35|44,854<br>47,098|5%|
+|100656 YOUTH & CIVIC CENTER|EXECUTIVE CHEF|M39|78,578<br>82,508|5%|
+|100659 YOUTH & CIVIC CENTER|MANAGER CIVIC CENTER|M41|79,357<br>91,000|15%|
+|100650 YOUTH & CIVIC CENTER|FACILITY/GROUNDS WORKER|M31|38,325<br>40,242|5%|
+|100647 YOUTH & CIVIC CENTER|FACILITY/GROUNDS WORKER|M31|38,325<br>40,242|5%|
+|100783 YOUTH & CIVIC CENTER|SUPERVISOR MARKETING|M37|54,203<br>56,915|5%|
+|100660 YOUTH & CIVIC CENTER|SR FOOD & BEVERAGE OPS SPECIAL|M36|59,101<br>62,058|5%|
+|100652 YOUTH & CIVIC CENTER|SUPER FACILITIES MAINTENANCE|M37|56,368<br>59,188|5%|
+|100655 YOUTH & CIVIC CENTER|SUPERVISOR CIVIC CENTER|M38|63,000<br>69,000|10%|
+|100792 YOUTH & CIVIC CENTER|MANAGER KITCHEN|M36|53,981<br>56,681|5%|
+|100141 YOUTH & CIVIC CENTER|FACILITY/GROUNDS WORKER|M31|36,750<br>38,588|5%|
+|100648 YOUTH & CIVIC CENTER|LEAD FACILITIES MAINTENANCE|M36|49,306<br>51,773|5%|
+|100653 YOUTH & CIVIC CENTER|BOX OFFICE MANAGER|M36|52,108<br>54,715|5%|
+|100661 YOUTH & CIVIC CENTER|SUPERVISOR CONCESSIONS|M36|53,467<br>56,142|5%|
+|100651 YOUTH & CIVIC CENTER|CREW LEADER|M33|40,278<br>42,293|5%|
+|100663 YOUTH & CIVIC CENTER|MGR MARKETING/PUBLIC RELATIONS|M40|79,360<br>83,329|5%|
+|100877 TOURISM|SR SPORTS MARKETING REPRESENTA|M36|49,000<br>51,450|5%|
+|100676 TOURISM|MANAGERTOURISM|M41|79,357<br>83,326|5%|
+|100680 TOURISM|SR SPORTS MARKETING REPRESENTA|M36|50,000<br>52,500|5%|
+|100679 TOURISM|SENIOR TOURISM SPECIALIST|M38|71,400<br>74,970|5%|
+|100675 TOURISM|SR MARKETING/PR SPECIALIST|M36|50,085<br>52,590|5%|
+|100677 TOURISM|EVENTS COORDINATOR|M35|44,854<br>54,843|22%|
+
+
+
+Key Positions on Proposed Changes Schedule - Title/Grade changes - amt here is with only 5% if changes aren’t made, new positions only show on proposed changes file State Position, told amount to pay Positions recommended to increase due to market conditions, Bolton review or years of service. Positions not receiving full 5% due to being at or over total grade amount. Budget Amendments Notes: Most other positions with large swings are due to the position being vacant and budgeted at midpoint. Corrections an attrition factor was considered for vacant positions 7 positions filled for full year 5 positons filled for 1/2 year 15 positions filled for a quarter of the year 
+
+13
+
+<!-- page 45 -->
+###### 2026 ADOPTED SALARY RANGES 3% 
+
+|||||MARKET R|ANGE||||
+|---|---|---|---|---|---|---|---|---|
+|GRADE|MIN|IMUM|LOW MID|MID||HIGH MID|MA|XIMUM|
+|M46|$|133,872|$ 156,241|$|167,369|$ 178,610|$|200,865|
+|M45|$|118,998|$ 138,869|$|148,746|$ 158,739|$|178,496|
+|M44|$|105,712|$ 123,313|$|132,169|$ 140,912|$|158,625|
+|M43|$|97,991|$ 111,049|$|117,521|$ 124,107|$|137,165|
+|M42|$|89,021|$ 100,943|$|106,848|$ 112,866|$|124,675|
+|M41|$|80,959|$ 91,746|$|97,083|$ 102,533|$|113,321|
+|M40|$|73,579|$ 83,343|$|88,226|$ 93,109|$|102,988|
+|M39|$|66,766|$ 75,623|$|80,164|$ 84,480|$|93,450|
+|M38|$|60,747|$ 68,809|$|72,866|$ 76,871|$|85,047|
+|M37|$|55,298|$ 62,678|$|66,311|$ 70,059|$|77,440|
+|M36|$|50,301|$ 57,000|$|60,293|$ 63,700|$|70,399|
+|M35|$|45,760|$ 51,891|$|54,843|$ 58,023|$|64,040|
+|M34|$|41,558|$ 47,123|$|49,847|$ 52,686|$|58,126|
+|M33|$|37,811|$ 42,807|$|45,306|$ 47,803|$|52,913|
+|M32|$|35,021|$ 39,645|$|41,956|$ 44,268|$|49,007|
+|M31|$|31,200|$ 37,933|$|40,122|$ 42,432|$|46,808|
+|Attorney|$|85,000||$|127,500||$|170,000|
+
+<!-- page 46 -->
+###### Corrections Salaries 2026 Adopted 
+
+|FY 2025 Rates|
+|---|
+
+
+
+|gradeid<br>I|ratel<br>I|rate2<br>I|rate3<br>I|rate4|rate5|rate6<br>I|rate7|rate8<br>j|rate9<br>I|ratelO|
+|---|---|---|---|---|---|---|---|---|---|---|
+|CWD|121,322|123,748|126,223|128,748|131,323|133,949|136,628|140,727|144,949|149,297|
+|CDD|105,497|107,607|109,759|111,955|114,194|116,478|118,807|122,371|126,043|129,824|
+|CMJ|92,542|94,392|96,280|98,206|100,170|102,173|104,217|107,343|110,564|113,881|
+|CCT|81,177|82,800|84,456|86,145|87,868|89,626|91,418|94,161|96,986|99,895|
+|CIT|71,208|72,632|74,085|75,566|77,078|78,619|80,191|82,597|85,075|87,627|
+|CSG|62,463|63,712|64,986|66,286|67,612|68,964|70,343|72,454|74,627|76,866|
+|CCR|57,305|58,452|59,621|60,813|62,029|63,270|64,535|66,471|68,465|70,519|
+|CMO|52,574|53,625|54,698|55,792|56,908|58,046|59,207|60,983|62,812|64,697|
+|C02|49,134||||||||||
+|COl|45,000||||||||||
+
+
+
+|FY 2026 Proposed Rates|
+|---|
+
+
+
+|JRoleJ|1|2|3<br>I|4<br>I|5|6|7|8|9|10|
+|---|---|---|---|---|---|---|---|---|---|---|
+|CWD|124,962|127,461|130,010|132,610|135,263|137,968|140,727|144,949|149,297|153,776|
+|CDD|108,662|110,836|113,052|115,313|117,620|119,972|122,371|126,043|129,824|133,719|
+|CMJ|95,318|97,224|99,169|101,152|103,175|105,239|107,343|110,564|113,881|117,297|
+|CCT|83,612|85,284|86,990|88,730|90,504|92,315|94,161|96,986|99,895|102,892|
+|CLT|73,344|74,811|76,307|77,833|79,390|80,978|82,597|85,075|87,627|90,256|
+|CSG|64,337|65,624|66,936|68,275|69,640|71,033|72,454|74,627|76,866|79,172|
+|CCR|59,025|60,205|61,409|62,637|63,890|65,168|66,471|68,465|70,519|72,635|
+|CMO|54,151|55,234|56,339|57,465|58,615|59,787|60,983|62,812|64,697|66,638|
+|C02|50,608||||||||||
+|COl|46,350||||||||||
+
+
+
+|L<br>I<br>Role|1|I<br>2|I<br>3|I<br>4|I<br>5|I<br>6|I<br>7|I<br>8|9|10|
+|---|---|---|---|---|---|---|---|---|---|---|
+|CWD|3,63966|3,712.45|3,786.70|3,862.44|3,939.68|4,018.48|4,098.85|4,221.81|4,348.47|4,478.92|
+|CDD|3,164.92|3,228.22|3,292.78|3,358.64|3,425.81|3,494.33|3,564.22|3,671.14|3,781.28|3,894.71|
+|CMJ|2,776.25|2,831.77|2,888.41|2,946.18|3,005.10|3,065.20|3,126.50|3,220.30|3,316.91|3,416.42|
+|CCT|2,435.30|2,484.01|2,533.69|2,584.36|2,636.05|2,688.77|2,742.55|2,824.82|2,909.57|2,996.86|
+|CIT|2,136.23|2,178.96|2,222.54|2,266.99|2,312.33|2,358.57|2,405.74|2,477.92|2,552.25|2,628.82|
+|CSG|1,873.89|1,911.37|1,949.59|1,988.58|2,028.36|2,068.92|2,110.30|2,173.61|2,238.82|2,305.98|
+|CCR|1,719.16|1,753.55|1,788.62|1,824.39|1,860.88|1,898.09|1,936.06|1,994.14|2,053.96|2,115.58|
+|CMO|1,577.21|2,608.76|1,640.93|1,673.75|1,707.23|1,741.37|1,776.20|1,829.48|1,884.37|1,940.90|
+|C02|1,474.03||||||||||
+|Col|1,350||||||||||
+
+<!-- page 47 -->
+###### Wicomico County FOP 
+
+###### Adopted FY 26 Salaries 
+
+|Current Scale||||||||||||||||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||Base A|Step 1|Step 2|Step 3|Step 4|Step 5|Step 6|Step 7|Step 8|Step 9|Step 10|Step 11|Step 12|Step 13|Step 14|Step 15|Step 16|Step 17|Step 18|
+|lstSgt|68,160|70,205|72,311|74,480|76,714|79,016|81,386|83,828|86,343|88,933|91,156|93,435|95,771|98,165|100,620|103,135|105,714|108,356|111,065|
+|Sgt.|64,302|66,231|68,218|70,264|72,372|74,543|76,780|79,083|81,455|83,899|85,997|88,147|90,350|92,609|94,924|97,297|99,730|102,223|104,779|
+|Cpl.|60,662|62,482|64,356|66,287|68,276|70,324|72,434|74,607|76,845|79,150|81,129|83,157|85,236|87,367|89,551|91,790|94,085|96,437|98,848|
+|DFC|58,050|59,791|61,585|63,433|65,336|67,296|69,314|71,394|73,536|75,742|77,635|79,576|81,566|83,605|85,695|87,837|90,033|92,284|94,591|
+|Deputy|57,200<br>57,200|58,000|58,933|60,701|62,522|64,398|66,330|68,319|70,369|72,480|74,292|76,149|78,053|80,005|82,005|84,055|86,156|88,310|90,518|
+|Proposed Scale||||||||||||||||||||
+||Base A|Step 1|Step 2|Step 3|Step 4|Step S|Step 6|Step 7|Step 8|Step 9|Step 10|Step 11|Step 12|Step 13|Step 14|Step 15|Step 16|Step 17|Step 18|
+|lstSgt|68,160|70,205|72,311|74,480|76,714|79,016|81,386|83,828|86,343|88,933|91,156|93,435|95,771|98,165|100,620|103,135|105,714|108,356|111,065|
+|Sgt.|64,302|66,231|68,218|70,264|72,372|74,543|76,780|79,083|81,455|83,899|85,997|88,147|90,350|92,609|94,924|97,297|99,730|102,223|104,779|
+|Cpl.|60,662|62,482|64,356|66,287|68,276|70,324|72,434|74,607|76,845|79,150|81,129|83,157|85,236|87,367|89,551|91,790|94,085|96,437|98,848|
+|DFC|58,050|59,791|61,585|63,433|65,336|67,296|69,314|71,394|73,536|75,742|77,635|79,576|81,566|83,605|85,695|87,837|90,033|92,284|94,591|
+|Deputy|57,200|58,000|58,933|60,701|62,522|64,398|66,330|68,319|70,369|72,480|74,292|76,149|78,053|80,005|82,005|84,055|86,156|88,310|90,518|
+|Dep. Candiate|57,200|||||||||||||||||||
+|Proposed changes||||||||||||||||||||
+|lstSgt|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|Sgt.|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|Cpl.|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|DFC|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|Deputy<br>Dep. Candiate|0<br>0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+
+
+
+###### Longevity Pay 
+
+|Forthose employeeswho|have maxed Out onthe steps, they will receive a longevity bonus based ontheiryears of service as ofthe first full pay period in July. This bonus <sup>will not </sup>be included <sup>in salary amounts for pension purposes.</sup>|
+|---|---|
+|The following scale will b|e used for each year:|
+|Years ofService|Amount|
+|19-20|$1,500|
+|21-22|$1,700|
+|23-24|$1,900|
+|25+|$2,000|
+
+<!-- page 48 -->
+|||FY 2026 ADOP|TED CAPITAL BUD<br>GENERAL|GET<br>FORWARDFUNDINGOF||||||
+|---|---|---|---|---|---|---|---|---|---|
+|||FY26<br>PAY-GO|OBLIGA’flON<br>BOND PROCEEDS<br>EMOEY|STATE SHARE NEW<br>ENTE<br>MONEY)|RPRISE FUrIES|FEDERAL<br>GRANT|STATE<br>GRANT|OTHER|FT 2026<br>ProjectTotal|
+|Department|Prujact||NW N)|||||||
+|GenenalFuod||||||||||
+|Health Department<br>|Verizon BuildingRenovations|$|-|||||$ $|-|
+|HEALTH DEPARTMENTTOTAL|||-||||||-|
+|Emergency Seroices<br>|Radio Authentication<br>|$ 244,000<br>$ 150000||||||$ $|244000<br>OSGOOD|
+|Emergencylerolces<br>EmergencyServices|911 Radio Tome, Generators<br>PittsclileTower Building Rebuild|,<br>S|1,050,000|||||$|l,0S0,000<br>|
+|EME000NCYSERV1CESTOTAL||394,000<br>$|1,050,000|||||$|1,444,000|
+|Corrections<br>Corrections|Flooring Upgrade<br>BuildingExpansion|$ 340,000<br>$ 520,000||||||$ S|340,000<br>520,000|
+|Corrections<br>|Fence and Courtyard<br>|$ 268,000<br>S<br>117000||||||S<br>$|268,000<br>117000|
+|Corrections<br>CORRRCI’IONSTOTAf.|Chilled Water Pumps|,<br>$ 1,253,000||||||5|,<br>1,253000|
+|General Services<br>GlS’k|OCH Elevator Upgrade<br>BildinEltiSr|$ 125,000<br>5<br>75000||||||S|125,000<br>75,000|
+|enera errres<br>GENERALSERVICESTOTAL|ug caunon uveys|,<br>$ 200,000||||||$|200,000|
+|Public Library|Flagship library on Shomaker Food|$|866,000|||$|3,074,000<br><br>|1,500,000<br>$ <br><br>|5,440,000<br>|
+|PUBLIC LIBRARYTOTAL||S|866,000|||$|3,014,000<br>$|1,500,000<br>$|5,440,000|
+|Board of Education|Froitland Primary - Design/Construction|||||S|12,033,566|S|12,033,566|
+|BOARD OF EDUCATION TOTAl.|||.|$ .||$|12,033,566|$|12,033,566|
+|FW- Engineering<br>Eii|Chesapeake Bay WIP<br>WiiRiDdiS|$ 200,000<br>$ 350000||||||5<br>5|200,000<br>350.000|
+|PW- ngneerng<br>|comco cer regng upport<br>|,<br><br>|||||||7500000|
+|PW Engineering<br>PW ENGINEERiNG TOTAL|Sharps Point Wetland Mitigation|5<br>7,500,000<br>$ 8,050,000||||||$|,,<br>0,050,000|
+|PW- Water/Sewer<br>|SanitaryDistrict|5<br>BSO,000<br><br>||||||S<br>$|850,000<br>aso000|
+|PW WATER/SEWERTOTAL||$ 850,000|||||||,|
+|PW Roads<br>|MS4 Projects<br>|5<br>500,000<br><br>||||||S<br>$|500000<br>200000|
+|PW Roads<br>PWRoads|Poplar Neck DrainagePipe 83<br>LeonardsMiiiDnm|$ 200,000<br>$ 250,000||||||5|,<br>250,000|
+|PW Roads<br>Rd|FueiTank/Systenr Upgrade<br>HbbRdDiPi|5<br>400,000<br>$ 100000||$|400,000||5|7,500<br>$ $|807,500<br>100,000|
+|FW oas<br>PWROADSTOtAL|os oa ranage p|,<br>$ 1,450,000|||400,000||$|7,500<br>$|1,857,500|
+|Civic Center<br>|Elevator Replacement<br>|$ <br>|1,100,000|||||$ S|0,100,000<br>150000|
+|Civic Center|MarqueeAddition|S<br>150.000<br>|||||||.<br>|
+|Civic Center<br>CivicCenter|Flooring Replacement<br>Chic Center GlenAve LoadingZone/Road Improvements|5<br>350,000|||S|125,000<br>$|125,000|S<br>$|350,000<br>250,000|
+|<br>CIViC CENTER TOTAL||$ 500,000<br>$|1,100,000||$|125,000<br>$|125,000<br>$|-<br>$|1,850,000|
+|Recreation & Parks<br>Rtl&Parks|PerdoeStadium Elevators<br>IdiVillPkRti|||||$ 5|600,000<br>150.000<br>S|S<br>150000<br>$|600,000<br>300,000|
+|erreaon  <br>Recreation & Parks|nan age ar enovaons<br>Pirates WharfProperty||||5<br>|1,000,000<br>S|300.000|,<br><br>$|1300,000|
+|Recreation & Paths<br>Recreation& Paths|Mason Dixon - Parkingtot/Master Plan<br>Cedar viii Marina Park Restoration|5|1,500,000|S|3(02.000<br>S|000.000<br>5<br>$|200.000<br>250,000|S<br>S|2,100,000<br>250,000|
+|<br>Rti&Pth|Ld’MillBtRdPki|||||5|250000|S|250.000|
+|ecreaon  as<br>|eonaru  oa amp an arng<br>||||||,<br>R0O000|5|800013|
+|Recreation & Paths<br>Recreation & Patbs<br>Recreation&Paths|Harbor Dredging<br>Pemberton Park Restoration and Upgrades<br>NantirokoHarborimpr000monta|||S|20,000|S<br>5|,<br>S<br>250,000|00,000<br>$ S|,)<br>100.000<br>250.00)|
+|<br>Recreation & Parka|<br>Winterplace Lighting Project|||S|400,000<br><br>|$ <br>|300,000<br><br>|S<br><br>|700,000<br>|
+|RECREATION & PARBSTOTAL||-|1,500,000||720,000<br>S|1,100,000<br>$|3,100,000<br>$|230,000<br>$|&,itso,coo|
+|Airport<br>|Public Parking Lot ErA Iate and Canopy<br>|$ 432,000<br><br>||||||5<br>|432,000<br>|
+|Airport|Hangar Roofs Rehabii,ation|S<br>300,000<br>||||||$|350,000<br>|
+|Airport|Air TrafficControl Equipment|$ 15,000|||S|1,260,000<br>5|70,OGO|$|1,345.000|
+|Airport|FireluprnsslonFurHangersandBusinessPark|$ 270000||||||$|270,000|
+|Airport<br>Airport|<br>Snow Remocal Equipment<br>ReirabilituteRunway 32|,<br>$ 32,500<br>$ 125,000|||S<br>$|1,235,000<br>5<br>2250,000<br>5|32,500<br>125,000|5<br>5<br>|1,300,000<br>2,500,000|
+|Airport|Nero Hanger fur Mechanics School||||||$1,500,000|$|1.500.000|
+|Al|PPkiLEi|5<br>225000||||||$|225000|
+|tport<br>AIRPORT TOTAL|assengerarng ot opansoo|,<br>$ 1,449,500<br>$|.||$|4,745,000<br>$|1,121,500<br>$|-<br>$|,<br>7,922,000|
+|BondContingent|||250,000|||||$|250,000|
+|TotalGeneral Fund Projects||$ 14,146,500<br>$|4,166,000<br>|$ .<br>$|1,120,000<br>$|5,970,860<br>$|20,060,066<br>$|1,737,500<br>$|47,800,066|
+
+<!-- page 49 -->
+|||FY 2026 ADOPTED CAPITAL BU|DGET|||||
+|---|---|---|---|---|---|---|---|
+|Department|Proj.ct|GENERAL<br>FY26<br>OBLIGATION<br>PAY-GO<br>BOND PROCCEDS<br>INEW MONEYI|FORWARD FUNDING OP<br>STATE SHARE (NEW<br>MONET)|ENTERPRISE FUND|FEDERAL<br>GRANT|STATE<br>GRANT|FT 2026<br>OTHER<br>Project Total|
+|Enterprise Funds||||||||
+|Solid Waste|Landfill Cell Construction|$ 10500,000|||||$ 10,500,000<br>|
+|Solid Waste|Potts Property - Mining Peomlt||||||$ -<br>|
+|Solid Waste|Phase III PermIt||$|300,000|||$ 300,000|
+|Solid Waste|LasdR(i Eopanson|$ 2,500,000|||||S<br>2,500,000<br>|
+|Solid Waste|Convenience Center Improvements||$|100,000|||$ 100,000<br>|
+|Solid Waste|Leaohate Management Solutions|||300000|||$ 300,000|
+|SOUD WASTR TOTAL||-<br>$ 13,000,000|$ -|700,000<br>S|-|-|$ 13,100,000|
+|TourIsm|Tourism Welcome Center||$|20,000<br>$|10,000<br>|$ 10,000|S<br>40,000|
+|TOURISM TOTAL||-||20,000<br>$|10,000<br>|$ 10,000<br>|$ -<br>S<br>40,000|
+|Total EnterprIse Fund Peojeots||$ -<br>$ 13,000,000|$ -<br>$|720,000<br>$|10,000<br>|$ G0,000<br>|$ -<br>$ 13,140,000|

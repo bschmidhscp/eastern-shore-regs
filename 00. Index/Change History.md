@@ -2,6 +2,10 @@
 
 *Generated on each sync. Shows which regulation text changed and the exact wording differences (`-` removed, `+` added). Narrative context is in the Project Log.*
 
+## 2026-10-11 — County digests, fee findings and summaries for Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico, Worcester; 8-county comparison
+
+- New text files: 6134
+
 ## 2026-10-11 — Project Log: sync fix note
 
 

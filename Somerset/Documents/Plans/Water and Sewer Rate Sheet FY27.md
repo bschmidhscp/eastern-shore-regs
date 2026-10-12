@@ -1,0 +1,69 @@
+---
+county: "Somerset"
+category: "plan"
+title: "Water and Sewer Rate Sheet FY27"
+source_url: "https://www.somersetmd.us/document_center/Department/Sanitary District/Info/Water and Sewer Rate Sheet FY27.pdf?t=202606241434550"
+effective: "2027-12-31"
+retrieved: "2026-10-11"
+original: "Somerset/Originals/Plans/Water and Sewer Rate Sheet FY27.pdf"
+pages: "1"
+needs_ocr: "no"
+---
+
+# Water and Sewer Rate Sheet FY27
+
+<!-- page 1 -->
+# **SOMERSET COUNTY SANITARY DISTRICT INC. WATER/SEWER QUARTERLY RATES 7/1/26 - 6/30/27** 
+
+|**PRINCESS ANNE**|**WATER**|**SEWER**|**BAY**<br>**RESTORATION**|**DEBT**<br>**SERVICE**|**TOTAL**|
+|---|---|---|---|---|---|
+|MINIMUM USERS 0 -||||||
+|6,000 GALS|63.50|97.45|15.00|2.55|178.50|
+|6,001 - 26,000|2.76/m|10.20/m|||12.96/m|
+|26,001 - 46,000|2.78/m|10.23/m|||13.01/m|
+|46,001 - 192,000|3.41/m|11.44/m|||14.85/m|
+|OVER 192,001|4.96/m|13.31/m|||18.27/m|
+|FLAT RATE|75.65|227.15||||
+|**SMITH ISLAND**|**SEWER**|**BAY R**|**ESTORATION**||**TOTAL**|
+|PER EDU|245.50||15.00||260.50|
+|MIN SEWER RATE|49.50||15.00||64.50|
+|**WESTOVER**|**SEWER**|**BAY R**|**ESTORATION**||**TOTAL**|
+|PER EDU|227.25||15.00||242.25|
+|MIN SEWER RATE|46.25||15.00||61.25|
+|**FAIRMOUNT**|**WATER**|**SEWER**|**BAY**<br>**RESTORATION**|**DEBT**<br>**SERVICE**|**TOTAL**|
+|MINIMUM USERS||||||
+|0 - 6,000 GALS|63.50|97.45|15.00|0.00|175.95|
+|6,001 - 26,000|2.76/m|10.20/m|||12.96/m|
+|26,001 - 46,000<br>|2.78/m<br>|10.23/m<br>|||13.01/m<br>|
+|46,001 - 192,000|3.41/m|11.44/m|||14.85/m|
+|OVER 192,001|4.96/m|13.31/m|||18.27/m|
+|FLAT RATE|75.65|227.15||||
+|**RUMBLEY,**<br>**FRENCHTOWN**|**WATER**|**BAY R**|**ESTORATION**|**DEBT**<br>**SERVICE**|**TOTAL**|
+|MINIMUM USERS||||||
+|0 - 6,000 GALS|63.50||15.00|0.00|78.50|
+|6,001 - 26,000|2.76/m||||2.76/m|
+|26,001 - 46,000|2.78/m||||2.78/m|
+|46,001 - 192,000|3.41/m||||3.41/m|
+|OVER 192,001|4.96/m||||4.96/m|
+|FLAT RATE|75.65||||75.65|
+|**CRISFIELD**|**WATER**|**SEWER**|**BAY**<br>**RESTORATION**||**TOTAL**|
+|RESIDENTIAL -<br>SANITARY DISTRICT|33.30|42.70|15.00||91.00|
+|RESIDENTIAL - CITY||||||
+|OF CRISFIELD|96.66|160.20|||256.86|
+|Minimum Totals|129.96|202.90|||347.86|
+|over 12,000gallons|4.68/M|7.26/M|||11.04/M|
+|Min Sewer Rate||9.00|15.00||24.00|
+|**CRISFIELD METERED**<br>**ACCOUNTS**||||||
+|0 - 15,000 GAL|6.40/M|33.96/M|BASED ON CO|MMERICAL USAGE|PLUS SANITARY DIST FEE|
+|15,001 - 80,000|5.53/M|5.53/M|BASED ON CO|MMERICAL USAGE|PLUS SANITARY DIST FEE|
+|OVER 80,000|2.81/M|2.81/M|BASED ON CO|MMERICAL USAGE|PLUS SANITARY DIST FEE|
+|Septage Haul|ers|||||
+|Price Per 1,000g|allons|||||
+|Water Purch|ase|||||
+|Price Per 1,000g|allons|||||
+
+
+
+SEWER ONLY ACCOUNTS WILL BE CHARGED A MINIMUM RATE WHEN UNOCCUPIED. TO RECEIVE REDUCED SEWER ONLY MIN RATE ACCOUNT MUST APPLY FOR REDUCTION, PER DISTRICT POLICY BAY RESTORATION-MINIMUM $15.00 MAXIMUM 120,000 GALLONS PER YEAR 
+
+CONSUMPTION/250/DAYS X 15=COMMERCIAL BAY RESTORATION

@@ -58,11 +58,13 @@ def main():
         if pages % 25 == 0:
             print(f"{pages} pages, {len(docs)} docs, queue {len(q)}", flush=True)
         soup = BeautifulSoup(r.text, "lxml")
+        base_tag = soup.find("base", href=True)  # pages may set <base href> for relative links
+        base = urljoin(url, base_tag["href"]) if base_tag else url
         for el in soup.find_all(["a", "iframe"]):
             href = el.get("href") or el.get("src")
             if not href or SKIP.search(href):
                 continue
-            link = urldefrag(urljoin(url, href.strip()))[0]
+            link = urldefrag(urljoin(base, href.strip()))[0]
             pu = urlparse(link)
             if pu.scheme not in ("http", "https"):
                 continue

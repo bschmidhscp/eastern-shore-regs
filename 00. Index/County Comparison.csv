@@ -1,25 +1,25 @@
-metric,Talbot
-Governing body,County Council
-Minor subdivision: max lots,3
-Minor cap cumulative from original parcel?,True
-Minor decided by,Planning Director
-Agricultural density,3 + 1 per 20 ac (parcels >= 6 ac); 1 per 2 ac (< 6 ac); mandatory clustering
-Rural residential density,RR 1 per 5 ac
-Max lots on septic (Tier IV),7 (small-scale); 8+ appears not allowed
-Tier IV share of county,> 80% of county
-BAT septic cost,"$19,055 - $31,512"
-"Planning fees, 3-lot minor ($)",1300
-"Impact/excise fee per home, outside towns ($)",9356
-"Impact/excise fee per home, inside towns ($)",8080
-Fee schedule year,FY26 (FY27 auto-increase not yet posted)
-Water & sewer plan amendments (3 yr),66
-Planning Commission actions (3 yr),211
-Planning Commission denials (3 yr),4
-Major subdivisions at PC (3 yr),9
-Board of Appeals grant rate,"97% (147/151, 2016-2026)"
-Comprehensive plan,"2016; 2026 update in work sessions, not adopted"
-Code current through,Bill 1624 (Mar 2026) + 3 later bills listed separately
-Key risks,septic/BAT cost and Tier IV caps; Critical Area limits; thin ag density
-Key opportunities,fast staff-approved minors; permissive Board of Appeals; frequent sewer service-area amendments; TR/village districts with sewer
-Summary file,Talbot/00. Summary.md
-Updated,2026-10-11
+metric,Caroline,Cecil,Dorchester,Kent,Queen Anne's,Talbot,Wicomico,Worcester
+Governing body,County Commissioners,County Council (charter government),County Council,Board of County Commissioners,County Commissioners,County Council,County Council,County Commissioners
+Minor subdivision: max lots,4,5,7,7,7,3,3,5
+Minor cap cumulative from original parcel?,True,True,True,True,not found,True,True,True
+Minor decided by,Zoning Administrator,Director of Land Use and Development Services,Planning Commission; Chairman may sign minor final plat,Planning Director (may refer to Planning Commission),"Planning Director if delegated by Planning Commission (up to 5 lots, no public road); otherwise Planning Commission",Planning Director,Director of Public Works + Health Dept (Planning Commission for 4th+ lot or on request),DRP staff (equals Planning Commission approval)
+Agricultural density,"R Rural: 1 lot/acre gross for minors (max 4 lots); rural major 1 per 15 ac or TDR, receiving area only","Minor subdivision 1 per acre in NAR, SAR, RR; major subdivision NAR 1 per 10 ac, SAR 1 per 20 ac, RR 1 per 3 ac (60% open space in NAR/SAR)","3 + 1 per 15 ac (1 per 10 ac clustered, 65% open space over 20 ac); pre-1972 parcels",AZD 1 unit per 30 ac; lots max 10% of parcel (100+ ac exempt); max 2 road-front lots,"AG/CS: sliding scale 1 new lot per first 100 ac + 1 per additional 100 ac; large-lot 1 per 20 ac; cluster 0.125/ac (16 ac min site, 85% open space)",3 + 1 per 20 ac (parcels >= 6 ac); 1 per 2 ac (< 6 ac); mandatory clustering,"A-1: 1 per 15 ac conventional; A-1 cluster 3 ac per unit with 50% open space; 20,000 sf min lot; 3-lot minor right preserved","A-1/A-2/RP: max 5 lots from 1967 parcel (6 with rural cluster); 40,000 sf min lot"
+Rural residential density,R-1 2 per acre (mostly downzoned to R in 2012),RR 1 per 3 ac (major); 1 per acre (minor),"RR: no density cap in table; min lot 40,000 sf (20,000 clustered); Bill 2026-9 reduced lot sizes with water/sewer (values not found)",RC and RCD 1 per 20 ac; CR and CAR 1 per ac,"E cluster 0.50/ac, large-lot 2 ac; SE large-lot 1 ac; SR large-lot 30,000 sf",RR 1 per 5 ac,"V-C 5 ac conventional (30,000 sf PVCD); R-30 30,000 sf",R-1 1 per acre; E-1 1 per 2 net acres
+Max lots on septic (Tier IV),4 (minor only),"not found in corpus (Tier IV not mentioned; county kept its pre-2012 minor definition, up to 5 lots)",7 (minor); 8+ appears not allowed,"not capped (MDP Tier IV exemption, Apr 2017; confirm)",7 (SB 236 minor subdivision); county Tier map not found in corpus,7 (small-scale); 8+ appears not allowed,7 (county minor subdivision); 8+ not allowed,5 (no tier map adopted; major subdivision on private septic reported not eligible)
+Tier IV share of county,> 90% of county,not found,not found,not found,not found,> 80% of county,"not found (described as bulk of county, mostly A-1)",not found
+BAT septic cost,not found,not found,not found,not found,not found,"$19,055 - $31,512",not found,not found
+"Planning fees, 3-lot minor ($)",1125,200,500,240,1375,1300,225,250
+"Impact/excise fee per home, outside towns ($)",5000,0,5000,0,"$5.99/sf (inferred FY27; about $14,975 for 2,500 sf)",9356,0,0
+"Impact/excise fee per home, inside towns ($)",5000,0,5000,0,"same as outside (countywide, per sf)",8080,0,0
+Fee schedule year,FY2027 (effective 7/1/2026; adoption vote not verified),Planning fee schedule updated 2/2024 (latest found; FY27 not found); no county impact fee or excise tax exists,"FY27 (Res. 695); building excise tax, no separate impact fee",Schedule effective 2024-09-01; no FY27 update found; no impact fee exists,FY27 impact fee inferred (flat vs FY26 per BoCC 2026-06-09; FY26 figure from State fiscal note); FY25 verified at $5.85/sf; planning sheet undated (2024),FY26 (FY27 auto-increase not yet posted),no year stated; DPW fees amended through Res. 72-2025; FY27 not found,FY26 DRP (FY27 DRP resolution not found); FY27 water/sewer charges Res. 26-14
+Water & sewer plan amendments (3 yr),4,not found,3,"not counted; 2 in PC digest (Millington WWTP 2025-03, Millington/Everton 2025-11)",36,66,8,33
+Planning Commission actions (3 yr),100,"32 digest items, Oct 2025 to Sep 2026 only",42,191,86,211,175,175
+Planning Commission denials (3 yr),0,0,0,1,0,4,1,3
+Major subdivisions at PC (3 yr),0,5 items Oct 2025 to Sep 2026,0,0,7,9,13,5
+Board of Appeals grant rate,"not found (BOA digest: 29 items, 1 with decision, mostly agendas)","85% (11 of 13 grant/deny; variances 7 of 9), small sample","not found in corpus (24 BOA items, all agendas, no decisions)","97% (36/37 resolved, 2020-2024 decisions digest); minutes digest 17 of 23 decided approved (2020-2026)","96% (43/45 decided, 2023-11 to 2026-09; 7 undecided in digest)","97% (147/151, 2016-2026)","88% (36 of 41 grant/deny decisions, 2023-11 to 2026-09); variances 7 of 8 granted","95.7% (314/328 decided, 2017-10 to 2026-07)"
+Comprehensive plan,"2010 adopted; 2026 update Final Draft July 2026, adoption not found",2010 (adopted 2010-04-13); no update seen in progress,2021 (July); no update found,2018 (adopted 2018-04-17); no update seen; 2023-24 draft Land Use Ordinance precedes the 2025 UDO; newer draft not found,"2022 Comprehensive Plan; Comprehensive Zoning Code Update in progress, adopted in stages (completion not found)","2016; 2026 update in work sessions, not adopted","2017 (adopted 2017-03-21); update in progress, not adopted","2006 plan in force; 2026 plan PC-recommended 2026-08-06, Commissioner hearing 2026-10-06, adoption not verified"
+Code current through,06-09-2026 (eCode360 CA1090),eCode legislation through 2026-05-05; Zoning Ordinance is a standalone PDF (not in eCode); Subdivision Regulations amended through 2017,"06-03-2025 (later bills, e.g. Bill 2026-9, not codified)","Unified Development Ordinance (Ch. 222) effective 2025-07-25, REV 2025-10-01; eCode Ch. 222 is a stub",06-13-2026 (eCode360 QU1770),Bill 1624 (Mar 2026) + 3 later bills listed separately,"unknown (eCode360 WI0638 retrieved 2026-10-11); Bills 2026-02, 2026-03, 2026-08, 2026-10 enacted but not codified",11-18-2025 (eCode360)
+Key risks,5+ lots in R only in TDR receiving area; >90% Tier IV; residue under 20 ac counts as a lot; pending rezoning; Critical Area program not in corpus,"5-lot minor cap and 18-month major process; Critical Area RCA 1 per 20 ac; septic/perc testing; Tier III rules not read; sewer benefit assessments and $12,000/ELU major facilities fee where public sewer is used","Tier IV cap on septic; Critical Area RCA 1 per 20 ac; excise tax suspension history; zoning amendments pending (RR lot size, density table); no approval-rate evidence",1:30 AZD yield and 10% rule; Critical Area limits; stormwater review cost; sewer only in towns/growth areas; unclear Tier IV exemption status,"KN/S/G sewer capacity and Res. 25-12 moratorium (over 1,750 gpd); thin AG sliding-scale density; Critical Area RCA 1 per 20 ac; pending Chapter 18:1 rewrite and open-space and forest ordinances",septic/BAT cost and Tier IV caps; Critical Area limits; thin ag density,Tier IV cap (no major subdivisions on septic); wet-season perc timing; Critical Area rewrite; comp plan update; thin A-1 density,no major subdivision on septic (no tier map); RCA 1 per 20 ac; Ocean City/Ocean Pines sewer capacity; Coastal Bays Critical Area; comp plan/zoning rewrite; Route 589 moratorium
+Key opportunities,"administrative 4-lot minors, low fees, $5,000 impact fee, no town split; TDR receiving areas allow up to 50 lots",1 per acre density for minor subdivisions in NAR/SAR/RR; administrative approval of minors; no impact fees; $200 minor plat fee,7-lot minor subdivision threshold; chairman-signed minors; low fees; RR with no density cap and reduced lot sizes; county land sales,no impact fee or excise tax; minors up to 7 lots approved administratively; low county plan fees; permissive appeals record; Village/Intense Village density,minor subdivision up to 7 lots; permissive Board of Appeals; large-lot and cluster options in AG; NC and SE/SR infill with sewer,fast staff-approved minors; permissive Board of Appeals; frequent sewer service-area amendments; TR/village districts with sewer,no impact or excise fee; 3-lot minor exclusion; set-aside removed for 4-7 lot minors (Bill 2026-03); PC approves subdivisions; ADUs by right,no impact or excise fee; staff-approved minors up to 5 lots; permissive Board of Appeals; sewered growth areas; 1.35x cluster density
+Summary file,Caroline/00. Summary.md,Cecil/00. Summary.md,Dorchester/00. Summary.md,Kent/00. Summary.md,Queen Anne's/00. Summary.md,Talbot/00. Summary.md,Wicomico/00. Summary.md,Worcester/00. Summary.md
+Updated,2026-10-11,2026-10-11,2026-10-11,2026-10-11,2026-10-11,2026-10-11,2026-10-11,2026-10-11

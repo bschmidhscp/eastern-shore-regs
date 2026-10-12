@@ -1,0 +1,7 @@
+,Circulation,Vehicular Travelway Width (feet),Curb to End of Space (feet),Angle of Parking (degrees),Size of Parking Spaces (feet)
+,One-way,24,20,90°,10 x 20
+,One-way,20,22,60°,10 x 20
+,One-way,16,20,45°,10 x 20
+,One-way,12,18,30°,10 x 20
+,One-way (parallel),12,10,N/A,10 x 23
+,Two-way,24,20,90°,10 x20

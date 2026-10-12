@@ -18,6 +18,9 @@ How to find things efficiently (do NOT read whole folders):
   "<root>/{COUNTY}/Code/00. Amendments Not Yet in Code.md" if present.
 - Fees, plans, septic: "<root>/{COUNTY}/Documents/".
 - Digests (one line per item): "<root>/{COUNTY}/01. Digests/" — read these instead of minutes.
+  "01. Digests/Fee Findings.md" (if present) is the researched answer on impact fees and the fee schedule —
+  use it for section 6 and the fee keys in Key Metrics (verify one figure against its cited source).
+  Many digest rows come from agendas (blank decision) — count rates only from rows with a decision.
 - Coverage: "<root>/{COUNTY}/02. Coverage Report.md" (what's missing).
 - GIS: "<root>/01. Maryland/GIS/SOURCES.md".
 
