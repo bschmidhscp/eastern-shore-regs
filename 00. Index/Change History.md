@@ -2,6 +2,9 @@
 
 *Generated on each sync. Shows which regulation text changed and the exact wording differences (`-` removed, `+` added). Narrative context is in the Project Log.*
 
+## 2026-10-11 — Project Log: sync fix note
+
+
 ## 2026-10-11 — OCR Worcester CA review and MDE site-evaluation manual; fix sync exit on long diffs
 
 - New text files: 1057

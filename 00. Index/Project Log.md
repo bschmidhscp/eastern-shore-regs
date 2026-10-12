@@ -76,6 +76,8 @@ was decided, what was learned, and what's next. Background and layout are in **S
   MDP tier maps, Stormwater Design Manual, 2011 ESC standards, 2025 draft SWM rules, MALPF lot-exclusion forms, SDAT
   ag transfer tax). The two scanned ones (Worcester Critical Area review, MDE site-evaluation manual) were OCR'd.
   Checked the public GitHub push: no originals/PDFs, no personal data (only vendor contacts from MDE's public BAT lists).
+- Fixed `sync_repo.sh`: it exited silently without committing whenever a changed file's diff exceeded 60 lines
+  (`head` + `pipefail`). If an earlier sync printed nothing, it didn't push — re-run it.
 - Wrote `01. Maryland/00. Summary.md` (cited; section 9 lists what each county summary must cover).
 - Findings: see Key findings (statewide) above.
 - **Next:** county digests and summaries (`Session - County Digests and Summaries.md`), citing the statewide summary.
