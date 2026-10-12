@@ -92,6 +92,17 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
+### 2026-10-12 (later) — Screener v1.1 (Brian + Claude)
+- Lot values now come from vacant-lot sales within 3–6 miles of each candidate (60–100% coverage by county;
+  county median fallback marked *). Waterfront pockets now show far higher uplift (top Talbot/Worcester
+  parcels ≈ $2.2–2.5M), and Wicomico (228) and Caroline (145) gained buy-list candidates in strong local pockets.
+- Owner mailing address + absentee-owner flag (15–43% of candidates). Owner names stay manual: the SDAT site
+  blocks automated lookups — use each candidate's SDAT link.
+- Sewer: only septic Tier 1 or Talbot S-1 count as sewered; Tier 2 / Wicomico urban service districts flagged
+  as planned and priced on septic (v1 was too generous).
+- Still needed from Brian/Ben: per-county engineering/survey cost quotes (default $25k/lot), plat/title checks
+  on shortlisted parcels, GIS zoning files from Kent, Dorchester, Somerset, Worcester.
+
 ### 2026-10-12 — Paper-lot screener v1 (Brian + Claude)
 - Built a parcel screener for the lowest-risk model: staff-approved subdivisions only (no public hearing),
   lots on existing road frontage, engineering as the remaining risk; sell recorded lots to builders.

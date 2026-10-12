@@ -2,6 +2,9 @@
 
 *Generated on each sync. Shows which regulation text changed and the exact wording differences (`-` removed, `+` added). Narrative context is in the Project Log.*
 
+## 2026-10-12 — Project Log: screener v1.1
+
+
 ## 2026-10-12 — Project Log + Start Here: paper-lot screener v1 results
 
 
