@@ -1,0 +1,14 @@
+Table 3 Allowable Street Types By Transect Zone,,,,,,
+Street Types,Countryside/ Greenbelt (T1),Estate (T2),Edge (T3),Low Residential (T4),Medium Residential (T5),Mixed/ Neighborhood Village Center (T6)
+Mainstreet (MS),,,,,X,X
+Neighborhood Boulevard (NB),X,,X,X,X,X
+Avenue (AV),,,,X,X,X
+Low Neighborhood Street (LS),,,X,X,X,
+Neighborhood Street (NS),,,X,X,X,
+Edge Drive (ED),,,X,,,
+Estate Drive (ES),,X,X,,,
+Parkway (PK),X,X,X,,,
+Rural Road (RD),X,,,,,
+Alley (AL),,,,X,X,X
+Lane (LN),X,,X,X,X,
+Trail (TR),X,,X,X,X,X

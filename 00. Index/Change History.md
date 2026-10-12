@@ -2,6 +2,10 @@
 
 *Generated on each sync. Shows which regulation text changed and the exact wording differences (`-` removed, `+` added). Narrative context is in the Project Log.*
 
+## 2026-10-11 — Statewide rules layer: COMAR, statutes, agency guidance, summary; statewide_fetch tool
+
+- New text files: 1658
+
 ## 2026-10-11 — County pipeline: configs for 8 counties, adapters (CivicClerk, AgendaCenter, PDF codes, multi-part eCode360), targeted OCR, hand-off prompts; Kent first pass
 
 - New text files: 1954

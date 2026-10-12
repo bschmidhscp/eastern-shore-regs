@@ -1,0 +1,14 @@
+Zoning District,Lot Area 1 (square feet),Front (feet) 2,Side (feet),Rear (feet),Width (feet),Frontage (feet),Off-Street Parking (number of spaces),Building Height (feet)
+AG and CS,"20,000",40,20,50,130,35,2,40
+E,"30,000",40,15/35,50,120,35,2,35
+SE,"15,000",30,10/25,30,90,35,2,35
+SR,"10,000",30,10/22,30,80,35,2,35
+UR,"8,000",30,10/22,30,70,35,2,40
+VC,"8,000",25,5/10,25,50,35,2,40
+NC-5,2 acres,40,20,50,150,35,2,40
+NC-2,1 acre,40,20,50,130,35,2,40
+NC-1,"20,000",40,20,50,120,35 3,2,40
+NC-20,"10,000",15,5,25,60,35 3,2,40
+NC-15,"7,500",15,5,25,60,35 3,2,40
+NC-8,"6,000",15,5,25,60,35 3,2,40
+"NOTES: 1 Lot areas are per dwelling unit . 2 See 18:1-7F. **Where an unusual lot configuration exists, and a shared entrance is proposed, lot frontage may be reduced to 20 feet for up to three lots . All said lots shall share a single point of ingress and egress and a joint use easement and maintenance agreement must be recorded in the Land Records.",,,,,,,,

@@ -1,0 +1,12 @@
+Street Buffers,,,,
+Developing Property Zoning District,Arterial Street,Collector Street,Local Residential Street,Other Street
+AG,--,--,--,--
+CS,S,A,--,--
+"E, SE, SR",D,C,S,S
+UR,D,C,C,C
+"VC, GVC, GNC, SHVC",B,S,B,S
+SC,B,S,B,S
+"SI, SIBE",D,C,E,S
+"UC, TC, GGMC",B,B,D,S
+LIHS,L,L,L,L
+NC,C,C,C,C

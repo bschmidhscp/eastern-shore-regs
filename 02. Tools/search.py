@@ -27,7 +27,7 @@ def main():
     where, args = ["fts MATCH ?"], [a.query]
     if a.county:
         where.append("d.county = ? COLLATE NOCASE")
-        args.append(a.county)
+        args.append("01. Maryland" if a.county.lower() in ("maryland", "state") else a.county)
     if a.category:
         where.append("d.category = ? COLLATE NOCASE")
         args.append(a.category)

@@ -1,0 +1,14 @@
+Table 2 Transect Zone Lot Types,,,,,,
+,Countryside/ Greenbelt (T1),Estate* (T2),Edge* Residential (T3),Low Residential (T4),Medium Residential (T5),Mixed/ Neighborhood Village Center (T6)
+Mixed-use building lot,,,,,X,X
+Retail building lot,,,,,X,X
+Apartment building lot,,,,,X,X
+Live/work lot building,,,,,X,X
+Apartment houses lot,,,,,X,X
+Townhouse lot building,,,,,X,
+Cottage house lot,,,,X,X,
+Sideyard house lot,,,,X,X,
+House lot,,X,X,X,X,
+Manor lot,X,X,X,,,
+Edge tract,,X,X,,,
+Civic building lot,X,X,X,X,X,X

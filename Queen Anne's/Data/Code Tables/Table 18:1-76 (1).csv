@@ -1,0 +1,11 @@
+District Boundary Buffers,,,,,,,
+Developing Property Zoning District,Adjacent Zoning District,,,,,,
+,"AG, CS",E,"SE, SR, NC","UR,VC, GVC, GNC, SHVC",SC,"SI, UC, TC, SIBE",LIHS
+"AG, CS",--,--,--,--,--,--,--
+E,A,--,B,C,D,E,E
+"SR, SE",--,A,--,A,D,E,E
+"UR, VC, GVC, GNC, SHVC",B,C,B,--,C,D,D
+SC,D,D,D,C,--,A,A
+"SI, UC, SIBE, GGMC",D,E,E,D,A,--,--
+LIHS,L,L,L,L,L,L,--
+NC,B,B,--,B,A,A,A

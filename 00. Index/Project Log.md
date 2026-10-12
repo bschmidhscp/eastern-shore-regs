@@ -14,7 +14,7 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | Talbot — legislation | ✅ 141 bills + 208 resolutions (2022–2026), indexed |
 | Talbot — meetings & decisions | ✅ PC minutes (36, Oct 2023–), Council minutes (79), 159 Board of Appeals decisions, 26 pre-app agendas — all digested |
 | Talbot — summary (layer 1) | ✅ `Talbot/00. Summary.md` |
-| Statewide rules (COMAR etc.) | ⏳ Not started |
+| Statewide rules (COMAR etc.) | ✅ `01. Maryland/00. Summary.md` + 72 COMAR chapters / statute ranges and 69 agency guidance docs (retrieved 2026-10-11) |
 | Other 8 counties | ⏳ Pipeline built; sources being scouted |
 | County comparison table | 🟡 `00. Index/County Comparison.md` started (Talbot) |
 
@@ -24,9 +24,30 @@ was decided, what was learned, and what's next. Background and layout are in **S
   found. May change growth areas and densities.
 - **FY27 fee schedules** — not posted; impact fees rose by the automatic ENR adjustment.
 - **Septic Tier IV ceiling** — code implies max 7 lots on septic (small-scale); confirm with staff.
+- **Forest Conservation Act overhaul (Ch. 457 of 2024) took effect 2026-07-01** — reforestation now 1:1 for all
+  clearing (½:1 in PFAs). Check each county's FCA ordinance was updated; mgaleg still labels the old text "in effect".
+- **Stormwater regulation rewrite** — MDE draft of COMAR 26.17.02 (Sept 2025) not yet adopted; watch.
+- **SB 236 county snapshot is dated** (MDP maps 2012/2017): confirm each county's minor-subdivision number and
+  whether Queen Anne's, Dorchester and Worcester have since adopted tier maps.
 - **Minor-subdivision timelines** — decided by the Planning Director, not minuted; ask staff/engineers.
 
 ## Key findings so far
+
+**Statewide (details and citations in `01. Maryland/00. Summary.md`):**
+- **Septic tiers cap lot count:** Tier IV allows only a minor subdivision on septic, with no later re-subdivision.
+  Kent, Queen Anne's, Talbot, Dorchester, Wicomico and Somerset raised the minor-subdivision number to **7 lots**;
+  Caroline, Cecil and Worcester kept their older definitions. Kent has a Tier IV exemption (MDP, 2017).
+- **Critical Area RCA:** 1 unit/20 ac (no variance), 15% lot coverage, 200-ft buffer for new subdivisions, and the
+  buffer must be fully planted (fee-in-lieu ≥ $1.50/sf only if planting is infeasible). Growth allocation is the only
+  route to more density.
+- **BAT septic** is mandatory statewide only in the Critical Area. BRF grants cover part of the BAT cost on new
+  construction too (100% eligibility ≤$300K household income; 50–75% for businesses), less $1,200.
+- **Forest conservation got costlier on 2026-07-01:** 1:1 replacement of all forest cleared outside PFAs;
+  fee-in-lieu 30.5¢/sf inside a PFA and 36.6¢/sf outside (COMAR figure, indexed yearly).
+- **Perc testing:** wet-season testing on high-water-table soils; 10,000 sf disposal area per lot.
+- **Ag transfer tax:** 3–5% plus a 25% surcharge when farm-assessed land leaves agricultural use.
+
+**Talbot:**
 
 - **Soils:** NRCS rates almost every Talbot soil "Very limited" for septic. Lots outside sewer service
   areas depend on perc results and BAT (nitrogen-removing) septic — a real cost and timing factor.
@@ -43,6 +64,21 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-11 (late night) — Statewide rules layer (Brian + Claude)
+- Built `01. Maryland/`: statutes (mgaleg) and COMAR (regs.maryland.gov) for Critical Area, septic/SB 236/BAT/BRF,
+  Forest Conservation, stormwater and sediment control, nontidal/tidal wetlands, comprehensive plans, PFAs, county
+  water & sewer plans, MALPF and the agricultural transfer tax — one markdown file per COMAR chapter or statute range
+  in `Documents/<Topic>/`, originals in `Originals/<Topic>/`, 744 manifest rows. New tool `02. Tools/statewide_fetch.py`
+  with target list `02. Tools/Statewide Targets.csv` (`--force` to refresh). `search.py --county Maryland` now works.
+- Two Sonnet agents collected 69 guidance documents (CAC buffer guides and model ordinance, FCA Technical Manual and
+  2026 model ordinance, MDE BAT lists, OSSD site-evaluation guidance, BRF FY27 grant guidance, SB 236 guidance and
+  MDP tier maps, Stormwater Design Manual, 2011 ESC standards, 2025 draft SWM rules, MALPF lot-exclusion forms, SDAT
+  ag transfer tax). Two scans are not OCR'd yet (Worcester Critical Area review, MDE site-evaluation manual;
+  `ocr.py --county Maryland --all`).
+- Wrote `01. Maryland/00. Summary.md` (cited; section 9 lists what each county summary must cover).
+- Findings: see Key findings (statewide) above.
+- **Next:** county digests and summaries (`Session - County Digests and Summaries.md`), citing the statewide summary.
 
 ### 2026-10-11 (night) — Pipeline proven on Kent; 7 counties running; hand-off (Brian + Claude)
 - Scouts mapped all 8 counties into `02. Tools/County Configs/` (code host, meeting archive, key docs).

@@ -25,6 +25,7 @@ Step two is comparing counties and narrowing to the best two or three.
 | Everything | `Docs + Regs/` | [folder](https://drive.google.com/drive/folders/1xlT-7qCx-VOBHL8NK7gUUAQ23kffB6Mf) |
 | Guides, search database, **County Comparison** | `Docs + Regs/00. Index/` | [folder](https://drive.google.com/drive/folders/1Hmh04fW_U-otCfBGBq1IXts_SRcYUnGG) |
 | Statewide rules and map catalog | `Docs + Regs/01. Maryland/` | [folder](https://drive.google.com/drive/folders/1U2XjhPHcu4hHoiLThtfmgDpeyP2HKBsl) |
+| **Statewide summary** (Critical Area, septic tiers/BAT, forest, stormwater, wetlands, PFAs, MALPF) | `01. Maryland/00. Summary.md` | — |
 | Map source catalog (33 layers, parcel lookup recipe) | `01. Maryland/GIS/SOURCES.md` | [folder](https://drive.google.com/drive/folders/1zGPRpFAaVTJJ-9PRVBNBJqtJKoDImFyI) |
 | Scripts | `Docs + Regs/02. Tools/` | [folder](https://drive.google.com/drive/folders/172WAqBPpqKkTDGqbKkT7QmDEmNVDIGGN) |
 | Talbot County | `Docs + Regs/Talbot/` | [folder](https://drive.google.com/drive/folders/14_TrTThEqTsvNu_1JJpwaeoztYALTRkJ) |
@@ -110,6 +111,13 @@ The repo is public: never commit personal emails, credentials or confidential de
 4. Review `<County>/02. Coverage Report.md`, then publish guides and sync GitHub.
 
 Cross-county comparison: `00. Index/County Comparison.md` (one column per county).
+
+**Statewide layer (`01. Maryland/`):** `00. Summary.md` (layer 1, cited) → `Documents/<Topic>/` (one markdown file
+per COMAR chapter or statute range, plus agency guidance) → `Originals/<Topic>/`. Topics: Critical Area, Septic and
+Sewage, Forest Conservation, Stormwater, Wetlands and Waterways, Land Use and Growth, Agricultural Preservation,
+Transfer Taxes. Refresh the law with `02. Tools/statewide_fetch.py --targets "02. Tools/Statewide Targets.csv"`
+(add rows there to collect more chapters or sections). County summaries should cite the statewide
+summary rather than repeat it, and cover the county choices listed in its section 9.
 
 ## Conventions
 

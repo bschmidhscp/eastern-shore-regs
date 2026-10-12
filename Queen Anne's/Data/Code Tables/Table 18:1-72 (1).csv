@@ -1,0 +1,6 @@
+Use,Zoning District,Number of Plant Units Required for Every 24 Parking Spaces
+All residential uses,"E, SE, SR, UR, GNC, SHVC, GVC and VC",1.5
+All uses,"UC, TC and GGMC",2.0
+All non residential uses,"UR, GNC, SHVC, GVC, and VC",2.5
+Agricultural support uses,AG and CS,1.5
+"All nonresidential uses, except agriculture and agricultural support uses","AG, CS, E, SE, SR, SC, SI, SIBE, and LIHS",3.0

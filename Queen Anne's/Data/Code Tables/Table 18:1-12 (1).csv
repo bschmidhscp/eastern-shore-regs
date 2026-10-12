@@ -1,0 +1,20 @@
+,A,B,C,
+,Non- contiguous Open Space /TDR,Multifamily/ Manufactured Home Community/ Master Planned Residential Development,Single-Family Cluster Development,
+Allowable Uses,,,NC,All Other
+Agricultural uses,Y,N,Y,Y
+Fields or pastures,Y,Y,Y,Y
+Accessory building,Y,Y,Y,C
+Commercial forestry,Y,N,C,C
+Noncommercial forestry,Y,N,Y,Y
+Commercial stables,Y,N,C,C
+Public recreation,Y*,N,N,N
+Private stables,Y,N,Y,Y
+Nurseries,Y,C,C,Y
+Farm employee dwelling,Y/N,N,N,Y
+Drainage structures,Y,C,Y,Y
+"Minor extraction that does not require the issuance of a surface mining permit in accordance with COMAR 26.21.01.08 (C), (D), (E) and (F)",Y,N,C,Y
+"Minor extraction and dredge disposal uses that require issuance of a surface mining permit on a transferor parcel , provided the parcel has not been subject to a cluster subdivision nor is the parcel a developed parcel for noncontiguous development",Y,N,C,Y
+Minor extraction and dredge disposal uses that require issuance of a surface mining permit on a parcel that has been subject to a cluster subdivision or a parcel that is a developed parcel for noncontiguous development,C,N,C,C
+Shooting clubs,C,N,C,C
+Outdoor recreation,C,Y**,C,C
+"NOTES: * Public recreational uses that include more than 10,000 square feet of enclosed floor area or are greater than one story in height shall be allowed only as a conditional use . ** See § § 18:1-26 to 18:1-33 , district regulations, for additional open space requirements.",,,,
