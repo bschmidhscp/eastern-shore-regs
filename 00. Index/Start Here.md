@@ -20,6 +20,10 @@ Step two is comparing counties and narrowing to the best two or three.
 
 ## Where things are
 
+**Deal screener:** the folder `Screener/` (next to `Docs + Regs/`) holds the parcel screener's results —
+`00. Summary.md` (all counties), `01. Inputs and Roadmap.md`, and one folder per county with ranked candidate
+CSVs and reports. Code: private GitHub repo `bschmidhscp/eastern-shore-screener`.
+
 | What | Location | Link |
 |---|---|---|
 | Everything | `Docs + Regs/` | [folder](https://drive.google.com/drive/folders/1xlT-7qCx-VOBHL8NK7gUUAQ23kffB6Mf) |

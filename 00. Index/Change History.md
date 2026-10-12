@@ -2,6 +2,9 @@
 
 *Generated on each sync. Shows which regulation text changed and the exact wording differences (`-` removed, `+` added). Narrative context is in the Project Log.*
 
+## 2026-10-12 — Project Log + Start Here: paper-lot screener v1 results
+
+
 ## 2026-10-12 — Somerset digests, fee findings and summary; 9-county comparison; search index rebuilt
 
 - New text files: 4

@@ -92,6 +92,24 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
+### 2026-10-12 — Paper-lot screener v1 (Brian + Claude)
+- Built a parcel screener for the lowest-risk model: staff-approved subdivisions only (no public hearing),
+  lots on existing road frontage, engineering as the remaining risk; sell recorded lots to builders.
+- Runs locally from statewide data (parcels, SDAT sales/values, zoning, Critical Area, septic tiers, easements,
+  flood, wetlands, roads) + per-county rules distilled from the county summaries; USDA soils for the shortlist.
+  No AI tokens per run. Results in `Screener/` (Drive); code in private repo `eastern-shore-screener`.
+- Talbot: 22,368 parcels → 1,561 candidates (3,344 possible lots); vacant-lot comps $105k (0.5–2 ac) /
+  $180k (1.5–4 ac); raw land ≈ $16.9k/ac. Most soils "very limited" for septic — drainage class used as perc proxy.
+- All 9 counties screened (rules files distilled from each county summary; Cecil set conservatively to 4 lots).
+  Buy-the-parcel candidates: Worcester 1,294, Cecil 1,051, Queen Anne's 842, Talbot 376, Dorchester 181, Kent 81;
+  **Caroline, Wicomico, Somerset: none** — vacant-lot prices ($30–54k) don't cover ~$25k/lot soft costs.
+  Strongest: Queen Anne's (5-lot staff minors, $140k lots, county zoning map) and Talbot; Worcester looks strong
+  but its zoning is from the generalized map — verify before acting.
+- Guards added: parcels on recorded plats in cumulative-cap counties are kept off the buy list (cap likely used);
+  nominal "arms-length" prices ignored; acquisition floored at one lot value.
+- Key gap: cumulative minor-subdivision caps need plat history per parcel (manual at MDLandRec for shortlist).
+  See `Screener/01. Inputs and Roadmap.md`. Re-run any time: `python -m screener.run_all` (no AI cost).
+
 ### 2026-10-12 — Somerset finished; all 9 counties summarized (Claude)
 - Somerset's first pipeline run got 0 documents (the site uses `<base href>`; crawler fixed in the other session) and
   was re-run: 805 documents. Then the same AI steps as the other counties: fees-and-gaps (added Res. 1218 FY26 and
