@@ -38,10 +38,7 @@ B. Site Plan Review: SP-25-265 Princess Anne Redevelopment Company, LLC
 4) ADJOURN
 NOTICE: Agenda items may not be considered in the listed sequence. This agenda is subject to change to 
 include the addition or the deletion of items including closed session. If Closed Session is utilized, it is 
-pursuant to General Provisions Article of the Maryland Annotated Code, § 3-305(b)(7)(8) 
-fy Gee, »
-Bigicn
-\e
+pursuant to General Provisions Article of the Maryland Annotated Code, § 3-305(b)(7)(8)
 
 <!-- page 2 -->
 SOMERSET COUNTY 
@@ -96,10 +93,7 @@ and field concerns.
  
 Mr. Colborn asked whether landscaping would be irrigated, or watered for survivability through 
 other means.  Mr. Martin shared that other similar projects have typically utilized a water truck 
-and that survivability assurance will be further supported by the landscaping surety and bonding. 
- 
-Le)
-(a)
+and that survivability assurance will be further supported by the landscaping surety and bonding.
 
 <!-- page 3 -->
 SOMERSET COUNTY 
@@ -147,11 +141,7 @@ Mr. Drewer shared the implications of the approved HB538 Housing Expansion and A
 Act.  Mr. Raab asked whether singlewides would be permissible regardless of their age.  Mr. 
 Illuminate shared that the bill’s language references “new” manufactured or modular dwellings, 
 so age restrictions would still apply.  Mr. Mason voiced his concern for how this legislation would 
-actually address affordability within Somerset County.  Mr. Colborn asked whether this legislation 
-Alien)
-\=
-os
-{A
+actually address affordability within Somerset County.  Mr. Colborn asked whether this legislation
 
 <!-- page 4 -->
 SOMERSET COUNTY 
@@ -180,9 +170,7 @@ The Planning Commission adjourned at 5:33 p.m.
  
 Respectfully Submitted, 
  
-Catherine Skeeter, Planner 
-eo eel ey
-Catherine Shooter
+Catherine Skeeter, Planner
 
 <!-- page 5 -->
 Page Break
@@ -244,11 +232,7 @@ must also hold a Public Hearing before approving or denying the request.
 B. RELEVENT BACKGROUND INFORMATION:  
  
 1. Existing and Proposed Land Use: The current land use is farmland. There is some 
-woodland on the property and to the south is Manokin River. Mr. Miller proposes to 
-(Alen)
-\s
-| Ba
-ey
+woodland on the property and to the south is Manokin River. Mr. Miller proposes to
 
 <!-- page 7 -->
 REZ-26-194 - Page 2 of 5 
@@ -441,156 +425,24 @@ Matthew J. Webster, Chairman
 Somerset County Planning Commission
 
 <!-- page 12 -->
-ERE
-SOMERSET COUNTY
-is ARE]
-DEPARTMENT OF TECHNICAL AND COMMUNITY SERVICES
-= yes Is
-Mary R. Phillips. Zoning Administrator/Interim Director
-one,
-REZ -aAG~ 194
-REZONING APPLICATION
-2
-*A fee of$500 is due upon submission ofan application for a rezoning.
-Date Paid: 8 -| 1Lb
-;
-;
-a
-CK LOT,
-Applicant: __Theodore Miller
-Owner (if different): “hecore. Ueer
-Phone #:__410-322-5919
-Email Address: _cgtedmiller@gmail.com
-S00 =
-Owner Address:
-1382 Creek street Webster NY 14580
-Location and Description of Property:
-11105 Brown Stone Rd Princess Anne MD 21853
-Tax Map #:
-23
-Grid #:
-03
-Parcel #:
-02
-Acreage:
-72.47
-Election District:
-Liber:
-1328
-Folio:
-186
-Zoning Classification (Current):
-r-2 residential
-Zoning Classification (Requested):
-AR Agricultural
-Reason for Rezoning (choose one or both):
-O Mistake in the Existing Zoning Classification (please explain):
-O A Substantial Change in the Character of the Neighborhood (please explain):
-change in comp
-plan has marked the area as mostly agricultural
-I hereby certify that the information contained in the application and accompanying documents
-(if any) is true and correct to the best of my knowledge and belief:
-Aid Wee
-Signature of Property Owner
-05/14/2018
+
 
 <!-- page 13 -->
 Posting on Property Picture
 
 <!-- page 14 -->
-Miller Rezoning: Adjacent Zoning Designations
-=
-IN
-the
-e
-.
+
 
 <!-- page 15 -->
 BROWNSTONE Road
 Maxar, Microsoft
 Location for rezoning of 11105 Brownstone Rd
-Location for rezoning of 11105 Brownstone Rd
-———INS
 
 <!-- page 16 -->
-Miller Rezoning: Mapped asa Priority Preservation Area
-JS
-atin,
-.
-Be
-—
-Ma
-Veep et
-cae
-oer ame o
-ae,
-!
-i i
-ay (>
-ON
-=
-b
-t rea
-\
-SS
-“a
-Fe
-i a
-b,
-|
-yl
-fc
-oy’
-ha
+
 
 <!-- page 17 -->
-Andrew E. Welch and Maria Sofia Avendano-Welch
-11196 Brownstone Road
-Princess Anne, Maryland 21853
-July 21, 2025
-Somerset County Department of Planning and Zoning
-Somerset County Office Complex
-Room 211
-11916 Somerset Avenue
-Princess Anne, Maryland 21853
-Attn:
-Mr. William Cornish
-Assistant Director and Zoning Administrator
-Re:
-Theodore Miller
-Requested Zoning Change
-REZ-191
-Brownstone Road
-Princess Anne, Maryland
-Dear Mr. Cornish:
-I purchase our 4 acres, Parcel 594, in 1986 in this rural residential neighborhood and it has remained as
-such for nearly 40 years. The majority of the parcels on Brownstone Road are less than | acre to 6 acres in
-size. These are residential lots and not suitable for agribusiness.
-In our opinion, a change from R-2, Medium Density Residential to AR, Agricultural Residential would
-have negative impacts to property owners on Brownstone Road that do not participate in the agricultural
-industry. Our concern would be the direct impact on us from the permitted uses in an AR Zone. The
-permitted uses, as outlined in Zoning Ordinance No 1212 and adopted February 25, 2025, would be:
-1.
-Commercial Raising of Livestock and Manure Storage
-2.
-Commercial Raising of Poultry
-3.
-Garbage Feeding of Pigs/Hogs by Special Exception
-4.
-Spreading of Treated Municipal Sewage or Household sludge by Special Exception
-The negative impacts of these uses include but are not limited to offensive odor, health and safety concerns
-as well as potential decrease in property values. Lot sizes of | to 6 acres are not large enough to participate
-in these agribusiness concerns but would suffer the negative impacts of the same.
-In light of the above we herby request that a change from R-2 to AR, not be granted.
-Thank you for the opportunity to submit these comments and we appreciate your consideration of our
-request to maintain our neighbor as residential.
-Sincerely,
-Andrew E. Welch, P.E.
-Maria Sofia Avendano-Welch, M.D.
-.
-.
-Cot Crai4 IN Mathies, $e
-falph vd. Tay lor
+
 
 <!-- page 18 -->
 Page Break
@@ -642,10 +494,6 @@ Access: The parcel is accessed via Clipper Circle, which stems from Skipjack Cir
 which comes off of Market Ln.  Market Ln runs parallel to Rt. 13.
 b. Stormwater Management: Proposed SWM measures must undergo full review and
 approval from County Engineer.
-ge
-FN ip
-|
-ey
 
 <!-- page 20 -->
 SP-25-265 - Page 2 of 7 
@@ -694,46 +542,14 @@ Prepared by: Catherine Skeeter
 SP-25-265 - Page 3 of 7 
  
  
-Vicinity Aerial 
- 
- 
->
-7
-/
-Bc
-e
-|
-:
-=e
-2 Wer,
-noo.
-i
-4
-1
-Pt
-oe
-ieee
-|
-a
-‘
-5,
-Gata
-ro reeur®
-jae
-|
+Vicinity Aerial
 
 <!-- page 22 -->
 SP-25-265 - Page 4 of 7 
  
  
 Site Photo #1 – Existing apartment, by which the new 12-unit apartment will be located. Existing 
-dumpster area, parking, and sidewalks shown 
- 
- 
-ee
-_ aaa
-Ns
-9
+dumpster area, parking, and sidewalks shown
 
 <!-- page 23 -->
 SP-25-265 - Page 5 of 7 
@@ -753,22 +569,7 @@ background.
 SP-25-265 - Page 7 of 7 
  
  
-Site Photo #4 – Development sign.  Area of proposed development directly to the left of the sign. 
- 
- 
- 
-Oi (a
-ad ae inte?
-Ee
-ee
-eae
-i
-SS SSS
-~
-Se Se
-oe
-RTT
-I
+Site Photo #4 – Development sign.  Area of proposed development directly to the left of the sign.
 
 <!-- page 26 -->
 SOMERSET COUNTY 
@@ -825,7 +626,6 @@ be required by SCD/County Engineer.
 •
 The existing stormwater management facilities were designed for future phases of development.
 The project will be assigned SWM Plan #12-08 Addendum. Runoff from the proposed development
-Sas
 
 <!-- page 27 -->
 2 | P a g e 
@@ -1349,74 +1149,6 @@ UT-2
 UTILITY & STORM DRAIN PROFILES
 UT-3
 UTILITY & STORM DRAIN DETAILS
-a
-\\
-ms
-J
-\,
-\
-VO
-i]
-N
-\
-aN
-SScS ee een
-Av Ra
-Ih
-;
-{
-4
-of it
-®
-S
-=
-1
-i
-Ey
-@
-3
-= =
-. NT
-©
-i
-4
-E
-g
-book
-a"
-=
-=
-ay
-E
-i,
-=
-TTT
-is
-|
-|
-fis,chyON
-a
-oo
-|
-\
-_
-a
-Jo i
-:
-ar
-us)
-|.
-Q
-wu =<
-Z
-°
-=
-als
-z
-—s
-— |
-@
-exe
 
 <!-- page 30 -->
 EX.12''SD
@@ -1705,283 +1437,6 @@ EX SHRUB
 TO REMAIN
 EX LIGHT POST TO
 BE RELOCATED
-29-90/u5 4 wvTd 84
-Hh
-\
-SN
--—-----
-a
-| ae Lg
-\
-\
-\
-NS
-~ oe Ste ToT ———
-7
-fot
-8
-\
-~
--
-yhR K
-So
-oo —
-a
-Wo
-\
-To STSS
-ee
-|
-iA
-KS a —
-Sa
-oor aa
-I
-Fa
-ae
-= Mor <=—
-re
-aa--------5
-&
-|
-|= \(8
-Sea RET
-S
-ee
-waco nnnennn
-nnn
-|
-OO
-ee
-Woo.
-Sy
-|ty
-|
-a
-ee
--
-H
-lf}.
-|
-wana panna nn noone
-|
-i
-Cia Ee
-\
-!
-|
-es
-H
-_
-|
-lx
-1
-——
-+
-+180.
-|
-_—
-!
-|
-| 4
-\
-| x
-L
-7!
-[
-—
-ew
-—121 EXe'W —
-whorl,
-=
-ee
-ae SA
-|
-N d As
-meen fast
-_-
-a
-a1
-| ws
-ye
-TF va Wo
-oo
-a
-es
-|
-I
-|
-SiN
-/
-—,
-;
-=
-_-+--F
-PLL
-aT bee
-2
-|
-cory)
-EY
-/
-Seles
-| mp
-LX NO a
-TTI EL) yyy
-| LL
-LE
-=
-°
-/
-a
-|
-V4!
-:
-.
-oN
-‘
-|
-—
-+--+---------
-ele
-: /
-! et ’, SON eae
-|
-|
-| ee
-|
-|
-|
-|
-oe
-oe os
-/
->
-8
-/
-I
-|
-\t)
-Lo
-4
-\
-\
-=
-|
-watast==----~~
-/
-S
-a
-|
-|
-tte
-=)
-/
-/
-y
-|
-| L
-|
-4
-|
-,~O eas sot a TT {ot tit
-/
-=
-g
-)
-ei)
-ie
-1
-&
-7
-\
-Wann
-eae
-mN
-\
-ld
-H
-| Lf
-,
-ffl
-~--==5=5~~--~~-~~~- 55
-ul
-/
--=
-Sah ||
-hd
-[0
-parasassssaaas
-ne
-Or
-\
-!
-Fa
-|
-|
-!
-i
-|
-»
-\
-i
-i
-|
-|
-i
-i
-Ve
-SSS,
-oe
-©
-\qot
-1
-a)
-ley!
-|
-|
-vil
-TIEEE
-=
-)
-a
-\
-—
-—
-| re
-|
-\
-vt
-Bet eiea sy paar
-_
-=
-at
-‘|
-L
-1
-\
-\
-oe
-oO
-tu
-a
-'
-\
-|
-\
-\
-Ae
-|
-|
-\
-\
-|
-\
-\
-\
-Za
-aN
-'
 
 <!-- page 31 -->
 148"
@@ -2094,324 +1549,6 @@ CLIPPER CIRCLE
 MARKET LANE (SERVICE ROAD)
 CHESAPEAKE BAY CRITICAL AREA LINE
 JONES CREEK
-meas
-ZEAE
-Beeesconeatetaace
-a
-LE sescecsucecesceess
-feet:foie woteaees
-/;
-forts
-Brest
-~
-be}
-/
-i: SY
-H
-aetecextes et
-aL
-5
-SEE EEENA
-ww
-STS
-g
-Lt
-<
-eu ece PALS afte S283
-frreeihrrecl?
-.
-ERO ee OhSo te Sone eee 8.Soe8ee 1p Z
-~
-signs
-Cdrrs2\
-JOE
-x
-eeeeliry
-|
-Pani]
-“iA
-ES.
-.
-Nain
-WA
-| \S
-yf \
-\
-ire
-yeni
-\ uf
-\
-CaN
-A
-|
-Pays: en) \
-Di
-oO
-N
-\
-/
-be ns £ ROR
-\
-\ (
-(
-\
-x
-|
-(2 net ROSO
-\
-\
-}
-AN
-N
-shen Prceconceacen'
-\
-VS iF /
-\
-—/_
-7
-rVirrs RXR, \
-py ee
-NX
-TN
-a
-heir: Neatetetatetates
-g
-fT
-errenes: RSecanaseeo
-OS
-aan sa
-He |
-aeons
-SSS
-|
-enn
-PERO VA
-}
-LOL
-AZ Pras
-et
-—
-Ego
-LO
-Re? OO
-K
-\
-LO
-i}
-Ve
-=At
-; a
-Byres
-XO Neta.
-UN
-aN \ UY
-J
-se 4
-} of Pe
-|
-nn
-|
-aa.
-42 nentN
-\/
-“SY
-SOM
-1
-f
-‘
-UKE al
-lp
-|
-TT
-pi
-dS 5
-\
-OES
-OG
-A
-4
-Ea |
-TI
-(
-.
-5
-il
-\
-MONKS
-enna Ww aan
-\
-Loe4
-|
-14
-:
-;
-|
-\
-ma
-\
-Wenea:EW \
-SONY
-LZ
-lar
-tll
-EY a
-NY a “
-ty
-=
-I
-\
-i
-CEA
-bY
-e
-|!
-aeennl
-=
-re NS
-oe SL
-\
-\
-;
-1
-|
-\
-eeec Nees
-¢
--
-ml
-a
-certa
-\
-| i!
-\
-WA
-\
-Ue
-so
-Norase
-\
-I
-eyes
-\
-——~
-a
-|
-|
-\
-enare
-\
-|
-Hh ae
-enctn A
-\
-!
-|
-=
-os nt
-|
-a
-H
-eee ar
-~™
-|
-ge
-(fa
-|
-i
-sono
-NS
-\
-|
-_
-!
-H
-SS
-|
-=
-Nie xs
-XO
-~~’
-;
-|
-Ae
-hot
-—_— 4
-H
-3s
-\
-eces
-SST7 >
-1
-|
-po
-Wy
-°
-eee
->
-=a
-(a!
-J!
-/
-Z
-|
-zm
-Sle
-\ \ REE
-TN
-IL)
-|
-Z
-:
-cece,
-SSN
-BO
-i
-|
-;
-Y weeale
-XN
-SS
-Ye
-'
-Oe
-3
-|e
-eeevene
-\
-~
-f fd Lief
-/
-4)
-!
-N
-2/2
-reget eseecass
-SSN
-/
-es
-Yates Cgrerenea\
-cpapence
-4
-7
-|
-nol
-|e
-a
-pono
-|
-!
-S|
-4
-NSS SSS a
-x
-a] ~
-—
-33|
-FY
-x=
-Lu
->
-oO
 
 <!-- page 32 -->
 148"
@@ -2637,157 +1774,6 @@ RELOCATED
 LIGHT POST
 25' BSL
 25' BSL
-IN|
-4
-Se
-oe
-|
-i
-ee
-_
-_
-PN
-oe
-oe
-|
-|
-=
-i
-ee
-oan
-©
-©
-@
-8
-I
-4
-Se nea
-| |W ee
-et
-oe
-I
-rood
-|
-|
-pa
-an
-aenikeTe 6
-e
-r
-a
-I
-| —————
-J
-E
-|
-aN
-hol
-|
-ee
-~
-a
-S
-“yo, eo TS
-|
-8
-fh ,
-4
--)
-ieee
-:
-2
-;
-|
-|
-|
-|
-|
-| Be
-OT
-Pod INF | |
-ee
-|
-|
-* 8
-L, — & Z
-wv
-eee Ipeey ran Sanenaaee
-|
-|
-|
-;
-:
-/
-!
-5
-i
-J
-~~
-a
-\
-|
-|
-|
-ee
-ee
-z
-¢
-é
-Ny
-\
--------+----
-a
-/
-!
-\
-|
-)
-SZ
-—
-a
-2
-“
-|
-|
-|
-|
-/ / owe
-o& <<
-a
-to! aw
-oe
-Oo
-.
-q
-H
-I
-|
-y,
-SOSORR SS aaa SESS SESE /
-45 =
-|i
-I\
-|
-4
-_
-;
-Pot ona
-i
-e
-os
-;
-5
-IX
-—
-;
-1
-ioe
-72
-=
-7
-om
-\
-ag
 
 <!-- page 33 -->
 LITE & LANDSCAPING DETAILS
@@ -3089,109 +2075,6 @@ NOT TO SCALE
 NOT TO SCALE
 NOT TO SCALE
 NOT TO SCALE
-SS
-I
-ee
-a
-qa
-—--
-9
-4\c
-t
-fe
-poten
-;
-oe
-yet
-ae
-°
-scr
-l J
-PT
-STANDARD SIDEWALK
-;
-ee
-Seen reas,ee
-omnes
-SIDEWALK IN DRIVEWAY
-Same
-hg gggnoms
-Boeaan pea
-im)
-Sa,
-‘Sdaemuron cones ures SS
-—_—>
-—_—
-SOMERSET COUNTY, MD |
-SOMERSET COUNTY, MD
-as
-Pe
-ee
-DEPARTMENT OF PUBLIC WORKS
-tl
-VAN
-|]
-S
-RAN
-TRY’
-ACCESSIBLE
-||"
-=
-ARC
-Roy
-Ue
-RQ
-.|
-ll
-i
-i
-a
-AS
-P
-{
-:
-—
--
-f
-i
-n
-2
-v
-v—
-3
-=
-i
-ha
-g
-Cr
-©
-i
-|,
-5
-WW
-;
-|
-f
-\\
-{f
-\\
-{
-\
-{/
-\
-in
-2 Nj
-L
-2=
-[*4
-i
-Ss
-0S
-|
-eu
-rE
-a
-|i
 
 <!-- page 34 -->
 EX.8''SS

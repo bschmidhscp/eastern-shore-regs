@@ -2,6 +2,201 @@
 
 *Generated on each sync. Shows which regulation text changed and the exact wording differences (`-` removed, `+` added). Narrative context is in the Project Log.*
 
+## 2026-10-12 — Somerset digests, fee findings and summary; 9-county comparison; search index rebuilt
+
+- New text files: 4
+- Files whose content changed: 3
+
+### Somerset/Meeting Minutes/Planning Commission/May 7, 2026 PC Packet.md
+```diff
+-pursuant to General Provisions Article of the Maryland Annotated Code, § 3-305(b)(7)(8) 
+- 
+-fy Gee, »
+-Bigicn
+-\e
++pursuant to General Provisions Article of the Maryland Annotated Code, § 3-305(b)(7)(8)
+-confirmed. 
+- 
+-| a] B
+-\
+-m
+-we
+-i
++confirmed.
+-Catherine Skeeter, Planner 
+-Catherine Shecter
++Catherine Skeeter, Planner
+-Somerset County Planning & Zoning Commission 
+-ge
+-ey
++Somerset County Planning & Zoning Commission
+-adjacent to the Route 413 Hiker/Biker Trail.   
+-ge
+-[Allen
+-iy
++adjacent to the Route 413 Hiker/Biker Trail.
+-management ordinance. 
+- 
+- 
+-(ie)
+-omen!
+-sen
+-|
+-A Beal 3
++management ordinance.
+-Planning Commission Meeting: 05/07/2026 @5pm or subsequent month, if necessary 
+- 
+- 
+- 
+-a
++Planning Commission Meeting: 05/07/2026 @5pm or subsequent month, if necessary
+-Director 
+- 
+-iy
+-Cease Drewer
++Director
+-Nick Crylen; Nitthaus LLC 
+->| Be 5
+-{
+-Cease Precwen
++Nick Crylen; Nitthaus LLC
+-PLANS ISSUED FOR:
+-Review
+-A-1 ~ FENCING TYPICAL
+-7 FT TALL CHAIN LINK
+-P|
+-C-1
+-ON WALL SURFACES
+-NO. 7 COILED SPRING REINFORCING WIRE
+-BARBED TAPE
+```
+### Somerset/Meeting Minutes/Planning Commission/PC PACKET- 4.2.26 - Hawk Plaza and Miller Rezoning.md
+```diff
+-pursuant to General Provisions Article of the Maryland Annotated Code, § 3-305(b)(7)(8) 
+-fy Gee, »
+-Bigicn
+-\e
++pursuant to General Provisions Article of the Maryland Annotated Code, § 3-305(b)(7)(8)
+-and that survivability assurance will be further supported by the landscaping surety and bonding. 
+- 
+-Le)
+-(a)
++and that survivability assurance will be further supported by the landscaping surety and bonding.
+-actually address affordability within Somerset County.  Mr. Colborn asked whether this legislation 
+-Alien)
+-\=
+-os
+-{A
++actually address affordability within Somerset County.  Mr. Colborn asked whether this legislation
+-Catherine Skeeter, Planner 
+-eo eel ey
+-Catherine Shooter
++Catherine Skeeter, Planner
+-woodland on the property and to the south is Manokin River. Mr. Miller proposes to 
+-(Alen)
+-\s
+-| Ba
+-ey
++woodland on the property and to the south is Manokin River. Mr. Miller proposes to
+-ERE
+-SOMERSET COUNTY
+-is ARE]
+-DEPARTMENT OF TECHNICAL AND COMMUNITY SERVICES
+-= yes Is
+-Mary R. Phillips. Zoning Administrator/Interim Director
+-one,
+-REZ -aAG~ 194
+-REZONING APPLICATION
+-2
+-*A fee of$500 is due upon submission ofan application for a rezoning.
+-Date Paid: 8 -| 1Lb
+-;
+-;
+-a
+-CK LOT,
+-Applicant: __Theodore Miller
+-Owner (if different): “hecore. Ueer
+-Phone #:__410-322-5919
+-Email Address: _cgtedmiller@gmail.com
+-S00 =
+-Owner Address:
+-1382 Creek street Webster NY 14580
+-Location and Description of Property:
+-11105 Brown Stone Rd Princess Anne MD 21853
+-Tax Map #:
+-23
+-Grid #:
+-03
+-Parcel #:
+-02
+-Acreage:
+-72.47
+-Election District:
+```
+### Somerset/Meeting Minutes/Planning Commission/PC Packet February 6, 2025.md
+```diff
+-ADJOURN 
+- 
+-a
++ADJOURN
+-supplemental use regulations:  
+-B ea
+-|
++supplemental use regulations:
+-Catherine Skeeter, Planner 
+-Catherine Lhecter
++Catherine Skeeter, Planner
+-Alen)
+-\=
+-a Ss
+-aa
+-|
+-;
+-_f
+-ry
+-fo-*
+-1
+-|
+-9
+-le as =
+-—~~~~~~~~~} ~~ la--— =
+-er |
+-|
+-ee a
+-ey
+-I
+-Pos,
+-—_—
+-(
+-1
+-|
+-I
+-|
+-ees
+-|
+-—
+-2 |
+-|
+-!
+-en
+-|
+-———
+-Sse
+-|anl
+-1
+-i
+-ie
+-|
+-_
+-Gimme pee
+-|
+-Le
+-|
+-"
+-a
+-ro |
+```
+
 ## 2026-10-11 — County digests, fee findings and summaries for Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico, Worcester; 8-county comparison
 
 - New text files: 6134

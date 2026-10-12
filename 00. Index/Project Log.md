@@ -15,9 +15,8 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | Talbot — meetings & decisions | ✅ PC minutes (36, Oct 2023–), Council minutes (79), 159 Board of Appeals decisions, 26 pre-app agendas — all digested |
 | Talbot — summary (layer 1) | ✅ `Talbot/00. Summary.md` |
 | Statewide rules (COMAR etc.) | ✅ `01. Maryland/00. Summary.md` + 72 COMAR chapters / statute ranges and 69 agency guidance docs (retrieved 2026-10-11) |
-| Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico, Worcester | ✅ Documents, digests, Fee Findings, summary (layer 1), Key Metrics — 2026-10-11 |
-| Somerset | ⏳ Pipeline re-running (code is PDF only); digests and summary next |
-| County comparison table | 🟡 `00. Index/County Comparison.md` — 8 of 9 counties (Somerset pending) |
+| Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico, Worcester, Somerset | ✅ Documents, digests, Fee Findings, summary (layer 1), Key Metrics — 2026-10-11/12 |
+| County comparison table | ✅ `00. Index/County Comparison.md` — all 9 counties |
 
 ## Open questions / watch items
 
@@ -29,6 +28,8 @@ was decided, what was learned, and what's next. Background and layout are in **S
   so approval rates there are unknown.
 - **Worcester never adopted septic tier maps:** Commissioners say a major subdivision on private septic is not
   eligible (2025-11-04) — 6+ lots need public sewer there. Confirm.
+- **Somerset Subdivision Ordinance is not in the corpus** (zoning ordinance only refers to it); minor = 1–7 lots per
+  the 2025 application form. Somerset zoning amendments had a hearing 2026-10-06 (outcome not found).
 - **Pending local changes:** Dorchester Bill 2026-9 (RR lot sizes, not codified); Wicomico Critical Area rewrite
   (Bill 2026-02) and comp plan update; Worcester 2026 comp plan (hearing 2026-10-06); Caroline 2026 comp plan (final
   draft July 2026); Queen Anne's Res. 25-12 sewer moratorium (Kent Island) and Chapter 18:1 rewrite.
@@ -62,13 +63,14 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 **Across counties (details in `00. Index/County Comparison.md` and each `<County>/00. Summary.md`):**
 - **Minor-subdivision size differs a lot:** 3 lots (Talbot, Wicomico), 4 (Caroline), 5 (Cecil, Worcester), 7 (Kent,
-  Dorchester, Queen Anne's). All are decided by staff (Dorchester: Planning Commission chairman signs).
-- **Impact / excise fee per new home:** none in Kent, Cecil, Wicomico, Worcester; $5,000 in Caroline (schools) and
+  Dorchester, Queen Anne's, Somerset). All are decided by staff (Dorchester: Planning Commission chairman signs).
+- **Impact / excise fee per new home:** none in Kent, Cecil, Somerset, Wicomico, Worcester; $5,000 in Caroline (schools) and
   Dorchester (excise, suspended in some years); Talbot $9,356; Queen Anne's ~$5.99/sf (≈ $15,000 for 2,500 sf).
 - **Planning fees for a 3-lot minor are small everywhere** ($200–$1,375); impact fees and septic/BAT dominate.
 - **Rural density is the real limiter:** Cecil allows 1 unit/acre in minor subdivisions (NAR/SAR/RR) — the most
   generous; Caroline 1/acre gross but only 4 lots; Kent 1 per 30 ac; Queen Anne's sliding scale 1 per 100 ac; Wicomico
-  1 per 15 ac (3-lot minor right preserved); Dorchester 3 + 1 per 15 ac.
+  1 per 15 ac (3-lot minor right preserved); Dorchester 3 + 1 per 15 ac; Somerset AR sets only a 1-acre minimum lot
+  (no per-acre cap) — septic/Tier IV and the Critical Area (~42% of the county) are the limits there.
 - **Boards of Appeals grant almost everything** where decisions are recorded: 85–97% (Kent, Queen Anne's, Talbot,
   Wicomico, Worcester, Cecil).
 
@@ -89,6 +91,19 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-12 — Somerset finished; all 9 counties summarized (Claude)
+- Somerset's first pipeline run got 0 documents (the site uses `<base href>`; crawler fixed in the other session) and
+  was re-run: 805 documents. Then the same AI steps as the other counties: fees-and-gaps (added Res. 1218 FY26 and
+  Res. 1181 fee schedules), 8 Haiku digest batches (two re-run after a usage-limit stop, resuming from partial CSVs),
+  merge (Somerset's governing-body digest is "County Commissioners Land-Use Actions" and includes Sanitary Commission
+  items), Sonnet summary + Key Metrics. Spot-checked the 7-lot minor and $225 + $25/lot fee (2025 application, Res.
+  1218) and the AR lot standards (ZO § 6.2).
+- Rebuilt the search index (12,062 files) and `00. Index/County Comparison.md` — now all 9 counties.
+- Somerset highlights: no impact fee; 3-lot minor ≈ $300 in county fees; AR has only a 1-acre minimum lot; Critical
+  Area ≈ 42% of the county; 61 of 64 decided zoning appeals granted; only 2 major subdivisions at PC in 3 years.
+- **Next:** review the comparison with Brian/Ben and pick 2–3 counties; call county staff to fill the fee/septic gaps
+  listed under *Open questions*; parcel screener (separate session).
 
 ### 2026-10-11 (late night 2) — County digests, fee research and summaries for 7 counties (Brian + Claude)
 - Finished the AI steps for Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico and Worcester, matching the

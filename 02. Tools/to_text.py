@@ -125,13 +125,49 @@ def convert(item):
     return path, {**row, "text_path": str(dest.relative_to(CORPUS)), "notes": notes}, needs_ocr, None
 
 
+def _one(path, plain):
+    """Child-process entry: convert one document, print the updated manifest row as JSON."""
+    import json
+    global LAYOUT_MAX_PAGES
+    if plain:
+        LAYOUT_MAX_PAGES = 0  # forces plain-text extraction
+    row = read_manifest(Path(path).parts[0])[path]
+    p, new, ocr, err = convert((path, row))
+    print(json.dumps({"path": p, "row": new, "ocr": ocr, "err": err}))
+
+
+def run_isolated(item, timeout=120):
+    """Convert in a separate process with a hard time limit (PDF libraries can hang in native code,
+    where Python timers can't interrupt). On timeout, retry once in plain-text mode."""
+    import json
+    path, _ = item
+    for plain, limit in ((False, timeout), (True, 60)):
+        cmd = [sys.executable, "-I", __file__, "--one", path] + (["--plain"] if plain else [])
+        try:
+            r = subprocess.run(cmd, capture_output=True, text=True, timeout=limit)
+        except subprocess.TimeoutExpired:
+            continue
+        lines = [l for l in r.stdout.splitlines() if l.startswith("{")]
+        if lines:
+            d = json.loads(lines[-1])
+            return d["path"], d["row"], d["ocr"], d["err"]
+        return path, None, False, (r.stderr or "no output")[-200:]
+    return path, None, False, "timed out (layout and plain text)"
+
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--county", required=True)
+    ap.add_argument("--county")
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--only")
     ap.add_argument("--workers", type=int, default=8)
+    ap.add_argument("--one", help=argparse.SUPPRESS)
+    ap.add_argument("--plain", action="store_true", help=argparse.SUPPRESS)
     a = ap.parse_args()
+    if a.one:
+        return _one(a.one, a.plain)
+    if not a.county:
+        ap.error("--county is required")
 
     rows = read_manifest(a.county)
     todo = []
@@ -146,12 +182,13 @@ def main():
         todo.append((path, row))
     print(f"{len(todo)} documents to convert", flush=True)
 
-    updated, flagged, done = [], [], 0
-    with ProcessPoolExecutor(a.workers) as ex:
-        for path, new, ocr, err in ex.map(convert, todo, chunksize=2):
+    from concurrent.futures import ThreadPoolExecutor
+    updated, flagged, failed, done = [], [], [], 0
+    with ThreadPoolExecutor(a.workers) as ex:
+        for path, new, ocr, err in ex.map(run_isolated, todo):
             done += 1
-            if err:
-                print("  ! failed", path, err, flush=True)
+            if err or not new:
+                failed.append((path, err))
                 continue
             updated.append(new)
             if ocr:
@@ -162,9 +199,9 @@ def main():
                 updated = []
     if updated:
         upsert_manifest(a.county, updated)
-    print(f"converted {done - 0} documents; {len(flagged)} look scanned (needs_ocr)")
-    for f in flagged:
-        print("   needs_ocr:", f)
+    print(f"converted {done - len(failed)} documents; {len(failed)} failed; {len(flagged)} look scanned (needs_ocr)")
+    for f, e in failed[:20]:
+        print("   failed:", f, str(e)[:120])
 
 
 if __name__ == "__main__":

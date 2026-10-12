@@ -59,11 +59,7 @@ C. CY2025 Maryland Department of Planning Annual Report
  
 NOTICE: Agenda items may not be considered in the listed sequence. This agenda is subject to change to 
 include the addition or the deletion of items including closed session. If Closed Session is utilized, it is 
-pursuant to General Provisions Article of the Maryland Annotated Code, § 3-305(b)(7)(8) 
- 
-fy Gee, »
-Bigicn
-\e
+pursuant to General Provisions Article of the Maryland Annotated Code, § 3-305(b)(7)(8)
 
 <!-- page 2 -->
 SOMERSET COUNTY 
@@ -166,13 +162,7 @@ assured the Planning Commission that plantings would be placed around the apartm
 to match the style of the plantings around the existing apartment buildings on the parcel.  
  
 Mr. Colborn also asked for confirmation that the dog park area was to be fully fenced – Mr. Davis 
-confirmed. 
- 
-| a] B
-\
-m
-we
-i
+confirmed.
 
 <!-- page 4 -->
 SOMERSET COUNTY 
@@ -208,8 +198,7 @@ The Planning Commission adjourned at 5:39 p.m.
  
 Respectfully Submitted, 
  
-Catherine Skeeter, Planner 
-Catherine Shecter
+Catherine Skeeter, Planner
 
 <!-- page 5 -->
 Page Break
@@ -258,9 +247,7 @@ Sincerely,
  
  
 Matthew Webster, Chair 
-Somerset County Planning & Zoning Commission 
-ge
-ey
+Somerset County Planning & Zoning Commission
 
 <!-- page 7 -->
 Rezoning Request: RZ-2026-194 
@@ -507,10 +494,7 @@ into consideration on the revised Site Plan, by placing all new development on a
 areas. Also, revised plans reflect efforts to preserve the existing wooded areas - no tree clearance 
 is proposed.  Additional improvements to the existing conditions will include on-site landscaping 
 and fencing around the entire facility.  Additionally, the parcel is ideally located near the City, and 
-adjacent to the Route 413 Hiker/Biker Trail.   
-ge
-[Allen
-iy
+adjacent to the Route 413 Hiker/Biker Trail.
 
 <!-- page 14 -->
 SP-26-267 - Page 2 of 6 
@@ -637,14 +621,7 @@ Maryland Stormwater Design Manual would be considered pervious.  In order to con
 system, the entire area would be included within the limit of disturbance.     
 • 
 Any limit of disturbance above 5,000 square feet will be subject to the County’s stormwater 
-management ordinance. 
- 
- 
-(ie)
-omen!
-sen
-|
-A Beal 3
+management ordinance.
 
 <!-- page 20 -->
 SOMERSET COUNTY 
@@ -704,11 +681,7 @@ TAC Letter Response: 04/06/2026
 Site Plan Edits/Changes: Resubmit by 04/23/2026 
 Staff Report: 4/27/2026 
 Planning Commission Packet Mailed to Planning Commission: 04/29/2026 
-Planning Commission Meeting: 05/07/2026 @5pm or subsequent month, if necessary 
- 
- 
- 
-a
+Planning Commission Meeting: 05/07/2026 @5pm or subsequent month, if necessary
 
 <!-- page 21 -->
 SOMERSET COUNTY 
@@ -727,10 +700,7 @@ Sincerely,
  
  
 Jesse Drewer, MPA 
-Director 
- 
-iy
-Cease Drewer
+Director
 
 <!-- page 22 -->
 SOMERSET COUNTY 
@@ -801,10 +771,7 @@ Cc:
 Will Cornish, Catherine Skeeter Danny Thompson; Somerset County 
  
  
-Nick Crylen; Nitthaus LLC 
->| Be 5
-{
-Cease Precwen
+Nick Crylen; Nitthaus LLC
 
 <!-- page 23 -->
 Real Property Data Search ( )
@@ -1643,237 +1610,6 @@ Atlantic Group
 &iYil (nJineers
 & Associates, Inc.
 SITE DETAILS
-PLANS ISSUED FOR:
-Review
-A-1 ~ FENCING TYPICAL
-7 FT TALL CHAIN LINK
-P|
-C-1
--- TYPICAL FLOOD VENTS
-ON WALL SURFACES
-NO. 7 COILED SPRING REINFORCING WIRE
-BARBED TAPE
-NNO. 7 COILED SPRING REINFORCING WIRE
-Ap= lana
-Sur
-Fon clam)
-:
->
-2b
-aea
-ee
-| oe
-ee | ce
-ee foe Sees yen,~
-\A
-ee
-=
-ome
-Hy
-ll Ay
-!
-=
-CHAIN LINK FABRIC
--
-.
--
-Soe
-r
-‘
-=
-e
-:
-| Oesatban
-i
-MM
-Aundds —_a
-|
-# Seu
-|
-e
-]
-2
-Pe
-ah
-|||ro
-TT
-Tuo, 7 cole spmmc\
-a
-n
-ep Ae
-“
-£2 8
-ki
-: W410" win. conc.
-palgon0 ‘lin Cone. elas—_—
-H Lume POST
-we post
-|
-!
-A Mahe tg
-cf‘|
-tt
-aie
-Vy) |yy
-3
-° 3
-‘
-sa
--OTCONC FOR
-OMR 4
-10"
-i
-,
-oo
-Do
-pat
-Lilt!
-ti
-i)
-emilee i
-fel
-ae
-op
-ee
-10'-0"
-|_
-GATE, SINGLE OR DOUBLE SWING
-}
-10’-0"
-H
-MULTIPLES OF 10'-0"
-_|
-END BAY 10'-0"
-'
-SECTION
-ae
-at
-at:
-io)
-5
-|
-‘SZE AS REQUIRED
-WH TOP RAIL
-t
-\
--_———
-—
-_——
-_
-;
->
-3
-CHAIN LINK FABRIC_FENCE TYPE
-$255
-;
-So
-NOT TO SCALE
-.
-=
-Kk
-©
-<
-Kk
-B-1 -- LIGHTPOST
-i : 5
-12 FT- TALL - STEEL POST
-24
-vane
-1
-:
-nage
-F-1 -- TYPICAL HELICAL PILING-51”
-zg
-_
-METAL SIGN
-=7
-S-82E
-List of Components of Split Solar Street Light
-TRILOGY
-PANEL
-a
-5
-g25ge
-7-6"
-Bi
-a — STAINLESS
-E
-. &
-™
-228 8 8
-_—
-Seth
-76"
-iy
-— 3" 0 STEEL
-E
-as
-3 ane
-#
-~
-C
-POST (GLAV, OR
-E|
-Les
-s
-;Bm
-POWDER-COATED)
-z
-aa
-2
-“eee
-f
-fl ame
-‘
-a
-ae |as
-ae
-er
-ce
-7 me | SEN
-FE
-OF MAR,
-a
-enPa
-alk eee
-a
-le
-a
-:r’ i—_ ‘
-Pole (pole,arm, flange plate)
-| Slee
-concrere
-aue mae
-;|
-= p. EE
-ia
-a
-: NY # i
-=
-Alfe eS bia ¢
-(3000 Pst stn)~ae ue“4
-—
-“Peete gee
-reaormte |
-Battery Box
-PA
-brea
-Sot
-cS
-:
-TOPPLATEFOR CONTIANER MOUNT
-AA
-HF
-FABRICATED BYMANUFACTURE
-Steel Part3:
-;
-7
-TYPICAL SIGNAGE DETAIL
-Anchor Bolt (according to pole)_'S
-24"x36" STEEL SIGN (TRILOGY GROUP)
-SITE
-DETAILS
-C-500
 
 <!-- page 28 -->
 N.O.F.
