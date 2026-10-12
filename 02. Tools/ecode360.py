@@ -216,28 +216,34 @@ class Converter:
 
 # ---------- splitting ----------
 
-SEC_RE = re.compile(r"^(?:§|SECTION)\s*([0-9A-Z]+-[0-9A-Z]+(?:\.[0-9A-Z]+)*)")
-CH_RE = re.compile(r"^Chapter\s+([0-9A-Z]+)\.?\s*(.*)$")
+SEC_RE = re.compile(r"^(?:§|SECTION)\s*((?:[A-Z]{1,3}\s)?[0-9A-Z:]+-[0-9A-Z]+(?:\.[0-9A-Z]+)*)")
+CH_RE = re.compile(r"^(?:Chapter|Title|Article)\s+([0-9A-Z:]+)\.?\s*(.*)$")
 
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--county", required=True)
     ap.add_argument("--code", required=True, help="eCode360 municipality code, e.g. TA0795")
-    ap.add_argument("--guid", required=True, help="node to print; whole-code node or a chapter")
-    ap.add_argument("--html", help="use an already-downloaded print html instead of fetching")
+    ap.add_argument("--guid", required=True, nargs="+",
+                    help="node(s) to print: the whole-code node, or several Part/chapter nodes in order")
+    ap.add_argument("--html", help="use an already-downloaded print html instead of fetching (single guid)")
     a = ap.parse_args()
 
     a.county = county_name(a.county)
     cdir = county_dir(a.county)
-    raw = cdir / "Originals" / "Code" / f"eCode360 {a.code} {TODAY}.html"
-    url = f"{BASE}print/{a.code}?guid={a.guid}"
-    if a.html:
-        raw.parent.mkdir(parents=True, exist_ok=True)
-        shutil.copy(a.html, raw)
-        download(url, raw, a.county, "code", title=f"{a.county} County Code (eCode360 {a.code}) full print view")
-    else:
-        download(url, raw, a.county, "code", title=f"{a.county} County Code (eCode360 {a.code}) full print view", force=True)
+    raws = []
+    for i, guid in enumerate(a.guid):
+        suffix = "" if len(a.guid) == 1 else f" part {i + 1}"
+        raw = cdir / "Originals" / "Code" / f"eCode360 {a.code} {TODAY}{suffix}.html"
+        url = f"{BASE}print/{a.code}?guid={guid}"
+        title = f"{a.county} County Code (eCode360 {a.code}) print view{suffix}"
+        if a.html and len(a.guid) == 1:
+            raw.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy(a.html, raw)
+            download(url, raw, a.county, "code", title=title)
+        else:
+            download(url, raw, a.county, "code", title=title, force=True)
+        raws.append(raw)
 
     # "Includes legislation through MM-DD-YYYY" lives on the code's table-of-contents page
     try:
@@ -245,10 +251,13 @@ def main():
         through = m.group(1) if m else "unknown"
     except Exception:
         through = "unknown"
-    upsert_manifest(a.county, [{**{k: v for k, v in read_manifest(a.county)[str(raw.relative_to(CORPUS))].items()},
-                                "effective": f"legislation through {through}"}])
+    man = read_manifest(a.county)
+    upsert_manifest(a.county, [{**man[str(r.relative_to(CORPUS))], "effective": f"legislation through {through}"}
+                               for r in raws])
 
-    soup = BeautifulSoup(raw.read_text(), "lxml")
+    # parse all parts as one document (chapter/article/section headings are siblings in each print view)
+    soup = BeautifulSoup("<html><body>" + "".join(
+        str(BeautifulSoup(r.read_text(), "lxml").body or "") for r in raws) + "</body></html>", "lxml")
     code_dir = cdir / "Code"
     if code_dir.exists():
         shutil.rmtree(code_dir)  # regenerate cleanly so repealed sections disappear

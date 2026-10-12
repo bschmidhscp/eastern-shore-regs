@@ -1,0 +1,55 @@
+{
+  "county": "Talbot",
+  "governing_body": "County Council",
+  "website": "https://talbotcountymd.gov",
+  "code": {
+    "host": "ecode360",
+    "id": "TA0795",
+    "root_guid": "11765065",
+    "url": "https://ecode360.com/TA0795",
+    "zoning_chapter": "190",
+    "subdivision_chapter": "190",
+    "notes": "Zoning, subdivision and land development are one chapter (190)."
+  },
+  "upload_listings": ["https://talbotcountymd.gov/uploads/File/"],
+  "crawl_starts": [
+    "https://talbotcountymd.gov/planning",
+    "https://talbotcountymd.gov/planning-commission",
+    "https://talbotcountymd.gov/permits",
+    "https://talbotcountymd.gov/compplan",
+    "https://talbotcountymd.gov/County_Council/legislation-present",
+    "https://talbotcountymd.gov/pending_legislation",
+    "https://talbotcountymd.gov/About-Us/boards/board-of-appeals",
+    "https://talbotcountymd.gov/About-Us/boards/board-of-appeals/decisions",
+    "https://talbotcountymd.gov/finance"
+  ],
+  "meetings": {
+    "platform": "granicus",
+    "host": "talbot-md.granicus.com",
+    "bodies": {
+      "Planning Commission": {"view_id": "6"},
+      "County Council": {"source": "upload_listings", "path_contains": "Council_2022/minutes/"},
+      "Board of Appeals": {"source": "upload_listings", "path_contains": "Appeals/Decisions/"}
+    }
+  },
+  "documents": {
+    "comp_plan": "https://talbotcountymd.gov/uploads/File/PlanningPermits/PZ/Comprehensive Plan/2016 Comprehensive Plan/2016CompPlan.pdf",
+    "comp_plan_year": "2016 (2026 update in progress)",
+    "water_sewer_plan": "not posted (amendments via Council resolutions)",
+    "fee_schedule": "https://talbotcountymd.gov/uploads/File/PlanningPermits/PZ/Fee Schedule/Planning Fees 2025-2026.pdf",
+    "impact_fees": "https://talbotcountymd.gov/uploads/File/PlanningPermits/PZ/Impact Fees/FY 26 Impact Fee Schedule (Revised).pdf",
+    "subdivision_regs": "in code chapter 190"
+  },
+  "gis": {
+    "hub": "https://services6.arcgis.com/ScyqVZ3lUUihZ0ky/arcgis/rest/services",
+    "zoning_layer": "Zoning_Effective_With_Annexations/FeatureServer/8",
+    "sewer_service_layer": "see 01. Maryland/GIS/SOURCES.md"
+  },
+  "selection": {
+    "minutes_since": "2023-10-01",
+    "appeals_since": "2016-01-01",
+    "legislation_since": "2022-01-01"
+  },
+  "verified": "2026-10-11 (pilot)",
+  "notes": "Upload folders with spaces in their names return 403 for listings; files inside are still downloadable. Granicus generated agendas are broken (500); minutes work."
+}

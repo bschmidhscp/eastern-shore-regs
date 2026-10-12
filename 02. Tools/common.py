@@ -81,6 +81,7 @@ def slug(s, maxlen=80):
 
 def get(url, retries=3, **kw):
     """GET with a real-browser TLS fingerprint (gets past Cloudflare on eCode360 etc.)."""
+    url = url.replace(" ", "%20")  # links copied from pages often contain raw spaces
     last = None
     for i in range(retries):
         try:

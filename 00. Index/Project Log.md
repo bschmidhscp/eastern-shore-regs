@@ -15,8 +15,8 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | Talbot — meetings & decisions | ✅ PC minutes (36, Oct 2023–), Council minutes (79), 159 Board of Appeals decisions, 26 pre-app agendas — all digested |
 | Talbot — summary (layer 1) | ✅ `Talbot/00. Summary.md` |
 | Statewide rules (COMAR etc.) | ⏳ Not started |
-| Other 8 counties | ⏳ After Talbot pilot is reviewed |
-| County comparison table | ⏳ After counties are collected |
+| Other 8 counties | ⏳ Pipeline built; sources being scouted |
+| County comparison table | 🟡 `00. Index/County Comparison.md` started (Talbot) |
 
 ## Open questions / watch items
 
@@ -43,6 +43,28 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-11 (night) — Pipeline proven on Kent; 7 counties running; hand-off (Brian + Claude)
+- Scouts mapped all 8 counties into `02. Tools/County Configs/` (code host, meeting archive, key docs).
+  All codes are on eCode360 except Somerset (PDF only); Cecil zoning and Kent's 2025 UDO are standalone PDFs.
+  Meetings: CivicClerk (Cecil, Kent), CivicPlus AgendaCenter (Queen Anne's, Caroline, Dorchester, Wicomico),
+  website archives (Worcester, Somerset). Adapters added for each.
+- Kent ran end to end (285 files, code + UDO, 188 minutes/decisions). Fixes from the test: per-document
+  conversion time limit, one-run-per-county lock, targeted OCR (skip meeting packets / long scans), digest
+  prep skips packets and caps long documents (Kent digest work 40 → 11 batches).
+- Gaps known before digesting: no impact fees in Kent, Dorchester, Wicomico, Somerset, Worcester (per scouts —
+  confirm); Queen Anne's/Caroline Planning Commission minutes not posted (agendas used); Dorchester fee
+  schedule is a scanned image; several counties have no posted water & sewer plan document.
+- **Next (new sessions):** `02. Tools/Prompts/Session - Statewide Rules.md` and
+  `Session - County Digests and Summaries.md` — opening messages for the next two sessions.
+
+### 2026-10-11 (evening) — Pipeline for the other 8 counties (Brian + Claude)
+- Turned the Talbot process into a config-driven pipeline (`02. Tools/run_county.py`): automatic document
+  selection (matches 94% of Talbot hand picks), minutes pre-filter (halves digest reading), coverage
+  report, Key Metrics + `00. Index/County Comparison.md`, saved agent prompts in `02. Tools/Prompts/`.
+- Scouting agents are mapping each county's code host, meeting archive and key documents into configs.
+- **Next:** adapters for any non-eCode360 code hosts / non-Granicus meeting archives, statewide rules
+  (fresh session), then run counties 3–4 at a time.
 
 ### 2026-10-11 (later) — Talbot documents, digests and summary (Brian + Claude)
 - Found Talbot's open upload-folder index (1,830 files) and its Granicus meeting archive; pulled 715

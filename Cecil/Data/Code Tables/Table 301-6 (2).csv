@@ -1,0 +1,7 @@
+,Where:,
+,,SQ is the quarterly surcharge to be added to the basic charge.
+,,0.00834 is a constant to convert waste concentration.
+,,QI is the quarterly industrial waste flow expressed in thousand gallons.
+,,"BOD I, SSI and PI are the respective concentration of BOD 5, suspended solids and phosphorus of the individual waste expressed in milligrams per liter."
+,,"300, 300 and 6.6 are constants which express the waste load concentrations in milligrams per liter for normal domestic wastes."
+,,"TA, TB and TC are actual treatment costs incurred by the County in pounds of BOD, suspended solids and phosphorous, respectively. These costs are determined annually by the County based upon actual costs of operations and maintenance."

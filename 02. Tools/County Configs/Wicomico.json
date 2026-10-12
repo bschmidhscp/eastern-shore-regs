@@ -1,0 +1,88 @@
+{
+  "county": "Wicomico",
+  "governing_body": "County Council (charter home rule; County Executive + 7-member Council)",
+  "website": "https://www.wicomicocounty.org",
+  "code": {
+    "host": "ecode360",
+    "id": "WI0638",
+    "root_guid": "11764458",
+    "url": "https://ecode360.com/WI0638",
+    "zoning_chapter": "225",
+    "subdivision_chapter": "200",
+    "notes": "Verified: https://ecode360.com/print/WI0638?guid=11764458 returns ~8.5MB, 92 h2.chapterTitle. Division 3 'The Code' = 11764458; County Charter Div 1 = 11764455. Chapter 62 = Planning and Zoning Commission, Ch 7 = Board of Appeals, Ch 196 stormwater. Current-through date not shown on TOC page. No impact/excise chapter in TOC."
+  },
+  "upload_listings": [],
+  "civicplus": {
+    "site": "CivicPlus/CivicEngage",
+    "document_center": "https://www.wicomicocounty.org/DocumentCenter/View/<id>",
+    "agenda_center": "https://www.wicomicocounty.org/AgendaCenter",
+    "file_pattern": "https://www.wicomicocounty.org/AgendaCenter/ViewFile/{Agenda|Minutes}/_MMDDYYYY-<id>",
+    "note": "No open directory listings."
+  },
+  "crawl_starts": [
+    "https://www.wicomicocounty.org/141/Planning-Zoning",
+    "https://www.wicomicocounty.org/287/Planning-and-Zoning-Commission",
+    "https://www.wicomicocounty.org/288/Board-of-Appeals",
+    "https://www.wicomicocounty.org/241/Legislative-Bills",
+    "https://www.wicomicocounty.org/812/2026-Legislative-Bills",
+    "https://www.wicomicocounty.org/274/Permits-Inspections-Licenses-and-Fire-Pr",
+    "https://www.wicomicocounty.org/558/Water-Sewer",
+    "https://www.wicomicocounty.org/811/Water-Sewer",
+    "https://www.wicomicocounty.org/557/Land-Development",
+    "https://www.wicomicocounty.org/297/Zoning",
+    "https://www.wicomicocounty.org/427/Subdivision-of-Land",
+    "https://www.wicomicocounty.org/361/Agendas-Minutes"
+  ],
+  "meetings": {
+    "platform": "civicplus agendacenter",
+    "host": "www.wicomicocounty.org",
+    "bodies": {
+      "Planning Commission": {
+        "name_in_site": "Planning and Zoning Commission",
+        "page": "https://www.wicomicocounty.org/agendacenter",
+        "agendacenter_category_id": "1"
+      },
+      "Board of Appeals": {
+        "page": "https://www.wicomicocounty.org/agendacenter",
+        "agendacenter_category_id": "14"
+      },
+      "County Council": {
+        "page": "https://www.wicomicocounty.org/agendacenter",
+        "video": "https://www.wicomicocounty.org/697/Videos-of-Council-Meetings",
+        "agendacenter_category_id": "3"
+      },
+      "Water and Sewer Technical Committee": {
+        "agendacenter_category_id": "25"
+      }
+    },
+    "verified": "Minutes PDFs download: /AgendaCenter/ViewFile/Minutes/_06232026-1557 and _05202026-1538 (200 application/pdf). Category slugs are not in static HTML; /agendacenter lists all categories with latest-year items inline (cat ids from chkCategoryID checkboxes)."
+  },
+  "documents": {
+    "comp_plan": "http://www.wicomicocounty.org/DocumentCenter/View/5781",
+    "comp_plan_year": "2017 (update in progress: https://planwicomico.com/); earlier 2010 plan at DocumentCenter/View/1177",
+    "water_sewer_plan": "https://www.wicomicocounty.org/DocumentCenter/View/4156/Comprehensive-Water-and-Sewer-Plan (25MB); Water and Sewer Master Plan Final Draft Report: https://www.wicomicocounty.org/DocumentCenter/View/10526/Water-and-Sewer-Master-Plan-Final-Draft-Report (54MB)",
+    "fee_schedule": "https://www.wicomicocounty.org/DocumentCenter/View/1198/Wicomico-County-Review-Fees (review fees; year not stated). Building permit fee calc: https://www.wicomicocounty.org/DocumentCenter/View/3879 (unverified)",
+    "impact_fees": "not found (no impact fee/excise tax on page tree or code TOC)",
+    "subdivision_regs": "in code chapter 200 (Subdivision of Land)"
+  },
+  "gis": {
+    "hub": "https://gisapps.wicomicocounty.org/server/rest/services",
+    "zoning_layer": "WicomicoZoningMar12026/MapServer/1 (also WicoZoningDistricts/MapServer/1, WicomicoZoningMar1Public, WicoZoningOverlayDistricts; layer 0 = Board of Appeals Activity)",
+    "sewer_service_layer": "WicomicoSewerWater/MapServer/3 (Urban Service Districts); WicomicoSewerUpdate2023/MapServer",
+    "other_layers": [
+      "WicoCompPlan2017/MapServer",
+      "WicomicoTier2026/MapServer",
+      "Parcels2021/MapServer",
+      "CriticalArea2026/MapServer"
+    ],
+    "verified_f_json": true,
+    "viewer": "https://gisapps.wicomicocounty.org/Html5Viewer/Index.html"
+  },
+  "selection": {
+    "minutes_since": "2023-10-01",
+    "appeals_since": "2016-01-01",
+    "legislation_since": "2022-01-01"
+  },
+  "verified": "2026-10-11",
+  "notes": "Planning page links to the Chapter 62 code and Legislative Bill 2025-07. Legislative bills posted as year pages (/812 = 2026, /797 = 2025, /780 = 2024, /770 = 2023, /746 = 2022) containing DocumentCenter PDFs. Board of Appeals rules: DocumentCenter/View/14729. Zoning map PDF: DocumentCenter/View/1191. Salisbury and other towns have separate codes (charters appear in county code Division 2)."
+}

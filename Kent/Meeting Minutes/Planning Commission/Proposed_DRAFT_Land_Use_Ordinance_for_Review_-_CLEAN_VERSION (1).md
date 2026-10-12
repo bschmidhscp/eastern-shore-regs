@@ -1,0 +1,20947 @@
+---
+county: "Kent"
+category: "minutes"
+title: "Proposed_DRAFT_Land_Use_Ordinance_for_Review_-_CLEAN_VERSION (1)"
+source_url: "https://www.kentcounty.com/Documents/Government/Boards and Committees/Agendas And Minutes/Planning Commission/2023/Packet/Proposed_DRAFT_Land_Use_Ordinance_for_Review_-_CLEAN_VERSION (1).pdf?t=202507171308040"
+effective: "2023-12-31"
+retrieved: "2026-10-11"
+original: "Kent/Originals/Meeting Minutes/Planning Commission/Proposed_DRAFT_Land_Use_Ordinance_for_Review_-_CLEAN_VERSION (1).pdf"
+pages: "371"
+needs_ocr: "no"
+---
+
+# Proposed_DRAFT_Land_Use_Ordinance_for_Review_-_CLEAN_VERSION (1)
+
+<!-- page 1 -->
+LAND USE ORIDNANCE 
+DRAFT FOR COMMENT 
+AUGUST 1, 2023
+CLEAN COPY
+
+<!-- page 2 -->
+TABLE OF CONTENTS 
+ 
+Article I. Enactment ............................................................................................................... 1 
+ 
+Section 1. General Provisions ............................................................................................ 2 
+Title ................................................................................................................... 2 
+Purpose and Intent  .......................................................................................... 2 
+Applicability ....................................................................................................... 3 
+Compliance with Regulations ........................................................................... 3 
+Validity of Ordinance ........................................................................................ 3 
+Repeal of Conflicting Ordinances ...................................................................... 3 
+Conflict within Ordinance ................................................................................. 4 
+Conflict with Other Regulations ........................................................................ 4 
+Section 2. Zoning Map ....................................................................................................... 4 
+ 
+Map Incorporation into Zoning Code ............................................................... 4 
+ 
+Revision of the District Map ............................................................................. 4 
+ 
+Periodic Review ................................................................................................. 4 
+Section 3. Zoning Map Amendment Process ...................................................................... 5 
+Section 4. Zoning Text Amendment Process ..................................................................... 5 
+Section 5. Boards and Commissions ................................................................................... 6 
+Section 6. Nonconformities ................................................................................................ 8 
+ 
+Article II.  Districts ............................................................................................................... 13 
+ 
+Section 1. General Provisions ........................................................................................... 14 
+Establishment of Zoning Districts ................................................................... 14 
+Critical Area Zoning Districts Generally .......................................................... 14 
+Establishment of Critical Area Line ................................................................. 15 
+Interpretation of District Boundaries ............................................................. 15 
+Section 2. Agricultural (AZD) ............................................................................................. 16 
+Section 3. Resource Conservation District (RCD) .............................................................. 24 
+Section 4. Rural Character (RC) ......................................................................................... 30 
+Section 5. Critical Area Residential (CAR) ......................................................................... 36 
+Section 6. Community Residential (CR)  ........................................................................... 41 
+Section 7. Village (V) ......................................................................................................... 47 
+Section 8. Intense Village (IV) ........................................................................................... 54 
+Section 9. Commercial (C)  ................................................................................................ 61 
+Section 10. Commercial Critical Area (CCA) ...................................................................... 66 
+Section 11. Marine (M) ..................................................................................................... 70 
+Section 12. Employment Center (EC)  ............................................................................... 75 
+Section 13. Employment Center Critical Area (ECCA) ....................................................... 80 
+ 
+Article III. Uses .................................................................................................................... 84 
+ 
+Section 1. General Provisions (including Uses Not Listed) ............................................... 85 
+Section 2. Permitted Uses and Conditions ....................................................................... 85
+
+<!-- page 3 -->
+TABLE OF CONTENTS 
+ 
+ 
+Article IV. Processes ........................................................................................................... 136 
+ 
+Section 1. General Provisions ......................................................................................... 137 
+Section 2. Subdivisions (including Subdivision Standards) ............................................. 147 
+Section 3. Site Plans (including General Design Standards) ........................................... 159 
+Section 4. Special Exception Process .............................................................................. 180 
+Section 4. Variances ........................................................................................................ 186 
+Section 5. Waivers........................................................................................................... 191 
+Section 6. Permits, Fees, and Code Enforcement ........................................................... 195 
+Section 7. Historic Preservation Documentation ........................................................... 203 
+ 
+Article V.  Zoning Regulations ............................................................................................. 205 
+ 
+Section 1. General Provisions ........................................................................................ 206 
+Section 2. Parking and Loading ....................................................................................... 210 
+Section 3. Signs ............................................................................................................... 214 
+Section 4. Standards for Utility-Scale Solar Energy Systems .......................................... 223 
+ 
+Article VI.  Environmental Regulations ................................................................................ 229 
+ 
+Section 1. General Provisions ......................................................................................... 230 
+Section 2. Critical Area Program ..................................................................................... 233 
+Section 3. Forest Conservation ....................................................................................... 272 
+Section 4. Erosion and Sediment Control ....................................................................... 288 
+Section 5. Stormwater Management .............................................................................. 300 
+Section 6. Floodplain Management ................................................................................ 317 
+ 
+Article VII.  Definitions ........................................................................................................ 332 
+ 
+Section 1. General Provisions ......................................................................................... 333 
+Section 2. Definitions ...................................................................................................... 333 
+ 
+ 
+
+
+<!-- page 4 -->
+ARTICLE I.  ENACTMENT
+
+<!-- page 5 -->
+ARTICLE I.  ENACTMENT 
+SECTION 1. GENERAL PROVISIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     2 
+SECTION 1 
+GENERAL PROVISIONS 
+1.1 
+TITLE  
+This Ordinance shall be known as the Land Use Ordinance for Kent County, Maryland. It 
+provides a unified, comprehensive approach to regulations that affect land use including 
+Zoning, Subdivision, Forest Conservation, Floodplain Management, Sediment and Erosion 
+Control, Stormwater Management, and the Chesapeake Bay Critical Area. 
+1.2 
+PURPOSE AND INTENT 
+The purpose of this Ordinance is to implement the Kent County Comprehensive Plan and 
+to promote the health, safety, general welfare, and prosperity of the present and future 
+inhabitants of Kent County, by: 
+(A) 
+Giving effect to policies and proposals of the Kent County Comprehensive Plan. 
+(B) 
+Reducing financial burdens imposed on the community by preventing unwise 
+land use that requires costly infrastructure, harms existing communities, or is 
+in areas of natural hazards such as floodplains, shoreline cliffs, steep slopes, and 
+areas subject to erosion. 
+(C) 
+Minimizing damage to public and private property. 
+(D) 
+Providing for the preservation and enhancement of the attractiveness of Kent 
+County through good design and arrangement, and the provision of adequate 
+public utilities, open space, services, and facilities. 
+(E) 
+Enhancing the County’s employment base. 
+(F) 
+Protecting and preserving Kent County’s agricultural industry and the prime 
+agricultural soils essential to the conduct of this industry. 
+(G) 
+Providing efficiency in the process of development. 
+(H) 
+Protecting Kent County’s significant historic structures and areas from 
+destruction or encroachment. 
+(I) 
+Protecting the biological and environmental quality of Kent County, including 
+forest, water quality, habitat, and wetlands. 
+(J) 
+Reducing the effects of land use on land erosion or stream channel erosion. 
+(K) 
+Dividing the territory of Kent County, Maryland into zoning districts; governing 
+the use of the land and the intensity of such use, including bulk and height. 
+(L) 
+Implementing the Floodplain Management provisions to provide public 
+awareness for flooding prevention, to protect individuals from unknowingly 
+buying land and structures subject to flood hazard, and to encourage 
+appropriate construction practices in order to prevent or minimize future flood 
+damage.
+
+<!-- page 6 -->
+ARTICLE I.  ENACTMENT 
+SECTION 1. GENERAL PROVISIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     3 
+(M) 
+Implementing the Stormwater Management provisions to reduce local 
+flooding, to control adverse impacts associated with increased stormwater, and 
+to improve or substantially maintain after development the predevelopment 
+runoff characteristics of the site. 
+1.3 
+APPLICABILITY  
+(A) 
+The provisions of this Ordinance shall apply to the unincorporated territory of 
+Kent County, Maryland. 
+(B) 
+Except as otherwise provided by this Ordinance, all land use that occurs within 
+the unincorporated territory of Kent County, Maryland shall comply with the 
+applicable terms and requirements of this Ordinance. 
+(C) 
+No lot shall be created which does not conform to the applicable requirements 
+of this Ordinance, unless a variance is granted by the Board of Appeals. 
+1.4 
+COMPLIANCE WITH REGULATIONS 
+Hereafter, the following shall not take place unless in conformity with the regulations set 
+forth in this Ordinance: 
+(A) 
+Change of a use of any land and structures, except that existing structures may 
+be used for any permitted use, special exception, or accessory use allowed in 
+the zoning district where they are located. 
+(B) 
+Construction, reconstruction, modification, extension, expansion, or relocation 
+of buildings or structures. 
+(C) 
+Placement of fill, grading, and land excavation. 
+(D) 
+Land and forest clearing. 
+(E) 
+Dumping or storage of materials. 
+(F) 
+Subdivisions including lot line adjustments. 
+1.5 
+VALIDITY OF ORDINANCE 
+If any section, paragraph, subsection, clause, phrase, or provision of this Ordnance shall 
+be judged invalid or held unconstitutional, the same shall not affect the validity of this 
+Ordinance as a whole or any part of the provisions thereof, other than the part so decided 
+to be invalid or unconstitutional.  
+1.6 
+REPEAL OF CONFLICTING ORDINANCES 
+The Kent County Land Use Ordinance adopted December 3, 2002, and all amendments 
+are hereby replaced by this Ordinance and any amendments from time to time.
+
+<!-- page 7 -->
+ARTICLE I.  ENACTMENT 
+SECTION 2. ZONING MAP 
+ 
+Land Use Ordinance for Kent County, Maryland     4 
+1.7 
+CONFLICT WITHIN ORDINANCE 
+In the event of any conflict between the limitations, requirements, or standards contained 
+in different provisions of this Ordinance, the more restrictive provision shall apply, unless 
+context would imply otherwise. In the case of any ambiguities or discrepancies within or 
+between these provisions, such matters shall be explained and interpreted, if possible, in 
+a manner which gives effect to each part and which avoids or minimizes conflicts among 
+such parts, as may be possible.  
+1.8 
+CONFLICT WITH OTHER REGULATIONS 
+In the event that this regulation conflicts with other federal, State, or local regulations, 
+the more restrictive regulation shall prevail, except for the Critical Area. In cases involving 
+the Critical Area, the standards in State law or the provisions in State agency rules and 
+regulations shall govern. 
+SECTION 2 
+ZONING MAP 
+2.1 
+MAP INCORPORATION INTO ZONING CODE 
+The boundaries of zoning districts as shown on the official zoning maps of Kent County 
+are hereby made a part of this chapter. The official zoning maps, together with 
+amendments thereto, shall be kept by the Planning Department in both digital and 
+printed form. In the event of a conflict between the digital and printed versions, the digital 
+version shall control. Copies of the Official Zoning Map shall be available for inspection in 
+the Department of Planning and Zoning. 
+2.2 
+REVISION OF THE DISTRICT MAP 
+No later than March 31 of the year following adoption of this Ordinance, copies of the 
+map shall be available to the public. 
+2.3 
+PERIODIC REVIEW 
+Following adoption of a new or revised Kent County Comprehensive Plan, the Planning 
+Commission and County Commissioners shall review the land use regulations and zoning 
+district map for consistency with the Comprehensive Plan, deficiencies or difficulties in 
+administration, or any other reason the County Commissioners may determine. This 
+Ordinance does not provide regulations for the Comprehensive Rezoning process. The 
+Comprehensive Rezoning process may be set forth independently of this Ordinance by 
+policy, practice, or if desired by adopted Resolution.
+
+<!-- page 8 -->
+ARTICLE I.  ENACTMENT 
+SECTION 3. ZONING MAP AMENDMENT PROCESS 
+ 
+Land Use Ordinance for Kent County, Maryland     5 
+SECTION 3 
+ZONING MAP AMENDMENT PROCESS 
+3.1 
+ZONING MAP 
+1. 
+The application for an amendment to the Zoning Map of this Land Use Ordinance shall, at 
+a minimum, specify the map and parcels sought to be amended, the current and proposed 
+zoning classification, and recite the reasons for the proposed amendment. 
+2. 
+Applications for zoning map amendments may only be submitted by the property owner 
+or owners of the subject property for which a zoning map amendment is being requested, 
+or by the County Commissioners of Kent County. The Planning Commission may make a 
+recommendation to the County Commissioners to request the initiation of an application. 
+3. 
+When reviewing a zoning map amendment, the Planning Commission will address the 
+suitability of the property in question for the uses permitted under the proposed zoning. 
+4. 
+Before approving any proposed map amendment, the County Commissioners shall hold a 
+public hearing. Notice of any public hearing shall be given prior to the date of the hearing. 
+The time, date, place, and nature of the hearing shall be published in a newspaper having 
+general circulation in Kent County. The property shall also be conspicuously posted with 
+the date, time, place, and nature of the hearing. The notices shall refer to places where 
+the zoning map amendment may be examined, and online publication is sufficient.  
+5. 
+Per Md. Code Ann., Land Use, § 4-204, an application for a zoning map amendment, other 
+than an amendment proposed during a Comprehensive Rezoning process, must meet the 
+requirements of the change or mistake rule. Applicants are advised to seek legal counsel. 
+6. 
+An application may not be filed for a reclassification of all or part of any land for which a 
+reclassification has been denied by the legislative body on the merits in the 12 months 
+before the date of the application, per Md. Code Ann., Land Use, § 4-204. 
+7. 
+Applications for map amendments will follow the process outlined immediately below. 
+SECTION 4 
+ZONING TEXT AMENDMENT PROCESS 
+4.1 
+ZONING TEXT 
+1. 
+The County Commissioners may amend, supplement, or change the regulations of this 
+Ordinance. Any zoning text amendment may be initiated by resolution of the County 
+Commissioners, motion of the Planning Commission, submittal by County staff, or petition 
+of any person using forms specified by the Department. 
+2. 
+The application for a zoning text amendment to this Ordnance will state the article, 
+section, and paragraph sought to be amended. The application shall contain the text of 
+the proposed amendment and shall recite the reasons for such proposed change. 
+3. 
+Before taking any action on any proposed zoning text amendment, revision, supplement, 
+or change, the County Commissioners will submit the proposal to the Planning
+
+<!-- page 9 -->
+ARTICLE I.  ENACTMENT 
+SECTION 5. BOARDS AND COMMISSIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     6 
+Commission for review and recommendation. The Planning Commission may hold a public 
+hearing on any proposed amendment, revision, supplement, or change before submitting 
+its recommendation to the County Commissioners. The Planning Commission may 
+request any pertinent data and information as it deems necessary.  
+4. 
+In its recommendation, the Planning Commission shall address: 
+(A) 
+The public need for the proposed amendment; and 
+(B) 
+The extent to which the proposed amendment complies with or deviates from 
+the Comprehensive Plan and the Critical Area Law. 
+5. 
+The Planning Commission will not recommend the adoption of the amendment unless it 
+finds that the adoption of the amendment is in the public interest, in that, it furthers the 
+health, safety, and general welfare of the community, as well as the interests of an 
+individual land owner.  
+6. 
+Failure of the Planning Commission to report to the County Commissioners within 60 days 
+following its first meeting after the proposal was referred will be deemed approval. 
+7. 
+Before approving any proposed change or amendment, the County Commissioners shall 
+hold a public hearing thereon. Notice of any public hearing shall be given prior to the date 
+of the hearing. The time, date, place, and nature of the hearing shall be published in a 
+newspaper having general circulation in Kent County. The notices shall refer to places 
+where the plans, ordinances, or amendment may be examined, and online publication is 
+sufficient. 
+8. 
+The County Commissioners shall render its decision within a reasonable timeframe. An 
+application may be deferred for additional research. 
+9. 
+Petitions for amendments, revisions, supplements, or changes denied by the County 
+Commissioners on their merits, or substantially similar petitions, shall not be allowed to 
+be filed by an applicant for 12 months after the denial. The Board of County 
+Commissioners itself may propose a similar petition of its own at any time. 
+10. 
+Any persons aggrieved by any decision of the County Commissioners may within 30 days 
+after such decision appeal to the Circuit Court of Kent County. 
+11. 
+Amendments dealing with Critical Area Districts or Critical Area related items shall not be 
+effective, until effective under Md. Code Ann., Natural Resources § 8-1809, as the same 
+may be amended from time to time.  
+SECTION 5 
+BOARDS AND COMMISSIONS 
+It is the intent of this section to identify the duties of the Board of Appeals and Planning 
+Commission. Each Board or Commission shall adopt rules of its business, such rules to be made 
+available to the public upon request.
+
+<!-- page 10 -->
+ARTICLE I.  ENACTMENT 
+SECTION 5. BOARDS AND COMMISSIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     7 
+5.1 
+BOARD OF APPEALS  
+The Board of Appeals shall have the following powers:  
+1. 
+Administrative Appeals - To hear and decide appeals of any decision or determination 
+made by the Department or any County staff member in the enforcement and 
+administration of this Ordinance, unless clearly specified otherwise in this Ordinance.  
+2. 
+Special Exceptions - To hear and decide applications for special exceptions as set forth 
+herein. 
+3. 
+Variances - To authorize, upon application, variances related to yard setbacks, height, 
+bulk, parking, signs, loading, shoreline cliff, 15% slope, pier length, impervious surface, 
+stream protection corridor, forest conservation retention provisions, floodplain 
+requirements, buffer requirements, and any non-use-related provision of this Ordinance. 
+4. 
+Other Powers - The Board may have additional powers as may be designated by the 
+County Commissioners of Kent County.  
+5. 
+Conditions - In the granting of variances, appeals, and special exceptions, the Board may 
+limit the approval by such conditions as the case may require.  
+6. 
+Right of Entry - The Board of Appeals is hereby authorized to enter upon open land in Kent 
+County for the purpose of reviewing applications pending before the Board. Such entry is 
+only to be in the form of a publicly noticed and ADA-accessible public meeting on the site. 
+5.2 
+PLANNING COMMISSION  
+The Planning Commission shall have the following powers:  
+1. 
+Comprehensive Plan – To develop and approve a plan which shall be recommended to the 
+legislative body for adoption. The plan is the principal document outlining County 
+direction, policy, and action regarding land use. While other plans and ordinances provide 
+more detailed information and policy, all plans and laws shall be consistent with and 
+conform to the Comprehensive Plan in the manner as prescribed by Maryland State law, 
+as set forth in Md. Code Ann., Land Use, §1-303. 
+2. 
+Recommendations to County Commissioners – To make recommendations to the County 
+Commissioners on Land Use Ordinance text amendments, zoning map amendments, and 
+courses of actions necessary to implement the Comprehensive Plan.  
+3. 
+Recommendations to the Board of Appeals – To make recommendations to the Board of 
+Appeals on variances and certain special exceptions as set forth in this Ordinance. The 
+Commission shall address the extent to which the variance or special exception complies 
+with or deviates from the Comprehensive Plan. The Commission may recommend 
+conditions and limitations on the approval of variances and special exceptions. 
+4. 
+Subdivisions – To review and approve subdivisions of land as set forth in this Ordinance 
+and Md. Code Ann., Land Use, §5-105.  
+5. 
+Site plans – To review and approve site plans as set forth in this Ordinance.
+
+<!-- page 11 -->
+ARTICLE I.  ENACTMENT 
+SECTION 6. NONCONFORMITIES 
+ 
+Land Use Ordinance for Kent County, Maryland     8 
+6. 
+Other Powers – The Planning Commission may have additional powers as may be 
+designated by the County Commissioners of Kent County.  
+7. 
+Conditions – In the granting of subdivisions and site plans, the Commission may limit the 
+approval by such conditions as the case may require.  
+8. 
+Right of Entry – The Planning Commission is hereby authorized to enter upon open land 
+in Kent County for the purpose of reviewing applications pending before the Commission. 
+Such entry is only to be in the form of a publicly noticed and ADA-accessible public 
+meeting on the site.  
+SECTION 6 
+NONCONFORMITIES 
+NONCONFORMING USES 
+6.1 
+LEGAL NONCONFORMING USES, DEFINED 
+1. 
+Any use of a lot shall be considered a legal nonconforming use, if it:  
+(A) 
+Does not conform to one or more use regulations of this Ordinance; 
+(B) 
+Existed on the effective date of this Ordinance;  
+(C) 
+Has not been abandoned; and  
+(D) 
+Either conformed to the regulations of or was considered to be a legal 
+nonconforming use by the Land Use Ordinance in effect the day before the 
+effective date of this Land Use Ordinance.  
+2. 
+The existence of a legal nonconforming use shall be presumed valid, based on documents 
+that indicate evidence of the use prior to the adoption of this Ordinance, submitted by 
+the property owner, lessee, or other relevant party, unless specifically determined by the 
+Department to be insufficient to validate the presence of the use.  
+3. 
+The intermittent or illegal use of a lot shall not be sufficient to establish the existence of 
+a legal nonconforming use.  
+4. 
+The existence of a use on a part of a lot shall not be construed to establish a legal 
+nonconforming use on any other part of such lot. 
+6.2 
+CONTINUANCE OF LEGAL NONCONFORMING USES 
+A legal nonconforming use shall be permitted to continue, subject to regulations of this Section. 
+6.3 
+ABANDONMENT OF LEGAL NONCONFORMING USES 
+For the purposes of this Ordinance, the discontinuance of a use for a period exceeding two years 
+shall constitute abandonment of such use. Whether a nonconforming use has discontinued is a 
+question of fact and shall be decided by the Board of Appeals for a determination of whether and
+
+<!-- page 12 -->
+ARTICLE I.  ENACTMENT 
+SECTION 6. NONCONFORMITIES 
+ 
+Land Use Ordinance for Kent County, Maryland     9 
+for what duration a nonconforming use has discontinued. A public hearing will be required, and 
+the process for notice will be utilized as set forth in Article IV. 
+6.4 
+ENLARGEMENT OF LEGAL NONCONFORMING USES 
+Except in the case of private school or houses of worship that existed prior to April 12, 1988, no 
+legal nonconforming use may be enlarged, increased, or extended so as to occupy any portion of 
+a lot or structure where the legal nonconforming use did not exist on the effective date of this 
+Ordinance or so as to occupy any portion of a lot or structure where the use was abandoned. 
+6.5 
+LEGAL NONCONFORMING USES IN THE CRITICAL AREA 
+Any legal nonconforming use within the Critical Area which existed on April 12, 1988, may 
+continue without intensification or expansion unless such use has been abandoned for more than 
+one year, or otherwise in accordance with Section 27.01.02.07 of the Code of Maryland 
+Regulations. 
+6.6 
+ORDINARY REPAIR AND MAINTENANCE 
+The normal maintenance and repair, or the replacement, installation, or relocation of nonbearing 
+partitions, fixtures, wiring, or plumbing may be performed on any structure that is devoted in 
+whole or in part to a legal nonconforming use. Life safety code updates and requirements for any 
+improvements related to ADA accessibility, or any other required update, change, improvement, 
+or additional equipment that is required by any governmental agency or quasi-public agency will 
+not be considered to affect the status of the use including any required expansions under such. 
+ 
+NONCONFORMING STRUCTURES 
+6.7 
+LEGAL NONCONFORMING STRUCTURES, DEFINED 
+1. 
+Any structure shall be considered a legal nonconforming structure if it:  
+(A) 
+Does not conform to one or more non-use regulation of this Ordinance; 
+(B) 
+Existed on the effective date of this Ordinance; 
+(C) 
+Is not a sign; and  
+(D) 
+Either conformed to the regulations of or was considered to be a legal 
+nonconforming structure by the Land Use Ordinance in effect the day before 
+the effective date of this Land Use Ordinance.   
+2. 
+Whether a structure is nonconforming shall be a question of fact and shall be decided by 
+the Department as an administrative decision; a public hearing is not required. If the case 
+is complex, the Planning Director may refer the matter to the Board of Appeals. If the 
+Board of Appeals is to decide the matter, then a public hearing will be required, and the 
+process for notice will be utilized as set forth in Article IV.
+
+<!-- page 13 -->
+ARTICLE I.  ENACTMENT 
+SECTION 6. NONCONFORMITIES 
+ 
+Land Use Ordinance for Kent County, Maryland     10 
+6.8 
+CONTINUANCE OF LEGAL NONCONFORMING STRUCTURES 
+A legal nonconforming structure may continue to exist, subject to the regulations of this Section. 
+6.9 
+ORDINARY REPAIR AND MAINTENANCE OF LEGAL NONCONFORMING 
+STRUCTURES 
+The normal maintenance and repair of a legal nonconforming structure may be performed, 
+provided that any portion of the structure undergoing such maintenance or repair either (1) 
+conforms to all non-use regulations of this Ordinance, or (2) does not increase its degree of 
+structural nonconformity.  
+6.10 
+REPAIR OR RECONSTRUCTION OF LEGAL NONCONFORMING STRUCTURES 
+AFTER CALAMITY 
+1. 
+There shall be no repair or reconstruction of a damaged legal nonconforming structure 
+unless all of the following conditions are met: 
+(A) 
+The damage, destruction, or removal of the structure was not voluntarily 
+caused by the property owner or property owner’s agent; 
+(B) 
+A permit is obtained prior to repair or reconstruction of the damaged or 
+destroyed structure; 
+(C) 
+Repair or reconstruction begins within two years after the calamity; and  
+(D) 
+The repair or reconstruction does not result in an increase in the degree of 
+nonconformity. 
+2. 
+Nothing in this Ordinance shall be deemed to prevent the strengthening or restoring of a 
+structure to a safe condition by order of a public official. 
+6.11 
+ALTERATIONS OR ENLARGEMENTS TO LEGAL NONCONFORMING 
+STRUCTURES 
+No legal nonconforming structure may be altered or enlarged unless one or more of the following 
+conditions are met: 
+1. 
+The portion of the structure that is proposed to be altered or enlarged will, after the 
+alteration or enlargement, comply with all standards and regulations of this Ordinance 
+and will not increase the percent of impervious surface on the lot above that required in 
+the Ordinance. If no regulatory minimum is established, this provision will not apply; 
+2. 
+The legal nonconforming structure has been used as a private school without 
+abandonment since April 12, 1988; 
+3. 
+The legal nonconforming structure has been used as a house of worship without 
+abandonment since April 12, 1988. 
+4. 
+The legal nonconforming structure is a dwelling that existed as of April 12, 1988, and is 
+located in the modified buffer and conforms to the standards set forth in this section.
+
+<!-- page 14 -->
+ARTICLE I.  ENACTMENT 
+SECTION 6. NONCONFORMITIES 
+ 
+Land Use Ordinance for Kent County, Maryland     11 
+6.12 
+EXPANSION OF EXISTING DWELLINGS IN THE MODIFIED BUFFER 
+Dwellings existing as of April 12, 1988, in the modified buffer may be enlarged, provided that: 
+1. 
+All opportunities for expansion outside the minimum 100-foot buffer are exhausted; and 
+2. 
+An area of natural vegetation equal to three times the footprint of the expansion shall be 
+planted in the 100-foot buffer. If there is not enough area in the buffer to accommodate 
+the required planting, the required planting shall occur on the same property. 
+6.13 
+RELOCATION OF NONCONFORMING STRUCTURES 
+No legal nonconforming structure shall be relocated in whole or in part to another lot or to 
+another location on the same lot unless, after relocation, every portion of the structure conforms 
+to all applicable site development regulations.  
+NONCONFORMING LOTS 
+6.14 
+NONCONFORMING LOTS, DEFINED 
+1. 
+A lot which was legally created and properly recorded but which does not satisfy the 
+minimum lot area and/or the minimum lot width applicable to the zoning district in which 
+it is located shall be considered a nonconforming lot.  
+2. 
+Whether a lot is nonconforming shall be a question of fact and shall be decided by the 
+Department as an administrative decision; a public hearing is not required. If the case is 
+complex, the Planning Director may refer the matter to the Board of Appeals. If the Board 
+of Appeals is to decide the matter, then a public hearing will be required, and the process 
+for notice will be utilized as set forth in Article IV. 
+6.15 
+CONTINUANCE OF NONCONFORMING LOTS 
+1. 
+Nonconforming lots may continue to exist, subject to the regulations of this Section.  
+2. 
+Nonconforming lots may be occupied by any use permitted by the regulations for the 
+district in which it is located. 
+3. 
+Nonconforming lots may be developed with structures that comply with all site 
+development regulations set forth by this Ordinance.  
+4. 
+A variance will not be required for any permitted use, allowable special exception, or 
+permitted accessory use to be located on such a lot. 
+6.16 
+SUBDIVISION OF NONCONFORMING LOTS 
+A nonconforming lot may not be subdivided unless each resulting lot conforms to the minimum 
+lot area and the minimum lot width regulations applicable to the zoning district in which it is 
+located, unless a variance is granted by the Board of Appeals per this Ordinance.
+
+<!-- page 15 -->
+ARTICLE I.  ENACTMENT 
+SECTION 6. NONCONFORMITIES 
+Land Use Ordinance for Kent County, Maryland     12 
+NONCONFORMING SIGNS 
+6.17
+NONCONFORMING SIGNS 
+Regulations concerning nonconforming signs may be found in Article V of this Ordinance.
+
+<!-- page 16 -->
+ARTICLE II.  DISTRICTS
+
+<!-- page 17 -->
+ARTICLE II.  DISTRICTS 
+SECTION 1. GENERAL PROVISIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     14
+SECTION 1 
+GENERAL PROVISIONS 
+1. 
+ESTABLISHMENT OF ZONING DISTRICTS 
+In order to regulate and restrict the location and use of land and structures for trade, industry, 
+residence, and for other purposes; to regulate and restrict the location, height, and size of 
+structures hereafter erected or structurally altered; to regulate the size of yards, and other open 
+space; and to regulate the density of population, these zoning districts are hereby established: 
+ 
+DISTRICT NAME 
+NOMINAL DENSITY 
+CRITICAL AREA 
+Agricultural (AZD) 
+1:30 units per acre 
+ 
+Resource Conservation District (RCD) 
+1:20 units per acre 
+Critical Area 
+Rural Character (RC) 
+1:20 units per acre 
+ 
+Critical Area Residential (CAR) 
+1:1 unit per acre 
+Critical Area 
+Community Residential (CR)  
+1:1 unit per acre 
+ 
+Village (V) 
+8 units per acre 
+ 
+Intense Village (IV) 
+12 units per acre 
+ 
+Commercial (C)  
+ 
+ 
+Commercial Critical Area (CCA) 
+ 
+Critical Area 
+Marine (M) 
+2 units per acre 
+Critical Area 
+Employment Center (EC)  
+1:20 units per acre* 
+*intra-family transfer 
+ 
+Employment Center Critical Area (ECCA) 
+1:20 units per acre* 
+*intra-family transfer  
+Critical Area 
+Note: Districts without any land area have been removed from the zoning districts list. The Rural 
+Residential and the Community Residential districts were combined into Community Residential. 
+The Commercial and the Crossroads Commercial districts were combined into Commercial. The 
+Employment Center and Industrial districts were combined into the Employment Center district, 
+and Industrial Critical Area – LDA was re-titled as Employment Center Critical Area. 
+ 
+2. 
+CRITICAL AREA ZONING DISTRICTS GENERALLY 
+The 12 zoning districts in this Land Use Ordinance comprise two categories. The first category is 
+the zoning districts for land located in the State of Maryland’s Critical Area for the Chesapeake 
+and Atlantic Coastal Bays. These are the RCD, CAR, CCA, M, and ECCA. State of Maryland Critical 
+Area laws and regulations apply in these districts. The remaining districts are outside the Critical 
+Area. Critical Area law and regulations do not apply; other laws and regulations such as Forest 
+Conservation regulations apply. The Environmental Regulations are set forth in Article VI.
+
+<!-- page 18 -->
+ARTICLE II.  DISTRICTS 
+SECTION 1. GENERAL PROVISIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     15
+3. 
+ESTABLISHMENT OF CRITICAL AREA LINE 
+The Critical Area Line shall be shown on the map designated as the “Critical Area Line Map of 
+Kent County, Maryland” adopted by the County Commissioners. Such map delineates the Critical 
+Area and shall be used to determine if such land is located within the Critical Area. For any land 
+referenced to be within the Critical Area according to the “Critical Area Line Map of Kent County” 
+one must follow the Critical Area requirements and regulations as follows: 
+(A) 
+If referenced on the “Zoning Map” as a Critical Area zoning district, then the 
+established zoning district must be adhered by. 
+(B) 
+If according to the “Critical Area Line Map” the land is within the Critical Area 
+then the requirements and regulations of the most similar Critical Area zoning 
+district and the established Critical Area designation must be followed. This 
+includes Title 27 of the Code of Maryland Regulations (COMAR). 
+(C) 
+This Section shall remain in effect while Kent County undertakes its 
+Comprehensive Rezoning and Update process, which will result in a new 
+Comprehensive Land Use Ordinance” and “Zoning Map.” The “Critical Area Line 
+Map” will be incorporated into the “Zoning Map” and will no longer be a stand-
+alone map. Upon the adoption of the Comprehensive Land Use Ordinance and 
+“Zoning Map,” this Section shall be abrogated and of no further force and 
+effect. This Section may then be designated as “RESERVED.” 
+4. 
+INTERPRETATION OF ZONING DISTRICT BOUNDARIES 
+Where uncertainties exist with respect to the district boundary, the following applies: 
+(A) 
+Where a boundary is given a position within a street, alley, or easement, the 
+boundary shall be deemed to be the center of the right of way of the street, 
+alley, or easement. 
+(B) 
+If the actual location of a street, alley, or easement varies from the location 
+shown on the map, the actual location shall control. 
+(C) 
+Where a boundary is shown as being located a specific distance from a street 
+or other physical feature, this distance shall control. 
+(D) 
+Where the district boundary approximately coincided with lot lines, the lot line 
+shall be construed to be the district boundary unless otherwise indicated. 
+(E) 
+Where district boundaries do not coincide with lot lines and streets, and where 
+no dimensions are shown, the location of the boundary shall be determined by 
+use of the scale shown on the map. 
+(F) 
+Where a property is split by a zoning boundary including special districts, the 
+rules of the zone shall apply to that portion of the land located in each district.
+
+<!-- page 19 -->
+ARTICLE II.  DISTRICTS 
+SECTION 2. AGRICULTURAL ZONING DISTRICT (AZD) 
+ 
+Land Use Ordinance for Kent County, Maryland     16
+SECTION 2 
+AGRICULTURAL ZONING DISTRICT (AZD) 
+2.1 
+STATEMENT OF INTENT 
+The purpose of the Agricultural Zoning District is to encourage the use of agricultural land for 
+farming and other agricultural businesses and to limit the use of these lands for non-agricultural 
+purposes. Agriculture, including animal husbandry on properties at least 20 acres or larger in size, 
+is the preferred and primary use in the Agricultural Zoning District. In general, the District will 
+consist of large contiguous areas predominantly devoted to agriculture or forestry and principally 
+composed of Class I, II, and III soils.  The District will contain some sensitive areas not well suited 
+to agriculture to provide large contiguous areas.  The sum of these areas consists of enough land 
+to help maintain a derived-demand market for the necessary agricultural support services in the 
+County.  In addition, the District is to provide for farm, home occupations, and cottage industries 
+that are compatible with agriculture as a means to further diversify the County’s economy. 
+ 
+Figure 1: Diagram illustrating the desired, general character of the Agricultural Zoning District.
+
+<!-- page 20 -->
+ARTICLE II.  DISTRICTS 
+SECTION 2. AGRICULTURAL ZONING DISTRICT (AZD) 
+ 
+Land Use Ordinance for Kent County, Maryland     17
+2.2 
+PERMITTED USES AND STRUCTURES 
+A building or land shall be used only for the following. Detailed limitations and standards for 
+these uses may be found in Article III. Administrative special exceptions are indicated by letter 
+“A.” “B” indicates exceptions that require only Board of Appeals review. All other exceptions 
+require Planning Commission and Board of Appeals reviews per Article IV.  
+ 
+Uses in Agricultural Zoning District (AZD) 
+ 
+Article III lists requirements for 
+permitted uses and conditions related 
+to special exceptions  
+ Permitted by right 
+ Permitted by right  
+ on farms only 
+ Special Exception 
+ Accessory Use  
+ on farms only 
+ Accessory Use  
+ on all properties 
+Accessory dwelling unit  
+ 
+ 
+ 
+ 
+X 
+Accessory farm buildings, including barns, cribs, stables, 
+sheds, tool rooms, shops, bins, tanks, and silos 
+ 
+ 
+ 
+X 
+ 
+Accessory farm dwellings 
+ 
+ 
+ 
+X 
+ 
+Accessory off-street parking and loading of non-commercial 
+vehicles that have current licenses and are operable 
+ 
+ 
+ 
+ 
+X 
+Accessory off-street parking of one commercial vehicle 
+ 
+ 
+ 
+ 
+X 
+Accessory open or enclosed storage of farm materials, 
+products, equipment, fertilizer or chemicals, or vehicles, 
+located at least 200 feet from all property lines 
+ 
+ 
+ 
+X 
+ 
+Accessory roadside stand for the sale of farm products 
+ 
+ 
+ 
+X 
+ 
+Accessory residential storage structures with a ground floor 
+area of more than 2,000 square feet or a height that exceeds 
+the height of the primary residential structure on parcels less 
+than 5 acres 
+ 
+ 
+A 
+ 
+ 
+Accessory structures in a front yard of through or corner lots 
+ 
+ 
+A 
+ 
+ 
+Adaptive reuse of existing structures in AZD, located on 
+parcels under 20 acres 
+ 
+ 
+A 
+ 
+ 
+Adaptive reuse of historic structures for uses not otherwise 
+listed 
+ 
+ 
+X 
+ 
+ 
+Accessory sheds on properties less than 20 acres in area 
+ 
+ 
+A 
+ 
+ 
+Airports, landing fields, helistops, or heliports 
+ 
+ 
+X 
+ 
+ 
+Agriculture 
+X 
+ 
+ 
+ 
+ 
+Agritourism on farms, defined in Article VII 
+ 
+X 
+ 
+ 
+ 
+Animal husbandry, aquaculture 
+ 
+X 
+ 
+ 
+ 
+Animal husbandry, farms, including horses 
+ 
+X 
+ 
+ 
+ 
+Animal, husbandry, feedlot or confinement dairy 
+ 
+ 
+X 
+ 
+ 
+Animal husbandry, horses on non-farms 
+ 
+ 
+X 
+ 
+ 
+Animal husbandry, limited livestock and fowl 
+ 
+ 
+X
+
+<!-- page 21 -->
+ARTICLE II.  DISTRICTS 
+SECTION 2. AGRICULTURAL ZONING DISTRICT (AZD) 
+ 
+Land Use Ordinance for Kent County, Maryland     18
+Uses in Agricultural Zoning District (AZD) 
+ 
+Article III lists requirements for 
+permitted uses and conditions related 
+to special exceptions  
+ Permitted by right 
+ Permitted by right  
+ on farms only 
+ Special Exception 
+ Accessory Use  
+ on farms only 
+ Accessory Use  
+ on all properties 
+Animal husbandry, poultry houses on farms only 
+ 
+ 
+X 
+ 
+ 
+Animal husbandry, special – backyard chickens 
+ 
+ 
+ 
+ 
+X 
+Animal husbandry, special – small sheep or goats 
+ 
+ 
+ 
+ 
+X 
+Animal husbandry, stable - private 
+X 
+ 
+ 
+ 
+ 
+Animal husbandry, stable - commercial 
+X 
+ 
+ 
+ 
+ 
+Appurtenant signs 
+ 
+ 
+ 
+ 
+X 
+Assisted living facilities with five to eight beds 
+ 
+ 
+A 
+ 
+ 
+Assisted living facilities with no more than four beds 
+ 
+ 
+ 
+ 
+X 
+Camp, day or boarding, private or commercial, but not 
+recreational vehicle or migrant labor camps, for the purpose 
+of conserving and enjoying the natural resources. 
+X 
+ 
+ 
+ 
+ 
+Cemetery, including crematorium and mausoleum 
+ 
+ 
+X 
+ 
+ 
+Circus or carnival, midways and amusement parks, maze 
+fields and other temporary recreational uses, for a specified 
+period 
+X 
+ 
+ 
+ 
+ 
+Cottage industries, tradesmen and artisan shops 
+ 
+ 
+A 
+ 
+ 
+Country inns 
+ 
+ 
+X 
+ 
+ 
+Country stores 
+ 
+ 
+X 
+ 
+ 
+Day care groups 
+ 
+ 
+A 
+ 
+ 
+Day care homes 
+ 
+ 
+ 
+ 
+X 
+Detached single family dwellings 
+X 
+ 
+ 
+ 
+ 
+Dog kennels, commercial 
+ 
+ 
+ 
+ 
+X 
+Erosion and flood control structures 
+X 
+ 
+ 
+ 
+ 
+Exposition center or fairgrounds 
+ 
+ 
+B 
+ 
+ 
+Farm brewery, as defined by the State of Maryland 
+X 
+ 
+ 
+ 
+ 
+Farm employee housing 
+ 
+ 
+X 
+ 
+ 
+Golf courses, public or private 
+ 
+ 
+X 
+ 
+ 
+Greenhouses, wholesale or retail 
+X 
+ 
+ 
+ 
+ 
+Guest house, one, but not including mobile homes 
+ 
+ 
+ 
+X 
+ 
+Home occupations in main or accessory buildings 
+ 
+ 
+ 
+ 
+X 
+Hunting blinds, pits, or preserves 
+X 
+ 
+ 
+ 
+ 
+Hunting trailer, one, temporary 
+ 
+ 
+ 
+X 
+ 
+Livestock auction houses, located on farms in AZD 
+ 
+ 
+X 
+ 
+ 
+Migrant labor camps 
+ 
+ 
+X 
+ 
+ 
+Mobile homes existing and in use as of January 16, 1996  
+X 
+ 
+ 
+ 
+ 
+Multi-Family and Two-Family Dwellings, in AZD 
+X
+
+<!-- page 22 -->
+ARTICLE II.  DISTRICTS 
+SECTION 2. AGRICULTURAL ZONING DISTRICT (AZD) 
+ 
+Land Use Ordinance for Kent County, Maryland     19
+Uses in Agricultural Zoning District (AZD) 
+ 
+Article III lists requirements for 
+permitted uses and conditions related 
+to special exceptions  
+ Permitted by right 
+ Permitted by right  
+ on farms only 
+ Special Exception 
+ Accessory Use  
+ on farms only 
+ Accessory Use  
+ on all properties 
+Parking of commercial vehicles on a farm 
+ 
+ 
+ 
+X 
+ 
+Personal wireless facility towers 
+ 
+ 
+X 
+ 
+ 
+Personal wireless facilities, collocated on existing towers 
+X 
+ 
+ 
+ 
+ 
+Poultry houses 
+X 
+ 
+ 
+ 
+ 
+Poultry houses on parcels where the owner cannot handle 
+the waste generated by the poultry houses 
+ 
+ 
+X 
+ 
+ 
+Private garages, swimming pools, game courts, and other 
+customary residential outbuildings and structures 
+ 
+ 
+ 
+ 
+X 
+Private schools 
+ 
+ 
+X 
+ 
+ 
+Public and private forests, wildlife reservations and similar 
+conservation projects 
+X 
+ 
+ 
+ 
+ 
+Public and private parks and playgrounds for the purpose of 
+conserving and enjoying natural resources.  
+X 
+ 
+ 
+ 
+ 
+Public landings 
+ 
+ 
+B 
+ 
+ 
+Public uses, buildings, and utilities 
+ 
+ 
+X 
+ 
+ 
+Railroad right of ways 
+X 
+ 
+ 
+ 
+ 
+Retreats 
+ 
+ 
+X 
+ 
+ 
+Rifle and pistol ranges 
+ 
+ 
+B 
+ 
+ 
+Roadside stands 
+ 
+ 
+ 
+ 
+X 
+Rural inns 
+ 
+ 
+X 
+ 
+ 
+Sand and gravel pits, including excavation or extraction 
+ 
+ 
+X 
+ 
+ 
+Sanitary landfill or rubblefill, public 
+ 
+ 
+X 
+ 
+ 
+Satellite dish, private, with an antenna of 3 feet or less in 
+diameter 
+ 
+ 
+ 
+ 
+X 
+Satellite dish, private, with an antenna exceeding 3 feet in 
+diameter 
+ 
+ 
+ 
+ 
+X 
+Sawmills and mulching operations, temporary, for cutting 
+timber and landscaping materials grown on the premises 
+X 
+ 
+ 
+ 
+ 
+School buses, parked, limited to five 
+ 
+ 
+ 
+X 
+ 
+School buses, parked, limited to two 
+ 
+ 
+ 
+ 
+X 
+Short-term vacation rentals (STVR) 
+ 
+ 
+ 
+ 
+X 
+Solar energy systems, small 
+ 
+ 
+ 
+ 
+X 
+Solar energy systems, utility scale 
+ 
+ 
+X 
+ 
+ 
+Storage of boats, campers, boat trailers, and camper trailers 
+ 
+ 
+ 
+ 
+X
+
+<!-- page 23 -->
+ARTICLE II.  DISTRICTS 
+SECTION 2. AGRICULTURAL ZONING DISTRICT (AZD) 
+ 
+Land Use Ordinance for Kent County, Maryland     20
+Uses in Agricultural Zoning District (AZD) 
+ 
+Article III lists requirements for 
+permitted uses and conditions related 
+to special exceptions  
+ Permitted by right 
+ Permitted by right  
+ on farms only 
+ Special Exception 
+ Accessory Use  
+ on farms only 
+ Accessory Use  
+ on all properties 
+Structures for the buying, processing, and/or sale of animal 
+products, commercial, located at least 600 feet from all 
+property lines 
+ 
+ 
+X 
+ 
+ 
+Structures for the buying, processing, and/or sale of non-
+animal farm products related to agriculture no more than 
+10,000 square feet in floor area  
+X 
+ 
+ 
+ 
+ 
+Structures for the buying, processing, and/or sale of non-
+animal farm products related to agriculture, over 10,000 
+square feet in floor area but less than 50,000 square feet in 
+area 
+ 
+ 
+B 
+ 
+ 
+Temporary MET Tower of any height 
+ 
+ 
+ 
+ 
+X 
+Veterinary hospitals or clinics and animal shelters 
+X 
+ 
+ 
+ 
+ 
+Waste management structures, where not otherwise 
+stipulated in this Ordinance 
+ 
+ 
+ 
+X 
+ 
+Wedding venues on farms with Board of Appeals approval 
+ 
+ 
+X 
+ 
+ 
+Wind energy systems, small 
+ 
+ 
+X 
+ 
+ 
+Wind energy systems, small, accessory 
+ 
+ 
+ 
+X
+
+<!-- page 24 -->
+ARTICLE II.  DISTRICTS 
+SECTION 2. AGRICULTURAL ZONING DISTRICT (AZD) 
+ 
+Land Use Ordinance for Kent County, Maryland     21
+2.3 
+DENSITY, AREA, HEIGHT, WIDTH AND YARD REQUIREMENTS 
+ 
+STANDARD 
+DEVELOPMENT 
+ 
+STANDARDS FOR THE SUBDIVISION OF LOTS 
+Gross density (dwelling units/acre) 
+0.033 (1/30)1,7 
+ 
+Minimum lot size 
+ 
+ 
+   - On-site individual septic system 
+¾ acre 
+ 
+   - Community sewage system 
+½ acres 
+ 
+Maximum lot size 
+N/A 
+ 
+Minimum lot width 
+75 feet 
+ 
+Maximum lot width 
+N/A 
+ 
+Maximum percentage of property in lots 
+10%3 
+ 
+Maximum lots fronting on existing public road 
+24 
+ 
+STANDARDS FOR BUILDING AND STRUCTURE HEIGHT, WIDTH, AND PLACEMENT 
+Minimum yard 
+ 
+ 
+   - Front (primary road) 
+100 feet 
+ 
+   - Front (all other roads) 
+75 feet 
+ 
+   - Side 
+15 feet 
+ 
+   - Rear 
+30 feet 
+ 
+   - Waterfront 
+100 feet 
+ 
+   - Accessory structures on farms in the side and 
+rear yard 
+25 feet 
+ 
+   - Accessory residential structures in rear yard 
+ 
+ 
+         Side 
+10  feet 
+ 
+         Rear 
+10  feet 
+ 
+Maximum front yard 
+N/A 
+ 
+Maximum structure height5 
+ 
+ 
+   - Primary Residential or Agricultural structure 
+38 feet 
+ 
+   - Accessory Residential Structure (a special 
+exception may be granted to exceed max) 
+Height of existing primary 
+residential structure 
+ 
+   - Fence height6 
+ 
+ 
+       - Security  
+8 feet 
+ 
+       - Agricultural 
+5 feet 
+ 
+       - Ornamental  
+ 
+ 
+             Side and Rear 
+8 feet 
+ 
+             Front 
+4 feet 
+ 
+Lot line setback from External Access Road 
+N/A 
+ 
+Lot line setback from Protected Lands 
+N/A 
+ 
+Maximum Enclave size 
+N/A 
+ 
+Minimum Enclave size 
+N/A 
+ 
+Maximum number of Enclaves 
+N/A
+
+<!-- page 25 -->
+ARTICLE II.  DISTRICTS 
+SECTION 2. AGRICULTURAL ZONING DISTRICT (AZD) 
+ 
+Land Use Ordinance for Kent County, Maryland     22
+FOOTNOTES 
+1 
+Accessory dwelling units do not count toward the density calculation in AZD. 
+2 
+Parcels 100 acres or larger do not count toward the maximum developed percentage of 
+the property.  
+3 
+Parcels created before December 3, 2002, do not count toward the two permitted road 
+front parcels. The Planning Commission may waive this requirement, if the proposal 
+meets the waiver requirements in this Ordinance. 
+4 
+Height of structures may be further restricted by the Kent County Airport Safety 
+Requirements as defined in this Ordinance.  Except in an area defined as the Kent 
+County Airport Safety Area, the height limitations do not apply to: belfries; ornamental 
+towers and spires; church spires; public monuments; commercial radio, personal 
+wireless facility, and television towers less than 200 feet in height; stage towers or 
+scenery lofts; tanks; conveyors; silos and corn dryers; elevator bulkheads; fire towers; 
+water towers; stand pipes; and flag poles.  
+5 
+Fences do not need to meet the yard requirements. 
+6 
+Agricultural Easement Program – Nothing in this regulation shall limit the ability of a 
+participant in the Agricultural Easement Program to convey real property impressed 
+with an easement to his or her child provided the easement was recorded with the Kent 
+County Clerk of Circuit Court prior to October 1, 2003.
+
+<!-- page 26 -->
+ARTICLE II.  DISTRICTS 
+SECTION 2. AGRICULTURAL ZONING DISTRICT (AZD) 
+ 
+Land Use Ordinance for Kent County, Maryland     23
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2: Regulatory diagram of a lot in the Agricultural Zoning District. 
+ 
+
+
+<!-- page 27 -->
+ARTICLE II.  DISTRICTS 
+SECTION 3. RESOURCE CONSERVATION DISTRICT (RCD) 
+ 
+Land Use Ordinance for Kent County, Maryland     24
+SECTION 3 
+RESOURCE CONSERVATION DISTRICT (RCD) 
+3.1 
+STATEMENT OF INTENT 
+1. 
+This district is intended to: 
+(A) 
+Conserve, protect, and enhance the overall ecological values of the Critical 
+Area, its biological productivity, and its diversity; 
+(B) 
+Provide adequate breeding, feeding, and wintering habitats for those wildlife 
+populations that require the Chesapeake Bay, its tributaries, or coastal habitats 
+to sustain populations of those species; 
+(C) 
+Conserve the existing developed woodlands and forests for the water quality 
+benefits that they provide; and 
+(D) 
+Conserve the land and water resource base necessary to maintain and support 
+such uses as agriculture, forestry, fisheries’ activities, and aquaculture. 
+2. 
+It includes areas characterized by nature-dominated environments (that is, wetlands, 
+forests, abandoned fields) and resource-utilization activities (that is, agriculture, forestry, 
+fisheries’ activities, or aquaculture). 
+3. 
+RCD is the Critical Area complementary district to the Agricultural Zoning District (AZD). 
+Regulations are intended to mirror the AZD and provide for a Critical Area version of AZD.  
+ 
+Figure 3: Diagram illustrating the desired character of the Resource Conservation District.
+
+<!-- page 28 -->
+ARTICLE II.  DISTRICTS 
+SECTION 3. RESOURCE CONSERVATION DISTRICT (RCD) 
+ 
+Land Use Ordinance for Kent County, Maryland     25
+3.2 
+PERMITTED USES AND STRUCTURES  
+A building or land shall be used only for the following. Detailed limitations and standards for 
+these uses may be found in Article III. Administrative special exceptions are indicated by letter 
+“A.” “B” indicates exceptions that require only Board of Appeals review. All other exceptions 
+require Planning Commission and Board of Appeals reviews per Article IV. 
+Uses in the Resource Conservation District (RCD) 
+ 
+Article III lists requirements for 
+permitted uses and conditions related 
+to special exceptions 
+Permitted by right 
+Permitted by right 
+on farms only 
+Special Exception 
+Accessory Use  
+on farms only 
+Accessory Use  
+on all properties 
+Accessory dwelling unit 
+ 
+ 
+ 
+ 
+X 
+Accessory farm buildings, including barns, cribs, stables, 
+sheds, tool rooms, shops, bins, tanks, and silos 
+ 
+ 
+ 
+X 
+ 
+Accessory farm dwellings 
+ 
+ 
+ 
+X 
+ 
+Accessory off-street parking and loading of non-commercial 
+vehicles that have current licenses and are operable 
+ 
+ 
+ 
+ 
+X 
+Accessory off-street parking of one commercial vehicle  
+ 
+ 
+ 
+ 
+X 
+Accessory open or enclosed storage of farm materials, 
+products, equipment, fertilizer or chemicals, or vehicles, 
+located at least 200 feet from all property lines 
+ 
+ 
+ 
+X 
+ 
+Accessory roadside stand for the sale of farm products 
+ 
+ 
+ 
+X 
+ 
+Accessory residential storage structures with a ground floor 
+area of more than 2,000 square feet or a height that exceeds 
+the height of the primary residential structure on parcels less 
+than 5 acres 
+ 
+ 
+A 
+ 
+ 
+Accessory structures in the front yard requirement of 
+waterfront parcels 
+ 
+ 
+A 
+ 
+ 
+Accessory structures in front yard of a through or corner lot 
+ 
+ 
+A 
+ 
+ 
+Adaptive reuse of historic structures for uses not otherwise 
+listed 
+ 
+ 
+X 
+ 
+ 
+Agriculture 
+X 
+ 
+ 
+ 
+ 
+Agritourism on farms, defined in Article VII 
+ 
+ 
+X 
+ 
+ 
+Animal husbandry, aquaculture 
+ 
+X 
+ 
+ 
+ 
+Animal husbandry, farms, including horses 
+ 
+X 
+ 
+ 
+ 
+Animal husbandry, horses on non-farms 
+ 
+ 
+X 
+ 
+ 
+Animal husbandry, special – backyard chickens 
+ 
+ 
+ 
+ 
+X 
+Animal husbandry, special – small sheep or goats 
+ 
+ 
+ 
+ 
+X 
+Animal husbandry, stable - private  
+X 
+ 
+ 
+ 
+ 
+Animal husbandry, stable - commercial 
+X 
+ 
+ 
+ 
+ 
+Appurtenant signs 
+ 
+ 
+ 
+ 
+X
+
+<!-- page 29 -->
+ARTICLE II.  DISTRICTS 
+SECTION 3. RESOURCE CONSERVATION DISTRICT (RCD) 
+ 
+Land Use Ordinance for Kent County, Maryland     26
+Uses in the Resource Conservation District (RCD) 
+ 
+Article III lists requirements for 
+permitted uses and conditions related 
+to special exceptions 
+Permitted by right 
+Permitted by right 
+on farms only 
+Special Exception 
+Accessory Use  
+on farms only 
+Accessory Use  
+on all properties 
+Camp, day or boarding, private or commercial, but not 
+recreational vehicle or migrant labor camps, for the purpose 
+of conserving and enjoying the natural resources 
+X 
+ 
+ 
+ 
+ 
+Campgrounds existing and in use as of August 1, 1989 
+X 
+ 
+ 
+ 
+ 
+Conference center 
+ 
+ 
+X 
+ 
+ 
+Existing Conference centers, resorts, retreats, hotels, and 
+motels existing and in use as of August 1, 1989 
+X 
+ 
+ 
+ 
+ 
+Convalescent, group, or homes for the aged if located in 
+dwellings existing as of December 1, 1985 
+X 
+ 
+ 
+ 
+ 
+Country Inn 
+ 
+ 
+X 
+ 
+ 
+Day care groups  
+ 
+ 
+A 
+ 
+ 
+Day care homes 
+ 
+ 
+ 
+ 
+X 
+Detached single family dwellings 
+X 
+ 
+ 
+ 
+ 
+Existing permitted marinas  
+X 
+ 
+ 
+ 
+ 
+Exposition center or fairgrounds 
+ 
+ 
+B 
+ 
+ 
+Farm employee housing 
+ 
+ 
+X 
+ 
+ 
+Golf courses, public or private 
+ 
+ 
+X 
+ 
+ 
+Home occupations in main or accessory buildings 
+ 
+ 
+ 
+ 
+X 
+Hunting blinds, pits, or preservers 
+X 
+ 
+ 
+ 
+ 
+Hunting trailer, one, temporary 
+ 
+ 
+ 
+X 
+ 
+Mobile homes existing and in use as of January 16, 1996  
+X 
+ 
+ 
+ 
+ 
+Personal wireless facility towers 
+ 
+ 
+X 
+ 
+ 
+Personal wireless facilities, collocated on existing towers 
+X 
+ 
+ 
+ 
+ 
+Poultry houses  
+X 
+ 
+ 
+ 
+ 
+Private clubs 
+ 
+ 
+B 
+ 
+ 
+Private garages, swimming pools, game courts, and other 
+customary residential outbuildings and structures 
+ 
+ 
+ 
+ 
+X 
+Private piers, community piers, and private shared piers 
+ 
+ 
+ 
+ 
+X 
+Public and private forests, wildlife reservations and similar 
+conservation projects 
+X 
+ 
+ 
+ 
+ 
+Public and private parks and playgrounds for the purpose of 
+conserving and enjoying the natural resources.  
+X 
+ 
+ 
+ 
+ 
+Public landings 
+ 
+ 
+B 
+ 
+ 
+Public uses, buildings, and utilities 
+ 
+ 
+X 
+ 
+ 
+Railroad right of ways 
+X 
+ 
+ 
+ 
+ 
+Resorts 
+ 
+ 
+X
+
+<!-- page 30 -->
+ARTICLE II.  DISTRICTS 
+SECTION 3. RESOURCE CONSERVATION DISTRICT (RCD) 
+ 
+Land Use Ordinance for Kent County, Maryland     27
+Uses in the Resource Conservation District (RCD) 
+ 
+Article III lists requirements for 
+permitted uses and conditions related 
+to special exceptions 
+Permitted by right 
+Permitted by right 
+on farms only 
+Special Exception 
+Accessory Use  
+on farms only 
+Accessory Use  
+on all properties 
+Retreats 
+ 
+ 
+X 
+ 
+ 
+Roadside stands 
+ 
+ 
+ 
+ 
+X 
+Sand and gravel pits, including excavation or extraction 
+ 
+ 
+X 
+ 
+ 
+Satellite dish, private, with an antenna exceeding 3 feet in 
+diameter 
+ 
+ 
+ 
+ 
+X 
+Satellite dish, private, with an antenna of 3 feet or less in 
+diameter 
+ 
+ 
+ 
+ 
+X 
+School buses, parked, limited to two 
+ 
+ 
+ 
+ 
+X 
+Short-term vacation rentals (STVR) 
+ 
+ 
+ 
+ 
+X 
+Solar energy systems, small 
+ 
+ 
+ 
+ 
+X 
+Solar energy systems, utility scale 
+ 
+X 
+ 
+ 
+ 
+Storage of boats, campers, boat trailers, and camper trailers 
+ 
+ 
+ 
+ 
+X 
+Temporary MET Tower of any height 
+ 
+ 
+ 
+ 
+X 
+Tie-out pilings of private piers, community piers, and private 
+shared piers 
+ 
+ 
+X 
+ 
+ 
+Waste management structures, where not otherwise 
+stipulated in this Ordinance 
+ 
+ 
+ 
+X 
+ 
+Wind energy systems, small 
+ 
+ 
+X 
+ 
+ 
+Wind energy systems, small, accessory 
+ 
+ 
+ 
+X
+
+<!-- page 31 -->
+ARTICLE II.  DISTRICTS 
+SECTION 3. RESOURCE CONSERVATION DISTRICT (RCD) 
+ 
+Land Use Ordinance for Kent County, Maryland     28
+3.3 
+DENSITY, AREA, HEIGHT, WIDTH AND YARD REQUIREMENTS 
+STANDARDS FOR THE SUBDIVISION OF LOTS 
+Gross density (dwelling units/ac) 
+1 dwelling unit per 20 acres1 
+Minimum lot size 
+ 
+   - On-site individual septic system 
+¾ acre 
+   - Community sewage system 
+½ acre 
+Minimum lot width 
+75 feet 
+STANDARDS FOR BUILDING AND STRUCTURE HEIGHT, WIDTH, AND PLACEMENT 
+Minimum yard 
+ 
+   - Front 
+50 feet 
+   - Side 
+15 feet 
+   - Rear 
+30 feet 
+   - Shoreline cliff 
+1.5 x cliff height + 20 feet 
+   - Waterfront 
+Minimum 100-foot buffer 
+   - Accessory structures on farms in the side and rear yard 
+25 feet 
+   - Accessory residential structures in rear yard 
+ 
+         Side 
+10 feet 
+         Rear 
+10 feet 
+Maximum structure height2 
+ 
+   - Primary Residential or Agricultural structure 
+38 feet 
+  - Accessory Residential Structure (a special exception 
+may be granted to exceed max) 
+Height of existing primary 
+residential structure 
+   - Fence height3 
+ 
+       - Security 
+8 feet 
+       - Agricultural 
+5 feet 
+       - Ornamental  
+ 
+             Side and Rear 
+8 feet 
+             Front 
+4 feet 
+ 
+1 
+Parcels of more than one acre improved by more than one dwelling unit, existing as of 
+December 1, 1985, may be subdivided into parcels of land not less than one-half (½) acre 
+each for each dwelling unit situated on the one-half (½) acre, or more, being subdivided.  
+Accessory dwelling units that comply with Article III do not count toward the density 
+calculation.  
+ 
+2 
+Except in an area defined as the Kent County Airport Safety Area, the height limitations 
+do not apply to: belfries; ornamental towers and spires; church spires; public monuments; 
+commercial radio, personal wireless facility, and television towers less than 200 feet in 
+height; stage towers or scenery lofts; tanks; conveyors; silos and corn dryers; elevator 
+bulkheads; fire towers; water towers; standpipes; and flag poles.   
+ 
+3 
+Fences do not need to meet the yard requirements.
+
+<!-- page 32 -->
+ARTICLE II.  DISTRICTS 
+SECTION 3. RESOURCE CONSERVATION DISTRICT (RCD) 
+ 
+Land Use Ordinance for Kent County, Maryland     29
+ 
+ 
+ 
+ 
+Figure 4: Regulatory diagram of a lot in the Resource Conservation District.
+
+<!-- page 33 -->
+ARTICLE II.  DISTRICTS 
+SECTION 4. RURAL CHARACTER DISTRICT (RC) 
+ 
+Land Use Ordinance for Kent County, Maryland     30
+SECTION 4 
+RURAL CHARACTER DISTRICT (RC) 
+4.1 
+STATEMENT OF INTENT 
+The purpose of this district is to provide for the local market demand for rural lots, including large 
+estate lots on 20 acres or more, in a manner that maintains rural character and in a location that 
+minimizes conflicts with agriculture. The District may function as a transition between the 
+incorporated towns, villages, residential developments, and the Agricultural Zoning District. To 
+maintain their rural character, developments will follow strict design standards for protecting 
+significant rural features, preserving scenic views, and historic structures as well as designing with 
+topography and sensitively locating new buildings.  Recreational uses such as golf courses, 
+racquet courts, and stables are appropriate in this district.  Public water and sewer may not be 
+extended into this district except to correct a public health emergency. 
+ 
+ 
+Figure 5: Diagram illustrating the desired character in the Rural Character District.
+
+<!-- page 34 -->
+ARTICLE II.  DISTRICTS 
+SECTION 4. RURAL CHARACTER DISTRICT (RC) 
+ 
+Land Use Ordinance for Kent County, Maryland     31
+4.2 
+PERMITTED USES AND STRUCTURES 
+A building or land shall be used only for the following. Detailed limitations and standards for 
+these uses may be found in Article III. Administrative special exceptions are indicated by letter 
+“A.” “B” indicates exceptions that require only Board of Appeals review. All other exceptions 
+require Planning Commission and Board of Appeals reviews per Article IV. 
+ 
+Uses in Rural Character District (RC) 
+ 
+Article III lists requirements for 
+permitted uses and conditions related 
+to special exceptions 
+Permitted by right 
+Permitted by right 
+ on farms only 
+Special Exception 
+Accessory Use 
+ on farms only 
+Accessory Use 
+ on all properties 
+Accessory dwelling unit 
+ 
+ 
+ 
+ 
+X 
+Accessory farm buildings, including barns, cribs, stables, 
+sheds, tool rooms, shops, bins, tanks, and silos 
+ 
+ 
+ 
+X 
+ 
+Accessory farm dwellings 
+ 
+ 
+ 
+X 
+ 
+Accessory off-street parking and loading of non-
+commercial vehicles that have current licenses and are 
+operable 
+ 
+ 
+ 
+ 
+X 
+Accessory off-street parking of one commercial vehicle  
+ 
+ 
+ 
+ 
+X 
+Accessory open or enclosed storage of farm materials, 
+products, equipment, fertilizer or chemicals, or vehicles 
+ 
+ 
+ 
+X 
+ 
+Accessory residential storage structures with a ground floor 
+area of more than 2,000 square feet or a height that 
+exceeds the height of the primary residential structure on 
+parcels less than 5 acres 
+ 
+ 
+A 
+ 
+ 
+Accessory structures in a front yard of through or corner lot 
+ 
+ 
+A 
+ 
+ 
+Adaptive reuse of historic structures for uses not otherwise 
+listed 
+ 
+ 
+X 
+ 
+ 
+Agriculture 
+X 
+ 
+ 
+ 
+ 
+Animal husbandry, aquaculture 
+ 
+X 
+ 
+ 
+ 
+Animal husbandry, farms, including horses  
+ 
+X 
+ 
+ 
+ 
+Animal husbandry, horses on non-farms 
+ 
+ 
+X 
+ 
+ 
+Animal husbandry, special – backyard chickens 
+ 
+ 
+ 
+ 
+X 
+Animal husbandry, special – small sheep or goats 
+ 
+ 
+ 
+ 
+X 
+Animal husbandry – stable private 
+X 
+ 
+ 
+ 
+ 
+Animal husbandry – stable commercial 
+X 
+ 
+ 
+ 
+ 
+Airports, landing fields, helistops, or heliports 
+ 
+ 
+X 
+ 
+ 
+Appurtenant signs 
+ 
+ 
+ 
+ 
+X 
+Assisted living facilities with five to eight beds 
+ 
+ 
+A 
+ 
+ 
+Assisted living facilities with no more than four beds 
+ 
+ 
+ 
+ 
+X
+
+<!-- page 35 -->
+ARTICLE II.  DISTRICTS 
+SECTION 4. RURAL CHARACTER DISTRICT (RC) 
+ 
+Land Use Ordinance for Kent County, Maryland     32
+Uses in Rural Character District (RC) 
+ 
+Article III lists requirements for 
+permitted uses and conditions related 
+to special exceptions 
+Permitted by right 
+Permitted by right 
+ on farms only 
+Special Exception 
+Accessory Use 
+ on farms only 
+Accessory Use 
+ on all properties 
+Camp, day or boarding, private or commercial, but not 
+recreational vehicle or migrant labor camps, for the 
+purpose of conserving and enjoying the natural resources 
+X 
+ 
+ 
+ 
+ 
+Cemetery, including crematorium and mausoleum 
+ 
+ 
+X 
+ 
+ 
+Conference center 
+ 
+ 
+X 
+ 
+ 
+Cottage industries, tradesmen, and artisan shops 
+ 
+ 
+A 
+ 
+ 
+Country inns 
+ 
+ 
+X 
+ 
+ 
+Country stores 
+ 
+ 
+X 
+ 
+ 
+Day care groups 
+ 
+ 
+X 
+ 
+ 
+Day care homes 
+ 
+ 
+ 
+ 
+X 
+Detached single family dwellings 
+X 
+ 
+ 
+ 
+ 
+Dog kennels, commercial  
+ 
+ 
+X 
+ 
+ 
+Exposition center or fairgrounds 
+ 
+ 
+X 
+ 
+ 
+Golf courses, public or private 
+ 
+ 
+X 
+ 
+ 
+Greenhouses, wholesale or retail 
+X 
+ 
+ 
+ 
+ 
+Guest house, one, but not including mobile homes 
+ 
+ 
+ 
+X 
+ 
+Home occupations in main or accessory buildings 
+ 
+ 
+ 
+ 
+X 
+Hunting blinds, pits, or preservers 
+X 
+ 
+ 
+ 
+ 
+Hunting trailer, one, temporary 
+ 
+ 
+ 
+X 
+ 
+Mobile homes existing and in use as of January 16, 1996  
+X 
+ 
+ 
+ 
+ 
+Parking of commercial vehicles on a farm 
+ 
+ 
+ 
+X 
+ 
+Personal wireless facility towers 
+ 
+ 
+X 
+ 
+ 
+Personal wireless facilities, collocated on existing towers 
+X 
+ 
+ 
+ 
+ 
+Private clubs 
+ 
+ 
+X 
+ 
+ 
+Private garages, swimming pools, game courts, and other 
+customary residential outbuildings and structures 
+ 
+ 
+ 
+ 
+X 
+Private schools 
+ 
+ 
+X 
+ 
+ 
+Public and private forests, wildlife reservations and similar 
+conservation projects 
+X 
+ 
+ 
+ 
+ 
+Public and private parks and playgrounds for the purpose 
+of conserving and enjoying the natural resources.  
+X 
+ 
+ 
+ 
+ 
+Public landings 
+ 
+ 
+X 
+ 
+ 
+Public uses, buildings, and utilities 
+ 
+ 
+X 
+ 
+ 
+Raising of small animals, commercial, including birds, bees, 
+fish, rabbits or other creatures, but not including dog 
+kennels 
+ 
+ 
+X
+
+<!-- page 36 -->
+ARTICLE II.  DISTRICTS 
+SECTION 4. RURAL CHARACTER DISTRICT (RC) 
+ 
+Land Use Ordinance for Kent County, Maryland     33
+Uses in Rural Character District (RC) 
+ 
+Article III lists requirements for 
+permitted uses and conditions related 
+to special exceptions 
+Permitted by right 
+Permitted by right 
+ on farms only 
+Special Exception 
+Accessory Use 
+ on farms only 
+Accessory Use 
+ on all properties 
+Recreational facilities, privately or commercially owned 
+ 
+ 
+X 
+ 
+ 
+Resorts 
+ 
+ 
+X 
+ 
+ 
+Retreats 
+ 
+ 
+X 
+ 
+ 
+Roadside stands 
+ 
+ 
+ 
+ 
+X 
+Rural inns 
+ 
+ 
+X 
+ 
+ 
+Satellite dish, private, with an antenna exceeding 3 feet in 
+diameter 
+ 
+ 
+ 
+ 
+X 
+Satellite dish, private, with an antenna of 3 feet or less in 
+diameter 
+ 
+ 
+ 
+ 
+X 
+School buses, parked, limited to five 
+ 
+ 
+ 
+X 
+ 
+School buses, parked, limited to two 
+ 
+ 
+ 
+ 
+X 
+Short-term vacation rentals (STVR) 
+ 
+ 
+ 
+ 
+X 
+Solar energy systems, small 
+ 
+ 
+ 
+ 
+X 
+Storage of boats, campers, boat trailers, and camper 
+trailers 
+ 
+ 
+ 
+ 
+X 
+Temporary MET Tower of any height 
+ 
+ 
+ 
+ 
+X 
+Wind energy systems, small 
+ 
+ 
+X 
+ 
+ 
+Wind energy systems, small, accessory 
+ 
+ 
+ 
+X
+
+<!-- page 37 -->
+ARTICLE II.  DISTRICTS 
+SECTION 4. RURAL CHARACTER DISTRICT (RC) 
+ 
+Land Use Ordinance for Kent County, Maryland     34
+4.3 
+DENSITY, AREA, HEIGHT, WIDTH AND YARD REQUIREMENTS 
+STANDARDS FOR THE SUBDIVISION OF LOTS 
+Number of lots (dwelling units/acre) 
+1 dwelling units per 20 acres1 
+Minimum lot size 
+¾ acre 
+Minimum lot width 
+75 feet 
+STANDARDS FOR BUILDING AND STRUCTURE HEIGHT, WIDTH, AND PLACEMENT 
+Minimum yard 
+ 
+   - Front 
+50 feet 
+   - Side 
+15 feet 
+   - Rear 
+30 feet 
+   - Waterfront 
+100 feet 
+   - Accessory structures on farms in the side 
+and rear yard 
+25 feet 
+   - Accessory residential structures in rear yard 
+ 
+         Side 
+10  feet 
+         Rear 
+10  feet 
+Maximum structure height2 
+ 
+   - Primary Residential or Agricultural structure 
+38 feet 
+Accessory Residential Structure (a special 
+exception may be granted to exceed max) 
+Height of existing primary residential 
+structure 
+   - Fence3 
+ 
+       - Security  
+8 feet 
+       - Agricultural 
+5 feet 
+       - Ornamental  
+ 
+             Side and Rear 
+8 feet 
+             Front 
+4 feet 
+1 
+Accessory dwelling units are not counted toward permitted density. 
+2 
+Height of structures may be further restricted by the Kent County Airport Safety 
+Requirements as defined in SECION 33.4 ZONING DISTRICT SPECIFIC DESIGN 
+STANDARDS of this Ordinance. Except in an area defined as the Kent County Airport 
+Safety Area, the height limitations do not apply to: belfries; ornamental towers and 
+spires; church spires; public monuments; commercial radio, personal wireless facility, 
+and television towers less than 200 feet in height; stage towers or scenery lofts; tanks; 
+conveyors; silos and corn dryers; elevator bulkheads; fire towers; water towers; stand 
+pipes; and flag poles. 
+3 
+Fences do not need to meet the yard requirements.
+
+<!-- page 38 -->
+ARTICLE II.  DISTRICTS 
+SECTION 4. RURAL CHARACTER DISTRICT (RC) 
+ 
+Land Use Ordinance for Kent County, Maryland     35
+ 
+ 
+Figure 6: Regulatory diagram of a lot in the Rural Character District.
+
+<!-- page 39 -->
+ARTICLE II.  DISTRICTS 
+SECTION 5. CRITICAL AREA RESIDENTIAL (CAR) 
+ 
+Land Use Ordinance for Kent County, Maryland     36
+SECTION 5 
+CRITICAL AREA RESIDENTIAL (CAR) 
+5.1 
+STATEMENT OF INTENT  
+This district is intended to allow low density residential development in areas where the impact 
+on the natural environment is minimal. The purpose of this district is to maintain, or if possible 
+to improve, the quality of runoff and groundwater entering the Chesapeake Bay and its 
+tributaries and to maintain existing areas of natural habitats while allowing limited residential 
+development that conforms to environmental standards and that reflects the scale and character 
+of existing development. These areas must have one of the following characteristics:  
+(A) Housing density ranges from one dwelling unit per five acres, up to four dwelling units per  
+acre. 
+(B) Areas not dominated by agriculture, wetlands, forest, barren land, surface water or space;  or 
+(C) Areas having public sewer or water, or both. 
+(D) Areas meeting the conditions of an Intense Development Area but less than 20 acres in size. 
+ 
+The Critical Area Residential district is complementary to the Community Residential district (CR). 
+Regulations are intended to mirror the CR and to provide for a Critical Area version of the CR.  
+ 
+ 
+ 
+Figure 7: Diagram illustrating the desired character in the Critical Area Residential District.
+
+<!-- page 40 -->
+ARTICLE II.  DISTRICTS 
+SECTION 5. CRITICAL AREA RESIDENTIAL (CAR) 
+ 
+Land Use Ordinance for Kent County, Maryland     37
+ 
+ 
+5.2 
+PERMITTED USES AND STRUCTURES 
+A building or land shall be used only for the following. Detailed limitations and standards for these 
+uses may be found in Article III. Administrative special exceptions are indicated by letter “A.” “B” 
+indicates exceptions that require only Board of Appeals review. All other exceptions require 
+Planning Commission and Board of Appeals reviews per Article IV. 
+ 
+Uses in Critical Area Residential (CAR) 
+ 
+Article III lists requirements for 
+permitted uses and conditions 
+related to special exceptions 
+Permitted by right 
+Special Exception 
+Accessory Uses 
+Accessory dwelling unit 
+ 
+ 
+X 
+Accessory off-street parking and loading of non-commercial vehicles that 
+have current licenses and are operable 
+ 
+ 
+X 
+Accessory off-street parking of one commercial vehicle  
+ 
+ 
+X 
+Accessory residential storage structures with a ground floor area of more 
+than 2,000 square feet or a height that exceeds the height of the 
+primary residential structure on parcels less than 5 acres 
+ 
+A 
+ 
+Accessory structures in the front yard requirement of waterfront parcels 
+ 
+A 
+ 
+Accessory structures in a front yard of a through or corner lot 
+ 
+A 
+ 
+Agriculture  
+X 
+ 
+ 
+Animal husbandry, aquaculture 
+ 
+X 
+ 
+Animal husbandry, farms, including horses 
+ 
+X 
+ 
+Animal husbandry, horses on non-farms 
+ 
+X 
+ 
+Animal husbandry, special – backyard chickens 
+ 
+ 
+X 
+Animal husbandry, special – small sheep or goats 
+ 
+ 
+X 
+Animal husbandry, stable - private 
+X 
+ 
+ 
+Animal husbandry, stable - commercial 
+X 
+ 
+ 
+Airports, landing fields, helistops, or heliports 
+ 
+X 
+ 
+Appurtenant signs 
+ 
+ 
+X 
+Assisted living facilities with five to eight beds 
+ 
+A 
+ 
+Assisted living facilities with no more than four beds 
+ 
+ 
+X 
+Camp, day or boarding, private or commercial, but not recreational 
+vehicle or migrant labor camps, for the purpose of conserving and 
+enjoying the natural resources 
+X 
+ 
+ 
+Cemetery, including crematorium and mausoleum 
+ 
+X 
+ 
+Conference center 
+ 
+X 
+ 
+Cottage industries, tradesmen, and artisan shops 
+ 
+A
+
+<!-- page 41 -->
+ARTICLE II.  DISTRICTS 
+SECTION 5. CRITICAL AREA RESIDENTIAL (CAR) 
+ 
+Land Use Ordinance for Kent County, Maryland     38
+Uses in Critical Area Residential (CAR) 
+ 
+Article III lists requirements for 
+permitted uses and conditions 
+related to special exceptions 
+Permitted by right 
+Special Exception 
+Accessory Uses 
+Country inns 
+ 
+X 
+ 
+Day care groups 
+ 
+A 
+ 
+Day care homes 
+ 
+ 
+X 
+Detached single family dwellings 
+X 
+ 
+ 
+Dog kennels, commercial  
+ 
+B 
+ 
+Golf courses, public or private 
+ 
+X 
+ 
+Greenhouses, wholesale or retail 
+X 
+ 
+ 
+Home occupations in main or accessory buildings 
+ 
+ 
+X 
+Mobile homes existing and in use as of January 16, 1996  
+X 
+ 
+ 
+Private clubs 
+ 
+B 
+ 
+Private garages, swimming pools, game courts, and other customary 
+residential outbuildings and structures 
+ 
+ 
+X 
+Private piers, community piers, and private shared piers 
+ 
+ 
+X 
+Private schools 
+ 
+X 
+ 
+Public and private forests, wildlife reservations and similar conservation 
+projects 
+X 
+ 
+ 
+Public and private parks and playgrounds for the purpose of conserving 
+and enjoying the natural resources.  
+X 
+ 
+ 
+Public landings 
+ 
+B 
+ 
+Public uses, buildings, and utilities 
+ 
+X 
+ 
+Recreational facilities, privately or commercially owned 
+ 
+X 
+ 
+Resorts 
+ 
+X 
+ 
+Retreats 
+ 
+X 
+ 
+Roadside stands 
+ 
+ 
+X 
+Sand and gravel pits, including excavation or extraction 
+ 
+X 
+ 
+Satellite dish, private, with an antenna exceeding 3 feet in diameter 
+ 
+ 
+X 
+Satellite dish, private, with an antenna of 3 feet or less in diameter 
+ 
+ 
+X 
+School buses, parked, limited to two 
+ 
+ 
+X 
+Short-term vacation rentals (STVR) 
+ 
+ 
+X 
+Solar energy systems, small 
+ 
+ 
+X 
+Storage of boats, campers, boat trailers, and camper trailers 
+ 
+ 
+X 
+Temporary MET Tower of any height 
+ 
+ 
+X 
+Tie-out pilings of private piers, community piers, and private shared piers 
+ 
+X 
+ 
+Wind energy systems, small 
+ 
+X
+
+<!-- page 42 -->
+ARTICLE II.  DISTRICTS 
+SECTION 5. CRITICAL AREA RESIDENTIAL (CAR) 
+ 
+Land Use Ordinance for Kent County, Maryland     39
+5.3 
+DENSITY, AREA, HEIGHT, WIDTH AND YARD REQUIREMENTS 
+STANDARDS FOR THE SUBDIVISION OF LOTS 
+Gross density (dwelling units/acre) 
+1 dwelling unit per acre1 
+Minimum lot size 
+½ acre 
+Minimum lot width 
+75 feet 
+STANDARDS FOR BUILDING AND STRUCTURE HEIGHT, WIDTH, AND PLACEMENT 
+Minimum yard 
+ 
+- Front 
+35 feet 
+- Side 
+10 feet 
+- Rear 
+30 feet 
+- Waterfront 
+Minimum 100-foot buffer or 
+modified buffer2 
+- Shoreline cliff 
+1.5 x cliff height + 20 feet 
+- Accessory structures on farms in the side and 
+rear yard 
+25 feet 
+- Accessory residential structures in rear yard 
+ 
+Side 
+5  feet 
+Rear 
+5 feet 
+Maximum structure height3 
+ 
+- Primary Residential or Agricultural structure 
+38 feet 
+Accessory Residential Structure (a special 
+exception may be granted to exceed max) 
+Height of existing primary 
+residential structure 
+- Fence4 
+ 
+- Security 
+8 feet 
+- Agricultural 
+5 feet 
+- Ornamental 
+ 
+Side and Rear 
+8 feet 
+Front 
+4 feet 
+1 
+Accessory dwelling units are not included in density calculations. 
+2 
+Modifications for structures existing prior to April 12, 1988, may be permitted as per 
+Article VI.  
+3 
+Except in an area defined as the Kent County Airport Safety Area, the height limitations 
+do not apply to: belfries; ornamental towers and spires; church spires; public 
+monuments; commercial radio, personal wireless facility, and television towers less than 
+200 feet in height; stage towers or scenery lofts; tanks; conveyors; silos and corn dryers; 
+elevator bulkheads; fire towers; water towers; standpipes; and flag poles. 
+4 
+Fences do not need to meet yard requirements.
+
+<!-- page 43 -->
+ARTICLE II.  DISTRICTS 
+SECTION 5. CRITICAL AREA RESIDENTIAL (CAR) 
+ 
+Land Use Ordinance for Kent County, Maryland     40
+ 
+ 
+Figure 8: Regulatory diagram of a lot in the Critical Area Residential District.
+
+<!-- page 44 -->
+ARTICLE II.  DISTRICTS 
+SECTION 6. COMMUNITY RESIDENTIAL (CR) 
+ 
+Land Use Ordinance for Kent County, Maryland     41
+SECTION 6 
+COMMUNITY RESIDENTIAL (CR) 
+6.1 
+STATEMENT OF INTENT 
+The purpose of this district is to provide for single family residential development in areas of 
+existing residential development, together with facilities and accessory uses normally compatible 
+with residential surroundings, and at the same time to permit agricultural uses and to preserve 
+open spaces and rural character.  This district is located in areas near existing rural development, 
+neighborhood developed areas, villages and incorporated towns. This district combines the 
+former Community Residential (CR) district with the Rural Residential (RR) district, while retaining 
+the higher density of CR at 1 unit per acre, as opposed to the lower density of RR at 1 unit per 
+three acres. The permitted uses of both have been combined with all the uses being preserved.  
+ 
+ 
+ 
+Figure 9: Diagram illustrating the desired character of the Community Residential District.
+
+<!-- page 45 -->
+ARTICLE II.  DISTRICTS 
+SECTION 6. COMMUNITY RESIDENTIAL (CR) 
+ 
+Land Use Ordinance for Kent County, Maryland     42
+6.2 
+PERMITTED USES AND STRUCTURES 
+A building or land shall be used only for the following. Detailed limitations and standards for 
+these uses are found in Article III. Administrative special exceptions are indicated by letter “A.” 
+“B” indicates exceptions that require only Board of Appeals review. All other exceptions require 
+Planning Commission and Board of Appeals reviews per Article IV. 
+ 
+Uses in Community Residential (CR) 
+ 
+Article III lists requirements for 
+permitted uses and conditions related 
+to special exceptions. RR indicates 
+uses that are from the original Rural 
+Residential District. 
+Permitted by right 
+Special Exception 
+Accessory Use 
+on farms only 
+Accessory Use 
+on all properties 
+Accessory dwelling unit 
+ 
+ 
+ 
+X 
+Accessory farm buildings, including barns, cribs, stables, sheds, 
+tool rooms, shops, bins, tanks, and silos 
+ 
+ 
+X 
+ 
+Accessory farm dwellings 
+ 
+ 
+X 
+ 
+Accessory off-street parking and loading of non-commercial 
+vehicles that have current licenses and are operable 
+ 
+ 
+ 
+X 
+Accessory off-street parking of one commercial vehicle  
+ 
+ 
+ 
+X 
+Accessory open or enclosed storage of farm materials, products, 
+equipment, fertilizer or chemicals, or vehicles 
+ 
+ 
+X 
+ 
+Accessory residential storage structures with a ground floor area 
+of more than 2,000 square feet or a height that exceeds the height 
+of the primary residential structure on parcels less than 5 acres 
+ 
+A 
+ 
+ 
+Accessory structures in a front yard of a through or corner lot 
+ 
+A 
+ 
+ 
+Adaptive reuse of historic structures for uses not otherwise listed 
+ 
+X 
+ 
+ 
+Agriculture 
+X 
+ 
+ 
+ 
+Animal husbandry, aquaculture 
+ 
+X 
+ 
+ 
+Animal husbandry, farms, including horses  
+ 
+X 
+ 
+ 
+Animal husbandry, horses on non-farms 
+ 
+RR 
+ 
+ 
+Animal husbandry, limited livestock and fowl 
+ 
+RR 
+ 
+ 
+Animal husbandry, special – backyard chickens 
+ 
+ 
+ 
+X 
+Animal husbandry, special – small sheep or goats 
+ 
+ 
+ 
+X 
+Animal husbandry, stable private  
+X 
+ 
+ 
+ 
+Animal husbandry, stable commercial 
+X 
+ 
+ 
+ 
+Airports, landing fields, helistops, or heliports 
+ 
+X 
+ 
+ 
+Appurtenant signs 
+ 
+ 
+ 
+X 
+Assisted living facilities with five to eight beds 
+ 
+A 
+ 
+ 
+Assisted living facilities with no more than four beds 
+ 
+ 
+ 
+X
+
+<!-- page 46 -->
+ARTICLE II.  DISTRICTS 
+SECTION 6. COMMUNITY RESIDENTIAL (CR) 
+ 
+Land Use Ordinance for Kent County, Maryland     43
+Uses in Community Residential (CR) 
+ 
+Article III lists requirements for 
+permitted uses and conditions related 
+to special exceptions. RR indicates 
+uses that are from the original Rural 
+Residential District. 
+Permitted by right 
+Special Exception 
+Accessory Use 
+on farms only 
+Accessory Use 
+on all properties 
+Camp, day or boarding, private or commercial, but not 
+recreational vehicle or migrant labor camps, for the purpose of 
+conserving and enjoying the natural resources 
+X 
+ 
+ 
+ 
+Cemetery, including crematorium and mausoleum 
+ 
+X 
+ 
+ 
+Conference center 
+ 
+X 
+ 
+ 
+Cottage industries, tradesmen, and artisan shops 
+ 
+A 
+ 
+ 
+Country inns 
+ 
+X 
+ 
+ 
+Country stores 
+ 
+X 
+ 
+ 
+Day care groups 
+ 
+A 
+ 
+ 
+Day care homes 
+ 
+ 
+ 
+X 
+Detached single family dwellings 
+X 
+ 
+ 
+ 
+Dog kennels, commercial  
+ 
+B 
+ 
+ 
+Golf courses, public or private 
+ 
+X 
+ 
+ 
+Greenhouses, wholesale or retail 
+X 
+ 
+ 
+ 
+Guest house, one, but not including mobile homes 
+ 
+ 
+X 
+ 
+Home occupations in main or accessory buildings 
+ 
+ 
+ 
+X 
+Houses of worship 
+ 
+X 
+ 
+ 
+Hunting trailer, one, temporary 
+ 
+ 
+X 
+ 
+Keeping of backyard chickens 
+ 
+ 
+ 
+X 
+Mobile homes existing and in use as of January 16, 1996  
+X 
+ 
+ 
+ 
+Parking of commercial vehicles on a farm 
+ 
+ 
+X 
+ 
+Private clubs 
+ 
+B 
+ 
+ 
+Private garages, swimming pools, game courts, and other 
+customary residential outbuildings and structures 
+ 
+ 
+ 
+X 
+Private schools 
+ 
+X 
+ 
+ 
+Public and private forests, wildlife reservations and similar 
+conservation projects 
+X 
+ 
+ 
+ 
+Public and private parks and playgrounds for the purpose of 
+conserving and enjoying the natural resources.  
+X 
+ 
+ 
+ 
+Public landings 
+ 
+B 
+ 
+ 
+Public utilities and structures 
+ 
+X 
+ 
+ 
+Recreational facilities, privately or commercially owned 
+ 
+X 
+ 
+ 
+Resorts 
+ 
+X 
+ 
+ 
+Retreats 
+ 
+X 
+ 
+ 
+Roadside stands 
+ 
+ 
+ 
+X
+
+<!-- page 47 -->
+ARTICLE II.  DISTRICTS 
+SECTION 6. COMMUNITY RESIDENTIAL (CR) 
+ 
+Land Use Ordinance for Kent County, Maryland     44
+Uses in Community Residential (CR) 
+ 
+Article III lists requirements for 
+permitted uses and conditions related 
+to special exceptions. RR indicates 
+uses that are from the original Rural 
+Residential District. 
+Permitted by right 
+Special Exception 
+Accessory Use 
+on farms only 
+Accessory Use 
+on all properties 
+Rural inns 
+ 
+X 
+ 
+ 
+Satellite dish, private, with an antenna exceeding 3 feet in 
+diameter 
+ 
+ 
+ 
+X 
+Satellite dish, private, with an antenna of 3 feet or less in diameter 
+ 
+ 
+ 
+X 
+School buses, parked, limited to five 
+ 
+ 
+X 
+ 
+School buses, parked, limited to two 
+ 
+ 
+ 
+X 
+Short-term vacation rentals (STVR) 
+ 
+ 
+ 
+X 
+Solar energy systems, small 
+ 
+ 
+ 
+X 
+Storage of boats, campers, boat trailers, and camper trailers 
+ 
+ 
+ 
+X 
+Temporary MET Tower of any height 
+ 
+ 
+ 
+X 
+Wind energy systems, small 
+ 
+X 
+ 
+ 
+Wind energy systems, small, accessory 
+ 
+ 
+X
+
+<!-- page 48 -->
+ARTICLE II.  DISTRICTS 
+SECTION 6. COMMUNITY RESIDENTIAL (CR) 
+ 
+Land Use Ordinance for Kent County, Maryland     45
+6.3 
+DENSITY, AREA, HEIGHT, WIDTH AND YARD REQUIREMENTS 
+STANDARDS FOR THE SUBDIVISION OF LOTS 
+Gross density (dwelling units/acre) 
+1 dwelling units per acre1 
+Minimum lot size 
+½ acre 
+Minimum lot width 
+75 feet 
+STANDARDS FOR BUILDING AND STRUCTURE HEIGHT, WIDTH, AND PLACEMENT 
+Minimum yard 
+ 
+   - Front 
+35 feet 
+   - Side 
+10 feet 
+   - Rear 
+30 feet 
+   - Waterfront 
+100 feet 
+   - Accessory structures on farms in the side and rear yard 
+25 feet 
+   - Accessory residential structures in rear yard 
+ 
+         Side 
+5  feet 
+         Rear 
+5 feet 
+Maximum structure height2 
+ 
+   - Primary Residential or Agricultural structure 
+38 feet 
+Accessory Residential Structure (a special exception may be 
+granted to exceed max) 
+Height of existing primary 
+residential structure 
+   - Fence3 
+ 
+       - Security 
+8 feet 
+       - Agricultural 
+5 feet 
+       - Ornamental 
+ 
+             Side and Rear 
+8 feet 
+             Front 
+4 feet 
+ 
+1 
+Accessory dwelling units are not included in density calculations. 
+ 
+2 
+Height of structures may be further restricted by of the Kent County Airport Safety 
+Requirements as defined in this Ordinance.  Except in an area defined as the Kent 
+County Airport Safety Area, the height limitations do not apply to: belfries; ornamental 
+towers and spires; church spires; public monuments; commercial radio, personal 
+wireless facility, and television towers less than 200 feet in height; stage towers or 
+scenery lofts; tanks; conveyors; silos and corn dryers; elevator bulkheads; fire towers; 
+water towers; stand pipes; and flag poles. 
+ 
+3 
+Fences do not need to meet yard requirements.
+
+<!-- page 49 -->
+ARTICLE II.  DISTRICTS 
+SECTION 6. COMMUNITY RESIDENTIAL (CR) 
+ 
+Land Use Ordinance for Kent County, Maryland     46
+ 
+ 
+Figure 10: Regulatory diagram of a lot in the Community Residential District.
+
+<!-- page 50 -->
+ARTICLE II.  DISTRICTS 
+SECTION 7. VILLAGE DISTRICT (V) 
+ 
+Land Use Ordinance for Kent County, Maryland     47
+SECTION 7 
+VILLAGE DISTRICT (V) 
+7.1 
+STATEMENT OF INTENT 
+1. 
+The purpose of this district is to provide for high quality residential, neighborhood 
+business, and office development.  In those areas served by public water and sewer, this 
+zone will be characterized by a wide variety of housing types, densities, and uses.  In those 
+areas without public utilities, this zone will be largely single family and some business uses 
+with the possibility of multi-family residential. 
+2. 
+This district is created to: 
+(A) 
+Encourage planned neighborhoods of residential development in existing towns 
+and communities with access to major thoroughfares. 
+(B) 
+Permit a variety of housing types including accessory dwelling units. 
+(C) 
+Provide incentives for residential development by allowing variations in lot size, 
+density, frontage, and yard requirements. 
+(D) 
+Encourage compact development and promote economic development. 
+(E) 
+Promote village-scale mixing of uses and the development of non-residential uses 
+that complement and enhance the character, vitality, and attractiveness of the 
+community as a place to live and work including expanding existing businesses. 
+(F) 
+Encourage designs that allow for infill and create development that is compatible 
+with the character of existing buildings. 
+ 
+ 
+ 
+Figure 11: Diagram illustrating the desired character of single-family housing developments in the 
+Village District.  
+ 
+Figure 12: Diagram illustrating the desired character of multi-family housing developments in the 
+Village District.
+
+<!-- page 51 -->
+ARTICLE II.  DISTRICTS 
+SECTION 7. VILLAGE DISTRICT (V) 
+ 
+Land Use Ordinance for Kent County, Maryland     48
+7.2 
+PERMITTED USES AND STRUCTURES 
+A building or structure shall be used only for the following. Detailed limitations and standards for 
+these uses are found in Article III. Administrative special exceptions are indicated by letter “A.” 
+“B” indicates exceptions that require only Board of Appeals review. All other exceptions require 
+Planning Commission and Board of Appeals reviews per Article IV. 
+ 
+Uses in Village District (V) 
+ 
+Article III lists requirements for 
+permitted uses and conditions 
+related to special exceptions. 
+ 
+ Permitted by right 
+ Special Exception 
+ Accessory Use 
+   on all properties 
+Accessory dwelling unit 
+ 
+ 
+X 
+Accessory off-street parking of one commercial vehicle 
+ 
+ 
+X 
+Accessory structures in the front yards of through or corner lots 
+ 
+A 
+ 
+Accessory vehicle parking 
+ 
+ 
+X 
+Adaptive reuse of historic structures for uses not otherwise listed 
+ 
+X 
+ 
+Agriculture 
+X 
+ 
+ 
+Animal husbandry, special – backyard chickens 
+ 
+ 
+X 
+Animal husbandry special – small sheep or goats 
+ 
+ 
+X 
+Appurtenant signs 
+ 
+ 
+X 
+Assisted living facilities with no more than four beds 
+ 
+ 
+X 
+Automobile service stations, but not including repair 
+ 
+X 
+ 
+Boat sales, boat and outboard motor repairs and boat storage 
+X 
+ 
+ 
+Cemetery, including crematorium and mausoleum 
+ 
+X 
+ 
+Convalescent, nursing, or group homes for the aged with five or more 
+beds 
+ 
+X 
+ 
+Curio shops, craft shops, antique stores, and similar uses 
+X 
+ 
+ 
+Data processing centers 
+X 
+ 
+ 
+Day care groups 
+ 
+A 
+ 
+Day care homes 
+ 
+ 
+X 
+Detached single family dwellings 
+X 
+ 
+ 
+Existing commercial or industrial uses and structures in the Village District 
+X 
+ 
+ 
+Financial institutions 
+X 
+ 
+ 
+Fire and rescue stations 
+X 
+ 
+ 
+Funeral homes 
+X 
+ 
+ 
+Home and business services such as grounds care, cleaning, 
+exterminators, landscaping, and other repair and maintenance services 
+P 
+ 
+ 
+Home occupations in main or accessory buildings 
+ 
+ 
+X 
+Houses of worship 
+X 
+ 
+ 
+Indoor movie theaters, playhouses, and dinner theaters 
+X
+
+<!-- page 52 -->
+ARTICLE II.  DISTRICTS 
+SECTION 7. VILLAGE DISTRICT (V) 
+ 
+Land Use Ordinance for Kent County, Maryland     49
+Uses in Village District (V) 
+ 
+Article III lists requirements for 
+permitted uses and conditions 
+related to special exceptions. 
+ 
+ Permitted by right 
+ Special Exception 
+ Accessory Use 
+   on all properties 
+Marine supply store including indoor outboard motor sale 
+X 
+ 
+ 
+Mobile home parks 
+ 
+X 
+ 
+Mobile homes existing and in use as of January 16, 1996  
+X 
+ 
+ 
+Multi-family dwellings 
+X 
+ 
+ 
+Neighborhood retail businesses 
+X 
+ 
+ 
+Offices 
+X 
+ 
+ 
+Outdoor recreation, miniature golf, but not golf courses 
+ 
+X 
+ 
+Personal service establishments 
+X 
+ 
+ 
+Personal wireless facilities, collocated on existing towers 
+X 
+ 
+ 
+Printing and publishing 
+ 
+X 
+ 
+Private clubs 
+ 
+B 
+ 
+Private garages, swimming pools, game courts, and other customary 
+residential outbuildings and structures 
+ 
+ 
+X 
+Private schools 
+ 
+X 
+ 
+Public uses, buildings, and utilities 
+X 
+ 
+ 
+Recreational uses indoor, commercial  
+X 
+ 
+ 
+Restaurants without drive through facilities  
+X 
+ 
+ 
+Retreats 
+ 
+X 
+ 
+Rooming, boarding, and lodging houses 
+X 
+ 
+ 
+Rural inns 
+ 
+X 
+ 
+Satellite dish, private, with an antenna exceeding 3 feet in diameter 
+ 
+ 
+X 
+Satellite dish, private, with an antenna of 3 feet or less in diameter 
+ 
+ 
+X 
+School bus parking lot 
+ 
+X 
+ 
+School buses, parked, limited to two 
+ 
+ 
+X 
+Self-storage 
+X 
+ 
+ 
+Septic tank maintenance and excavation 
+ 
+X 
+ 
+Short-term vacation rentals (STVR) 
+ 
+ 
+X 
+Solar energy systems, small 
+ 
+ 
+X 
+Storage of boats, campers, boat trailers, and camper trailers 
+ 
+ 
+X 
+Temporary MET Tower of any height 
+ 
+ 
+X 
+Town houses 
+X 
+ 
+ 
+Two-family dwellings 
+X 
+ 
+ 
+Uses and structures which are customarily accessory and clearly incidental 
+and subordinate to the permitted use 
+ 
+ 
+X 
+Wind energy systems, small 
+ 
+X
+
+<!-- page 53 -->
+ARTICLE II.  DISTRICTS 
+SECTION 7. VILLAGE DISTRICT (V) 
+ 
+Land Use Ordinance for Kent County, Maryland     50
+ 
+7.3 
+DENSITY, AREA, HEIGHT, WIDTH, AND YARD REQUIREMENTS 
+FOR ALL NEW CONSTRUCTION AND ADDITIONS EXCEPT 
+FOR TWO-FAMILY, TOWNHOUSE, AND MULTI-FAMILY USES 
+STANDARDS FOR THE SUBDIVISION OF LOTS 
+Note – These standards have been divided into two sub-sections (see next sub-section) 
+Gross density (dwelling units/acre) 
+4 
+Minimum lot size 
+9,500 square feet 
+Minimum lot frontage  
+50 feet 
+STANDARDS FOR BUILDING AND STRUCTURE HEIGHT, WIDTH, AND PLACEMENT 
+Minimum yard 
+ 
+   - Front 
+20 feet 
+   - Side 
+8 feet 
+   - Rear 
+10 feet 
+   - Accessory residential structures in rear yard 
+ 
+         Side 
+5  feet 
+         Rear 
+5 feet 
+Maximum structure height1 
+ 
+   - Commercial 
+38 feet 
+   - Primary Residential 
+38 feet 
+- Accessory Residential Structure (a special exception 
+may be granted to exceed max) 
+Height of existing primary 
+residential structure 
+   - Fence2 
+ 
+       - Security 
+8 feet 
+       - Agricultural 
+5 feet 
+       - Ornamental 
+ 
+             Side and Rear 
+8 feet 
+             Front 
+4 feet 
+ 
+1 
+Height of structures may be further restricted by of the Kent County Airport Safety 
+Requirements as defined in this Ordinance.  Except in an area defined as the Kent 
+County Airport Safety Area, the height limitations do not apply to: belfries; ornamental 
+towers and spires; church spires; public monuments; commercial radio, personal 
+wireless facility, and television towers less than 200 feet in height; stage towers or 
+scenery lofts; tanks; conveyors; silos and corn dryers; elevator bulkheads; fire towers; 
+water towers; stand pipes; and flag poles. 
+ 
+2 
+Fences do not need to meet yard requirements.
+
+<!-- page 54 -->
+ARTICLE II.  DISTRICTS 
+SECTION 7. VILLAGE DISTRICT (V) 
+ 
+Land Use Ordinance for Kent County, Maryland     51
+ 
+ 
+Figure 13: Regulatory diagram of a lot with single-family housing in the Village District.
+
+<!-- page 55 -->
+ARTICLE II.  DISTRICTS 
+SECTION 7. VILLAGE DISTRICT (V) 
+ 
+Land Use Ordinance for Kent County, Maryland     52
+7.4 
+DENSITY, AREA, HEIGHT, WIDTH, AND YARD REQUIREMENTS 
+FOR ALL NEW CONSTRUCTION AND FOR ANY ADDITIONS 
+TO TWO-FAMILY, TOWNHOUSE, AND MULTI-FAMILY USES 
+STANDARDS FOR THE SUBDIVISION OF LOTS 
+Note – This is a new sub-section proposed to be added to the Land Use Ordinance, which 
+would increase the permitted density in this zoning district from 4 units per acre to 8 units 
+Gross density (dwelling units/acre) 
+8 dwelling units per acre 
+Minimum lot frontage  
+50 feet 
+STANDARDS FOR BUILDING AND STRUCTURE HEIGHT, WIDTH, AND PLACEMENT 
+Minimum yard 
+ 
+   - Front 
+20 feet 
+   - Side 
+12 feet; none in between 
+connected units 
+   - Rear 
+20 feet 
+   - Accessory residential structures in rear yard 
+ 
+         Side 
+5 feet 
+         Rear 
+5 feet 
+Maximum Primary structure height1 
+ 
+   - Two-Family 
+38 feet 
+   - Townhouse 
+   - Multi-Family 
+38 feet 
+42 feet 
+- Accessory Residential Structure (a special exception 
+may be granted to exceed max) 
+Height of existing primary 
+residential structure 
+   - Fence2 
+ 
+       - Security 
+8 feet 
+       - Agricultural 
+5 feet 
+       - Ornamental 
+ 
+             Side and Rear 
+8 feet 
+             Front 
+4 feet 
+Parking Location 
+Rear yard only 
+ 
+1 
+Height of structures may be further restricted by of the Kent County Airport Safety 
+Requirements as defined in this Ordinance.  Except in an area defined as the Kent 
+County Airport Safety Area, the height limitations do not apply to: belfries; ornamental 
+towers and spires; church spires; public monuments; commercial radio, personal 
+wireless facility, and television towers less than 200 feet in height; stage towers or 
+scenery lofts; tanks; conveyors; silos and corn dryers; elevator bulkheads; fire towers; 
+water towers; stand pipes; and flag poles. 
+ 
+2 
+Fences do not need to meet yard requirements.
+
+<!-- page 56 -->
+ARTICLE II.  DISTRICTS 
+SECTION 7. VILLAGE DISTRICT (V) 
+ 
+Land Use Ordinance for Kent County, Maryland     53
+ 
+ 
+Figure 14: Regulatory diagram of a lot with multi-family housing in the Village District.
+
+<!-- page 57 -->
+ARTICLE II.  DISTRICTS 
+SECTION 8. INTENSE VILLAGE DISTRICT (IV) 
+ 
+Land Use Ordinance for Kent County, Maryland     54
+SECTION 8 
+INTENSE VILLAGE DISTRICT (IV) 
+8.1 
+STATEMENT OF INTENT 
+The purpose of this district is to provide for a high-quality and well-designed mix of commercial, 
+office, and residential areas with an emphasis on uses and intensities that make efficient use of 
+public facilities and limit sprawling development.  It is intended that residences, shops, and offices 
+are in close proximity to each other, as is found in the traditional village pattern, and that the 
+resulting mix of uses form lively, prosperous neighborhoods that serve as an attractive place to 
+live, work, shop, and play.  The district may act as a transition between town and the more rural 
+areas of the County.  Buildings in this district shall be oriented to the street and provision made 
+for pedestrian access so that the character of the area is interpreted as pedestrian.   
+ 
+This district is intended to be used sparingly and in areas where high-density residential projects 
+as well as more intense concentrations of commercial uses are desired. A new sub-section has 
+been added to allow up to 12 units per acre for two-family dwellings, townhouses, and multi-
+family dwelling uses. New designations are appropriate in growth areas or near boundaries of 
+municipalities as well as near the boundaries of existing developments in unincorporated areas.    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 15: Diagram illustrating the desired character of two-family housing development in the 
+Intense Village District. 
+ 
+Figure 16: Diagram illustrating the desired character of multi-family housing developments in the 
+Intense Village District.
+
+<!-- page 58 -->
+ARTICLE II.  DISTRICTS 
+SECTION 8. INTENSE VILLAGE DISTRICT (IV) 
+ 
+Land Use Ordinance for Kent County, Maryland     55
+8.2 
+PERMITTED USES AND STRUCTURES 
+A building or land shall be used only for the following. Detailed limitations and standards for 
+these uses are found in Article III. Administrative special exceptions are indicated by letter “A.” 
+“B” indicates exceptions that require only Board of Appeals review. All other exceptions require 
+Planning Commission and Board of Appeals reviews per Article IV. 
+ 
+Uses in Intense Village District (IV) 
+ 
+Article III lists requirements for 
+permitted uses and conditions related to 
+special exceptions. 
+ 
+Permitted by right 
+Special Exception 
+Accessory Use 
+on all properties 
+Accessory dwelling unit 
+ 
+ 
+X 
+Accessory employee housing 
+ 
+ 
+X 
+Accessory off-street parking of one commercial vehicle 
+ 
+ 
+X 
+Accessory structures in the front yards of through or corner lots 
+ 
+A 
+ 
+Accessory vehicle parking 
+ 
+ 
+X 
+Adaptive reuse of historic structures for uses not otherwise listed 
+ 
+X 
+ 
+Animal husbandry, special – backyard chickens 
+ 
+ 
+X 
+Appurtenant signs 
+ 
+ 
+X 
+Assisted living facilities with no more than four beds 
+ 
+ 
+X 
+Automobile repair 
+ 
+X 
+ 
+Automobile service stations 
+X 
+ 
+ 
+Car wash 
+ 
+X 
+ 
+Cemetery, including crematorium and mausoleum 
+ 
+ 
+X 
+Conference center 
+ 
+X 
+ 
+Convalescent, nursing, or group homes for the aged with five or more 
+beds 
+ 
+X 
+ 
+Cottage industries, tradesmen and artisan shops 
+ 
+A 
+ 
+Country inns 
+X 
+ 
+ 
+Day care groups 
+ 
+A 
+ 
+Day care homes 
+ 
+ 
+X 
+Detached single family dwellings 
+X 
+ 
+ 
+Financial institutions 
+X 
+ 
+ 
+Fire and rescue stations 
+X 
+ 
+ 
+Funeral homes 
+X 
+ 
+ 
+Home and business services such as grounds care, cleaning, 
+exterminators, landscaping, and other repair and maintenance services 
+X 
+ 
+ 
+Home occupations in main or accessory buildings 
+ 
+ 
+X 
+Hospitals, rehabilitation facilities, and similar institutions for human care 
+ 
+X
+
+<!-- page 59 -->
+ARTICLE II.  DISTRICTS 
+SECTION 8. INTENSE VILLAGE DISTRICT (IV) 
+ 
+Land Use Ordinance for Kent County, Maryland     56
+Uses in Intense Village District (IV) 
+ 
+Article III lists requirements for 
+permitted uses and conditions related to 
+special exceptions. 
+ 
+Permitted by right 
+Special Exception 
+Accessory Use 
+on all properties 
+Hotels and motels 
+X 
+ 
+ 
+Houses of worship 
+X 
+ 
+ 
+Indoor movie theaters, playhouses, and dinner theaters 
+X 
+ 
+ 
+Multi-family dwellings 
+X 
+ 
+ 
+Neighborhood retail businesses 
+X 
+ 
+ 
+Offices 
+X 
+ 
+ 
+Outdoor entertainment 
+ 
+X 
+ 
+Outdoor recreation, miniature golf, but not golf courses 
+ 
+X 
+ 
+Personal service establishments 
+X 
+ 
+ 
+Personal wireless facilities, collocated on existing towers 
+X 
+ 
+ 
+Printing and publishing 
+ 
+X 
+ 
+Private clubs 
+ 
+X 
+ 
+Private garages, swimming pools, game courts, and other customary 
+residential outbuildings and structures 
+ 
+ 
+X 
+Private schools 
+ 
+X 
+ 
+Public uses, buildings, and utilities 
+X 
+ 
+ 
+Pubs, taverns, and bars, including open air facilities  
+ 
+X 
+ 
+Recreational uses, indoor, commercial 
+X 
+ 
+ 
+Resorts 
+ 
+X 
+ 
+Restaurants without drive through facilities  
+X 
+ 
+ 
+Rooming, boarding, and lodging houses 
+X 
+ 
+ 
+Satellite dish, private, with an antenna of 3 feet or less in diameter 
+ 
+ 
+X 
+Satellite dish, private, with an antenna exceeding 3 feet in diameter 
+ 
+ 
+X 
+School bus parking lot 
+ 
+X 
+ 
+School buses, parked, limited to two 
+ 
+ 
+X 
+Self storage 
+X 
+ 
+ 
+Short-term vacation rentals (STVR) 
+ 
+ 
+X 
+Solar energy systems, small 
+ 
+ 
+X 
+Storage of boats, campers, boat trailers, and camper trailers 
+ 
+ 
+X 
+Temporary MET Tower of any height 
+ 
+ 
+X 
+Town houses 
+X 
+ 
+ 
+Two-family dwellings 
+X 
+ 
+ 
+Uses and structures which are customarily accessory and clearly 
+incidental and subordinate to the permitted use 
+ 
+ 
+X 
+Wind energy systems, small 
+ 
+X
+
+<!-- page 60 -->
+ARTICLE II.  DISTRICTS 
+SECTION 8. INTENSE VILLAGE DISTRICT (IV) 
+ 
+Land Use Ordinance for Kent County, Maryland     57
+8.3 
+DENSITY, AREA, HEIGHT, WIDTH, AND YARD REQUIREMENTS 
+FOR ALL NEW CONSTRUCTION AND ANY ADDITIONS EXCEPT 
+FOR TWO-FAMILY, TOWNHOUSE, AND MULTI-FAMILY USES 
+STANDARDS FOR THE SUBDIVISION OF LOTS 
+Note – These standards have been divided into two sub-sections (see next sub-section) 
+Gross density (dwelling units/acre) 
+8 dwelling units per acre 
+Minimum lot size 
+5,000 square feet 
+Minimum lot frontage  
+40 feet – or set during formal site plan review 
+STANDARDS FOR BUILDING AND STRUCTURE HEIGHT, WIDTH, AND PLACEMENT 
+Minimum yard 
+ 
+   - Front 
+20 feet – or set during formal site plan review 
+   - Side 
+10 feet – or set during formal site plan review 
+   - Rear 
+10 feet – or set during formal site plan review 
+   - Accessory residential structures in rear 
+yard 
+ 
+         Side 
+10  feet 
+         Rear 
+10  feet 
+Maximum structure height1 
+ 
+   - Commercial 
+40 feet 
+   - Primary Residential 
+40 feet 
+- Accessory Residential Structure (a 
+special exception may be granted to 
+exceed max) 
+Height of existing primary residential structure 
+   - Fence2 
+ 
+       - Security 
+8 feet 
+       - Agricultural 
+5 feet 
+       - Ornamental 
+ 
+             Side and Rear 
+8 feet 
+             Front 
+4 feet 
+ 
+1 
+Height of structures may be further restricted by of the Kent County Airport Safety 
+Requirements as defined in this Ordinance.  Except in an area defined as the Kent 
+County Airport Safety Area, the height limitations do not apply to: belfries; 
+ornamental towers and spires; church spires; public monuments; commercial radio, 
+personal wireless facility, and television towers less than 200 feet in height; stage 
+towers or scenery lofts; tanks; conveyors; silos and corn dryers; elevator bulkheads; 
+fire towers; water towers; stand pipes; and flag poles. 
+ 
+2 
+Fences do not need to meet yard requirements.
+
+<!-- page 61 -->
+ARTICLE II.  DISTRICTS 
+SECTION 8. INTENSE VILLAGE DISTRICT (IV) 
+ 
+Land Use Ordinance for Kent County, Maryland     58
+ 
+ 
+ 
+Figure 17: Regulatory diagram of a single-family housing lot in the Intense Village District.
+
+<!-- page 62 -->
+ARTICLE II.  DISTRICTS 
+SECTION 8. INTENSE VILLAGE DISTRICT (IV) 
+ 
+Land Use Ordinance for Kent County, Maryland     59
+8.4 
+DENSITY, AREA, HEIGHT, WIDTH, AND YARD REQUIREMENTS 
+FOR ALL NEW CONSTRUCTION AND ADDITIONS TO TWO-
+FAMILY, TOWNHOUSE, AND MULTI-FAMILY USES 
+STANDARDS FOR THE SUBDIVISION OF LOTS 
+Note – This is a new sub-section proposed to be added to the Land Use Ordinance, which 
+would increase the permitted density in this zoning district from 8 units per acre to 12 units 
+Gross density (dwelling units/acre) 
+12 dwelling units per acre 
+Minimum lot size 
+Duplex    4,000 square feet  
+Townhouse         2,000 square feet 
+Minimum lot frontage  
+30 feet – or set during formal site plan review 
+STANDARDS FOR BUILDING AND STRUCTURE HEIGHT, WIDTH, AND PLACEMENT 
+Minimum yard 
+ 
+   - Front 
+20 feet – or set during formal site plan review 
+   - Side 
+12 feet – or set during formal site plan review 
+   - Rear 
+20 feet – or set during formal site plan review 
+   - Accessory residential structures in rear 
+yard 
+ 
+         Side 
+10  feet 
+         Rear 
+10  feet 
+Maximum structure height1 
+ 
+   - Two-Family 
+40 feet 
+   - Townhouse 
+   - Multi-Family 
+40 feet 
+50 feet 
+- Accessory Structure (a special exception 
+may be granted to exceed max) 
+Height of existing primary residential structure 
+   - Fence2 
+ 
+       - Security 
+8 feet 
+       - Agricultural 
+5 feet 
+       - Ornamental 
+ 
+             Side and Rear 
+8 feet 
+             Front 
+4 feet 
+Parking Location 
+Rear yard only 
+ 
+1 
+Height of structures may be further restricted by of the Kent County Airport Safety 
+Requirements as defined in this Ordinance.  Except in an area defined as the Kent 
+County Airport Safety Area, the height limitations do not apply to: belfries; ornamental 
+towers and spires; church spires; public monuments; commercial radio, personal 
+wireless facility, and television towers less than 200 feet in height; stage towers or 
+scenery lofts; tanks; conveyors; silos and corn dryers; elevator bulkheads; fire towers; 
+water towers; stand pipes; and flag poles. 
+ 
+2 
+Fences do not need to meet yard requirements.
+
+<!-- page 63 -->
+ARTICLE II.  DISTRICTS 
+SECTION 8. INTENSE VILLAGE DISTRICT (IV) 
+ 
+Land Use Ordinance for Kent County, Maryland     60
+ 
+ 
+Figure 18: Regulatory diagram of a multi-family housing lot in the Intense Village District.
+
+<!-- page 64 -->
+ARTICLE II.  DISTRICTS 
+SECTION 9. COMMERCIAL DISTRICT 
+ 
+Land Use Ordinance for Kent County, Maryland     61
+SECTION 9 
+COMMERCIAL DISTRICT  
+9.1 
+STATEMENT OF INTENT 
+The purpose of this district is to provide appropriate locations for a broad range of commercial 
+activities such as retail, wholesale, and contracting activities, which are primarily oriented to 
+highway locations and which may include services and destination retail.  Consequently, the 
+district is located along major arterial highways or at the intersections of State and/or County 
+highways. It is further intended that this District shall be for the purpose of limiting sprawl by 
+providing sites with adequate frontage and depth to permit controlled access to public streets.  
+Because these uses are subject to public view, which is of concern to the whole community, they 
+should provide an appropriate appearance, controlled traffic movement, ample landscaping, and 
+protect adjacent properties from the traffic and visual impacts associated with the commercial 
+activity.  Whenever possible, frontage of the district shall not exceed depth.  
+ 
+This district combines the former Commercial district and Crossroads Commercial (CC). The 
+permitted uses have been combined. Uses allowed only within the US 301 Corridor are specified. 
+ 
+ 
+ 
+Figure 19: Diagram illustrating the desired character of the Commercial District.
+
+<!-- page 65 -->
+ARTICLE II.  DISTRICTS 
+SECTION 9. COMMERCIAL DISTRICT 
+ 
+Land Use Ordinance for Kent County, Maryland     62
+9.2 
+PERMITTED USES AND STRUCTURES 
+A building or land shall be used only for the following, subject to site plan review for proposed 
+new uses by the Planning Commission or where applicable the Planning Director. Detailed 
+limitations and standards for these uses may be found in Article III. Administrative special 
+exceptions are indicated by letter “A.” “B” indicates exceptions that require only Board of 
+Appeals review. All other exceptions require Planning Commission and Board of Appeals reviews 
+per Article IV. 
+Uses in Commercial District 
+ 
+Article III lists requirements for permitted uses and 
+conditions related to special exceptions. Uses from the 
+Crossroads Commercial District only are marked as CC.  
+Uses from the Commercial District only are marked as C. 
+X indicates uses from both districts before combining. 
+ 
+ Permitted by right 
+ Special Exception 
+ Accessory Use 
+  on all properties 
+Accessory employee housing 
+ 
+ 
+X 
+Accessory truck parking 
+ 
+ 
+X 
+Accessory uses and structures normally associated with permitted uses 
+and not otherwise listed 
+ 
+ 
+C 
+Agriculture 
+X 
+ 
+ 
+Appurtenant signs 
+ 
+ 
+X 
+Automobile repair 
+CC 
+ 
+ 
+Automobile sales, service, and rental 
+X 
+ 
+ 
+Automobile service stations 
+CC 
+ 
+ 
+Boat building and boat repair 
+ 
+X 
+ 
+Building materials sales 
+C 
+ 
+ 
+Car wash provided the wastewater is recycled 
+CC 
+ 
+ 
+Circus or carnival, midways and amusement parks, maze fields and other 
+temporary recreational uses, for a specified period 
+X 
+ 
+ 
+Class D Alcohol Retail Business, as defined by the State of Maryland 
+CC 
+ 
+ 
+Cottage industries, tradesmen, and artisan shops 
+ 
+A 
+ 
+Country inns 
+CC 
+ 
+ 
+Data processing centers 
+C 
+ 
+ 
+Distribution centers and warehousing 
+C 
+ 
+ 
+Financial institutions 
+X 
+ 
+ 
+Fire and rescue stations 
+CC 
+ 
+ 
+Home and business services such as grounds care, cleaning, 
+exterminators, landscaping, and other repair and maintenance services 
+CC 
+ 
+ 
+Hotels and motels 
+X 
+ 
+ 
+Machinery and equipment sales, service, and rental 
+C 
+ 
+ 
+Manufacture, processing, fabrication, and assembly of products 
+C 
+ 
+ 
+Manufacture, processing and assembling of food products 
+ 
+X
+
+<!-- page 66 -->
+ARTICLE II.  DISTRICTS 
+SECTION 9. COMMERCIAL DISTRICT 
+ 
+Land Use Ordinance for Kent County, Maryland     63
+Uses in Commercial District 
+ 
+Article III lists requirements for permitted uses and 
+conditions related to special exceptions. Uses from the 
+Crossroads Commercial District only are marked as CC.  
+Uses from the Commercial District only are marked as C. 
+X indicates uses from both districts before combining. 
+ 
+ Permitted by right 
+ Special Exception 
+ Accessory Use 
+  on all properties 
+Microbrewery, as defined by the State of Maryland 
+X 
+ 
+ 
+Mini storage facilities 
+C 
+ 
+ 
+Modular building sales 
+CC 
+ 
+ 
+Offices – administrative, business, sales, and professional 
+X 
+ 
+ 
+Personal wireless facility towers 
+ 
+X 
+ 
+Personal wireless facilities, collocated on existing towers 
+X 
+ 
+ 
+Public uses, buildings, and utilities 
+X 
+ 
+ 
+Radio and television tower, commercial 
+ 
+X 
+ 
+Recreational facilities, privately or commercially owned 
+ 
+X 
+ 
+Restaurants without drive through facilities  
+X 
+ 
+ 
+Retail businesses with less than 60,000 square feet of gross floor area 
+C 
+ 
+ 
+Retail businesses with more than 60,000 square feet of gross floor area 
+ 
+X 
+ 
+Retail businesses located in the Route 301 Corridor 
+X 
+ 
+ 
+Retail nurseries and greenhouses 
+CC 
+ 
+ 
+Roadside stands 
+CC 
+ 
+ 
+School bus parking lot 
+ 
+X 
+ 
+School buses, parked, limited to two 
+ 
+ 
+X 
+Shopping Centers 
+ 
+X 
+ 
+Single family dwellings 
+ 
+A 
+ 
+Storage of office supplies or merchandise re to a permitted use 
+ 
+ 
+X 
+Solar energy systems, small 
+ 
+ 
+X 
+Solar energy systems, utility scale 
+ 
+X 
+ 
+Temporary MET Tower of any height 
+ 
+ 
+X 
+Truck parking lot 
+ 
+X 
+ 
+Truck stops 
+ 
+X 
+ 
+Truck terminals 
+ 
+X 
+ 
+Veterinary hospitals and offices 
+CC 
+ 
+ 
+Wind energy systems, small 
+ 
+X 
+ 
+Wind energy systems, small, accessory 
+ 
+ 
+X
+
+<!-- page 67 -->
+ARTICLE II.  DISTRICTS 
+SECTION 9. COMMERCIAL DISTRICT 
+ 
+Land Use Ordinance for Kent County, Maryland     64
+9.3 
+DENSITY, AREA, HEIGHT, WIDTH, AND YARD REQUIREMENTS 
+STANDARDS FOR THE SUBDIVISION OF LOTS 
+Minimum lot size 
+NA 
+Minimum frontage 
+ 
+   - Public road 
+100 feet 
+STANDARDS FOR BUILDING AND STRUCTURE HEIGHT, WIDTH, AND PLACEMENT 
+Minimum yard 
+ 
+   - Front 
+50 feet 
+   - Side & Rear yard 
+50 feet with buffering from adjoining AZD, 
+RCD, RC, RR, CAR,  V, IV  
+ 
+30 feet from C, CCA, M, EC,  ECCA, which may 
+be reduced to 0 if emergency and maintenance 
+vehicle access are acceptably addressed and if 
+the adjoining property is a compatible use 
+   - Waterfront 
+100 feet 
+Height1 
+ 
+    - Industrial structures 
+45 feet 
+    - Industrial structures in 301 Corridor 
+60 feet 
+   - Commercial structure 
+45 feet  
+   - Residential structure 
+38 feet 
+   - Fence2    
+ 
+       - Security  
+8 feet 
+       - Ornamental  
+ 
+             Front and side yard 
+4 feet 
+             Rear yard 
+8 feet 
+ 
+1 
+Except in an area defined as the Kent County Airport Safety Area, the height limitations 
+do not apply to: belfries; ornamental towers and spires; church spires; public 
+monuments; commercial radio, personal wireless facility, and television towers less than 
+200 feet in height; stage towers or scenery lofts; tanks; conveyors; silos and corn dryers; 
+elevator bulkheads; fire towers; water towers; stand pipes; and flag poles. 
+ 
+2 
+Fences do not need to meet yard requirements.
+
+<!-- page 68 -->
+ARTICLE II.  DISTRICTS 
+SECTION 9. COMMERCIAL DISTRICT 
+ 
+Land Use Ordinance for Kent County, Maryland     65
+ 
+ 
+Figure 20: Regulatory diagram of a lot in the Commercial District.
+
+<!-- page 69 -->
+ARTICLE II.  DISTRICTS 
+SECTION 10. COMMERCIAL CRITICAL AREA (CCA) 
+ 
+Land Use Ordinance for Kent County, Maryland     66
+SECTION 10 COMMERCIAL CRITICAL AREA (CCA) 
+10.1 
+STATEMENT OF INTENT 
+The purpose of this district is to accommodate commercial and service activities that are not 
+normally located in central business concentrations. These uses are primarily oriented to highway 
+locations and include services and destination retail. Consequently, the district is located along 
+major arterial highways. It is further intended that this District shall be for the purpose of limiting 
+sprawling development by providing sites with adequate frontage and depth to permit controlled 
+access to public streets. Because these uses are subject to public view, which is of concern to the 
+whole community, they should provide an appropriate appearance, controlled traffic movement, 
+ample landscaping, and protect adjacent properties from the traffic and visual impacts associated 
+with the commercial activity. Whenever possible, frontage of the district shall not exceed depth.  
+The Commercial Critical Area (CCA) district is complementary to the Commercial (C) district. 
+Regulations are intended to mirror the C district and provide a Critical Area version of C district. 
+ 
+Figure 21: Diagram illustrating the desired character of the Commercial Critical Area District.
+
+<!-- page 70 -->
+ARTICLE II.  DISTRICTS 
+SECTION 10. COMMERCIAL CRITICAL AREA (CCA) 
+ 
+Land Use Ordinance for Kent County, Maryland     67
+10.2 
+PERMITTED USES AND STRUCTURES  
+A building or land shall be used only for the following, subject to site plan review by the Planning 
+Commission, or where applicable the Planning Director. Detailed limitations and standards for 
+these uses are found in Article III. Administrative special exceptions are indicated by letter “A.” 
+All other exceptions require Planning Commission and Board of Appeals reviews per Article IV. 
+Uses in Commercial Critical Area (CCA) 
+ 
+Article III lists requirements for 
+permitted uses and conditions 
+related to special exceptions. 
+ Permitted by right 
+ Special Exception 
+ Accessory Use  
+  on all properties 
+Accessory employee housing 
+ 
+ 
+X 
+Accessory truck parking 
+ 
+ 
+X 
+Accessory uses and structures normally associated with permitted uses  
+ 
+ 
+X 
+Agriculture 
+X 
+ 
+ 
+Appurtenant signs 
+ 
+ 
+X 
+Automobile sales, service, and rental 
+X 
+ 
+ 
+Boat building and boat repair 
+ 
+X 
+ 
+Building materials sales 
+X 
+ 
+ 
+Circus or carnival, midways and amusement parks, maze fields and other 
+temporary recreational uses, for a specified period 
+X 
+ 
+ 
+Cottage industries, tradesmen and artisan shops 
+ 
+A 
+ 
+Financial institutions 
+X 
+ 
+ 
+Hotels and motels 
+X 
+ 
+ 
+Machinery and equipment sales, service, and rental 
+X 
+ 
+ 
+Mini storage facilities 
+X 
+ 
+ 
+Offices – administrative, business, sales, and professional 
+X 
+ 
+ 
+Personal wireless facility towers 
+ 
+X 
+ 
+Personal wireless facilities, collocated on existing towers 
+X 
+ 
+ 
+Public uses, buildings, and utilities 
+X 
+ 
+ 
+Recreational facilities, privately or commercially owned 
+ 
+X 
+ 
+Restaurants without drive through facilities  
+X 
+ 
+ 
+Retail businesses located in the Route 301 Corridor 
+X 
+ 
+ 
+Single family dwellings 
+ 
+A 
+ 
+Solar energy systems, small 
+ 
+ 
+X 
+Solar energy systems, utility scale 
+ 
+X 
+ 
+Temporary MET Tower of any height 
+ 
+ 
+X 
+Truck stops 
+ 
+X 
+ 
+Wind energy systems, small 
+ 
+X 
+ 
+Wind energy systems, small, accessory 
+ 
+ 
+X
+
+<!-- page 71 -->
+ARTICLE II.  DISTRICTS 
+SECTION 10. COMMERCIAL CRITICAL AREA (CCA) 
+ 
+Land Use Ordinance for Kent County, Maryland     68
+10.3 
+DENSITY, AREA, HEIGHT, WIDTH, AND YARD REQUIREMENTS 
+STANDARDS FOR THE SUBDIVISION OF LOTS 
+Minimum lot size 
+NA 
+Minimum frontage 
+ 
+- Public road 
+100 feet 
+STANDARDS FOR BUILDING AND STRUCTURE HEIGHT, WIDTH, AND PLACEMENT 
+Minimum yard 
+ 
+- Front 
+50 feet 
+- Side & Rear yard 
+50 feet with buffering from adjoining AZD, 
+RCD, RC, CAR, CR, V, IV 
+ 
+30 feet from C, CCA, M, EC, ECCA, which may 
+be reduced to 0 if emergency and maintenance 
+vehicle access are acceptably 
+addressed and if the adjoining property is a 
+compatible use 
+- Waterfront 
+Minimum 100-foot buffer or modified buffer1 
+Height2 
+ 
+- Commercial structure 
+45 feet 
+- Residential structure 
+38 feet 
+- Fence3 
+ 
+- Security 
+8 feet 
+- Ornamental 
+ 
+Front and Side 
+4 feet 
+Rear 
+8 feet 
+ 
+1 
+Modifications for structures existing prior to April 12, 1988, may be permitted per 
+regulations set forth in Article VI.  
+ 
+2 
+Except in an area defined as the Kent County Airport Safety Area, the height limitations 
+do not apply to: belfries; ornamental towers and spires; church spires; public 
+monuments; commercial radio, personal wireless facility, and television towers less than 
+200 feet in height; stage towers or scenery lofts; tanks; conveyors; silos and corn dryers; 
+elevator bulkheads; fire towers; water towers; standpipes; and flag poles. 
+ 
+3 
+Fences do not need to meet yard requirements.
+
+<!-- page 72 -->
+ARTICLE II.  DISTRICTS 
+SECTION 10. COMMERCIAL CRITICAL AREA (CCA) 
+ 
+Land Use Ordinance for Kent County, Maryland     69
+ 
+ 
+Figure 22: Regulatory diagram of a lot in the Commercial Critical Area District.
+
+<!-- page 73 -->
+ARTICLE II.  DISTRICTS 
+SECTION 11. MARINE DISTRICT (M) 
+ 
+Land Use Ordinance for Kent County, Maryland     70
+SECTION 11 MARINE DISTRICT (M) 
+11.1 
+STATEMENT OF INTENT 
+The purpose of this district is to provide land for full-service marinas, including out-of-water boat 
+storage, repair, and other services normally associated with marinas. Marine industrial uses, 
+including boat building, are permitted in appropriate locations subject to applicable sanitation 
+and pollution laws and ordinances. Retrofitting of stormwater management is encouraged and 
+standards are provided to improve the quality of runoff that enters the Chesapeake Bay and its 
+tributaries. It is important to note that not all existing marinas would need to be zoned Marine. 
+The Marine District is intended to: 1) improve the quality of runoff from developed areas that 
+enters the Chesapeake Bay or its tributary streams; 2) accommodate additional mixed-use 
+development provided that water quality is not impaired; 3) minimize the expansion of intensely 
+developed areas into portions of the Critical Area designated as habitat protection areas and 
+resource conservation areas; 4) conserve and enhance fish, wildlife, and plant habitats to the 
+extent possible within intensely developed areas; and, 5) encourage the use of retrofitting 
+measures to address existing stormwater management problems. 
+ 
+ 
+Figure 23: Diagram illustrating the desired character of the Marine District.
+
+<!-- page 74 -->
+ARTICLE II.  DISTRICTS 
+SECTION 11. MARINE DISTRICT (M) 
+ 
+Land Use Ordinance for Kent County, Maryland     71
+11.2 
+PERMITTED USES AND STRUCTURES 
+A building or land shall be used only for the following, subject to site plan review by the Planning 
+Commission or where applicable the Planning Director. Detailed limitations and standards for 
+these uses are found in Article III. Administrative special exceptions are indicated by letter “A.” 
+“B” indicates exceptions that require only Board of Appeals review. All other exceptions require 
+Planning Commission and Board of Appeals reviews per Article IV. 
+Uses in Marine District (M) 
+ 
+Article III lists requirements for 
+permitted uses and conditions 
+related to special exceptions. 
+ Permitted by right 
+ Special Exception 
+ Accessory Use  
+   on all properties 
+Accessory employee housing 
+ 
+ 
+X 
+Adaptive reuse of historic structures for uses not otherwise listed 
+ 
+A 
+ 
+Airports, landing fields, helistops, or heliports 
+ 
+X 
+ 
+Appurtenant signs 
+ 
+ 
+X 
+Bath houses, pump out structures, and other accessory structures 
+normally associated with permitted uses 
+ 
+ 
+X 
+Boat building and boat repair, located at least 100 feet from any 
+residential district 
+X 
+ 
+ 
+Boat docks, piers and wharves 
+X 
+ 
+ 
+Boat rental, sales, supplies, instruction, and other services customarily 
+associated with a full-service marina 
+X 
+ 
+ 
+Boat sales, boat and outboard motor repairs and boat storage 
+X 
+ 
+ 
+Boat storage, out of water 
+X 
+ 
+ 
+Country inns 
+ 
+X 
+ 
+Dormitories for employees 
+ 
+B 
+ 
+Dredge spoil sites 
+ 
+X 
+ 
+Erosion and flood control structures 
+X 
+ 
+ 
+Existing conference centers, resorts, retreats, hotels, and motels  
+X 
+ 
+ 
+Fuel storage and sale for marine purposes only 
+ 
+ 
+X 
+Marinas 
+X 
+ 
+ 
+Multi-level boat storage 
+ 
+X 
+ 
+Off-street parking and loading, including the parking of commercial 
+vehicles related to the operation of an on-site business 
+ 
+ 
+X 
+Private clubs 
+ 
+B 
+ 
+Private destination/residence clubs 
+X 
+ 
+ 
+Public landings 
+X 
+ 
+ 
+Public utility lines and accessory structures 
+X 
+ 
+ 
+Pubs, taverns, and bars, including open air facilities  
+ 
+X 
+ 
+Restaurants without drive through facilities  
+X
+
+<!-- page 75 -->
+ARTICLE II.  DISTRICTS 
+SECTION 11. MARINE DISTRICT (M) 
+ 
+Land Use Ordinance for Kent County, Maryland     72
+Uses in Marine District (M) 
+ 
+Article III lists requirements for 
+permitted uses and conditions 
+related to special exceptions. 
+ Permitted by right 
+ Special Exception 
+ Accessory Use  
+   on all properties 
+Satellite dish with an antenna exceeding 3 feet in diameter 
+ 
+ 
+X 
+Satellite dish, private, with an antenna of 3 feet or less in diameter 
+ 
+ 
+X 
+Seafood processing 
+ 
+X 
+ 
+Solar energy systems, small 
+ 
+ 
+X 
+Stores or shops for the conduct of retail sales  
+ 
+ 
+X 
+Temporary MET Tower of any height 
+ 
+ 
+X 
+Wind energy systems, small, accessory 
+ 
+ 
+X
+
+<!-- page 76 -->
+ARTICLE II.  DISTRICTS 
+SECTION 11. MARINE DISTRICT (M) 
+ 
+Land Use Ordinance for Kent County, Maryland     73
+11.3 
+DENSITY, HEIGHT, WIDTH, BULK AND FENCE REQUIREMENTS 
+STANDARDS FOR THE SUBDIVISION OF LOTS 
+Gross density (lots/acre) 
+2 
+Minimum lot size 
+½ acre 
+Minimum frontage 
+ 
+   - Road 
+100 feet 
+   - Waterfront 
+100 feet 
+STANDARDS FOR BUILDING AND STRUCTURE HEIGHT, WIDTH, AND PLACEMENT 
+Minimum yard 
+ 
+   - Front 
+30 feet 
+   - Side 
+ 
+       - Adjacent to CC, CCA, M 
+8 feet 
+       - Adjacent to other districts 
+25 feet 
+   - Rear 
+ 
+       - Adjacent to CC, CCA, M 
+10 feet 
+       - Adjacent to other districts 
+25 feet 
+   - Waterfront 
+Minimum 100-foot buffer or modified buffer1 
+   - Shoreline cliff 
+1.5 x cliff height + 20 feet 
+   - Minimum pier 
+ 
+       - Side yard 
+30 feet 
+   - Accessory Buildings 
+ 
+       - Side 
+ 10 feet 
+       - Rear 
+ 10 feet 
+Height 
+ 
+   - Buildings 
+38 feet 
+   - Covered pier2 
+38 feet 
+   - Fence 
+ 
+   - Security 
+8 feet 
+   - Ornamental 
+ 
+       - Front & Side 
+4 feet 
+       - Rear 
+8 feet 
+ 
+1 
+Modifications for structures existing prior to April 12, 1988, may be permitted as per Article VI.  
+ 
+2 
+Height of covered piers shall be measured from Mean High Tide.
+
+<!-- page 77 -->
+ARTICLE II.  DISTRICTS 
+SECTION 11. MARINE DISTRICT (M) 
+ 
+Land Use Ordinance for Kent County, Maryland     74
+ 
+ 
+Figure 24: Regulatory diagram of a lot in the Marine District.
+
+<!-- page 78 -->
+ARTICLE II.  DISTRICTS 
+SECTION 12. EMPLOYMENT CENTER DISTRICT (EC) 
+ 
+Land Use Ordinance for Kent County, Maryland     75
+SECTION 12 EMPLOYMENT CENTER DISTRICT (EC) 
+12.1 
+STATEMENT OF INTENT 
+Employment Center districts are intended to include a mix of light industrial, office, and other 
+employment uses as well as commercial planned developments that are environmentally sound, 
+sustainable, and compatible with adjacent uses.  They are further defined as areas devoted to 
+industrial, office, and employment uses which present an attractive appearance, provide for 
+flexibility, and complement surrounding land use character by means of appropriate design of 
+buildings, service areas, and landscape treatments. 
+It is intended that Employment Center districts be located in areas having one or more major 
+highways, and/or access to rail, and complementary to surrounding development. Light industrial 
+uses may include those uses which manufacture, process, store, package, or distribute goods and 
+materials, and are, in general, dependent on raw materials that are refined elsewhere. 
+Employment Center districts in the Route 301 Corridor permit buildings with larger footprints 
+and increased buildings heights, in order to provide for the desired economic development in the 
+Route 301 growth area, as envisioned by the Kent County Comprehensive Plan.  
+ 
+ 
+ 
+Figure 25: Diagram illustrating the desired character of the Employment Center District.
+
+<!-- page 79 -->
+ARTICLE II.  DISTRICTS 
+SECTION 12. EMPLOYMENT CENTER DISTRICT (EC) 
+ 
+Land Use Ordinance for Kent County, Maryland     76
+12.2 
+PERMITTED USES AND STRUCTURES    
+For every commercial and industrial structure and use erected, reconstructed, altered, or 
+enlarged after the effective date of this Ordinance, a site plan shall be filed.  No building permit 
+shall be issued until said site plan is approved by the Planning Commission or where applicable 
+the Planning Director. Detailed limitations and standards for uses may be found in Article III. 
+Special exceptions require Planning Commission and Board of Appeals reviews per Article IV. 
+Uses in Employment Center District (EC) 
+ 
+Article III lists requirements for permitted uses and 
+conditions related to special exceptions. “X” indicates uses 
+that are permitted in both Employment Center district and 
+Industrial district. “EC” indicates uses that are permitted 
+only in the original Employment Center district. The “I” 
+indicates uses permitted in the original Industrial district. 
+ Permitted by right 
+ Special Exception 
+ Accessory Use  
+    on all properties 
+Accessory employee housing 
+ 
+ 
+X 
+Agriculture 
+X 
+ 
+ 
+Airports, landing fields, helistops, or heliports 
+X 
+ 
+ 
+Animal shelters 
+I 
+ 
+ 
+Blacksmith, welding and machine shops 
+X 
+ 
+ 
+Boat building and boat repair 
+X 
+ 
+ 
+Boat storage, out-of-water 
+ 
+ 
+X 
+Data processing centers 
+X 
+ 
+ 
+Day care groups 
+ 
+ 
+X 
+Distribution centers and warehousing 
+X 
+ 
+ 
+Excavation, landscaping, or other contractor’s yard 
+X 
+ 
+ 
+Manufacture of concrete and ceramics products, commercial sawmills, 
+sewage treatment plants, and lumberyards 
+EC 
+ 
+ 
+Manufacture, processing, and distribution of hot mix asphalt 
+I 
+ 
+ 
+Manufacture, processing, fabrication, and assembly of products 
+X 
+ 
+ 
+Offices 
+EC 
+ 
+X 
+Personal wireless facilities, collocated on existing towers 
+X 
+ 
+ 
+Personal wireless facility towers 
+ 
+X 
+ 
+Production of biofuels (formerly in the Industrial zoning district only) 
+ 
+X 
+ 
+Public uses, buildings, and utilities 
+X 
+ 
+ 
+Public utility buildings, structures, water treatment plants, and 
+transmission lines 
+X 
+ 
+ 
+Radio and television tower, commercial 
+ 
+X 
+ 
+Restaurants without drive through facilities 
+ 
+ 
+X 
+Restaurants with drive through facilities in the Route 301 Corridor 
+ 
+X 
+ 
+Retail businesses with less than 60,000 square feet of gross floor area 
+X 
+ 
+ 
+Retail businesses with more than 60,000 square feet of gross floor area 
+ 
+X
+
+<!-- page 80 -->
+ARTICLE II.  DISTRICTS 
+SECTION 12. EMPLOYMENT CENTER DISTRICT (EC) 
+ 
+Land Use Ordinance for Kent County, Maryland     77
+Uses in Employment Center District (EC) 
+ 
+Article III lists requirements for permitted uses and 
+conditions related to special exceptions. “X” indicates uses 
+that are permitted in both Employment Center district and 
+Industrial district. “EC” indicates uses that are permitted 
+only in the original Employment Center district. The “I” 
+indicates uses permitted in the original Industrial district. 
+ Permitted by right 
+ Special Exception 
+ Accessory Use  
+    on all properties 
+Retail businesses in the Route 301 Corridor 
+X 
+ 
+ 
+Retail sales of products produced on-site 
+ 
+ 
+X 
+Single family dwelling, one per existing property 
+X 
+ 
+ 
+Solar energy systems, small 
+ 
+ 
+X 
+Solar energy systems, utility scale 
+X 
+ 
+ 
+Storage and office trailers, temporary during construction 
+X 
+ 
+ 
+Temporary MET Tower of any height 
+ 
+ 
+X 
+Truck terminal 
+X 
+ 
+ 
+Uses and structures which are customarily accessory and clearly 
+incidental and subordinate to the permitted use 
+ 
+ 
+X 
+Vocational and trade schools 
+X 
+ 
+ 
+Wind energy systems, small 
+ 
+X 
+ 
+Wind energy systems, small, accessory 
+ 
+ 
+X
+
+<!-- page 81 -->
+ARTICLE II.  DISTRICTS 
+SECTION 12. EMPLOYMENT CENTER DISTRICT (EC) 
+ 
+Land Use Ordinance for Kent County, Maryland     78
+12.3 
+DENSITY, HEIGHT, WIDTH, BULK, AND FENCE REQUIREMENTS 
+STANDARDS FOR THE SUBDIVISION OF LOTS 
+Gross density (dwelling units/ acre) 
+1 dwelling units per 20 acres1 
+Maximum residential lot size  
+2 acres 
+Minimum lot frontage 
+75 feet 
+STANDARDS FOR BUILDING AND STRUCTURE HEIGHT, WIDTH, AND PLACEMENT 
+Minimum yard  
+ 
+   - Front 
+ 
+       - Existing Primary road 
+100 feet 
+       - Other roads 
+As approved during subdivision review 
+   - Side and Rear 
+ 
+       - Adjacent to ECCA 
+15 feet 
+       - Adjacent to C, CCA, M, AZD, RCD 
+40 feet  
+       - Adjacent to V, CR, CAR 
+100 feet  
+       - Adjacent to public road 
+100 feet2 
+Height  
+ 
+   - Industrial structure 
+45 feet 
+   - Industrial structure in 301 Corridor 
+60 feet 
+   - Residential structure 
+35 feet 
+   - Towers, silos, etc. 
+150 feet3 
+   - Fence4 
+ 
+       - Security  
+8 feet 
+       - Ornamental  
+ 
+             Front and Side  
+4 feet 
+             Rear  
+8 feet 
+Maximum building footprint 
+ 
+   - Distribution Center 
+ 
+       - Route 301 Corridor 
+NA 
+       - Other locations 
+75,000 sq. ft. 
+   - Other industrial buildings 
+ 
+       - Route 301 Corridor 
+NA 
+       - Other locations 
+250,000 sq. ft. 
+ 
+1 
+Intrafamily transfers only 
+2 
+May be reduced or increased during site plan review 
+3 
+Except in the Airport Safety Zone 
+4 
+Fences do not need to meet the yard requirements.
+
+<!-- page 82 -->
+ARTICLE II.  DISTRICTS 
+SECTION 12. EMPLOYMENT CENTER DISTRICT (EC) 
+ 
+Land Use Ordinance for Kent County, Maryland     79
+ 
+ 
+Figure 26. Regulatory graphic of a lot in the Employment Center District.
+
+<!-- page 83 -->
+ARTICLE II.  DISTRICTS 
+SECTION 13. EMPLOYMENT CENTER CRITICAL AREA (ECCA) 
+ 
+Land Use Ordinance for Kent County, Maryland     80
+ 
+SECTION 13 EMPLOYMENT CENTER CRITICAL AREA (ECCA) 
+13.1 
+STATEMENT OF INTENT  
+This district is intended to provide for a range of light industrial, office, and other employment 
+uses which are environmentally sound, sustainable, and compatible with adjacent uses. 
+Furthermore, the district is primarily limited to light manufacturing and support businesses. Light 
+industries include those which manufacture, process, store, package or distribute goods and 
+materials and are, in general, dependent on raw materials refined elsewhere. The ECCA District 
+is intended to: 1) improve the quality of runoff from developed areas that enters the Chesapeake 
+Bay or its tributary streams; 2) accommodate additional mixed-use development provided that 
+water quality is not impaired; 3) minimize the expansion of intensely developed areas into 
+portions of the Critical Area designated as habitat protection areas and resource conservation 
+areas; 4) conserve and enhance fish, wildlife, and plant habitats to the extent possible within 
+intensely developed areas; and 5) encourage the use of retrofitting measures to address existing 
+stormwater management problems.  
+The ECCA zoning district is intended to be complementary to the Employment Center (EC) zoning 
+district. Regulations are intended to mirror the EC and provide for a Critical Area version of EC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 27 Diagram illustrating the desired character of the ECCA District.
+
+<!-- page 84 -->
+ARTICLE II.  DISTRICTS 
+SECTION 13. EMPLOYMENT CENTER CRITICAL AREA (ECCA) 
+ 
+Land Use Ordinance for Kent County, Maryland     81
+13.2 
+PERMITTED PRINCIPAL USES AND STRUCTURES  
+For every industrial structure and use erected, reconstructed, altered, or enlarged after the 
+effective date of this Ordinance, a site plan shall be filed. No building permit shall be issued until 
+said site plan is approved by the Planning Commission, or where applicable the Planning Director. 
+Detailed limitations and standards for these uses may be found in Article III. Special exceptions 
+require Planning Commission and Board of Appeals reviews per Article IV. 
+Uses in Employment Center Critical Area (ECCA) 
+ 
+Article III lists requirements for 
+permitted uses and conditions related 
+to special exceptions. 
+ Permitted by right 
+ Special Exception 
+ Accessory Use  
+   on all properties 
+Accessory employee housing 
+ 
+ 
+X 
+Agriculture 
+X 
+ 
+ 
+Airports, landing fields, helistops, or heliports 
+X 
+ 
+ 
+Blacksmith, welding and machine shops 
+X 
+ 
+ 
+Boat building and boat repair 
+X 
+ 
+ 
+Boat storage, out of water  
+ 
+ 
+X 
+Excavation, landscaping and other contractors’ yard 
+X 
+ 
+ 
+Day care groups 
+ 
+ 
+X 
+Distribution centers and warehousing  
+X 
+ 
+ 
+Manufacture of concrete and ceramics products, commercial sawmills, 
+sewage treatment plants, and lumberyards 
+X 
+ 
+ 
+Manufacture, processing, fabrication, and assembly of products 
+X 
+ 
+ 
+Offices 
+ 
+ 
+X 
+Personal wireless facilities, collocated on existing towers 
+X 
+ 
+ 
+Public utility buildings, structures, water treatment plants, and 
+transmission lines 
+X 
+ 
+ 
+Restaurants without drive through facilities 
+ 
+ 
+X 
+Retail sales of products produced on-site 
+ 
+ 
+X 
+Single family dwelling, one per existing property 
+X 
+ 
+ 
+Solar energy systems, small 
+ 
+ 
+X 
+Storage and office trailers, temporary during construction 
+X 
+ 
+ 
+Temporary MET Tower of any height 
+ 
+ 
+X 
+Transmission towers 
+X 
+ 
+ 
+Uses and structures which are customarily accessory and clearly 
+incidental and subordinate to the permitted use 
+ 
+ 
+X 
+Vocational and trade schools 
+X 
+ 
+ 
+Wind energy systems, small 
+ 
+X 
+ 
+Wind energy systems, small, accessory 
+ 
+ 
+X
+
+<!-- page 85 -->
+ARTICLE II.  DISTRICTS 
+SECTION 13. EMPLOYMENT CENTER CRITICAL AREA (ECCA) 
+ 
+Land Use Ordinance for Kent County, Maryland     82
+13.3 
+DENSITY, HEIGHT, WIDTH, BULK, AND FENCE REQUIREMENTS  
+STANDARDS FOR THE SUBDIVISION OF LOTS 
+Gross density (dwelling units/ acre)  
+1 dwelling units per 20 acres1 
+Maximum residential lot size  
+2 acre  
+Minimum frontage  
+75 feet  
+- Existing Primary road  
+100 feet2 
+- Other roads  
+3 
+- Adjacent to EC 
+15 feet  
+- Adjacent to AZD, RCD, C, CCA, M  
+40 feet4 
+- Adjacent to CAR, CR, V, IV 
+100 feet4  
+- Adjacent to public road  
+100 feet3  
+- Waterfront  
+Minimum 100 ft. buffer or modified buffer5  
+- Shoreline cliff  
+1.5 x cliff height + 20 ft.  
+STANDARDS FOR BUILDING AND STRUCTURE HEIGHT, WIDTH, AND PLACEMENT 
+Height 
+ 
+- Industrial structure  
+45 feet  
+- Residential structure  
+35 feet  
+- Towers, silos, etc. 
+150 feet6 
+- Security  
+8 feet  
+Front and Side  
+4 feet  
+Rear  
+8 feet  
+- Distribution Center  
+75,000 sq. ft.  
+- Other industrial buildings  
+250,000 sq. ft.  
+ 
+1 
+Intrafamily transfers only.  
+ 
+2 
+May be reduced or increased during site plan review.  
+ 
+3 
+As approved during subdivision review.  
+ 
+4 
+When a side or rear lot line coincides with a side or rear lot line of a property located in 
+a non-employment center zone, the required yard shall be landscaped and screened and 
+shall be unoccupied by buildings, structures, or parking area.  
+ 
+5 
+Buffers in designated areas may be modified according to the standards in Article VI. 
+ 
+6 
+Additional height restrictions may apply to properties in Airport Safety Zones.
+
+<!-- page 86 -->
+ARTICLE II.  DISTRICTS 
+SECTION 13. EMPLOYMENT CENTER CRITICAL AREA (ECCA) 
+ 
+Land Use Ordinance for Kent County, Maryland     83
+ 
+ 
+ 
+ 
+Figure 28: Regulatory diagram of a lot in the ECCA District.
+
+<!-- page 87 -->
+ARTICLE III. USES
+
+<!-- page 88 -->
+ARTICLE III. USES 
+SECTION 1. GENERAL PROVISIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 85
+SECTION 1 
+ 
+GENERAL PROVISIONS 
+1. 
+For the purposes of this Land Use Ordinance, permitted uses are listed for the various 
+zoning districts in the applicable matrices included for each zoning district in Article II.  
+2. 
+Unless the contrary is clear from the context of the lists or other regulations of this 
+Ordinance, uses not specifically listed in a zoning district matrix are prohibited. Uses listed 
+are to be interpreted as inclusively as may be reasonable.  
+3. 
+When listed uses are indicated in the applicable zoning district matrix as being permitted 
+by right or as accessory uses permitted by right, then the conditions below are required 
+for the use to operate.  
+4. 
+When listed uses are indicated in the applicable zoning district matrix as being permitted 
+by special exception, then the conditions below are required to be evaluated by the 
+approving authority, which in some cases is the Board of Appeals and in other cases the 
+Planning Director, or the Planning Director’s designee. When required, the Planning 
+Commission makes recommendations to the Board of Appeals on special exceptions. The 
+list for each of these categories is found in Article IV under the Special Exceptions section. 
+SECTION 2 
+PERMITTED USES AND CONDITIONS 
+A building or land will be used only for the following purposes, when indicated as such on each 
+district’s table of permitted uses and structures, and subject to any listed conditions: 
+1. 
+Accessory dwelling unit, one, in principal or accessory structures. Accessory dwelling units 
+do not count against the density of the zoning district. Such use will be permitted as 
+accessory uses in AZD, RCD, RC, CAR, CR, and V only when all of the following conditions 
+are satisfied: 
+(A) 
+The property owner resides on the premises. 
+(B) 
+The accessory dwelling unit is subordinate to the principal dwelling in size and 
+appearance. 
+(C) 
+The accessory dwelling unit may not be subdivided or conveyed separately 
+from the primary dwelling unit. The accessory dwelling unit may be rented.  
+(D) 
+The appearance of the structure and property remains that of a single family 
+dwelling. 
+(E) 
+If the entrance to the accessory dwelling unit is separate from that of the 
+primary dwelling, the entrance to the accessory dwelling unit will be from the 
+side or rear yard. 
+(F) 
+One parking space is provided in the rear yard for the accessory dwelling unit. 
+(G) 
+The structure meets all applicable Kent County Codes, including the building 
+code, and Health Department regulations.
+
+<!-- page 89 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 86
+Such use will be permitted as an accessory use in RCD only when all of the following 
+additional conditions are satisfied: 
+(H) 
+The accessory dwelling unit is located within the primary dwelling unit, or its 
+entire perimeter is within 100 feet of the primary dwelling unit. 
+(I) 
+The accessory dwelling unit does not exceed 900 square feet in total enclosed 
+area. 
+(J) 
+The accessory dwelling unit is served by the same sewage disposal system as 
+the primary dwelling unit. 
+(K) 
+If the accessory dwelling unit is located within the primary dwelling unit, it will 
+not increase the amount of lot coverage already attributed to the primary 
+dwelling unit by more than 900 square feet. 
+2. 
+Accessory employee housing. Such use will be permitted as an accessory use in the M, EC, 
+and ECCA only when the accessory employee housing is used for persons permanently 
+employed on the premises. Such use will be limited to two housing units.  
+3. 
+Accessory farm buildings, including barns, cribs, stables, sheds, tool rooms, shops, bins, 
+tanks, and silos, but not animals. No buildings are permitted in the buffer or stream 
+protection corridor. 
+4. 
+Accessory farm dwellings. Such uses are limited to one dwelling on all farms, except that 
+two dwellings will be permitted on farms with at least 50 tillable acres. In the RCD, the 
+total number of dwellings will not exceed one dwelling per 20 acres. These dwellings will 
+share a common entrance and will be occupied by permanent employees of the farm or 
+immediate members of the family owning or operating the farm. All accessory farm 
+dwellings will be landscaped and screened from adjacent properties. In the RCD, RC, and 
+CR, accessory farm dwellings may not be mobile homes.  
+5. 
+Accessory open or enclosed storage of farm materials, products, equipment, fertilizer or 
+chemicals, or vehicles. Such storage is in connection with the farming operation of the 
+owner. All of the following uses will be located at least 200 feet from all property lines: 
+(A) 
+Assembly of equipment, in a totally enclosed building not exceeding 10,000 
+square feet in size, and repair of all equipment normally used in agriculture.  
+(B) 
+Storage of grain, flour, and feed blending and packaging, including milling, 
+drying, and storing.  
+(C) 
+Petroleum storage. Petroleum storage will not exceed 10,000 gallons and is 
+subject to applicable safety codes, ordinances, and statutes. 
+6. 
+Accessory off-street parking and loading of non-commercial vehicles that have current 
+licenses and are operable.  
+7. 
+Accessory off-street parking of one commercial vehicle. Such use will be permitted as an 
+accessory use only when all of the following conditions are satisfied:
+
+<!-- page 90 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 87
+(A) 
+In the AZD, RCD, RC, CAR, and CR Districts, the vehicle is parked only in the rear 
+yard. 
+(B) 
+In the V and IV Districts, the vehicle is only parked in the side or rear yard of 
+dwellings. 
+(C) 
+The vehicle is used by the occupant of the dwelling. 
+(D) 
+The vehicle does not exceed 16,000 pounds manufacturer’s gross vehicle 
+weight. 
+(E) 
+No major repair is conducted on-site. 
+(F) 
+No engines may run when parked on-site. Electrical refrigeration units may run. 
+(G) 
+Honey wagons, sanitation, garbage, or other trucks used to transport odorous, 
+flammable, or hazardous materials are prohibited. 
+(H) 
+The vehicle has a current license and is operable. 
+8. 
+Accessory roadside stand for the sale of farm products. 
+9. 
+Accessory residential storage structures with a floor area of more than 2,000 square feet 
+or a height that exceeds the height of the primary residential structure on parcels less 
+than 5 acres. When special exception approval is required in the district matrix, this may 
+be reviewed via an administrative special exception process. 
+10. 
+Accessory sheds on properties with only agricultural uses, which are less than 20 acres. 
+11. 
+Accessory structures in the front yard of through or corner lots. When special exception 
+approval is required in the district matrix, this may be reviewed via an administrative 
+special exception process.  
+12. 
+Accessory structures in the front yard requirement of waterfront parcels require a special 
+exception, except for swimming pools, swimming pool equipment, and related structures 
+which may be permitted without special exception. When special exception approval is 
+required in the district matrix, this may be reviewed via an administrative special 
+exception process. 
+13. 
+Accessory truck parking. 
+14. 
+Accessory uses and structures normally associated with permitted uses and not otherwise 
+listed. 
+15. 
+Accessory vehicle parking. Such use will be limited to those vehicles used as a part of 
+principal permitted uses or approved special exceptions provided the vehicles have 
+current licenses and are operable. Parking areas will be approved during site plan review.  
+16. 
+Adaptive reuse of existing structures in AZD, located on parcels under 20 acres.  
+(A) 
+The site will have access to a public road adequate for the traffic generated; 
+(B) 
+ The proposed use will not generate traffic of a type or amount inappropriate 
+for access roads and the surrounding area;
+
+<!-- page 91 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 88
+(C) 
+The use does not require road improvements detrimental to the character of 
+the area; 
+(D) 
+The number of dwellings will not exceed the density permitted in the district in 
+which the structure is located; 
+(E) 
+The proposed use does not create an unacceptable impact by way of noise, 
+odor, noxious materials or other nuisances; and 
+(F) 
+Landscaping is in keeping with the character of the building or location. 
+(G) 
+This may be reviewed via an administrative special exception process. 
+17. 
+Adaptive reuse of historic structures for uses not otherwise permitted. Such uses are 
+subject to the following conditions: 
+(A) 
+Structures will be listed in the Kent County Historic Site Survey or approved as 
+a historically significant structure by the Planning Commission; 
+(B) 
+It is shown that exterior changes to site structures will be minimized. 
+Enlargements will be designed in keeping with the character of the building; 
+(C) 
+Landscaping is in keeping with the character of the building; 
+(D) 
+The site will have access to a public road adequate for traffic generated; 
+(E) 
+The proposed use will not generate traffic of a type or amount inappropriate 
+for all access roads and the surrounding area; 
+(F) 
+The use does not require road improvements detrimental to the character of 
+the area; 
+(G) 
+The number of dwellings will not exceed the density permitted in the district in 
+which the structure is located;  
+(H) 
+The proposed use does not create an unacceptable impact by way of noise, 
+odor, noxious materials or other nuisances; and 
+(I) 
+In RCD, adaptive reuse projects will be limited to non-commercial and non-
+industrial uses. 
+18. 
+Agriculture. An agriculture use may include horticultural, hydroponics, general farming, 
+orchards, groves, or nurseries for the growing or propagation of plants, trees, and shrubs. 
+All farming activities related to animals are regulated as animal husbandry (see categories 
+below), which are permitted individually as separate, specific uses within zoning districts. 
+19. 
+Agritourism as defined in Article VII of this Ordinance. A site plan review will be required.  
+20. 
+Airports, landing fields, helistops, or heliports. Such uses will be permitted as special 
+exceptions only when all of the following conditions are satisfied: 
+(A) 
+Flight obstructions, such as towers, chimneys, other tall structures, or natural 
+obstructions, do not fall within the approach zone to any proposed runway or 
+landing strips of the landing field or airport; and
+
+<!-- page 92 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 89
+(B) 
+The use complies with the recommendations of the Federal and State Aviation 
+Authorities; and 
+(C) 
+Runways are designed to minimize the approach and takeoff areas over 
+residential areas; and 
+(D) 
+Applications for special exceptions for private airstrips, heliports, and helistops 
+will comply with the following: 
+i. 
+The takeoff and landing flight path will be a minimum of 1,000 feet in any 
+direction from any residence or public building; and 
+ii. 
+The takeoff and landing path of the aircraft will have a minimum of 250 
+feet vertical clearance over surrounding property unless a navigation 
+easement is reached with the affected property owners for a lesser 
+clearance; and 
+iii. No business such as the sale or leasing of aircraft, maintenance, or flight 
+instructions will be permitted; and 
+iv. The applicant will maintain a flight operation’s log that will be open for 
+inspection by representatives of the Department; and 
+v. 
+Approvals will be for a period not to exceed 5 years. 
+21. 
+Animal husbandry, aquaculture, including accessory processing and sales.  
+Where permitted by special exception, the following conditions will be satisfied: 
+(A) 
+Open or uncovered storage of shells, bones, and refuse does not occur on site; 
+and 
+(B) 
+No curing or smoking occurs on site; and 
+(C) 
+All structures for processing and all disposal areas for materials and byproducts 
+of processing are a minimum of 600 feet from all property lines; and 
+(D) 
+Seafood processing facilities and disposal areas are not in the 100-year 
+floodplain; and 
+(E) 
+The operation is managed according to a management plan approved by the 
+Natural Resources Conservation Service, University of Maryland Extension 
+Service, and the Kent County Health Department; and 
+(F) 
+Parking, processing and disposal areas are screened from adjacent properties 
+and public roads; and 
+(G) 
+Access roads are capable of handling the type of traffic generated by the 
+operation. 
+22. 
+Animal husbandry, farm, including horses – this use includes keeping, dairying, or raising 
+for sale animals, fish, birds, horses, or reptiles on 20 acres or more. Such use is permitted 
+only when all of the following conditions are satisfied:
+
+<!-- page 93 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 90
+(A) 
+Such use is only permitted on a farm of 20 acres or more.  
+(B) 
+Such use will not include poultry houses, feedlots, or confinement dairies.  
+(C) 
+Nutrient management plans are required for all animal husbandry uses; 
+however, the Planning Director may set aside the requirement for a nutrient 
+management plan for 4-H and FFA projects. 
+23. 
+Animal husbandry, limited livestock and fowl – this use does not include commercial 
+feedlots, confinement dairies, or poultry houses. Such uses will be permitted as special 
+exception only when all of the following conditions are satisfied: 
+(A) 
+All buildings for the housing of animals are 200 feet from the property line. 
+(B) 
+Waste management structures are 600 feet from the nearest property line. 
+(C) 
+No part of the operation will be in the 100-year floodplain. 
+(D) 
+The operation is managed according to a waste and nutrient management plan 
+approved by the Natural Resources Conservation Service, the University of 
+Maryland Extension Service, and the Kent County Health Department. Where 
+the phosphorus index, developed by the University of Maryland, indicates that 
+phosphorus is a problem or is likely to become a problem, the plan will use 
+phosphorus based nutrient management. When in the opinion of the Board of 
+Appeals, Planning Commission, or Planning Director additional review is 
+needed by an outside agency, the application and waste and nutrient 
+management plan may be forwarded to the Maryland Department of the 
+Environment or any other appropriate agency. 
+(E) 
+Sediment and stormwater management plans are approved by the appropriate 
+agency and are implemented. 
+(F) 
+The applicant will prepare a management plan that demonstrates that the 
+facility will be operated in a safe and environmentally sound manner and will 
+not create a hazard to the surrounding area and waterways. 
+(G) 
+To assure continued compatibility with the surrounding area, the Board may 
+place additional restrictions on any number of the following: 
+i. 
+Screening and landscaping from adjacent properties and public roads 
+ii. 
+Exterior displays, lighting, and signs 
+iii. The location of access routes to the site, both on and off-site 
+iv. The type of waste disposal, e.g. injection, disk, etc. 
+v. 
+Monitoring wells and surface water testing where appropriate 
+vi. Manner and route of moving waste from one site to another 
+vii. Waste and nutrient management plans for properties receiving waste
+
+<!-- page 94 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 91
+24. 
+Animal husbandry, feedlot or confinement dairy. Such use will be permitted as special 
+exception only when all of the following conditions are satisfied: 
+(A) 
+All buildings, corals, and waste management structures are 600 feet from the 
+nearest property line. 
+(B) 
+No part of the operation will be in the 100-year floodplain. 
+(C) 
+The operation is managed according to a waste and nutrient management plan 
+approved by the Natural Resources Conservation Service, the University of 
+Maryland Extension Service, and the Kent County Health Department. Where 
+the phosphorus index, developed by the University of Maryland, indicates that 
+phosphorus is a problem or is likely to become a problem, the plan will use 
+phosphorus based nutrient management. When in the opinion of the Board of 
+Appeals, Planning Commission, or Planning Director additional review is 
+needed by an outside agency, the application and waste and nutrient 
+management plan may be forwarded to the Maryland Department of the 
+Environment or any other appropriate agency. 
+(D) 
+Sediment and stormwater management plans are approved by the appropriate 
+agency and are implemented. 
+(E) 
+The applicant will prepare a management plan that demonstrates that the 
+feedlot or confinement dairy will be operated in a safe and environmentally 
+sound manner and will not create a hazard to the surrounding area and 
+waterways. 
+(F) 
+To assure continued compatibility with the surrounding area, the Board may 
+place additional restrictions on the following: 
+i. 
+Screening and landscaping from adjacent properties and public roads 
+ii. 
+Exterior displays, lighting, and signs 
+iii. The location of access routes to the site, both on and off-site 
+iv. The type of waste disposal, e.g. injection, disk etc. 
+v. 
+Monitoring wells and surface water testing where appropriate 
+vi. Manner and route of moving waste from one site to another 
+vii. Waste and nutrient management plans for properties receiving waste 
+25. 
+Animal husbandry, horses on non-farms – More than four horses and mules on a single 
+property less than 20 acres in size. Such use will be permitted as special exception only, 
+when all of the following conditions are satisfied: 
+(A) 
+There will be no more than one horse or mule per acre of available pasture on 
+the site. 
+(B) 
+No waste management facility or structure for the keeping of animals is in the 
+100-year floodplain.
+
+<!-- page 95 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 92
+(C) 
+The feeding and watering of animals are conducted a minimum of 50 feet from 
+any body of water, including tributary streams and wetlands.  
+(D) 
+The operation is managed according to a waste and nutrient management plan 
+approved by the Natural Resources Conservation Service, the University of 
+Maryland Extension Service, and the Kent County Health Department. Where 
+the phosphorus index, developed by the University of Maryland, indicates that 
+phosphorus is a problem or is likely to become a problem, the plan will use 
+phosphorus-based nutrient management. When in the opinion of the Board of 
+Appeals, Planning Commission, or the Planning Director, that additional review 
+is needed by an outside agency, the application and accompanying waste and 
+nutrient management plan may be forwarded to the Maryland Department of 
+the Environment or any other appropriate agency. 
+26. 
+Animal husbandry, poultry houses. Such uses are subject to the following conditions: 
+(A) 
+Poultry houses may only be located on farms that are 20 acres or more in area. 
+(B) 
+Poultry houses, waste management facilities, composters, and the area for the 
+disposal of animals will be a minimum of 600 feet from all property lines. 
+(C) 
+No poultry house, waste management facility or composter will be in the 100-
+year floodplain. 
+(D) 
+The operation is managed according to waste and nutrient management plans, 
+approved by the Natural Resources Conservation Service, University of 
+Maryland Extension Service, and the Kent County Health Department. Where 
+the phosphorus index, developed by the University of Maryland, indicates that 
+phosphorous is a problem or has the potential to become a problem, the plan 
+will use phosphorus based nutrient management. When in the opinion of the 
+Planning Director additional review is necessary from an outside agency, the 
+Planning Director may forward the plan to the Maryland Department of the 
+Environment or any other appropriate agency. 
+Land in Kent County owned by the owner/operator of the poultry house will be 
+able to handle the manure and waste generated. The acreage requirements 
+identified in the approved waste and nutrient management plan will be used 
+to determine if an operation meets this requirement. 
+(E) 
+Manure storage sheds and composter appropriate to the size of the operation 
+will be included and will be constructed prior to receiving the first flock of 
+chickens. 
+27. 
+ will Animal husbandry, special – backyard chickens. Such uses will be permitted as 
+accessory uses only when all of the following conditions are satisfied:  
+(A) 
+Backyard chickens are defined as females of the species Gallus gallus 
+domesticus kept for non-commercial purposes. The keeping of males of the 
+species is not permitted.
+
+<!-- page 96 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 93
+(B) 
+The maximum number of chickens, 4 months or older, permitted on any lot is 
+determined by lot size: 
+i. 
+No chickens are permitted on a lot of less than ¼ acre; 
+ii. 
+No more than 5 chickens are permitted on a lot of ¼ acre to 1 acre; 
+iii. No more than 8 chickens are permitted on lots of more than 1 acre. 
+(C) 
+The area for keeping backyard chickens will be enclosed in such a fashion that 
+the chickens are confined and not able to leave the owner’s property. Backyard 
+chickens will be provided with a covered, predator-proof coop or cage that is 
+well ventilated. Hens will have access to an outdoor enclosure that is 
+adequately fenced to contain the birds on the property. 
+(D) 
+Structures (coops) for the housing of backyard chickens will meet the 
+permitting requirements of this Ordinance. For movable coops, the permit 
+application will show the area in which the coop will be moved. A copy of the 
+Maryland Poultry Registration Form will accompany the building permit 
+application. 
+(E) 
+Coops will be setback a minimum of 15 feet from any property line. 
+(F) 
+Coops may be placed in rear yards only. 
+(G) 
+Each coop will be kept clean and free of odors and materials that can attract 
+vermin. Feed will be kept in secure containers so as not to attract vermin. 
+(H) 
+Waste will be composted or removed from the property 
+(I) 
+The outdoor slaughtering of chickens is not permitted 
+28. 
+Animal husbandry, special – sheep or goats, kept for noncommercial purposes, will be: 
+(A) 
+Female or neutered and dehorned males.  
+(B) 
+The maximum number of sheep or goats permitted on any lot is determined by 
+lot size:  
+i. 
+No sheep or goats are permitted on a lot of less than two acres.  
+ii. 
+A maximum of three small ruminants per acre of grazable area within the 
+lot is permitted with a maximum of eight total.  
+(C) 
+The animals will be provided with a covered shelter with bedding and an 
+outdoor enclosure that is adequately fenced to contain the animals on the 
+property.  
+(D) 
+Structures for the housing of animals should meet the permitting requirements 
+of the Ordinance.  
+(E) 
+Shelter should be setback a minimum of 40 feet from any property line, in rear 
+yards only, and kept clean and free from odors and materials that can attract 
+vermin.
+
+<!-- page 97 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 94
+(F) 
+The operation is managed according to waste and nutrient management plans, 
+approved by the Natural Resources Conservation Service, University of 
+Maryland Extension Service, and the Kent County Health Department. Where 
+the phosphorus index, developed by the University of Maryland, indicates that 
+phosphorus is a problem or has the potential to become a problem, the plan 
+will use phosphorus based nutrient management. When in the opinion of the 
+Planning Director additional review is necessary from an outside agency, the 
+Planning Director may forward the plan to the Maryland Department of the 
+Environment or any other appropriate agency.  
+(G) 
+Feed will be kept in secure containers so as not to attract vermin.  
+(H) 
+Bedding and waste materials will be composted or removed from the property.  
+(I) 
+The outdoor slaughtering of sheep or goats is not permitted.  
+(J) 
+Sheep or goats brought into the State of Maryland will meet the Code of 
+Maryland Regulations, Chapter 15.11.18. Requirements for Sheep and Goats 
+for the Eradication of Scrapie. 
+29. 
+Animal husbandry, stable - private. Such use is subject to the following conditions:  
+(A) 
+The lot will be two acres or more; and 
+(B) 
+Any structure for the keeping of animals will be located a minimum of 100 feet 
+from any property line; and 
+(C) 
+There will be no more than one horse per acre of land. Only available pasture 
+acreage will be used to compute the number of horses allowed on a parcel; and 
+(D) 
+The operation is managed according to waste and nutrient management plans, 
+approved by the Natural Resources Conservation Service, University of 
+Maryland Extension Service, and the Kent County Health Department. Where 
+the phosphorus index, developed by the University of Maryland, indicates that 
+phosphorous is a problem or has the potential to become a problem, the plan 
+will use phosphorus based nutrient management. When in the opinion of the 
+Planning Director additional review is necessary from an outside agency, the 
+Planning Director may forward the plan to the Maryland Department of the 
+Environment or any other appropriate agency. 
+30. 
+Animal husbandry, stable - commercial. Such use is subject to the following conditions:  
+(A) 
+The lot is 20 acres or more; and 
+(B) 
+Any structure for the keeping or feeding of animals and waste management 
+structures will be a minimum of 400 feet from any property line; and 
+(C) 
+No waste management facility or structure for the keeping of animals is in the 
+100-year floodplain; and
+
+<!-- page 98 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 95
+(D) 
+The feeding and watering of animals are conducted a minimum of 100 feet 
+from tidal water and tributary streams, both tidal and non-tidal, and 50 feet 
+from non-tidal wetlands; and 
+(E) 
+The operation is managed according to waste and nutrient management plans, 
+approved by the Natural Resources Conservation Service, University of 
+Maryland Extension Service, and the Kent County Health Department. Where 
+the phosphorus index, developed by the University of Maryland, indicates that 
+phosphorous is a problem or has the potential to become a problem, the plan 
+will use phosphorus based nutrient management. When in the opinion of the 
+Planning Director additional review is necessary from an outside agency, the 
+Planning Director may forward the plan to the Maryland Department of the 
+Environment or any other appropriate agency. 
+31. 
+Animal shelters. An animal shelter use is permitted only as defined by the County Code of 
+Public Laws.  
+32. 
+Appurtenant signs. Such uses will be in accordance with Article V.  
+33. 
+Assisted living facilities with five to eight beds. When special exception approval is 
+required, this may be reviewed via an administrative special exception process. Such use 
+is permitted as a special exception only when all of the following criteria are satisfied: 
+(A) 
+The property owner resides on the premises; and 
+(B) 
+The assisted living facility is subordinate and accessory to the principal dwelling 
+in size and appearance and is in the same structure as the principal dwelling 
+unit. Expansions will be designed in keeping with or to enhance the character 
+of the other buildings; and 
+(C) 
+The rooms for the use are not designed or constructed to be separate dwelling 
+units and may not be sold as separate dwelling units; and 
+(D) 
+The appearance of the structure and property remain that of a single family 
+dwelling so that the average neighbor is unaware of the assisted living facility’s 
+existence; and 
+(E) 
+The structure meets all applicable Kent County Codes, including the building 
+code, and Health Department requirements; and 
+(F) 
+The applicant has received approval from the appropriate State of Maryland 
+agencies; and 
+(G) 
+The facility does not create an unacceptable environmental impact by way of 
+noise, odor, noxious materials, or other nuisances. 
+34. 
+Assisted living facilities with no more than four beds. Such use is permitted as an 
+accessory use only when all of the following criteria are satisfied: 
+(A) 
+The property owner resides on the premises.
+
+<!-- page 99 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 96
+(B) 
+The assisted living facility or group home is subordinate and accessory to the 
+principal dwelling in size and appearance and is in the same structure as the 
+principal dwelling unit. 
+(C) 
+The rooms for the use are not designed or constructed to be separate dwelling 
+units and may not be sold as separate dwelling units. 
+(D) 
+The appearance of the structure and property remain that of a single family 
+dwelling. 
+(E) 
+The structure meets all applicable Kent County Codes, including the building 
+code and Health Department requirements. 
+35. 
+Automobile repair. Such use is permitted as a special exception only when automobiles 
+waiting for repair are stored in a building or in the rear yard and screened from adjacent 
+properties. 
+36. 
+Automobile service stations, not including auto repair. An automobile service station use 
+is subject to site plan review. Such use is permitted as a special exception only when major 
+repairs or bodywork are not conducted onsite. 
+37. 
+Automobile sales, service, and rental. 
+38. 
+Bath houses, pump out structures, and other accessory structures normally associated 
+with permitted uses. 
+39. 
+Blacksmith, welding and machine shops. For a blacksmith, welding and machine shop use, 
+outdoor storage of materials is prohibited unless otherwise approved by the Planning 
+Commission and subject to such conditions as may be determined by the Planning 
+Commission  
+40. 
+Boat building and boat repair. A boat building and boat repair use will be located at least 
+100 feet from any residential district.  
+41. 
+Boat docks, piers and wharves. Boat docks, piers and wharves will not exceed 25% of the 
+waterway, or the edge of the channel, whichever is less. 
+42. 
+Boat rental, sales, supplies, instruction, and other services customarily associated with a 
+full-service marina.  
+43. 
+Boat sales, boat and outboard motor repairs and boat storage. Boat sales, boat and 
+outboard motor repairs and boat storage uses will be permitted only when all of the 
+following conditions are satisfied: 
+(A) 
+The property will front on two public roads; 
+(B) 
+All repairs are conducted inside a building; 
+(C) 
+The storage area and repair access area will be screened on all sides with wood 
+fencing a minimum of 6 feet in height; 
+(D) 
+The repair shop building and the storage and repair access area will be set back 
+at least 100 feet from adjacent properties that are zoned for residential use;
+
+<!-- page 100 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 97
+(E) 
+The open area for display of boats will be limited to 3,000 square feet in size; 
+and 
+(F) 
+This use is subject to site plan review. 
+44. 
+Boat storage, out-of-water boat storage. In the M District, this use does not include multi-
+level boat storage. 
+45. 
+Building materials sales. 
+46. 
+Camp, day or boarding, private or commercial, but not recreational vehicle or migrant 
+labor camps, for the purpose of conserving and enjoying natural resources. 
+47. 
+Campgrounds. Campgrounds include only those campgrounds existing and in use as of 
+August 1, 1989, in the Resource Conservation District. It is the intent of this section to 
+provide for the continued existence and operation as well as the intensification or 
+expansion of campgrounds existing and in use as of August 1, 1989, in the RCD. It is not 
+the intent to permit the creation of new campgrounds, but rather to protect those 
+enterprises that existed in the RCD on August 1, 1989. Any expansion or intensification of 
+an existing campground, including the addition of sites or conversion of existing sites to 
+allow for additional recreational vehicles, will require growth allocation. 
+48. 
+Car wash. A car wash use will require that the waste water is recycled. Such use is 
+permitted as a special exception only when the following conditions are satisfied: 
+(A) 
+The car wash is designed to allow adequate traffic flow for cars to enter and 
+exit the facility safely; and 
+(B) 
+Single bay facilities with automated brushes and multiple bay self service 
+facilities will provide a space for the parking of one car per bay to be used as a 
+dry down area. Facilities using a conveyor or chain drag system for moving 
+motor vehicles through the washing area will provide space at the building exit 
+for three times the number of vehicles that can be accommodated at one time 
+within the structure; and 
+(C) 
+Vacuum facilities will comply with the setbacks for a primary structure in the 
+applicable zoning district; and 
+(D) 
+Appropriate permits are obtained from the State of Maryland. 
+49. 
+Cemetery, including crematorium and mausoleum. Such use will be permitted only when 
+all of the following conditions are satisfied:  
+(A) 
+Burial plots will be 10 feet from all property lines. Buildings will comply with 
+the yard requirements for the applicable zoning district. 
+(B) 
+Mausoleums will be a minimum of 75 feet from a public road and 50 feet from 
+the side and rear property lines. 
+(C) 
+Crematoriums will be 200 feet from all property lines. 
+(D) 
+In the IV District, such uses will be permitted only when accessory to a house 
+of worship located on the same parcel.
+
+<!-- page 101 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 98
+50. 
+Circus or carnival, midways and amusement parks, maze fields and other temporary 
+recreational uses, for a specified period. The Planning Director may require a site plan and 
+place conditions as may be appropriate to assure the compatibility of the temporary 
+recreational use.  
+51. 
+Class D Alcohol Retail Business, as defined by the State of Maryland. 
+52. 
+Conference center. Such use will be permitted as a special exception only when the 
+following conditions have been satisfied: 
+(A) 
+In the IV District, the project will collectively consist of 15 acres but not more 
+than 750 acres. In RCD, RR, RC, and CAR, the project will collectively consist of 
+at least 50 acres but not more than 750 acres. 
+(B) 
+The conference center will consist of 100 but not more than 225 guest rooms.  
+(C) 
+At least 100 square feet of meeting space will be provided per guest room. 
+(D) 
+Permanent theme parks, amusement parks, and/or stadiums are prohibited.  
+(E) 
+Where applicable, the applicant has applied for growth allocation from the 
+County. Special exception approval will not be valid without the granting of 
+growth allocation.  
+(F) 
+The Board will make specific findings on the availability of public and 
+governmental services. Proposed improvements will be appropriate to the 
+character of the area. 
+(G) 
+Where they exist, historic structures will be incorporated into the overall 
+project. 
+(H) 
+Significant view corridors, both from the site and onto the site will be preserved 
+in so much as possible. 
+(I) 
+The height of all structures will not exceed 38 feet. 
+(J) 
+The design of the conference center and accessory uses will reflect and 
+complement the rural character of the area or neighborhood. 
+(K) 
+The number of dwelling units will not exceed that which is permitted in the 
+applicable zoning district. Dwelling units may be detached or attached. 
+(L) 
+Continuous residential lot development aligned with golf course fairways will 
+be prohibited within the Critical Area and discouraged elsewhere. 
+(M) 
+Parking lots will be landscaped as required for commercial developments.  
+(N) 
+Permitted accessory uses, subject to the approval of the Board of Appeals, 
+including restaurants; recreational facilities such as tennis courts and 
+swimming pools; spas; retail use provided the establishments are in the main 
+building with the entrance to the retail use from the inside the building; stables 
+but not an equestrian center; other recreation amenities but not including trap, 
+skeet, clay birds, paint ball or other similar firearm activities; piers; and other
+
+<!-- page 102 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 99
+accessory uses that are customarily associated with a conference center. The 
+applicant will describe all proposed accessory uses in the application for a 
+special exception. The Board of Appeals may deny or limit the size and extent 
+of accessory uses. 
+(O) 
+The number of slips on the accessory pier will not exceed 20% of the number 
+of guest rooms and the use of the slips will be limited to use by those using the 
+conference facilities. Accessory piers will meet all requirements applicable to 
+marinas such as pump outs, restrooms, and showers. 
+(P) 
+All structures will comply with the minimum 100-foot buffer and will be 200 
+feet from all side and rear property lines, whichever is greater. 
+(Q) 
+A golf course will meet all the requirements found in this Article III. 
+(R) 
+In RCD, RC, RR, and CAR, at least 60% of the property will be in open space. 
+(S) 
+The Board of Appeals may place additional restrictions on the following: 
+i. 
+Additional yard requirements for all structures, including patios and 
+places of public assembly 
+ii. 
+Lighting 
+iii. Landscaping and screening  
+iv. Outdoor activities, outdoor music, and their hours of operation 
+v. 
+Access 
+(T) 
+Application for a conference center will include a sketch plan and renderings of 
+all primary and each type of accessory structure.  
+53. 
+Contractors’ yard See Excavation, landscaping, and other contractor’s yard.  
+54. 
+Convalescent, group, or homes for the aged if located in dwellings existing as of December 
+1, 1985, in RCD, provided exterior changes are minimized and extension or enlargement 
+of principle and accessory structures may not exceed 50% of the gross floor area of each 
+individual building. 
+55. 
+Convalescent, nursing, or group homes for the aged with five or more beds. 
+56. 
+Cottage industries, tradesmen and artisan shops. Such uses will be permitted as an 
+administrative special exception only when all of the following conditions are satisfied: 
+(A) 
+Except on farms, the cottage industry will be secondary to the use of the 
+property for dwelling purposes and will be less than 60% of the living area, 
+2,000square feet, or in an existing accessory structure, whichever is greater. 
+The square footage limitation includes outdoor storage areas but not required 
+parking. Additional area may be granted via review by the Board of Appeals.  
+(B) 
+On farms, the cottage industry will be secondary to the farm. The cottage 
+industry is limited to 4,000 square feet in size or an existing building, whichever 
+is greater. The square footage limitation includes outdoor assembly and
+
+<!-- page 103 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 100
+storage areas but not required parking. Additional area may be granted via 
+review by the Board of Appeals. 
+(C) 
+The use is secondary in scope to the residential or agricultural use of the 
+property. 
+(D) 
+The buildings associated with the use are not visually intrusive or inappropriate 
+to their setting. New buildings and expansions will be designed in keeping with 
+or to enhance the character of the other buildings. 
+(E) 
+The cottage industry does not create an unacceptable environmental impact 
+by way of noise, odor, noxious materials, or other nuisances. 
+(F) 
+The cottage industry does not generate traffic of a type or amount 
+inappropriate for all access roads and the surrounding area. It does not require 
+significant road improvements detrimental to the character of the area. 
+(G) 
+Sureties required by the Department may be set aside by the Planning Director. 
+(H) 
+The following uses will not be allowed: 
+i. 
+Any activity that may reasonably be expected to result in excessive noise, 
+smoke, dust, odors, heat, or glare beyond that which is common to the 
+zoning district. The proposed use will conform to the maximum 
+permissible sound levels in Article III for Employment Center uses; 
+ii. 
+Use or manufacture of products or operations that are dangerous in 
+terms of risk of fire, explosion, or hazardous emissions; and,  
+iii. Any other use deemed incompatible with a residential or agricultural 
+area. 
+57. 
+Country inns. A country inn use is subject to site plan review. Such uses will be permitted 
+as special exception only when all of the following conditions are satisfied: 
+(A) 
+Such structures have existed prior to August 1, 1989, except on properties with 
+more than 25 acres in the Marine District. 
+(B) 
+The number of rooming units provided on the site is limited to fifteen excluding 
+resident management quarters. 
+(C) 
+Boarding and dining facilities in AZD, RCD, RC, CR, CAR, IV, C, and M may be 
+permitted only when attendant to rooming units and further provided that 
+such facilities are limited to a maximum seating capacity of forty persons. Such 
+dining facilities may be provided to patrons other than boarders. No dining 
+facility will be permitted in RCD. 
+(D) 
+The site has access to a public road. This access will be capable of supporting 
+the passage of emergency vehicles. The Board may require improvements to 
+existing access roads.  
+(E) 
+There will be sufficient acreage for the proposed use and activities.
+
+<!-- page 104 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 101
+(F) 
+Extension or enlargement of principal and accessory structures including the 
+addition of new structures and new buildings are permitted, and they should 
+maintain features and character that are consistent with the structures already 
+located on the campus of the permitted use that existed as of August 1, 1989. 
+(G) 
+Adequate landscaping will be provided to screen all parking areas from 
+adjoining residential properties. Landscaping or screening proposed will be 
+shown on a site plan as required by this Ordinance. 
+58. 
+Country stores. Country stores will be located only along primary and secondary roads. 
+Such uses will be permitted as special exception only when all of the following conditions 
+are satisfied: 
+(A) 
+The structure existed prior to August 1, 1989. 
+(B) 
+Property on which the store is located will abut upon and have safe access to a 
+primary or secondary road as shown on the Major Thoroughfare Map. 
+(C) 
+Extension or enlargement of the principal and accessory structures does not 
+exceed 50% of the gross floor area of each building above that which existed 
+as of August 1, 1989. 
+59. 
+Curio shops, craft shops, antique stores, and similar uses. Such uses will be consistent 
+with the character of the town area. Such uses will be limited to a gross floor area of 1,500 
+square feet per individual building. New construction will require site plan review. 
+60. 
+Data processing centers. Such uses are subject to site plan review. 
+61. 
+Detached single family dwellings – see also Single family dwellings in this section. 
+62. 
+Day care groups. When special exception approval is required, this may be reviewed via 
+an administrative special exception process. Such uses will be permitted as a special 
+exception only when all of the following conditions are satisfied:  
+(A) 
+Outdoor activity areas are fenced and screened. 
+(B) 
+Two drop-off/pick-up parking spaces are provided. 
+(C) 
+Structured play areas for active play or play structures are not in the front yard 
+and are 10 feet from the side or rear property line. 
+(D) 
+The structure retains its residential character, if located in a residential setting. 
+(E) 
+Day care groups in the RCD will be permitted only in dwellings existing prior to 
+December 1, 1985. 
+63. 
+Day care homes. Such uses will be permitted as accessory uses only when all of the 
+following conditions have been satisfied:  
+(A) 
+Outdoor play areas are fenced and screened. 
+(B) 
+Structured areas for active play or play structures will not be in the front yard 
+and will be a minimum of 10 feet from the side or rear property line.
+
+<!-- page 105 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 102
+(C) 
+One drop off / pickup space is provided. 
+(D) 
+Structural or decorative additions will be designed to be compatible with the 
+residential character of the neighborhood, if located in a residential setting. 
+64. 
+Distribution centers and warehousing. Distribution and warehousing uses are permitted 
+only when any single building footprint does not exceed 75,000 square feet in size. The 
+restriction on building footprint does not apply to the Employment Center District in the 
+Route 301 corridor. In reviewing the site plan, the Planning Commission, or where 
+applicable the Planning Director, will consider the following: 
+(A) 
+The impact of the proposed business or industry on existing or planned public 
+facilities. 
+(B) 
+The impact of the operation of the facility on the surrounding area. 
+(C) 
+The health, safety, and welfare of employees and residents of the 
+neighborhood. 
+(D) 
+In so far as possible, all uses will be conducted entirely within a completely 
+enclosed structure or be completely screened. Outdoor storage of materials 
+and unfinished products is prohibited unless otherwise approved by the 
+Planning Commission and subject to such conditions as may be determined by 
+the Planning Commission during the site plan review process. Screening for 
+requests that involve only outdoor storage may be approved by minor site plan. 
+65. 
+Dog kennels, commercial. Such uses will be permitted by special exception or as an 
+accessory use only when all of the following conditions are satisfied:  
+(A) 
+Any open dog pens, runs, cages, or kennels will be at least 200 feet from any 
+side or rear lot line. 
+(B) 
+The operation is managed according to waste and nutrient management plans 
+approved by the Natural Resources Conservation Service, the University of 
+Maryland Cooperative Extension Service, and the Kent County Health 
+Department. 
+66. 
+Dormitories for employees. Such uses will be permitted by special exception only when 
+all of the following conditions are satisfied: 
+(A) 
+The structure meets the design standards for multi-family residential 
+development as set forth in applicable regulations in Article V of this Ordinance. 
+(B) 
+The structure is screened, if possible, from adjacent roads, waterways, and 
+properties. 
+(C) 
+The applicant proves that the structure is necessary to house employees. 
+(D) 
+Residents are limited to employees of the marina. 
+(E) 
+Dormitories are not in the minimum 100-foot buffer.
+
+<!-- page 106 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 103
+67. 
+Dredge spoil sites. Such uses will be permitted as special exception only when all of the 
+following conditions are satisfied: 
+(A) 
+The site does not receive dredge spoils that exceed 100,000 cubic yards per 
+existing parcel as of the date of the adoption of this ordinance unless used in 
+conjunction with an approved surface mine reclamation. The disposition of 
+dredge spoils used in conjunction with a surface mine reclamation will have all 
+permits required by the State of Maryland and the application will demonstrate 
+that measures are provided to protect the groundwater, stabilize pH, and to 
+generally protect the environment of the area. 
+(B) 
+Material is limited to clean dredge spoil which is tested according to the 
+regulations of the State of Maryland.  
+(C) 
+Prime farmland is not used for a dredge spoil site. 
+68. 
+Excavation, landscaping, or other contractor’s yard. Such use includes outdoor storage of 
+the contractor’s equipment and equipment parts; temporary stockpiling of soils, sand, 
+gravel, stone, recyclable brick, concrete, blacktop materials, pipes, iron, tires, and tanks.  
+Such use will only be permitted when all of the following conditions are satisfied:  
+(A) 
+The contractor’s yard permit area will be larger than two (2) acres and smaller 
+than twenty (20) acres. 
+(B) 
+The contractor’s yard will not be visible year-round from an adjacent parcel of 
+land or public road. The contractor may use natural topography and vegetation 
+or may construct berms or plant vegetation to satisfy this requirement. 
+(C) 
+Storage of tires and equipment will be limited to contractor’s own excavation 
+yard use. 
+(D) 
+Temporary storage of pipe, iron, and tanks, which are not part of the 
+contractor’s equipment, will not exceed two years. 
+69. 
+Existing commercial or industrial uses and structures in the Village District. It is the intent 
+of this Section to provide for the continued existence and operation as well as the 
+reasonable expansion of commercial and industrial uses which exist in the Village District, 
+provided that such uses or structures do not constitute a nuisance or a source of 
+significant environmental pollution. It is not the intent hereof to allow the creation of new 
+commercial or industrial uses which are not permitted under this Section, but rather to 
+protect those enterprises which existed in the Village District as of August 1, 1989. An 
+expansion will require site plan review. 
+70. 
+Existing permitted marinas in the Resource Conservation District – It is the intent of this 
+section to provide for the continued existence and operation as well as the reasonable 
+expansion of marinas in the RCD zoned areas of the County, provided that such uses do 
+not constitute a nuisance or a source of significant environmental pollution. It is not the 
+intent to allow the creation of new marinas, but rather to protect those enterprises which 
+existed in the RCD on April 12, 1988. An expansion will require site plan review by the
+
+<!-- page 107 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 104
+Planning Commission or where applicable the Planning Director. After development there 
+will be a net improvement in water quality at or leaving the site. All marinas in the RCD 
+will comply with all regulations in SECTION 29 MARINE DISTRICT of this Ordinance. 
+71. 
+Existing conference centers, resorts, retreats, hotels, and motels, existing and in use as of 
+August 1, 1989. It is the intent of this section to provide for the continued existence and 
+operation as well as the expansion of conference centers, resorts, retreats, hotels, and 
+motels existing and in use as of August 1, 1989. It is not the intent to permit the creation 
+of new conference centers, resorts, retreats, hotels, or motels, but rather to protect those 
+enterprises that existed in the Resource Conservation District on August 1, 1989. An 
+expansion will require site plan review by the Planning Commission and will require a net 
+improvement in water quality at or leaving the site and may require growth allocation. 
+72. 
+Exposition center or fairgrounds. Such uses will be permitted as special exception only 
+when all of the following conditions are satisfied:  
+(A) 
+The fair ground or exposition center does not result in the development of a 
+major sports arena for football, baseball, drag racing, motor cross, auto racing, 
+or other major sports activities.  
+(B) 
+In the RCD, such uses will be temporary. The Planning Director may require a 
+site plan and place conditions as may be appropriate to assure the compatibility 
+of the temporary recreational use. 
+73. 
+Farm brewery, as defined by the State of Maryland. 
+74. 
+Financial institutions. Such uses are subject to site plan review. 
+75. 
+Fire and rescue stations. Such uses are subject to site plan review. 
+76. 
+Fuel storage and sales for marine purposes only. 
+77. 
+Funeral homes. Such uses are subject to site plan review. 
+78. 
+Golf courses, public or private. Such uses will be permitted as special exceptions only 
+when all of the following conditions are satisfied: 
+(A) 
+The golf course is at least a regulation par 72, 18-hole golf course. 
+(B) 
+The course is managed according to a water conservation plan that addresses 
+water use, including irrigation, and the recapture and reuse of water sources. 
+Irrigation will be the minimum necessary for the operation and maintenance of 
+the course and associated facilities. 
+(C) 
+The course is managed according to integrated pest management and nutrient 
+management plans approved by the University of Maryland Extension Service 
+and the Natural Resources Conservation Service. 
+(D) 
+The site will have access to a public road that can handle the traffic generated 
+by the operation and access of emergency vehicles. The Board of Appeals may 
+require improvements to existing access roads. Should improvements be
+
+<!-- page 108 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 105
+required, a bond, irrevocable letter of credit, or other surety will be posted 
+running to the County Commissioners. 
+(E) 
+The course, including the layout and routing of holes, will be designed to 
+preserve and maintain to the extent possible natural topography, significant 
+trees and landmarks, vegetation, and cover. Wildlife corridors will be preserved 
+and enhanced whenever possible. 
+(F) 
+Buffers, no-mow, and no-spray zones will be adjacent to existing or created 
+wetlands, water bodies, and habitat areas. Native grasses and vegetation will 
+be used within these zones. 
+(G) 
+A 100-foot landscaped area from tees, greens, and fairways will be provided 
+along adjacent property lines. Landscaping will be designed to complement 
+other landscaping occurring naturally on the site. Whenever possible, existing 
+vegetation will be incorporated into the landscape plan. 
+(H) 
+The golf course and driving range will not include lighting. Lighting of the 
+clubhouse, parking, and other areas will be  the minimum necessary for the 
+safety and security of the operation, its employees, and its customers. Lighting 
+fixtures will not exceed 18 feet in height unless mounted on a building and will 
+be designed to avoid glare onto adjacent properties and roadways and will not 
+interfere with traffic or create a traffic hazard. Lighting will be shielded, color 
+corrected, and dark-sky compliant. 
+(I) 
+Parking lots will comply with the landscaping and screening standards per 
+Article V of this Ordinance. 
+(J) 
+Whenever possible, historic buildings should be restored and used as a part of 
+the operation. 
+(K) 
+To assure continued compatibility with the surrounding area, the Board may 
+place additional restrictions on the following: 
+i. 
+Proposed method of irrigation 
+ii. 
+The location of the driving range, holes, cart ways, tees, fairways, roughs, 
+water hazards, maintenance facilities, irrigation, and pumping station 
+iii. Accessory uses such as clubhouses, restaurants, bars, day care, pro shops, 
+pools, tennis courts, comfort facilities, maintenance facilities, golf cart 
+storage, driving range, sod farm for golf course, practice holes, practice 
+putting green, and parking. In RCD the following accessory uses will 
+require growth allocation: clubhouses, restaurants, bars, day care, pro 
+shops, pools, tennis courts, comfort facilities, golf cart storage and 
+parking. 
+79. 
+Greenhouses, wholesale, or retail. In the RC, CAR, and CR Districts, structures will be 
+located at least 200 feet from any property line and will be adequately landscaped.
+
+<!-- page 109 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 106
+80. 
+Guest house, one, but not including mobile homes. Such use will be permitted as an 
+accessory use only when all of the following conditions are satisfied: 
+(A) 
+The house is used exclusively for non-paying guests; and 
+(B) 
+No house will be used as a permanent residence nor be rented or sold 
+separately from the principal dwelling. 
+81. 
+Home and business services such as grounds care, cleaning, exterminators, landscaping, 
+and other repair and maintenance services. Such uses are subject to site plan review. Such 
+uses do not include septic tank maintenance and excavation.  
+82. 
+Home occupations in main or accessory buildings.  
+(A) 
+Intent – The conduct of business in residential units may be permitted under 
+the provisions of this section. It is the intent of this section to: 
+i. 
+Ensure the compatibility of home occupations with other uses permitted 
+in the residential districts; 
+ii. 
+Maintain and preserve the character of residential neighborhoods by 
+regulating the operation of home occupations; 
+iii. Guarantee to all residents freedom from excessive noise, excessive 
+traffic, nuisance, fire hazard, and other possible effects of commercial 
+uses being conducted in residential areas; and, 
+iv. Promote the efficient use of public services and facilities by assuring 
+these services are provided to the residential population for which they 
+were planned and constructed, rather than to new commercial uses. 
+(B) 
+Conditions - Such home occupations in main or accessory buildings will be 
+permitted as accessory uses only when all of the following conditions are 
+satisfied:  
+i. 
+A home occupation will be incidental to the use of a dwelling unit for 
+residential purposes and will be conducted only by members of the 
+family residing in the dwelling unit plus no more than one non-resident 
+assistant or employee. 
+ii. 
+There will be no outdoor storage of materials or products on the 
+premises. 
+iii. The home occupation will not cause any external effect associated with 
+the home occupation, such as increased noise, excessive lighting, or 
+offensive odor, which is incompatible with the characteristics of the 
+residential zone. There will be no illegal discharge of any materials, fluids, 
+or gases into the sewer system or any other manner of discharging such 
+items in violation of any applicable government code. 
+iv. No traffic will be generated by such home occupation in greater volumes 
+than would normally be expected in a residential neighborhood, and any
+
+<!-- page 110 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 107
+need for parking generated by the conduct of such home occupation will 
+be met off the street and other than in a required front yard. 
+ 
+(C) 
+De Minimus impact uses. Home occupations with impacts no greater than those 
+of expected and customary activities at any single-family home, for example, 
+crafting, which are then offered for online sales only. In such cases, a use permit 
+may be issued to document the de minimus impact use at the site. 
+83. 
+Hospitals, rehabilitation facilities, and similar institutions for human care. Such use does 
+not include animal hospitals. 
+84. 
+Hotels and motels. Such uses are subject to site plan review. 
+85. 
+Houses of worship. New construction of such uses will require site plan review. Houses of 
+worship will be permitted as special exception only when all of the following conditions 
+are satisfied: 
+(A) 
+Outdoor public announcement systems and drive in facilities are prohibited. 
+(B) 
+The Board specifically approves accessory uses. In no case will an accessory use 
+be of a type and scale that is normally found in commercial operations. 
+(C) 
+Parking areas will be screened and landscaped according to the standards 
+found in Article V. 
+(D) 
+Any new day care use may be permitted as an accessory use without special 
+exception approval for such uses proposed within existing buildings without 
+additions. Projects that require additions or new buildings are a new special 
+exception, and such projects will be reviewed as a new or amended application. 
+86. 
+Hunting blinds, pits, or preserves but not including trailers and mobile homes. 
+87. 
+Hunting trailer, one, temporary. Such use will be permitted as an accessory use only when 
+all of the following conditions are satisfied: 
+(A) 
+The trailer is installed continually but not longer than from September 1 to the 
+following May 31. 
+(B) 
+The trailer is a minimum of 150 feet from all property lines and not in the buffer 
+or stream protection corridor.  
+(C) 
+Such a trailer will be located around existing buildings and out of sight. 
+(D) 
+The trailer cannot be used for permanent living accommodations. 
+88. 
+Indoor movie theaters, playhouses, and dinner theaters. Such uses are subject to site plan 
+review. 
+89. 
+Livestock auction houses on properties that exceed 20 acres in size with site plan review. 
+90. 
+Machinery and equipment sales, service, and rental.
+
+<!-- page 111 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 108
+91. 
+Manufacture, processing, fabrication, and assembly of products. These uses include, but 
+are not limited to, scientific and precision instruments, photographic equipment, 
+communications 
+equipment, 
+computation 
+equipment, 
+drugs, 
+medicines, 
+pharmaceuticals, household appliances, toys, sporting and athletic goods, glass products, 
+electric lighting and wiring equipment, service industry machines, lithographic and 
+printing processes, industrial controls, radio and TV receiving sets, watches and clocks, 
+bags and containers, sanitary paper products, optical goods, electrical machinery, 
+prefabricated and modular housing and components, dairy product feed and grain, baked 
+and confectioners’ goods, farm machinery, frozen food processing, packing plants, animal 
+and seafood processing, fruit and vegetable processing, canning and storage. In the C 
+District, no manufacture, processing, fabrication, and assembly of products use may be 
+conducted except within the US Route 301 Corridor.  
+These uses in all locations may also include businesses and industries, including research 
+and development companies, of a similar nature to those listed above, subject to review 
+and approval by the Planning Director. In review of a proposed use, the Planning Director 
+will consider the following: 
+(A) 
+The impact of the proposed business or industry on existing or planned public 
+facilities; and 
+(B) 
+The impact of the operation of the facility on the surrounding area; and 
+(C) 
+The health, safety, and general welfare of employees and residents of the 
+neighborhood. 
+92. 
+The manufacture, processing, and assembling of food products in the C district, to include 
+baked and confectioners’ goods, frozen food processing, fruit and vegetable processing, 
+canning and storage, or businesses of a similar nature, excluding animal and seafood 
+processing, will be permitted as a special exception only when all of the following 
+conditions are satisfied:  
+(A) 
+That in reviewing the site plan and determining the suitability of the proposed 
+location, the Planning Commission will find all of the following: 
+i. 
+Existing or planned public facilities are adequate to handle the usage 
+generated by the business. The use does not require improvements to 
+public facilities detrimental to the character of the area. 
+ii. 
+The proposed use does not create an unacceptable impact on the 
+surrounding area by way of noise, odor, noxious materials, or other 
+nuisances. The Planning Commission may require a Certified Engineer’s 
+Report describing the proposed operation, all machines, processes, 
+products and byproducts, stating the nature and expected levels of 
+emissions or discharge to land, air, water or liquid, solid, or gaseous 
+effluent and electrical impulses, vibrations and noise under normal 
+business and the specifications or treatment methods and mechanisms to 
+be used to control such emissions or discharge.
+
+<!-- page 112 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 109
+iii. The health, safety, and general welfare of employees and residents of the 
+neighborhood will be protected. 
+(B) 
+All uses will be conducted within a completely enclosed structure. Outdoor 
+storage of materials and unfinished products is prohibited. 
+(C) 
+The business does not exceed 10,000 square feet of gross floor area. This 
+limitation does not apply to the properties located in the Route 301 Corridor.   
+93. 
+Manufacture of concrete and ceramics products, commercial sawmills, sewage treatment 
+plants, and lumberyards. Such use will be located at least 400 feet from any residential 
+district boundary. Outdoor storage of materials is prohibited unless otherwise permitted 
+by the Planning Commission and subject to conditions as may be determined by the 
+Planning Commission during site plan review. 
+94. 
+Manufacture, processing, and distribution of hot mix asphalt (a.k.a. bituminous concrete 
+or asphalt concrete). Such use will include the storage of raw materials on-site. Such use 
+will not include the refining of asphalt cement on the site. Such use will not be located 
+further than two miles from Route 301. 
+95. 
+Marinas. Such uses are subject to site plan review.  
+96. 
+Marine supply store including indoor outboard motor sales. Such uses are subject to site 
+plan review.  
+97. 
+Microbrewery, as defined by the State of Maryland.  
+98. 
+Migrant labor camps. 
+99. 
+Mini storage facilities.  
+100. 
+Mobile homes existing and in use as of January 16, 1996. Mobile homes existing and in 
+use as of January 16, 1996, may be continued in use and may be replaced with another 
+mobile home, provided the replacement mobile home complies with the Kent County 
+Codes and all Health Department regulations. It is not the intent of this provision to allow 
+additional, single-site mobile homes in the County, but rather to allow the continued use 
+and improvement (including replacement) of mobile homes existing as of January 16, 
+1996. A mobile home that remains idle or unused for a continuous period of two years 
+will not be used again except in conformity with these regulations. Mobile home parks 
+may be permitted and must meet the requirements below.  
+101. 
+Mobile home parks. Such use will be permitted as special exception only when all of the 
+following conditions are satisfied: 
+(A) 
+The property is served by public water and sewer. 
+(B) 
+The overall density of the park does not exceed 10 dwelling units per acre. 
+(C) 
+Each mobile home space will have a minimum area of 4,000 square feet with a 
+minimum width of 40 feet. 
+(D) 
+Each mobile home space will provide the following yards:
+
+<!-- page 113 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 110
+i. 
+Front yard – 20 feet 
+ii. 
+Side yards – 8 feet 
+iii. Rear yard – 10 feet 
+(E) 
+The minimum area of the mobile home park including roads and open space 
+will be 5 acres. 
+(F) 
+The maximum area of the mobile home park including roads and open space 
+will not exceed 25 acres. 
+(G) 
+All utilities within the mobile home park will be underground. 
+(H) 
+A minimum of 4,000 square feet or 100 square feet per unit of common 
+recreation area, whichever is greater, will be provided. 
+(I) 
+No individual mobile home space will have direct access onto a public or private 
+road outside the mobile home park. Each mobile home space will have direct 
+access to an internal road. 
+(J) 
+Storage of unoccupied and/or damaged mobile homes is prohibited. 
+(K) 
+The mobile home park will not be visible year round from adjacent properties 
+and the public road. 
+(L) 
+A minimum 20-foot vegetative screen is provided between the mobile home 
+park and adjacent properties and the public road. 
+(M) 
+The mobile home park has direct access onto a public road 
+(N) 
+A single mobile home on a site is not eligible to be a mobile home park. 
+102. 
+Modular building sales. Such use does not include the storage of modular buildings.  
+103. 
+Multi-Family and Two-Family Dwellings in AZD. Such uses will be permitted only when all 
+of the following conditions are satisfied: 
+(A) 
+The multi-family or two-family dwellings existed on the property prior to 
+August 1, 1989; 
+(B) 
+The sale or lease of at least 50% of the multi-family or two-family dwellings is 
+restricted to an amount affordable to individuals or families earning no greater 
+than 100% of the County median income as determined by the United States 
+Census Bureau; 
+(C) 
+The dwellings are served by public water and sewerage service; 
+(D) 
+The minimum site area will be five (5) acres; and 
+(E) 
+If subdivision approval is sought: (1) minimum lot size, setback and yard 
+requirements, maximum height of structures, and off-street parking 
+requirements will be determined by the Planning Commission; (2) open space 
+will be provided as required in Article IV; (3) forest conservation requirements 
+will be satisfied; and (4) site access standards will be met in so far as possible.
+
+<!-- page 114 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 111
+104. 
+Multi-family dwellings. Such uses are subject to site plan review. 
+105. 
+Multi-Family and Two-Family Dwellings in AZD. Such uses will be permitted only when all 
+of the following conditions are satisfied: 
+(A) 
+The multi-family or two-family dwellings existed on the property prior to 
+August 1, 1989; 
+(B) 
+The sale or lease of at least 50% of the multi-family or two-family dwellings is 
+restricted to an amount affordable to individuals or families earning no greater 
+than 100% of the County median income as determined by the United States 
+Census Bureau; 
+(C) 
+The dwellings are served by public water and sewerage service; 
+(D) 
+The minimum site area will be five (5) acres; and 
+(E) 
+If subdivision approval is sought: (1) minimum lot size, setback and yard 
+requirements, maximum height of structures, and off-street parking 
+requirements will be determined by the Planning Commission; (2) open space 
+will be provided as required in Article IV; (3) forest conservation requirements 
+will be satisfied; and (4) site access standards will be met in so far as possible. 
+106. 
+Multi-level boat storage. Such use will be permitted as a special exception only when all 
+of the following conditions are satisfied: 
+(A) 
+The use excludes dinghy storage. 
+(B) 
+The building is enclosed on three sides. 
+(C) 
+The open end of the building does not face the road. 
+(D) 
+The building is 100 feet from all property lines. 
+(E) 
+The building does not exceed 55 feet in height, 100 feet in length, and 6,000 
+square feet in ground floor area. 
+(F) 
+Trailers are not stored on the premises. 
+(G) 
+Appropriate sanitary and pump out facilities are available on site. 
+(H) 
+Boat ramps, lifts, railways, or other facilities for access to the water are 
+available on site. In no case will a boat cross a public road to access the water. 
+107. 
+Neighborhood retail businesses in the Village and Intense Village districts. Neighborhood 
+retail businesses are those businesses which supply household commodities on the 
+premises such as groceries, meats, dairy products, baked goods, or other foods, drugs, 
+notions, flowers or hardware. All retail sales will be conducted entirely within a building, 
+except where otherwise approved by the Planning Commission. Other uses and structures 
+which meet the criteria specified above may be approved by the Department. 
+Neighborhood retail businesses will require a site plan. All neighborhood retail business 
+buildings are limited to a footprint of 10,000 square feet.
+
+<!-- page 115 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 112
+108. 
+Off-street parking and loading, including the parking of commercial vehicles related to 
+the operation of an on-site business. 
+109. 
+Offices. Such uses are subject to site plan review.  
+110. 
+Outdoor entertainment. 
+111. 
+Outdoor recreation, miniature golf, but not golf courses. 
+112. 
+Parking of commercial vehicles on a farm. Such uses will be permitted as accessory uses 
+only when all of the following conditions are satisfied:  
+(A) 
+The vehicles are related to the operation of the farm or three non-farm related 
+vehicles. 
+(B) 
+The vehicles are parked around existing buildings. Non-farm related vehicles 
+cannot be parked on farms without buildings. 
+(C) 
+The vehicles have current licenses and are operable. 
+113. 
+Personal service establishments. For the purposes of this ordinance, such uses will mean 
+those which perform services on the premises for persons residing in adjacent residential 
+areas such as shoe repair, dry cleaners, tailors, laundromats, beauty parlors, barber 
+shops, and the like. All personal service uses will be conducted entirely within a building. 
+Other uses and structures which meet the criteria specified above may be approved by 
+the Department. Personal service activities require site plan review. 
+114. 
+Personal wireless facilities, collocated on existing towers. Such uses will be collocated on 
+existing towers, water towers, electrical transmission towers, fire towers, silos, grain 
+dryers, or other structures. The height of the existing structure will not be above that 
+permitted by this Ordinance.  
+115. 
+Personal wireless facility towers, commercial radio, and television towers. Such uses will 
+be permitted as special exception only when all of the following conditions are satisfied: 
+(A) 
+The applicant demonstrates that the alternatives of consolidating the facility 
+on an existing tower structure or incorporating the facility on a structure or 
+water tower have been fully exhausted. 
+(B) 
+The applicant demonstrates a public need for the tower. 
+(C) 
+As part of applications for personal wireless facility towers only, the applicant 
+demonstrates a comprehensive approach to facilities with a goal of minimizing 
+the number of sites required. 
+(D) 
+The height of the tower, including antennas and appurtenances will not exceed 
+199 feet unless a variance is granted. 
+(E) 
+All towers and their accessory buildings will comply with the building setback 
+provisions of the applicable zoning district. In addition, the minimum from the 
+ground base of any tower to any property line, road, or public recreational area 
+will be the height of the tower including any antennas or other appurtenances. 
+This setback is considered a “fall zone.” The Board of Appeals may reduce the
+
+<!-- page 116 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 113
+fall zone by 50% of the required distance if it finds that a substantially better 
+design will result from such a reduction. In making such a finding, the Board 
+will consider both the visual and safety impacts of the proposed use. 
+(F) 
+Monopoles or lattice towers will be the preferred tower structure in the 
+County. 
+(G) 
+The appearance of the tower structure will be minimized by the reasonable use 
+of commercially available technology to reduce visual impact, with specific 
+reference to size, color, and silhouette properties. 
+(H) 
+Equipment shelters will be designed consistent with traditional Eastern Shore 
+architectural styles and materials with a pitched roof of at least 10/12. The 
+shelters will be camouflaged behind an effective year-round buffer of existing 
+dense vegetation that exceeds the height of the proposed buildings. The 
+Planning Commission may set aside the requirements for shelter design when 
+it finds that the existing vegetation will provide adequate year-round screening 
+of the buildings. 
+(I) 
+The tower will be sited within or adjacent to mature dense tree growth and 
+understory vegetation that provides an effective year-round visual buffer and 
+should only be considered elsewhere on the property when technical or 
+aesthetic reasons indicate there are no other preferable locations. Where 
+necessary, the Board will require the installation of a vegetated buffer of 
+sufficient height and depth to create an effective year-round visual buffer. 
+(J) 
+Towers will be lit only if required by the FAA. Lighting of equipment shelters 
+and other facilities on site will be shielded from other properties. 
+(K) 
+Signs will be limited to identify the property owner, emergency contact, and to 
+warn of danger. 
+(L) 
+As part of applications for personal wireless facility towers only, a tower will 
+not be within a 5-mile radius of any existing towers used for personal wireless 
+facilities unless the applicant demonstrates a public need due to capacity or 
+other service limitations. 
+(M) 
+The tower will be used continuously. In the event the tower ceases to be used 
+for a period of six months, the approval will terminate. The property owner will 
+insure the tower removal within ninety days after the termination.  
+. 
+(N) 
+The facility will comply with all FCC and ANSI standards. 
+(O) 
+The applicant will demonstrate that a tower will not unreasonably interfere 
+with the view of, or from, sites of significant public interest such as public parks, 
+a national or state designated scenic byway, a structure listed in the Kent 
+County Historic Site’s survey, an historic district, or the Chesapeake Bay and its 
+tributaries.
+
+<!-- page 117 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 114
+(P) 
+All applications for approval of a tower will include: 
+i. 
+A description of the facility and proposed licensed carriers. A licensed 
+carrier will be the applicant, the co-applicant, or have a binding 
+agreement with the tower company. 
+ii. 
+Coverage maps showing the area to be served by the proposed facility 
+and the coverage available under existing facilities, approved facilities, 
+and other appropriate structures. 
+iii. A master plan of the applicants proposed communications network for 
+the entire county. 
+iv. Siting elevations, existing photography, and a photo simulation from all 
+directions. 
+v. 
+Coverage, interference, and capacity analysis. The Director of Emergency 
+Management may review the interference analysis. 
+vi. A copy of all reports required by or provided to the Federal 
+Communications Commission including, but not limited, to the 
+Environmental Assessment, NEPA Review, and SHPO Review. 
+vii. Computer modeling used in selecting the site. 
+viii. A narrative that explains how the site will not unreasonably interfere with 
+the view of, or from, sites of significant public interest such as public 
+parks, a national or State designated scenic byway, a structure listed in 
+the Kent County Historic Site’s survey, an historic district, or the 
+Chesapeake Bay and its tributaries.  
+116. 
+Printing and publishing. Such use will be permitted as a special exception only when the 
+operation is in compliance with the regulations of the State of Maryland. 
+117. 
+Private clubs. When located in the RCD, such uses will be limited to 15% lot coverage. 
+118. 
+Private destination/residence clubs in the Marine zoning district only. Such uses are 
+subject to the following conditions: 
+(A) 
+The aggregate Marine zoned property will consist of four (4) or more acres. 
+(B) 
+The facilities for such overnight accommodations will pay the appropriate 
+County taxes, including taxes payable under Chapter 152 of the Code of Public 
+Local Laws of Kent County. 
+(C) 
+The facilities for overnight accommodations will use a reservation system. 
+(D) 
+Permitted accessory uses may include clubhouse, restaurants, cafés or other 
+dining facilities; bars, pubs or taverns; recreational facilities, such as tennis 
+courts, swimming pools, and spas and other accessory uses that are customarily 
+associated with a lodging facility. The permitted accessory uses will not include 
+trap, skeet, clay birds, paint ball, or other similar firearm activities. The 
+applicant will describe all proposed accessory uses in the application for site
+
+<!-- page 118 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 115
+plan. Recreational facilities will be at least twenty-five (25) feet from the 
+nearest property line.  
+(E) 
+Where they exist, listed historic structures will be incorporated into the overall 
+project. 
+(F) 
+Significant view corridors, both from the site and onto the site, will be 
+preserved as far as possible. 
+(G) 
+The height of all structures will not exceed thirty-eight (38) feet. 
+(H) 
+Parking lots will be landscaped as required for commercial developments per 
+Article V of this Ordinance. 
+(I) 
+The approval of such a facility for overnight accommodations will not impose 
+restrictions that will preclude the use of the marina and property for 
+commercial marine uses permitted in the Marine Zoning District, including boat 
+building, storage, and repair; however, the continuation of these uses will not 
+be required. The maintenance and continuation of boat slips will be required. 
+(J) 
+The County may require connection to a public sewer system, if and when such 
+system is available. 
+(K) 
+Campgrounds, mobile homes, recreational vehicle and manufactured home 
+parks will not be considered private destination or residence clubs. 
+119. 
+Private garages, swimming pools, game courts, and other customary residential 
+outbuildings and structures. Such uses will be permitted as accessory uses only when all 
+of the following conditions are satisfied: 
+(A) 
+On parcels less than five acres, accessory structures do not exceed 2,000 square 
+feet or the height of the primary residential structure. Where an accessory 
+structure is proposed to exceed 2,000 square feet or the height of the primary 
+residential structure on a parcel of less than five acres, it may be permitted if 
+granted an administrative special exception. 
+(B) 
+Accessory sheds may be located in the rear yard of a waterfront property, no 
+closer than five feet to any road, via an administrative special exception. 
+(C) 
+Swimming pools, swimming pool equipment, and related structures may be 
+located in the front yard of a waterfront property and may be permitted 
+without submittal for an administrative special exception. 
+120. 
+Private piers, community piers, and private shared piers. Such uses will be permitted as 
+accessory uses only when all of the following conditions are satisfied: 
+(A) 
+The private pier, community pier, or private shared pier does not exceed 25% 
+of the width of the waterway, the edge of the channel, or 150 feet in length, 
+whichever is less. 
+(B) 
+The private pier, community pier, or private shared pier is subject to the 
+stipulations of Article VI of this Ordinance.
+
+<!-- page 119 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 116
+(C) 
+Regulations governing community piers may be found in Article VI. 
+121. 
+Private schools. 
+122. 
+Production of biofuels. Such use will be permitted as special exception only when all of 
+the following conditions are satisfied:  
+(A) 
+The facility will be located within the US Route 301 Corridor. 
+(B) 
+The applicant demonstrates a clear, identifiable market for the byproducts of 
+the facility. 
+(C) 
+The operation does not disturb the minimum 100-foot buffer or stream 
+protection corridor. 
+(D) 
+The operation does not adversely affect a non-tidal wetland directly or 
+hydrologically. 
+(E) 
+To assure continued compatibility with the surrounding area, the Board may 
+place additional restrictions on the following: 
+i. 
+Screening and landscaping from adjacent properties and public roads. 
+ii. 
+Exterior displays, lighting, and signs. 
+iii. The location of access routes to the site, both onsite and off-site. 
+123. 
+Public and private forests, wildlife reservations, and similar conservation projects. 
+124. 
+Public and private parks and playgrounds for the purpose of conserving and enjoying 
+natural resources. For the purposes of this Ordinance, such uses will include both active 
+and passive parks owned and operated by Kent County, the State of Maryland, or federal 
+government, but will not include any commercial play fields for football, baseball, and any 
+other major sports activities such as motocross or drag racing fields. These latter uses are 
+prohibited throughout Kent County. 
+125. 
+Public landings. Such uses will be permitted as special exception only when all of the 
+following conditions are satisfied: 
+(A) 
+Adequate sanitary facilities exist. 
+(B) 
+Service facilities are to the extent possible outside the 100-foot buffer. 
+(C) 
+Permeable surfaces are used to the extent practicable, if no degradation of 
+groundwater would result. 
+(D) 
+Disturbance to natural vegetation is minimized. 
+(E) 
+Areas for passive recreation, such as nature study, and for education, may be 
+permitted in the buffer within the Resource Conservation Areas, if service 
+facilities for these uses are outside the buffer. 
+126. 
+Public uses, buildings, and utilities. Public buildings include but are not limited to schools, 
+offices, parks, playgrounds, and roads funded, owned, and operated by local, State, or 
+federal agencies. Public utilities are water, sewer, electric, gas, oil, and communication
+
+<!-- page 120 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 117
+facilities owned and operated by the Kent County Department of Public Works or another 
+public utility. Public utilities improvements located on sites and in the public rights-of-way 
+include substations, poles, lines, transformers, underground pipes, meters, treatment 
+facilities, pumping stations, and appurtenances but not overhead transmission towers. 
+The following items require site plan review: schools, offices, playgrounds, treatment 
+facilities, water towers, substations, and transformers; distribution/transmission 
+improvements do not require special exceptions.  
+127. 
+Public utility buildings, structures, water treatment plants, and transmission lines in 
+Employment Center and ECCA. Such uses do not include transportation facilities and 
+utility transmission facilities, except those necessary to serve permitted uses, or where 
+regional or interstate facilities will cross tidal waters (utility transmission facilities do not 
+include power plants); and such uses do not include permanent sludge handling, storage, 
+and disposal facilities, other than those associated with wastewater treatment facilities. 
+However, agricultural or horticultural use of sludge under appropriate approvals when 
+applied by an approved method at approved application rates may be permitted in the 
+Critical Area, except in the 100-foot buffer. 
+128. 
+Public utility lines and accessory structures in Marine districts. Such uses will comply with 
+the following conditions: 
+(A) 
+The structures are screened from the road and adjacent properties; and 
+(B) 
+In so far as possible, structures are located to maintain significant views; and 
+(C) 
+In so far as possible, structures are not visually intrusive to the neighborhood. 
+129. 
+Pubs, taverns, and bars, including open air facilities. Such uses will be permitted as special 
+exception only when all of the following conditions are satisfied: 
+(A) 
+The project is designed to minimize impact on neighboring properties, 
+particularly residential properties either with open space, landscaping, or 
+structure design. 
+(B) 
+Measures are taken to limit any adverse effects of the use on development of 
+the surrounding area due to noise, odor, traffic, lights, or any other reason. 
+(C) 
+Loading areas, dumpsters, and other unsightly site elements will be screened 
+from adjacent properties and the public view. 
+130. 
+Radio and television towers, commercial. See personal wireless facility towers.  
+131. 
+Railroad right of ways. Such use includes a strip of land with tracks and auxiliary facilities 
+for track operations; but such use does not include passenger stations, freight terminals, 
+switching and classification yards, repair shops, round houses, interlocking towers, and 
+fueling, sanding, and watering stations. Such use will be permitted in the RCD only when 
+such use existed as of April 12, 1988. 
+132. 
+Recreational facilities, privately or commercially owned. Such uses do not include major 
+sports arenas for football, baseball, drag racing, motocross, or other major sports 
+activities. These latter uses are prohibited throughout Kent County.
+
+<!-- page 121 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 118
+133. 
+Recreational uses, indoor, commercial. Such use includes game courts, swimming pools, 
+and other like recreational facilities and is subject to site plan review. 
+134. 
+Resorts. Such uses will be permitted as special exception only when all of the following 
+conditions are satisfied: 
+(A) 
+The parcel(s) on which the resort is proposed will be at least 250 acres. 
+(B) 
+The resort will not exceed 750 acres.  
+(C) 
+The resort has at least 40 but not more than 225 guest rooms.  
+(D) 
+The project includes a regulation par 72, 18-hole golf course. The golf course 
+will meet all the requirements found in this Ordinance. 
+(E) 
+Permanent theme parks, amusement parks, and/or stadiums are prohibited.  
+(F) 
+Where applicable, the applicant has applied for growth allocation from the 
+County. Special exception approval will not be valid without the granting of 
+growth allocation. 
+(G) 
+The Board will make specific findings on the availability of public and 
+governmental services. 
+(H) 
+Where they exist, historic structures will be incorporated into the overall 
+project. 
+(I) 
+Significant view corridors, both from the site and onto the site will be preserved 
+in so much as possible. 
+(J) 
+The height of all structures will not exceed 38 feet. 
+(K) 
+The design of the resort and accessory uses will reflect and complement the 
+rural character of the area. 
+(L) 
+The number of dwelling units will not exceed that which is permitted in the 
+applicable zoning district. Dwelling units may be detached or attached.  
+(M) 
+Continuous residential lot development aligned with golf course fairways will 
+be prohibited within the Critical Area and discouraged elsewhere. 
+(N) 
+Parking lots will be landscaped as required for commercial developments in 
+Article V of this Ordinance.  
+(O) 
+Permitted accessory uses include restaurants, recreational facilities such as 
+tennis courts and swimming pools; spas; retail use provided the establishments 
+are in the main building with the entrance to the retail use from the inside the 
+building; stables, equestrian center, other recreation amenities but not 
+including trap, skeet, clay birds, paint ball or other similar firearm activities, 
+piers and; other accessory uses that are customarily associated with a resort. 
+The applicant will describe all proposed accessory uses in the application for a 
+special exception. The Board of Appeals may deny or limit the size and extent 
+of accessory uses.
+
+<!-- page 122 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 119
+(P) 
+The number of slips on the accessory pier is limited to 25% of the number of 
+guest rooms and is limited to use by those using the resort facilities. Accessory 
+piers will meet all requirements applicable to marinas such as pump outs, 
+restrooms, and showers. 
+(Q) 
+All structures will comply with the minimum 100-foot buffer from mean high 
+tide and 500 feet from all side and rear property lines whichever is greater. 
+(R) 
+In RCD, RC, RR, and CAR at least 60% of the property will be in open space. A 
+golf course will be considered open space. However, additional open space 
+beyond that provided by the golf course is required. 
+(S) 
+The Board of Appeals may place additional restrictions on the following: 
+i. 
+Additional yard requirements for all structures, including patios, and 
+places of public assembly 
+ii. 
+Lighting 
+iii. Landscaping and screening  
+iv. Outdoor activities, outdoor music, and their hours of operation 
+v. 
+Access 
+(T) 
+Application for a resort will include a sketch plan and renderings of all primary 
+and each type of accessory structure.  
+135. 
+Restaurants without drive through facilities. Such uses are subject to site plan review. 
+136. 
+Restaurants with drive through facilities in the Route 301 Corridor. Such uses are subject 
+to special exception use approval by the Planning Commission and the Board of Appeals.  
+137. 
+Retail businesses with less than 60,000 square feet of gross floor area. Such uses will be 
+permitted only when all of the following conditions are satisfied:  
+(A) 
+All retail sales and/or storage will be conducted entirely within a building 
+except where otherwise approved by the Planning Commission on a site plan. 
+(B) 
+The building size does not exceed 60,000 square feet of gross floor area.  
+(C) 
+In the M District, such uses will be accessory to a principal use and may include 
+the sale of groceries, beverages, food, clothing, marine supplies, and similar 
+products. 
+138. 
+Retail businesses with more than 60,000 square feet of gross floor area. Such uses will be 
+permitted as special exception only when all of the following conditions are satisfied: 
+(A) 
+The proposed development will not adversely affect existing commercial 
+centers and businesses as demonstrated by an economic impact study. 
+(B) 
+The traffic impact will not lower the level of service more than one level of 
+service or in any case below Level of Service C as demonstrated by a traffic 
+impact study.
+
+<!-- page 123 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 120
+(C) 
+The proposed development will not adversely affect the environment as 
+demonstrated by an environmental impact study. 
+(D) 
+All retail sales and/or storage will be conducted entirely within a building 
+except where otherwise approved by the Planning Commission 
+(E) 
+The Planning Commission has reviewed the preliminary site plan. 
+(F) 
+The Board of Appeals may place additional restrictions on the following: 
+i. 
+Additional yard requirements for all structures. 
+ii. 
+Lighting 
+iii. Landscaping and screening  
+iv. Access 
+(G) 
+The application will include a preliminary plan and renderings of all primary and 
+accessory structures.  
+139. 
+Retail businesses located within the Route 301 Corridor are permitted without size limits.  
+140. 
+Retail nurseries and greenhouses.  
+141. 
+Retail sales of products produced on-site in the Employment Center and ECCA. 
+142. 
+Retreats. Such uses will be permitted as special exception only when all of the following 
+conditions are satisfied:  
+(A) 
+The project will collectively consist of at least 15 acres. 
+(B) 
+In AZD, the retreat uses buildings that existed prior to August 1, 1989. Buildings 
+are limited to a 50% expansion of the gross floor area of each individual building 
+above that which existed as of August 1, 1989. 
+(C) 
+The retreat has at least 10 but not more than 40 guest rooms.  
+(D) 
+Permanent theme parks, amusement parks, and/or stadiums are prohibited.  
+(E) 
+Where applicable, the applicant has applied for growth allocation. Special 
+exception approval will not be valid without the granting of growth allocation. 
+(F) 
+The Board will make specific findings on the availability of public and 
+governmental services. 
+(G) 
+Where they exist, historic structures will be incorporated into the overall 
+project. 
+(H) 
+Significant view corridors, both from the site and onto the site will be preserved 
+in so much as possible. 
+(I) 
+The height of all structures will not exceed 38 feet. 
+(J) 
+The design of the retreat and accessory uses will reflect and complement the 
+rural character of the area.
+
+<!-- page 124 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 121
+(K) 
+One residential unit for use by an employee of the retreat may be provided.  
+(L) 
+Permitted accessory uses include kitchen and dining facilities for guests only, 
+recreational facilities such as tennis courts and swimming pools; spas; other 
+recreation amenities but not including trap, skeet, clay birds, paint ball or other 
+similar firearm activities, piers; and other accessory uses that are customarily 
+associated with a retreat. The applicant will describe all proposed accessory 
+uses in the application for a special exception. The Board of Appeals may deny 
+or limit the size and extent of accessory uses. 
+(M) 
+The number of slips on an accessory pier may not exceed 5. 
+(N) 
+The retreat will be limited to 10 buildings. In AZD, the retreat is limited to 
+existing buildings. 
+(O) 
+All structures will comply with the minimum 100-foot buffer. Primary buildings 
+will be 100 feet from all property lines or comply with the minimum 100-foot 
+buffer, whichever is greater. Accessory structures may be 5 feet from the rear 
+or side property line. 
+(P) 
+At least 60% of the property will be in open space. 
+(Q) 
+Parking lots will be landscaped as required for commercial developments in 
+Article V of this Ordinance.  
+(R) 
+The Board of Appeals may place additional restrictions on the following: 
+i. 
+Additional yard requirements for all structures, including patios and 
+places of public assembly 
+ii. 
+Lighting 
+iii. Landscaping and screening  
+iv. Outdoor activities and outdoor music and their hours of operation 
+v. 
+Access 
+(S) 
+The application for a retreat will include a sketch plan and renderings of all 
+primary and each type of accessory building and structure.  
+143. 
+Rifle and pistol ranges. Such uses will include trap and skeet shooting, sporting clays, or 
+similar activities such as paint ball, and may include accessory snack bars and retail sales 
+of shooting supplies and equipment, commercial or private club. Such uses will be 
+permitted as special exception only when all of the following conditions are satisfied:  
+(A) 
+The surrounding area is predominately undeveloped. 
+(B) 
+Such uses will be for the period of time as determined by the Board. However, 
+outdoor night shooting is prohibited at rifle and pistol ranges. 
+(C) 
+Proposed accessory uses, such as stores, snack bars, and recreational vehicle 
+parking are included in the application and specifically approved by the Board.
+
+<!-- page 125 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 122
+144. 
+Roadside stands. Such uses will be permitted as accessory uses only when all of the 
+following conditions are satisfied: 
+(A) 
+Such roadside stands offer for sale only locally grown fresh agricultural 
+products in season. 
+(B) 
+Such roadside stands are operated by the owner, lessee, or tenant of the 
+premises upon which such stand is located.  
+(C) 
+Adequate off-street parking will be provided.  
+(D) 
+Such stands will be completely removed at the end of the local fresh produce 
+season. 
+145. 
+Rooming, boarding, and lodging houses.  
+146. 
+Rural inns. Such uses will be permitted as special exceptions only when all of the following 
+conditions are satisfied: 
+(A) 
+The project will collectively consist of at least 20 acres.  
+(B) 
+In AZD, the Rural Inn uses buildings that existed prior to August 1, 1989. 
+Buildings are limited to a 50% expansion of the gross floor area of each 
+individual building above that which existed as of August 1, 1989. 
+(C) 
+The Rural Inn has at least 10 but not more than 25 guest rooms. Overnight 
+lodging will not exceed 45 consecutive days. 
+(D) 
+Permanent theme parks, amusement parks, and/or stadiums are prohibited. 
+(E) 
+The Board will make specific findings on the availability of public and 
+governmental services. 
+(F) 
+Where they exist, historic structures will be incorporated into the overall 
+project. 
+(G) 
+Significant view corridors, both from the site and onto the site will be preserved 
+in so much as possible. 
+(H) 
+The height of all structures will not exceed 38 feet. 
+(I) 
+The design of the Rural Inn and accessory uses will reflect and complement the 
+rural character of the area. 
+(J) 
+Two residential units for use by employees of the Rural Inn may be provided. 
+(K) 
+Permitted accessory uses include kitchen and dining facilities. Dining facilities 
+may be provided to patrons in addition to guests registered for overnight 
+lodging provided seating will not exceed 40 seats over and above those seats 
+needed to accommodate the maximum number of lodging guests based on two 
+(2) individuals per room; recreational facilities such as tennis courts and 
+swimming pools; other recreational amenities but not including trap, skeet, 
+clay birds, paint ball or other similar firearm activities; and other accessory uses 
+that are customarily associated with a Rural Inn. The applicant will describe all
+
+<!-- page 126 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 123
+proposed accessory uses in the application for a special exception. The Board 
+of Appeals may deny or limit the size and extent of accessary uses. 
+(L) 
+The Rural Inn may not exceed 15 buildings. In AZD, the Rural Inn is limited to 
+existing buildings. 
+(M) 
+At least 60% of the property will be in open space. 
+(N) 
+Parking lots will be landscaped as required for commercial developments in 
+Article V of this Ordinance. 
+(O) 
+All building associated with the principal uses of the Rural Inn, as well as the 
+permitted accessory uses listed in paragraph (k) of this subsection, will be a 
+minimum of 100 feet from all property lines.  
+(P) 
+The Board of Appeals may place additional restrictions on the following:  
+i. 
+Additional yard requirements for all structures, including patios and 
+places of public assembly 
+ii. 
+Lighting 
+iii. Landscape and screening 
+iv. Outdoor activities and outdoor music and their hours of operation 
+v. 
+Access 
+vi. Location and hours of operation of kitchen and dining facilities open to 
+the public 
+(Q) 
+The application for a Rural Inn will include a sketch plan and renderings of all 
+primary and each type of accessory building and structure.  
+147. 
+Sand and gravel pits, excavation, or extraction. Such use does not include the removal of 
+sod, and excavation for foundations, swimming pools, soil and water conservation 
+practices, and those removals approved in connection with farm use, street construction, 
+subdivision or planned residential development. Such use will be permitted as special 
+exception only when all of the following conditions are satisfied: 
+(A) 
+Material is not brought from off-site for processing, mixing, or similar uses 
+(B) 
+The excavation or extraction operation will be controlled to offer reasonable 
+protection to surrounding properties and the neighborhood, particularly as 
+regards to use of residential streets for access to the site. 
+(C) 
+There are no known threatened or endangered species, areas of specific value, 
+or rare assemblages of species or other vital habitat at the site. 
+(D) 
+In RCD and CAR, highly erodible soils are not disturbed at the site. 
+(E) 
+The operation will not disturb for future use prime agricultural lands or forest 
+and developed woodlands of more than one acre. 
+(F) 
+The operation will not degrade water quality.
+
+<!-- page 127 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 124
+(G) 
+The operation does not disturb the minimum 100-foot buffer or stream 
+protection corridor. 
+(H) 
+The operation is under an approved operating and restoration plan from the 
+State of Maryland. 
+(I) 
+The operation does not adversely affect a non-tidal wetland directly or 
+hydrologically. 
+(J) 
+The location of the excavation or extraction with respect to property lines, the 
+depth of excavation, and relation to the water table or flood criteria and the 
+slope of the sides of the excavation will be controlled to prevent a continuing, 
+unsightly, hazardous, or wasteful condition of the land. 
+148. 
+Sanitary landfill or rubblefill. Such use will be permitted as a special exception only when 
+the use is owned or managed by Kent County in AZD and provides a 100-foot-deep 
+vegetative screen along all property lines. 
+149. 
+Satellite dish, private, with an antenna exceeding 3 feet in diameter. Such use will be 
+permitted as an accessory use only when all of the following conditions are satisfied: 
+(A) 
+No antenna will exceed an overall diameter of 12 feet or an overall height of 
+15 feet above existing grade. 
+(B) 
+The antenna will be permanently ground-mounted. An antenna will not be 
+installed on portable or moveable structures. 
+(C) 
+The antenna will be totally screened along the non-receptive axis, and low-level 
+ornamental landscaping will be installed along the reception window axis of 
+the base of the antenna. Screening may consist of fencing or a variety of plant 
+types. Screening may be set aside when the antenna is located 100 feet from 
+all property lines, or the antenna is not visible or intrusive to the neighborhood. 
+(D) 
+In, RC, CAR, and CR: The final installation should be blended carefully with the 
+surrounding landscape. 
+150. 
+Satellite dish, private, with an antenna of 3 feet or less in diameter. Such use will be 
+permitted as an accessory use only when all of the following conditions are satisfied: 
+(A) 
+Satellite dish use will not be installed on portable or movable structures. 
+(B) 
+In the RCD, the satellite dish is located only in the rear yard. 
+151. 
+Sawmills, temporary, for cutting timber grown on the premises.  
+152. 
+School bus parking lot. Such use will be permitted as special exception only when all of 
+the following conditions are satisfied:  
+(A) 
+No part of the school bus parking facility will be in the 100-year floodplain. 
+(B) 
+Areas for school bus parking, fueling, or repair are a minimum of 100 feet from 
+any residence. 
+(C) 
+Areas for school bus parking are 100 feet from wetlands.
+
+<!-- page 128 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 125
+(D) 
+Areas for school bus repair are enclosed in a building. Outdoor repair or storage 
+of materials or products is prohibited. 
+(E) 
+All buses will have current licenses and be operable. 
+(F) 
+The Board determines that all access roads are capable of handling the traffic 
+generated and that a safe route for school buses traveling to and from the 
+facility is provided. 
+(G) 
+Areas for parking and cartways are paved. 
+(H) 
+The site is screened from adjacent properties and public roads. 
+(I) 
+Adequate restroom facilities will be provided. 
+153. 
+School buses, limited to five on farms in AZD. Such uses will be permitted as accessory 
+uses only when the buses are parked around existing buildings and the buses have current 
+licenses and are operable.  
+154. 
+School buses, limited to two, parked. Such uses will be permitted as accessory uses only 
+when all of the following conditions are satisfied: 
+(A) 
+The school buses are parked only in the rear or side yard of the dwelling or 
+dwellings on the lot. 
+(B) 
+The school buses are owned or operated by the occupants of the dwelling or 
+dwellings on the lot. 
+(C) 
+The school buses have current licenses and are operable. 
+(D) 
+In the AZD, RCD, RC, CAR, CR, V, and IV Districts, the number of school buses 
+parked per lot is limited to two. 
+(E) 
+In the C District, the number of school buses parked per lot is limited to three. 
+155. 
+Seafood processing. Such use includes wholesale and retail sales of seafood products. 
+Such use will be permitted as special exception only when all of the following conditions 
+are satisfied: 
+(A) 
+Open or uncovered storage of shells, bones, and refuse does not occur on site. 
+(B) 
+No curing or smoking occurs on site. 
+(C) 
+All structures for processing and all disposal areas for materials and byproducts 
+of processing are a minimum of 300 feet from all property lines and 600 feet 
+from residential district boundaries. 
+(D) 
+Seafood processing facilities and disposal areas are not in the 100-year 
+floodplain. 
+(E) 
+The operation is managed according to a management plan approved by the 
+Natural Resources Conservation Service, University of Maryland Extension 
+Service, and the Kent County Health Department.
+
+<!-- page 129 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 126
+(F) 
+Parking, processing, and disposal areas are screened from adjacent properties 
+and public roads. 
+(G) 
+Access roads are capable of handling the type of traffic generated by the 
+operation. 
+156. 
+Self-storage. Self-storage uses will be permitted only when all of the following conditions 
+are satisfied:  
+(A) 
+In the V District, no self-storage use may have more than 30 self-storage units 
+in 1 building, and no self-storage unit may exceed 100 square feet of floor 
+space; and 
+(B) 
+In the V District, any property used for self-storage will front on 2 public roads; 
+and 
+(C) 
+The front façade of the center and any other façade visible from adjoining 
+public roads will reflect the scale, materials and design features common to 
+residential or historic structures in the County; and  
+(D) 
+Self-storage uses are subject to site plan review.  
+157. 
+Septic tank maintenance and excavation.  
+ 
+158. 
+Short-term vacation rentals (STVR). Kent County hotel rental taxes will be paid for each 
+unit, and the required quarterly report will be filed by any establishment that provides 
+sleeping accommodations for compensation for a period not exceeding four months.  
+159. 
+Single family dwellings 
+(A) 
+Factory-constructed or prefabricated homes including manufactured, modular, 
+and mobile homes, when provided with permanent foundations; permanent 
+connections to utilities; required fire sprinklers; and reviewed, inspected, and 
+approved as buildings utilizing all life-safety codes, and which meet all required 
+zoning and environmental regulations in this Ordinance, will be treated in the 
+same manner as a site-built building. 
+(B) 
+When special exception approval is required, such single-family dwellings may 
+be reviewed via an administrative special exception process. 
+160. 
+Single family dwelling, one per existing property, in Employment Center and ECCA, 
+subject to the yard requirements found in the Agricultural Zoning District, provided 
+however, that bona fide intrafamily transfers may be permitted (thus exceeding the one 
+single family dwelling per existing property requirement) under the following conditions: 
+(A) 
+The owner of the parcel or the proposed parcel will attest, in writing, to the 
+bona fide family relationship and that the intent of the subdivision/use is not 
+for ultimate transfer to a third party. 
+(B) 
+Any deed for a lot that is created by a bona fide intrafamily transfer will contain 
+the covenant stating that the lot is created subject to the provisions of this
+
+<!-- page 130 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 127
+section and that the provisions of this section will control as long as the 
+property continues to be zoned for industrial uses. 
+(C) 
+A lot created by a bona fide intrafamily transfer may not be conveyed 
+subsequently to any person other than a member of the owner’s immediate 
+family except under the following situations, as determined by the Kent County 
+Planning Commission: 
+i. 
+The lot was created as a part of bona fide intrafamily transfer and not 
+with the intent of subdividing the original parcel of land for purposes of 
+ultimate transfer to a third party; and 
+ii. 
+The owner of the transferred property dies; or 
+iii. A change of circumstances has occurred since the original transfer was 
+made that is consistent with the intent of this ordinance. 
+(D) 
+This subsection will not prevent the conveyance of such a lot to a third party as 
+security for a mortgage or deed of trust, or subsequent conveyances resulting 
+from a foreclosure. 
+(E) 
+The maximum lot size will be two acres. 
+(F) 
+Any deed or subdivision plat for a lot created by a bona fide intrafamily transfer 
+will contain a statement that the adjacent property is zoned for industrial uses. 
+(G) 
+The parcel is created for the construction of a primary residence only. 
+(H) 
+This provision applies to those individuals owning industrial zoned land prior to 
+July 7, 1994. Subsequent owners of industrial zoned land will be limited to one 
+single family dwelling. 
+161. 
+Solar energy systems, small. Such uses will be permitted as accessory uses only when all 
+of the following conditions are satisfied:  
+(A) 
+Tree removal will be minimized, and any removal will be mitigated in 
+accordance with the Critical Area Program requirements, or, if no Critical Area 
+Program is in place in that location, tree removal will be mitigated at a ratio of 
+one tree planted for each tree removed or as required in Article VI, whichever 
+is greater. 
+(B) 
+All solar collection devices will register with the Office of Emergency Services 
+and will submit a map noting the location of the solar collection devices and 
+the panel disconnect. 
+(C) 
+The total height of solar collection systems will comply with the height 
+requirements of the zoning district in which they are located. 
+162. 
+Solar energy systems, utility scale in the Employment Center zoning district. Such uses will 
+be permitted by right, but only when all of the following conditions are satisfied:
+
+<!-- page 131 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 128
+(A) 
+A solar collection device or combination of devices are designed and located to 
+avoid glare or reflection onto adjacent properties and adjacent roadways and 
+will not interfere with traffic or create a safety hazard. 
+(B) 
+Screening, capable of providing year-round screening, is provided per all the 
+requirements in Article V. 
+(C) 
+Roof-mounted solar collection devices will not extend more than 15 feet from 
+the top of the roof. The total height of the building, including the solar 
+collection devices, will comply with the height regulations. 
+(D) 
+Solar collection devices not mounted on roofs will not exceed 45 feet in height. 
+(E) 
+All solar collection devices will register with the Kent County Office of 
+Emergency Services and will submit a map noting the location of the solar 
+collection devices and the panel disconnect. 
+(F) 
+All solar energy systems will meet the Countywide standards in Article V. 
+Solar energy systems, utility scale, in the AZD and RCD will be permitted as special 
+exception only when all of the following conditions are satisfied:  
+(A) 
+The use takes place on a farm, as defined by this Ordinance. 
+(B) 
+A solar collection device or combination of devices are designed and located to 
+avoid glare or reflection onto adjacent properties and adjacent roadways and 
+will not interfere with traffic or create a safety hazard. 
+(C) 
+Screening, capable of providing year-round screening, is provided per all the 
+requirements of Article V. 
+(D) 
+Roof-mounted solar collection devices will not extend more than 15 feet from 
+the top of the roof. The total height of the building, including the solar 
+collection devices, will comply with the height regulations established for each 
+zoning district. 
+(E) 
+Solar collection devices not mounted on roofs will not exceed 38 feet in height. 
+(F) 
+The solar collection system will be incidental to the use of the farm. 
+(G) 
+Installation of the solar collection system will not adversely impact adjacent 
+properties. 
+(H) 
+All structures associated with the solar collection system will be neither visually 
+intrusive nor inappropriate to their setting. 
+(I) 
+All solar collection devices will register with the Office of Emergency Services 
+and will submit a map noting the location of the solar collection devices and 
+the panel disconnect. 
+(J) 
+Other than wire size, there will be no alteration of utility infrastructure to 
+accommodate the system.
+
+<!-- page 132 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 129
+(K) 
+The area of solar panel arrays may not exceed 5 acres. The area of the solar 
+panel arrays shall be measured as the area within the solar panel arrays’ 
+security fence. Adjacent properties will not aggregate solar collection panels to 
+achieve an area exceeding 5 acres. 
+(L) 
+In AZD, only the five-acre maximum area of solar panel arrays, as measured in 
+Subsection K. above, is considered development and counted toward the 
+maximum percentage of the property in lots. 
+(M) 
+Tree removal will be minimized, and any removal will be mitigated in 
+accordance with the Critical Area Program and the Forest Conservation Act. 
+(N) 
+The applicant will demonstrate that a utility scale solar energy system will not 
+unreasonably interfere with the view of, or from, sites of significant public 
+interest such as public parks, a national or state designated scenic byway, a 
+structure listed in the Kent County Historic Site Survey, an historic district, or 
+the Chesapeake Bay and its tributaries. 
+(O) 
+All solar energy systems will meet the Countywide standards in Article V. 
+Solar energy systems, utility scale, in C, and CCA, will be permitted as special exception 
+only when all of the following conditions are satisfied: 
+(A) 
+A solar collection device or combination of devices are designed and located to 
+avoid glare or reflection onto adjacent properties and adjacent roadways and 
+will not interfere with traffic or create a safety hazard. 
+(B) 
+Screening, capable of providing year-round screening, is provided per all the 
+requirements in Article V. 
+(C) 
+Roof mounted solar collection devices will not extend more than 15 feet from 
+the top of the roof. The total height of the building, including the solar 
+collection devices, will comply with the height regulations established for each 
+zoning district. 
+(D) 
+Solar collection devices not mounted on roofs will not exceed 45 feet in height 
+(E) 
+All solar collection devices will register with the Office of Emergency Services 
+and will submit a map noting the location of the solar collection devices and 
+the panel disconnect. 
+(F) 
+The applicant will demonstrate that a utility scale solar energy system will not 
+unreasonably interfere with the view of, or from, sites of significant public 
+interest such as public parks, a national or state designated scenic byway, a 
+structure listed in the Kent County Historic Site Survey, an historic district, or 
+the Chesapeake Bay and its tributaries. 
+(G) 
+All solar energy systems will meet the Countywide standards in Article V. 
+163. 
+Storage and office trailers, temporary during construction.
+
+<!-- page 133 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 130
+164. 
+Storage of boats, campers, boat trailers, and camper trailers. Such use will be permitted 
+as an accessory use only when all of the following conditions are satisfied: 
+(A) 
+The storage is located in the rear yard, except that: 
+i. 
+In the RCD and CAR Districts, the storage may be located on the 
+waterfront side of the principal use; and 
+ii. 
+Storage of boats in the buffer is permitted only if water-dependent to the 
+subject site; and 
+iii. In the RC and RR Districts, the storage may be located in the side yard.  
+(B) 
+The vehicle or trailer is titled under the name of the property owner or 
+occupant. 
+(C) 
+The vehicle or trailer is operable and has current licenses. 
+165. 
+Stores or shops for the conduct of retail sales in the Marine zoning district. Such use 
+may include the sale of groceries, beverages, food, clothing, marine supplies, and similar 
+shops and stores.  
+166. 
+Structures for the buying, processing, and sale of animal products in AZD, commercial. 
+Such use will be permitted as special exception only when all of the following conditions 
+are satisfied: 
+(A) 
+Structures, retention, and disposal areas will be 600 feet from the nearest 
+property line. 
+(B) 
+The front of the site will be appropriately landscaped. 
+(C) 
+All activities will be completely enclosed. 
+(D) 
+The operation is managed according to a waste management plan approved by 
+the Natural Resources Conservation Service, University of Maryland Extension 
+Service, and the Kent County Health Department. 
+167. 
+Structures for the buying, processing, and sale of non-animal farm products related to 
+agriculture of no more than 10,000 square feet in floor area. Such use excludes any animal 
+products but includes seed and fertilizer sales. The total square footage of the buildings 
+occupied for such use will not exceed 10,000 square feet; the 10,000 square foot 
+restriction applies only to those structures associated with the approved business and not 
+to structures normally associated with permitted agricultural operations. Structures for 
+the buying, processing, and sale of farm products are subject to site plan review by the 
+Planning Commission or where applicable the Planning Director.  
+168. 
+Structures for the buying, processing, or sale of non-animal farm products related to 
+agriculture, over 10,000 square feet in floor area. Such uses may include the sale of 
+fertilizer and seed but may not include animal products and may not exceed 50,000 
+square feet in floor area.  
+169. 
+Temporary MET Tower of any height. Such use will be permitted as an accessory use only 
+when all of the following conditions are satisfied:
+
+<!-- page 134 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 131
+(A) 
+The tower is erected for no more than 12 months. 
+(B) 
+Any free-standing structure is located a minimum of three times its total height 
+from a property line. 
+(C) 
+Towers are not readily climbable from the ground up to 12 feet. 
+170. 
+Tie-out pilings of private piers, community piers, and private shared piers. Such uses will 
+be installed at a distance not to exceed 25% of the width of the waterway, the edge of 
+the channel, or 180 feet from the mean high-water mark, whichever is less, for the 
+exclusive mooring use by tall ships as safe harbors from hurricanes and other severe 
+weather-related threats. Such uses will be permitted as special exception only when all 
+of the following conditions are satisfied: 
+(A) 
+Private piers, community piers, and private shared piers in RCD and CAR are 
+subject to the stipulations and regulations of Article VI of this Ordinance. 
+(B) 
+No portion of a pier consisting of any combination of non-floating fixed 
+platforms, and/or floating structures, with decking extending out over the 
+water to provide pedestrian access, may exceed 25% of the width of the 
+waterway, the edge of the channel, or 150 feet in length, whichever is less. 
+(C) 
+Any tie-out pilings installed more than 150 feet from the mean high-water mark 
+will be for the exclusive mooring use by tall ships and for no other use.  
+(D) 
+The term “tall ships” means any large traditionally rigged sailing vessels, 
+including schooners, which are federally documented with home ports located 
+in Kent County, Maryland. 
+(E) 
+The term “hurricanes and other severe weather-related threats” means 
+weather events which are the subjects of a Tropical Storm Watch, Tropical 
+Storm Warning, Hurricane Watch, or Hurricane Warning issued by the National 
+Oceanic and Atmospheric Administration.  
+171. 
+Townhouses. Such uses are subject to site plan review. 
+172. 
+Transmission towers. Such uses include cellular towers. See Personal Wireless categories. 
+173. 
+Truck stops. Such uses will be permitted as special exception only when all of the following 
+conditions are satisfied: 
+(A) 
+No part of the truck parking facility will be in the 100-year floodplain. 
+(B) 
+Areas for truck parking, fueling, or repair are a minimum of 300 feet from any 
+residential district. 
+(C) 
+Areas for truck parking are 100 feet from wetlands. 
+(D) 
+Areas for truck repair are enclosed in a building. 
+(E) 
+The Board determines that all access roads are capable of handling the traffic 
+generated and that a safe route for trucks traveling to and from the facility is 
+provided.
+
+<!-- page 135 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 132
+(F) 
+Areas for parking and cartways are paved. 
+(G) 
+The site is screened from adjacent properties. The front yard and all areas 
+adjacent to public roads will be extensively landscaped. 
+(H) 
+Adequate restroom facilities, driver rooms, and telephones will be provided.  
+174. 
+Truck terminals. Such uses are subject to the following conditions:  
+(A) 
+Truck terminals are limited to 20 trucks, except that the limitation on the 
+number of trucks does not apply to Employment Center districts in the Route 
+301 corridor; and 
+(B) 
+The parking and loading area of a truck terminal will be fenced, screened, and 
+located at least 400 feet from any residential district boundary and 100 feet 
+from all property lines. 
+Truck terminals will be permitted as a special exception only when all of the following 
+conditions are satisfied: 
+(A) 
+No part of the truck parking facility will be in the 100-year floodplain. 
+(B) 
+Areas for truck parking, fueling, or repair are a minimum of 100 feet from any 
+residential district. 
+(C) 
+Areas for truck parking are at least 100 feet from wetlands. 
+(D) 
+Areas for truck repair are enclosed in a building. 
+(E) 
+The Board determines that all access roads are capable of handling the traffic 
+generated and that a safe route for trucks traveling to and from the facility is 
+provided. 
+(F) 
+Areas for parking and cartways are paved. 
+(G) 
+The site is screened from adjacent properties and public roads. 
+(H) 
+Adequate restroom facilities will be provided. 
+175. 
+Two-family dwellings. 
+176. 
+Uses and structures which are customarily accessory and clearly incidental and 
+subordinate to the permitted uses in the Employment Center and ECCA districts.  
+177. 
+Veterinary hospitals or clinics and animal shelters, as defined by the County Code of Public 
+Laws. Such uses will ensure that all open kennels will be at least 200 feet from all property 
+lines, unless otherwise approved by the Planning Commission via a site plan review. 
+178. 
+Veterinary hospitals and offices without open kennels. 
+179. 
+Vocational and trade schools, including training facilities. 
+180. 
+Waste management structures in AZD and RCD where not otherwise stipulated in this 
+Ordinance. Such uses will be permitted as accessory uses only when all of the following 
+conditions are satisfied:
+
+<!-- page 136 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 133
+(A) 
+Waste management structures will be a minimum of 600 feet from all property 
+lines. 
+(B) 
+No waste management structure will be in the 100-year floodplain. 
+(C) 
+The operation is managed according to waste and nutrient management plans, 
+approved by the Natural Resources Conservation Service, University of 
+Maryland Extension Service, and the Kent County Health Department.  
+181. 
+Wedding venues on farms with a special exception approved by the Board of Appeals. 
+182. 
+Wind energy systems, small, where the height of the wind energy system exceeds 80 feet 
+and/or is located on a parcel less than 20 acres. Such uses will be permitted as a special 
+exception only when all of the following conditions are satisfied: 
+(A) 
+Within the AZD, RCD, RC, CAR and CR, the height of the wind energy systems 
+exceeds 80 feet, or the wind energy systems are located on parcels less than 
+20 acres. 
+(B) 
+If an alternative energy source can produce equal energy, then that should be 
+used rather than a tall tower which impacts the landscape. 
+(C) 
+If co-location with a personal wireless facility is proposed, then a need for a 
+personal wireless facility tower will be documented and all appropriate studies 
+submitted. In addition, the proposed tower will comply with all standards for 
+both wind turbines and personal wireless facilities. 
+(D) 
+The applicant will provide a report documenting that the wind energy system 
+does not significantly impact migratory bird pathways. 
+(E) 
+The wind energy system will not be located within the air path of a private or 
+public airstrip. 
+(F) 
+The height of the structure to the tip of the blade at its highest point does not 
+exceed 120 feet. 
+(G) 
+A small energy system will not have more than one wind turbine per parcel. 
+(H) 
+Monopoles or lattice towers will be the preferred tower structure in the 
+County. 
+(I) 
+Guy wires are strictly prohibited. 
+(J) 
+Small wind energy systems may not be located within the buffer or within a 
+stream protection corridor. 
+(K) 
+Small wind energy systems will not be artificially lit unless such lighting is 
+required by the Federal Aviation Administration. 
+(L) 
+Small wind energy systems will be galvanized steel, brushed aluminum finish, 
+or a non-garish color or finish that conforms to the environment and 
+architecture of the community, unless Federal Aviation Administration 
+regulations require otherwise.
+
+<!-- page 137 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 134
+(M) 
+All signs, including flags, streamers, and decorative items, both temporary and 
+permanent, are prohibited on a small wind energy system except the 
+manufacturer or installer’s identification or appropriate warning signs or 
+placards. 
+(N) 
+Any free-standing structure is located a minimum of 1.5 times its total height 
+from a property line. 
+(O) 
+Either towers are not readily climbable from the ground up to 12 feet or are 
+fenced. 
+(P) 
+All access doors to towers and electrical equipment will be lockable. 
+(Q) 
+Appropriate warning signage is placed on the tower and electrical equipment. 
+(R) 
+The blade tip at its lowest point has a ground clearance of at least 25 feet. 
+(S) 
+Any small wind energy system that is not operable for a period of 12 
+consecutive months or more will be removed at the landowner’s expense. 
+(T) 
+Small wind energy systems will be sited in a manner that does not result in 
+significant shadow flicker. 
+(U) 
+Small wind energy systems, including wind turbine and tower, will comply with 
+all applicable construction and electrical codes. 
+(V) 
+Audible sound due to wind turbine operations will not exceed 55 dB(A) except 
+during short-term events such as utility outages and/or severe windstorms. The 
+sound level will be measured at ground level at the property line. 
+(W) 
+Any small wind energy system found to be unsafe will be repaired by the 
+property owner to meet these regulations and any applicable federal, State, 
+and local safety standards or be physically removed within 90 days. 
+(X) 
+The applicant will demonstrate that a small wind energy system will not 
+unreasonably interfere with the view of, or from, sites of significant public 
+interest such as public parks, a national or state designated scenic byway, a 
+structure listed in the Kent County Historic Sites Survey, an historic district, or 
+the Chesapeake Bay and its tributaries. 
+(Y) 
+The following submittals are required for approval: 
+i. 
+Site plan, at a standard scale, to adequately show: (1) Property lines and 
+dimensions of subject property; (2) property lines and owner information 
+for all abutting properties; (3) Locations of all existing buildings, 
+structures, and underground and overhead utilities on the subject 
+property; (4) locations of all existing buildings on abutting properties; (5) 
+location of the proposed small wind energy system with distances to 
+show required setbacks; (6) certification by a licensed professional 
+engineer or property owner that the information shown on the site plan
+
+<!-- page 138 -->
+ARTICLE III. USES 
+SECTION 2. PERMITTED USES AND CONDITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland 135
+is accurate, and (7) a shadow flicker study documenting that the project 
+will not result in significant shadow flicker. 
+ii. 
+The small wind energy system manufacturer’s specification sheet, 
+including photograph, sound analysis and mounting recommendations. 
+iii. Engineered drawings showing the small wind energy system structure, 
+including the tower, turbine, base and footings, and an engineering 
+analysis showing compliance with the International Building Code 
+certified by a licensed professional engineer. This analysis may be 
+supplied by the manufacturer. 
+iv. Siting elevations, existing photography, and a photo simulation from all 
+directions. 
+v. 
+Any additional information as may be required by the Board of Appeals as 
+appropriate to demonstrate compliance with the regulations. 
+vi. A narrative that explains how the site will not unreasonably interfere with 
+the view or, or from, sites of significant public interest such as public 
+parks, a national or state designated scenic byway, a structure listed in 
+the Kent County Historic Sites Survey, an historic district, or the 
+Chesapeake Bay and its tributaries. 
+183. 
+Wind energy systems, small, accessory. Such uses will be permitted as accessory uses only 
+when all of the following conditions are satisfied:  
+(A) 
+The height of the structure to the tip of the blade at its highest point does not 
+exceed 80 feet. 
+(B) 
+Any system is located a minimum of three times its total height from a property 
+line. 
+(C) 
+Towers are not readily climbable from the ground up to 12 feet. 
+(D) 
+All access doors to towers and electrical equipment will be lockable. 
+(E) 
+Appropriate warning signage is placed on the tower and electrical equipment. 
+(F) 
+The blade tip at its lowest point had a ground clearance of at least 25 feet. 
+(G) 
+Wind turbines and towers maintain a galvanized steel, brushed aluminum 
+finish, or a non-garish color. 
+(H) 
+Any small wind energy system that is not operational for a period of 12 
+consecutive months or more will be removed at the landowner’s expense.  
+(I) 
+In the C, CCA, M, EC, and ECCA Districts, such use is limited to one tower.
+
+<!-- page 139 -->
+ARTICLE IV.  PROCESSES
+
+<!-- page 140 -->
+ARTICLE IV.  PROCESSES 
+SECTION 1. GENERAL PROVISIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     137
+SECTION 1 
+GENERAL PROVISIONS 
+1.1 
+STATEMENT OF INTENT 
+These provisions are intended to provide general standards for all review and approval processes 
+in this Land Use Ordinance, in order to streamline and standardize the process and public notice. 
+A Section is provided for each process type; elements in common are addressed in this Section.  
+The Goals and Objectives below are specifically included as part of the review of subdivisions and 
+site plans. The remaining processes have other standards delineated in their individual sections. 
+Although not directly linked to all other formal reviews, these Goals and Objectives provide an 
+overview of the spirit and intent of the Land Use Ordinance approach to development in general. 
+1.2 
+GOALS 
+1. 
+These procedures are to protect the health, safety, convenience, and general welfare of 
+the inhabitants of the County. Subdivision and site plan review regulates the development 
+of sites and structures in a manner which considers the following concerns and, where 
+necessary, requires modification of development proposals to eliminate or minimize 
+potential problems and nuisances.  The principal areas of concern are: 
+(A) 
+The balancing of landowners’ rights to use their land, with the corresponding 
+rights of abutting and neighboring landowners to live without undue 
+disturbances (noise, smoke, fumes, dust, odor, glare, stormwater runoff, etc.); 
+(B) 
+The convenience and safety of vehicular and pedestrian movements within the 
+site, and in relation to adjacent areas or roads; 
+(C) 
+The adequacy of disposal methods and protection from pollution of surface or 
+groundwater; and; 
+(D) 
+The protection of historic, natural, and environmental features on the site 
+under review and in adjacent areas. 
+1.3 
+OBJECTIVES  
+1. 
+At each stage of development review the Planning Commission, Planning Director, or the 
+Planning Director’s designee will review the applicant’s submitted development proposal 
+and supporting documents, taking into consideration the reasonable fulfillment of the 
+following objectives: 
+(A) 
+Conformance with the Comprehensive Plan. 
+(B) 
+Conformance with the provisions of all applicable rules and regulations of 
+county, State, and federal agencies. 
+(C) 
+Convenience and safety of both vehicular and pedestrian movement within the 
+site and in relation to adjoining ways and properties.
+
+<!-- page 141 -->
+ARTICLE IV.  PROCESSES 
+SECTION 1. GENERAL PROVISIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     138
+(D) 
+Provisions for the off-street loading and unloading of vehicles incidental to the 
+normal operation of the establishment, adequate lighting, and internal traffic 
+control. 
+(E) 
+Reasonable demands placed on public services and infrastructure. 
+(F) 
+Adequacy of methods for sewage and refuse disposal, and the protection from 
+pollution of both surface waters and groundwater.  This includes minimizing 
+soil erosion both during and after construction.  
+(G) 
+Protection of abutting properties and County amenities from any undue 
+disturbance caused by excessive or unreasonable noise, smoke, fumes, dust, 
+odors, glare, stormwater runoff, etc. 
+(H) 
+Minimizing the area over which existing vegetation is to be removed.  Where 
+tree removal is required, special attention will be given to planting of 
+replacement trees. 
+(I) 
+The applicant’s efforts to integrate the proposed development into the existing 
+landscape through design features such as vegetative buffers, roadside 
+plantings, and the retention of open space and agricultural land. 
+(J) 
+The building setbacks, area, and location of parking, architectural compatibility, 
+signage, and landscaping of the development, and how these features 
+harmonize with the surrounding townscape and the natural landscape. 
+1.4 
+CRITICAL AREA COMMISSION REVIEW AND COMMENT REQUIRED 
+1. 
+As required by the State of Maryland, Kent County will send copies of applications for all 
+developments, subdivisions, and site plans, wholly or partially within the Critical Area, as 
+specified in COMAR 27.03.01.04 to the Critical Area Commission for review and comment. 
+This includes all projects located in the RCD, CAR, CCA, M, and ECCA zoning districts. 
+2. 
+Until Kent County has received notice of receipt from the Critical Area Commission or the 
+appropriate waiting period per the State of Maryland has expired, the County may not 
+process an application that has been sent to the Critical Area Commission for notification.  
+3. 
+Per the State of Maryland, any action by Kent County in violation of these State-required 
+procedures shall be void. 
+1.5 
+TECHNICAL ADVISORY COMMITTEE (TAC) 
+1. 
+Applications for processes will be filed with the Department on an official application 
+form, together with the fee prescribed by County Commissioners, a narrative including a 
+Citizen Participation Plan (please refer to the Department for a CPP brochure) and all 
+supporting documents as required in the sections below for each specific process.   
+2. 
+A pre-submission conference with the Department is recommended but not required.
+
+<!-- page 142 -->
+ARTICLE IV.  PROCESSES 
+SECTION 1. GENERAL PROVISIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     139
+3. 
+The Department will schedule the project for the next, monthly meeting of the Technical 
+Advisory Committee and circulate the completed application and all supporting 
+documents to the various agency members of the Technical Advisory Committee. 
+4. 
+The Technical Advisory Committee will review the proposal and submit formal comments 
+to the applicant. The Department will provide a summary of the comments submitted. 
+5. 
+Plot Plans regulated by Section 3 are not reviewed by the Technical Advisory Committee. 
+6. 
+Waivers regulated by Section 6 are not reviewed by the Technical Advisory Committee. 
+1.6 
+PUBLIC NOTICE 
+This public notice section relates to approval processes described within this Article including 
+subdivisions, site plans, special exceptions, variances, waivers, and permits. The zoning text 
+amendment process for the Land Use Ordinance is in Article I and refers to this section. Waivers 
+in Section 6 do not require public notice beyond that already given for subdivisions and site plans. 
+Building permits in Section 7 do not require public notice. Minor processes require follow-up 
+notice, while major processes, special exceptions, and variances require advance notice. The 
+Land Use Ordinance does not regulate the comprehensive rezoning process. 
+For clarification, the County refers to meetings that are required to be noticed in the newspaper 
+as public hearings, as opposed to public meetings for which a newspaper notice is not required.  
+1. 
+MAILED NOTICE 
+(A) 
+For MINOR processes only (subdivision and site plan), the Department will send 
+a notice by regular mail of the proposed project, after TAC review, to adjacent 
+property owners using the address of record from the Maryland Department 
+of Assessments and Taxation. Adjacent property owners have ten days from 
+the date on the notice to comment on the project. No other notice is required. 
+(B) 
+For MAJOR subdivisions, MAJOR site plans, special exceptions, and variances, 
+at least twenty (20) days before the initial meeting of the Planning Commission 
+on MAJOR projects or the public hearing by Board of Appeals on variances and 
+special exceptions, the Department will send written notice by regular mail, to 
+adjacent property owners, which briefly describes the proposal and uses the 
+address of record with the Maryland Department of Assessments and Taxation.  
+(C) 
+For any three-part development review processes or any combination sub-set 
+thereof, notice is only provided at the initial step, except for delays per below. 
+2. 
+POSTING THE SUBJECT PROPERTY  
+(A) 
+For MAJOR subdivisions, MAJOR site plans, special exceptions, and variances, 
+the Department will post the subject property in a conspicuous manner with a 
+sign including the date, time, and location of the applicable meeting within a 
+reasonable timeframe of the mailing. Properties will only be posted one time.
+
+<!-- page 143 -->
+ARTICLE IV.  PROCESSES 
+SECTION 1. GENERAL PROVISIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     140
+(B) 
+For any three-part development review processes or any combination sub-set 
+thereof, notice is only provided at the initial step, except for delays per below. 
+(C) 
+After issuance, building permits require a placard to be posted by the applicant. 
+3. 
+NEWSPAPER ADVERTISMENTS FOR PUBLIC HEARINGS 
+(A) 
+All public hearings for special exceptions and variances by the Board of Appeals 
+will be advertised in the newspaper of record prior to the day of the hearing. 
+(B) 
+All public hearings for administrative-type special exceptions and variances will 
+be advertised in the newspaper of record prior to the day of the hearing. 
+(C) 
+Before granting final approval of a subdivision on land designated as Tier III on 
+the County Septic Tier Map, the Planning Commission will hold a public hearing 
+advertised in the newspaper of record prior to the day of the hearing.  
+(D) 
+Review of proposed zoning text amendments by the Planning Commission may 
+be advertised in the newspaper of record prior to the day of the public hearing, 
+at the discretion of the Department, depending on the substance of the matter. 
+Housekeeping and non-substantive matters need not incur advertising costs. 
+4. 
+DIGITAL NOTICE 
+The Department will post online all agendas, minutes, and packets in a timely fashion. 
+5. 
+LONG DELAYS BETWEEN MEETINGS 
+In any case, where a proposal has not appeared before the Planning Commission or the 
+Board of Appeals for six months, the Department will send another notice by regular mail 
+regarding the proposed project to the adjacent property owners as specified above. No 
+other re-notification is required including property posting or newspaper advertisements. 
+1.7 
+SUBDIVISION AND SITE PLAN PROCESSES 
+1. 
+For MINOR processes only, the Planning Director, or Planning Director’s designee, has the 
+authority to approve, approve with conditions, or disapprove projects. At the Director’s 
+discretion, a minor project may be submitted to the Planning Commission for approval. 
+The Planning Director, or Planning Director’s designee, will consider and prepare findings 
+of fact concerning the reasonable fulfillment of the goals and objectives listed in §1.2 and 
+1.3. In the absence of a Planning Director, the Planning Commission will approve, approve 
+with conditions, or disapprove minor projects. Minor projects comprise only one step. 
+2. 
+For all other subdivisions and site plan reviews, a MAJOR process is required. Applicants 
+submit projects for review in three stages including stormwater management as follows. 
+(A) 
+CONCEPT 
+i. 
+After determining that the application is substantially complete, the 
+Department will place the project on the appropriate meeting of the 
+Planning Commission for concept review.  The concept review process
+
+<!-- page 144 -->
+ARTICLE IV.  PROCESSES 
+SECTION 1. GENERAL PROVISIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     141
+will review at a conceptual level, the feasibility, design, conceptual 
+stormwater management, and environmental characteristics of the 
+proposal based on the standards set forth in this Land Use Ordinance, the 
+Comprehensive Plan, with the understanding that additional technical 
+engineering, design material, survey work, and preparation of other 
+documents will be submitted for review at later steps in the review 
+process. 
+ii. 
+The Planning Commission will comment and provide guidance as to the 
+feasibility, design, and environmental characteristics of the proposal 
+based on the standards set forth in this Land Use Ordinance, the 
+Comprehensive Plan and taking into consideration the reasonable 
+fulfillment of the goals and objectives listed in §1.2 and 1.3 above. 
+(B) 
+PRELIMINARY 
+i. 
+After determining the preliminary application is substantially complete, 
+the Department will place the project on the appropriate meeting of the 
+Planning Commission for preliminary review. The preliminary review 
+process will review the project for compliance with the Land Use 
+Ordinance, Comprehensive Plan, and its feasibility, environmental, and 
+design characteristics based a specific proposal that complies the 
+requirements for a preliminary review.  At this stage, the applicant will 
+demonstrate adequate provisions for water supply and sewage disposal, 
+proposed methods for fire protection, preliminary stormwater 
+management, and Forest Conservation Plans. 
+ii. 
+The Planning Commission may approve, approve with conditions, or 
+disapprove the preliminary project taking into consideration the 
+reasonable fulfillment of the goals and objectives listed in §1.2 and 1.3 
+above.  Conditional approval of the preliminary project will include a 
+complete list and clear explanation of all conditions.  Denial of the 
+preliminary project will include a listing of reasons for denial.  If the 
+Planning Commission determines that more information is required for a 
+decision to be made on the proposal, the Planning Commission may table 
+its consideration of the plan. 
+(C) 
+FINAL 
+i. 
+After determining that the final project and supporting documents 
+including all required estimates of sureties are substantially complete, 
+the Department will place the project on the appropriate meeting of the 
+Planning Commission for final review.  The final review process will 
+review the final project and supporting documents for compliance with 
+all applicable regulations and will include approved final plans, deed 
+restrictions, conservation easements, irrevocable letters of credit or other 
+sureties as acceptable to the County Commissioners of Kent County, and
+
+<!-- page 145 -->
+ARTICLE IV.  PROCESSES 
+SECTION 1. GENERAL PROVISIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     142
+any other reports or studies as necessary. The Planning Commission 
+attorney will review legal documents. 
+ii. 
+The Planning Commission will prepare findings of fact concerning the 
+reasonable fulfillment of the goals and objectives listed in §1.2 and 1.3. 
+(D) 
+COMBINATIONS 
+Where deemed appropriate by the Planning Director, the final project may be 
+combined with a preliminary project.  In unusual cases where there is a minor 
+impact on the community, with approval of the Planning Director, the concept, 
+preliminary, and final projects may be combined. Public Notice is required for 
+the initial step and combinations identified. 
+(E) 
+PLOT PLAN EXCEPTION  
+Single family dwellings, residential accessory uses and accessory structures 
+associated with a single family dwelling, agricultural buildings on farms in AZD, 
+and alterations and remodeling of these types of existing structures, and other 
+projects are eligible for Plot Plan review. Such projects have minor impacts and 
+require less information for review. Plot plans are reviewed and approved by 
+the Planning Director or the Planning Director’s designee without Public Notice. 
+This process is handled as a building permit review and not a formal site plan. 
+1.8 
+DECISIONS BY PLANNING COMMISSION 
+1. 
+The applicant will submit to the Department, at least two mylars and three paper copies 
+of the approved final subdivision drawings, or three paper copies of approved final site 
+plan drawings for signatures and copies of any deed restrictions, covenants, or 
+easements. If deemed necessary, the Planning Director may require additional paper 
+copies of any documents.  
+2. 
+One paper copy of the approved drawings will remain on file in the Department. Other 
+paper copies of the signed documents will be distributed to the Kent County Health 
+Department and other applicable agencies.  
+3. 
+Applicants are responsible for recording approved subdivisions in the Land Records with 
+the Clerk of the Circuit Court and submitting proof to the Department following 
+recordation. Lot line adjustments are subdivision documents; site plans are not recorded.  
+1.9 
+SPECIAL EXCEPTIONS AND VARIANCES 
+1. 
+After receiving a substantially complete application for a special exception, administrative 
+special exception, variance, or administrative variance, the Department will schedule the 
+application for the next Technical Advisory Committee, and after a recommendation by 
+the TAC that the project may proceed, an administrative hearing, or a review by the 
+Planning Commission, and/or hearing before the Board of Appeals will be scheduled, as 
+may be appropriate. Such applications are advertised as public hearings for the Board of
+
+<!-- page 146 -->
+ARTICLE IV.  PROCESSES 
+SECTION 1. GENERAL PROVISIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     143
+Appeals or as an administrative public hearing. Items for advisory review by the Planning 
+Commission are not noticed nor are they advertised.   
+2. 
+For administrative processes, a signed decision will be provided to the applicant by the 
+end of 30 days following the date of the meeting. Building permits on file or submitted 
+after the hearing may be reviewed and processed; however, permits cannot be issued, at 
+a minimum, until thirty (30) days after the date of the public hearing when the decision is 
+made, per the Appeals process below. In some cases, if a decision is not made at the public 
+hearing, then the date for appeal purposes is the date of the signature on the decision. 
+1.10 
+DECISIONS BY BOARD OF APPEALS 
+1. 
+Each case will be decided, and a decision and order issued no later than 30 days after the 
+hearing is concluded. The decision and order granting or denying the variance will be in 
+writing and will be signed by each member of the Board of Appeals.  
+2. 
+Written findings may be based on evidence introduced and testimony presented by the 
+applicant, any government agency, or any other person deemed appropriate by the 
+Board. The decision and order will contain a summary of the hearing testimony, findings 
+of fact, conclusions of law, and the final order. 
+3. 
+The Department will email a copy of the decision to the applicant.  
+4. 
+The decision and order will be made a part of the public record of the proceedings on file 
+in the Department. 
+1.11 
+WAIVERS 
+The Planning Commission, or where applicable County staff, are authorized to approve waivers 
+as a form of alternative compliance for specific aspects of a project, as set forth in the section on 
+waivers below. Waivers are not variances nor are they special exceptions. Waivers are set forth 
+in their own section; they are not advertised, nor are they noticed. Waivers are a stand-alone 
+process. Waivers are subject to appeal per below. 
+1.12 
+LAPSE OF APPROVALS  
+The date of approval related to lapses is the date of the administrative action taken. This includes 
+meeting dates of the Technical Advisory Committee, Planning Commission, or Board of Appeals, 
+when these are the last formal step in an approval, or where a formal decision is signed, the date 
+of the signed decision. In determining the date related to lapses, the latest date possible is used.  
+1. 
+SUBDIVISIONS: SIX MONTHS 
+Signed plats will be recorded by applicants within six months of approval, or they expire 
+after six months, unless otherwise extended. All sureties will be received, and proof of all 
+required recordation submitted to the Department, prior to signing by the County.
+
+<!-- page 147 -->
+ARTICLE IV.  PROCESSES 
+SECTION 1. GENERAL PROVISIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     144
+2. 
+SITE PLANS: TWO YEARS 
+After site plan projects have been approved, said approval will lapse after the expiration 
+of two years, if no substantial action has taken place in accordance with the approved 
+project for which said approval was granted. Completion of footings are considered to 
+constitute such an action in State of Maryland. Final site plan drawings will be submitted 
+for signature within the two-year timeframe. All sureties will be received, and proof of all 
+required recordation submitted to the Department, prior to signing by the County. If a 
+project is not constructed and final inspection and/or certificate of occupancy obtained 
+after two years, the site plan expires. In some circumstance, major code changes could 
+require modifications to a site plan to be undertaken when life/safety issues are involved. 
+3. 
+VARIANCES: ONE YEAR 
+After a variance has been granted, said approval will lapse after the expiration of one year 
+if no substantial action has taken place in accordance with the approved plan for which 
+such variance was granted, or if the decision does not specify a period longer than one 
+year for good cause shown. Adopted decisions may grant longer periods, as appropriate. 
+4. 
+SPECIAL EXCEPTIONS: TWO YEARS 
+Approval of a special exception granted under this Article shall be valid for two years after 
+the date of approval and thereafter shall become null and void unless construction or use 
+is substantially underway during said one year period, or unless the Board of Appeals, or 
+where applicable the Planning Director, approves an extension before the expiration of 
+said one year period. When provided with sufficient evidence, the Board, or where 
+applicable the Planning Director, may grant a special exception for a longer period. 
+SPECIAL EXCEPTION: RECONSIDERATION, ONE YEAR LIMIT 
+Whenever an application for a special exception has been denied by the Board, such 
+application, or one substantially similar, shall not be reconsidered sooner than one year 
+after the previous denial. 
+5. 
+APPROVALS PRIOR TO LAND USE ORDINANCE ADOPTION: SIX MONTHS 
+Drawings approved prior to adoption of this Land Use Ordinance, which would no longer 
+comply with newly adopted provisions due to changes in said provisions, will be signed or 
+recorded six months after the date of adoption, or expire, unless otherwise extended. 
+6. 
+WAIVERS 
+Waivers are granted as part of the approval in another process. Waiver approvals lapse 
+when project approval lapses. For example, a waiver by the Planning Commission granted 
+as part of a concept site plan, preliminary site plan, or final site plan would lapse in 
+tandem with the lapse of said approved site plan; a stormwater waiver would lapse when 
+the building permit by which it was administratively approved lapses.
+
+<!-- page 148 -->
+ARTICLE IV.  PROCESSES 
+SECTION 1. GENERAL PROVISIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     145
+7. 
+BUILDING PERMITS 
+A building permit will be valid for six months from the date issued. Each request for an 
+inspection extends the building permit for six additional months. A six-month extension 
+may be granted at any time by the Planning Director, or the Planning Director’s designee. 
+An extension may be granted after expiration. More than one extension may be granted. 
+1.13 
+EXTENSIONS FOR SUBDIVISIONS AND SITE PLAN APPROVALS 
+1. 
+Approved projects under appeal will be automatically extended for twelve months 
+without a request from the applicant.  Projects may receive more than one extension. 
+2. 
+When the applicant can show that the project is in the process of obtaining permits from 
+County, State, or federal agencies and that these permits have been pursued diligently, 
+the Planning Commission will grant a 12-month extension.  A project may receive more 
+than one extension. Extensions may be approved following expiration as may be needed 
+at the discretion of the Planning Commission depending on the circumstances involved. 
+1.14 
+AMENDMENTS  
+1. 
+MINOR: A project approved under this Ordinance or under any prior Ordinance, including 
+any conditions or guarantees attached to its approval, may be amended in accordance 
+with this section. If the Planning Director determines that the proposed amendment does 
+not represent a significant change from the use or character of a project as originally 
+approved or in previously approved amendments, the Planning Director may approve the 
+amendment after the amendment is reviewed by the Technical Advisory Committee.  
+2. 
+MAJOR: If the Planning Director determines that the amendment represents a significant 
+change from the use or character of the original project and any previously approved 
+amendments, or that the amendment requires more detailed review, the amendment 
+may be regarded as an original application and follow the procedures for the review of a 
+new project with appropriate alterations to the requirements herein as may be needed.  
+3. 
+PARTIAL: If the Planning Director determines that an amendment represents a partial 
+change from the use or character of the original project and merits review of a portion of 
+the project, then the revised portion or phase may be submitted and reviewed as either 
+a major or minor amendment with appropriate alterations to the requirements herein. 
+4. 
+VARIANCES: The procedure for the amendment of an approved variance or a request for 
+a change of conditions attached to an approval will be the same as for a new application. 
+5. 
+SPECIAL EXCEPTIONS: The procedure for amendment follows the PARTIAL process above. 
+1.15 
+APPEALS  
+1. 
+Within thirty (30) days of any Planning Commission decision, any person aggrieved by a 
+decision of the Planning Commission may file a notice of appeal with the Circuit Court.
+
+<!-- page 149 -->
+ARTICLE IV.  PROCESSES 
+SECTION 1. GENERAL PROVISIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     146
+2. 
+With thirty (30) days of any decision of the Board of Appeals, any person aggrieved by a 
+decision of the Board of Appeals may file a notice of appeal with the Circuit Court. 
+3. 
+With thirty (30) days of any decision or determination by the Planning Director, Planning 
+Director’s designee, a member of the Department, or the Technical Advisory Committee, 
+any person may appeal the decision to the Kent County Board of Appeals. 
+4. 
+Appeals are handled as a public meeting and noticed pursuant to the requirements above. 
+5. 
+Provisions related to signage matters are handled separately under Article V, Section 3. 
+1.16 
+EMERGENCY PROVISIONS 
+Subject to any declaration by the County, State, or federal government of an emergency, or by 
+the order of any Court of competent jurisdiction, or by written decision by County staff with good 
+cause shown, any of these general provisions, deadlines, timelines, extensions, and any other 
+requirements may be suspended or altered to provide for contingencies, as may be needed.
+
+<!-- page 150 -->
+ARTICLE IV.  PROCESSES 
+SECTION 2. SUBDIVISIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     147
+SECTION 2 
+SUBDIVISIONS 
+2.1 
+STATEMENT OF INTENT 
+Subdivision review has been established for the purpose of guiding and accomplishing the 
+coordination and harmonious development of the unincorporated area of Kent County, in order 
+to promote the health, safety, and welfare of the residents of the County.  Subdivision review is 
+required to ensure that new development complies with the Comprehensive Plan, Land Use 
+Ordinance, and other various agency requirements. 
+1. 
+Any owner who subdivides land into lots, blocks, streets, alleys, public ways, or public 
+grounds will prepare a plat of subdivision to be made in accordance with the regulations 
+set forth herein and the laws of the State of Maryland and will record a copy of the plat 
+with the Kent County Clerk of Court. 
+2. 
+A plat of subdivision will not be recorded by the Clerk of Court until the plat is approved 
+by the Kent County Planning Commission or, where applicable the Planning Director. 
+3. 
+No parcel of land in a subdivision created after December 23, 1969, will be transferred, 
+sold, or offered for sale, nor will a building permit be issued for any structure thereon, 
+until a plat of subdivision is recorded with the Kent County Clerk of Court. 
+2.2 
+CRITICAL AREA COMMISSION REVIEW AND COMMENT REQUIRED 
+1. 
+As required by the State of Maryland, Kent County will send copies of applications for all 
+developments, subdivisions, and site plans, wholly or partially within the Critical Area, as 
+specified in COMAR 27.03.01.04 to the Critical Area Commission for review and comment. 
+This includes all projects located in the RCD, CAR, CCA, M, and ECCA zoning districts. 
+2. 
+Until Kent County has received notice of receipt from the Critical Area Commission or the 
+appropriate waiting period per the State of Maryland has expired, the County may not 
+process an application that has been sent to the Critical Area Commission for notification.  
+3. 
+Per the State of Maryland, any action by Kent County in violation of these State-required 
+procedures shall be void. 
+2.3 
+YIELD CALCULATIONS FOR ORIGINAL TRACTS 
+All subdivision submittals will include yield calculations based on one of two calculations below: 
+1. 
+LOT COUNT DETERMINATION. All lots, parcels, tracts, sites, and other divisions of land 
+recorded after December 23, 1969, from an original lot, tract, or parcel of land described 
+in the Land Records of Kent County, will be counted in determining the number of lots in 
+a subdivision. An original/remainder lot is also counted in determining the number of lots. 
+2. 
+NON-CRITICAL AREA DENSITY. Outside the Chesapeake Bay Critical Area, all lots, parcels, 
+sites, and other divisions of land recorded after August 1, 1989, from an original lot, tract, 
+or parcel of land described in the Land Records of Kent County, will be counted in 
+determining the permitted density of a parcel of land.
+
+<!-- page 151 -->
+ARTICLE IV.  PROCESSES 
+SECTION 2. SUBDIVISIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     148
+3. 
+CRITICAL AREA DENSITY. Within the Chesapeake Bay Critical Area, all lots, parcels, sites, 
+and other divisions of land recorded after December 1, 1985, will be counted in 
+determining the permitted density of a parcel of land.  
+4. 
+ORIGINAL PARCEL. The original parcel is counted when determining density both within 
+and outside the Chesapeake Bay Critical Area. 
+2.4 
+TYPES OF SUBDIVISIONS 
+1. 
+LOT LINE ADJUSTMENTS (LLA) 
+Lot line adjustments between adjoining property owners and within single properties, 
+which do not create additional building lots are reviewed and may be approved by the 
+Planning Director, or Planning Director’s designee, and are subject to the following: 
+(A) 
+Transfer of these lots is not counted in determining the number of lots in a 
+subdivision. 
+(B) 
+Drawing requirements are at the discretion of the Planning Director but may 
+not exceed those required for a minor subdivision. 
+(C) 
+Procedures will be the same as that for a minor subdivision and minor project. 
+(D) 
+Lot Line Adjustments to property in the Agricultural Zoning District, which has 
+not been the subject of a subdivision action that created new lots, which was 
+approved after August 19, 2003, will not be subject to the restrictions of the 
+10% Rule as set forth under Article II, Section 2, § 2.3, “Maximum percentage 
+of property in lots.” 
+2. 
+MINOR SUBDIVISIONS 
+Minor subdivisions contain seven or fewer lots, sites, parcels, tracts, or other divisions of 
+land from the original lot, per §2.2, 1. LOT COUNT DETERMINATION (above). The Planning 
+Director, or Planning Director’s designee, may approve minor subdivisions following 
+Technical Advisory Committee review. At the Director’s discretion, a minor subdivision 
+may be submitted to the Planning Commission for approval.  In the absence of a Planning 
+Director, the Planning Commission will approve, approve with conditions, or disapprove 
+minor subdivisions.  
+Note: Private roads are only allowed in minor subdivisions. A private road may serve no 
+more than seven (7) parcels unless granted a waiver. Private roads will comply with the 
+Kent County Road Design and Construction Standards. Please see Subdivision Design 
+Requirements section below.  
+3. 
+MAJOR SUBDIVISIONS 
+Major subdivisions contain eight or more lots, parcels, sites, tracts, or other divisions of 
+land.  The Technical Advisory Committee reviews and the Planning Commission approves 
+major subdivisions at three stages - Concept, Preliminary, and Final.
+
+<!-- page 152 -->
+ARTICLE IV.  PROCESSES 
+SECTION 2. SUBDIVISIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     149
+4. 
+SPECIAL INSTRUCTIONS FOR RESUBDIVISIONS 
+When recording resubdivisions or combining lots in recorded subdivisions, letters rather 
+than numbers should be used to indicate lots whose boundary and area have been 
+affected. The numerical sequence will remain intact to avoid confusion in the future. 
+2.5 
+SPECIAL CIRCUMSTANCES - INTRAFAMILY TRANSFERS IN THE CRITICAL AREA 
+1. 
+A bona fide intrafamily transfer will be permitted only from parcels of land in the Resource 
+Conservation District that: 
+(A) 
+Were of record on March 1, 1986;  
+(B) 
+Are seven (7) acres or more and less than sixty (60) acres in size. 
+2. 
+Land will be subdivided as indicated: 
+(A) 
+A parcel that is seven (7) acres or more and less that twelve (12) acres in size 
+may be subdivided into two lots; 
+(B) 
+A parcel that is twelve (12) acres of more and less than sixty (60) acres in size 
+may be subdivided into three lots.  The lots may be created at different times. 
+3. 
+As a condition of approval, the following will be required: 
+(A) 
+The owner of the subdivided parcel attests to the bona fide family relationship 
+and that the intent is not for ultimate transfer to a third party. 
+(B) 
+Any deed for a lot that is created by a bona fide intrafamily transfer will contain 
+a covenant stating that the lot is created subject to the provisions of this 
+section. 
+(C) 
+A lot created by a bona fide intrafamily transfer will not be conveyed 
+subsequently to any person other than a member of the owner’s immediate 
+family except under procedures established herein. 
+(D) 
+This subsection does not prevent the conveyance of the lot to a third party as 
+security for a mortgage or a deed of trust, or subsequent conveyance resulting 
+from a foreclosure. 
+4. 
+Subsequent conveyance of lots to persons other than immediate family members: 
+(A) 
+The lot was created as a part of a bona fide intrafamily transfer and not with 
+the intent of subdividing the original parcel of land for purposes of ultimate 
+transfer to a third party; and 
+(B) 
+The owner of the transferred property dies; or  
+(C) 
+A change in circumstances has occurred since the original transfer was made 
+that is not inconsistent with the Critical Area Law and that warrants an 
+exception, or other circumstances that are consistent with the Critical Area Law 
+and the Critical Area Law Criteria to maintain land areas necessary to support
+
+<!-- page 153 -->
+ARTICLE IV.  PROCESSES 
+SECTION 2. SUBDIVISIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     150
+the protective uses of agriculture, forestry, open space, and natural habitats in 
+Resource Conservation Areas warrant an exception as determined and 
+approved by the Planning Commission. 
+2.6 
+SUBMITTAL REQUIREMENTS 
+Minor and Major subdivisions have similar requirements. Please see chart below for submittals. 
+TYPE: 
+1. Narrative 
+2. Preview 
+3. Summary 
+4. Detailed 
+5. Concluding 
+MINOR/LLA 
+X 
+X 
+X 
+ 
+ 
+MAJOR 
+• Concept 
+X 
+X 
+ 
+ 
+ 
+• Preliminary 
+X 
+X 
+X 
+X 
+ 
+• Final 
+X 
+X 
+X 
+X 
+X 
+The following documents are required to be submitted along with an application for subdivision.  
+1. 
+NARRATIVE ITEMS LIST 
+All applications will contain a narrative. The applicant will provide a narrative that 
+addresses the following.  The Planning Director may not require some elements of the 
+narrative that are not applicable to the proposed subdivision. 
+(A) 
+Name and address of the landowner, the developer and/or representative, if 
+different from the owner. 
+(B) 
+Street address, tax map, parcel number, and subdivision if any. 
+(C) 
+Zoning of the site. 
+(D) 
+Current and proposed use of the property. 
+(E) 
+An explanation of the viewshed, open space, and conservation analysis 
+undertaken during the design of the site plan 
+(F) 
+How the proposed development complies with the Comprehensive Plan and the 
+design and environmental standards of this Land Use Ordinance. 
+(G) 
+Proposed type of water and sewer service. 
+(H) 
+The proposed development schedule and phases of development for all 
+proposed construction. 
+(I) 
+A statement of provisions for ultimate ownership and maintenance of all parts 
+of the development including streets, structures, and open space. 
+(J) 
+Critical Area and/or non-Critical Area density calculations based on the original 
+parcel and subdivision history of the original parcel dating back to December 
+23, 1969.
+
+<!-- page 154 -->
+ARTICLE IV.  PROCESSES 
+SECTION 2. SUBDIVISIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     151
+(K) 
+Proposed lot coverage for the subdivision and where applicable, lot coverage 
+allotted to each lot. 
+(L) 
+Citizen Participation Plan (please refer to the Department for a CPP brochure) 
+Citizen Participation meetings are held once, prior to initial project submittal. 
+(M) 
+Analysis of the cost of providing local government services to the proposed 
+subdivision. 
+ 
+2. 
+PREVIEW ITEMS LIST 
+(A) 
+Scale – 1 inch = 100 feet or greater detail.  The Planning Director may authorize 
+the use of a different or not require a scale drawing, if, in the Director’s opinion, 
+the information shown on the plat can be presented with equal clarity by the 
+use of a different scale or drawing. 
+(B) 
+North arrow 
+(C) 
+Vicinity Map, with site location clearly marked. 
+(D) 
+Surveyor’s signature and seal. 
+(E) 
+Title Block that includes: 
+i. 
+Subdivision name 
+ii. 
+Names of owners of record and where applicable, names of developer, 
+architect, surveyor, planner, and/or engineer 
+iii. Location by Street Address, Election District, County and State 
+iv. Date of plan and all revisions 
+(F) 
+Names of adjoining property owners with Liber and Folio or name, recording 
+reference, and lot numbers of adjoining recorded subdivision. 
+(G) 
+Property boundaries and boundary survey. 
+(H) 
+Where applicable, the Critical Area boundary and minimum 100-foot buffer; 
+Stream Protection Corridor; Habitat Protection Area; Forest Stand Delineation 
+and Forest Conservation Plan; 100-year floodplain boundary, flood elevation 
+and the Airport Safety Zone. 
+(I) 
+Existing features, whether natural or manmade, that may influence the design 
+of the project including but not limited to the following: 
+i. 
+Natural features to be preserved in accordance with these regulations 
+ii. 
+Slopes in excess of 15% separate from those in excess of 25% 
+iii. Watercourses, including both perennial and intermittent streams  
+iv. Forest, tree groves, and significant trees 
+v. 
+Outstanding natural topographic features
+
+<!-- page 155 -->
+ARTICLE IV.  PROCESSES 
+SECTION 2. SUBDIVISIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     152
+vi. Tidal, State, and private, and non-tidal wetlands 
+vii. Scenic, cultural and/or historic areas 
+viii. Existing buildings, parking, and other impervious surfaces 
+(J) 
+Proposed layout of streets, lots (including estimate dimensions and lot area), 
+stormwater management areas, forest conservation areas, and open space. 
+(K) 
+A tabulation of the following: 
+i. 
+Total acreage 
+ii. 
+Acreage in 100-year floodplain 
+iii. Acreage in Critical Area 
+iv. Acreage in recreation and open space 
+v. 
+Acreage in forest 
+vi. Acreage in lots and streets 
+(L) 
+Location of any municipal or corporate limits, election district lines, or Critical 
+Area boundaries close to or crossing the tract. 
+ 
+3. 
+SUMMARY ITEMS LIST 
+(A) 
+Signature Blocks for Director of Planning, Kent County Health Officer, and 
+where applicable, the Director of Water and Wastewater Services. 
+(B) 
+Easements, covenants, right of ways, Public Drainage Association ditches, and 
+stormwater management structures and devices and the purpose for which 
+these easements, covenants, and rights-of way were established. 
+(C) 
+Boundary of subdivision shown in heavy outline. 
+(D) 
+Distances of courses to hundredths of a foot. 
+(E) 
+Bearings accurate to one second. 
+(F) 
+Location, width, and names of existing or proposed roads within or abutting 
+the subdivision. 
+(G) 
+Identification of private roads. 
+(H) 
+Curve data in tabular form, if applicable. 
+(I) 
+Area of each lot in acres and thousandths. 
+(J) 
+No distance marked “more or less” except mean high water. 
+(K) 
+Location and description of all monuments and markers as required. 
+(L) 
+Location of water and sewer, or septic reserve area and well, where applicable.
+
+<!-- page 156 -->
+ARTICLE IV.  PROCESSES 
+SECTION 2. SUBDIVISIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     153
+(M) 
+Where applicable, statement: “Private roads are not the responsibility of Kent 
+County.” 
+(N) 
+Width of waterway, depth measurements, channel, adjacent piers, or landings, 
+and 25% of the waterway, where applicable. 
+(O) 
+Topography, if required by the Planning Director. 
+ 
+4. 
+DETAILED ITEMS LIST 
+(A) 
+Topography.  The Planning Director, or Planning Director’s designee, may not 
+require submittal of field topography.  When the Planning Director does not 
+require such submittal, then a written explanation will accompany the plat. 
+(B) 
+Soil classifications mapped, if required for stormwater management review. 
+(C) 
+Sewer, water mains, culverts, fire hydrants, power transmission towers and the 
+approximate location, pipe size, and direction of flow of each underground 
+utility that exists in or is contiguous to the property. 
+(D) 
+The location, width, and name of each existing or proposed street or alley 
+within or abutting the subdivision. 
+(E) 
+Layout of all existing and proposed lots including: 
+i. 
+Lot numbers 
+ii. 
+Scaled areas 
+iii. Scaled dimensions 
+(F) 
+Location, dimensions, and areas of property reserved for public or community 
+use, where applicable 
+(G) 
+A tabulation of the following: 
+i. 
+Total number of lots 
+ii. 
+Acreage of each lot 
+iii. Acreage in 100-year floodplain 
+iv. Acreage in Critical Area 
+v. 
+Acreage in recreation and open space 
+vi. Acreage in forest  
+vii. Acreage of existing and proposed forest 
+viii. Total area of roadways and other lands to be dedicated. 
+ix. Total acreage of subdivision 
+(H) 
+Conceptual and schematic plans for:
+
+<!-- page 157 -->
+ARTICLE IV.  PROCESSES 
+SECTION 2. SUBDIVISIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     154
+i. 
+Water and sewer services  
+ii. 
+The storm drainage system, including the overall drainage area. 
+iii. Grading and sediment control measures 
+iv. Landscaping 
+v. 
+Forest Conservation Plan 
+(I) 
+Proof that the required utilities, i.e., electric and telephone, are available to the 
+proposed development. 
+(J) 
+The method and type of sewer and water service. 
+(K) 
+Where applicable, the width of waterway, depth measurements, channel, 
+adjacent piers, or landings, and 25% of the waterway. 
+(L) 
+Delineation of development staging, if any. 
+Note: Preliminary Plats DO NOT need to include Signature Blocks for the Director of Planning, 
+Kent County Health Officer, and the Director of Water and Wastewater Services. 
+ 
+5. 
+CONCLUDING ITEMS LIST 
+(A) 
+Signature Blocks for the Chairman of the Planning Commission, Director of 
+Planning, Health Officer, and where applicable, Director of Water and 
+Wastewater Services. 
+(B) 
+Owner’s certification and dedication. 
+(C) 
+Location and description of all monuments and markers as required by the 
+Annotated Code of Maryland. 
+(D) 
+Final landscape, forest conservation, stormwater management, sediment 
+control and other applicable improvement plans. 
+(E) 
+Deed restrictions and Public Works Agreements.  
+(F) 
+Signed Forest Conservation deeds, covenants, and easement for recordation. 
+(G) 
+Signed Stormwater Management easements and maintenance requirements. 
+(H) 
+All sureties required by Public Works, Health Department, and the Department.
+
+<!-- page 158 -->
+ARTICLE IV.  PROCESSES 
+SECTION 2. SUBDIVISIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     155
+2.7 
+SUBDIVISION DESIGN REQUIREMENTS 
+ZONING REGULATIONS  
+1. 
+Subdivisions will comply with requirements in Article V. Zoning Regulations that include 
+General Provisions, Parking and Loading, Signage Provisions, and Standards for Utility-
+Scale Solar Energy Systems. Additional requirements are included in the sections below. 
+ENVIRONMENTAL REGULATIONS  
+2. 
+Subdivisions will comply with requirements in Article VI. Environmental Regulations that 
+include General Provisions, Forest Interior Birds, Habitat Protection Areas, Shoreline and 
+Cliff Areas, Water Dependent Uses, Critical Areas, Forest Conservation, Erosion and 
+Sediment Control, Stormwater Management, and Floodplain Management. Additional 
+requirements are included in the sections below. 
+LAYOUT 
+3. 
+All reasonable efforts should be made to protect adjacent residential areas from 
+nuisances that could occur in commercial, industrial, and marine subdivisions by providing 
+adequate depth in parcels adjacent   to residential zoning. 
+4. 
+Proposed street layout, blocks, and parcels will be suitable in area and dimension for the 
+type of development anticipated. 
+5. 
+The total area of lots will be sufficient to provide adequate space for off-street parking, 
+loading, landscaping, and other facilities. 
+6. 
+Whenever possible, subdivisions will be designed to minimize adverse impacts on nearby 
+agricultural operations.  
+7. 
+The lot arrangement, design, and orientation of subdivisions will be such that lots will 
+provide satisfactory building sites, properly related to topography, the character of 
+surrounding development, and avoid facing the rear of properties to the existing 
+roadways as much as possible. 
+8. 
+Topography, tree cover, and natural drainage ways will be treated as fixed determinants 
+of road and lot configuration rather than malleable elements that can be changed to 
+follow a preferred development scheme.  
+OPEN SPACE 
+9. 
+When required by the relevant zoning district(s), proposed open space inside subdivisions 
+will provide for connections to existing, planned, or platted open space on adjacent tracts, 
+unless proposed connections of open space are found by the Planning Commission to be 
+unnecessary for the coordination of development between the subdivision and such 
+adjacent tract. 
+10. 
+Whenever possible, in residential subdivisions where open space is required, the majority 
+of lots designed for houses will abut on undivided open space.
+
+<!-- page 159 -->
+ARTICLE IV.  PROCESSES 
+SECTION 2. SUBDIVISIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     156
+11. 
+Open space, playgrounds, or other recreational areas will be set aside at a rate of 1/10 
+acre per dwelling unit. Playground equipment is to be indicated on the plans.  If the land 
+is not of significant quality and size for the purpose of providing or developing parks and 
+recreational facilities, the Planning Commission, or where applicable the Planning 
+Director, may permit a developer to pay a fee equal to the assessed value of the area of 
+the land required for open space and the value of the appropriate equipment in lieu of 
+providing land and equipment for recreational purposes.  Recreational land required 
+within a subdivision will be located so as to be reasonably accessible from all lots in the 
+subdivision in accordance with the following: 
+(A) 
+Steep slopes, streams, lakes, watercourses, and floodplains may constitute up 
+to 40% of the recreational land. 
+(B) 
+At least 60% of the recreational land will be suitable for dry ground recreational 
+use.  
+12. 
+Only in CR, Major subdivisions will include 40% of the adjusted tract acreage in open space 
+unless all of the parcels are 10 acres or more in size.  The adjusted tract acreage will be 
+determined by subtracting the acreage in slopes over 25%, tidal and non-tidal wetlands, 
+required buffers, and stormwater management areas.  The Planning Commission may set 
+aside this requirement when the total amount of open space, including steep slopes, 
+wetlands, buffers, and stormwater management areas exceeds 60% of the site.  When all 
+of the parcels in the subdivision exceed 10 acres in size, the developer will pay a fee of 
+$250.00 for each lot in lieu of providing land for recreational purposes. 
+ROADWAYS 
+13. 
+New public roads will be provided with a minimum of 50 feet total right-of-way; planned 
+roads designated as requiring additional right-of-way will be provided by the proposal. 
+14. 
+Where a subdivision adjoins or embraces any part of a major thoroughfare as designated 
+on the Kent County Major Thoroughfare Map, the layout of such subdivision will provide 
+for the platting and dedication of such part of the major thoroughfare in the location and 
+at the width indicated on the major thoroughfare plan, except that the subdivider will not 
+be required to dedicate that part of such major thoroughfare in excess of eighty (80) feet 
+in width of the subdivider’s own property. 
+15. 
+Where deemed desirable to the layout of the subdivision and adjoining area, the Planning 
+Commission may require the platting and dedication of one or more collector streets or 
+parts thereof, to serve the subdivision. 
+16. 
+The Department will review and approve street names proposed by applicants. A street 
+name may not be approved if it duplicates or is too similar to the name of another 
+roadway in the County or in one of the five incorporated Towns. 
+17. 
+Every lot will abut and have access to a public road or approved private road. 
+18. 
+Lots adjoining major thoroughfares and railroad lines should be designed with extra depth 
+and provision for an appropriate means of buffer or deeper building setbacks.
+
+<!-- page 160 -->
+ARTICLE IV.  PROCESSES 
+SECTION 2. SUBDIVISIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     157
+19. 
+Where land in a subdivision adjoins a railroad line, the street layout will make allowance 
+for future grade separated railroad crossings at appropriate locations by providing extra 
+street right of way widths for such crossings and by restricting intersecting streets at 
+locations where they would cause interference with necessary approaches to such 
+crossings. 
+20. 
+Proposed streets in a subdivision will provide for the continuation of existing, planned, or 
+platted streets on adjacent tracts, unless such continuation will be prevented by 
+topography or other physical feature or unless such extension is found by the Planning 
+Commission to be unnecessary for the coordination of development between the 
+subdivision and such adjacent tract. 
+21. 
+Where the Planning Commission deems it desirable or necessary to provide access to 
+adjacent tracts not presently subdivided, proposed streets in the subdivision will be 
+extended to the boundary lines with such tracts. 
+22. 
+Private roads are permitted only in minor subdivisions and are subject to the following 
+conditions: 
+(A) 
+Each road will serve no more than seven parcels.  In the event that an eighth 
+parcel is created, the eighth parcel and all further divisions of land will front on 
+a public road. 
+(B) 
+The subdivision will provide a 50-foot right-of-way for each private road. 
+(C) 
+The construction of all lanes and private roads will adhere to the requirements 
+established by the Kent County Department of Public Works and sediment 
+control and stormwater management regulations. 
+(D) 
+The plat will identify all private roads and will state: “The road is private and 
+not the responsibility of Kent County.” 
+(E) 
+The deed and contract of sale of all lots in the subdivision will state: “The road 
+is private and not the responsibility of Kent County.” 
+SHORELINE AND CLIFF AREAS 
+23. 
+Subdivisions will meet the provisions set forth in Article VI, Section 4, related to conditions 
+for new subdivisions and existing lots of three acres or greater.  
+SUBDIVISIONS IN VILLAGE AND INTENSE VILLLAGE – ADDITIONAL REQUIREMENTS 
+24. 
+New developments should be an extension of the overall village development pattern 
+rather than stand in contrast to it. 
+25. 
+New designs should consist of small, understandable neighborhood segments rather than 
+a single, large suburban theme. 
+26. 
+New developments should reflect the unordered, historical growth of the village and 
+avoid the cookie-cutter sameness of many new residential subdivisions.
+
+<!-- page 161 -->
+ARTICLE IV.  PROCESSES 
+SECTION 2. SUBDIVISIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     158
+27. 
+Any opportunities for a strong, central focus should be studied and developed.  These 
+central places are usually a key to establishing community identity. 
+28. 
+The types of open space provided should be a reflection of how passive and active open 
+spaces are now used in the village, whether they are adequate, and how they may be 
+complemented. 
+29. 
+Strong provisions should be made for walking as opposed to vehicular connections both 
+within and outside of the new community. 
+30. 
+Street widths and alignments should be carefully scaled to neighborhood size and be 
+patterned after the character of existing residential streets. 
+31. 
+The streetscape of new developments should be designed in detail to avoid repetitious 
+setbacks, driveways, elevations, and landscaping; and, 
+32. 
+When deemed necessary by the Planning Commission, or where applicable the Planning 
+Director, unobstructed easements of at least 10 feet will be provided to facilitate 
+walkways to commercial facilities, community areas, schools, parks, playgrounds, or other 
+public areas. 
+33. 
+New developments should carefully study and reflect the physical diversity of the existing 
+village in regard to the mixture of housing types; a mixture of housing styles; and a 
+mixture of lot sizes and shapes.  
+AIRPORTS – NOTE: NO AIRPORT SAFETY ZONE IS ADOPTED IN KENT COUNTY, MARYLAND. 
+This section applies to properties that fall within the Kent County Airport Safety Zone as 
+designated on the Kent County Airport Safety Zone Map.  The Kent County Airport Safety Zone 
+Map is incorporated into and made a part of this Ordinance.  It is the purpose of this section to 
+promote the public safety of the residents and visitors of Kent County by prohibiting to the extent 
+possible, the creation or establishment of obstructions that are a hazard to air navigation. 
+1. 
+No new ponds will be constructed within 5,000 feet of the runway. 
+2. 
+No new solid waste disposal sites will be permitted within 5,000 feet of any publicly 
+licensed airport.  New solid waste disposal sites will not be permitted within the limits of 
+the airport safety zone if the FAA determines the site to be a hazard. 
+3. 
+Developments which produce lights, illumination, or other visual hazards or which 
+produce electronic interference with airport/airplane navigation signals are subject to the 
+standards specified in the FAA procedure manual 7400-2C. 
+4. 
+Except as otherwise provided in this Ordinance, no structure will be erected, altered, or 
+maintained and no tree or other vegetation will be allowed to grow in excess of the height 
+limitations as designated on the Kent County Airport Safety Zone Map.
+
+<!-- page 162 -->
+ARTICLE IV.  PROCESSES 
+SECTION 3. SITE PLANS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     159
+SECTION 3 
+SITE PLANS 
+3.1 
+STATEMENT OF INTENT 
+Site Development Plans are required to ensure development complies with the Comprehensive 
+Plan, the Land Use Ordinance and various agency requirements, thereby promoting the health, 
+safety, and general welfare of Kent County’s residents.  
+3.2 
+PARCEL OF RECORD - ONE MAIN STRUCTURE  
+Every new structure or any structure that is relocated will be on a parcel of record; in no case will 
+there be more than one main structure on a single parcel in a primarily residential district, except 
+for accessory dwelling units, or unless otherwise provided by this Land Use Ordinance. 
+3.3 
+CRITICAL AREA COMMISSION REVIEW AND COMMENT REQUIRED 
+1. 
+As required by the State of Maryland, Kent County will send copies of applications for all 
+developments, subdivisions, and site plans, wholly or partially within the Critical Area, as 
+specified in COMAR 27.03.01.04 to the Critical Area Commission for review and comment. 
+This includes all projects located in the RCD, CAR, CCA, M, and ECCA zoning districts. 
+2. 
+Until Kent County has received notice of receipt from the Critical Area Commission or the 
+appropriate waiting period per the State of Maryland has expired, the County may not 
+process an application that has been sent to the Critical Area Commission for notification.  
+3. 
+Per the State of Maryland, any action by Kent County in violation of these State-required 
+procedures shall be void. 
+3.4 
+TYPES OF SITE PLANS 
+1. 
+PLOT PLAN – FOR PROJECTS EXEMPT FROM TECHNICAL ADVISORY COMMITTEE REVIEW 
+One single family dwelling, residential accessory uses and accessory structures associated 
+with a single-family dwelling, agricultural buildings on farms in AZD, and alterations and 
+remodeling of such existing structures may be eligible for the Plot Plan review process.   
+These projects have relatively minor impacts and thus require less information.  Plot plans 
+are reviewed and approved by the Planning Director or the Planning Director’s designee.  
+The following minor, non-residential projects may also be eligible for Plot Plan review: 
+(A) 
+Changes to internal parking lot layouts involving only changes to painted lines. 
+(B) 
+Changes to landscaped areas that do not reduce credit amounts for plantings 
+and if changes do not affect specific conditions placed by Planning Commission. 
+(C) 
+Freestanding signs – new, altered, and relocated, when only signs are involved. 
+(D) 
+Other minor projects where no other agency review will be needed or required.
+
+<!-- page 163 -->
+ARTICLE IV.  PROCESSES 
+SECTION 3. SITE PLANS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     160
+In most cases, Plot Plans are not reviewed by the Technical Advisory Committee (TAC), 
+and sealed drawings are not required; however, at the Planning Director’s discretion, TAC 
+review and sealed drawings may be required, depending on project scope and complexity.  
+Pursuant to State Law, projects eligible for Plot Plan review may not be exempted from 
+stormwater management review, if Limits of Disturbance (LOD) exceed 5,000 square feet. 
+ 
+2. 
+MINOR SITE PLAN – FOR PROJECTS EXEMPT FROM STORMWATER MANAGEMENT 
+The following uses and developments are eligible for Minor Site Plan review.  These 
+projects have less impact on the community, require less information, and  may be 
+allowed a modified review and approval process, which is exempt from stormwater 
+management. The Technical Advisory Committee reviews these projects. The Planning 
+Director, or Planning Director’s designee, may approve minor site plans. At the Director’s 
+discretion, a minor site plan may be submitted to the Planning Commission for approval. 
+In the absence of a Planning Director, the Planning Commission will approve, approve 
+with conditions, or disapprove minor site plans. Minor site plan eligibility includes: 
+(A) 
+Adaptive Reuse Projects with additions to buildings and/or changes to site 
+layouts with a Limit of Disturbance (LOD) of less than 5,000 square feet. 
+(B) 
+Changes of use that do not include building additions or changes to site layout. 
+(C) 
+Changes in vehicular access points in an existing non-residential or multi-family 
+development with a Limit of Disturbance (LOD) of less than 5,000 square feet. 
+(D) 
+A new Duplex on a single lot with a Limit of Disturbance (LOD) of less than 5,000 
+square feet.  
+(E) 
+A non-residential addition that increases the size of the existing building with a 
+Limit of Disturbance (LOD) of less than 5,000 square feet. 
+(F) 
+A new non-residential building with a Limit of Disturbance (LOD) of less than 
+5,000 square feet. 
+(G) 
+Special exceptions with additions to buildings and/or changes to site layouts 
+with Limits of Disturbance (LOD) of less than 5,000 square feet. 
+ 
+3. 
+MAJOR SITE PLAN – FOR REVIEW BY ALL AGENCIES AND STORMWATER MANAGEMENT 
+Commercial and industrial development, multi-family dwellings, special exceptions, public 
+facilities, and quasi-public facilities require major site plan review including concept plan, 
+preliminary site plan, and final site plan. The Technical Advisory Committee reviews these 
+projects. The Planning Commission reviews and approves major site plans.
+
+<!-- page 164 -->
+ARTICLE IV.  PROCESSES 
+SECTION 3. SITE PLANS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     161
+3.5 
+SUBMITTAL REQUIREMENTS 
+MINOR AND MAJOR SITE PLANS 
+Minor and Major site plans have similar requirements. Please see chart below for submittals. 
+TYPE: 
+1. Narrative 
+2. Preview 
+3. Summary 
+4. Detailed 
+5. Concluding 
+MINOR 
+X 
+X 
+X 
+ 
+ 
+MAJOR 
+• Concept 
+X 
+X 
+ 
+ 
+ 
+• Preliminary 
+X 
+X 
+X 
+X 
+ 
+• Final 
+X 
+X 
+X 
+X 
+X 
+PLOT PLAN – see Section 6 below 
+The following documents are required to be submitted along with an application for site plans.  
+1. 
+NARRATIVE LIST ITEMS 
+All applications for site plans will contain a narrative. The applicant will provide a narrative 
+that addresses the following.  The Planning Director may not require elements of the 
+narrative that are not applicable to the proposed project.  
+(A) 
+Name and address of the landowner, the developer and/or representative, if 
+different from the owner. 
+(B) 
+Street address, tax map, parcel number, and subdivision if any. 
+(C) 
+Zoning of site. 
+(D) 
+Current and proposed use of the property. 
+(E) 
+An explanation of the viewshed, open space, and conservation analysis 
+undertaken during the design of the site plan 
+(F) 
+How the proposed development complies with the Comprehensive Plan and the 
+design and environmental standards of this Ordinance. 
+(G) 
+Proposed type of water and sewer service. 
+(H) 
+Number of employees. 
+(I) 
+The proposed development schedule and phases of development for all 
+proposed construction. 
+(J) 
+A statement of provisions for ultimate ownership and maintenance of all parts 
+of the development including streets, structures, and open space. 
+(K) 
+Critical Area density calculations based on the original parcel. 
+(L) 
+For water dependent uses and facilities in the Critical Area, the narrative will 
+include documentation that shows the following:
+
+<!-- page 165 -->
+ARTICLE IV.  PROCESSES 
+SECTION 3. SITE PLANS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     162
+i. 
+That all State and federal regulations, which are specifically listed in the 
+narrative, will be adhered to and describing how compliance is achieved. 
+ii. 
+That the activities will not significantly alter existing water circulation 
+patterns or salinity regimes. 
+iii. That the water body upon which these activities are proposed has 
+adequate flushing characteristics in the area of development. 
+iv. That disturbance to wetlands, submerged aquatic plant beds, or other 
+areas of important aquatic habitats will be minimized. 
+v. 
+That adverse impact to water quality that may occur as a result of these 
+activities, such as non-point source runoff, sewage discharge from land 
+activities or vessels, or from boat cleaning and maintenance operations, 
+is minimized. 
+vi. That shellfish beds will not be disturbed or be made subject to discharge 
+that will render them unsuitable for harvesting. 
+vii. That dredging will be conducted in a manner, and using a method, which 
+creates the least disturbance to water quality and aquatic and terrestrial 
+habitats in the area immediately surrounding the dredging operation or 
+within the Critical Area. 
+viii. That dredge spoil will not be placed within the minimum 100-foot buffer 
+or elsewhere in that portion of the Critical Area which has been 
+designated as a Habitat Protection Area except as necessary for the 
+following: 
+1. Backfill for permitted shore erosion protection measures; 
+2. Use in approved vegetated shore erosion projects; 
+3. Placement on previously approved channel maintenance spoils 
+disposal area 
+4. Beach nourishment 
+ix. That interference with the natural transport of sand will be minimized. 
+x. 
+That in the context of existing uses, the proposed use will result in only 
+minimal individual and cumulative impact on water quality and fish, 
+wildlife, and plant habitat in the Critical Area. 
+xi. That the activity meets all required environmental standards.  
+(M) 
+For any site plan that includes proposed manufacturing or industrial uses: 
+i. 
+The type of raw materials, waste products, and other by-products 
+associated with the process.
+
+<!-- page 166 -->
+ARTICLE IV.  PROCESSES 
+SECTION 3. SITE PLANS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     163
+ii. 
+The identity of all chemicals and solids to be discharged into the sewage 
+system. 
+iii. The type and amount of traffic expected to be generated by the 
+operation. 
+iv. The proposed hours of operation. 
+v. 
+The proposed architectural design (graphic or narrative) of all structures. 
+(N) 
+Citizen Participation Plan (please refer to the Department for a CPP brochure) 
+Citizen Participation meetings are held once, prior to initial project submittal. 
+Citizen Participation Plans are not required for Plot Plans. 
+ 
+2. 
+PREVIEW LIST ITEMS 
+(A) 
+Scale – 1 inch = 100 feet or greater detail.  The Planning Director may authorize 
+the use of a different scale or not require a scale drawing, if, in the Director’s 
+opinion, the information shown on the plat can be presented with equal clarity 
+by the use of a different scale or drawing. 
+(B) 
+North arrow 
+(C) 
+Vicinity map, with site location clearly marked. 
+(D) 
+Title Block that includes: 
+i. 
+Names of owners of record and where applicable, names of developer, 
+architect, surveyor, planner, and/or engineer 
+ii. 
+Location by Street Address, Election District, County and State 
+iii. Date of plan and all revisions 
+(E) 
+Names of adjoining property owners with Liber and Folio or name, recording 
+reference, and lot numbers of adjoining recorded subdivision. 
+(F) 
+Property boundaries. 
+(G) 
+Where applicable, the Critical Area boundary and minimum 100-foot buffer; 
+Stream Protection Corridor; Habitat Protection Area; Forest Stand Delineation; 
+100-year floodplain boundary and flood elevation. 
+(H) 
+Existing features, whether natural or manmade, that may influence the design 
+of the project including but not limited to the following: 
+i. 
+Natural features to be preserved in accordance with these regulations 
+ii. 
+Slopes in excess of 15% separate from those in excess of 25% 
+iii. Watercourses, including both perennial and intermittent streams  
+iv. Forest, tree groves, and significant trees
+
+<!-- page 167 -->
+ARTICLE IV.  PROCESSES 
+SECTION 3. SITE PLANS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     164
+v. 
+Outstanding natural topographic features 
+vi. Tidal, State, and private, and non-tidal wetlands 
+vii. Scenic, cultural and/or historic areas 
+viii. Existing buildings, parking, and other impervious surfaces 
+(I) 
+Proposed use, street layout, parking and loading areas, building setback lines, 
+building location, if known, and recreation and open space areas. 
+(J) 
+Conceptual stormwater management. 
+(K) 
+Optional: Photographs of similar projects and/or previous work for reference. 
+ 
+3. 
+SUMMARY LIST ITEMS 
+(A) 
+Signature Blocks for Director of Planning, Kent County Health Officer, and 
+where applicable, the Director of Water and Wastewater Services. 
+(B) 
+Easements, covenants, right of ways, Public Drainage Association ditches, and 
+stormwater management structures and devices and the purpose for which 
+these easements, covenants and rights-of way were established 
+(C) 
+Existing and proposed lot coverage, existing forest and proposed clearing and 
+soils. 
+(D) 
+The layout of all the proposal with the following: 
+i. 
+Location, height and dimensions of buildings and lots 
+ii. 
+The proposed use 
+iii. Proposed setbacks 
+iv. Proposed driveways, parking, and loading areas including the number of 
+spaces 
+v. 
+Areas reserved for public use, recreation, open space, utilities, other 
+easements 
+vi. Stormwater management for Limits of Disturbance (LOD) that exceed 
+5,000 square feet  
+vii. Signs and lighting 
+(E) 
+A tabulation of the following: 
+i. 
+Total acreage 
+ii. 
+Acreage in 100-year floodplain 
+iii. Acreage in the Critical Area 
+iv. Acreage in recreation and open space
+
+<!-- page 168 -->
+ARTICLE IV.  PROCESSES 
+SECTION 3. SITE PLANS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     165
+v. 
+Acreage of impervious surfaces 
+vi. The total number of dwelling units or building types 
+vii. Total area of buildings 
+viii. The number and type of multi-family units for each structure and the 
+total number of units with the subtotal of each type 
+ix. The total number of parking and loading spaces, the number of parking 
+and loading spaces in each off-street parking area, and total of number of 
+handicap parking spaces 
+x. 
+Where applicable, maximum number of employees 
+(F) 
+Location of any municipal or corporate limits, election district line, or Critical 
+Area boundary close to or crossing the tract. 
+(G) 
+Proof that the required utilities, i.e., electric and telephone are available to the 
+proposed development 
+(H) 
+The method and type of sewer and water service. 
+(I) 
+The current zoning classifications. 
+(J) 
+Width of waterway, depth measurements, channel, adjacent piers, or landings, 
+and 25% of the waterway 
+(K) 
+Front, side, and rear elevations of all exterior walls, where applicable. 
+(L) 
+Traffic Study may be required by the Planning Commission or Planning Director. 
+Note: Minor Site Plans will include stormwater management for Limits of Disturbance (LOD) that 
+exceed 5,000 square feet. These plans are divided into three phases for other site plans. 
+ 
+4. 
+DETAILED LIST ITEMS 
+(A) 
+Topography via field survey work or LiDAR (Light Detection and Ranging) and a 
+boundary survey. The Planning Director, or the Planning Director’s designee, 
+may not require submittal of field topography. 
+(B) 
+Soil classifications mapped 
+(C) 
+Sewer, water mains, culverts, fire hydrants, power transmission towers and the 
+approximate location, pipe size, and direction of flow of each underground 
+utility that exists in or is contiguous to the property. 
+(D) 
+Where applicable, approved septic and septic reserve areas and well locations 
+(E) 
+The location, width, and name of each existing improved or unimproved street 
+or alley within 200 feet of the proposal. 
+(F) 
+Conceptual and schematic plans for:
+
+<!-- page 169 -->
+ARTICLE IV.  PROCESSES 
+SECTION 3. SITE PLANS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     166
+i. 
+Water and sewer services  
+ii. 
+The storm drainage system, including the overall drainage area. 
+iii. Grading and sediment control measures 
+iv. Landscaping 
+(G) 
+Preliminary stormwater management.  
+(H) 
+Delineation of development staging, if any. 
+Note: Preliminary Site Plans DO NOT need to include Signature Blocks for the Director of Planning, 
+Kent County Health Officer, and the Director of Water and Wastewater Services. 
+ 
+5. 
+CONCLUDING LIST ITEMS 
+(A) 
+Signature Blocks for the Planning Commission, Director of Planning, Health 
+Officer, and where applicable, Director of Water and Wastewater Services. 
+(B) 
+Location and description of all monuments as may be required. 
+(C) 
+No distances marked “approximate” except mean high water. 
+(D) 
+The exact dimensional layout of the project including buildings, parking, 
+loading spaces, driveways, use, all easements, etc. 
+(E) 
+Registered surveyor’s, architect’s, and/or engineer’s signature and seal. 
+(F) 
+All landscaping, lighting, and signage. 
+(G) 
+Renderings and elevations, if applicable. 
+(H) 
+Deed restrictions and Public Works Agreements..  
+(I) 
+Signed Forest Conservation deeds, covenants, and easement for recordation. 
+(J) 
+Signed Stormwater Management easements and maintenance requirements. 
+(K) 
+All sureties required by Public Works, Health Department, and the Department. 
+ 
+6. 
+PLOT PLANS – LIMITED SUBMITTAL ITEMS 
+This information will be presented in a clear and legible manner but does not have to be to scale. 
+The Planning Director or the Director’s Designee may determine if any information is not needed. 
+(A) 
+Plat showing existing and proposed topography, location and dimensions of the 
+lot, lot and block number, and name of subdivision, if any. 
+(B) 
+Road name(s), width of right of way, centerline, road widths, and grades. 
+(C) 
+Front, side, and rear yard widths, and easements.  
+(D) 
+Sediment control measures and limit of work.
+
+<!-- page 170 -->
+ARTICLE IV.  PROCESSES 
+SECTION 3. SITE PLANS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     167
+(E) 
+Discharge and storm drainage measures including rights and easements. 
+(F) 
+Stormwater management plans and calculations for any Limit of Disturbance 
+(LOD) that exceeds 5,000 square feet. 
+(G) 
+Legal restrictions (such as easements, existing covenants, zoning boundaries, 
+etc.) 
+(H) 
+Critical Area boundary and acreage in the Critical Area. 
+(I) 
+Location of existing and proposed structures, new construction, driveways, 
+other access, septic systems, and wells including the distance to all property 
+lines.   
+(J) 
+Where applicable, areas of afforestation and/or forest retention. 
+(K) 
+Where applicable, the width of the waterway, location of the channel, riparian 
+right lines, tidal wetlands, State, and private, and non-tidal wetlands. 
+(L) 
+Where applicable, existing and proposed impervious surface coverage, existing 
+forest and proposed clearing, the minimum 100-foot buffer, topography, and 
+soils. 
+ 
+3.6 
+GENERAL DESIGN STANDARDS – ALL ZONING DISTRICTS 
+The general design standards are re-organized into five categories: design guidelines for projects 
+in all districts with additional guidelines for residential districts (AZD, RCD, RC, CAR, and CR), 
+small-scale commercial and mixed-use districts (C, CCA, V, and IV), and large-scale commercial 
+and industrial districts (M, EC, and ECCA-IDA). These required design standards are CUMULATIVE. 
+All projects proposed for Plot Plan or Site Plan review will comply with the following standards.  
+SITE ACCESS 
+Site access will be subject to the following regulations to help ensure vehicle and pedestrian 
+safety and alleviate congestion: 
+1. 
+Safe Access. The applicant will demonstrate that access to the project is adequate and 
+the roads which will be impacted have the capacity to handle the traffic generated by the 
+proposed project and will not endanger the safety of the general public.  
+2. 
+Planned Access. Where a proposed road is designated on an approved County or State 
+map, site plans for development adjacent to the designated roadway will include 
+provisions for future access to the roadway. 
+3. 
+Consolidated Access. All site plans will provide access for projects to a public or approved 
+private road, and access will be consolidated whenever possible. 
+4. 
+Elevated Access. Whenever possible, roads will be constructed above the elevation of the 
+100-year floodplain.
+
+<!-- page 171 -->
+ARTICLE IV.  PROCESSES 
+SECTION 3. SITE PLANS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     168
+5. 
+Multimodal Access. Pedestrian and bicycle links to adjacent developments, recreational 
+facilities, and other public or semi-public uses will be provided whenever possible. 
+6. 
+ADA Access. The design and construction of walkways and bicycle paths will be evaluated 
+on the basis of safety, accessibility, and suitability, for use by motor-impaired individuals, 
+and surface suitability in terms of anticipated use and maintenance requirements, per the 
+2010 ADA Standards for Accessible Design, as may be amended from time to time.   
+7. 
+Primary Access. Where property abuts a primary, secondary, or collector road, access will 
+be by way of the secondary or collector road. Exceptions to this rule will be instances 
+where the Planning Commission, or where applicable the Planning Director, determines 
+that direct access onto the primary road would promote traffic safety. 
+8. 
+Shared Access. Where one or more contiguous parcels abutting a primary road are under 
+single ownership and any one of the parcels abuts a secondary road or collector road, 
+access to all of the parcels of the parcels under single ownership will be by way of the 
+secondary or collector road. Exceptions to this rule will be instances when the Planning 
+Commission, or where applicable the Planning Director, determines that direct access 
+onto the primary road would promote traffic safety. 
+9. 
+Limited Access. Only one direct access approach onto a primary road from an individual 
+parcel of record as of August 1, 1989, will be permitted unless the Planning Commission, 
+or where applicable the Planning Director, finds one of the following:  
+(A) 
+The Planning Commission may, with approval of the State Highway Administration 
+or Kent County Public Works Department, approve additional access if the 
+additional access is deemed to be significantly beneficial to the safety and 
+operation of the highway; or, if allowing only one access approach would be a 
+safety hazard or increase traffic congestion;  
+(B) 
+The Planning Commission may approve access when the parcel is bisected by 
+steep slopes, bodies of water, or other topographic features in a manner as to 
+render some portion of the property inaccessible without additional road access. 
+LIGHTING  
+10. 
+Dark sky. Lighting will be dark-sky compliant, emitting no light above the horizontal plane.  
+11. 
+Color-corrected. Lighting will use bulbs with a CRI (Color Rendering Index) of 90 or above.  
+12. 
+Glare-free. Lighting will be designed to avoid glare onto adjacent properties, roadways, 
+and any waterway. Lighting will not interfere with traffic or create a safety hazard. 
+13. 
+Safety-oriented. Lighting will be sufficient to provide for the safety and security of 
+businesses, employees, and customers. 
+14. 
+Height Limit. Lighting will be designed at the human scale and will not exceed 18 feet in 
+height, unless mounted on a building. The Planning Commission, or where applicable the 
+Planning Director, may set aside the height limitation.  
+ZONING REGULATIONS
+
+<!-- page 172 -->
+ARTICLE IV.  PROCESSES 
+SECTION 3. SITE PLANS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     169
+15. 
+Site plans will comply with requirements in Article V. Zoning Regulations that include 
+General Provisions, Parking and Loading, Signage Provisions, and Standards for Utility-
+Scale Solar Energy Systems. Additional requirements are included in the sections below. 
+ENVIRONMENTAL REGULATIONS  
+16. 
+Site plans will comply with requirements in Article VI. Environmental Regulations that 
+include General Provisions, Forest Interior Birds, Habitat Protection Areas, Shoreline and 
+Cliff Areas, Water Dependent Uses, Critical Areas, Forest Conservation, Erosion and 
+Sediment Control, Stormwater Management, and Floodplain Management. Additional 
+requirements are included in the sections below. 
+3.7 
+GENERAL DESIGN STANDARDS – RESIDENTIAL (AZD, RCD, RC, CAR, AND CR) 
+In addition to the All-Zoning Districts Design Standards set forth above, all projects proposed for 
+Plot Plan or Site Plan in this review category review will also comply with the following additional 
+standards.  
+1. 
+Purpose. The purpose of these standards is to give a sense of the physical aspects of the 
+County’s environment to those contemplating new development in the community. 
+Pertinent to this physical appearance is the design of the site, buildings and structures, 
+plantings, signs, street hardware, and miscellaneous other objects observed by the public.  
+These standards are not intended to restrict imagination, innovation, or variety, but 
+rather assist in focusing on design principles which can produce creative solutions that 
+will develop a satisfactory visual appearance within the County, preserve taxable values, 
+and promote the public health, safety, and welfare. 
+2. 
+For AZD and RCD Zoning Districts only. Agriculture is the preferred use, and agricultural 
+operations are protected by the Kent County Right-to-Farm Law. 
+3. 
+Good Stewardship. The reuse of existing buildings is encouraged. 
+4. 
+Conservation-based Design Principles. The landscape will be preserved in its natural 
+state, in so far as possible, by minimizing tree and soil removal.  
+(A) 
+Any grade changes will be in keeping with the general appearance of 
+neighboring development areas.  
+(B) 
+Buildings are encouraged to be located so as to maintain maximum natural 
+topography and cover.  
+(C) 
+Topography, tree cover, and natural drainage ways will be treated as fixed 
+determinants rather than malleable elements that can be changed to follow a 
+preferred development scheme.  
+(D) 
+Whenever possible, development will be outside the floodplain.  
+(E) 
+Internal streets, roadways, and lanes will be designed and located in a manner 
+so as to maintain and preserve natural topography, cover, significant
+
+<!-- page 173 -->
+ARTICLE IV.  PROCESSES 
+SECTION 3. SITE PLANS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     170
+landmarks, and trees; to minimize cut and fill; and to preserve and enhance 
+views and vistas on and off the subject parcel.  
+(F) 
+Proposed development will be related harmoniously to the terrain and to the 
+use, scale, and architecture of existing buildings in the vicinity that have 
+functional or visual relationships to the proposed buildings.  
+5. 
+Preservation. Whenever possible, adverse effects on historic, traditional, or significant 
+uses and structures will be minimized, whether these exist on the site or on adjacent 
+properties.  
+6. 
+Open Space. All open space (landscaped and usable) will be designed to add to the visual 
+amenities of the area by maximizing its visibility to persons passing the site or overlooking 
+it from nearby properties. Open space and naturally vegetative areas will be located, 
+insofar as possible, so as to connect and expand existing greenways on adjacent sites.  
+7. 
+Signs. The color, size, height, lighting, and landscaping of appurtenant signs and structures 
+will be evaluated for compatibility with the local architectural motif and the maintenance 
+of views and vistas of natural landscapes, recognized historic landmarks, parks, and 
+landscaping.  
+8. 
+Rural Design. Whenever possible, proposed developments should incorporate design 
+elements such as single loaded streets, reverse curves, terminal vistas of open space, and 
+foreground meadows.  
+9. 
+Public Utilities. Where public water and sewer services are available, then connection to 
+public water and sewer systems may be required by the Planning Commission. 
+10. 
+Supplemental. The Planning Commission or the Planning Director may require additional 
+standards and requirements to those stated in this Article as are necessary for the 
+protection of the environment and the health and safety of the residents of the County.  
+LANDSCAPING – STREET TREES  
+11. 
+Required. Street trees will be included in each subdivision.  Street trees may be clustered, 
+evenly spaced, or when building envelopes are within 20 feet of the public road right of 
+way, as front yard landscape trees.  The number of trees will be calculated as follows: 
+(A) 
+Small trees (trees less than 25 feet in height at maturity) – 1 per 25 linear feet 
+of lot or open space along public or private roads 
+(B) 
+Medium or large trees (25 feet or taller at maturity) – 1 per 40 linear feet of lot 
+or open space along public or private roads. 
+12. 
+Standards. At the time of planting, deciduous trees will have at least a 2-3-inch caliper at 
+6 inches above grade; coniferous trees will be at least 5 to 6 feet in height.   
+13. 
+Exemption. Where existing trees serve as street trees, the Planning Commission, or where 
+applicable the Planning Director, may accept them as street trees.
+
+<!-- page 174 -->
+ARTICLE IV.  PROCESSES 
+SECTION 3. SITE PLANS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     171
+3.8 
+GENERAL DESIGN STANDARDS – SMALL-SCALE COMMERCIAL AND MIXED-
+USE DESIGN STANDARDS (C, CCA, V AND IV) 
+In addition to the All-Zoning Districts Design Standards and Residential Design Standards set forth 
+above, all projects proposed for Plot Plan or Site Plan in this review category review will also 
+comply with the following additional standards.  
+SITE DESIGN 
+1. 
+Purpose. The purpose of imposing regulations governing building arrangement and site 
+design is to help protect significant environmental and historic features, promote a sense 
+of neighborhood and community identity and reduce the visual impact of high-density 
+development on the surrounding area. 
+2. 
+Street Relationship. Where existing buildings express a traditionally modest (pre-zoning) 
+front setback, creating a characteristically close relationship with the street (as in village 
+and town centers and along their approach roads), it is highly desirable to continue this 
+pattern in order to retain the area’s character.  Therefore, the setback of new construction 
+should harmonize with the average setbacks of existing buildings.  
+3. 
+Setback Variety. Outside the areas of generally uniform building setbacks (where existing 
+structures are at various distances from the roadway), front setbacks may vary to a 
+greater degree, and principal buildings will generally be within 40 feet and no closer than 
+20 feet to the front line unless there are substantial counterbalancing considerations 
+(such as irregular topography, wetlands, or the preservation of natural rural features, 
+including pastures, crop land, meadows, or timber stands).   
+4. 
+Site Preservation. Where significant trees, groves, waterways, historic, archeological, or 
+prehistoric sites or unique habitats are within the property boundaries of a proposed 
+project, the Planning Commission, or where applicable the Planning Director, may require 
+that every possible means will be provided to preserve these features.  In addition to 
+identifying existing natural features per this Ordinance, an inventory of existing on-site 
+historic and archeological features may be required. 
+5. 
+Building Variety. Projects should reflect the unordered, historical growth of the village 
+and avoid the cookie-cutter sameness of many new residential subdivisions. 
+6. 
+Pedestrian Emphasis. Strong provisions should be made for walking as opposed to 
+vehicular connections both within and outside of the new community. 
+7. 
+Streetscape Variety. The streetscape of projects should be designed in detail to avoid 
+repetitious setbacks, driveways, elevations, and landscaping. 
+8. 
+Design Diversity. Projects should carefully study and reflect the physical diversity of the 
+existing village in regard to the mixture of housing types; a mixture of housing styles; and 
+a mixture of lot sizes and shapes.
+
+<!-- page 175 -->
+ARTICLE IV.  PROCESSES 
+SECTION 3. SITE PLANS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     172
+9. 
+Supplemental. The Planning Commission or the Planning Director may require additional 
+standards and requirements to those stated in this Article as are necessary for the 
+protection of the environment and the health and safety of the citizens of the County. 
+BUILDING DESIGN 
+10. 
+Sense of Place. Buildings should be designed to enhance the community’s sense of place 
+by varying building massing and roof treatments, and by using building components and 
+architectural design that emphasize the human scale. Commercial establishments are 
+encouraged to limit the visual impression of height by the use of roof treatments and 
+varying the plane of exterior walls. Projects should be an extension of the overall village 
+development pattern rather than stand in contrast to it. 
+11. 
+Context Sensitive. New construction throughout the village should be compatible with 
+the surrounding properties, in terms of formal characteristics such as height, massing, 
+roof shapes and window proportions.  When new construction is surrounded by existing 
+historic buildings, building height and exterior materials will be harmonious with those of 
+adjacent properties. 
+12. 
+Human Scale. New buildings should not create large, bulky, masses but should be scaled 
+down into groupings of smaller attached structures and modules that reflect proportions 
+similar to historic buildings. Methods used to create intervals that reflect and respect 
+historic structures include but are not limited to the following: 
+(A) 
+Façade modulation – stepping back or extending forward a portion of a façade. 
+(B) 
+Repeating window patterns at established intervals. 
+(C) 
+Providing a balcony or bay window at established intervals. 
+(D) 
+Changing the roofline by alternating dormers, stepped roofs, gables, or other 
+roof elements. 
+(E) 
+Use of landscaping and architectural detailing at the ground level. 
+ 
+ 
+ 
+13. 
+Materials. Building designs will be encouraged to utilize traditional materials (brick or 
+wood) and contemporary interpretations of earlier styles. 
+Structure 2, Does not utilize building  massing 
+Structure 1, Utilizes building  massing 
+The above structures are the same height and width and are drawn to the same scale.
+
+<!-- page 176 -->
+ARTICLE IV.  PROCESSES 
+SECTION 3. SITE PLANS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     173
+14. 
+Identity-building. The design of new buildings, building additions, alterations, and façade 
+renovations should reflect the positive aspects of the existing design features of the 
+County. Buildings should complement and improve the overall environment of the area 
+15. 
+Orientation and Scale. The proposed building orientation will respect the orientation and 
+scale of surrounding buildings and where deemed necessary by the Planning Commission 
+serve as an orderly transition to a different scale. 
+16. 
+Rooftop Screening. All rooftop equipment will be screened from public view by screening 
+material of the same nature as the building’s basic building materials. 
+17. 
+Multi-Family projects: 
+(A) 
+To avoid monotonous linear development, multi-family development will be in 
+small clusters designed as neighborhood units.  A cluster will not include more 
+than 30 units.   
+(B) 
+In multi-family development, the number of units in a row is to be limited to a 
+maximum of eight. 
+(C) 
+Offsets at party walls and/or front and rear facades or similar devices are 
+required to visually reduce building mass and create individualized spaces 
+(courtyards, seating areas, etc.) for all multi-family projects.  Drawings of the 
+building elevations will be required.  The Planning Commission, or where 
+applicable Planning Director, may set aside this requirement. 
+COMMERCIAL DESIGN 
+18. 
+Local Design. Corporate or trademark architecture will not be permitted.  
+19. 
+Massing. Varied building massing is encouraged to enhance the community’s sense of 
+place.  
+20. 
+Street Relationship. Commercial building projects and buildings in shopping centers are 
+encouraged to be arranged in varied clustered masses related closely to the road. 
+21. 
+Projections and Porches. Arches, porches, arcades, overhangs, roofs, and varying façade 
+setbacks are encouraged on buildings and shopping centers. 
+22. 
+Scale. The scale within a shopping center will be consistent throughout the center. Where 
+anchor or major tenants require larger building areas, the larger scale of these units will be 
+broken down into comparable to the predominant unit in the development. The 
+placement of anchor stores will consider the overall balance of the center. 
+23. 
+Fenestration. Commercial establishments, offices, and financial institutions emphasize 
+personal service as their primary products. These structures should reflect personal 
+service by their architectural design which is at a human scale at entries and interior 
+spaces. Building components such as windows, wooden doors, and decorative trim should 
+emphasize the human scale in coordination with each other and the building scale.
+
+<!-- page 177 -->
+ARTICLE IV.  PROCESSES 
+SECTION 3. SITE PLANS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     174
+24. 
+Articulation. Each unit of development, and the total development, will create an 
+environment of desirability and stability. Commercial establishments are encouraged to 
+limit the visual impression of height by the use of roof treatments and varying the plane 
+of exterior walls.  
+25. 
+Display Areas. Whenever possible, display areas should be incorporated into the overall 
+design of the site. Display areas will not be in the front yard setback.  
+26. 
+Auxiliary Facilities and Functions. Loading docks, trash collection, and similar facilities 
+and functions will be incorporated into the overall design of the building and landscaping 
+so that the visual and acoustic impacts of these functions are fully contained and out of 
+view from adjacent properties and public streets. 
+LANDSCAPE - GENERAL 
+27. 
+Total Requirement. A minimum area of 15% of each new or redeveloped site, excluding 
+single family dwellings, will be landscaped.  Landscaping within the parking areas and 
+screening may be counted toward this requirement.  The front yard will be landscaped 
+and maintained in a neat and attractive condition. 
+28. 
+Maintenance. Sites will be permanently maintained in good condition with at least the 
+same quality and quantity of landscaping as originally proposed. 
+29. 
+Professionals. The landscape plan will be prepared by a registered professional forester, 
+landscape architect, or other professional with equivalent experience and qualifications. 
+30. 
+Exemptions. The Planning Commission, or where applicable the Planning Director, may 
+reduce or set aside the landscape requirement when it is demonstrated that the spirit 
+and intent of the requirement are accomplished through other means, or the nature of 
+the change does not require additional landscaping.  
+LANDSCAPE – PERIMETER AND SCREENING 
+31. 
+Purpose. Yards, fences, walls, or vegetative screening will be provided where needed to 
+protect residential districts or public streets from undesirable views, lighting, noise, or 
+other off-site influences. In particular, outdoor storage, extensive off-street parking areas, 
+and service areas for loading and unloading vehicles, and for storage and collection of 
+refuse and garbage will be effectively screened. 
+32. 
+Screening is required to protect adjoining properties and roadways from noise, glare, and 
+uses which are visually incompatible with neighboring land uses. Screening is required: 
+(A) 
+On sites which involve loading or unloading (including the storage of vehicles 
+and boats), trash, or disposal areas and where accessory buildings and 
+structures are adjacent to residential properties. 
+(B) 
+Where exterior storage areas are visible from roadways, sidewalks, or nearby 
+residential properties. 
+(C) 
+When noise not typically occurring in residential areas is expected to project 
+onto nearby properties.
+
+<!-- page 178 -->
+ARTICLE IV.  PROCESSES 
+SECTION 3. SITE PLANS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     175
+(D) 
+To screen parking areas, but not approved display areas, from motorists, 
+pedestrians, and adjoining residential properties. 
+(E) 
+Where the commercial or industrial site abuts a residential district or a primary 
+or secondary road. 
+(F) 
+Where the Planning Commission determines that additional screening is 
+necessary to protect properties in the area. 
+33. 
+Integration. Landscaped screens will be designed to complement other landscaping 
+occurring naturally on the site, planted previously, or approved as a part of a site plan. 
+Whenever possible, existing vegetation and landform will be used to create screens. 
+34. 
+Duration. The screen will be capable of providing year-round screening. 
+35. 
+Noise. When noise is likely to be a factor, the screen will be of sufficient construction to 
+be an effective noise buffer. 
+36. 
+Components. Screening will consist of trees and plants, and may include masonry, or 
+wooden fencing used with or without berms. Screening will consist of a functional and 
+well-designed combination of the following: 
+(A) 
+Vegetative ground cover 
+(B) 
+Coniferous and deciduous shrubs, specimens of which will reach and maintain 
+a minimum height of five (5) feet of full vegetative growth and which measure 
+a minimum of three (3) feet in height at the time of planting and are expected 
+to attain a minimum height of five (5) feet within three (3) years. 
+(C) 
+Coniferous and deciduous trees, species and sizes of which will be chosen to 
+best accomplish an adequate screen (i.e., evergreens used for visual screening, 
+deciduous trees for seasonal screening). 
+37. 
+Substitutions. Natural slopes and existing vegetation may be substituted for some or all 
+of the requirements above, provided that these features serve to screen the area from 
+adjoining properties and roadways. The Planning Commission, or where applicable the 
+Planning Director, will determine the acceptability of using existing slopes and vegetation 
+for this purpose. The Planning Commission, or where applicable the Planning Director, may 
+set aside screening where it is physically impossible to accomplish. 
+38. 
+Maintenance. Screening and fencing will be maintained in good condition and (with) in at 
+least the same quality and quantity as initially approved. 
+3.9 
+GENERAL DESIGN STANDARDS – MAJOR-SCALE COMMERCIAL AND 
+INDUSTRIAL DESIGN STANDARDS (M, EC, AND ECCA-IDA) 
+MARINE DESIGN STANDARDS 
+1. 
+General Standards. Projects in the Marine district will comply with the Design Standards 
+for All Zoning Districts and enumerated items 3-7 from the Residential Design Standards.
+
+<!-- page 179 -->
+ARTICLE IV.  PROCESSES 
+SECTION 3. SITE PLANS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     176
+2. 
+Overall Landscape Requirement. A minimum area of 10% of each new development will 
+be landscaped. Buffers and screening count in the calculation of the landscaped area. This 
+may be set aside by the Planning Commission or where applicable the Planning Director. 
+All projects will meet the landscape requirements in the Design Standards above for 
+Perimeters and Screening as well as the requirements set forth in Article V for Parking 
+and Loading. All projects will comply with the General Landscape Requirements in the 
+section above. 
+3. 
+Specific Design. Private Destination / Residence Clubs will comply with the Mixed-Use 
+Design Standards for Site Design and Building Design as well as Landscape requirements. 
+EMPLOYMENT CENTER AND ECCA-IDA DESIGN STANDARDS 
+In addition to the All-Zoning Districts Design Standards, Residential Design Standards, Small-Scale 
+Commercial and Mixed-Use Design Standards set forth above, all projects proposed for Site Plan 
+in this review category review will also comply with the following additional standards.  
+4. 
+Overall Landscape Requirement. There is no minimum area of landscaping beyond the 
+landscape requirements set forth in the Design Standards above for Perimeters and 
+Screening, as well as the requirements set forth in Article V for Parking and Loading. All 
+projects will comply with all landscape requirements in all Design Standards above. 
+5. 
+Curb Cut Limitations. Projects in any Employment Center zoning district will not create or 
+be a continuation of highway strip development with multiple access points or curb cuts 
+within 3,000 feet of each other on a State or County Road, in so far as possible. The 
+Planning Commission may waive this requirement, per the standards provided under the 
+Waivers section below.  
+6. 
+Enclosed Structures. In so far as possible, all uses will be conducted within a completely 
+enclosed structure or be completely screened. Outdoor storage of materials and 
+unfinished products is prohibited unless otherwise approved by the Planning Commission 
+and subject to such conditions as may be determined by the Planning Commission. 
+Finished or semi-finished products manufactured on the premises may be stored in the 
+open if screened from the street and adjacent uses. 
+7. 
+Traffic Flow. Principal vehicular access points will be designed to encourage smooth 
+traffic flow with controlled turning movements and minimum hazards to vehicular or 
+pedestrian traffic.  Storage, turn lanes, or traffic dividers may be required by the Planning 
+Commission where existing or anticipated heavy flows indicate need.  
+8. 
+Public Utilities. Where public water and sewer are available, then connections to public 
+water and sewer systems are mandatory. 
+PERFORMANCE STANDARDS FOR INDUSTRIAL AND MANUFACTURING USES 
+9. 
+General. Designs for newly proposed uses will meet the following performance standards. 
+10. 
+Points of measurement to determine compliance with performance standards will be the 
+property lot line or zoning line nearest the source that is the subject of measurement.
+
+<!-- page 180 -->
+ARTICLE IV.  PROCESSES 
+SECTION 3. SITE PLANS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     177
+11. 
+Noise.  All sources of noise (except those not under direct control of occupant of use, such 
+as vehicles), will not create sound or impact noise levels in excess of the values specified 
+below when measured at the points indicated.  In addition, between 7:00 P.M. and 7:00 
+A.M., the permissible sound levels at a residential district boundary adjoining 
+Employment Center Districts, will be reduced by five decibels in each octave band and in 
+the overall band for impact noises. 
+(A) 
+Noise will be measured by means of a sound level meter and octave band 
+analyzer, calibrated in decibels (re 0.0002 microbar), and will be measured at 
+the nearest lot line from which the noise level radiates.  Impact noises will be 
+measured by means of an impact noise analyzer.  Impact noises are those 
+whose peak values fluctuate more than six decibels from the steady values 
+indicated on the sound level meter set at fast response. 
+(B) 
+Decibel – A measurement of the intensity (volume) of a sound. 
+(C) 
+Octave band – A prescribed interval of sound frequencies which classifies 
+sound according to its pitch. 
+(D) 
+Preferred frequency octave bands – A stigmatized series of octave bands 
+prescribed by the American Standards Association in Sel. 6-1970 Preferred 
+Frequencies for Acoustical Measurements. 
+(E) 
+Sound level meter – An electronic instrument which includes a microphone, an 
+amplifier, and an output meter which measures noise and sound pressure 
+levels in a specified manner.  It may be used with the octave band analyzer that 
+permits measuring the sound pressure level in discrete octave bands.  
+ 
+MAXIMUM PERMITTED SOUND LEVELS (Decibels) 
+Octave band, 
+cycles/second 
+At residential boundaries 
+At other lot lines 
+31.5 
+64 
+72 
+63 
+64 
+74 
+125 
+60 
+70 
+250 
+54 
+65 
+500 
+48 
+59 
+1,000 
+42 
+55 
+2,000 
+38 
+51 
+4,000 
+34 
+47 
+8,000 
+30 
+44 
+Overall 
+80 
+90 
+ 
+(F) 
+Vibration.  The product of displacement in inches times the frequency in cycles 
+per second of earthborn vibrations from any activity will not exceed the values 
+specified below when measured at the points indicated.  Earthborn vibrations 
+will be measured by means of a three-component recording system, capable of 
+measuring vibration in three mutually perpendicular directions.  The
+
+<!-- page 181 -->
+ARTICLE IV.  PROCESSES 
+SECTION 3. SITE PLANS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     178
+displacement will be the maximum instantaneous vector sum of the amplitude 
+in the three directions. 
+ 
+MAXIMUM PERMITTED VIBRATIONS (INCHES PER SECOND) 
+AREA OF MEASUREMENT 
+Type of Vibrations 
+At Residential Boundaries 
+At other Lot lines 
+Continuous 
+0.003 
+0.015 
+Impulsive – 100/min or less 
+0.006 
+0.030 
+Less than 8 pulses per 24 hours 
+0.015 
+0.075 
+ 
+12. 
+Glare. No direct or sky reflected glare, whether from flood lights or from high temperature 
+processes such as combustion, welding or otherwise, is to be visible beyond the lot line, 
+except for signs, parking lot lighting and other lighting permitted by this Ordinance or 
+required by any other applicable regulation, ordinance, or law. 
+13. 
+Air pollution.  The rules and regulations of the State of Maryland will apply. 
+14. 
+Water pollution.  The rules and regulations of the State of Maryland will apply. 
+15. 
+Radioactivity. There will be no radioactive emission which would be dangerous to the 
+health and safety of persons on or beyond the premises where such radioactive material 
+is used.  Determination of existence of such danger and the handling of radioactive 
+materials, the discharge of such materials into the atmosphere and streams or other 
+water, and the disposal of radioactive wastes will be by reference and in accordance with 
+applicable current regulations of the governments of the United States and Maryland. 
+16. 
+Electrical interference.  There will be no electrical disturbance emanating from any lot 
+that would adversely affect the operation of any equipment on any other lot or premises. 
+17. 
+Smoke and particulate matter limitations 
+(A) 
+General limitations. In addition to the performance standard specified 
+hereinafter, the emission of smoke or particulate matter in such manner or 
+quantity as to be detrimental to or endanger the public health, safety, comfort, 
+or welfare is declared to be a public nuisance and will henceforth be unlawful. 
+(B) 
+Particulate matter emission caused by the wind from open storage areas, 
+yards, roads, etc., within lot lines will be kept to a minimum by appropriate 
+landscaping, paving, wetting, or other means. 
+(C) 
+For the purposes of determining the density or equivalent opacity of smoke, 
+the Ringelmann Chart as adopted and published by the United States Bureau 
+of Mines in Circular No. 8333 (7718) will be employed. 
+(D) 
+Permitted smoke emission.  Within 1,000 feet of a residence or commercial 
+zoning district boundary line, the emission of visible smoke from any vent, 
+stack, chimney, or combustion process, darker than Ringelmann No.2 for a 
+period or periods aggregating more than 4 minutes in any 60-minute period 
+will not be permitted.
+
+<!-- page 182 -->
+ARTICLE IV.  PROCESSES 
+SECTION 3. SITE PLANS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     179
+18. 
+Toxic matter limitations.  In any Employment Center District, toxic materials which are 
+released will not exceed 10% of the maximum permissible airborne concentration 
+allowed an industrial worker when measured at any point beyond the lot line, either at 
+ground level or habitable elevation, whichever is more restrictive.  When maximum 
+permissible airborne concentrations of toxic materials allowed an industrial worker are 
+not contained in the most recent list of Threshold Limit Values published by the American 
+Conference of Governmental Industrial Hygienists, the applicant will satisfy the County 
+Health Officer that proposed levels will be safe to the general population. 
+19. 
+Odorous matter limitations.  The release of odorous matter from any Employment Center 
+District across residential or commercial district boundary lines will be so controlled that 
+at ground level or at habitable elevations the concentration will not exceed the odor 
+threshold lines.  Further, the release of odorous matter across lot lines will not become a 
+nuisance or source of discomfort to neighboring uses. As a guide in determining qualities 
+of offensive odors, Table III (Odor Thresholds), Chapter 5, Air Pollution Abatement 
+Manual, by Manufacturing Chemists Association, Inc., as amended, may be used. 
+20. 
+Certified engineer’s report - first submittal.  The applicant for a grading permit, sediment 
+control permit, or building permit for uses in an Employment Center District, or applicants 
+for variances to the district will be required to submit proof that the uses proposed will 
+not cause violations of Federal, State or County laws or regulations.  For industrial uses 
+which will produce emissions of pollutants to the waters or air of the County, this proof 
+will include measurements of the ambient water and air quality as well as documentation 
+in the form of figures that the additional planned and proposed industrial use will not 
+cause the violation of either ambient or source standards outlined by the laws and 
+regulations of the Federal, State, or County governments. 
+21. 
+Certified engineer’s report - additional submittals required. Each future occupant of an 
+industrial character will submit to the County as a part of final site development plan 
+approval, a certified engineer’s report describing: the proposed operation, all machines, 
+processes, products and by-products, stating the nature and expected levels of emission 
+or discharge to land, air, water or liquid, solid, or gaseous effluent and electrical impulses, 
+vibrations and noise under normal operations and the specifications or treatment 
+methods and mechanisms to be used to control such emission or discharge. 
+22. 
+Expansion, modification, or enlargement. Existing industrial uses will be permitted to 
+continue and to expand, enlarge or modify provided that the industry continues to comply 
+with the performance standards.  Existing industrial uses that do not conform to the 
+performance standards will be permitted to expand, modify, or enlarge provided the 
+expansion, modification, or enlargement does not increase the degree of 
+nonconformance and that the applicant submits a statement that identifies measures to 
+bring the industry into compliance.  When the Planning Commission finds that an existing 
+industry is not making a good faith effort to comply with the performance standards, the 
+Planning Commission may deny an application for expansion, modification, or 
+enlargement and may initiate an enforcement action.
+
+<!-- page 183 -->
+ARTICLE IV.  PROCESSES 
+SECTION 4. SPECIAL EXCEPTIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     180
+SECTION 4 
+SPECIAL EXCEPTIONS  
+4.1 
+STATEMENT OF INTENT 
+Special Exception uses are allowed and presumed to be compatible with other permitted uses in 
+a zoning district; however, a review process is required to evaluate whether the particular use 
+proposed at a particular location would have any adverse effects above and beyond those 
+inherently associated with such a use irrespective of its location within the zoning district and to 
+ensure that development complies with the Comprehensive Plan, the Land Use Ordinance and 
+various agency requirements, thereby promoting the health, safety, and general welfare of Kent 
+County’s residents. 
+4.2 
+CRITICAL AREA COMMISSION REVIEW AND COMMENT REQUIRED 
+1. 
+As required by the State of Maryland, Kent County will send copies of applications for all 
+developments, subdivisions, and site plans, wholly or partially within the Critical Area, as 
+specified in COMAR 27.03.01.04 to the Critical Area Commission for review and comment. 
+This includes all projects located in the RCD, CAR, CCA, M, and ECCA zoning districts. 
+2. 
+Until Kent County has received notice of receipt from the Critical Area Commission or the 
+appropriate waiting period per the State of Maryland has expired, the County may not 
+process an application that has been sent to the Critical Area Commission for notification.  
+3. 
+Per the State of Maryland, any action by Kent County in violation of these State-required 
+procedures shall be void. 
+4.3 
+TYPES OF SPECIAL EXCEPTIONS. 
+1. 
+Administrative Special Exceptions. 
+The Planning Director or the Planning Director’s designee will have the right, but not the 
+obligation, to hear and decide the following special exceptions when indicated as special 
+exceptions in individual zoning districts: 
+(A) 
+Accessory residential structures with ground floor area of more than 2,000 sf 
+(B) 
+Accessory sheds on properties less than 20 acres in size 
+(C) 
+Accessory structures in the front yard requirement of waterfront parcels 
+(D) 
+Accessory structures in a front yard of through or corner lots 
+(E) 
+Adaptive reuse of existing structures in AZD, located on parcels under 20 acres 
+(F) 
+Assisted living facilities with five to eight beds 
+(G) 
+Cottage industries, tradesmen, and artisan shops 
+(H) 
+Day care group 
+(I) 
+Single family dwellings
+
+<!-- page 184 -->
+ARTICLE IV.  PROCESSES 
+SECTION 4. SPECIAL EXCEPTIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     181
+2. 
+Special Exceptions evaluated by the Boards of Appeal after Planning Commission review. 
+(A) 
+Adaptive reuse of historic structures for uses not otherwise listed 
+(B) 
+Agritourism on farms, as defined in Article VII  
+(C) 
+Aquaculture 
+(D) 
+Airport, landing field, heliport, or helistop, public or private 
+(E) 
+Animal husbandry – all categories requiring special exception approval  
+(F) 
+Attached retail businesses 
+(G) 
+Automobile repair 
+(H) 
+Automobile service stations 
+(I) 
+Boat building, repairs, and sales 
+(J) 
+Car wash 
+(K) 
+Cemetery, including crematorium and mausoleum 
+(L) 
+Conference center 
+(M) 
+Convalescent, nursing, or group homes for the aged with five or more beds 
+(N) 
+Country inn 
+(O) 
+Country stores 
+(P) 
+Dredge spoil site 
+(Q) 
+Excavation, landscaping, and other contractor’s yard 
+(R) 
+Farm Employee Housing 
+(S) 
+Golf courses, public or private 
+(T) 
+Hospitals, rehabilitation facilities, or other similar institutions for human care 
+(U) 
+Houses of worship 
+(V) 
+The manufacture, processing, and assembling of food products to include 
+baked and confectioners’ goods, frozen food processing, fruit and vegetable 
+processing, canning and storage, or businesses of a similar nature, excluding 
+animal and seafood processing. ++ 
+(W) 
+Livestock auction houses, located on farms 
+(X) 
+Migrant labor camps 
+(Y) 
+Mobile home parks 
+(Z) 
+Multi-level boat storage 
+(AA) 
+Outdoor entertainment 
+(BB) 
+Outdoor recreation, miniature golf, but not golf courses
+
+<!-- page 185 -->
+ARTICLE IV.  PROCESSES 
+SECTION 4. SPECIAL EXCEPTIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     182
+(CC) 
+Personal wireless facility tower 
+(DD) 
+Poultry houses on parcels where the owner cannot handle the waste generated  
+(EE) 
+Printing and publishing 
+(FF) 
+Private schools 
+(GG) 
+Production of biofuels 
+(HH) 
+Public uses, buildings, utilities and structures 
+(II) 
+Pubs, taverns, and bars 
+(JJ) 
+Radio and television tower, commercial 
+(KK) 
+Recreational facilities 
+(LL) 
+Resorts 
+(MM) 
+Restaurants with drive through facilities in the Route 301 Corrdior 
+(NN) 
+Retail businesses 
+(OO) 
+Retreats 
+(PP) 
+Rural Inns 
+(QQ) 
+Sand and gravel pits 
+(RR) 
+Sanitary landfill or rubble fill 
+(SS) 
+School bus parking lot ++ 
+(TT) 
+Seafood processing 
+(UU) 
+Sewage sludge land application 
+(VV) 
+Shopping centers 
+(WW) 
+Solar energy systems, utility 
+(XX) 
+Solar energy systems, utility scale on farms 
+(YY) 
+Structures for the buying, processing, and sale of animal products 
+(ZZ) 
+Tie-out pilings of private piers, community piers, and private shared piers, 
+installed at a distance not to exceed 25% of the width of the waterway, the 
+edge of the channel, or 180 feet from the mean high-water mark, whichever is 
+less, for the exclusive mooring use by tall ships as safe-harbors from hurricanes 
+and other severe weather-related threats. + 
+(AAA) 
+Truck parking lot 
+(BBB) 
+Truck stops 
+(CCC) 
+Truck terminals 
+(DDD) 
+Weddings on farms
+
+<!-- page 186 -->
+ARTICLE IV.  PROCESSES 
+SECTION 4. SPECIAL EXCEPTIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     183
+(EEE) 
+Wind energy systems, small 
+(FFF) 
+Wind energy systems, small, with a height that exceeds 80 feet or on a lot less 
+than 20 acres 
+3. 
+Special Exceptions evaluated by the Board of Appeals only. 
+(A) 
+Dog kennels, commercial 
+(B) 
+Dormitories for employees  
+(C) 
+Exposition center or fairgrounds 
+(D) 
+Farm employee housing 
+(E) 
+Private clubs 
+(F) 
+Public landings 
+(G) 
+Rifle and pistol ranges 
+(H) 
+Structures for the buying, processing, and sale of farm products in structures 
+that exceed 10,000 square feet but are less than 50,000 square feet 
+4.4 
+CRITERIA FOR GRANTING SPECIAL EXCEPTIONS  
+A special exception may not be authorized, unless the Board of Appeals, or where applicable the 
+Planning Director, finds that the establishment, maintenance, or operation of the special 
+exception meets the standards set forth in this Section. The burden of proof is on the applicant 
+to bring forth the evidence and the burden of persuasion on all question of fact which are 
+determined by the Board or where applicable the Planning Director.  
+ 
+Unless otherwise specified in this Section or as a condition of approval, the height, yard, lot area, 
+design, environmental, parking, and sign requirements will be the same as other uses in the 
+district in which the special exception is located.  
+ 
+The Board, or where applicable the Planning Director, will make findings on the following where 
+appropriate: 
+ 
+1. 
+The nature of the proposed site, including its size and shape and the proposed size, shape, 
+and arrangement of structures;  
+2. 
+Traffic Patterns;  
+3. 
+Nature of surrounding area;  
+4. 
+Proximity of dwellings, houses of worship, schools, public structures, and other places of 
+public gathering;  
+5. 
+The impact of the development or project on community facilities and services;  
+6. 
+Preservation of cultural and historic landmarks, significant natural features and trees;
+
+<!-- page 187 -->
+ARTICLE IV.  PROCESSES 
+SECTION 4. SPECIAL EXCEPTIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     184
+7. 
+Probable effect of noise, vibration, smoke and particulate matter, toxic matter, odor, fire 
+or explosion hazards, or glare upon surrounding properties;  
+8. 
+The purpose and intent of this Ordinance as set forth in Article II;  
+9. 
+Design, environmental, and other standards of this Ordinance as set forth in Article V;  
+10. 
+The most appropriate use of land and structure;  
+11. 
+Conservation of property values;  
+12. 
+The proposed development’s impact on water quality;  
+13. 
+Impact on fish, wildlife and plant habitat;  
+14. 
+Consistency with the Comprehensive Plan and Land Use Ordinance;  
+15. 
+Consistency with the Critical Area Program; and  
+16. 
+Compatibility with existing and planned land use as described in the Comprehensive Plan 
+and the Land Use Ordinance.  
+4.5 
+CONDITIONS AND GUARANTEES FOR SPECIAL EXCEPTIONS 
+1. 
+Prior to the granting of any special exception, the Board, or where applicable the Planning 
+Director, may impose such conditions and restrictions upon the establishment, location, 
+construction, maintenance, and operation thereof as deemed necessary to reduce or 
+minimize any effect of such use upon other property in the neighborhood, and to secure 
+compliance with the standards and requirements specified in this Ordinance.   
+2. 
+Special Exception uses will be evaluated using the specific conditions in Article III Uses.   
+3. 
+General conditions or restrictions may also include but are not limited to the following: 
+(A) 
+Hours of operation 
+(B) 
+Permitted expansion 
+(C) 
+On-premises sales 
+(D) 
+Exterior display, lighting, storage, signs, and other indicators or appearance of 
+a business that may detract from the general character of the area 
+(E) 
+Location of parking 
+(F) 
+Increased setbacks and screening 
+(G) 
+Landscaping 
+(H) 
+The size and type of equipment 
+(I) 
+The number of clients allowed on premises at one time or class size 
+(J) 
+Accessory vehicles 
+(K) 
+Accessory uses
+
+<!-- page 188 -->
+ARTICLE IV.  PROCESSES 
+SECTION 4. SPECIAL EXCEPTIONS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     185
+(L) 
+Letters of credit, bonds, or other surety, except relating to Cottage industries, 
+tradesmen, and artisan shops, which may be set aside by the Planning Director 
+4. 
+The Board of Appeals may hire expertise as may be needed to provide advice and assist 
+in its decision-making.  In its recommendation, the Planning Commission may recommend 
+that additional expertise is warranted.  
+5. 
+The Board, or where applicable the Planning Director, may require such evidence and 
+guarantees as it deems necessary as proof that the conditions imposed in connection with 
+a special exception will be implemented.  Failure to comply with such conditions or 
+restrictions imposed will constitute a violation of this Land Use Ordinance and the 
+Department may revoke permits issued under the special exception.
+
+<!-- page 189 -->
+ARTICLE IV.  PROCESSES 
+SECTION 5. VARIANCES 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     186
+SECTION 5 
+VARIANCES 
+5.1 
+STATEMENT OF INTENT 
+The granting of variances will comply, as nearly as possible, in every respect to the spirit, intent, 
+and purpose of this Land Use Ordinance; variances are granted to (a) relieve unwarranted 
+hardships or other injustices arising out of the strict application of the provisions of this Land Use 
+Ordinance and (b) for reasons of demonstrable practical difficulties, as distinguished from 
+variations sought for purposes or reasons of convenience, profit, or caprice.  
+5.2 
+CRITICAL AREA COMMISSION REVIEW AND COMMENT REQUIRED 
+1. 
+As required by the State of Maryland, Kent County will send copies of applications for all 
+developments, subdivisions, and site plans, wholly or partially within the Critical Area, as 
+specified in COMAR 27.03.01.04 to the Critical Area Commission for review and comment. 
+This includes all projects located in the RCD, CAR, CCA, M, and ECCA zoning districts. 
+2. 
+Until Kent County has received notice of receipt from the Critical Area Commission or the 
+appropriate waiting period per the State of Maryland has expired, the County may not 
+process an application that has been sent to the Critical Area Commission for notification.  
+3. 
+Per the State of Maryland, any action by Kent County in violation of these State-required 
+procedures shall be void. 
+5.3 
+TYPES OF VARIANCES 
+1. 
+Administrative Zoning Variances  
+The Planning Director, or Planning Director’s designee, may authorize, upon application, 
+variances from the yard (front, side, or rear), but not buffer in an amount that does not 
+exceed 50% of the required yard for the applicable zoning district. Height, parking, sign, 
+and loading requirements may be varied up to 50% of limits. At the Director’s discretion, 
+any variance of this nature may be submitted to the Board of Appeals for approval.  
+2. 
+Administrative Critical Area Variances 
+The Planning Director, or Planning Director’s designee, may authorize, upon application, 
+variances from the buffer requirements on parcels that existed on or before December 1, 
+1985, in order to repair, replace, or install septic systems for the applicable zoning district. 
+At the Director’s discretion, any variance of this nature may be submitted to the Board of 
+Appeals for approval. 
+3. 
+Zoning and Critical Area Variances  
+The Kent County Board of Appeals may authorize, upon application, variances from the 
+yard (front, side, or rear), height, bulk, parking, sign, loading, shoreline cliff, 15% slope, 
+pier length, impervious surface, stream protection corridor, forest conservation retention 
+provisions, buffer requirements, and any non-use-related provision of this Ordinance.
+
+<!-- page 190 -->
+ARTICLE IV.  PROCESSES 
+SECTION 5. VARIANCES 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     187
+4. 
+ Floodplain Variances  
+The Kent County Board of Appeals may authorize, upon application, variances from the 
+floodplain provisions of this Land Use Ordinance. Such granting of a variance will comply, 
+as nearly as possible, in every respect to the spirit, intent, and purpose of the floodplain 
+regulations and sound floodplain management. 
+5. 
+Stormwater Management Variances  
+The Kent County Board of Appeals may grant a written variance from the stormwater 
+requirements found in this Land Use Ordinance. A written request for variance will be 
+provided to the County and will state the specific variances sought and reasons for their 
+granting. The County will evaluate the cumulative effects of other developments that are 
+relinquished from the requirements of stormwater management.  
+5.4 
+CRITERIA FOR ZONING VARIANCES 
+1. 
+In order to grant a variance, the following will be found:  
+(A) 
+That the variance will not cause a substantial detriment to adjacent or 
+neighboring property.  
+(B) 
+That the variance will not change the character of the neighborhood or district.  
+(C) 
+That the variance is consistent with the Comprehensive Plan and the general 
+intent of this Land Use Ordinance.  
+(D) 
+That the practical difficulty or other injustice was caused by the following:  
+i. 
+Some unusual characteristics of size or shape of the property;  
+ii. 
+Extraordinary topographical or other condition of the property;  
+iii. The use or development of property immediately adjacent to the 
+property, except that this criterion will not apply in the Critical Area.  
+(E) 
+That the practical difficulty or other injustice was not caused by the applicants’ 
+own actions.  
+(F) 
+In considering an application for a variance, the reasonable use of the entire 
+parcel or lot for which the variance is requested will be considered.  
+(G) 
+The cause of a variance request may be considered, and if a variance request 
+is the result of actions by the applicant, including whether commencement of 
+development activity occurred before an application for a variance was filed. 
+5.5 
+CRITERIA FOR CRITICAL AREA VARIANCES 
+1. 
+In order to grant a variance, the following will be found:  
+(A) 
+The granting of a variance will be in harmony with the general spirit and intent 
+of the Critical Area Law and the regulations adopted by Kent County;
+
+<!-- page 191 -->
+ARTICLE IV.  PROCESSES 
+SECTION 5. VARIANCES 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     188
+(B) 
+That the granting of a variance will not adversely affect water quality or 
+adversely impact fish, wildlife, or plant habitat.;  
+(C) 
+That the application for a variance will be made in writing with a copy provided 
+to the Critical Area Commission;  
+(D) 
+That the strict application of the Land Use Ordinance would produce an 
+unwarranted hardship;  
+(E) 
+Such hardship is not shared generally by other properties in the same zoning 
+district and the same vicinity;  
+(F) 
+The authorization of such variance will not be a substantial detriment to 
+adjacent property and that the character of the district will not be changed by 
+the granting of the variance;  
+(G) 
+That a literal interpretation of this Land Use Ordinance deprives the applicant 
+of rights commonly enjoyed by other properties in similar areas within the 
+Critical Area of Kent County;  
+(H) 
+That the granting of a variance will not confer upon an applicant any special 
+privilege that would be denied by this Ordinance to other lands or structures;  
+(I) 
+Due to special features of a site, or special conditions or circumstances peculiar 
+to the applicant’s land or structure, a literal enforcement of this Land Use 
+Ordinance would result in unwarranted hardship to the applicant;  
+(J) 
+The Board of Appeals finds that the applicant has satisfied each one of the 
+variance provisions;  
+(K) 
+Without the variance, the applicant would be deprived of a use of land or a 
+structure permitted to others in accordance with the provisions of the critical 
+area program. 
+(L) 
+In considering an application for a Critical Area variance, it is presumed that the 
+specific development activity in the Critical Area that is subject to the 
+application and for which a variance is required does not conform with the 
+general purpose and intent of this Ordinance and the Critical Area Law. 
+(M) 
+The cause of a variance request may be considered, and if a variance request 
+is the result of actions by the applicant, including whether commencement of 
+development activity occurred before an application for a variance was filed. 
+5.6 
+CONDITIONS FOR ZONING AND CRITICAL AREA VARIANCES 
+1. 
+In granting a variance, the Board may choose or not choose to limit the approval by such 
+conditions as the case may require, including but not limited to, the imposition of the 
+following specifications: 
+(A) 
+No outside signs or advertising structures except professional or directional 
+signs.
+
+<!-- page 192 -->
+ARTICLE IV.  PROCESSES 
+SECTION 5. VARIANCES 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     189
+(B) 
+Limitation of signs as to size, type, color, location, or illumination. 
+(C) 
+Amount, direction, and location of outdoor lighting. 
+(D) 
+Amount and location of off-street parking and loading spaces. 
+(E) 
+Cleaning or painting. 
+(F) 
+Gable roof or other type. 
+(G) 
+Construction and materials. 
+(H) 
+Connected or disconnected to other buildings. 
+(I) 
+Exits or entrances, doors, and windows. 
+(J) 
+Paving, shrubbery, landscaping, ornamental or screening fences, walls, or 
+hedges. 
+(K) 
+Time of day or night for operating. 
+(L) 
+No structural changes. 
+(M) 
+Control or elimination of smoke, dust, gas, noise, or vibration caused by 
+operations. 
+(N) 
+Requirements for termination of a use based on lapse of time or such other 
+conditions as the Board may specify. 
+5.7 
+CRITERIA FOR FLOODPLAIN VARIANCES 
+1. 
+In order to grant a variance, the Board will find:  
+(A) 
+There is a good and sufficient cause for granting the variance.  
+(B) 
+That the failure to grant a variance would result in exceptional hardship (not 
+economic) to the applicant.  
+(C) 
+That the granting of the variance would not result in increased flood heights, 
+additional threats to public safety, extraordinary public expense, create 
+nuisances, cause fraud, or victimization of the public.  
+(D) 
+That any variance including the placement of fill which encroaches on the 
+floodway will not result in any increase in the 100-year flood levels.  
+(E) 
+That the variance is the minimum necessary, considering the flood hazard, to 
+afford relief.  
+(F) 
+That the Board has received comments from the Maryland Department of the 
+Environment.  
+(G) 
+That no new buildings will be constructed in the floodway.  
+(H) 
+That in the Coastal High Hazard Area, no fill for structural support is proposed.
+
+<!-- page 193 -->
+ARTICLE IV.  PROCESSES 
+SECTION 5. VARIANCES 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     190
+(I) 
+For a functionally dependent use that there is sufficient proof that the structure 
+cannot perform its intended function unless it is in close proximity to the water 
+and may require wet floodproofing which allows the structure to flood without 
+significant damage.  
+(J) 
+Reconstruction, rehabilitation, or restoration of historic structures, provided 
+the variance is the minimum necessary and the structure will retain its listing 
+on the Historic Register, Inventory, or Survey. 
+5.8 
+CONDITIONS FOR FLOODPLAIN VARIANCES  
+1. 
+In granting a variance, the Board may choose or not choose to limit the approval by such 
+conditions as the case may require, including but not limited to, the imposition of the 
+following specifications: 
+(A) 
+That a record of the variance and any conditions are recorded with the Kent 
+County Clerk of Court.  
+(B) 
+That a letter will be sent to the applicant which explains the increased risk of 
+life and property as a result of the variance and that the cost of Federal Flood 
+Insurance will be commensurate with the increased risk, with rates up to $25 
+per $100 of insurance coverage. 
+(C) 
+The Board will maintain a record of all variance procedures which will be 
+available for review by FEMA  
+(D) 
+The Planning Director, or the Planning Director’s designee, will notify, in 
+writing, any applicant to whom a variance is granted to construct or 
+substantially improve a building or structure with its lowest flood below the 
+elevation required by these regulations that the variance is to the floodplain 
+management requirements of these regulations only and that the cost of 
+Federal Flood Insurance will be commensurate with the increased risk, with 
+rates up to $25 per $100 of insurance coverage.  
+5.9 
+CRITERIA FOR STORMWATER VARIANCES 
+1. 
+In order to grant a variance, the County will find the following: 
+(A) 
+Exceptional circumstances exist applicable to the site such that strict adherence 
+to the provisions of this ordinance will result in unnecessary hardship and not 
+fulfill the intent of the Land Use Ordinance.  
+(B) 
+Implementation of ESD to the MEP has been investigated thoroughly.
+
+<!-- page 194 -->
+ARTICLE IV.  PROCESSES 
+SECTION 6. WAIVERS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     191
+SECTION 6 
+WAIVERS 
+6.1 
+STATEMENT OF INTENT 
+1. 
+Waivers are intended to provide an in-review approval process for specific provisions that 
+are considered to be alternative compliance as opposed to variation requiring a variance. 
+Waivers are not advertised as public hearings but can be included as part of a noticed 
+public meeting, if applicable, and noted on the public agenda for review. Waivers may be 
+granted by the Planning Commission during subdivision or site plan reviews, or where 
+applicable by the County staff for stormwater management during the building permit 
+review process. The building permit review process is neither advertised nor noticed. 
+Note: This process has been re-structured. Some waivers had previously been structured 
+like variances that could be granted by the Planning Commission. The Board of Appeals is 
+the appropriate body to grant variances. Since waivers relate to standards for the design 
+of projects, waivers are re-structured as a design-based, alternative compliance process. 
+Note: Forest conservation retention alterations now require a variance to be granted by 
+Board of Appeals. Forest conservation retention provisions are not a design-related issue. 
+6.2 
+TYPES OF WAIVERS AND CRITERIA– PLANNING COMMMISSION WAIVERS 
+1. 
+DATA PROCESSING CENTERS - ALTERNATE DESIGN  
+Upon the affirmative recommendation of the Planning Director, applicants may present 
+for approval to the Planning Commission an alternate design solution to the general 
+design standards in Section 3 above. Applicants will include a separate written narrative 
+that explains how the proposed alternative design solution differs from requirements and 
+the reasons for the changes proposed. The Planning Commission may require additional 
+standards and requirements for the protection of the environment and the health and 
+safety of the residents of the County. 
+2. 
+CURB CUTS IN THE EMPLOYMENT CENTER DISTRICT 
+The Planning Commission may authorize waivers in EC and ECCA-IDA for multiple access 
+points or curb cuts within 3,000 feet of each other on a State or County Road, within the 
+boundaries of a single project and also among different highway strip developments. 
+3. 
+SUBDIVISION/PRIVATE ROADS/ROAD FRONT LOTS/ DESIGNATED DESIGN STANDARDS  
+The Planning Commission may authorize waivers of the design aspects of subdivisions, 
+private roads, road front lots, protected lands lot line setback, and certain designated 
+design standard provisions of this Land Use Ordinance in order to provide for alternative 
+compliance for design standards.  
+4. 
+PARKING LOT DESIGN 
+The Planning Commission may approve alternate designs for shared parking, parking lot 
+designs, and parking lot landscaping provisions found in Article V, Section 2.
+
+<!-- page 195 -->
+ARTICLE IV.  PROCESSES 
+SECTION 6. WAIVERS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     192
+5. 
+CRITERIA FOR WAIVERS 
+The Planning Commission may approve a waiver requested under one of the categories 
+above for alternative compliance, when the Planning Commission finds the following: 
+(A) 
+That the waiver is consistent with the Comprehensive Plan, and where 
+applicable the adopted Major Thoroughfare Map for the County or similar 
+instrument, and the general intent of this Ordinance.  
+(B) 
+That the waiver will not cause any known substantial detriment to adjacent or 
+neighboring properties. 
+(C) 
+That the waiver will not create a safety hazard or increase traffic congestion. 
+(D) 
+The waiver is not sought for reasons of convenience, profit, or caprice. 
+In granting waivers, the Planning Commission may require such conditions as will, in its 
+judgement, substantially secure the objectives of the provisions so waived. 
+6.3 
+TYPES OF WAIVERS AND CRITERIA - STORMWATER MANAGEMENT WAIVERS  
+(A) 
+The County may grant a waiver of the stormwater management requirements 
+for individual developments based on a case-by-case review. A written waiver 
+request will be submitted by the applicant containing descriptions, drawings 
+and any other information that is necessary to evaluate the proposed 
+development and demonstrate that ESD has been implemented to the MEP. A 
+separate written request will be required in accordance with the provisions of 
+this section if there are subsequent additions, extensions or modifications to a 
+development receiving a waiver.  
+(B) 
+Except as provided in this Section waivers of stormwater quantitative control 
+may be granted only to those projects that can conclusively demonstrate that: 
+i. 
+The project is within an area where a watershed management plan has 
+been developed consistent with this Land Use Ordinance.  
+ii. 
+If the project is not in an area where a watershed management plan has 
+been developed consistent with this Land Use Ordinance, waivers may be 
+granted to proposed development projects provided the applicant has 
+demonstrated that ESD has been implemented to the MEP: (1) That have 
+direct discharges to tidally influenced receiving waters; and (2) When the 
+County determines that circumstances exist that prevent the reasonable 
+implementation of quantity control practices.  
+(C) 
+Except as provided in this Section, if watershed management plans consistent 
+with this Ordinance have not been developed, stormwater management 
+quantitative control waivers may be granted to the following projects provided 
+the applicant has demonstrated that ESD has been implemented to the MEP: 
+i. 
+Projects that have direct discharge to tidally influenced receiving waters:
+
+<!-- page 196 -->
+ARTICLE IV.  PROCESSES 
+SECTION 6. WAIVERS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     193
+ii. 
+Infill development located in a Priority Funding Area where the economic 
+feasibility of the project is tied to the planned density, and where 
+implementation of the 2009 regulatory requirements would result in a 
+loss of the planned development density provided that: (1) Public water 
+and sewer and stormwater conveyance exist; (2) The quantitative waiver 
+is only applied to the project for the impervious cover that previously 
+existed on the site; (3) ESD to the MEP is used to meet the full water 
+quality treatment requirements for the entire development; and (4) ESD 
+to the MEP is used to provide full quantity control for all new impervious 
+surfaces: or  
+(D) 
+When the approving agency determines that circumstances exist that prevent 
+the reasonable implementation of quantity control practices.  
+(E) 
+Waivers of stormwater management qualitative control may be granted only 
+to those projects that can conclusively demonstrate that: 
+i. 
+The project is an in-fill development where ESD has been implemented to 
+the MEP and other BMPs are not feasible.  
+ii. 
+The project is a redevelopment that satisfies the requirements of this 
+Land Use Ordinance; or  
+iii. Sites where the County determines that circumstances exist that prevent 
+the reasonable implementation of ESD to the MEP.  
+(F) 
+Stormwater management quantitative and qualitative control waivers may be 
+granted for phased development projects if a system designed to meet the 
+2000 regulatory requirements and the Kent County Stormwater Management 
+Ordinance for multiple phases has been constructed by May 4, 2010. If the 
+2009 regulatory requirements cannot be met for future phases constructed 
+after May 4, 2010, all reasonable efforts to incorporate ESD in future phases 
+will be demonstrated.  
+(G) 
+Waivers will only be granted when it has been demonstrated that ESD has been 
+implemented to the MEP and will: 
+i. 
+Be on a case-by-case basis;  
+ii. 
+Consider the cumulative effects of the Kent County waiver policy.  
+iii. Reasonably assure the development will not adversely impact stream 
+quality.  
+(H) 
+Kent County may develop quantitative waiver and redevelopment provisions 
+for stormwater management that differ from the requirements of this Land Use 
+Ordinance as a part of an overall watershed management plan. Watershed 
+management plans developed for this purpose will, at a minimum:
+
+<!-- page 197 -->
+ARTICLE IV.  PROCESSES 
+SECTION 6. WAIVERS 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     194
+i. 
+Include detailed hydrologic and hydraulic analyses to determine 
+hydrographic timing;  
+ii. 
+Evaluate both quantity and quality management and opportunities for 
+ESD implementation;  
+iii. Include cumulative impact assessment of current and proposed 
+watershed development;  
+iv. Identify existing flooding and receiving stream channel conditions;  
+v. 
+Be conducted at a reasonable scale determined by the County;  
+vi. Specify where on-site or off-site quantitative and qualitative stormwater 
+management practices are to be implemented;  
+vii. Be consistent with the General Performance Standards for Stormwater 
+Management in Maryland found in the Design Manual; and  
+viii. Be approved by the Maryland Department of the Environment
+
+<!-- page 198 -->
+ARTICLE IV.  PROCESSES 
+SECTION 7. PERMITS, FEES, AND ENFORCEMENT 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     195
+SECTION 7 
+PERMITS, FEES, AND ENFORCEMENT 
+7.1 
+STATEMENT OF INTENT 
+The purpose of this section is to set forth the procedures for permits, fees, code enforcement, 
+and interpretations of this Land Use Ordinance. The powers and duties of the Department are 
+specified herein insofar as the administration of this Land Use Ordinance is concerned. 
+7.2 
+GENERAL 
+1. 
+The Department is hereby vested with the duty and authority to grant approvals and issue 
+building permits. All approvals and permits will conform with the provisions of this Land 
+Use Ordinance, and no approval of a permit will be granted for any structure, use, 
+subdivision, grading, or other development or purpose that would constitute a violation 
+of this Land Use Ordinance. Any approval or permit granted or issued in conflict with this 
+Land Use Ordinance will be null and void. 
+2. 
+Whenever in the course of administration and enforcement of this Land Use Ordinance, 
+it is necessary to make any administrative decision, unless other standards are provided 
+in the Land Use Ordinance, the decision will be consistent with the spirit and intent of this 
+Land Use Ordinance. 
+7.3 
+CRITICAL AREA COMMISSION REVIEW AND COMMENT REQUIRED 
+1. 
+As required by the State of Maryland, Kent County will send copies of applications for all 
+developments, subdivisions, and site plans, wholly or partially within the Critical Area, as 
+specified in COMAR 27.03.01.04 to the Critical Area Commission for review and comment. 
+This includes all projects located in the RCD, CAR, CCA, M, and ECCA zoning districts. 
+2. 
+Until Kent County has received notice of receipt from the Critical Area Commission or the 
+appropriate waiting period per the State of Maryland has expired, the County may not 
+process an application that has been sent to the Critical Area Commission for notification.  
+3. 
+Per the State of Maryland, any action by Kent County in violation of these State-required 
+procedures shall be void. 
+7.4 
+PERMITS 
+1. 
+No building or structure will be erected, constructed, altered, moved, converted, 
+extended, enlarged, or demolished until a building or demolition permit is obtained from 
+the Department. . 
+2. 
+Change or alternation of the use of any building, structure, or land will not be permitted 
+until a permit is obtained from the Department. 
+3. 
+All applications for building and use permits will include a diagram showing the actual 
+shape and size of the parcel, the location and size of the building or structure, and such
+
+<!-- page 199 -->
+ARTICLE IV.  PROCESSES 
+SECTION 7. PERMITS, FEES, AND ENFORCEMENT 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     196
+information as may be required by the Department to assure compliance with and to 
+provide enforcement of this Land Use Ordinance. 
+4. 
+No person will do any grading, clearing, stripping, excavating, filling of land; forest 
+harvesting; create borrow pits, spoil areas, quarries, material processing facilities, or 
+other facilities, without first obtaining a permit from the Department except as otherwise 
+listed as an exemption in this Land Use Ordinance. 
+5. 
+A grading or building permit may not be issued for any parcel or lot unless a stormwater 
+management plan has been approved or waived by the County, meeting the requirements 
+of this ordinance, the Design Manual, and the policies adopted by Kent County for 
+redevelopment. Where appropriate, a building permit may not be issued without: 
+(A) 
+Recorded easements for the stormwater management facility and easements 
+to provide adequate access for inspection and maintenance from a public right 
+of way. 
+(B) 
+A recorded stormwater management maintenance agreement. 
+(C) 
+A performance bond, an irrevocable letter of credit or other surety. 
+(D) 
+Permission from adjacent property owners, as may be required. 
+6. 
+The Planning Director may place any condition on a permit that is deemed necessary to 
+assure compliance with and to provide enforcement of this Land Use Ordinance. 
+7. 
+After approval of the permit, no changes of any kind will be made to the plans, permit, 
+specification, or other document without written approval from the applicable County 
+official with authority to review and approve applications for building permits. 
+7.5 
+FEES 
+1. 
+The Kent County Board of County Commissioners may establish a schedule of fees and a 
+collection procedure related to the submittal of applications and other matters pertaining 
+to this Ordinance. Upon application, the County Commissioners may waive any fees. 
+2. 
+No permits will be issued nor final actions taken related to subdivisions, site plans, special 
+exceptions, variances, waivers, appeals, or other matters pertaining to this Ordinance,  
+unless the applicable fee, if any, has been paid in full. Staff may begin internal review at 
+its discretion, prior to fees being paid, if a determination of payment is under review. 
+3. 
+Building permit fees may be set aside by the Planning Director or the Planning Director’s 
+designee upon review and with the cause noted in writing in the file for the following: 
+(A) 
+Building permit extensions if regulations have not changed since last review. 
+(B) 
+Building permits for governmental agencies including local, State, and federal. 
+(C) 
+Building permits for nonprofits and charities for bona fide charitable activities. 
+(D) 
+Building permits for grant projects where the County is a sponsor/participant.
+
+<!-- page 200 -->
+ARTICLE IV.  PROCESSES 
+SECTION 7. PERMITS, FEES, AND ENFORCEMENT 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     197
+(E) 
+Circumstances related to errors and omissions not on the part of the applicant. 
+7.6 
+ENFORCEMENT 
+1. 
+It will be the duty of the Planning Director to enforce the provisions of this Ordinance and 
+to refuse to issue any permit or approve any minor site plan, minor subdivision, special 
+exception, variance, erosion and sediment control permit, stormwater management plan, 
+or forest conservation plan that would violate the provisions of this Ordinance. It will be 
+the duty of all officers and employees to assist the enforcing officer by reporting to the 
+enforcing officer any seeming violation of this Ordinance. 
+2. 
+The Planning Director or the Planning Director’s designee is authorized and directed to 
+institute any appropriate action to correct violations of this Ordinance. 
+3. 
+It will be unlawful to erect, construct, reconstruct, alter, repair, convert, demolish or 
+maintain any building or structure; use any property, building, or sign in violation of any 
+regulation in, or any provision of this Ordinance, or any amendment or supplement 
+lawfully adopted by the County Commissioners; to fail to comply with any requirement 
+or condition imposed by the Board of Appeals or Planning Commission; or violate the 
+provisions of the floodplain, subdivision, sediment control, stormwater management, or 
+forest conservation provisions of this Ordinance. Any person, firm, corporation, or other 
+legal entity violating a provision of this Ordinance, or amendments thereto, will be 
+deemed guilty of a violation and upon conviction will be fined according to the preset fine 
+adopted by the County Commissioners of Kent County. Each and every day during which 
+such violation occurs or continues may be deemed a separate offense. 
+4. 
+The Planning Director is authorized to treat any violation as a civil violation, in which event 
+the Planning Director, or the Planning Director’s designee, will deliver a citation to the 
+person believed to have committed a civil violation. A copy of the citation will be retained 
+by the Department and bear certification attesting to the truth of the matters set forth. 
+The citation will contain: 
+(A) 
+The name and address of the person charged; 
+(B) 
+The nature of the violation; 
+(C) 
+The place where and the time when the violation occurred; 
+(D) 
+The amount of the fine assessed; 
+(E) 
+The manner, location, and time in which the fine may be paid; and 
+(F) 
+The person’s right to elect to stand trial for the violation. 
+5. 
+The preset fine will not be less than $100.00 nor more than $500.00 for zoning violations. 
+The preset fine will not exceed $5,000.00 for violation of the floodplain and subdivision 
+provisions of this Ordinance, and $1,000.00 plus $0.30 a square foot for forest 
+conservation. Non-compliance fees for violation of the forest conservation provisions of 
+this Ordinance will be deposited in the forest conservation fund and may be used by the
+
+<!-- page 201 -->
+ARTICLE IV.  PROCESSES 
+SECTION 7. PERMITS, FEES, AND ENFORCEMENT 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     198
+County for purposes related to implementing the forest conservation objectives of this 
+Ordinance. Every day the violation continues may be considered a separate offense. 
+6. 
+Within the Critical Area, in addition to any other penalty applicable under state law, a 
+person who violates a provision pertaining to the Critical Area is subject to a fine not to 
+exceed $10,000.00. In determining the amount of the penalty to be assessed, the 
+following may be considered: 
+(A) 
+The gravity of the violation; 
+(B) 
+Any willfulness of negligence involved in the violation; 
+(C) 
+The environmental impact of the violation. 
+7. 
+Fines will not exceed $5,000 for each stormwater management violation and nor exceed 
+$50,000 for numerous onsite violations. Each day that a violation continues will be 
+considered a separate offense. 
+8. 
+Penalties for violations of erosion and sediment control. 
+(A) 
+Any person who violates any provision of the erosion and sediment control 
+provisions of this Ordinance is guilty of a misdemeanor, and upon conviction in 
+a Court of competent jurisdiction is subject to a fine not to exceed $10,000 for 
+each violation with costs imposed in the discretion of the Court. Each day upon 
+which the violation occurs constitutes a separate offense. 
+(B) 
+Any agency whose approval is required under this Ordinance, or any interested 
+person may seek an injunction against any person who violates or threatens to 
+violate any provision of this Ordinance. 
+(C) 
+In addition to any other sanction under this Ordinance, a person who fails to 
+install or to maintain erosion and sediment controls in accordance with an 
+approved plan will be liable to Kent County or the State in a civil action, for 
+damages in an amount equal to double the cost of installing or maintaining the 
+controls. 
+(D) 
+Any governing authority that recovers damages in accordance with this 
+subsection will deposit them in a special fund, to be used solely for (1) 
+correcting to the extent possible the failure to implement or maintain erosion 
+and sediment controls, and (2) administration of the sediment control program. 
+9. 
+The person who receives a citation may elect to stand trial for the offense by filing with 
+the Department a notice of intent to stand trial. The notice to stand trial will be given at 
+least 5 days before the date of payment as set forth in the citation. Upon receipt of the 
+notice of intent to stand trial, the County Attorney will forward to the District Court of 
+Kent County a copy of the citation and notice of intent to stand trial. On receipt of the 
+same, the District Court will schedule the case for trial and notify the defendants of the 
+trial date. All fines, penalties, or forfeitures collected by the District Court for violations of 
+this Ordinance will be remitted to Kent County.
+
+<!-- page 202 -->
+ARTICLE IV.  PROCESSES 
+SECTION 7. PERMITS, FEES, AND ENFORCEMENT 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     199
+10. 
+If a person who receives a citation for violations fails to pay the fine by the date of the 
+payment set forth on the citation and fails to file notice of intention to stand trial, formal 
+notice of the violation will be sent to the owner’s last known address. If the citation is not 
+satisfied within 15 days from the date of notice, the person is liable for an additional fine 
+not to exceed twice the original fine. If after 35 days the citation is not satisfied, the 
+Department may request adjudication of the case through the District Court. The District 
+Court will schedule the case for trial and summon the defendant to appear. 
+11. 
+Adjudication of a violation under paragraphs 4 through 7 of this section is not a criminal 
+conviction nor does it impose any civil disabilities ordinarily imposed by a criminal 
+conviction. 
+12. 
+In any proceeding before the District Court, the violation will be prosecuted in the same 
+manner and to the same extent as set forth for municipal infractions under Md. Code Ann. 
+Local Government §§6-108 through §§6-115. The County Commissioners may authorize 
+either the County Attorney, the Attorney for the Planning Commission, or any other 
+designated attorney to prosecute any violation. 
+13. 
+If a person is found by the District Court to have committed a civil zoning violation, the 
+person will be liable for the cost of the proceedings in the District Court. All zoning 
+certificates and building permits will be revocable subject to the continued compliance 
+with all requirements and conditions of this and other applicable laws and regulations. 
+14. 
+The imposition of a fine or penalty for any violation of this Ordinance will not excuse the 
+violation or permit it to continue, and all such violations will be corrected within a 
+reasonable time. 
+15. 
+The Planning Director, or the Planning Director’s designee, may issue a stop work order 
+against a person who violates a provision of this Ordinance, or any approval granted under 
+this Ordinance. 
+16. 
+The Planning Director, or the Planning Director’s designee, may revoke an approved Forest 
+Conservation Plan if the Planning Director finds that: 
+(A) 
+A provision of the plan has been violated; 
+(B) 
+Approval of the plan was obtained through fraud, misrepresentation, a false or 
+misleading statement, or omission of a relevant or material fact; or 
+(C) 
+A change in the development or in the condition of the site necessitates 
+preparation of a new or amended plan. 
+17. 
+Enforcement procedures for violations of the sediment control provisions of this 
+Ordinance will be as follows: 
+(A) 
+When the inspection agency or an inspector determines that a violation of the 
+approved erosion and sediment control plan has occurred, the inspector will 
+notify the on-site personnel or the permittee in writing of the violation, describe 
+the required corrective action and the time period in which to have the 
+violation corrected.
+
+<!-- page 203 -->
+ARTICLE IV.  PROCESSES 
+SECTION 7. PERMITS, FEES, AND ENFORCEMENT 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     200
+(B) 
+If the violation persists after the date specified for corrective action in the 
+notice of violation, the inspection agency will stop work on the site. The 
+inspection agency will determine the extent to which work is stopped, which 
+may include all work on the site, except that work necessary to correct the 
+violations. 
+(C) 
+If reasonable efforts to correct the violation are not undertaken by the 
+permittee, the inspection agency will refer the violation for legal action. 
+(D) 
+The Department may deny the issuance of any permits to an applicant when it 
+determines that the applicant is not in compliance with the provisions of a 
+building or grading permit or approved erosion and sediment control plan. 
+(E) 
+Any step in the enforcement process may be taken at any time, depending upon 
+the severity of the violation. 
+(F) 
+If a person is working without a permit, the inspection agency will stop work 
+on the site except activity necessary to provide erosion and sediment control. 
+(G) 
+The Department may suspend or revoke any grading or building permits after 
+providing written notification to the permittee based on any of the following 
+reasons: 
+i. 
+Any violation(s) of the terms or conditions of the approved erosion and 
+sediment control plan or permit. 
+ii. 
+Non-compliance with violation notices or stop work orders issued. 
+iii. Changes in site characteristics upon which plan approval and permit 
+issuance was based. 
+iv. Any violation(s) of this Ordinance or any rules and regulations adopted 
+under it. 
+(H) 
+The Department will receive complaints and initiate enforcement procedures 
+when violations are confirmed. Any complaint received will be acted upon, 
+routinely within three (3) working days or as soon as is reasonably possible and 
+the complainant will be notified of any action or proposed action routinely 
+within seven (7) working days of receipt of the complaint. 
+18. 
+Enforcement procedures for violations of the stormwater management provisions of this 
+Ordinance consists of any one or a combination of the following actions:  
+(A) 
+When the inspection agency or an inspector determines that a violation of the 
+approved stormwater management plan has occurred, the inspector will notify 
+the on-site personnel or the permittee in writing of the violation, describe the 
+required corrective action and the time period in which to have the violation 
+corrected. 
+(B) 
+A stop work order will be issued for the site by the County if the violation 
+persists.
+
+<!-- page 204 -->
+ARTICLE IV.  PROCESSES 
+SECTION 7. PERMITS, FEES, AND ENFORCEMENT 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     201
+(C) 
+Bonds or securities will be withheld or the case may be referred for legal action. 
+(D) 
+A civil action may be brought against any person in violation of the stormwater 
+provisions of this Ordinance or the Design Manual. 
+(E) 
+Any step in the enforcement process may be taken at any time according to the 
+severity of the violation. 
+(F) 
+Any person convicted of violating the provisions of this Ordinance will be guilty 
+of a misdemeanor, and upon conviction thereof, will be subject to a fine of not 
+more than $5000 for each violation with costs imposed not to exceed $50,000. 
+Each day the violation continues will be a separate offense. 
+(G) 
+Kent County may institute injunctive, mandamus, or other appropriate action 
+or proceedings of law to correct violations. 
+i. 
+The Department may deny the issuance of any permits to an applicant 
+when it determines that the applicant is not in compliance with the 
+provisions of a building or grading permit or approved erosion and 
+sediment control plan. 
+ii. 
+Any step in the enforcement process may be taken at any time, depending 
+upon the severity of the violation. 
+iii. If a person is working without a permit, the inspection agency will stop 
+work on the site except activity necessary to provide erosion and 
+sediment control. 
+iv. The County may suspend or revoke any grading or building permits after 
+providing written notification to the permittee based on any of the 
+following reasons: (1) Any violation(s) of the terms or conditions of the 
+approved erosion and sediment control plan or permit; (2) Non-
+compliance with violation notices or stop work orders issued; (3) Changes 
+in site characteristics upon which plan approval and permit issuance was 
+based; or, (4) Any violation(s) of this Ordinance or any rules and 
+regulations adopted under it. 
+v. 
+The County will receive complaints and initiate enforcement procedures 
+when violations are confirmed. Any complaint received will be acted 
+upon routinely within three (3) working days or as soon as is reasonably 
+possible and the complainant will be notified of any action or proposed 
+action routinely within seven (7) working days of receipt of the 
+complaint. 
+19. 
+In addition to the aforementioned provisions, the County may also seek an injunction to bring 
+about the discontinuance of illegal uses, and/or the removal of illegal buildings, structures, 
+additions, alterations, or structural changes, and/or the discontinuance of any illegal work 
+or activity being done or may take any other action authorized by this Ordinance.
+
+<!-- page 205 -->
+ARTICLE IV.  PROCESSES 
+SECTION 7. PERMITS, FEES, AND ENFORCEMENT 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     202
+20. 
+The Planning Director or the Planning Director’s designee is hereby authorized to enter 
+upon any open land in Kent County for the purpose of enforcing and implementing this 
+Ordinance.
+
+<!-- page 206 -->
+ARTICLE IV.  PROCESSES 
+SECTION 8. HISTORIC PRESERVATION DOCUMENTATION 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     203
+SECTION 8 
+HISTORIC PRESERVATION DOCUMENTATION  
+1. 
+A demolition permit may not be issued for any parcel or lot unless a historic structure 
+review has been completed in accordance with the following process: 
+(A) 
+TIER 1.  
+The Planning Director, or Planning Director’s designee, will determine if the 
+structure meets the definition of a historic structure, based on the public 
+information readily available in the public record and any applicant statements. 
+(B) 
+TIER 2. 
+i. 
+If the structure is found to be more than seventy-five (75) years old or 
+otherwise thought to be of historic significance, then the permit will 
+require the following documentation:  
+1. The applicant will provide a basic floor plan that includes interior and 
+exterior dimensions of the structure(s); and  
+2. The Department will conduct a site inspection for the purpose of 
+photographing the historic structure(s), which may include the 
+exterior and interior of the structure(s).  
+The Chair of the Historic Preservation Commission, or the Chair’s 
+designee, may accompany staff on the site inspection. 
+ii. 
+Subject to the review of documentation, the Planning Director, or the 
+Planning Director’s designee, in consultation with the Chair of the Historic 
+Preservation Commission, or the Chair’s designee, will determine if Tier 3 
+review and documentation is required. The decision will be made by the 
+Planning Director, or the Planning Director’s designee, with the advice of 
+the Chair, or the Chair’s designee, within 30 days of the receipt of the 
+required floor plan by the Department..  
+Note: This is intended to provide clarity for any appeal that may be filed. 
+The appeal would be from a decision of the Planning Director instead of 
+an appeal from a joint decision by a member of staff and a County board. 
+Alternately, if preferred, a decision could be rendered by the HPC Board. 
+(C) 
+TIER 3. 
+i. 
+Pursuant to a determination of historic significance, Tier 3 review and 
+documentation will be completed by staff within 45 days of the Tier 2 
+determination, which may result in completion of a Maryland Inventory of 
+Historic Places form developed by the Maryland Historical Trust. 
+ii. 
+Tier 3 review and documentation will consist of the following: 
+1. Photographs of exterior details, including but not limited to features 
+such as chimneys, wall coverings, windows, and doors;
+
+<!-- page 207 -->
+ARTICLE IV.  PROCESSES 
+SECTION 8. HISTORIC PRESERVATION DOCUMENTATION 
+ 
+ 
+Land Use Ordinance for Kent County, Maryland     204
+2. Photographs of any outbuildings;  
+3. Access to the interior will be granted in order to obtain detailed 
+photographs of the interior spaces to capture any unique elements in 
+the rooms that may help date the structure, including but not limited 
+to woodwork, window surrounds, fireplaces, stairways, mantels, 
+doors, and newel posts, and 
+4. Overall measurements of the structure. 
+Applicants will make any hazards known, and staff and/or Historic 
+Preservation Commission board members will enter structures only with 
+the subject property owner’s written or verbal permission. 
+iii. The Historic Preservation Commission will review the documentation. 
+(D) 
+Failure to complete Tier 3 documentation within 45 days of the Tier 2 
+determination will not delay the issuing of a permit unless another agency with 
+review authority has failed to approve the permit or an extension is granted by 
+the property owner. Failure of the applicant to grant interior access within the 
+review time will not result in the issuing of a permit. 
+(E) 
+Emergency provisions. These requirements may be set aside or modified by 
+the Planning Director, or the Planning Director’s designee, when a structure is 
+deemed to be an imminent threat to health, safety, and welfare of the 
+adjoining properties and persons.
+
+<!-- page 208 -->
+ARTICLE V.  ZONING REGULATIONS
+
+<!-- page 209 -->
+ARTICLE V.  ZONING REGULATIONS 
+SECTION 1. GENERAL PROVISIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     206
+SECTION 1 
+GENERAL PROVISIONS 
+1.1 
+STATEMENT OF INTENT 
+The purpose of this section is to set forth zoning regulations to supplement the dimensional, use, 
+and other zoning-type regulations appearing elsewhere in this Ordinance.  
+1.2 
+ACCESSORY STRUCTURES; PRIOR CONSTRUCTION 
+1. 
+No accessory structure will be constructed more than six months prior to the construction 
+of the main structure. No accessory structure will be used for more than six months unless 
+the main structure is also being used or is under construction. Extensions may be granted 
+by the Planning Director or Planning Director’s designee for cause shown.  
+2. 
+The Planning Director, or Planning Director’s designee, may grant a one (1) year extension 
+to allow accessory structures, which were legal, conforming structures and where the 
+existence of the structure will not result in a nuisance to the neighborhood, to remain 
+following the demolition of the main structure. 
+1.3 
+REDUCTION OF HEIGHT, BULK, AREA 
+No parcel area or lot dimension, if specifically required, will be reduced below the requirement 
+of this Ordinance unless otherwise provided for by this Ordinance. The minimum yards, required 
+parking, and mandatory loading spaces required by this Ordinance will not be encroached upon 
+unless otherwise provided by this Ordinance. Setbacks may be varied as set forth in the districts.  
+1.4 
+MODIFICATION OF HEIGHT REGULATIONS 
+1. 
+Except within an area defined as an Airport Approach Zone by the Federal Aviation Agency 
+or in the Kent County Airport Safety Area, the height limitations of this Ordinance will not 
+apply to: 
+Belfries 
+Ornamental towers and spires 
+Church spires 
+Public monuments 
+Conveyors 
+Silos and corn dryers 
+Elevator bulkheads 
+Stage towers or scenery lofts 
+Fire towers 
+Tanks 
+Flag poles 
+Water towers and standpipes 
+Personal wireless facility, commercial 
+radio, and television towers less than 
+200 feet in height 
+Wind energy systems, small, with a height not to 
+exceed 80 feet unless a special exception 
+is granted 
+ 
+2. 
+Except within an area defined as an Airport Approach Zone by the Federal Aviation Agency 
+or the Kent County Airport Safety Area, public, semi-public or service buildings, hospitals, 
+and institutions or schools, when permitted in a district, may be erected to a height not 
+exceeding 60 feet and houses of worship may be erected to a height not exceeding 75 
+feet when the required side and rear yards are each increased by at least one foot for
+
+<!-- page 210 -->
+ARTICLE V.  ZONING REGULATIONS 
+SECTION 1. GENERAL PROVISIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     207
+each one foot of additional building height above the height regulations for the district in 
+which the building is located. 
+1.5 
+YARDS AND OPEN SPACE GENERALLY 
+1. 
+Whenever a lot abuts upon a public alley, one-half of the alley width may be considered 
+as a portion of the required yard. 
+2. 
+Every part of a required yard will be open to the sky, except as authorized by this Article, 
+and except ordinary projections of sills, belt courses, window air conditioning units, 
+chimneys, cornices, and ornamental features which may project to a distance not to 
+exceed 24 inches into a required yard but not into a required buffer 
+3. 
+More than one main building may be located upon a lot or tract in the following instances: 
+(A) 
+Institutional buildings 
+(B) 
+Public or semi-public buildings 
+(C) 
+Multi-family dwellings 
+(D) 
+Commercial or industrial buildings 
+(E) 
+Homes for the aged. 
+(F) 
+Permitted agricultural and marine uses  
+4. 
+The provisions of this exception will not be construed to allow the location or erection of 
+any building or portion of a building outside of the buildable area of the lot. 
+1.6 
+FRONT YARDS 
+1. 
+Where an official line has been established for the future widening or opening of a street 
+or major thoroughfare upon which a lot abuts, then the depth of a front or side yard will 
+be measured from such official line.  Unless otherwise provided, the right of way of any 
+arterial street, so designated on the Major Thoroughfare Map will be assumed to extend 
+40 feet on each side of the center line of the existing right of way for the purpose of 
+measuring front yards required by this Ordinance. 
+2. 
+On through lots, the required front yard will be provided on each street. 
+3. 
+There will be a front yard of at least 15 feet on the side street of a corner lot in any district; 
+provided, however, that the buildable width of a lot existing as of August 1, 1989, of this 
+Ordinance will not be reduced to less than 28 feet. 
+1.7 
+REAR YARDS 
+Open or lattice-enclosed fire escapes, outside stairways, balconies opening upon fire towers, and 
+the ordinary projections of chimneys and flues may project into the required rear yard for a 
+distance of not more than five (5) feet, but only where the same are so placed as not to obstruct 
+light and ventilation.
+
+<!-- page 211 -->
+ARTICLE V.  ZONING REGULATIONS 
+SECTION 1. GENERAL PROVISIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     208
+1.8 
+ACCESSORY BUILDINGS AND STRUCTURES 
+Except as herein provided, no accessory building will project beyond a required yard line along 
+any street.  Farm accessory buildings will be a minimum of twenty-five feet from the side and 
+rear property lines.  
+1.9 
+OPEN SPACE 
+The boundaries of open space areas will be treated as property lines in determining required 
+rear and side yard setbacks. At least 50% of the required open space will be contained as a 
+single visually identifiable area exclusive of connecting corridors or pathways and in no case be 
+less than 50 feet in width nor 5,000 square feet in area.  In the Critical Area, land and water 
+areas are retained in an essentially undeveloped state.
+
+<!-- page 212 -->
+ARTICLE V.  ZONING REGULATIONS 
+SECTION 2. OFF-STREET PARKING AND LOADING 
+ 
+Land Use Ordinance for Kent County, Maryland     209
+SECTION 2 
+OFF-STREET PARKING AND LOADING 
+2.1 
+STATEMENT OF INTENT 
+The purpose of this section is to set forth flexible standards for parking and loading and to ensure 
+adequate parking for permitted uses. 
+2.2 
+PARKING REQUIRED 
+1. 
+No building, structure, or premises will be erected, unless off-street parking, consistent 
+with the provisions of this section, is provided. The number of parking spaces provided 
+onsite for a project will be determined according to the flexible standards set forth in this 
+section.  
+2. 
+Accessible parking spaces are required to be provided on the shortest accessible route to 
+the accessible entrance. Spaces will be provided to meet the current federal requirements 
+as set forth in 2010 ADA Standards for Accessible Design, as amended from time to time. 
+2.3 
+SHARED PARKING 
+1. 
+The Planning Commission will use the use-based parking standards below as guidelines 
+and may allow up to fifty percent (50%) fewer total number of required spaces where one 
+or more of the following situations apply:  
+(A) 
+Two or more uses share parking in such a way that the hours or days of peak 
+use are different, and less total spaces will provide for all uses adequately.  
+(B) 
+Clients of uses are such that a reduced number of spaces is appropriate, such 
+as a neighborhood grocery, a business frequented by pedestrians, etc.  
+(C) 
+The use is water dependent or water related to an extent that most of the 
+activity would be from the water, such as a fish processing facility without a 
+retail outlet. Parking for employees and visitors would still be required.  
+(D) 
+Employees are residents of the structure, such as in a home occupation.  
+(E) 
+Display areas approved by the Planning Commission will not be included in the 
+tabulation of parking spaces.  
+2. 
+The applicant and the Planning Commission may agree to a reduced number of parking 
+spaces below the use-based ratios below with the agreement and condition that if more 
+spaces are required in the future because of miscalculation, unanticipated growth, or 
+other error, those spaces and associated maneuvering area will be provided by the 
+applicant. The Planning Commission may require that additional open space be kept for 
+this purpose. An agreement will be drafted to this effect. The Planning Commission may 
+also limit the maximum number of parking spaces above the number required through 
+site plan review to encourage innovative design and safe and efficient vehicular and 
+pedestrian circulation.
+
+<!-- page 213 -->
+ARTICLE V.  ZONING REGULATIONS 
+SECTION 2. OFF-STREET PARKING AND LOADING 
+ 
+Land Use Ordinance for Kent County, Maryland     210
+2.4 
+USE-BASED RATIOS 
+USE TYPE 
+PARKING SPACES 
+Assembly Halls  
+1 per 3 seats  
+Automobile Sales  
+1 per every 300 sq. ft gross floor area and 1 
+per each employee and 1 per service bay.  
+Banks  
+1 per 250 sq. ft. of gross floor area  
+Commercial Riding Academies, Stables  1 per 2 horse stalls  
+Community Centers, Civic Clubs, 
+Museums  
+1 per 150 sq. ft. of gross floor area  
+Convalescent Home  
+1 per 5 patient beds.  
+Country inns, Tourist Homes, Courts, 
+Motels, Hotels  
+1 per guest unit, plus 1 per employee  
+Data Processing Centers 
+1 per employee at maximum occupancy  
+Funeral Home, Mortuary  
+1 per 150 sq. ft. of gross floor area  
+Golf Course  
+5 per green and 50% of the requirement for 
+accessory uses, if on-site  
+Hospital  
+1 per 2 patient beds  
+Houses of worship  
+1 per 5 seating spaces  
+Industrial uses, warehousing  
+1 per 2 employees in principal shift  
+Kennel  
+1 per 400 sq. ft of gross floor area but not 
+less than 4  
+Laundromat  
+1 per 2 washer/dryer units  
+Lodging, Rooming, or Boarding houses,  
+Bed & breakfast  
+1 per guest unit, plus 1 per employee  
+Marinas, multi-level boat storage 
+building, public landings  
+1 per slip, plus 1 per every 2 full time 
+employees  
+Office Buildings  
+1 per 400 sq. ft. of gross floor area  
+Private clubs  
+1 per 5 members  
+Professional offices, clinics  
+2 per professional person  
+Residential, Multi-family, Townhouses  
+1 per unit, plus 1 space for each bedroom in 
+the dwelling  
+Residential, Single-Family and Duplex  
+1.50 per dwelling unit  
+Restaurants or establishments for on 
+premises consumption of food, or 
+beverages  
+1 per 150 sq. ft. of floor area, minimum of 3 
+spaces  
+Retail or wholesale stores  
+1 per 250 sq. ft. of gross floor area
+
+<!-- page 214 -->
+ARTICLE V.  ZONING REGULATIONS 
+SECTION 2. OFF-STREET PARKING AND LOADING 
+ 
+Land Use Ordinance for Kent County, Maryland     211
+2.5 
+DIMENSIONAL STANDARDS 
+Parking space dimensions 
+   -Parallel parking 
+Width: 8 ft. min. 
+Length: 22 ft. min. 
+   -Other than parallel parking 
+Width: 9 ft. min. 
+Length: 20 ft. min. 
+Parking aisle dimensions 
+   -One-way parallel parking 
+Width: 10 ft. min. 
+   -Two-way parallel parking 
+Width: 16 ft. min. 
+   -One-way other than parallel parking 
+Width: 15 ft. min. 
+   -Two-way other than parallel parking 
+Width: 20 ft. min. 
+ 
+2.6 
+OFF-STREET LOADING  
+Any building or part thereof having a gross floor area of 5,000 square feet or more and which is 
+to be occupied by manufacturing, storage, warehousing, wholesale or retail store, hotel, 
+restaurant, industrial, funeral home, or other uses requiring the receipt or dispatch of materials 
+by vehicles, will provide a minimum of one off-street loading space plus one additional space 
+for each 20,000 square feet of gross floor area or major fraction thereof in excess of the first 
+20,000 square feet. Each loading space will be a minimum of 12 feet in width, 45 feet in length 
+and with a clear height of not less than 14 feet.  
+2.7 
+BICYCLE PARKING  
+No new commercial, industrial, marine or multi-family residential use will be erected, unless 
+bicycle parking at a rate of one bicycle parking space per 20 required auto parking spaces is 
+provided. Bicycle parking spaces will be visible and convenient to cyclists. Bicycle parking 
+requirements may be met by providing lockers or racks inside a building, adjacent to the 
+building, in an accessory parking lot, or underneath an awning or marquee. A bicycle parking 
+space will be a minimum of six feet long by one foot wide and if enclosed a minimum of four 
+feet high. 
+2.8 
+PARKING LOT DESIGN 
+1. 
+Pedestrian orientation. Parking lot design will reflect the fact that once people step out 
+their cars, they become pedestrians. Parking lots will be designed not only to facilitate 
+efficient vehicle circulation but to also permit smooth pedestrian circulation.  
+2. 
+Bicycle accommodation. Provision for safe and efficient bicycle circulation and parking 
+should be included in the overall design of the parking lot.  
+3. 
+Traffic flow. Sites will be designed to prevent awkward or dangerous vehicular flow.
+
+<!-- page 215 -->
+ARTICLE V.  ZONING REGULATIONS 
+SECTION 2. OFF-STREET PARKING AND LOADING 
+ 
+Land Use Ordinance for Kent County, Maryland     212
+4. 
+Location. Parking lots will be located as much as possible to the rear of buildings. Parking 
+lots may not be located in between the front property line and the primary building 
+except (a) for public recreational facilities in which the parking lot is a minimum of 200 
+feet from the front property line and existing public roads, and (b) in the Marine district. 
+5. 
+Cross-access. Whenever possible, parking lot design will provide for connections to 
+adjacent parcels where uses are compatible. 
+6. 
+Building entrances. Marked walkways, separated from vehicular traffic, will be provided 
+at the entrances of establishments.  
+7. 
+Pedestrian Accommodations. 
+(A) 
+Sites will be designed to discourage pedestrians and vehicles from sharing the 
+same pathways. 
+(B) 
+Sidewalks at least eight feet wide will be provided along all sides of the parking 
+lot that abuts a public street. 
+(C) 
+Internal pedestrian walkways are distinguished from paved surfaces through 
+the use of special pavers, bricks, scored concrete, or other materials that will 
+clearly identify the pedestrian walkways. 
+(D) 
+Sidewalks will be provided along the full length of any building abutting public 
+parking areas. 
+8. 
+Large Lots. Parking areas with 80 automotive spaces or more will provide: 
+(A) 
+Walkways running parallel to the parking rows every four rows and walkways 
+running perpendicular to the parking rows every 20 spaces.  
+(B) 
+Continuous internal pedestrian walkway from the perimeter sidewalk to the 
+principal customer entrance.  The walkway will be at least eight feet in width 
+and will feature landscaping and other pedestrian amenities.  
+(C) 
+Weather protection features such as awnings extending a minimum of 30 feet 
+from all customer entrances. 
+2.9 
+PARKING LOT LANDSCAPING  
+1. 
+Required. At least 10% of parking areas where more than ten parking spaces are provided 
+will be landscaped. Perimeter screening does not count toward parking area landscaping.  
+2. 
+Large Lots. To avoid large expanses of paving in parking areas with 80 automobile parking 
+spaces or more, the following provisions will apply: 
+(A) 
+A row will not contain more than twelve 12 spaces without a landscaped island 
+of at least the size of one parking space. 
+(B) 
+The ends of parking rows will contain an island a minimum of six feet wide 
+adequately landscaped with shade trees, ground cover, and shrubs.
+
+<!-- page 216 -->
+ARTICLE V.  ZONING REGULATIONS 
+SECTION 2. OFF-STREET PARKING AND LOADING 
+ 
+Land Use Ordinance for Kent County, Maryland     213
+(C) 
+Double rows of parking will be separated by a minimum six-foot planting strip 
+adequately landscaped with shade trees and shrubs. 
+3. 
+Screening. Parking areas will be screened from the view of motorists, pedestrians, and 
+adjoining residential properties with a vegetative screen or landscaped berm. The height 
+of the berm will be approximately 3 feet. The width of the berm will be at least twice the 
+height. The vegetative screen will have the potential of reaching a height of at least 3 feet 
+within five years. The width of the landscaped area will be 4 feet or wider. Perimeter 
+screening will not restrict sight distance needed for vehicular or pedestrian safety. 
+4. 
+Context. Natural slopes and existing vegetation may be substituted for some or all of the 
+requirements above, provided that these features serve to screen the parking area from 
+motorist, pedestrians, and adjoining property owners. Perimeter screening may be waived 
+per Article IV, Section 6, where it is physically impossible to accomplish. 
+2.10 
+DELIVERY TRUCKS AND TRASH COLLECTION VEHICLES  
+1. 
+Loading and unloading spaces for delivery trucks will not block major pedestrian ways, 
+the passage of other vehicles on the service drive or major pedestrian ways, or create 
+blind spots when trucks are loading and unloading. 
+2. 
+Trash boxes, containers for recycling and food composting, and dumpsters will be 
+accessible to collection trucks when all vehicle parking spaces are filled. 
+2.11 
+WAIVERS 
+1. 
+Alternate designs for shared parking, parking lot design, and parking lot landscaping may 
+be approved via the waiver process set forth in Article IV, Section 6.
+
+<!-- page 217 -->
+ARTICLE V.  ZONING REGULATIONS 
+SECTION 3. SIGNS 
+ 
+Land Use Ordinance for Kent County, Maryland     214
+SECTION 3 
+SIGNS 
+3.1 
+STATEMENT OF INTENT 
+1. 
+COMMUNITY CHARACTER 
+The purpose of this section is to establish minimum regulations for the design and display 
+of signs. The regulations and standards provide sufficient identification of property while 
+preserving the overall attractiveness of the County. The intent of the County enacting this 
+section is to: (A) encourage the effective use of signs; (B) maintain and enhance the 
+aesthetic environment of the County while avoiding visual clutter; (C) promote the use of 
+signs to identify buildings and geographic areas; (D) improve pedestrian and vehicle traffic 
+safety; and (E) promote the compatibility of signs with the surrounding land uses. 
+2. 
+CONTENT-NEUTRAL REVIEW 
+For the purposes of regulating signs in Kent County, the message of any sign will not be 
+considered in any review. All reviews are content-neutral. Throughout this section of the 
+Land Use Ordinance, there are sign types and sign descriptions that are intended to clarify 
+the potential utility of signs for applicants. As long as proposed signs on a property comply 
+with the requirements related to the number of signs, sign area, height, illumination, time 
+restrictions, location, relative placement, and obscenity, such signs may be permitted. 
+Issues related to color, design, and materials are subject to review and may be regulated. 
+Prohibited signs are not permitted. Political signs are regulated by the State of Maryland. 
+No signs may be erected on any property, unless the property owner of record consents. 
+3.2 
+DEFINED TERMS WITHOUT GRAPHICS 
+The following defined terms are used in this section: 
+1. 
+Sign: Any letters, figures, design, symbol, trademark, logo, or illuminating device intended 
+to attract attention to any place, subject, person, firm, corporation, public performance, 
+article, machine, or merchandise, whatsoever, and visible out of doors for advertising 
+purposes. This does not include an official court or public notice, nor the flag, emblem or 
+insignia of a government, school, or religious group, when displayed for official purposes.  
+2. 
+Common Development: A parcel or combination of parcels that are dependent upon one 
+another for access, parking, and/or utilities and that share a common development plan. 
+3. 
+Electronic Message Center (EMC): An electrically activated changeable copy sign having 
+variable graphic capabilities and programmed by computer. EMCs provide the public with 
+information such as federally required information for gas stations and public information 
+regarding public events held on site by quasi-public/institutional uses and fire companies. 
+4. 
+Manually Changeable Copy: Previously regulated as a separate sign subcategory, any sign 
+may contain manually changeable copy. Sign area is regulated under the overall sign type. 
+5. 
+Portable or Temporary Sign: Any sign that is not permanently attached to the ground or 
+a structure including banners, sandwich board signs, yard signs, and signs on vehicles.
+
+<!-- page 218 -->
+ARTICLE V.  ZONING REGULATIONS 
+SECTION 3. SIGNS 
+ 
+Land Use Ordinance for Kent County, Maryland     215
+3.3 
+DEFINED TERMS WITH GRAPHICS 
+The example graphics below are illustrative only. They represent possibilities for the appearance 
+of sign types that are allowed on private property within the County. Images are non-regulatory. 
+1. 
+GROUND-MOUNTED SIGNS and MONUMENT-TYPE SIGNS  
+Sign Type 
+Definition 
+Example Graphic 
+Agricultural: 
+Ground-
+Mounted 
+Sign 
+A two-sided sign attached to poles, posts, or similar 
+supports, which advertises products raised on the 
+premises, agricultural industries, and agritourism. 
+These signs are often placed near public roads or at 
+the entrances to farm lanes and may be landscaped.  
+ 
+Agricultural: 
+Monument-
+Type Sign 
+A two-sided sign mounted on a permanent base, 
+which is not attached or dependent on another 
+structure, pole, post, or similar support. Such signs 
+are often landscaped and may be coordinated with 
+the architectural treatments of nearby structures. 
+ 
+Subdivision:  
+Monument-
+Type Sign 
+A one-sided monument sign that contains only one 
+distinct sign area on the sign face for the purpose of 
+identifying the entrance of a subdivision along a 
+public road. They are often generously landscaped. 
+ 
+2. 
+BUILDING-MOUNTED SIGNS 
+Sign Type 
+Definition 
+Example Graphic 
+Window Sign 
+A permanent sign that is painted on or mounted to a 
+window, or that is hung directly inside a window. 
+Neon window signs are included in this category. 
+Temporary paper signs in windows and temporary 
+banner signs are not included in this category. 
+Wall Sign  
+ 
+A flat, permanent sign that is attached and parallel to 
+an exterior wall, and projects no more than 12 inches 
+from the wall. It may be painted onto a wall surface 
+or erected and confined within the limits of the wall 
+surface of a building or structure. The sign is located 
+against the wall, and it displays only one sign surface. 
+Projecting 
+Sign 
+ 
+A sign that projects no more than 36 inches from and 
+is supported by a wall of a building or structure. This 
+includes a marquee sign. The sign is located against a 
+wall, and it displays more than one sign surface. All 
+surfaces are calculated for signage area, except when 
+parallel faces are within 24 inches of each other.
+
+<!-- page 219 -->
+ARTICLE V.  ZONING REGULATIONS 
+SECTION 3. SIGNS 
+ 
+Land Use Ordinance for Kent County, Maryland     216
+3. 
+DETACHED SIGNS and INCIDENTAL SIGNS 
+Sign Type 
+Definition 
+Example Graphic 
+Freestanding 
+Sign 
+A sign that is not attached to a building but rather a 
+supporting structure attached to the ground. These 
+signs may be ground-mounted or pole-mounted. 
+They are often made of high-quality materials and 
+well landscaped. Signs located on the All-American 
+Road are encouraged to include relevant branding. 
+ 
+Directional 
+Sign 
+A sign that directs the public towards a site entrance 
+and is visible from a public right-of-way, or any sign 
+that provides traffic regulation on private property. 
+These signs are private and for information only, and 
+they cannot be enforced by local law enforcement.  
+ 
+Address Sign 
+- and - 
+Building Sign 
+A sign that is located on a wall immediately adjacent 
+to the entrance of a building or in a yard area. These 
+signs are often used to identify a property address or 
+to provide other information about an activity or use 
+that occurs on the property for the general public. 
+ 
+3.4 
+ILLUMINATION 
+1. 
+No sign may be illuminated except when using external lighting, where the source of light 
+is external to, and independent of, the sign structure, and illumination radiates toward 
+the message area and away from the viewer. This includes goose neck, linear sign lights, 
+and ground mounted spotlights. Interior illumination of signs is not permitted in any case. 
+2. 
+The light from any illuminated sign will be so shaded, shielded, or directed that the light 
+intensity or brightness will not be objectionable to surrounding areas. 
+3. 
+No sign will have blinking, flashing, or fluttering lights, or any other illuminating device 
+which has a changing light intensity, brightness, or color.  
+4. 
+Beacon lights are not permitted. 
+5. 
+No colored lights will be used at any location or in any manner so as to be confused with 
+or construed as traffic control devices. 
+6. 
+Neither the direct, nor the reflected light from primary light sources will create a traffic 
+hazard to operators of motor vehicles on public thoroughfares. 
+7. 
+No exposed reflective type bulbs, no strobe light, nor incandescent lamp which exceeds 
+15 watts will be used on the exterior surface of any sign so as to expose the face of the 
+bulb, light, or lamp to any public street or adjacent property. 
+8. 
+All new lighting for signs will be dark-sky compliant and use LED fixtures with automatic, 
+light-sensitive shut-off technology that will turn off all sign lighting during daylight hours.
+
+<!-- page 220 -->
+ARTICLE V.  ZONING REGULATIONS 
+SECTION 3. SIGNS 
+ 
+Land Use Ordinance for Kent County, Maryland     217
+3.5 
+ELECTRONIC MESSAGE CENTER (EMC)  
+1. 
+Electronic message centers is permitted as a component of permitted signage for gasoline 
+stations, quasi-public/institutional uses, and fire companies. One sign of equal or less sign 
+area and height, which is not an EMC, is permitted in lieu of the EMC, but not both signs. 
+2. 
+No sign containing an electronic 
+message center will be located within 
+125 feet of any signalized intersection 
+as measured from the point where 
+the existing right-of-way lines of the 
+intersecting streets meet. In a case 
+where a rounded or cut property 
+corner exists, this measurement will 
+be taken from the point of the 
+intersection of the existing rights-of-
+way lines, as extended. The distance 
+will be measured along the right-of-
+way line from the point of intersection.  (See graphic illustration.)                   
+3. 
+Any electronic message center that is located within 300 feet of any residential use will 
+be required to automatically turn off between the hours of 11:00 p.m. and 6:00 a.m. daily. 
+4. 
+An electronic message sequence will be accomplished by means of fading or dissolving 
+but will not scroll, travel, or flash.  A transition sequence will be completed in no less than 
+eleven (11) seconds. 
+5. 
+No portion of any sign may change its message or background in a manner or by a method 
+of display characterized by motion, other than fading or dissolving, or pictorial imagery or 
+depicts action or a special effect to imitate movement, or the presentation of pictorials 
+or graphics displayed in a progression of frames that give the illusion of motion or the 
+illusion of moving objects, moving patterns or bands of light or expanding or contracting 
+shapes. 
+6. 
+Electronic message centers will be designed to freeze the display in one static position, 
+display a full black screen, or turn off completely in the event of any malfunction. 
+7. 
+Portable electronic message signs are prohibited. No electronic message center will be 
+permitted to be included as part of any sign that will be erected for a limited timeframe. 
+8. 
+Digital road signs, electronic traffic signs, and other variable message signs that provide 
+real-time information to drivers, erected by governmental bodies and agencies including 
+the State, County, and other local governments are not electronic message centers.
+
+<!-- page 221 -->
+3.6. PERMITTED SIGNS 
+Rural  
+ = AZD, RCD, and on any bona fide farm 
+Residential   = RC, CAR, and CR 
+Business        = C, CCA, EC, ECCA, M 
+Village  
+  = V, IV    Options are chosen by applicant; they are not based on sizes 
+Special  
+  = Special exception uses when approved by the Board of Appeals and existing 
+businesses in districts where they are no longer operating as permitted uses 
+Number of Signs 
+Max Area (sq ft) 
+Max Height (ft) 
+Illumination 
+Rural  
+Residential  
+Business  
+Village  
+Special 
+A. GROUND-MOUNTED and MONUMENT-TYPE SIGNS 
+Agricultural: advertising products raised on the premises and ag industries only (prior 16 sq ft) 
+1 
+32 
+8 
+Yes 
+X 
+Subdivision, rural: located at subdivision primary vehicle entrance only 
+1 
+4 
+8 
+Yes 
+X 
+Subdivision, residential: located at subdivision primary vehicle entrance only 
+1 
+10 
+8 
+Yes 
+X 
+X 
+X 
+Electronic Message Center (EMC) at gas stations, quasi-public/institutions, and fire companies 
+1 
+32 
+8 
+Yes 
+X 
+X 
+X 
+B.  BUILDING-MOUNTED SIGNS 
+Window signs including neon signs but not temporary paper signs or banner signs 
+1 
+2 
+N/A Yes 
+X 
+X 
+X 
+Small wall sign: PER ESTABLISHMENT: 5% of the area of the front façade and a max of … 
+OR Projecting sign, small: PER ESTABLISHMENT, if no flat sign is erected (choose one) 
+1 
+25 
+N/A Yes 
+X 
+X 
+1 
+5 
+N/A Yes 
+BUILDINGS WITH A GROSS FLOOR AREA LESS THAN 20,000 SQUARE FEET  
+Medium wall sign: PER ESTABLISHMENT: 5% of the area of the front façade and a max of … 
+OR Projecting sign, medium: PER ESTABLISHMENT, if no flat sign is erected (choose one) 
+1 
+25 
+N/A Yes 
+X 
+1 
+10 
+N/A Yes 
+BUILDNGS WITH A GROSS FLOOR AREA EQUAL TO OR GREATER THAN 20,000 SQUARE FEET 
+Large wall sign: PER ESTABLISHMENT: 1.5 sq ft per linear foot of front façade with a max of … 
+(Signage colors to be approved by Planning Commission; not eligible for bonus; see footnote †) 
+OR Projecting sign, large: PER ESTABLISHMENT, if no flat sign is erected (choose one) 
+1 
+100 
+N/A Yes 
+X 
+1 
+10 
+N/A Yes 
+C.  DETACHED SIGNS and INCIDENTAL SIGNS 
+Free-standing Pole sign OR Ground-mounted sign 
+Business sign: for a stand-alone business or common development (e.g., shopping center) 
+1 
+25 
+25 
+Yes 
+X 
+X 
+X 
+Directory sign: identifying three or more establishments within a common development 
+1 
+65 
+8 
+Yes 
+X 
+Waterfront sign: if directed at the water, for a stand-alone business or common development 
+1 
+20 
+20 
+Yes 
+X 
+Incidental signs 
+Address sign (formerly nameplate sign) 
+1 
+2 
+N/A 
+No 
+X 
+X 
+X 
+X 
+X 
+Building sign (formerly home occupation sign) 
+1 
+2 
+N/A 
+No 
+X 
+X 
+X 
+X 
+X 
+Directional signs (number not limited) 
+N/A 
+4 
+4 
+Yes 
+X 
+X 
+X 
+X 
+X 
+Flags of any Nation, State, County, or Municipality 
+3 
+28 
+N/A Yes 
+X 
+X 
+X 
+X 
+X 
+Flag additional (formerly noted as non-commercial) 
+1 
+15 
+N/A Yes 
+X 
+X 
+X 
+Portable or Temporary signs (including banners, sandwich boards, and yard signs) 
+1 
+6 
+8 
+No 
+X 
+X 
+X 
+Warning signs – danger, no trespassing, no hunting, and other warnings (number not limited) 
+N/A 
+2 
+6 
+No 
+X 
+X 
+X 
+X 
+X 
+TOTAL OVERALL SIGN AREA ALLOWANCE FOR ANY SINGLE BUILDING † 
+1.5 square feet per linear foot of building frontage and no more than: 
+100 sq feet 
+X 
+X 
+X 
+†Buildings with a gross floor area equal to or greater than 20,000 square feet are exempt from the single-building maximum sign area limitation above.
+
+<!-- page 222 -->
+ARTICLE V.  ZONING REGULATIONS 
+SECTION 3. SIGNS 
+ 
+Land Use Ordinance for Kent County, Maryland     219
+3.7 
+CRITERIA FOR BONUS SIGN AREA 
+To encourage design excellence, the maximum sign areas in the Rural, Residential, Business, and 
+Village categories may be increased by the percentages outlined below. A separate bonus is 
+granted for compliance with each of these criteria and the area is cumulative, but the percentage 
+is based on the original sign area. In no case will the overall sign area exceed  64 square feet.  
+1. 
+Detached signs, both pole-mounted and monument-type, may be increased as follows:  
+(A) 
+Twenty (20) percent when the sign is constructed of solid wood and uses colors 
+approved by the Planning Commission.  
+(B) 
+Ten (10) percent when a directory sign utilizes uniform coloring and lettering 
+for all establishments listed in the directory with an exception for one major 
+facility.  
+(C) 
+Twenty (20) percent when the sign is installed in a landscaped planter having 
+an area twice the area of the resultant sign and the entire area is approved by 
+the Planning Commission.  
+(D) 
+Fifteen (15) percent when the sign is not designed or used with illumination, 
+only indirect lighting is permitted. 
+(E) 
+Twenty (20) percent when the sign uses a pedestal or monument base and does 
+not exceed 5 feet in height.  
+2. 
+Wall signs may be increased as follows, if they project less than 12 inches from the wall: 
+(A) 
+Ten (10) percent when all the lettering and background is uniform in style and 
+color for signs in a shopping center or for any three consecutive separate 
+establishments.  
+(B) 
+Fifteen (15) percent if the sign is not designed or used with any illumination, 
+only indirect lighting is permitted. 
+(C) 
+Five (5) percent if the sign design compliments and utilizes the architectural 
+details of the facade, particularly with respect to historic structures. 
+3. 
+Temporary signs may be increased by the Planning Commission for project construction. 
+3.8 
+SIGN PERMIT REQUIRED GENERALLY 
+Except for the signs listed below, which may be erected without obtaining a permit, every person 
+desiring to erect a sign will first obtain a sign permit along with all other permits required by law. 
+3.9 
+REGULATED SIGNS NOT REQUIRING A SIGN PERMIT 
+GROUND-MOUNTED and MONUMENT-TYPE SIGNS 
+1. 
+In keeping with the content-neutral approach, new or replacement sign copy, including 
+repainting and new cabinet faces will not require a sign permit, as long as the calculated 
+sign area remains unchanged. Changes to electrical equipment will require an inspection.
+
+<!-- page 223 -->
+ARTICLE V.  ZONING REGULATIONS 
+SECTION 3. SIGNS 
+ 
+Land Use Ordinance for Kent County, Maryland     220
+BUILDING-MOUNTED SIGNS – THIS SUB-SECTION GRANTS ADDITIONAL SIGNS AND SIGN AREA 
+1. 
+Temporary paper signs in windows that occupy less than 30 percent of each window area. 
+2. 
+Painted logos, decals, or other informational symbols, such as credit card logos, directly 
+inside of, or on the surface of, a window and/or door on the ground floor of a building, if 
+the area of such informational signs is less than five (5) percent of the area of the window.   
+3. 
+In keeping with the content-neutral approach, new or replacement sign copy, including 
+repainting and new cabinet faces will not require a sign permit, as long as the calculated 
+sign area remains unchanged. Changes to electrical equipment will require an inspection. 
+DETACHED and INCIDENTAL SIGNS 
+1. 
+Address signs, building signs, flags, warning signs, and non-illuminated directional signs. 
+2. 
+Portable or Temporary signs displayed for 60 days or less within any given calendar year.  
+3. 
+In keeping with the content-neutral approach, new or replacement sign copy, including 
+repainting and new cabinet faces do not require a sign permit, as long as the calculated 
+sign area remains unchanged. Changes to electrical equipment will require an inspection. 
+3.10 
+SIGNS EXEMPT FROM ANY REVIEW AND NOT SUBJECT TO THIS SECTION 
+The signs listed below may be erected without any review and are not subject to this sign section. 
+1. 
+Federal, State, and County program-related interpretative signs for farmland preservation 
+and archeological, cultural, and historic programs such as byways and All American Roads. 
+2. 
+Public signs representing a public interest, erected by, or on the order of a public official. 
+3. 
+Temporary public notices for public meetings and public hearings, erected by the County. 
+4. 
+Traffic and information signs erected in the public rights-of-way by a governmental body. 
+3.11 
+HOW TO MEASURE SIGN DIMENSIONS    
+1. 
+Sign Height Measurement 
+ 
+The height of a sign will be measured from the higher of (1) the natural grade immediately 
+adjacent to or directly beneath the sign base, which will not be raised so as to create 
+additional sign height, or (2) the height of the roadway crown of the adjacent street which 
+the sign faces, to the highest point of the sign structure, including the bracket, supports, 
+and any sign face surrounds. The above diagram illustrates sign height measurement.
+
+<!-- page 224 -->
+ARTICLE V.  ZONING REGULATIONS 
+SECTION 3. SIGNS 
+ 
+Land Use Ordinance for Kent County, Maryland     221
+2. 
+Sign Area Measurement   
+(A) 
+For signs mounted on a freestanding background or projecting from a building, 
+the entire area of the framework or background of the sign is calculated as the 
+sign area, including any material or color forming the sign face or background 
+used to differentiate the sign from the sign structure against which it is placed. 
+Sign area does not include any supporting framework or bracing unless such 
+framework or bracing is part of the message or sign face.  (Diagram “A” below).  
+(B) 
+For signs consisting of freestanding letters or features attached to a wall or 
+monument, the sign area is calculated as the total area of an imaginary 
+rectangle that contains all letters or features of the sign. (Diagram “B” below).  
+ 
+ 
+ 
+(C) 
+Other computations. Only one side of a double-faced sign is included in the 
+computation of sign area, when the two sign faces are placed back-to-back, so 
+both are no more than 24 inches apart at their furthest distance. The area of a 
+cylindrical sign is computed by multiplying one-half of the circumference by the 
+height of the sign. Regular geometric shapes may be calculated using formulas. 
+3.12 
+SIGN LOCATION AND SAFETY 
+1. 
+All ground-mounted signs will be setback no less than five feet from the right-of-way line. 
+2. 
+All supports and wiring for building-mounted signs will be concealed from public view. 
+3. 
+Signs will not be situated so they interfere with the movement or visibility for pedestrians, 
+cyclists, or motorists, or so they obstruct views of traffic signals or other traffic devices. 
+4. 
+Signs and their supporting structures will not interfere with public utility equipment or 
+communication lines/equipment that are either above or below the grade. 
+5. 
+ At a minimum, signs will not be located in the vision clearance triangle adjacent to the 
+intersection of any streets. The triangle is fifteen (15) feet from the point of intersection 
+of two streets along the right-of-way of each of the two intersecting streets, or a distance 
+of five (5) feet from a point of intersection of a street and a driveway. Wall signs and any 
+other signs that are placed flat against a building wall are not subject to this requirement.
+
+<!-- page 225 -->
+ARTICLE V.  ZONING REGULATIONS 
+SECTION 3. SIGNS 
+ 
+Land Use Ordinance for Kent County, Maryland     222
+ 
+3.13 
+PROHIBITED SIGNS GENERALLY 
+Except as otherwise provided, the following signs are prohibited: 
+1. 
+Signs including all billboards, outdoor advertising structures, poster panels, and signs of 
+any type, which advertise products or services that are not available on the premises. 
+2. 
+Signs that visually simulate an official traffic control device, warning sign, or regulatory 
+sign, or which hide from view any traffic control device, signal, or public service sign. 
+3. 
+Signs that interfere with road or highway visibility or obstruct or otherwise interfere with 
+the safe and orderly movement of traffic or which otherwise pose a hazard to traffic. 
+4. 
+Signs in the form of pennants, balloons, streamers, ribbons, spinners, strings of lights, air- 
+or gas-filled figures, or other devices that are moved by wind, machine, or human activity.  
+5. 
+Signs on public rights-of-way other than publicly owned or maintained signs and signs 
+pertaining to railroad crossings. 
+6. 
+Signs containing obscene statements, words, symbols, or graphic depictions that may be 
+construed to offend public morals or decency.  
+7. 
+Signs that emit or utilize, in any manner, any kind of sound that is produced by the sign. 
+8. 
+Signs attached to a fire escape or that obstruct any fire escape, any means of egress, or 
+ventilation, or will prevent free passage from one part of a roof to any other part. 
+9. 
+Signs, other than approved Electronic Message Centers, that change color(s), flash, blink, 
+oscillate, or intimate movement through lighting effect(s) or the use of video display of 
+any kind, and in any way visible from the right-of-way or any other adjacent properties. 
+10. 
+Signs painted or affixed on the roof of a building or supported by posts, poles, uprights, 
+or braces extending from or attached to the roof of a building or projected above the roof 
+of a building or above the parapet. Signs that extend above any eave line are prohibited. 
+11. 
+Signs attached to a fence, wall, gazebo, antenna, other sign, tree or other vegetation, or 
+to any public structure such as a utility pole or lamppost.
+
+<!-- page 226 -->
+ARTICLE V.  ZONING REGULATIONS 
+SECTION 3. SIGNS 
+ 
+Land Use Ordinance for Kent County, Maryland     223
+3.14 
+SIGN MAINTENANCE 
+All signs will be maintained in safe structural condition, in compliance with all applicable building, 
+life safety, and electrical codes, and in conformance with this section at all times. Maintenance 
+includes replacement of defective bulbs, parts, materials, painting, repainting, cleaning, and any 
+other act required for maintenance of signs. If a sign is not adequately maintained or kept in good 
+repair, the County may require its removal, utilizing the provisions in the section below.  
+3.15 
+REMOVAL OF UNSAFE, UNLAWFUL, OR ABANDONED SIGNS 
+1. 
+Upon written notice by the County, the property owner of record where a sign is located 
+will remove the sign, if it is unsafe, was unlawfully erected in violation of this section after 
+August 1, 1989, or the permitted use related to the sign has been abandoned or vacated. 
+2. 
+After 30 days from the date of the notice, the County may remove or cause to be removed 
+at the expense of the property owner, any sign that is not in compliance with this section.  
+3. 
+If any sign poses an immediate threat to public safety, it may be removed immediately. 
+3.16 
+LEGAL, NONCONFORMING SIGNS  
+1. 
+A sign will be considered a legal, nonconforming sign if it:  
+(A) 
+Does not conform to one or more of the sign regulations in this section; and, 
+(B) 
+Existed on the effective date of this Land Use Ordinance; and either conformed 
+to the regulations of, or was considered to be a legal, nonconforming sign by 
+the Ordinance in effect on the day before the effective date of this Ordinance.   
+2. 
+A prohibited sign existing on August 1, 1989, is considered a legal, nonconforming sign. 
+3. 
+A legal, nonconforming sign may be retained in place, if the following conditions are met: 
+(A) 
+The legal, nonconforming sign is not expanded, structurally altered, relocated, 
+completely replaced, or removed except to bring the legal, nonconforming sign 
+into some greater compliance with the sign regulations of this section; and 
+(B) 
+The legal, nonconforming sign is maintained in good condition and repair.  
+4. 
+A legal, nonconforming sign damaged or destroyed by Act of God or other circumstances 
+beyond the control of the owner of the sign may be repaired, relocated, or replaced. 
+5. 
+A question of the legal, nonconforming status of a sign is decided by the Board of Appeals 
+in a public meeting with public notice given, per the requirements for notice in Article IV. 
+3.17 
+RELOCATION OF LEGAL, NONCONFORMING SIGNS 
+A nonconforming sign may be relocated for road or sidewalk construction, purchases of right-of-
+way, or other utility or transportation projects initiated by the County or any other public agency.
+
+<!-- page 227 -->
+ARTICLE V.  ZONING REGULATIONS 
+SECTION 4. STANDARDS FOR UTILITY-SCALE SOLAR ENERGY SYSTEMS 
+ 
+Land Use Ordinance for Kent County, Maryland     224
+SECTION 4 
+STANDARDS FOR UTILITY-SCALE SOLAR ENERGY SYSTEMS 
+4.1 
+SETBACKS TO ACCOMMODATE REQUIRED LANDSCAPE BUFFER 
+1. 
+200 feet from any lot line. 
+2. 
+200 feet from any road/and or right-of way  
+3. 
+200 feet from any road/right-of-way within ½ mile of a town or village boundary that is 
+the gateway into a town or village  
+4. 
+200 feet from any residential use or zoning district  
+5. 
+Setbacks may be reduced to 100 feet for non-residential development with written 
+consent from the property owners whose property is adjacent to the area in which the 
+setback reduction is sought. The Planning Commission shall be the review agency to 
+determine the application of this provision.  
+6. 
+Setbacks shall be measured from the outermost edge of the nearest solar panel structure 
+within the solar array including substations.  
+4.2 
+INSTALLATION AND MAINTENANCE STANDARDS  
+Solar arrays shall be constructed and maintained according to the following:  
+ 
+1. 
+If solvents are required for cleaning of the solar modules, they must be biodegradable. 
+Any unused solvents must be removed from the subject parcel.  
+2. 
+All broken or waste solar modules shall be removed from the site subject parcel within 30 
+days of being taken out of service, including any leaching panels, and the subject parcel 
+shall be maintained in good order.  
+3. 
+All wiring not on the solar arrays shall be underground except when necessary to connect 
+to the public utility.  
+4. 
+Transmission wires to connect the project to the utility infrastructure shall not cross a 
+roadway overhead.  
+5. 
+Any required utility right of way shall be secured through an easement, lease, service 
+agreement or other legally binding document.  
+6. 
+The solar array shall be enclosed by a fence or other appropriate barrier at the interior 
+edge of the required landscape buffer or immediately adjacent to the solar array. The 
+fence or barrier shall:  
+(A) 
+Secure the facility at all times to prevent unauthorized persons or vehicles from 
+gaining access.  
+(B) 
+All access gates will provide a sign that identifies the responsible parties or 
+owners with current contact information.
+
+<!-- page 228 -->
+ARTICLE V.  ZONING REGULATIONS 
+SECTION 4. STANDARDS FOR UTILITY-SCALE SOLAR ENERGY SYSTEMS 
+ 
+Land Use Ordinance for Kent County, Maryland     225
+7. 
+Noise generated by the facility shall be limited by the project design to 45 dBAs measured 
+at the property line, to be indicated on the site plan by the engineer, except when a back-
+up generator is needed for maintenance. Construction on the site is exempt from this 
+standard.  
+8. 
+Solar arrays, including the electrical and mechanical components, shall conform to 
+relevant and applicable local, State, and national codes.  
+9. 
+To protect adjacent properties, and not interfere with roadways or create a safety hazard, 
+evidence shall be provided that the solar panels are designed to avoid glare and/or 
+reflection with anti-reflective coating or non-glare technology and, if necessary, have 
+been evaluated with a solar glare hazard and analysis tool.  
+10. 
+Non-array uses such as power storage are not permitted.  
+4.3 
+LANDSCAPE BUFFER FOR UTILITY-SCALE SOLAR ENERGY SYSTEMS 
+1. 
+Any utility scale solar facility shall comply with the requirements of the Forest 
+Conservation Act. Reforestation planting may be incorporated as landscaping. 404.6  
+2. 
+The gross usable area for panels will exclude wetland areas that are regulated by the 
+Maryland Department of the Environment or the U.S. Department of the Interior. Impacts 
+associated with access or interior roads and utility crossings shall provide the necessary 
+authorization for any disturbances.  
+3. 
+Existing topsoil shall not be removed from the site.  
+4. 
+A vegetated buffer that is a minimum of 60 feet wide around the perimeter of the site 
+area fronting on road or rights of way that are considered gateways to towns or villages 
+and a minimum of 50 feet for all other applications. This buffer may be located within the 
+setback and shall extend around the entire project with the exception of any boundaries 
+contiguous to preserved, forested lands that are recorded on a plat.  
+5. 
+Healthy existing vegetation within the designated buffer area may be used to satisfy the 
+specific buffer standards.  
+6. 
+Non-native plant material shall not total more than 10% of all plantings.  
+7. 
+Where a phased construction plan is proposed, the landscape plan shall identify the 
+phasing of the plantings applicable to each construction phase.  
+8. 
+Not more than 25% of any single plant species should be included in the buffer to promote 
+the growth of a natural landscape and avoid monotony and uniformity of the buffer. The 
+vegetation shall be thickly planted and of such species that it will provide an opaque visual 
+barrier that obscures the utility scale solar array from sight once the vegetation reaches 
+maturity or within five years, whichever comes first. A mix of evergreen and deciduous 
+trees, shrubs and beneficial habitat shall be included:  
+(A) 
+A minimum of two staggered rows of evergreen trees that at installation shall 
+be at least 6 feet in height, each planted no more than 10 feet apart. Evergreen
+
+<!-- page 229 -->
+ARTICLE V.  ZONING REGULATIONS 
+SECTION 4. STANDARDS FOR UTILITY-SCALE SOLAR ENERGY SYSTEMS 
+ 
+Land Use Ordinance for Kent County, Maryland     226
+tree species shall be a varied mixture of compatible types and achieve a height 
+of eight feet in a minimum of 2 years.  
+(B) 
+In addition to the evergreen trees, native deciduous or shade trees with a 
+minimum size at installation of 2-inch caliper shall be interspersed to enhance 
+the evergreen screening along with understory trees with a minimum size of 
+installation of 1-inch caliper or 6 feet in overall height or greater if required by 
+the Planning Commission to address gateway areas.  
+(C) 
+Shrubs with a minimum size at installation of 24 inches in height or 30 inches 
+in spread.  
+(D) 
+The buffer shall include a flowering ground cover for pollinators, warm season 
+grasses and other beneficial habitat. The ground cover seed mixture shall 
+include a minimum of 10 plant species with a minimum of 2 flowering seasons. 
+Lawns outside the required buffer are discouraged; plantings for pollinators are 
+encouraged in all planted areas.  
+(E) 
+The height of proposed planting may require alternatives based upon the site 
+elevation and visibility from adjacent properties and roads and/or rights of 
+ways. If necessary, an elevation or perspective illustration exhibit shall be 
+provided with viewpoints from relevant locations around the site for the 
+Planning Commission to consider.  
+4.4 
+LANDSCAPE BERM REQUIRED; CONDITIONS FOR EXEMPTION LISTED 
+A landscape berm shall be provided at a minimum of three (3) feet high to assist in screening. 
+The design of the berm shall be such that the natural drainage patterns of the site will not be 
+altered. The berm requirement may be waived in part or total subject to the following conditions:  
+ 
+1. 
+A minimum of two staggered rows of evergreen trees that at installation are at least 8 
+feet in height and planted no more than 10 feet apart  
+2. 
+Interspersed shade trees have a minimum size at installation of 2.5-inch caliper  
+3. 
+Understory story trees with a minimum size at installation of 1.5-inch caliper or 6 feet in 
+overall height  
+4. 
+Shrubs with a minimum size at installation of 30 inches in height.  
+5. 
+The landscaping plan is deemed to screen elevations of the site adequately within 2 years. 
+4.5 
+IRRIGATION REQUIRED 
+Irrigation shall be provided to assist in maintaining plant materials in a healthy condition for all 
+newly created landscape buffer areas. Plants shall be watered in a manner adequate to ensure 
+establishment and survival. The landscape plan shall include a watering schedule appropriate for 
+the proposed plantings, which may include service by on-site irrigation or water truck, until the
+
+<!-- page 230 -->
+ARTICLE V.  ZONING REGULATIONS 
+SECTION 4. STANDARDS FOR UTILITY-SCALE SOLAR ENERGY SYSTEMS 
+ 
+Land Use Ordinance for Kent County, Maryland     227
+plant material is sufficiently established to survive on natural soil moisture. An irrigation system 
+is subject to the following:  
+ 
+1. 
+The irrigation system shall be designed to prevent runoff, low head drainage, overspray, 
+or other similar conditions where irrigation water flows onto nontargeted areas such as 
+adjacent properties, roadways, or structures.  
+2. 
+All automatic irrigation systems shall be designed to minimize water usage and shall be 
+manually shut off during water emergencies or water rationing periods.  
+3. 
+An alternative form of irrigation for a particular site may be approved through the 
+applicable review process upon determining that underground irrigation is not necessary 
+or available for the type of plant material being proposed.  
+4.6 
+MAINTENANCE AGREEMENT REQUIRED 
+A maintenance agreement for the landscape plan shall be provided with a surety or other 
+financial assurance to cover replacement of the plantings and irrigation systems. All plantings 
+shall be maintained in a live, healthy condition for the duration of the solar array life and shall be 
+replaced by the solar array operator as necessary with appropriately sized plant material as 
+necessary to maintain all required buffering standards.  
+4.7 
+LANDSCAPE SURETY REQUIRED 
+The surety may be provided on a phased basis per the landscape phasing plan and shall be held 
+by the County for a period of three years following planting, after which the County, upon 
+satisfactory inspection of the landscape buffer may release 50% of the surety, and the remaining 
+50% may be released after an additional two years. The County then reserves the right to inspect 
+and require replacement for the duration of the solar array.  
+4.8 
+PROJECT ENTRANCE REQUIREMENTS 
+Entrances to the project should be designed to ensure that neighboring properties, public rights-
+of ways and roads are not exposed to an unscreened view through the entranceway. The use of 
+a wire mesh or chain-link gate or fence with vinyl interwoven strips is not acceptable.  
+4.9 
+COMPLIANCE WITH FEDERAL AND STATE REQUIREMENTS 
+The project shall comply with all applicable federal and State regulations, including by not limited 
+to obtaining a Certificate of Public Convenience and Necessity from the Public Service 
+Commission if required, and in the removal and disposal of the utility scale solar array and all of 
+its components.  
+4.10 
+COMLIANCE WITH ALL OTHER PUBLIC LAWS OF KENT COUNTY 
+The project shall comply with all other applicable regulations, as contained in the Public Laws of 
+Kent County.
+
+<!-- page 231 -->
+ARTICLE V.  ZONING REGULATIONS 
+SECTION 4. STANDARDS FOR UTILITY-SCALE SOLAR ENERGY SYSTEMS 
+ 
+Land Use Ordinance for Kent County, Maryland     228
+4.11 
+PROJECT BONDING REQUIREMENTS 
+The Project shall comply with the bond-related requirements below:  
+ 
+1. 
+A bond, surety letter, or other financial instrument for removal of all solar-related 
+structures and non-vegetative improvements on the site and for the restoration of the 
+site to its pre-project condition shall be submitted, to be based on bona fide written 
+estimates prepared by third-party consultants;  
+2. 
+The cost estimate shall address provisions for the safe removal and proper disposal of all 
+components of the project, including any components containing hazardous or toxic 
+materials including leachates;  
+3. 
+An estimate for review by County shall be submitted;  
+4. 
+Bond shall be maintained for the life of the project;  
+5. 
+Bonding may be in coordination with other required bonding by the State of Maryland, 
+PSC, PULJ, PPRP, etc.;  
+6. 
+In the event that no other bonding is required, then a bond in favor of the County shall 
+be required;  
+7. 
+Said bonding shall include an escalator provision based on changes to the cost of 
+restoration, which shall be evaluated and updated every five years;  
+8. 
+Said bond shall be for 110% of the above estimate(s) and/or updated estimate(s) from 
+five-year reviews;  
+9. 
+Said bond shall be redeemable by the County upon a finding that the project has been 
+abandoned, with or without notice from project operators, if project has, in fact, been 
+abandoned by its operators; and  
+10. 
+The Project will be considered to be abandoned, if there is no electric generation provided 
+to the grid for a period of twelve (12) consecutive months.
+
+<!-- page 232 -->
+ARTICLE VI.  ENVIRONMENTAL 
+REGULATIONS
+
+<!-- page 233 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 1. GENERAL PROVISIONS 
+Land Use Ordinance for Kent County, Maryland     230 
+SECTION 1 
+GENERAL PROVISIONS 
+1.1 
+ STATEMENT OF INTENT 
+The purpose of these standards is to provide for the proper stewardship of the County’s natural 
+resources.  Specifically, it is the overall goal of the County to maintain the quality of the County’s 
+ecosystem in the face of continuing activity, growth, and change. In general, the regulations in 
+Article VI are requirements set forth by the State of Maryland in the Maryland Code (State law) 
+and regulations adopted by various State agencies in the Code of Maryland Regulations (COMAR). 
+In some cases, there are formal processes by which exceptions may be granted, but in most cases 
+these regulations are requirements, and the County is charged by the State with enforcing them.  
+1.2 
+MARYLAND CRITICTAL AREA AND NON-CRITICAL AREA REGULATIONS 
+The 12 zoning districts in this Land Use Ordinance comprise two categories. The first category is 
+the zoning districts for land located in the State of Maryland’s Critical Area for the Chesapeake 
+and Atlantic Coastal Bays. These are the RCD, CAR, CCA, M, and ECCA. State of Maryland Critical 
+Area regulations apply in these zoning districts. The remaining districts are outside the Critical 
+Area. Critical Area regulations do not apply; Forest Conservation regulations apply. Blue 
+highlighted Sections apply only to Critical Area zoning districts. Green highlighted Sections apply 
+only to non-Critical Area zoning districts. Sections with no highlighting apply to all zoning 
+districts.  
+Article VI  
+Environmental Regulations 
+Applicability 
+AZD 
+RCD 
+RC 
+CAR 
+CR 
+V 
+IV 
+C 
+CCA 
+M 
+EC 
+ECCA 
+Section 1. General Provisions 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Section 2. Critical Area Program 
+ 
+X 
+ 
+X 
+ 
+ 
+ 
+ 
+X 
+X 
+ 
+X 
+Section 3. Forest Conservation Act 
+X 
+ 
+X 
+ 
+X 
+X 
+X 
+X 
+ 
+ 
+X 
+ 
+Section 4. Erosion & Sediment Control 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Section 5. Stormwater Management 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Section 6. Floodplain Management* 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+* For properties located in a floodplain 
+ 
+1.3 
+GENERAL ENVIRONMENTAL STANDARDS  
+These regulations apply to all properties in all zoning districts and for all processes in Article IV. 
+Applicants are required to identify the subject matter listed below and address all relevant issues.  
+1. 
+Agriculture. Whenever possible, agricultural operations will follow agricultural best 
+management practices, and property owners are encouraged to develop and implement 
+soil conservation and water quality plans, nutrient and pest management plans.
+
+<!-- page 234 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 1. GENERAL PROVISIONS 
+Land Use Ordinance for Kent County, Maryland     231 
+2. 
+Anadromous fish.  
+(A) 
+Concrete riprap or other artificial surfaces will not be installed on the bottom 
+of natural streams unless it can be demonstrated that water quality and fishery 
+habitat will be improved.  
+(B) 
+Physical alteration of a stream, including but not limited to channelization, that 
+interferes with the movement of fish will be prohibited.  
+(C) 
+The construction or placement of dams or other structures that would interfere 
+with or prevent the movement of spawning fish or larval forms in streams will 
+be prohibited.   
+(D) 
+Where practical, the removal of existing barriers is encouraged. Construction, 
+repair or maintenance activities associated with bridges or other stream 
+crossings or with utilities and roads which require disturbance to the buffer or 
+stream protection corridor, or which occur in stream will be prohibited 
+between March 1 and May 15. 
+3. 
+Forest Interior Dwelling Birds. New development will minimize impact on forest interior 
+dwelling birds. Whenever possible, riparian forest will be expanded. 
+4. 
+Natural heritage areas and locations considered for Areas of Critical State Concern will 
+be preserved whenever possible.  These areas are identified in Section 3.  
+5. 
+Non-tidal wetlands. Non-tidal wetlands will be protected according to the regulations of 
+the State of Maryland, Army Corps of Engineers, United States Fish and Wildlife Service, 
+Environmental Protection Agency, and all other applicable State and Federal Regulations. 
+6. 
+Poorly drained and flood-prone property. When possible, land subject to poor drainage 
+or periodic flooding will not be developed for any use that might involve danger to health, 
+life, or property or aggravate floods. If developed, the property owner will agree to make 
+any improvements necessary to render the property safe for development.  
+7. 
+Threatened and endangered species and species in need of conservation will be checked 
+and noted by the applicant before any approvals are granted by the Planning Director or 
+Planning Commission.  The Federal or State guidelines (whichever is stricter) for habitat 
+protection will be followed during development.  Plans will also include provisions for 
+continuance of the habitat protection after development.  This can include conservation 
+easements, cooperative agreements, special provisions in forest management plans, and 
+donation or sale to a third party. 
+8. 
+Tributary Streams. New development or redevelopment will provide a 100-foot naturally 
+vegetated stream protection corridor along all tributary streams to protect such streams 
+and the natural course and riparian habitat of these streams, habitat protection areas, or 
+any other significant habitat identified by the Department.  New development activities, 
+including structures, parking areas, septic systems, and similar impervious surfaces will 
+not be permitted in the stream protection corridor. Roads that cross the stream protection 
+corridor will be minimized.
+
+<!-- page 235 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 1. GENERAL PROVISIONS 
+Land Use Ordinance for Kent County, Maryland     232 
+The Planning Commission may modify the stream protection corridor when the following 
+can be demonstrated that: (a) a reduced corridor achieves significant water quality and 
+habitat improvements equal to the required corridor; (b) more than 50% of the corridor 
+on the site is impervious or more than 75% of the corridor on the site is disturbed with 
+stone, septic systems, decks, or other obvious human impacts; and, (c) the site will include 
+all contiguous parcels under single ownership. 
+9. 
+Vegetation. Development will minimize the removal of vegetation, protect remaining 
+vegetation, replace removed vegetation onsite, and plant permeable areas, if practicable. 
+Native plants are preferred and, in some cases, required by State law. 
+10. 
+Wildlife corridors will be created whenever feasible. Fragmentation of natural habitat 
+areas is prohibited in any residential zoning district, and fragmentation of natural habitat 
+areas will be minimized in all other zoning districts. Hedgerows are desirable as buffers.
+
+<!-- page 236 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     233 
+SECTION 2 
+CRITICAL AREA PROGRAM  
+2.1 
+PURPOSE AND GOALS 
+1. 
+The General Assembly enacted the Critical Area Act for the following purposes. 
+(A) 
+To establish a resource protection program for the Chesapeake Bay and 
+Atlantic Coastal Bays and their tributaries by fostering more sensitive 
+development activity for certain shoreline areas so as to minimize impacts to 
+water quality and natural habitats; and 
+(B) 
+To implement a resource protection program on a cooperative basis between 
+the State and affected local governments, with local governments establishing 
+and implementing their programs in a consistent and uniform manner subject 
+to State Criteria and oversight. 
+2. 
+The goals of the Kent County Critical Area Program are to accomplish the following: 
+(A) 
+Minimize adverse impacts on water quality that result from pollutants that 
+are discharged from structures or run off from surrounding lands; 
+(B) 
+Conserve fish, wildlife, and plant habitat; and 
+(C) 
+Establish land use policies for development in the Critical Area which 
+accommodate growth as well as address the environmental impacts that the 
+number, movement, and activities of people may have on the area. 
+2.2 
+IMPLEMENTATION 
+1. 
+Notwithstanding any provision in this ordinance, or the lack of a provision in this 
+ordinance, all of the requirements of Natural Resources Article 8-1801 through 8- 1817 
+and COMAR Title 27 shall apply to, and be applied by, Kent County as minimum 
+standards. 
+2. 
+In the case of conflicting provisions, the stronger provision applies. 
+2.3 
+CRITICAL AREA DESIGNATIONS 
+1. 
+The extent of the Critical Area shall include: 
+(A) 
+All waters of and lands under the Chesapeake Bay and its tributaries to the 
+head of tide, and all state and private wetlands designated under Title 16 of 
+the Environment Article of the Annotated Code of Maryland; and 
+(B) 
+All land and water areas within 1,000 feet beyond the landward boundaries of 
+state or private wetlands and the heads of tides designated under Title 16 of 
+the Environment Article of the Annotated Code of Maryland. 
+2. 
+Within the designated Critical Area, all land is assigned one of the following land 
+classifications, based on land uses and development in existence on December 1, 1985.
+
+<!-- page 237 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     234 
+(A) 
+Resource Conservation Area (RCA). 
+i. 
+Resource Conservation Areas are those areas characterized by nature-
+dominated environments (that is, wetlands, forest and abandoned fields) 
+and resource-utilization activities (that is, agriculture, forestry, fisheries’ 
+activities or aquaculture). As of December 1, 1985, these areas had at 
+least one of the following features: 
+1. Density was less than one dwelling unit per 5 acres; or 
+2. Dominant land use was in agriculture, wetland, forest, barren land, 
+surface water, or open space. 
+ii. 
+Zoning districts within the Resource Conservation Area of the Critical 
+Area 
+1. Resource Conservation (RCD) 
+(B) 
+Limited Development Area (LDA). 
+i. 
+Limited Development Areas are those areas which are currently 
+developed in low or moderate intensity uses. They also contain areas of 
+plant and animal habitats, and the quality of runoff from these areas has 
+not been substantially altered or impaired. As of December 1, 1985, 
+these areas had at least one of the following features: 
+1. Housing density ranging from one dwelling unit per 5 acres up to four 
+dwelling units per acre; 
+2. Areas not dominated by agriculture, wetland, forest, barren land, 
+surface water or open space; 
+3. Areas meeting the conditions of an intense development area but not 
+concentrated in an area of at least 20 acres; or 
+4. Areas having public sewer or public water or both. 
+ii. 
+Zoning districts within the Limited Development Area: 
+1. Critical Area Residential (CAR) 
+2. Commercial Critical Area (CCA) 
+3. Employment Center Critical Area (ECCA) 
+(C) 
+Intensely Developed Area (IDA). 
+i. 
+Intense Development Areas are those areas where residential, 
+commercial, institutional and/or industrial developed land uses 
+predominate and where relatively little natural habitat occurs. As of 
+December 1, 1985, these areas had at least one of the following features: 
+1. Housing density equal to or greater than four dwelling units per acre;
+
+<!-- page 238 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     235 
+2. Industrial, institutional, or commercial uses concentrated in the area; 
+or 
+3. Public sewer and water collection and distribution systems were 
+currently serving the area and housing density was greater than three 
+dwelling units per acre; and 
+4. These areas are concentrated in an area of at least 20 acres. 
+ii. 
+Zoning districts within the Intense Development Area of the Critical Area: 
+1. Marine (M) 
+iii. Uses or parcels that have received growth allocation: 
+1. Conference centers, resorts, retreats, campgrounds, and other uses 
+that have received growth allocation. 
+2. Commercial Critical Area parcels that have received growth 
+allocation. 
+2.4 
+DEVELOPMENT STANDARDS 
+1. 
+Lot Coverage in an LDA or RCA 
+Except as otherwise stated below, lot coverage shall not exceed 15% of a lot or parcel, or 
+that portion of a lot or parcel that is designated LDA or RCA. 
+(A) 
+Additional lot coverage in the LDA or RCA is permitted if official documentation 
+(plats, deed records) demonstrates that the lot existed on December 1, 1985. 
+Lot coverage for such lots shall be limited as shown below. 
+Lot Size (square feet) 
+Maximum Lot Coverage 
+0 to 8,000 
+25% of parcel plus 500 square feet 
+8,001 to 21,780 
+31.25% of parcel 
+21,781 to 36,300 
+5,445 square feet 
+36,301 to 43,560 
+No increase over 15% 
+ 
+(B) 
+If an individual lot one acre or less in size is part of a subdivision approved after 
+December 1, 1985, the total lot coverage for the entire subdivision may not 
+exceed 15%, and the lot coverage of an individual lot may not exceed 25%. 
+(C) 
+Lots impacted by 2008 revisions to impervious surface limits. A lot or parcel not 
+in compliance with the lot coverage requirements, but legally developed as of 
+July 1, 2008, in accordance with the impervious surface requirements in effect 
+at the time of construction, is legally nonconforming for purposes of lot 
+coverage requirements.
+
+<!-- page 239 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     236 
+(D) 
+Properties granted growth allocation in accordance with the Kent County 
+Growth Allocation Policy may be exempt from the 15% lot coverage 
+requirement. 
+2. 
+Steep Slopes 
+(A) 
+Development on slopes 15 percent or greater, as measured before 
+development, shall be prohibited unless the project is the only effective way to 
+maintain or improve the stability of the slope. 
+(B) 
+Development on slopes 15 percent or greater that are over six feet vertically as 
+measured before development shall require a variance from the Board of 
+Appeals.  
+3. 
+Clearing in an LDA or RCA 
+(A) 
+Forest clearing for lots created before December 1, 1985. 
+i. 
+Lots one-half acre or less. Forest clearing on lots that are one-half acre or 
+less in size and that were in existence on or before December 1, 1985, shall 
+be limited to the minimum necessary to accommodate a house or other 
+structure, initial septic system, driveway, and reasonable amount of yard 
+or required parking, but the clearing may not exceed 6,534 square feet. 
+Clearing above 6,534 square feet requires a variance. 
+ii. 
+Lots greater than one-half acre. Forest clearing on lots that are greater 
+than one-half acre in size that were in existence on or before December 1, 
+1985, shall be limited to the minimum necessary to accommodate a house 
+or other structure, initial septic system, driveway, and reasonable amount 
+of yard or required parking and may not exceed 20% of the forest, except 
+that the Office of Planning and Zoning may approve clearing up to 30% for 
+the installation of a required septic system. Clearing above 30% requires a 
+variance. 
+(B) 
+Developed woodland clearing for lots created before December 1, 1985. 
+i. 
+Lots one-half acre or less. Developed woodland clearing on lots that are 
+one-half acre or less in size and that were in existence on or before 
+December 1, 1985, shall be limited to the minimum necessary to 
+accommodate a house or other structure, initial septic system, driveway, 
+and reasonable amount of yard or required parking. 
+ii. 
+Lots greater than one-half acre up to one acre. Developed woodland 
+clearing on lots that are greater than one-half acre and up to one acre in 
+size that were in existence on or before December 1, 1985, shall be limited 
+to the minimum necessary to accommodate a house or other structure, 
+initial septic system, driveway, and reasonable amount of yard or required 
+parking, and may not exceed 30% without a modification by the Planning 
+and Zoning Officer.
+
+<!-- page 240 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     237 
+iii. Lots greater than one acre. Developed woodland clearing on lots that are 
+greater than one acre in size that were in existence on or before December 
+1, 1985, shall be limited to the minimum necessary to accommodate a 
+house or other structure, initial septic system, driveway, and reasonable 
+amount of yard or required parking, and may not exceed 30% without a 
+variance. 
+(C) 
+Clearing for subdivisions created after December 1, 1985. Clearing of 
+subdivisions created after December 1, 1985, may not exceed 30% of the forest 
+or developed woodland without a variance. 
+4. 
+Clearing mitigation and afforestation. 
+(A) 
+Applicability. This section applies to afforestation and mitigation for clearing of 
+forest or developed woodland for development on all lots located in the LDA 
+and RCA. 
+(B) 
+Forest mitigation for lots created before December 1, 1985. Forest clearing on 
+lots in the critical area that were in existence before December 1, 1985 is 
+subject to forest mitigation as follows. 
+i. 
+Lots one-half acre or less. Forest mitigation on lots that are one-half acre 
+or less in size shall equal the area to be cleared. 
+ii. 
+Lots greater than one-half acre. Forest mitigation on lots that are greater 
+than one-half acre in size for clearing less than 20% shall equal the area 
+to be cleared. Mitigation for clearing between 20% and 30% shall be 
+calculated at a rate of 1.5 times the area to be cleared. 
+(C) 
+Developed woodland mitigation for lots created before December 1, 
+1985. Developed woodland clearing on lots in the critical area that were in 
+existence before December 1, 1985 is subject to developed woodland 
+mitigation as follows. 
+i. 
+Lots one-half acre or less. Developed woodland mitigation on lots one-
+half acre or less in size shall equal the area to be cleared. 
+ii. 
+Lots greater than one-half acre and up to one acre. Developed woodland 
+mitigation on lots that are greater than one-half acre and up to one acre 
+in size shall equal the area to be cleared. 
+iii. Lots greater than one acre. Developed woodland mitigation greater than 
+one acre in size with less than 30% clearing shall equal the area to be 
+cleared. 
+(D) 
+Mitigation for subdivisions created after December 1, 1985. Mitigation for 
+subdivisions created after December 1, 1985 for clearing less than 20% shall 
+equal the area to be cleared. Mitigation for clearing between 20% and 30% shall 
+be calculated at a rate of 1.5 times the area to be cleared.
+
+<!-- page 241 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     238 
+(E) 
+Mitigation for variances to clearing limitations. Mitigation for variances to the 
+required clearing limitations shall be calculated at a rate of three times the 
+additional area to be cleared granted by the variance decision. 
+(F) 
+If an applicant is authorized to clear any percentage of forest or developed 
+woodland, the remaining percentage shall be maintained through recorded, 
+restrictive covenants or similar instruments approved by the County. 
+(G) 
+Replacement of trees shall be of a species similar to that which was removed 
+or a species appropriate to the replating site. 
+(H) 
+If the acreage of the site limits the application of reforestation requirements, 
+forest may be created on other lands in the Critical Area including County lands 
+or a fee in an amount determined by the Maryland Department of Natural 
+Resources to be the equivalent to the value of the required forest may be paid 
+to the County Commissioners of Kent County.  These funds shall be placed in a 
+dedicated fund used to ensure the restoration or establishment of an 
+equivalent forest area in the Critical Area or riparian areas. 
+(I) 
+Afforestation on a site with less than 20% forest or developed woodland. For 
+a site with less than 20% forest or developed woodland, afforestation shall 
+occur to the extent required in the following table and be maintained through 
+protective easements. 
+New subdivision or new development on 
+a vacant lot 
+Afforestation equal to 20% of the 
+site 
+Substantial alteration, new lot with an 
+existing dwelling unit or the conversion 
+of a land use on a parcel or lot to 
+another land use 
+Afforestation based on total lot 
+coverage, not to exceed 20% of 
+the site 
+Addition or accessory structure 
+Afforestation based on net 
+increase in lot coverage, not to 
+exceed 20% of the site 
+ 
+(J) 
+Reforestation and afforestation planting. Reforestation and afforestation 
+planting shall be established first within the 100-foot buffer, if feasible, and 
+shall include a combination of native species of trees, shrubs, and ground cover 
+approved by the Office of Planning and Zoning, or, for land within the buffer, 
+in accordance with COMAR, Title 27. 
+(K) 
+Clearing in violation of the law. Forests, woodlands, woody vegetation, or 
+individual non- hazardous trees cleared without a grading permit or other 
+required approval, or in excess of allowed clearing limits, shall be replanted at 
+three times the area of the cleared forest, woodlands or woody vegetation, and 
+for individual trees cleared, three times the number of individual trees cleared, 
+or a fee in an amount determined by the Maryland Department of Natural
+
+<!-- page 242 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     239 
+Resources to be the equivalent to the value of the required forest may be paid 
+to the County Commissioners of Kent County.  These funds shall be placed in a 
+dedicated fund used to ensure the restoration or establishment of an 
+equivalent forest area in the Critical Area or riparian areas. 
+(L) 
+In addition, all proposed development shall meet the following standards 
+applicable to forest or developed woodland clearing: 
+i. 
+Sediment, erosion and grading permits shall be issued before forest or 
+developed woodland is cleared. Forest cleared prior to obtaining permits 
+or that exceeds the maximum area allowed shall be replanted at three 
+times the acreage of the cleared forest. 
+ii. 
+Subject to the approval of the County, owners or developers shall provide 
+surety suitable to ensure that any plantings that die within twenty-four 
+(24) months of installation shall be replaced. 
+2.5 
+TIMBER HARVEST 
+1. 
+Forest management plans shall be required for all timber harvest occurring within any 
+one-year interval and which affect one or more acres in forest and developed woodlands 
+in the Critical Area.  The plans shall be prepared by a registered professional forester and 
+be reviewed and approved by the Maryland Forest, Park and Wildlife Service through the 
+District Forestry Boards and the project forester.  Plans shall be filed with the Department 
+of Planning and Zoning.   
+2. 
+Plans shall include measures to protect surface and ground water quality and identify 
+whether the activities will disturb or affect Habitat Protection Areas as set forth in the 
+Land Use Ordinance or identified on the Habitat Protection Areas Map. 
+3. 
+The plans shall include protective measures for Habitat Protection Areas and shall provide 
+for the continuity of habitat.  The plans shall address mitigation through forest 
+management techniques which include scheduling size, timing, and intensity of harvest 
+cuts, afforestation, and reforestation. 
+4. 
+The cutting and clearing of trees within the minimum 100-foot buffer are permitted 
+provided that: 
+i. 
+Existing riparian forests of 300 x 300 feet or more and forest areas used by forest 
+interior dwelling birds and other wildlife species shall be managed according to 
+the guidelines developed by the Maryland Department of Natural Resources. 
+ii. 
+When timber harvesting is being considered, a site survey for forest interior 
+dwelling birds shall be done.  Cutting and building shall be restricted to safe times 
+(not during nesting). 
+iii. 
+During timber harvest, corridors of existing forest or woodland vegetation shall be 
+maintained to provide effective connections between wildlife habitat areas.
+
+<!-- page 243 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     240 
+iv. 
+Commercial harvesting by selection or by clear-cutting of Loblolly Pine and Tulip 
+Poplar may be permitted to within 50 feet of the landward edge of the mean high 
+water line of tidal water and perennial tributary streams or the edge of the tidal 
+wetlands provided that the cutting does not occur in the Habitat Protection Areas 
+and that cutting is conducted pursuant to the requirements of the sediment 
+control and non-tidal wetlands requirements of this Ordinance and in 
+conformance with a buffer management plan prepared by a registered forester 
+and approved by the Department of Natural Resources.  The plan shall be required 
+for all commercial harvests within the minimum 100-foot buffer regardless of the 
+size of the area to be cut and shall contain the following minimum requirements: 
+v. 
+That disturbance to the stream banks and shorelines shall be avoided. 
+vi. 
+That the area disturbed or cut shall be replanted, or allowed to regenerate in a 
+manner that assures the availability of cover and breeding sites for wildlife, and 
+reestablishes the wildlife corridor function of the buffer; and 
+vii. 
+That the cutting does not involve the creation of logging roads and skid trails 
+within the minimum 100-foot buffer. 
+5. 
+Commercial harvesting of trees by any method may be permitted to the edge of 
+intermittent streams if the cutting and removal is done in accordance with a Buffer 
+Management Plan approved by the Department of Natural Resources Forester. 
+2.6 
+AGRICULTURE 
+1. 
+Agriculture  
+No new agricultural land shall be created by: 
+(A) 
+Draining, filling, or diking any palustrine wetlands that have a seasonally 
+flooded or wetter water regime unless the impact is mitigated. 
+(B) 
+Clearing of forest or woodland on soils with a slope greater than 15% or on soils 
+with a K Value greater than 0.35 and slope greater than 5%. 
+(C) 
+Clearing of existing natural vegetation within the buffer. 
+(D) 
+Clearing of forest if the clearing will affect water quality or habitat protection 
+areas as designated in this Ordinance. 
+2.7 
+THE BUFFER 
+1. 
+Purpose. The Buffer is a habitat protection area that shall be established and managed to 
+achieve or enhance the following functions: 
+i. 
+Remove or reduce the sediments, nutrients, and potentially harmful or toxic 
+substances in runoff entering the Chesapeake Bay and its tributary streams; 
+ii. 
+Minimize the adverse effects of human activities on wetlands, shorelines, stream 
+banks, tidal waters, and aquatic resources;
+
+<!-- page 244 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     241 
+iii. 
+Maintain an area of transitional habitat between aquatic and upland ecological 
+communities; 
+iv.  
+Maintain the natural environment of streams;  
+v.  
+Protect riparian wildlife habitat; and 
+vi. 
+Maintain natural vegetation. 
+2. 
+Applicability and Delineation 
+An applicant for a development activity or a change in land use shall apply all the required 
+standards as described below. The Buffer shall be delineated in the field and shall be 
+shown on all applications as follows: 
+(A) 
+A Buffer of at least 100 feet is delineated, and expanded as described in 2.6.3, 
+based on existing field conditions landward from: 
+i. 
+The mean high-water line of a tidal water; 
+ii. 
+The edge of each bank of a tributary stream; and 
+iii. The upland boundary of a tidal wetland. 
+(B) 
+Applications for subdivision or site plan approval located on land located within 
+the RCA shall include a minimum Buffer of at least 200 feet from tidal waters 
+or tidal wetlands, and 100 feet from a tributary stream, excluding for 
+subdivisions only, one parent parcel, where the buffer may be 100 feet wide.  
+i. 
+The 200-foot Buffer may be reduced if strict application of the 200-foot 
+Buffer would preclude the creation of a new lot either by subdivision at a 
+density of one dwelling unit per 20 acres, or through an intrafamily transfer 
+subdivision. 
+ii. 
+The reduced Buffer shall be the minimum necessary to accommodate a 
+dwelling and a sewage reserve area, as determined by the Planning 
+Director, but no less than 100 feet. 
+(C) 
+The Buffer shall be expanded beyond 100 feet as described in 2.6.1 above, and 
+beyond 200 feet as described in 2.6.2 above, to include and extend beyond 
+contiguous sensitive areas, such as soils with slopes 15% or greater, hydric soils, 
+or highly erodible soils. 
+i. 
+The Buffer shall be expanded for slopes of 15% or greater (steep slopes) in 
+accordance with the following. Also see "Buffer Expansion" as defined in 
+Article VII. 
+1. If a steep slope is contained completely within the Buffer, Buffer 
+expansion is required only to provide a Buffer of at least 25 feet from 
+the top of the slope. 
+2. If a steep slope is partially within or contiguous to the Buffer, the Buffer 
+shall be expanded four feet for every 1% of slope beyond the required
+
+<!-- page 245 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     242 
+Buffer, or 25 feet from the top of the slope, whichever is greater in 
+extent, except as provided in Subsection B.5.c below. 
+3. The Planning Commission may approve a Buffer expansion limited to 
+25 feet from the top of the slope, even if greater expansion would be 
+required based on the Subsection B.5.b above, if the Planning 
+Commission determines that the slope has one or more of the 
+following characteristics: 
+a. Steep slopes less than 10 feet in width, such as agricultural ditches; 
+b. Steep slopes that are isolated and less than 10,000 square feet in 
+area, irrespective of property lines; 
+c. Steep slopes with width of less than 25 feet where the slope crosses 
+the 100-foot Buffer boundary; or 
+d. Similar characteristics exist that result in a narrow and/or isolated 
+area of steep slopes. 
+ii. 
+The following criteria shall be used to measure the expanded Buffer for 
+highly erodible soils or hydric soils contiguous to the Buffer: 
+1. For a nontidal wetland of special state concern, expand the Buffer to 
+include the upland boundary of the wetland and its regulated 100-foot 
+Buffer; 
+2. For other nontidal wetlands, expand the Buffer to include the upland 
+boundary of the nontidal wetland; 
+3. For highly erodible soils or hydric soils with a slope of 5% or greater, 
+expand the Buffer to the lesser of the landward edge or 300 feet, 
+including the Buffer width required under Subsection B.2 above. 
+iii. If the Buffer is contiguous to hydric or highly erodible soils on a slope less 
+than 15%, and the Buffer is on a lot created before January 1, 2010, 
+development activity may be approved in the expanded Buffer if: 
+1. The development activity is in the expanded portion of the Buffer, but 
+not in the Buffer required under Subsection B.2 above; 
+2. The Buffer occupies at least 75% of the lot or parcel; and  
+3. Mitigation occurs at a 2:1 ratio, based on the lot coverage of the 
+proposed development activity that is in the expanded Buffer. 
+(D) 
+In Modified Buffer Areas, under certain conditions, Buffer setbacks may vary in 
+accordance with provisions set forth in this Ordinance. 
+3. 
+Maintaining the Buffer 
+(A) 
+The Buffer shall be maintained in natural vegetation and managed to achieve 
+or enhance the functions stated in Subsection 1 above.
+
+<!-- page 246 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     243 
+(B) 
+New development activities, including structures, fences with footers, roads, 
+parking areas and other impervious surfaces, mining and related facilities, or 
+septic systems, are not permitted in the Buffer, except for those necessarily 
+associated with water-dependent facilities or individual private piers. 
+(C) 
+Lot coverage in the Buffer may not exceed the minimum amount necessary for 
+water-dependent facilities, regardless of the Critical Area classification or the 
+size of the parcel or lot, except: 
+i. 
+In Modified Buffer Areas; 
+ii. 
+If a variance is granted in accordance with this Ordinance; or 
+iii.  In accordance with this Ordinance. 
+(D) 
+Cutting, clearing, and removal of existing vegetation, including understory 
+trees, shrubs and ground cover within the Buffer is prohibited except as 
+authorized by a Buffer Management Plan. 
+(E) 
+Existing areas of public access to the shoreline, such as footpaths, scenic drives, 
+and other public recreational facilities, shall be maintained, with new facilities 
+encouraged in the IDA. 
+(F) 
+Vegetation may be removed for one pathway to the shore or piers, subject to 
+the approval of a Buffer Management Plan.  
+i. 
+The pathways shall be: 
+1. Direct and no longer than necessary; 
+2. No wider than six feet; and 
+3.  Constructed to maintain as much canopy as possible.  
+ii. 
+Pathway surfaces shall be: 
+1. Grass or similar low vegetation, stabilized only with pervious wood 
+chips or, 
+2. Materials such as boards, asphalt, or gravel, provided that mitigation is 
+provided, in accordance with a buffer management plan, that covers 
+two times the area of the hard surfaced pathway. 
+iii. In areas of steep slopes, wooden stairways may be constructed as 
+approved by the Planning Director. 
+7. 
+Normal and customary maintenance of lawns located in the Buffer may 
+continue until approval of a development activity requiring a buffer 
+management plan. 
+4. 
+Buffer establishment. 
+(A) 
+The requirements of this regulation are applicable to: 
+i. 
+A development or redevelopment activity that occurs on a lot or 
+parcel that includes a Buffer to tidal waters, a tidal wetland, or a
+
+<!-- page 247 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     244 
+tributary stream if that development or redevelopment activity is 
+located outside the Buffer; and 
+ii. 
+The approval of a subdivision that includes a Buffer to tidal waters, a tidal 
+wetland, or a tributary stream. 
+(B) 
+If an applicant for a subdivision of a lot uses or leases the lot for an agricultural 
+purpose, the applicant: 
+i. 
+Shall submit a Buffer Management Plan under Section G of this Part which 
+must be approved prior to recordation of the subdivision plat. 
+ii. 
+If authorized by the local jurisdiction, may delay implementation of the 
+buffer management plan until the use of the lot is converted to a 
+nonagricultural purpose. 
+(C) 
+The requirements of this regulation are not applicable to an in-kind 
+replacement of a structure. 
+(D) 
+An applicant shall establish the Buffer in vegetation in accordance with the 
+table below and Section E of this Part; and to provide a Buffer Management 
+Plan under Section G of this Part for the following types of applications: 
+i. 
+A subdivision; 
+ii. 
+Conversion from one land use to another land use on a lot or a parcel; or 
+iii. Development on a lot or a parcel created before January 1, 2010. 
+(E) 
+When the Buffer is not fully forested or is not fully established in existing, 
+naturally occurring woody or wetland vegetation, an applicant shall establish 
+the buffer to the extent required in the following table: 
+BUFFER ESTABLISHMENT REQUIREMENTS 
+Development Category  
+Extent of buffer establishment required  
+New development on a vacant lot created prior 
+to April 12, 1988   
+Establish the buffer based on total lot 
+coverage outside the buffer 
+New development on vacant lot created after 
+April 12, 1988   
+Fully establish the buffer 
+New subdivision or new lot  
+Fully establish the buffer  
+New lot with an existing dwelling unit  
+Establish the buffer based on total lot 
+coverage outside the buffer 
+Conversion of a land use on a parcel or lot to 
+another land use  
+Fully establish the buffer  
+Addition or accessory structure  
+Establish the buffer based on net increase 
+in lot coverage outside the buffer 
+Substantial alteration (total footprint is increased 
+by 50% or more)  
+Establish the buffer based on total lot 
+coverage outside the buffer
+
+<!-- page 248 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     245 
+ 
+(F) 
+Any lot coverage removed from the Buffer may be deducted from the total 
+cumulative amount of establishment required if: 
+i. 
+The lot coverage existed before the date of local program adoption or was 
+allowed by local procedures; and 
+ii. 
+The total area is stabilized. 
+5. 
+Mitigation for impacts to the Buffer. 
+An applicant for a development activity that includes disturbance to the Buffer 
+shall mitigate for impacts to the Buffer and shall provide a Buffer Management 
+Plan in accordance with the standards set forth in this Part. 
+(A) 
+All authorized development activities shall be mitigated based on the ratios 
+noted in the table below, in addition to the area of canopy coverage removed 
+for an individual tree, developed woodland or forest: 
+BUFFER MITIGATION RATIOS 
+Activity 
+Mitigation 
+Ratio 
+Septic on a lot created before local program approval if located in existing grass 
+or if clearing is not required 
+Not 
+applicable 
+Septic system in a forest or developed woodland on a lot created before local 
+program approval if clearing is required 
+1:1 
+Shore erosion control 
+1:1 
+Riparian water access 
+2:1 
+Development of a water-dependent facility or activity under COMAR 27.01.03 
+2:1 
+Variance 
+3:1 
+Violation 
+4:1 
+ 
+(B) 
+For the removal of a dead tree, the affected area shall be stabilized with native 
+groundcover or other native vegetation as necessary. 
+(C) 
+The removal of a diseased, dying, invasive, or hazardous tree shall be mitigated 
+with one tree of at least ¾-inch caliper for each tree removed or the affected 
+area shall be stabilized in native woody vegetation if a tree cannot be replanted 
+due to space constraints. 
+(D) 
+Any lot coverage removed from the Buffer may be deducted from the total 
+cumulative amount of mitigation required if: 
+i. 
+The lot coverage existed before the date of local program adoption or was 
+allowed by local procedures; and 
+ii. 
+The total area is stabilized.
+
+<!-- page 249 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     246 
+(E) 
+Planting for mitigation shall be planted onsite within the Buffer. If mitigation 
+planting cannot be located within the Buffer, then plantings may be allowed in 
+the following order of priority: 
+i. 
+On-site and adjacent to the Buffer; and 
+ii. 
+On-site elsewhere in the Critical Area. 
+(F) 
+The installation or cultivation of new lawn or turf in the Buffer is prohibited. 
+(G) 
+As applicable to a site, an applicant shall restore any area in the Buffer that is 
+temporarily disturbed by a development activity to pre-disturbance conditions. 
+6. 
+Buffer planting standards. 
+An applicant that is required to plant the Buffer to meet establishment or mitigation 
+requirements shall apply the following planting credits and standards: 
+(A) 
+If planting to meet a mitigation requirement, the following combination of 
+plantings may be used: 
+i. 
+If required to plant less than 1 acre, the entire requirement must be met 
+using landscape stock as noted in the Planting Credits table below. 
+ii. 
+If required to plant 1 acre or more, at least 50% of the planting 
+requirement may be met in landscape stock per the table below and the 
+remainder may be met in flexible stock per the Planting Credits table. 
+(B) 
+If planting to meet an establishment requirement, the following combination 
+of plantings may be used: 
+i. 
+If required to plant less than ¼ acre, the entire requirement must be met 
+using landscape stock per the Planting Credits table. 
+ii. 
+If required to plant at least ¼ acre and up to 1 acre, at least 25% of the 
+requirement must be met using landscape stock per the Planting Credits 
+table and the remainder may be met in flexible stock per the Planting 
+Credits table. 
+iii. If required to plant more than 1 acre, at least 10% of the requirement must 
+be met using landscape stock per the table below and the remainder may 
+be met in flexible stock per the Planting Credits table. 
+(C) 
+Per COMAR 27.01.09.01-2, a variance to the planting and mitigation standards 
+of this Ordinance is not permitted. 
+ 
+7. 
+Planting credits. 
+(A) 
+If required to plant using landscape stock the following planting sizes and credit 
+shall be used and shall be 100 percent guaranteed for at least 2 years after 
+planting is completed:
+
+<!-- page 250 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     247 
+LANDSCAPE STOCK CREDIT 
+Vegetation Type 
+Minimum Size Eligible for Credit 
+Maximum 
+Credit Allowed 
+(Square Feet) 
+Maximum 
+Percentage of 
+Landscape Stock 
+Credit 
+Canopy Tree 
+2-inch caliper 
+200 
+Not Applicable 
+Canopy Tree 
+¾-inch caliper 
+100 
+Not applicable 
+Understory Tree 
+¾-inch caliper 
+75 
+Not applicable 
+Large Shrub 
+3 feet high 
+50 
+30% 
+Small Shrub 
+18 inches high 
+25 
+20% 
+Herbaceous perennial 1 quart or based on the area 
+covered by plugs or seed mix 
+2 
+10% 
+Planting Cluster A 
+(For less than ½ acre 
+of planting) 
+1 canopy tree; and 3 large 
+shrubs or 6 small shrubs of size 
+listed above 
+300 
+Not applicable 
+Planting Cluster B  
+(For less than ½ acre 
+of planting) 
+2 understory trees; and 
+large shrubs or 6 small 
+shrubs of size listed above 
+350 
+Not applicable 
+ 
+(B) 
+The County may authorize an applicant to increase the percentage of large 
+shrubs, small shrubs, or herbaceous perennials if: 
+i. 
+The Buffer has existing canopy coverage of at least 50 percent; or 
+ii. 
+There are verified site constraints that preclude canopy plantings, 
+including severely eroding slopes, saltwater intrusion, predominately 
+sandy soils, or unconsolidated fill. 
+(C) 
+The following flexible planting stock may be used if authorized under other 
+sections of this Part: 
+ 
+FLEXIBLE PLANTING STOCK 
+Stock Size of Trees Only 
+Required # of 
+Stems/Acre 
+Survivability 
+Requirement 
+Minimum 
+Financial 
+Assurance Period 
+After Planting 
+Bare-root seedlings or whip 
+700 
+50 percent 
+5 years 
+½-inch to 1-inch container 
+grown trees 
+450 
+75 percent 
+2 years 
+More than 1-inch container 
+grown trees 
+350 
+90 percent 
+2 years
+
+<!-- page 251 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     248 
+ 
+8. 
+Required Submittal of Buffer Management Plans. 
+An applicant that is required to plant the Buffer to meet establishment or 
+mitigation requirements shall submit a Buffer Management Plan in accordance 
+with COMAR 27.01.09.01-3. The provisions of this Part do not apply to 
+maintaining an existing grass lawn or an existing garden in the Buffer. 
+(A) 
+Any permit for a development activity that requires Buffer establishment or 
+Buffer mitigation will not be issued until a Buffer Management Plan is approved 
+by the County. 
+(B) 
+An applicant may not obtain final approval of a subdivision application until the 
+Buffer Management Plan has been reviewed and approved by the County. 
+(C) 
+The County may not approve a Buffer Management Plan unless: 
+i. 
+The plan clearly indicates that all planting standards under Section E of this 
+Part will be met; and 
+ii. 
+Appropriate measures are in place for the long-term protection and 
+maintenance of all Buffer areas. 
+(D) 
+For a Buffer Management Plan that is the result of an authorized disturbance 
+to the Buffer, a permit authorizing final use and occupancy will not be issued 
+until the applicant: 
+i. 
+Completes the implementation of a Buffer Management Plan; or 
+ii. 
+Provides financial assurance to cover the costs for: 
+1. Materials and installation; and 
+2. If the mitigation or establishment requirement is at least 5,000 square 
+feet, long-term survivability requirements as set forth in COMAR 
+27.01.09.01-2. 
+(E) 
+Concurrent with recordation of a subdivision plat, an applicant shall record a 
+protective easement for the Buffer. 
+(F) 
+If an applicant fails to implement a Buffer Management Plan, that failure shall 
+constitute a violation of this Ordinance. A permit for any development activity 
+will not be issued for a property that has the violation. 
+(G) 
+An applicant of a subdivision or of a site plan for a multifamily, commercial, 
+industrial, or institutional use shall post permanent signs prior to final 
+recordation in accordance with COMAR 27.01.09.01-2. 
+(H) 
+Buffer management plans that includes natural regeneration shall follow the 
+provisions of COMAR 27.01.09.01-4.
+
+<!-- page 252 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     249 
+9. 
+Fee-in-lieu of Buffer mitigation. 
+A fee in-lieu for mitigation will be collected if the planting requirements of Section 
+D of this Part cannot be fully met onsite, in accordance with the following 
+standards: 
+(A) 
+Fee-in-lieu monies shall be collected and held in a special fund, which may not 
+revert to the County’s general fund; 
+(B) 
+Fee-in-lieu shall be assessed at $1.50 per square foot of required Buffer 
+mitigation; 
+(C) 
+A portion of fee-in-lieu money can be used for management and administrative 
+costs; however, this cannot exceed 20% of the fees collected; and 
+(D) 
+Fee-in-lieu monies shall be used for the following projects: 
+i. 
+To establish the Buffer on sites where planting is not a condition of 
+development or redevelopment; 
+ii. 
+For water quality and habitat enhancement projects as approved by the 
+Critical Area Commission or by agreement between [County] and the 
+Critical Area Commission. 
+2.8 
+MODIFIED BUFFER AREA PROVISIONS 
+1. 
+Applicability 
+(A) 
+Modified Buffer Areas (MBAs) are areas of the 100-foot Buffer that have been 
+mapped by Kent County and approved by the Critical Area Commission. 
+(B) 
+The purpose of MBAs is to accommodate limited use of the Buffer under the 
+provisions of this Section, while protecting water quality and wildlife habitat to 
+the greatest extent possible. 
+2. 
+Mapping Standards 
+The following standards shall apply for the mapping of new Modified Buffer Areas: 
+(A) 
+Only lots of record as of December 1, 1985, are eligible for mapping as Modified 
+Buffer Areas (MBAs). 
+(B) 
+The parcel or lot being considered for MBA status shall contain a Buffer that 
+was significantly impacted by development at the time of program adoption 
+and that prevent the Buffer from fulfilling its functions. 
+(C) 
+Developed parcels or lots shall contain a Buffer intrusion by the principal 
+structures (excluding utilities or septic systems). 
+(D) 
+Undeveloped or vacant parcels or lots (i.e., infill) may be designated as a MBA 
+if development within the Buffer cannot be avoided based on the size of the 
+parcel or lot, area of the parcel or lot within the Buffer, or the surrounding 
+pattern of development.
+
+<!-- page 253 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     250 
+(E) 
+If only part of a parcel or lot meets the criteria for designation as a Modified 
+Buffer Area, then only portions of the parcel or lot shall be designated as a 
+Modified Buffer Area. The portion of the parcel designated as a Modified Buffer 
+Area will be subject to the Modified Buffer Area requirements. Portions of the 
+property that are not designated as a Modified Buffer Area shall comply fully 
+with the 100-foot Buffer restrictions. 
+(F) 
+Any proposal by the County for designation of an area as a MBA shall include, 
+at a minimum, a written evaluation and supporting reasons which demonstrate 
+the degree to which the proposed MBA does not perform each of the following 
+Buffer functions: 
+i. 
+Provide for the removal or reduction of sediments, nutrients, and 
+potentially harmful or toxic substances in runoff entering the Bay and its 
+tributaries; 
+ii. 
+Minimize the adverse effects of human activities on wetlands, shorelines, 
+stream banks, and aquatic resources; 
+iii. Maintain an area of transitional habitat between aquatic and upland 
+communities; 
+iv. Maintain the natural environment of streams; and 
+v. 
+Protect riparian wildlife habitat. 
+3. 
+Development standards in Modified Buffer Areas (MBA) 
+The following development standards apply to all applications for development activity 
+in an MBA: 
+(A) 
+New development or redevelopment activities, including structures, roads, 
+parking areas and other lot coverage or septic systems are not permitted in the 
+Buffer unless the applicant can demonstrate that there is no feasible 
+alternative and the Planning Director finds that efforts have been made to 
+minimize Buffer impacts. 
+(B) 
+Development and redevelopment activities shall be located as far as possible 
+from mean high tide, the landward edge of tidal wetlands, or the edge of 
+tributary streams. 
+(C) 
+Variances to other local setback requirements have been considered before 
+additional intrusion into the Buffer. 
+(D) 
+Convenience or expense are not factors to consider when evaluating the extent 
+of allowable impacts to the Buffer. 
+(E) 
+Development may be located in the Buffer and shall meet the setback lines as 
+described below. Structures on adjacent properties shall not be used to 
+determine the setback line.
+
+<!-- page 254 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     251 
+(F) 
+Development and redevelopment may not impact any Habitat Protection Area 
+(HPA) other than the Buffer, including nontidal wetlands, other State or federal 
+permits notwithstanding. 
+(G) 
+Modified Buffer Area designation shall not be used to facilitate the filling of 
+tidal wetlands that are contiguous to the Buffer or to create additional 
+buildable land for new development or redevelopment. 
+(H) 
+No natural vegetation may be removed in the Buffer except that required by 
+the proposed construction. 
+(I) 
+Mitigation shall be provided as follows: 
+i. 
+Natural forest vegetation of an area twice the extent of the footprint of 
+the development activity within the 100-foot Buffer shall be planted on 
+site in the Buffer or at another location, preferably on-site, approved by 
+the Planning Director. 
+ii. 
+Applicants who cannot fully comply with the planting requirement in (i) 
+above, may use offsets to meet the mitigation requirement. Offsets 
+include the removal of an equivalent area of existing impervious surfaces 
+in the Buffer, the construction of Best Management Practices for 
+stormwater, wetland creation or restoration, or other measures that 
+improve water quality or habitat. 
+iii. Applicants who cannot comply with either the planting or offset 
+requirements in (a) or (b) above shall pay a fee-in-lieu at a rate of $1.50 
+per square foot. 
+iv. Any fees-in-lieu collected under these provisions shall be placed in an 
+account that will assure their use only for projects within the Critical Area 
+to enhance wildlife habitat, improve water quality, or otherwise promote 
+the goals of the County’s Critical Area Program. 
+v. 
+Any required mitigation or offset areas shall be protected from future 
+development through an easement, development agreement, plat notes 
+or other instrument and recorded among the land records of the County. 
+4. 
+In the case of commercial, industrial, institutional, recreational, and multi-family 
+residential development or redevelopment, the following additional standards apply: 
+(A) 
+New development shall not be located closer to the water (or edge of tidal 
+wetlands) than the local setback for the zoning district or 50 feet, whichever is 
+greater. The 50-foot setback shall be maintained for all subsequent 
+development or redevelopment of the property. 
+(B) 
+Redevelopment shall not be located closer to the water (or edge of tidal 
+wetlands) than the local setback for the zoning district or 25 feet, whichever is 
+greater.
+
+<!-- page 255 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     252 
+i. 
+Existing structures located within the setback may remain or a new 
+structure may be constructed on the footprint of an existing structure or 
+lot coverage. 
+ii. 
+Opportunities to establish a 25-foot setback should be maximized. 
+(C) 
+In addition to any required mitigation, a forested or landscaped buffer yard, 25 
+feet wide, shall be established on the project site between the development 
+and the distance to the water. This buffer yard shall be densely planted with 
+trees and shrubs in accordance with the Required Buffer Yard Planting table. 
+(D) 
+In the case of redevelopment, the County may approve appropriate 
+modifications to the width of the planted buffer yard on a case-by-case basis 
+where existing structures or those rebuilt on an existing footprint limit the area 
+available for planting. 
+REQUIRED BUFFER YARD PLANTING 
+Area 
+Quantity and Stocking 
+Suggested Species 
+ 
+For every 100 
+linear feet of 
+buffer yard 
+ 
+5 Trees  
+and 
+10 Understory Trees/Large 
+Shrubs, and 
+30 Small 
+Shrubs and 
+40 Herbaceous Plants, Grasses, 
+etc. 
+ 
+White or Red Oak, Pin Oak, Willow 
+Oak, Red Maple, American Holly, 
+Eastern Red Cedar 
+Dogwood, Mountain Laurel, Bayberry, 
+Shadbush, Winterberry 
+Pepperbush, Chokeberry, Strawberry 
+Bush, Sweetspire 
+Wild Columbine, Butterflyweed, Common 
+Milkweed, Asters 
+ 
+5. 
+In the case of single-family residential development or redevelopment, the following 
+additional standards apply: 
+(A) 
+New development and redevelopment shall not be located closer to the water 
+(or the edge of tidal wetlands) than principal structures on adjacent properties 
+or the local setback for the zoning district, whichever is greater. Except as 
+described below, new development or redevelopment shall be located no less 
+than 50 feet from the water (or the edge of tidal wetlands). 
+(B) 
+Existing principal or accessory structures in the Buffer may be replaced in-kind 
+in the same footprint. If a replacement structure is expanded, the development 
+shall comply with the setback requirement.
+
+<!-- page 256 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     253 
+(C) 
+New accessory structures may be permitted in the Buffer in accordance with 
+the following setback requirements: 
+i. 
+New accessory structures may be located closer to the water or edge of 
+tidal wetlands than the principal dwelling only if it has been determined by 
+the Planning Commission or their designee that there are no other 
+locations for the accessory structures. 
+ii. 
+The area of the accessory structures within the Buffer shall be minimized 
+and the cumulative total area of all new and existing accessory structures 
+on the property shall not exceed 500 square feet within 50 feet of the 
+water and 1,000 square feet total. 
+iii. In no case shall new accessory structures be located less than 25 feet from 
+the water (or edge of tidal wetlands).
+
+<!-- page 257 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     254 
+2.9 
+FOREST INTERIOR BIRDS  
+1. 
+No outdoor construction activities are permitted during safe dates in areas with forest 
+interior dwelling bird species identified by the State of Maryland. Areas are identified 
+online by Maryland’s Environmental Resources and Land Information Network (MERLIN). 
+Safe dates are set forth in the chart and policy below. 
+2. 
+A site survey for forest interior dwelling birds will be conducted prior to any development 
+or agricultural expansion (1) on deciduous forest of at least 50 acres or, (2) 300-feet by 
+300-feet of riparian deciduous forest. The Planning Director may set aside a site survey 
+for forest interior dwelling birds provided the forest is managed for all forest interior 
+dwelling bird species.  
+3. 
+Existing riparian forest of 300-feet by 300-feet or more, and forest areas used by forest 
+interior dwelling birds and other wildlife species will be managed according to the 
+guidelines developed by the Maryland Department of Natural Resources and the Critical 
+Area Commission. Whenever possible, riparian forest will be expanded. 
+4. 
+The safe dates or nesting times for breeding species of forest interior dwelling birds are 
+listed below, when no outdoor construction is allowed.  
+ 
+Note: As a matter of policy, the Department has adopted a range from April 1 through August 31 
+for properties where specific species have not been identified. A study, acceptable to the State 
+of Maryland, may be undertaken by the applicant’s consultant to narrow the safe dates range. 
+ 
+Common Name 
+Safe Dates / Nesting times 
+Creeper, brown 
+May 15  
+to August 31 
+Hawk, broad-winged 
+June 5  
+to August 31 
+Flycatcher, acadian 
+May 25 
+to August 5 
+Hawk, red-shouldered 
+May 1  
+to August 31 
+Ovenbird 
+May 20 
+to August 5 
+Owl, barred 
+January 15  to August 31 
+Parula, northern 
+June 1  
+to August 31 
+Redstart, American 
+June 10  
+to July 20 
+Tanager, scarlet 
+May 25  
+to August 10 
+Veery 
+June 10  
+to August 31 
+Vireo, red-eyed 
+June 1  
+to July 31 
+Vireo, yellow-throated  
+May 25  
+to August 15 
+Warbler, black-and-white 
+May 15  
+to July 25 
+Warbler, black-throated green 
+June 10  
+to  August 5 
+Warbler, cerulean 
+May 25  
+to August 5 
+Warbler, hooded 
+May 25  
+to July 25
+
+<!-- page 258 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     255 
+Common Name 
+Safe Dates / Nesting times 
+Warbler, Kentucky 
+May 25  
+to July 15 
+Warbler, prothonotary 
+May 10  
+to July 20 
+Warbler, Swainson’s 
+April 20  
+to August 31 
+Warbler, worm-eating 
+May 20  
+to July 20 
+Waterthrush, Louisiana  
+May 1 
+to July 10 
+Whip-poor-will 
+May 10  
+to July 15 
+Woodpecker, hairy 
+April1  
+to August 31 
+Woodpecker, pileated 
+April 1  
+to August 31 
+Wood Thrush 
+May 25  
+to August 20 
+ 
+2.10 
+HABITAT PROTECTION AREAS  
+1. 
+All Habitat Protection Areas, buffers, and protective zones will be protected by property 
+owners during development and at all other times. All property owners and applicants for 
+new development are required to identify species and areas as specified below and to 
+protect them. Plans will address protection strategies. 
+2. 
+The Habitat Protection Areas in Kent County include: 
+(A) 
+Colonial water bird nesting sites, and historic waterfowl staging and 
+concentrations areas in tidal water, tributary streams or tidal and non-tidal 
+wetlands; 
+(B) 
+Riparian forest, forested areas of 50 acres or more, and forest corridors 
+connecting them; 
+(C) 
+Anadromous fish spawning areas, threatened and endangered species, and 
+Species in Need of Conservation with their habitat; 
+(D) 
+Non-tidal wetlands and the minimum 100-foot buffer; 
+(E) 
+Other areas which, because of their unique wildlife habitat types and plant 
+communities, are of local significance. These are managed to protect the 
+unique habitat or community. 
+i. 
+Lloyd Creek Habitat for proposed State threatened species; 
+ii. 
+Andover Branch 
+iii. Sandy Bottom - St. Paul's Lake 
+iv. Churn Creek (Still Pond Creek Headwaters) 
+v. 
+Big Marsh 
+vi. Swantown Creek 
+vii. Jacobs Creek
+
+<!-- page 259 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     256 
+viii. Upper Sassafras 
+ix. Sassafras Lake 
+x. 
+Mill Creek (wooded swamp, 1118-555 on the Maryland Coordinated Grid 
+System) 
+xi. Still Pond Creek (inland open fresh water, 1050-540 on the MCGS) 
+xii. East Langford Mill Pond (Shrub swamp, 1050-495 on the MCGS) 
+xiii. Langford Creek East Fork Head (inland shallow fresh marsh, 1055-499 on 
+the MCGS) 
+xiv. N/W Fork Morgan Creek (inland shallow fresh marsh, 1077-536 on the 
+MCGS) 
+xv. Tavern Creek 
+(F) 
+Any other Natural heritage areas, as may be designated by the State of 
+Maryland, and locations considered for Areas of Critical State Concern. 
+3. 
+All roads, bridges and utilities that must cross a Habitat Protection Area will be located, 
+designed, constructed, and maintained so as to provide maximum erosion protection and 
+minimize negative impacts to wildlife, aquatic life and their habitats and maintain 
+hydrologic processes and water quality. Roads, bridges, or utilities will not be located in 
+any Habitat Protection Area unless no feasible alternative exists.  
+4. 
+Natural heritage areas and locations considered for Areas of Critical State Concern will be 
+preserved whenever possible in accordance with the recommendations of the 
+Department of Natural Resources.  
+5. 
+During and after development in forested areas, corridors of existing forest, or woodland 
+vegetation will be maintained to provide effective connections between wildlife habitat 
+areas.  
+2.11 
+THREATENED AND ENDANGERED SPECIES AND SPECIES IN NEED OF 
+CONSERVATION 
+1. 
+Any development shall include a statement on the type and location of any threatened or 
+endangered species or species in need of conservation on the property, and any 
+recommendation for maintaining and protecting that habitat from the Department of 
+Natural Resources.  
+2. 
+Threatened or endangered species and species in need of conservation shall be checked 
+and noted by the developer before any approvals can be granted by the Planning Director 
+or the Planning Commission.  
+3. 
+The Federal or State guidelines (whichever is stricter) for habitat protection shall be 
+followed during development. Plans shall include provisions for the continuance of the 
+habitat protection after development. This can include conservation easements,
+
+<!-- page 260 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     257 
+cooperative agreements, special provisions in forest management and soil conservation 
+plans, and donation to a third party.  
+2.12 
+SHORELINE AND CLIFF AREAS  
+1. 
+SPECIAL PURPOSE: The shoreline cliff setback is designed to allow development in a 
+manner that will protect the property and the lives of residents and protect the scenic 
+integrity of the shoreline.  
+2. 
+NEW SUBDIVISIONS AND EXISTING LOTS OF THREE ACRES OR GREATER 
+(A) 
+All structures will be a sufficient distance from the cliff to ensure protection of 
+structures and to allow for natural erosion and/or cliff failure with enough 
+setback to be able to employ the use of conventional erosion control measures. 
+(B) 
+The minimum setback for a shoreline cliff is as follows:  
+i. 
+For each foot of rise above the mean high-water line (MHW), a one and 
+one-half foot setback from the toe of the cliff measured landward plus 20 
+feet to the house site is required.   
+ii. 
+The elevation measured will be the highest point on the lot fronting the 
+water or measured in a direct line from the house placement to the cliff 
+and water for large lots (one acre or more) with extensive water frontage. 
+(C) 
+When these conditions conflict with other waterfront yard requirements of this 
+Ordinance, the stricter will apply. 
+ 
+ 
+ 
+2.13 
+SHORE EROSION PROTECTION WORKS 
+The purpose of this Section is to encourage the protection of rapidly eroding portions of the 
+shoreline in the County by public and private landowners.  When such measures can effectively 
+and practically reduce or prevent shoreline erosion, the use of nonstructural shore protection
+
+<!-- page 261 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     258 
+measures will be encouraged to conserve and protect plant, fish and wildlife habitat. The 
+following criteria will be followed when selecting shore erosion protection practices: 
+1. 
+Nonstructural practices will be used whenever possible. 
+2. 
+Structural measures will be used only in areas where nonstructural practices are 
+impractical or ineffective. 
+3. 
+Where structural measures are required, the measure that best provides for the 
+conservation of fish and plant habitat and which is practical and effective will be used. 
+4. 
+If significant alteration of the characteristics of a shoreline occurs, the measure that best 
+fits the change may be used for sites in that area. 
+ 
+2.14 
+WATER DEPENDENT FACILITIES  
+The following regulations will apply to boathouses, boat docks, piers, marinas, and wharves. 
+Review by the Department of new water dependent facilities and changes to any existing facilities 
+is required, using the standards at the end of this Section under REQUIRED REVIEW. 
+1. 
+GENERAL REQUIREMENTS 
+(A) 
+Projections of docks, wharves, and piers into waterways beyond the waterway 
+line, lot lines, or established bulkhead lines will be limited by applicable County 
+ordinances, State laws, and applicable regulations of the United States Army 
+Corps of Engineers. 
+(B) 
+Groins, levees, bulkheads, pilings, breakwaters, and other similar structures will 
+be erected and maintained in accordance with applicable location and 
+construction standards of the County, State, and the United States Army Corps 
+of Engineers. 
+(C) 
+New water-dependent facilities will be located so as to prevent disturbance to 
+sites of significance to wildlife such as historic aquatic staging and 
+concentration areas for waterfowl, shellfish beds, finfish nursery areas, and 
+submerged aquatic vegetation beds. 
+2. 
+PRIVATE BOATHOUSES 
+(A) 
+Boathouses that extend channel ward of mean high tide (boathouses over 
+water) are prohibited. Boathouses will not be permitted in areas where such 
+would obstruct the view of those using the waterway so as to endanger 
+navigation. 
+(B) 
+A boathouse may not be used as a dwelling, guest house, or servants’ quarters. 
+(C) 
+No boathouse may be closer to the side property line than the required side 
+yard width of the zoning district in which it is located.
+
+<!-- page 262 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     259 
+(D) 
+No private boathouse will occur within 100 feet of any private pier or other 
+boathouse on the same side of a body of water, except in the case where this 
+would deny a property owner the right to a boathouse. 
+(E) 
+It will not be permitted for the owner or owners of a boathouse to receive 
+compensation for use of their private boathouse. 
+3. 
+PRIVATE DOCKS, PIERS, and WHARVES 
+(A) 
+It will not be permitted for the owner or owners of a private pier to receive 
+compensation for use of their private pier. 
+(B) 
+No private pier will occur within 100 feet of any other private pier or boathouse 
+on the same side of a body of water, except in the case where this would deny 
+a property owner the right to a single pier. 
+(C) 
+A pier may not be closer to the side property line than the required side yard 
+width of the district in which it is located.  A pier will not be closer to the side 
+line or its extension over water than the required side yard width of the zoning 
+district in which it is located. 
+(D) 
+Dwellings and other non-water dependent facilities are prohibited on piers. 
+(E) 
+It will be permissible for adjacent property owners to construct a single shared 
+pier.  The right of ownership and access to such pier will be set forth in a 
+property document that runs to the benefit of the owners of the pier, their 
+heirs and assigns and will be executed by the owners and recorded with the 
+Kent County Clerk of Court and a copy filed with the Department prior to such 
+construction. 
+(F) 
+If a shared pier or a community pier is allowed, then no other piers will be 
+permitted on the property of such owners.  In the event such piers are removed 
+or destroyed beyond use and not rebuilt or re-established within one year, then 
+the agreement for such piers will become void.  However, the one-year 
+requirement can be extended if extenuating circumstances can be 
+demonstrated to the County by the property owner. 
+(G) 
+A community pier, for the use of three or more property owners, will be 
+permissible provided the site plan demonstrates that such pier does not 
+adversely affect neighboring property owners or the public interest.  The site 
+plan will show all properties in the neighborhood, including the owners of the 
+community pier and their access to such pier.  The ownership and access will 
+further be set forth in a proper document that runs to the benefit of owners of 
+the pier, their heirs and assigns, and will be executed by all owners and 
+recorded with the Kent County Clerk of Court and a copy filed with the 
+Department. Sanitary facilities approved by the Kent County Health 
+Department will be provided except where other acceptable facilities are 
+available.
+
+<!-- page 263 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     260 
+(H) 
+The following will apply to community piers, shared slips, and other related 
+non-commercial boat docking and storage facilities: 
+i. 
+New or expanded community piers, shared slips, marinas and other non-
+commercial boat-docking and storage facilities may be permitted in the 
+minimum 100-foot buffer subject to the requirements of this Section; and 
+ii. 
+Provided that: 
+1. These facilities may not offer food, fuel, or other goods and services 
+for sale and will provide adequate and clean sanitary facilities; 
+2. The facilities are community-owned and established and operated for 
+the benefit of the residents of a platted and recorded riparian 
+subdivision;  
+3. The facilities are associated with a residential development approved 
+by Kent County for the Critical Area and consistent with all criteria and 
+County regulations for the Critical Area; 
+4. Disturbance to the buffer is the minimum necessary to provide a single 
+point of access to the facilities;  
+5. If community piers, slips, or moorings are provided as part of the new 
+development, private piers in the development are not allowed; and 
+6. Sanitary Facilities and pump-outs will be provided on-site, except 
+where other acceptable facilities are available. 
+iii. Provided that adverse effects on water quality, fish, plant, and wildlife 
+habitat are minimized; and 
+iv. The number of slips, piers, or mooring buoys permitted at the facility will 
+be the lesser of the options below: 
+1. One slip for each 50 feet of shoreline in a subdivision in the Intensely 
+Developed Areas (IDA) or Limited Development Areas (LDA). 
+2. One slip for 300 feet of shoreline in a subdivision in Resource 
+Conservation Areas (RCA). 
+3. A density of slips, shared slips, or piers, to platted lots or dwellings in a 
+subdivision in the Critical Area according to the following schedule: 
+ 
+Platted Lots or Dwellings in the Critical Area 
+Slips 
+5 to 15 
+One for each lot 
+16-40 
+15 or 75% whichever is greater 
+Over 40 
+30 or 50% whichever is less
+
+<!-- page 264 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     261 
+4. 
+PUBLIC BEACHES 
+(A) 
+Public beaches or other public water-oriented recreation areas including, but 
+not limited to publicly owned boat launching and docking facilities and fishing 
+piers may be permitted in the buffer provided: 
+i. 
+Adequate sanitary facilities exist; 
+ii. 
+Service facilities are to the extent possible, located outside the buffer; 
+iii. Permeable surfaces are used to the extent practicable, if no degradation 
+of groundwater would result. 
+iv. Disturbance to natural vegetation is minimized; and 
+v. 
+Areas for passive recreation, such as nature study, hunting and trapping, 
+may be permitted in the buffer within Resource Conservation Areas (RCA), 
+if service facilities for these uses are located outside of the buffer. 
+(B) 
+Water-dependent research facilities or activities operated by State, federal, or 
+local agencies, or water-dependent educational institutions, may be permitted 
+in the buffer. 
+(C) 
+Commercial water-dependent fisheries facilities including, but not limited to, 
+structures for crab shedding, fish off-loading docks, shellfish culture operations, 
+and shore-based facilities necessary for aquaculture operations and fisheries 
+activities, may be permitted in the buffer. 
+5. 
+COMMERCIAL MARINAS 
+In this Land Use Ordinance, marinas are facilities operated as businesses and regulated as such. 
+(A) 
+New and existing marinas will meet the sanitary requirements of the Maryland 
+Department of the Environment. 
+(B) 
+New marinas will establish a means of minimizing the discharge of bottom 
+wash waters into tidal waters.  
+(C) 
+All new development and redevelopment will reduce pollutant loadings coming 
+off the site by at least 10%. Pollutant loads will be calculated in the manner 
+developed by the Metropolitan Washington Council of Governments using 
+phosphorous as the keystone pollutant. All sites will comply with the 
+stormwater management qualitative control measures found in Section 9 of 
+this Article VI.  
+(D) 
+New and expanding marinas will provide pump-outs for boat holding tanks. 
+Adequate signs will be posted to make boaters aware of the service available.  
+(E) 
+New marinas and expanding marinas will provide facilities for recycling or 
+proper disposal of oil, anti-freeze, paint thinner, and other toxic or hazardous 
+substances associated with the type of facility being developed.
+
+<!-- page 265 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     262 
+(F) 
+Activities will not significantly alter existing water circulation patterns or 
+salinity regimes.  
+(G) 
+The water body upon which these activities are proposed will have adequate 
+flushing characteristics in the area.  
+(H) 
+Disturbances to wetlands, submerged aquatic plant beds, or other areas of 
+important aquatic habitats will be minimized and mitigated.  
+(I) 
+Shellfish beds will not be disturbed or be made subject to discharge that will 
+render them unsuitable for harvesting.  
+(J) 
+Dredging will be conducted in a manner, and using a method which causes the 
+least disturbance to water quality and aquatic and terrestrial habitats in the 
+area immediately surrounding the dredging operation or within the Critical 
+Area, generally.  
+(K) 
+Dredged spoil will not be placed within the buffer or elsewhere in that portion 
+of the Critical Area which has been designated as a Habitat Protection Area 
+except as is necessary for:  
+i. 
+Backfill for permitted shore erosion protection measures;  
+ii. 
+Use in approved vegetated shore erosion projects;  
+iii. Placement on previously approved channel maintenance spoil disposal 
+areas; and  
+iv. Beach nourishment.  
+(L) 
+Interference with the natural transport of sand will be minimized.  
+ 
+6. 
+REQUIRED REVIEW 
+(A) 
+The Department will review all applications for water-dependent facilities in 
+order to determine that: 
+i. 
+The activities will not significantly alter existing water circulation patterns 
+or salinity regimes; 
+ii. 
+The water body upon which these activities are proposed will have 
+adequate flushing characteristics in the area; 
+iii. Disturbances to wetlands, submerged aquatic plant beds, or other areas of 
+important aquatic habitats will be minimized and mitigated; 
+iv. Adverse impacts to water quality that may occur as a result of these 
+activities, such as non-point source runoff, sewerage discharge from land 
+activities or vessels, or from boat cleaning and maintenance operations 
+will be minimized;
+
+<!-- page 266 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     263 
+v. 
+Shellfish beds will not be disturbed or be made subject to discharge that 
+will render them unsuitable for harvesting; 
+vi. Dredging will be conducted in a manner, and using a method, which causes 
+the least disturbance to water quality and aquatic and terrestrial habitats 
+in the area immediately surrounding the dredging operation or within the 
+Critical Area generally; 
+vii. Dredged spoil will not be placed within the buffer or elsewhere in that 
+portion of the Critical Area which has been designated as a Habitat 
+Protection Area unless the Board of Appeals grants a special exception and 
+only as is necessary for: 
+1. Backfill for permitted shore erosion protection measures; 
+2. Use in approved vegetated shore erosion projects; 
+3. Placement on previously approved channel maintenance spoil disposal 
+areas; and 
+4. Beach nourishment. 
+viii. Interference with the natural transport of sand will be minimized; 
+ix. Information necessary for evaluating dredge spoil applications if not 
+available locally, will be obtained from appropriate State and federal 
+agencies. 
+(B) 
+The Department may also require signed and sealed drawings from a 
+professional land surveyor or an engineer certifying that the requirements 
+above have been satisfied. The Department may also engage third-party 
+professionals to review the drawings to ensure compliance with the regulations 
+in this Section, the Land Use Ordinance in general, and any applicable federal, 
+State, or other laws, rules, and regulations. The costs for any third-party 
+professionals will be paid by the applicant or property owner of record. 
+ 
+2.15 
+LOT CONSOLIDATION AND RECONFIGURATION 
+1. 
+Applicability. 
+The provisions of this part apply to a consolidation or a reconfiguration of any 
+nonconforming legal grandfathered parcel or lot. These provisions do not apply to the 
+reconfiguration or consolidation of parcels or lots which are conforming or meet all 
+Critical Area requirements. Nonconforming parcels or lots include: 
+(A) 
+Those for which a Critical Area variance is sought or has been issued; and 
+(B) 
+Those located in the Resource Conservation Area and are less than 20 acres in 
+size.
+
+<!-- page 267 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     264 
+2. 
+Procedure. 
+(A) 
+An applicant seeking a parcel or lot consolidation, or reconfiguration shall 
+provide the required information in Section 3 below to the County. 
+(B) 
+The County may not approve a proposed parcel or lot consolidation or 
+reconfiguration without making written findings in accordance with Section 4 
+below and COMAR 27.01.02.08.F. 
+(C) 
+The County shall issue a final written decision or order granting or denying an 
+application for a consolidation or reconfiguration. 
+(D) 
+After a final written decision or order is issued, the County shall send a copy of 
+the decision or order and a copy of any approved development plan to the 
+Commission within 10 business days. 
+(E) 
+The County may not issue a building permit until the appeal time has expired. 
+3. 
+Application. 
+An application for the consolidation or reconfiguration of any nonconforming legal parcel 
+of land or recorded legally buildable lot shall contain at least the following information: 
+(A) 
+The date of recordation of each legal parcel of land or legally buildable lot to 
+be consolidated or reconfigured; 
+(B) 
+A plan drawn to scale that shows all existing and proposed lot or parcel 
+boundaries; 
+(C) 
+Information sufficient for the County to make the findings set forth in Section 
+4 below, and 
+(D) 
+A table that lists the number of all legal parcels of land or recorded, legally 
+buildable lots and the number of proposed lots or parcels or dwelling units to 
+be derived. 
+4. 
+Standards. 
+The Planning Director, or designee, shall review a proposed lot consolidation or 
+reconfiguration and will make written findings that each one of the following standards 
+has been met: 
+(A) 
+The proposed consolidation or reconfiguration will result in no greater number 
+of lots, parcels, or dwelling units in the Critical Area than the existing 
+configuration would allow; 
+(B) 
+In the Limited Development Area or Resource Conservation Area, the proposed 
+lot consolidation or reconfiguration: 
+i. 
+Will result in no greater lot coverage than the existing configuration would 
+allow; and
+
+<!-- page 268 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     265 
+ii. 
+Will result in no greater impact to a steep slope than the existing 
+configuration would allow, if that steep slope is located outside the buffer 
+or expanded buffer. 
+(C) 
+The proposed consolidation or reconfiguration does not: 
+i. 
+Create an additional riparian lot or parcel, waterfront lot, or any other lot 
+or parcel deeded with water access; or 
+ii. 
+Intensify or increase impacts associated with riparian access; 
+(D) 
+The proposed consolidation or reconfiguration does not create: 
+i. 
+A lot or parcel or portion of a lot or parcel that will serve development 
+activities outside the Critical Area; or 
+ii. 
+A Resource Conservation Area lot or parcel that serves development 
+activities in the Intensely Developed Area or Limited Development Area; 
+(E) 
+The proposed consolidation or reconfiguration identifies each Habitat 
+Protection Area and if impacts to a Habitat Protection Area are proposed, the 
+proposal demonstrates that: 
+i. 
+No greater impact to a Habitat Protection Area would result than the 
+impact that would have resulted from the existing lot configuration; 
+ii. 
+Adverse impacts to a Habitat Protection Area are minimized; and 
+iii. Protective measures and restoration measures are included that provide 
+for the least possible impact; 
+(F) 
+The proposed consolidation or reconfiguration provides: 
+i. 
+Stormwater management for all proposed development activities; and 
+ii. 
+Benefits to fish, wildlife, and plant habitat that are clearly identified. 
+(G) 
+The proposed consolidation or reconfiguration fully complies with the 
+afforestation and reforestation requirements in COMAR 27.01.05 and 
+27.01.09, unless clearing is necessary to avoid a habitat protection area. 
+ 
+2.16 
+RENEWABLE ENERGY GENERATING SYSTEMS 
+1. 
+Applicability. 
+(A) 
+The requirements of this Part are applicable to major, minor, and small 
+renewable energy generating systems located in the Critical Area. 
+(B) 
+In accordance with COMAR 27.01.14.02, these provisions may not be construed 
+to limit the authority of the Public Service Commission under Public Utilities 
+Article §7-207, Annotated Code of Maryland. 
+2. 
+Application requirements.
+
+<!-- page 269 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     266 
+(A) 
+An applicant for a major solar energy generating system in a Resource 
+Conservation Area, shall provide [County] a site plan that addresses the 
+requirements of COMAR 27.02.07 and includes the following: 
+i. 
+Calculations of any required reservation of resource conservation area 
+density development rights; and 
+ii. 
+The identification and location of property restrictions including the 
+boundary and area of a conservation easement, restrictive covenant, or 
+other protective instrument. 
+(B) 
+The [County] may require a site plan for a minor solar energy generating 
+system. 
+3. 
+General provisions. 
+(A) 
+On or after April 1, 2021, the [County] may authorize: 
+i. 
+A major or minor solar energy generating system within the Critical Area 
+in accordance with Part 25.C; 
+ii. 
+A major solar energy generating system in the resource conservation area 
+without growth allocation in accordance with Part 25.D; and 
+iii. A small residential accessory solar energy generating system in the Buffer 
+or in a Modified Buffer Area if: 
+1. There is not an alternative location outside the Buffer; 
+2. The lot is 1/4 acre or less in size and created before local program 
+approval; and 
+3. Mitigation is required at a 1:1 ratio. 
+(B) 
+A major and minor solar energy generating system may be authorized in a 
+modified buffer area provided the project is located over existing legally 
+developed lot coverage. 
+(C) 
+In addition to meeting the requirements of this Part, [County] may not 
+authorize a growth allocation to accommodate a major or a minor solar energy 
+generating system in the limited development area or the resource 
+conservation area. 
+(D) 
+Except for a regulated activity that is authorized by the Maryland Department 
+of the Environment in accordance with COMAR 26.23.02, [County] may not 
+authorize a major or minor solar energy generating system: 
+i. 
+In a habitat protection area designated under COMAR 27.01.09; or 
+ii. 
+On a steep slope or a highly erodible soil. 
+(E) 
+In accordance with COMAR 27.01.14, a variance, modification, waiver, or other 
+approval that alters the requirements of this Part may not be granted.
+
+<!-- page 270 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     267 
+4. 
+Criteria for a solar energy generating system. 
+Except for a small residential accessory solar energy generating system, the provisions of 
+this section are applicable to a major and minor solar energy generating system in an 
+intensely developed area, a limited development area, and a resource conservation area: 
+(A) 
+The area of a solar panel shall not count as lot coverage and: 
+i. 
+For a minor solar energy generating system, the solar panel shall be: 
+1. Located over existing, legally developed lot coverage as described in 
+Natural Resources Article, §8-1808.3, Annotated Code of Maryland; or 
+2. Elevated above the ground and the area under the solar panel is 
+maintained as an area of existing grass, established grass, or other 
+natural vegetation, or as an agricultural use; and 
+ii. 
+For a major solar energy generating system, the solar panel shall be: 
+1. Located over existing, legally developed lot coverage; or 
+2. Elevated above the ground and the area under the solar panel is 
+maintained in accordance with the planting plan requirements of Part 
+25.E as: 
+a. Pollinator habitat; 
+b. Native vegetation other than pollinator habitat; or 
+c. An agricultural use. 
+(B) 
+The Buffer shall be measured and delineated in accordance with COMAR 
+27.01.09.01.E(3)-(7) and Part 9.A of this Ordinance and: 
+i. 
+Unless there is no feasible alternative, access through the Buffer to the 
+project area is prohibited; 
+ii. 
+When there is no feasible alternative to access through the buffer, ne point 
+of access through the buffer to the project area, may be authorized. Where 
+a project includes noncontiguous parcels, the number of access points 
+through the buffer shall be minimized; 
+iii. Mitigation for disturbance to the Buffer is required at a 2.5:1 ratio; and 
+iv. A buffer management plan shall be provided in accordance with COMAR 
+27.01.09.01-3. 
+(C) 
+Except when a project area is in an IDA, clearing of forest and developed 
+woodlands shall be minimized and not exceed the following: 
+i. 
+In a LDA, clearing of forest and developed woodlands is limited to 20 
+percent of the entirety of the forest and developed woodlands on the 
+parcel or parcels on which the project area is located; and
+
+<!-- page 271 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     268 
+ii. 
+In a RCA, clearing of forest is limited to 10 acres or 20 percent of the 
+entirety of the forest and developed woodlands on the parcel or parcels 
+on which the project area is located, whichever is less. 
+(D) 
+In an IDA, LDA, and RCA, mitigation for cleared forest and developed 
+woodlands shall be provided on at least an equal area basis. 
+(E) 
+For a major solar energy generating system, on-site or off-site planting in shall 
+be in accordance with the following: 
+i. 
+15 percent of the total project area in a limited development area; and 
+ii. 
+20 percent of the total project area in a resource conservation area. 
+(F) 
+A planting plan shall be provided in accordance with Section E below. 
+(G) 
+Stormwater management shall be provided in accordance with Environment 
+Article, §§4-201—4-215, Annotated Code of Maryland, and COMAR 26.17.02. 
+(H) 
+A decommissioning plan shall be required if one is not otherwise required as a 
+result of obtaining a Certificate of Public Convenience and Necessity from the 
+Public Service Commission. 
+5. 
+Criteria for a major solar energy generating system in the resource conservation area. 
+These provisions apply to a major solar energy generating system in the RCA in addition 
+to the requirements under Part 25.C above: 
+(A) 
+Except for access allowed in accordance with Part C(3) and in accordance with 
+the provisions in COMAR 27.01.06, forest clearing shall be restricted within 300 
+feet beyond the landward boundary of tidal waters or tidal wetlands, or the 
+edge of each bank of a tributary stream. 
+(B) 
+In addition to any applicable local land recordation requirements, a 
+Reservation of Resource Conservation Area Density Rights Agreement shall be 
+recorded in the County land records that reserves RCA density rights associated 
+with the project as follows: 
+i. 
+The number of density rights reserved is equal to: 
+1. The permitted RCA density associated with the project area of each 
+parcel as calculated under Natural Resources Article, §8- 1808.1(e), 
+Annotated Code of Maryland, and COMAR 27.01.02.05C(4); and 
+2. The number of density rights that are attributable to the project area, 
+with a minimum of one density right reserved. 
+(C) 
+The Reservation of Resource Conservation Area Density Rights Agreement shall 
+remain in effect until: 
+i. 
+The decommissioning plan, as required in Section C, has been 
+implemented and completed; and
+
+<!-- page 272 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     269 
+ii. 
+The termination of the Reservation of Resource Conservation Area Density 
+Rights Agreement is reflected in the land records. 
+(D) 
+The remaining land unencumbered by the solar energy generating system or 
+lands not otherwise restricted by the Reservation of Resource Conservation 
+Area Density Rights Agreement may be developed in accordance with Natural 
+Resources Article, §8-1808.1, Annotated Code of Maryland, and COMAR 
+27.01.02.05C(4). 
+(E) 
+A lot, a parcel, or a portion of a lot or parcel is not eligible for a major solar 
+energy generating system if the density rights associated with that lot, parcel, 
+or portion of a lot or parcel have been: 
+i. 
+Utilized for an intrafamily transfer; 
+ii. 
+Transferred through a transfer of development rights program; 
+iii. Preserved or conserved through an easement; or 
+iv. Otherwise reserved in association with an area of land to be utilized for 
+the solar energy generating system. 
+6. 
+Planting plan requirements. 
+(A) 
+[County] shall require a planting plan for: 
+i. 
+The area to be vegetated under the solar panels; or 
+ii. 
+Replanting required in Section C (4) and (5). 
+(B) 
+The County may consider the constraints and opportunities presented by a 
+project area and authorize planting or other mitigation to address the 
+requirements of Sections C(4) and (5) from any of the following options: 
+i. 
+Planting on-site in one of the following planting areas: 
+1. The area within 300 feet beyond the landward boundary of tidal waters 
+or tidal wetlands, or the edge of each bank of a tributary stream; 
+2. Contiguous to or within a designated forest interior dwelling bird 
+habitat; or 
+3. A wildlife corridor; or 
+ii. 
+Based on a signed agreement with the Critical Area Commission: 
+1. Planting off-site in accordance with the options specified in 1(a) above; 
+2. Create a wetland migration area, nonstructural shoreline erosion 
+control project, or other nature-based practice that naturally adjusts 
+to changing environmental conditions through the lifespan of the 
+practice and is designed to address future sea level rise, precipitation-
+induced flooding, or other climate change impacts;
+
+<!-- page 273 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     270 
+3. Create, restore, or enhance a nontidal wetland that results in habitat 
+and water quality benefits provided it is authorized by the Maryland 
+Department of the Environment; or 
+4. Other alternative mitigation options that include provisions for 
+Commission review; or 
+iii. Collect a fee in lieu in accordance with Section F below. 
+(C) 
+Any general landscape screening requirements for an energy generating 
+system shall not be included as part of the mitigation planting required in 
+Section C. 
+(D) 
+Long-term maintenance of the plantings through financial assurance measures 
+shall be provided. 
+(E) 
+All planting shall be in accordance with this ordinance’s reforestation and 
+planting plan requirements, including protecting all planted areas through 
+conservation easements, restrictive covenants, or other protective 
+instruments. 
+7. 
+Fee-in-lieu. 
+The County may elect to collect a fee-in-lieu based on the following standards: 
+(A) 
+The fee shall be set at a $1.50 42per square foot of mitigation as required in 
+Part E; 
+(B) 
+The fee shall cover the cost associated with administration, acquisition, 
+planting, monitoring, and maintenance for the required mitigation or required 
+planting requirements of Section C (4) and (5). 
+(C) 
+The fee shall be held in separate account independent of other Critical Area 
+funds, which may not revert to a the general fund; 
+(D) 
+The fee shall not be used to meet other landscaping requirements; and 
+(E) 
+[County] shall use the fees to accomplish: 
+i. 
+Off-site plantings in accordance with the options provided in Section E (2) 
+(a); or 
+ii. 
+Other water quality and habitat enhancement projects provided in Section 
+E (2) (b), and as described in a local Critical Area program approved by the 
+Commission or in an agreement between the local jurisdiction and the 
+Commission. 
+2.17 
+GRANDFATHERING IN THE CRITICAL AREA 
+1. 
+Except as otherwise provided, the types of land described in the following subsection may 
+be developed in accordance with the density requirements in effect prior to the adoption 
+of the Kent County Critical Area Program.
+
+<!-- page 274 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 2. CRITICAL AREA PROGRAM 
+Land Use Ordinance for Kent County, Maryland     271 
+2. 
+A single lot or parcel of land that was legally of record on the date of the program approval 
+will be permitted to be developed with a single-family dwelling, if a dwelling is not already 
+placed there, notwithstanding that such development may be inconsistent with the 
+density provisions of the approved programs: 
+(A) 
+Any land on which development activity has progressed to the point of the 
+pouring of foundation/ footings or the installation of structural members; 
+(B) 
+Any legal parcel of land, not being part of a recorded or approved subdivision, 
+that was recorded as of December 1, 1985, and land that was subdivided into 
+recorded, legally buildable lots, where the subdivision received the County’s 
+final approval prior to December 1, 1985. 
+(C) 
+Land that was subdivided into recorded, legally buildable lots, where the 
+subdivision received the County’s final approval after December 1, 1985, 
+provided that either development of such land conforms to the Critical Area 
+criteria in this Ordinance and the other necessary regulations, or the    area of 
+the land is counted by the County against the growth increment permitted 
+under COMAR 27.01.02.06. 
+(D) 
+Nothing in this section will be interpreted as altering any requirements for 
+development activities as set forth in Articles II and V of this Ordinance for 
+habitat protection areas and water-dependent facilities. 
+(E) 
+Kent County encourages the consolidation or reconfiguration of these lots to 
+bring these lands into conformance with the critical area program. 
+2.18 
+GROWTH ALLOCATION 
+Applications for Growth Allocation will be consistent with the County’s Growth Allocation policy 
+and the provisions found in COMAR. 
+2.19 
+LOCAL DEVELOPMENT PROJECTS 
+Applications for Local Development Projects will be consistent with provisions found in COMAR. 
+2.20 
+CRITICAL AREA COMMISSION REVIEW AND COMMENT REQUIRED 
+1. 
+As required by the State of Maryland, Kent County will send copies of applications for all 
+developments, subdivisions, and site plans, wholly or partially within the Critical Area, as 
+specified in COMAR 27.03.01.04 to the Critical Area Commission for review and comment. 
+This includes all projects located in the RCD, CAR, CCA, M, and ECCA-LDA zoning districts. 
+2. 
+Until Kent County has received notice of receipt from the Critical Area Commission or the 
+appropriate waiting period per the State of Maryland has expired, the County may not 
+process an application that has been sent to the Critical Area Commission for notification.  
+3. 
+Per the State of Maryland, any action by Kent County in violation of these State-required 
+procedures shall be void.
+
+<!-- page 275 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 3. FOREST CONSERVATION ACT 
+Land Use Ordinance for Kent County, Maryland     272 
+SECTION 3 
+ 
+FOREST CONSERVATION ACT  
+3.1 
+STATEMENT OF INTENT 
+The purpose of this Section is to conserve the forests of Kent County.  Forests and individual trees 
+greatly contribute to the quality of life in Kent County, the health of the natural ecosystem, and 
+the health and welfare of the citizens of Kent County.  The County’s economic health depends 
+heavily on its natural resources of which forests are a major component.  It is not the intent of 
+the law to place unreasonable restrictions on development.  Rather it aims to maximize the 
+benefits of forest in a cooperative effort with development, thereby limiting the loss of forested 
+land in Kent County and improving the environment of both developed and undeveloped areas. 
+In this Section, the County adopted standards that are more stringent than the State of Maryland. 
+3.2 
+APPLICABILITY 
+This Section applies in AZD, RC, CR, V, IV, C, and EC, to minor and major site plans, subdivisions, 
+public utilities not otherwise exempt, and all grading permits for any disturbed area over 40,000 
+square feet excluding land in the Critical Area (§§8-1801–1817, Annotated Code of Maryland).   
+3.3 
+EXEMEPTIONS 
+This Section also does not apply to the following: 
+1. 
+Highway construction activities under Natural Resources Article, Section 5-103, 
+Annotated Code of Maryland. 
+2. 
+Commercial logging and timber harvesting operations, including harvesting conducted 
+subject to the Forest Conservation and Management Program under Tax Property Article, 
+Section 8-211, Annotated Code of Maryland, that are completed after July 1, 1991 on 
+property which: 
+(A) 
+Has not been the subject of application for a grading permit for development 
+within five years after the logging or harvesting operation; and 
+(B) 
+Is the subject of a Declaration of Intent as provided for in Section 8.3 of this 
+Ordinance. 
+3. 
+Agricultural activities, not resulting in a change in land use category, including agricultural 
+support buildings and other related activities constructed using best management 
+practices provided that no more than 40,000 square feet of forest is cleared within a one-
+year period.  A person clearing 40,000 square feet or greater of forest within a one-year 
+period may not receive an exemption unless the person files a Declaration of Intent which 
+includes: 
+(A) 
+A statement that the landowner or the landowner’s agent will practice 
+agriculture on that portion of the property for five years from the date of the 
+declaration; and 
+(B) 
+A sketch of the property which shows the area to be cleared.
+
+<!-- page 276 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 3. FOREST CONSERVATION ACT 
+Land Use Ordinance for Kent County, Maryland     273 
+4. 
+The cutting or clearing of a public utility right of way licensed under Public Utility 
+Companies, §§7-207 and 7-208 or 7-205, Annotated Code of Maryland, or land for electric 
+generating stations licensed under Public Utility Companies, §§7-207 and 7-208 or 7-205 
+Annotated Code of Maryland, provided: 
+(A) 
+Certificates of public conveniences and necessity have been issued in 
+accordance with Natural Resources Article §5-1603(f), Annotated Code of 
+Maryland; and 
+(B) 
+Cutting or clearing of the forest is conducted to minimize the loss of forest. 
+5. 
+Routine maintenance or emergency repairs of the public utility right of way licensed 
+under Public Utility Companies, §§7-207 and 7-208 or 7-205, Annotated Code of 
+Maryland. 
+6. 
+Routine maintenance or emergency repairs of public utility right of way not subject to 
+Section 8.2 (4) of this Ordinance, provided: 
+(A) 
+The right of way existed prior to January 5, 1993; or 
+(B) 
+The right of way’s initial construction was approved after January 5, 1993. 
+7. 
+Non-coal surfacing mining regulated under Environment Article, Title 15, Subtitle 8, 
+Annotated Code of Maryland. 
+8. 
+An activity required for the purpose of constructing a dwelling intended for the use of the 
+owner or a child of the owner, if the activity: 
+(A) 
+Does not result in the cutting, clearing, or grading of more than 20,000 square 
+feet of forest; and 
+(B) 
+Is the subject of a Declaration of Intent filed in the Department which states 
+that a transfer in ownership may result in the loss of the exemption. 
+9. 
+A real estate transfer to provide a security, leasehold, or other legal or equitable interest, 
+including a transfer of title, of a portion of a lot or parcel if: 
+(A) 
+The transfer does not involve a change in land use, or new development or 
+redevelopment with associated land disturbing activities. 
+(B) 
+Both the grantor and grantee file a Declaration of Intent. 
+10. 
+An activity on a property that has more than 50% of its acreage within the Chesapeake 
+Bay Critical Area. 
+11. 
+A residential construction activity conducted on an existing single lot of any size of record 
+at the time of application, or a linear project not otherwise exempted under this section, 
+if the activity: 
+(A) 
+Does not result in the cumulative cutting, clearing, or grading of more than 
+20,000 square feet of forest; and
+
+<!-- page 277 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 3. FOREST CONSERVATION ACT 
+Land Use Ordinance for Kent County, Maryland     274 
+(B) 
+Does not result in the cutting, clearing, or grading of a forest that is subject to 
+the requirements of a previous forest conservation plan approved under this 
+ordinance; and 
+(C) 
+Is the subject of a Declaration of Intent filed in the Department which states 
+that a transfer in ownership may result in the loss of the exemption. 
+12. 
+An activity on a previously developed area covered by impervious surface and located in 
+a Priority Funding Area. 
+13. 
+Maintenance or retrofitting of a stormwater management structure that may include 
+clearing of vegetation or removal and trimming of trees, if the maintenance or retrofitting 
+is within the original limits of disturbance for construction of the existing structure, or 
+within any maintenance easement for access to the structure. 
+14. 
+A stream restoration project for which the applicant for a grading or sediment control 
+permit has executed a binding maintenance agreement of at least five years with the 
+affected property owner or owners. 
+3.4 
+FOREST CONSERVATION STANDARDS 
+1. 
+In AZD, RC, CR, and C:  
+(A) 
+A parcel with less than 20% of its net tract area in forest cover will be afforested 
+to 20% of its net tract area. 
+(B) 
+Forest on parcels with less than 20% of its net tract area in forest may be cut or 
+cleared provided: the afforestation required to achieve the 20% afforestation 
+level is determined prior to any clearing of forest; and the afforestation area 
+consists of two (2) times the total surface area cleared and the area needed to 
+achieve the 20% afforestation level before clearing occurred.  For example, the 
+afforestation area for a project with a net tract area of one hundred acres with 
+ten (10) acres of existing forest of which five (5) acres are to be cleared is 
+twenty (20) acres ten (10) acres to achieve the required afforestation level and 
+ten (10) acres to replace the forest cleared. 
+(C) 
+A parcel with more than 50% of its net tract area in forest may be cut or cleared 
+provided reforestation occurs at a rate of one-quarter (1/4) acre planted for 
+each acre removed above 50% of the net tract area or at a rate of two (2) acres 
+planted for every acre removed below 50% of the net tract area.  Forest 
+retained over 50% of the net tract area is credited toward the required 
+reforestation.  For example, a project with a net tract area of one hundred (100) 
+acres and an existing forest of sixty (60) acres that proposes to clear twenty 
+(20) acres, the reforestation area is 22.5 acres. 
+2. 
+  In V, IV, and EC 
+(A) 
+A parcel with less than 15% of its net tract area in forest cover will be afforested 
+to 15% of its net tract area.
+
+<!-- page 278 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 3. FOREST CONSERVATION ACT 
+Land Use Ordinance for Kent County, Maryland     275 
+(B) 
+Forest on parcels with less than 15% of its net tract area in forest may be cut or 
+cleared provided: the afforestation required to achieve the 15% afforestation 
+level is determined prior to any clearing of forest; and the afforestation area 
+consists of two (2) times the total surface area cleared and the area needed to 
+achieve the 15% afforestation level before clearing occurred.  For example, the 
+afforestation area for a project with a net tract area of one hundred acres with 
+ten (10) acres of existing forest of which five (5) acres are to be cleared is fifteen 
+(15) acres five (5) acres to achieve the required afforestation level and ten (10) 
+acres to replace the forest cleared. 
+(C) 
+A parcel with more than 15% of its net tract area in forest may be cut or cleared 
+provided reforestation occurs at a rate of one-quarter (1/4) acre planted for 
+each acre removed above 15% of the net tract area or at a rate of two (2) acres 
+planted for every acre removed below 15% of the net tract area.  Forest 
+retained over 15% of the net tract area is credited toward the required 
+reforestation.  For example, a project with a net tract area of one hundred (100) 
+acres and an existing forest of thirty (30) acres of which twenty (20) acres will 
+be cleared, requires a reforestation area of 13.75 acres. 
+3. 
+In all non-Critical Area zoning districts – AZD, RC, CR, V, IV, C, and EC: 
+(A) 
+The following trees, shrubs, plants, and specific areas are considered a priority 
+for retention and protection and will be left in an undisturbed condition unless 
+the applicant demonstrates, to the satisfaction of the Department, that 
+reasonable efforts have been made to protect them and the plan cannot be 
+reasonably altered. 
+i. 
+Trees, shrubs, and plants in sensitive areas including the non-tidal 100-year 
+floodplain, intermittent and perennial stream protection corridors, steep 
+slopes, non-tidal wetlands, and critical habitats; and 
+ii. 
+Contiguous forest that connects the largest undeveloped or most 
+vegetated tracts of land within and adjacent to the site. 
+(B) 
+The following trees, shrubs, plants, and specific areas are considered a priority 
+for retention and protection and will be left in an undisturbed condition unless 
+the applicant demonstrates, to the satisfaction of the Planning Commission, 
+that the applicant qualifies for a waiver in accordance with Article IV. 
+i. 
+Trees, shrubs, and plants that are determined to be rare, threatened, or 
+endangered under:  
+1. The Federal Endangered Species Act of 1973 in 16 U.S.C. §§1531—1544 
+and in 50 CFR 17;  
+2. The Maryland Nongame and Endangered Species Conservation Act, 
+Natural Resources Article, §§10-2A-01—10-2A-09, Annotated Code of 
+Maryland; and  
+3. COMAR 08.03.08
+
+<!-- page 279 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 3. FOREST CONSERVATION ACT 
+Land Use Ordinance for Kent County, Maryland     276 
+ii. 
+Trees that are associated with an historic structure or site, or trees that 
+have been designated by the state or county as a national, state, or county 
+champion tree; and 
+iii. Any tree having a diameter, measured at 4.5 feet above the ground, of:  
+1. Thirty inches or more; or  
+2. Seventy-five (75%) or more of the diameter, measured at 4.5 feet 
+above the ground, of the current State Champion tree of that species 
+as designated by the Department of Natural Resources. 
+(C) 
+The required reforestation or afforestation may be accomplished on-site, off-
+site, by contributing to a forest bank in the same watershed or by contributing 
+to the Kent County Reforestation Fund.  The preferred method of afforestation 
+or reforestation is on-site or forest banking. 
+(D) 
+Whenever possible and appropriate, afforestation and reforestation will 
+include native species. 
+3.5 
+ADDITIONAL STANDARDS FOR NON-TIDAL WETLANDS 
+A regulated activity is subject to the following requirements in AZD, RC, CR, V, IV, C, and EC: 
+1. 
+For the purposes of delineation, permitting, and mitigation, areas determined to be non-
+tidal wetlands under COMAR 08.05.04 will be regulated under COMAR 08.05.04 or this 
+ordinance, whichever is more stringent. 
+2. 
+For the purposes of calculating reforestation mitigation under this Ordinance, a forested 
+non-tidal wetland permitted to be cut or cleared and required to be mitigated under 
+COMAR 08.05.04 will be shown on the Forest Conservation Plan and subtracted on an 
+acre for acre basis from the total amount of forest to be cut or cleared as part of a 
+regulated activity. 
+3. 
+Non-tidal wetlands will be considered priority areas for retention and replacement. 
+4. 
+Forested non-tidal wetland identification and delineation should be included at the 
+earliest stage of planning to assist the applicant in avoidance and reduction of impacts to 
+the non-tidal wetlands and to avoid delay in the approval process. 
+3.6 
+TYPES OF SUBMITTALS 
+1. 
+Declaration of Intent 
+(A) 
+A person seeking an exemption under this sub-section 7.3 will file a Declaration 
+of Intent with the Department. 
+(B) 
+A Declaration of Intent is effective for five years. 
+(C) 
+The existence of a Declaration of Intent does not preclude:
+
+<!-- page 280 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 3. FOREST CONSERVATION ACT 
+Land Use Ordinance for Kent County, Maryland     277 
+i. 
+An exempted activity on a property subject to a Declaration of Intent if the 
+activity: (1) Does not conflict with the purpose of any existing Declaration 
+of Intent, and (2) Complies with the applicable requirements for an 
+exempted activity.  
+ii. 
+A regulated activity on the area covered by the Declaration of Intent.  
+However, if the activity occurs within five years of the effective date of the 
+Declaration of Intent: (1) There will be an immediate loss of exemption, or 
+(2) There may be a non-compliance action take by the Department, as 
+appropriate, under this Ordinance, or 
+iii. A regulated activity on that area of the property not covered under the 
+Declaration of Intent if the requirements of this Ordinance are satisfied. 
+2. 
+TWO TYPES of Forest Stand Delineations 
+(A) 
+Simplified Forest Stand Delineation 
+i. 
+A simplified Forest Stand Delineation (SFSD) may be submitted when forest 
+cover is not disturbed during a construction activity and the area is under 
+a long-term protective agreement. 
+ii. 
+A simplified Forest Stand Delineation will be submitted at the time of 
+concept site plan and concept subdivision review.  A SFSD will be used to 
+determine the most suitable and practical areas for conservation. 
+iii. The delineation will be prepared by a registered surveyor, licensed 
+forester, licensed landscape architect, or other qualified professional who 
+meets the requirements of COMAR 08.19.06.01B.  A simplified Forest 
+Stand Delineation will meet the requirements found in this Section. The 
+Planning Director may permit the Forest Stand Delineation to be combined 
+with the site or subdivision plan. 
+(B) 
+Forest Stand Delineation 
+i. 
+A Forest Stand Delineation (FSD) will be submitted at preliminary site plan 
+or subdivision review, and before application for a grading or sediment 
+control permit unless sub-section (A) above applies.  A FSD will be 
+submitted with the application for minor site plan or minor subdivision 
+approval unless sub-section (A) above applies. 
+ii. 
+The delineation will be prepared by a licensed forester, licensed landscape 
+architect or other qualified professional who meets the requirements of 
+COMAR 08.19.06.01B and will meet the requirements for a Forest Stand 
+Delineation found in this Section. 
+iii. The delineation will be used to determine the most suitable and practical 
+areas for forest conservation. 
+iv. An approved Forest Stand Delineation may remain in effect for a period 
+not longer than 5 years.
+
+<!-- page 281 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 3. FOREST CONSERVATION ACT 
+Land Use Ordinance for Kent County, Maryland     278 
+3. 
+TWO STAGES of Forest Conservation Plans 
+(A) 
+At the time of application for preliminary subdivision and site plan review, the 
+applicant will submit a preliminary Forest Conservation Plan.  The review of the 
+Forest Conservation Plan will be concurrent with the review of the preliminary 
+subdivision or site plan.  
+(B) 
+A final conservation plan will be submitted with: 
+i. 
+Minor and final subdivision plan 
+ii. 
+Minor and final site plan 
+iii. Application for a grading and sediment control permit 
+(C) 
+Both preliminary and final Forest Conservation Plans will be prepared by a 
+licensed forester, licensed landscape architect or other qualified professional 
+who meets the requirements of COMAR 08.19.06.01B.  If forest is not going to 
+be disturbed, a registered surveyor may prepare preliminary and final Forest 
+Conservation Plans.  Preliminary and final Forest Conservation Plans will meet 
+the requirements of this Section. 
+(D) 
+The preliminary Forest Conservation Plan may be modified during the review 
+process. 
+(E) 
+Where deemed appropriate by the Planning Director, the preliminary and final 
+conservation plans may be incorporated into other plans and plats required by 
+this Ordinance. 
+(F) 
+If existing forest on the site subject to a Forest Conservation Plan cannot be 
+retained, the applicant will demonstrate to the satisfaction of the Department: 
+i. 
+How techniques for forest retention have been exhausted; 
+ii. 
+Why the priority forests and priority areas specified in the design standards 
+of the zoning districts cannot be left in an undisturbed condition: (1) If 
+priority forests and priority areas cannot be left undisturbed, how the 
+sequence for afforestation or reforestation will be followed in compliance 
+with Natural Resources Article, §5-1607, Annotated Code of Maryland; (2) 
+Where on the site in priority areas, afforestation or reforestation will occur 
+in compliance with Natural Resources Article, §5-1607, Annotated Code of 
+Maryland; and (3) How the disturbance to the priority forests and priority 
+areas specified in the design standards of the zoning districts qualifies for 
+a waiver. 
+(G) 
+If the applicant proposes to make a payment into the local forest conservation 
+fund instead of afforestation or reforestation, the applicant will demonstrate 
+to the satisfaction of the Department that the requirements for afforestation 
+or reforestation on-site or off-site cannot be reasonably accomplished
+
+<!-- page 282 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 3. FOREST CONSERVATION ACT 
+Land Use Ordinance for Kent County, Maryland     279 
+3.7 
+SUBMITTAL REQUIREMENTS 
+1. 
+SIMPLIFIED FOREST STAND DELINEATION 
+ 
+A simplified Forest Stand Delineation will include: 
+(A) 
+Topographic map delineating intermittent and perennial streams and steep 
+slopes over twenty-five percent (25%). 
+(B) 
+Soils map delineating soils with structural limitations, such as, hydric soils, or 
+soils with a soil K Value greater than 0.35 on slopes of fifteen percent (15%), or 
+more. 
+(C) 
+Location of 100-year non-tidal floodplains. 
+(D) 
+Property boundaries 
+(E) 
+Map showing existing forest cover verified by field inspection. 
+(F) 
+Other information that the Department determines is necessary to implement 
+forest conservation. 
+2. 
+FOREST STAND DELINEATION 
+ 
+A Forest Stand Delineation will include the following: 
+(A) 
+Stand summary sheets that include a summary of the data collected at 
+individual sampling sites including the following: 
+i. 
+Dominant species and forest association 
+ii. 
+Site class of dominant tree 
+iii. Total number of tree species 
+iv. Number of trees per acre 
+v. 
+Common understory species 
+vi. Forest structure rating 
+(B) 
+A Forest Stand Delineation Map 
+i. 
+North arrow 
+ii. 
+Property boundaries 
+iii. Perennial and intermittent streams and their required stream protection 
+corridors 
+iv. Topography 
+v. 
+Soils, highlighting hydric and soils with a K Value over 0.35 on slopes of 
+fifteen percent (15%) or more. 
+vi. Current forest and unforested areas, including species, location, size of 
+trees and showing dominant and co-dominant forest types
+
+<!-- page 283 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 3. FOREST CONSERVATION ACT 
+Land Use Ordinance for Kent County, Maryland     280 
+vii. Forest stand locations 
+viii. Tree lines extending off-site 
+ix. Steep slopes 
+x. 
+Field sampling points 
+xi. Prime agricultural soils 
+xii. Critical habitats 
+xiii. Adjacent land uses 
+xiv. Cultural features 
+xv. Historic sites 
+xvi. Non-tidal 100-year floodplain 
+xvii. Non-tidal wetlands 
+xviii. 
+Vicinity Map at a scale of 1:2000 which indicates major roads, land 
+uses, and forest cover within one square mile of the site. 
+(C) 
+A written summary of forest stand conditions  
+i. 
+Stand Condition: (1) Stand structure (dominant species and understory 
+species); (2) Forest structure; (3) Retention potential; (4) Comments on 
+evidence of past management 
+ii. 
+Environmental Features: (1) Non-tidal floodplains; (2) Hydric soils; (3) Non-
+tidal wetlands; (4) Stream protection corridors; (5) Critical habitats; (6) 
+Steep slopes and soils with a K Value which exceeds 0.35 on slopes of 
+fifteen percent (15%) or more; (7) Cultural features; (8) Historic sites; (9) 
+Adjacent land uses; (10) Specimen trees and champion trees 
+(D) 
+Other information may be required if the Department determines it is 
+necessary to implement this Ordinance. 
+3. 
+PRELIMINARY FOREST CONSERVATION PLAN 
+A preliminary Forest Conservation Plan will include the following: 
+(A) 
+The approved Forest Stand Delineation 
+(B) 
+A table listing: 
+i. 
+Net tract area 
+ii. 
+Area of forest conservation required 
+iii. Area of forest conservation, both on- and off-site provided by the 
+developer 
+iv. Afforestation and reforestation plan 
+1. Plat, drawn at the same scale as the preliminary plan which indicates:
+
+<!-- page 284 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 3. FOREST CONSERVATION ACT 
+Land Use Ordinance for Kent County, Maryland     281 
+2. Areas designated for forest retention 
+3. Areas designated for reforestation 
+4. Areas designated for afforestation 
+5. Limits of disturbance 
+6. Stockpile areas 
+v. 
+Construction schedule, showing the sequence of forest conservation 
+vi. Two-year maintenance agreement 
+vii. A narrative on how the requirements for forest conservation have been 
+addressed 
+viii. Forest Conservation Worksheet 
+(C) 
+Other information the Department determines is necessary to implement 
+forest conservation. 
+4. 
+FINAL FOREST CONSERVATION PLAN.  
+A final Forest Conservation Plan will include the following: 
+(A) 
+The approved Forest Stand Delineation 
+(B) 
+A Forest Conservation Worksheet.  A worksheet and instructions for its 
+completion may be found in the Forest Conservation Technical Manual. 
+(C) 
+A Forest Conservation Map which clearly indicates the following: 
+i. 
+Forest retention areas (with priority rating) 
+ii. 
+Reforestation areas 
+iii. Afforestation areas 
+iv. Protective devices, including specifications 
+v. 
+Limits of disturbance 
+vi. Stockpile areas 
+(D) 
+Construction Schedule, including the sequence of reforestation areas, 
+afforestation areas, maintenance and protective measures to be employed at 
+the site. 
+(E) 
+Forest Protection Plan that addresses: 
+i. 
+Pre-construction activities including stress reduction and temporary and 
+permanent protective devices. 
+ii. 
+Future protection measures 
+(F) 
+Reforestation and Afforestation Plans, which include:
+
+<!-- page 285 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 3. FOREST CONSERVATION ACT 
+Land Use Ordinance for Kent County, Maryland     282 
+i. 
+Narrative evaluation of sequential analysis of reforestation and 
+afforestation methods. 
+ii. 
+Planting plan which includes: (1) Summary of site assessment and 
+preparation; (2) Target species for reforestation; (3) Plant materials table 
+including plant material source, species, number of plants, size of plants.  
+Methods found in the Forest Conservation Technical Manual will be used 
+to determine species selection and site stocking. 
+(G) 
+Incorporate a binding 5-year maintenance agreement as specified in COMAR 
+08.19.05.01 which includes:  
+i. 
+Watering, and  
+ii. 
+A reinforcement planting provision if survival rates fall below required 
+standards, as provided in the Forest Conservation Technical Manual, and  
+iii. Name and contact information for company or individual responsible for 
+tree care. 
+(H) 
+Long term binding protective agreement, that: 
+i. 
+Provides protection for areas of forest conservation, including areas of 
+afforestation, reforestation, and retention, and 
+ii. 
+Limits uses in areas of forest conservation to those uses designated and 
+consistent with forest conservation including recreational activities and 
+forest management practices used to preserve forest. 
+iii. A narrative on how the general provisions of forest conservation found in 
+this Ordinance have been addressed. 
+(I) 
+Table listing: 
+i. 
+Net tract area 
+ii. 
+Area of forest conservation required 
+iii. Area of forest conservation provided both on and off-site  
+(J) 
+Other information that the Department determines is necessary to implement 
+forest conservation. 
+3.8 
+FOREST CONSERVATION FUND 
+1. 
+A forest conservation fund is established that meets the requirements of Natural 
+Resources Article, §5-1610(h-1), Annotated Code of Maryland. 
+2. 
+When the Department determines that the requirements for reforestation or 
+afforestation on-site or off-site cannot be reasonably accomplished and credits generated 
+by a forest mitigation bank in the same County or watershed are not available, the 
+applicant will contribute money into the forest conservation fund.
+
+<!-- page 286 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 3. FOREST CONSERVATION ACT 
+Land Use Ordinance for Kent County, Maryland     283 
+(A) 
+For a project inside a Priority Funding Area, at a rate of 40.0 cents per square 
+foot of the area of required planting with the amount adjusted by the 
+Department of Natural Resources based on the previous year’s inflation rate; 
+and 
+(B) 
+For a project outside a Priority Funding Area, at a rate of 50.0 cents per square 
+foot of the area of required planting with the amount adjusted to be 20% higher 
+than the rate set under item 2 (A) of this sub-section.  
+3. 
+The money will be paid prior to final approval. 
+4. 
+Money deposited in the local forest conservation fund: 
+(A) 
+May be spent on the costs directly related to reforestation and afforestation, 
+including site identification, acquisition, preparation, and maintenance of 
+existing forests and achieving urban canopy goals. 
+(B) 
+Will be deposited in a separate forest conservation fund; and 
+(C) 
+May not revert to the general fund 
+5. 
+The County will accomplish the reforestation or afforestation for the equivalent number 
+of acres, or forest land acquisition for which the money is deposited within two years or 
+three growing seasons, whichever is the greater time period after receipt of the money. 
+6. 
+Reforestation, afforestation, forest easement purchase, or forest land acquisition paid for 
+by this fund will occur in Kent County or its municipalities and in the same watershed in 
+which the project is located.  
+7. 
+If the reforestation, afforestation, forest easement purchase, or forest land acquisition 
+cannot be reasonably accomplished in the same watershed in which the project is located, 
+the reforestation, afforestation, forest easement purchase, or forest land acquisition will 
+occur within the same county or watershed in the state in which the project is located. 
+3.9 
+FOREST PROTECTIVE DEVICES 
+1. 
+Before cutting, clearing, grading, or construction begins on a site, the applicant will 
+demonstrate to the Department that protective devices have been established. 
+2. 
+Protective device standards are found in the Forest Conservation Technical Manual. 
+3.10 
+BONDS 
+1. 
+A person required to conduct afforestation or reforestation will furnish financial security 
+in the form of a bond, an irrevocable letter of credit, or other security approved by the 
+County Commissioners of Kent County.  The surety will: 
+(A) 
+Assure that the afforestation, reforestation, and the associated maintenance 
+agreement are conducted and maintained in accordance with the approved 
+Forest Conservation Plan.
+
+<!-- page 287 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 3. FOREST CONSERVATION ACT 
+Land Use Ordinance for Kent County, Maryland     284 
+(B) 
+Be in an amount that is 125% of the estimated cost of reforestation or 
+afforestation as determined by the Department. 
+(C) 
+Be in a form and content approved by the Department. 
+2. 
+After two growing seasons, an applicant may request reduction of the amount of the 
+bond or other financial security by submitting a written request to the Department with 
+a justification for reducing the bond or other financial surety amount, including estimated 
+or actual costs to ensure afforestation or reforestation requirements are met. 
+(A) 
+The Department will determine whether a lesser amount is sufficient to cover 
+the cost of afforestation or reforestation, taking into account such factors as 
+the number of acres, proposed method of afforestation or reforestation, cost 
+of planting materials, and maintenance costs. 
+(B) 
+If after four growing seasons the plantings associated with the afforestation or 
+reforestation meet or exceed the standards of the Kent County Forest 
+Conservation Technical Manual, the amount of the bond, letter of credit, surety 
+bond, or other security will be returned or released. 
+3.11 
+STATE FUNDS 
+1. 
+A local agency or persons using state funds making application to conduct a regulated 
+activity will submit the subdivision, construction, grading, or sediment control plan to the 
+Department who will notify the Department of Natural Resources within fifteen (15) days 
+of receipt of the plan or project. 
+2. 
+Within fifteen (15) days of receipt of notice from the Department, the Department of 
+Natural Resources will: 
+(A) 
+Determine whether the project has impact on significant forest resources; and  
+(B) 
+Notify the Department whether the project is subject to the State Program. 
+3. 
+If the Department of Natural Resources determines that the project is subject to the State 
+program: 
+(A) 
+The time limit for approval of the Forest Stand Delineation and preliminary and 
+final Forest Conservation Plan will begin when the Department of Natural 
+Resources receives the necessary documents from the Department; 
+(B) 
+The Department may not approve a subdivision or site plan or issue the grading 
+or sediment control permit until the Maryland Department of Natural 
+Resources notifies the county that the standards and requirements of the State 
+program have been satisfied. 
+4. 
+If the Department of Natural Resources determines the project need not be reviewed 
+under the state program, the time limit for approval of the Forest Stand Delineation and 
+Forest Conservation Plan under the Kent County Plan begins when the Department 
+receives notice from the Department of Natural Resources.
+
+<!-- page 288 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 3. FOREST CONSERVATION ACT 
+Land Use Ordinance for Kent County, Maryland     285 
+3.12 
+FOREST MITIGATION BANKS 
+1. 
+Payment by credits from a forest mitigation bank 
+(A) 
+When the Department determines that the requirements for reforestation or 
+afforestation on-site or off-site cannot be reasonably accomplished, the 
+applicant may contribute credits from a forest mitigation bank. A credit is 
+required for each tenth of an acre of an area of required planting. 
+(B) 
+The credits will be debited from an approved forest mitigation bank prior to 
+final approval. 
+2. 
+Establishing forest mitigation banks 
+(A) 
+A person may create a forest mitigation bank from which applicants may 
+purchase credits to meet the afforestation and reforestation requirements of 
+this ordinance. 
+(B) 
+The forest mitigation bank will: 
+i. 
+Afforest or reforest an area of land in accordance with a Forest Mitigation 
+Bank Agreement; 
+ii. 
+Be protected by an easement, deed restrictions, or covenants which 
+require the land in the bank to remain forested in perpetuity and are 
+enforceable by the Department and the Department of Natural Resources; 
+iii. Limit the use of the land in the bank to those activities which are not 
+inconsistent with forest conservation such as recreational activities, forest 
+management under a forest conservation and management program 
+under Tax Property Article, §8-211, Annotated Code of Maryland, or 
+activities specified in a forest management plan prepared by a licensed 
+forester and approved by the Department; 
+iv. Use native plant materials for afforestation or reforestation unless 
+inappropriate; and 
+v. 
+Cause trees to be planted which: (1) Establish or enhance forested buffers 
+adjacent to intermittent and perennial streams and coastal bays to widths 
+of at least 50 feet; (2) Establish or increase existing forested corridors, 
+which, where practical, should be a minimum of 300 feet in width to 
+facilitate wildlife movement, to connect existing forests within or adjacent 
+to the site; (3) Establish or enhance forest buffers adjacent to critical 
+habitats where appropriate; (4) Establish or enhance forested areas in 100-
+year floodplains; (5) Stabilize slopes of 25 percent or greater; (6) Stabilize 
+slopes of 15 percent or greater with a soil k value greater than 0.35 
+including the slopes of ravines or other natural depressions; (7) Establish 
+buffers adjacent to areas of differing land use where appropriate, or 
+adjacent to highways or utility rights-of-way; or (8) Establish forest areas
+
+<!-- page 289 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 3. FOREST CONSERVATION ACT 
+Land Use Ordinance for Kent County, Maryland     286 
+adjacent to existing forests to increase the overall area of contiguous forest 
+cover, when appropriate. 
+(C) 
+A person proposing to create a forest mitigation bank will submit to the 
+Department: 
+i. 
+A completed application on a form approved by the Department which has 
+been signed by an authorized individual; 
+ii. 
+Forest mitigation bank plan which contains a: (1) Vicinity map of the 
+proposed mitigation bank site; (2) Simplified forest stand delineation that 
+meets the requirements for such delineations in this Section; (3) Detailed 
+afforestation or reforestation plan, which will include a timetable and 
+description of the site and soil preparation needed, species, size, and 
+spacing to be utilized, prepared by a licensed Maryland forester, a licensed 
+landscape architect, or a qualified professional who meets the 
+requirements stated in COMAR 08.19.06.01a; and (4) Proposed 2-year 
+maintenance agreement that includes: (4a) Watering plans; (4b) Fertilizing 
+plans; (4c) Control of competing vegetation; (4d) Protection from disease 
+pest, and mechanical injury; (4e) Replanting provisions when survival fall 
+below acceptable levels; (4f) Name of company or individual responsible 
+for tree care 
+iii. Copy of the deed to the property; 
+iv. Survey or other legally sufficient description of the bank site for inclusion 
+in the deeds of easement, deed restrictions, or covenants; 
+v. 
+Title report or other assurance that: (1) The property is not encumbered 
+by any covenants or other types of restrictions which would impair the 
+property's use as a forest mitigation bank; and (2) There is legally sufficient 
+access to the forest mitigation bank site which can be used by the 
+Department and its assignees to inspect the forest mitigation bank; and 
+vi. Description of the system to be used by the person owning and operating 
+the forest mitigation bank to identify and keep track of which portions of 
+the bank have been debited to meet an applicant's offsite afforestation or 
+reforestation requirements. 
+(D) 
+The owner of an approved forest mitigation bank will enter into an agreement 
+with the Department which contains: 
+i. 
+The approved reforestation or afforestation plan; 
+ii. 
+The approved system for marking and tracking which portions of the bank 
+have been debited; and 
+iii. An acknowledgment that the bank may not debit any portion of the 
+afforested or reforested land until two (2) years of successful growth has
+
+<!-- page 290 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 3. FOREST CONSERVATION ACT 
+Land Use Ordinance for Kent County, Maryland     287 
+been achieved unless the banker has posted a bond or alternate form of 
+security.
+
+<!-- page 291 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 4. EROSION & SEDIMENT CONTROL 
+Land Use Ordinance for Kent County, Maryland     288 
+SECTION 4 
+EROSION & SEDIMENT CONTROL  
+4.1 
+STATEMENT OF INTENT 
+1. 
+The purpose of this Ordinance is to protect, maintain, and enhance the public health, 
+safety, and general welfare by establishing minimum requirements and procedures to 
+control the adverse impacts associated with land disturbances.  The goal is to minimize 
+soil erosion and prevent off-site sedimentation by using soil erosion and sediment control 
+practices designed in accordance with the Code of Maryland Regulations (COMAR) 
+26.17.01, the 2011 Maryland Standards and Specifications and the Stormwater 
+Management Act of 2007.  Implementing this Ordinance will help reduce the negative 
+impacts of land development on water resources, maintain the chemical, physical, and 
+biological integrity of streams, and minimize damage to public and private property. 
+2. 
+The provisions of this Ordinance pursuant to Title 4, Environment Article, Subtitle 1, 
+Annotated Code of Maryland will apply to all land grading occurring within Kent County. 
+The application of this Ordinance and the provisions expressed herein will be the 
+minimum erosion and sediment control requirements and will not be deemed a limitation 
+or repeal of any other powers granted by State Statute. 
+3. 
+No person will disturb land without implementing soil erosion and sediment controls in 
+accordance with the requirements of this Ordinance and the Standards and Specifications 
+except as provided within this Section. 
+4.2 
+APPLICABILITY 
+1. 
+A permit will be obtained for any grading, clearing, stripping, excavating, filling of land, 
+or forest harvesting.  A permit will also be obtained for the creation of borrow pits, spoil 
+areas, quarries, material processing facilities, or any other facilities. 
+2. 
+A permit will not be required for the following, subject to compliance with the 
+requirements of the Department of the Environment, relating to sediment control plans 
+approved by the Kent Soil and Water Conservation District: 
+(A) 
+Outside the Chesapeake Bay Critical Area, agricultural land management 
+operating according to best management practices in Maryland. 
+(B) 
+In the Chesapeake Bay Critical Area, agricultural land management operating 
+according to an approved soil and water conservation plan approved by the 
+Kent Soil and Water Conservation District.  Landowners who have signed up as 
+conservation district cooperators but do not have a conservation plan 
+developed for them by the District will be exempt from the requirements of 
+this Section, if best management practices are used. 
+(C) 
+Clearing or grading of land, provided that: 
+i. 
+The aggregate of area(s) affected or bared at any one time does not 
+exceed five thousand (5,000) square feet; and
+
+<!-- page 292 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 4. EROSION & SEDIMENT CONTROL 
+Land Use Ordinance for Kent County, Maryland     289 
+ii. 
+The grading does not involve a quantity of materials in excess of one 
+hundred (100) cubic yards. 
+(D) 
+State and federal projects that are reviewed and enforced by the Maryland 
+Department of the Environment. 
+4.3 
+PROCEDURES 
+A person making an application for a Sediment Control Permit will submit to the Department the 
+following: 
+1. 
+Application 
+2. 
+One original and five copies of the erosion and sediment control plan, including 
+specifications and timing schedules. 
+3. 
+Fee 
+4. 
+A bond, if required under this Section. 
+4.4 
+GENERAL REQUIREMENTS 
+1. 
+Permits issued under this Section do not relieve the owner of responsibility for securing 
+required permits for work to be done which is regulated by any other applicable code, 
+act, or County ordinance.  This Section will not preclude the inclusion in other permits of 
+more stringent regulations or requirements concerning sediment control. 
+2. 
+Standard sediment control plans and provisions may be approved for single family 
+dwellings and other minor projects.  A plan will be approved prior to the issuance of a 
+grading or building permit. 
+3. 
+The Kent Soil and Water Conservation District may prepare sediment control plans for 
+agricultural projects such as barns, chicken houses, dairy operations or other agricultural 
+buildings.  
+4. 
+A copy of the current approved plan will be kept at the construction site. 
+5. 
+Prior to the issuance of a grading permit, copies of the plan will be referred by the 
+Department to the Kent Soil and Water Conservation District for approval.  Where 
+applicable, the Maryland Department of the Environment may also review any plans that 
+may require a water resources permit.  Where deemed necessary, the Maryland 
+Department of the Environment may also serve Kent County and the Kent Soil and Water 
+Conservation District as a technical authority in erosion and sediment control.  The Soil 
+and Water Conservation District will notify the Department of its recommendations 
+and/or approval. 
+6. 
+Major modifications of the approved grading plans will be submitted to the Department 
+and reprocessed in the same manner as the original plan.  Field modifications of a minor 
+nature may be authorized by the Department provided that written authorization is given
+
+<!-- page 293 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 4. EROSION & SEDIMENT CONTROL 
+Land Use Ordinance for Kent County, Maryland     290 
+to the applicant performing work pursuant to this Section, with copies forwarded in a 
+timely manner to the Kent Soil and Water Conservation District. 
+7. 
+The permit and inspection fee will be paid to the Department and will be determined by 
+the Department after consultation with the Kent Soil and Water Conservation District.  
+The fee for a permit authorizing additional work will be the difference between the fee 
+paid for the original permit and the fee required for the entire sediment control project. 
+8. 
+If the land area for which the grading is proposed lies within the floodway of any stream 
+or watercourse, the Department will deny a sediment control permit, unless such grading 
+is authorized or permitted by the Maryland Department of the Environment in 
+accordance with its rules and regulations. 
+9. 
+In granting any permit pursuant to this Section, the Department may impose conditions 
+that may be reasonably necessary to prevent the creation of a nuisance or unreasonable 
+hazard to persons or to public or private property.  Such conditions include but are not 
+limited to: 
+(A) 
+Improvement of any existing grading to meet the standards required under this 
+Section for new grading and for sediment control. 
+(B) 
+Designation of easements for drainage facilities and for the maintenance of 
+slopes, erosion control facilities, and storm water management structures or 
+devices. 
+(C) 
+Adequate control of dust by watering or other control methods acceptable to 
+the Department and in conformance with applicable air pollution ordinances. 
+10. 
+The Department will have the right to deny issuance of a grading permit when the 
+proposed grading would cause hazards adverse to the public safety and welfare. 
+11. 
+For steep banks along the shorelines that are actively eroding and ten feet in height or 
+more, the Department may elect not to issue a permit for the construction of a dwelling 
+or any other substantial building. 
+12. 
+Sediment control permits expire after three years unless construction of the project has 
+begun.  
+13. 
+Approved erosion and sediment control plans remain valid for three (3) years from the 
+date of approval, except surface mines (e.g., sand and gravel pits) and landfill plans, which 
+remain valid for five (5) years from the date of approval. 
+14. 
+Following initial disturbance or re-disturbance, permanent or temporary stabilization on 
+areas not under active grading will be completed within: 
+(A) 
+Three calendar days as to the surface of all perimeter dikes, swales, ditches, 
+perimeter slopes, and all slopes greater than three horizontal to one vertical 
+(3:1). 
+(B) 
+Seven days as to other disturbed or graded areas on the project site.
+
+<!-- page 294 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 4. EROSION & SEDIMENT CONTROL 
+Land Use Ordinance for Kent County, Maryland     291 
+15. 
+The permittee will fully perform and complete all of the work required to be done 
+pursuant to the grading within the time limit specified in the grading permit.  If an 
+applicant is unable to complete the work in the specified time, the applicant will submit 
+a written request for an extension to the Department that explains the need for the 
+requested extension. 
+16. 
+All permits issued for sand, gravel, or clay pits and rock quarries or any other mining or 
+material processing operations involving excavation and/or stockpiling of soil, rock, or 
+other materials will lapse one year after termination of active, productive (i.e. actually 
+removing material whether at a profit or not and whether stockpiled or sold) and 
+continuous operations as determined by the Department.  Said permits will be reviewed 
+by the Department for compliance in accordance with the approved grading plan. 
+17. 
+Neither the issuance of a permit under the provisions of this Section nor the compliance 
+with the provisions hereto or with any condition imposed by the Department will relieve 
+any person from any responsibility for damage to persons and/or property. 
+18. 
+During grading control operations the permittee will be responsible for the prevention of 
+damage to any public utilities or services within the limits of grading and along any routes 
+of travel of equipment.  No person will grade on land so close to property lines as to 
+endanger any adjoining public street, sidewalk, alley, or any other public or private 
+property without supporting and protecting such property from settling, cracking, or 
+other damage.  Grading can occur on adjacent property if grading rights are secured from 
+the property owner.  Storm drains will terminate in an acceptable outfall.  Kent County, 
+Maryland will not be responsible for any drainage damage to downstream properties for 
+failure of any work to be done pursuant to this Section. 
+19. 
+No soil, miscellaneous debris, or other spilled or dumped material is to be deposited in 
+floodplains, watercourses, public streets, highways, sidewalks, or other public 
+thoroughfares during transit or operation. 
+20. 
+The owner of any property on which grading or other work has been done under the 
+provisions of this Section will maintain and/or promptly repair or restore all graded 
+surfaces, erosion control measures, vegetative covers and/or other protective measures 
+if disturbed or destroyed during the course of operations.  Repair and restoration will be 
+in conformance with the approved plans until permanent measures are accepted by the 
+Department. 
+4.5 
+STEEP SLOPE REQUIREMENTS 
+1. 
+Development may occur within steep slope areas provided that a minimum of 30% of the 
+lot or parcel upon which the principal structure is to be situated is less than 10% grade 
+and is contiguous to a road meeting Kent County design standards.  The extent of cutting 
+and filling that will be permitted on any lot will be based on the soil conditions at the site 
+and as determined by the Department upon recommendation of the Kent Soil and Water 
+Conservation District.  Construction on piling and/or supports will be permitted.
+
+<!-- page 295 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 4. EROSION & SEDIMENT CONTROL 
+Land Use Ordinance for Kent County, Maryland     292 
+2. 
+All roads and streets will be placed as close to the contour as possible, to minimize cutting 
+and filling. 
+3. 
+The construction of all structures will be preceded by the installation of storm drainage 
+system(s) and stabilization measures. 
+4. 
+In the case of a single lot development within such areas where no central storm drainage 
+system exists, runoff from driveways, roofs, and other improved surfaces will be diverted 
+and carried to an acceptable outlet by one or a combination of the following methods: 
+filtration beds, subsurface dry wells, storm drainage systems and/or underground conduit 
+systems or other adequate or protected outlets. 
+4.6 
+VEGETATIVE REQUIREMENTS 
+Vegetative erosion and sediment control measures will include, but not be limited to, the 
+following: 
+1. 
+Following initial soil disturbance or re-disturbance, permanent or temporary stabilization 
+on areas not under active grading will be completed within: 
+(A) 
+Three calendar days as to the surface of all perimeter dykes, swales, ditches, 
+perimeter slopes, and all slopes greater than three to one (3:1). 
+(B) 
+Seven days as to all other disturbed or graded areas on the project site. 
+2. 
+All projects must comply with the provisions set forth in the 2011 Maryland Standards 
+and Specifications for Erosion and Sediment Control, and as may be amended. 
+https://mde.maryland.gov/programs/water/stormwatermanagementprogram/pages/es
+c_standards.aspx  
+4.7 
+REVIEW AND APPROVAL OF EROSION AND SEDIMENT CONTROL PLANS 
+1. 
+A person may not grade land without an erosion and sediment control plan approved by 
+the Kent Soil and Water Conservation District. 
+2. 
+The Kent Soil and Water Conservation District will review erosion and sediment control 
+plans to determine compliance with this Ordinance and the 2011 Maryland Standards 
+and Specifications for Soil Erosion and Sediment Control prior to approval. In approving 
+the plan, the approving agency may impose such conditions that may be deemed 
+necessary to ensure compliance with the provisions of this Ordinance, COMAR 26.17.01, 
+the 2011 Maryland Standards and Specifications for Soil Erosion and Sediment Control, 
+and the preservation of public health and safety.  
+3. 
+At a minimum, a concept plan will include the mapping of natural resources and sensitive 
+areas including highly erodible soils and slopes greater than 15% as well as information 
+required under Stormwater Management. These areas are to remain undisturbed, or an 
+explanation will be included with either the concept or site development plan describing 
+enhanced protection strategies for these areas during construction.
+
+<!-- page 296 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 4. EROSION & SEDIMENT CONTROL 
+Land Use Ordinance for Kent County, Maryland     293 
+4. 
+A site development plan submittal will include all concept plan information and indicate 
+how proposed erosion and sediment control practices will be integrated with proposed 
+stormwater management practices. The latter is to be done through a narrative and an 
+overlay plan showing both Environmental Site Design (ESD) and erosion and sediment 
+control practices. An initial sequence of construction and proposed project phasing to 
+achieve the grading unit restriction should be submitted at this time.  
+5. 
+An applicant will submit a final erosion and sediment control plan to the approving agency 
+for review and approval. The plan will include all of the information required by the 
+concept and site development plans as well as any information in Section 8.8 not already 
+submitted.  
+6. 
+A final erosion and sediment control plan will not be considered approved without the 
+inclusion of the signature and date of signature of the approving agency on the plan.  
+7. 
+Approved plans remain valid for three (3) years from the date of approval unless extended 
+or renewed by the approving agency, except surface mines (e.g., sand and gravel pits) and 
+landfill plans, which remain valid for five (5) years from the date of approval.  
+4.8 
+CONTENTS OF EROSION AND SEDIMENT CONTROL PLANS 
+1. 
+An applicant is responsible for submitting erosion and sediment control plans that meet 
+the requirements of the approving agency, this Section, Stormwater Management, and 
+the Standards and Specifications. The plans will include sufficient information to evaluate 
+the environmental characteristics of the affected areas, the potential impacts of the 
+proposed grading on water resources, and the effectiveness and acceptability of 
+measures proposed to minimize soil erosion and off-site sedimentation.  
+2. 
+At a minimum, applicants will submit the following information:  
+(A) 
+A letter of transmittal and/or application;  
+(B) 
+Name, address, and telephone number of:  
+i. 
+The owner of the property where the grading is proposed;  
+ii. 
+The developer; and  
+iii. The applicant;  
+(C) 
+A vicinity map indicating north arrow, scale, site location, and other 
+information necessary to easily locate the property; 
+(D) 
+Drainage area map(s) at a 1” = 200’ minimum scale showing existing, interim, 
+and proposed topography, proposed improvements, standard symbols for 
+proposed sediment control features, and pertinent drainage information 
+including provisions to protect downstream areas from erosion for a minimum 
+of 200 feet downstream or to the next conveyance system;  
+(E) 
+The location of natural resources, wetlands, floodplains, highly erodible soils, 
+slopes 15% and steeper, and any other sensitive areas;
+
+<!-- page 297 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 4. EROSION & SEDIMENT CONTROL 
+Land Use Ordinance for Kent County, Maryland     294 
+(F) 
+A general description of the predominant soil types on the site, as described by 
+the appropriate soil survey information available through the local soil 
+conservation district or the USDA Natural Resources Soil Conservation Service; 
+(G) 
+Proposed stormwater management practices;  
+(H) 
+Erosion and sediment control plans including:  
+i. 
+The existing topography and improvements as well as proposed 
+topography and improvements at a scale between 1” = 10’ and 1” = 50’ 
+with 2-foot contours or another approved contour interval. For projects 
+with more than minor grading, interim contours may also be required;  
+ii. 
+Scale, project and sheet title, and north arrow on each plan sheet;  
+iii. The limit of disturbance (LOD) including: (1) Limit of grading (grading units, 
+if applicable); and (2) Initial, interim, and final phases;  
+iv. The proposed grading and earth disturbance including: (1) Total disturbed 
+area; (2) Volume of cut and fill quantities; and (3) Volume of borrow and 
+spoil quantities;  
+v. 
+Storm drainage features, including: (1) Existing and proposed bridges, 
+storm drains, culverts, outfalls, etc.; (2) Velocities and peak flow rates at 
+outfalls for the two-year and ten-year frequency storm events; and (3) Site 
+conditions around points of all surface water discharge from the site;  
+vi. Erosion and sediment control practices to minimize on-site erosion and 
+prevent off-site sedimentation including: (1) The salvage and reuse of 
+topsoil; (2) Phased construction and implementation of grading unit(s) to 
+minimize disturbances, both in extent and duration; (3) Location and type 
+of all proposed sediment control practices; (4) Design details and data for 
+all erosion and sediment control practices; and (5) Specifications for 
+temporary and permanent stabilization measures including, at a 
+minimum: (5a) The “Standard Stabilization Note” on the plan stating: (5a-
+1) “Following initial soil disturbance or re-disturbance, permanent or 
+temporary stabilization will be completed within: (5a-2) Three calendar 
+days as to the surface of all perimeter dikes, swales, ditches, perimeter 
+slopes, and all slopes steeper than 3 horizontal to 1 vertical (3:1); and (5a-
+3) Seven calendar days as to all other disturbed or graded areas on the 
+project site not under active grading.” (5b) Details for areas requiring 
+accelerated stabilization; and (5c) Maintenance requirements as defined 
+in the Standards and Specifications;  
+vii. A sequence of construction describing the relationship between the 
+implementation and maintenance of controls, including permanent and 
+temporary stabilization, and the various stages or phases of earth 
+disturbance and construction. Any changes or revisions to the sequence of 
+construction will be approved by the approving agency prior to proceeding
+
+<!-- page 298 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 4. EROSION & SEDIMENT CONTROL 
+Land Use Ordinance for Kent County, Maryland     295 
+with construction. The sequence of construction, at a minimum, will 
+include the following: (1) Request for a pre-construction meeting with the 
+appropriate enforcement authority; (2) Clearing and grubbing as necessary 
+for the installation of perimeter controls; (3) Construction and stabilization 
+of perimeter controls; (4) Remaining clearing and grubbing within installed 
+perimeter controls; (5) Road grading; (6) Grading for the remainder of the 
+site; (7) Utility installation and connections to existing structures; (8) 
+Construction of buildings, roads, and other construction; (9) Final grading, 
+landscaping, 
+and 
+stabilization; 
+(10) 
+Installation 
+of 
+stormwater 
+management measures; (11) Approval of the appropriate enforcement 
+authority prior to removal of sediment controls; and (12) Removal of 
+controls and stabilization of areas that are disturbed by removal of 
+sediment controls.  
+viii. A statement requiring the owner/developer or representative to contact 
+the inspection agency or its agent at the following stages of the project or 
+in accordance with the approved erosion and sediment control plan, 
+grading permit, or building permit: (1) Prior to the start of earth 
+disturbance; (2) Upon completion of the installation of perimeter erosion 
+and sediment controls, but before proceeding with any other earth 
+disturbance or grading; (3) Prior to the start of another phase of 
+construction or opening of another grading unit; and (4) Prior to the 
+removal of sediment control practices;  
+ix. Certification by the owner/developer that any clearing, grading, 
+construction, or development will be done pursuant to the approved 
+erosion and sediment control plan. The certification will also require that 
+the responsible personnel involved in the construction project have a 
+Certificate of Training at an MDE approved training program for the control 
+of erosion and sediment prior to beginning the project. The Certificate of 
+Training for Responsible Personnel may be waived by the approving agency 
+on any project involving four or fewer residential lots. Additionally, the 
+owner/developer will allow right of entry for periodic on-site evaluation by 
+the approving agency, Department, the inspection agency, and/or MDE; 
+and  
+x. 
+Certification by a professional engineer, land surveyor, landscape architect, 
+architect, or forester (for forest harvest operations only) registered in the 
+State that the plans have been designed in accordance with erosion and 
+sediment control laws, regulations, and standards, if required by the 
+approving agency or the Maryland Water Management Administration.  
+(I) 
+Any additional information or data deemed appropriate by the approving 
+agency. 
+3. 
+All plans will conform to the following terms and conditions:
+
+<!-- page 299 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 4. EROSION & SEDIMENT CONTROL 
+Land Use Ordinance for Kent County, Maryland     296 
+(A) 
+The development will be fitted to the topography and soils so as to create the 
+least erosion potential. 
+(B) 
+Natural vegetation will be retained and protected wherever possible. 
+(C) 
+Only the smallest practical area will be exposed for the shortest practical period 
+of time. 
+(D) 
+Erosion control practices (such as interceptor ditches, berms, terraces, contour 
+ripping, soil erosion checks and sediment basins) will be installed to minimize 
+soil and water losses. 
+(E) 
+Temporary vegetation and/or mulching will be used to protect critical areas 
+exposed during the time of development. 
+(F) 
+During and after development, provisions will be made to effectively 
+accommodate the increased runoff caused by changeable soil and surface 
+conditions and not cause siltation, destruction, or deterioration of the receiving 
+stream. 
+(G) 
+Permanent vegetation and structures will be installed in the development as 
+soon as the season permits. 
+4.9 
+SECURITIES 
+1. 
+A grading permit will not be issued for grading involving the movement of more than 
+1,000 cubic yards of soils unless the permittee will post with the Department a 
+performance bond, letter of credit or other surety.  The bond, irrevocable letter of credit 
+or other surety will be in a form approved by the County Attorney and in an amount not 
+less than the total estimated cost of the erosion control and stabilization of the site.  Said 
+estimated cost will be that which is approved by the Department or in consultation with 
+the Kent Soil and Water Conservation District after reviewing the cost estimates proposed 
+by the applicant’s acceptable engineer, land surveyor, or architect and submitted with the 
+grading permit application. 
+2. 
+The bond, irrevocable letter of credit or other surety will include the following provisions: 
+(A) 
+The applicant will comply with all of the provisions of this Ordinance and all 
+other applicable laws and ordinances. 
+(B) 
+The applicant will comply with all of the terms and conditions of the grading 
+permit. 
+(C) 
+Any extension of completion time under this Section will not release the 
+applicant or surety on the bond, irrevocable letter of credit, or other surety. 
+(D) 
+Upon default, the applicant and surety will continue to be firmly bound under 
+a continuing obligation for payment of one of the following at the election of 
+the surety:
+
+<!-- page 300 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 4. EROSION & SEDIMENT CONTROL 
+Land Use Ordinance for Kent County, Maryland     297 
+i. 
+All costs and expenses necessary to complete the work in accordance 
+with the approved plans and specifications (or any approved modification 
+thereof). 
+ii. 
+All necessary costs and expenses or liabilities which may be incurred to 
+stabilize in accordance with a stabilization plan for erosion control 
+presented by the surety and approved by Kent County.   
+iii. Payment of the full amount of the bond to Kent County to perform the 
+work necessary.  If the cost for restoration of the site to meet the 
+minimum requirements of this Section (with particular emphases on 
+stability, safety, drainage, and erosion control) exceeds the amount of the 
+bond, the permittee will continue to be firmly bound under a continuing 
+obligation for payment of all excess cost and expenses incurred by the 
+county.   
+3. 
+The bond, irrevocable letter of credit or other surety will remain in full force and effect 
+until the completion of the work to the specifications required.  If all work of the permit 
+is not completed within the time specified therein, or as otherwise provided for in this 
+Section or violates any other term or condition, payment in full to Kent County may be 
+ordered.  The funds so received will be used by the County to defray the cost of 
+restoration of the site.  Upon approval of a certificate of completion, the bond, irrevocable 
+letter of credit or other surety will be released.  
+4.10 
+HAZARDOUS CONDITIONS 
+1. 
+If the Department determines that an excavation, embankment, or a fill endangers or 
+adversely affects the safety or stability of any public or private property, as determined 
+from the guidelines of this Ordinance, the Planning Director, or the Planning Director’s 
+designee, will promptly notify in writing the owner (or other persons in control) of the 
+property upon which the condition exists. 
+2. 
+If the correction is not commenced in accordance with the provisions of the Ordinance 
+within the period of time specified in the notice, the owners (or other persons in control) 
+will be subject to the penalties set forth in this Land Use Ordinance. 
+4.11 
+INSPECTIONS 
+1. 
+All work will be inspected by the Department according to the following schedule. 
+(A) 
+Clearing and grubbing for those areas necessary for installation of perimeter 
+controls. 
+(B) 
+Completion of perimeter controls. 
+(C) 
+Remaining clearing and grubbing. 
+(D) 
+Road grading 
+(E) 
+Grading for remainder of the site.
+
+<!-- page 301 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 4. EROSION & SEDIMENT CONTROL 
+Land Use Ordinance for Kent County, Maryland     298 
+(F) 
+Utility and storm drain installation. 
+(G) 
+Final grading, landscaping, or stabilization. 
+(H) 
+Removal of controls and maintenance. 
+(I) 
+At other times determined by the Department. 
+(J) 
+Every two weeks, for compliance with approved sediment control plans.  
+2. 
+It will be a condition of every grading or building permit that the inspection agency has 
+the right to enter the property periodically to inspect for compliance with the approved 
+erosion and sediment control plan and this Ordinance. 
+3. 
+Inspection Procedure.  Work approved will not proceed until the Department inspects the 
+site and approves the work previously completed or notifies the permittee otherwise.  
+Upon notification from the permittee, the Department will inspect the site and notify the 
+permittee of its approval or rejection within forty-eight (48) hours (exclusive of Saturdays, 
+Sundays, and Holidays).  If the inspector does not make an inspection within the specified 
+time period, work may proceed without presumption of approval at the risk of the 
+permittee.  The Department will have the right to waive inspections except final 
+inspection as necessary. 
+4. 
+Inspection Reports.   
+(A) 
+Written reports: Structural erosion and sediment control measures will include, 
+but not be limited to, those described and depicted in the booklet entitled 
+“Standards and Specifications for Soil Erosion Control” as approved by the 
+Maryland Department of the Environment.  This booklet, as currently 
+amended, is readily available at offices of the Department, 400 High Street, 
+Chestertown, Maryland; Kent Soil and Water Conservation District, 
+Chestertown, 
+Maryland; 
+Natural 
+Resources 
+Conservation 
+Service, 
+Chestertown, Maryland; and the Maryland Department of the Environment. 
+(B) 
+Written inspection reports will be completed by the inspector for all 
+inspections.  The reports will include, at minimum: (1) Date and location of site 
+inspection; (2) Degree of plan implementation; (3) Deficiencies of plan or 
+practice; (4) Enforcement action taken, if any; (5) A time frame for corrective 
+measures 
+5. 
+When required by the Department, inspections and testing will be performed under the 
+direction of an engineer, land surveyor or architect who will certify all inspection reports 
+and tests results.  Such reports will include certification by an engineer for the adequacy 
+of: 
+(A) 
+Cleared areas and benched or keyed surfaces prepared to receive fills. 
+(B) 
+Removal of unsuitable materials. 
+(C) 
+Construction of erosion control or drainage devices, buttress fills, under-drains, 
+retaining walls, and other grading appurtenances.
+
+<!-- page 302 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 4. EROSION & SEDIMENT CONTROL 
+Land Use Ordinance for Kent County, Maryland     299 
+(D) 
+The degree of compaction where tests are performed. 
+6. 
+All certified inspection reports and certified test results will be periodically submitted to 
+the Department, during the performance of the work. 
+7. 
+Final Reports.  The Department will maintain permanent files on their respective 
+inspections.  Upon completion of permitted work, the Department will require the 
+following for these files and will also require copies for the Kent Soil and Water 
+Conservation District. 
+(A) 
+An as-built original plan by a land surveyor or engineer and showing all 
+improvements and final grades with red line alterations allowed. 
+(B) 
+Certification by the owner that all grading, drainage, erosion control measures, 
+and facilities and vegetative measures have been completed in conformance 
+with the approved plans and specifications. 
+(C) 
+A report summarizing the inspection reports, field and laboratory tests and 
+locations of tests. 
+8. 
+Final Inspection Request. The permittee or the permittee’s agent will notify the 
+Department when the grading operation is ready for final inspection.  Final approval will 
+be given in a timely manner when all work (including installation of all drainage structures 
+and erosion protective devices) has been completed as well as the required vegetative 
+stabilization and the required reports have been submitted.  
+9. 
+The Department may also require signed and sealed drawings from a professional land 
+surveyor or engineer, certifying that the requirements above have been satisfied. The 
+Department may also engage third-party professionals to review the drawings to ensure 
+compliance with the regulations in this Section, the Land Use Ordinance in general, and 
+any applicable federal, State, or other laws, rules, and regulations. The costs for any third-
+party professionals will be paid by the applicant or property owner of record.
+
+<!-- page 303 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 5. STORMWATER MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     300 
+SECTION 5 
+STORMWATER MANAGEMENT  
+5.1 
+STATEMENT OF INTENT 
+The purpose of this ordinance is to protect, maintain and enhance the public health, safety and 
+general welfare by establishing minimum requirements and procedures to control the adverse 
+impacts associated with increased stormwater runoff.  The goal is to manage stormwater by using 
+environmental site design (ESD) to the maximum extent practicable (MEP) to maintain after 
+development as nearly as possible, the predevelopment runoff characteristics, and to reduce 
+stream channel erosion, pollution, siltation, and sedimentation, and local flooding, and use 
+appropriate structural best management practices (BMP) only when necessary.  This will restore, 
+enhance, and maintain the chemical, physical, and biological integrity of streams, minimize 
+damage to public and private property and reduce the impacts of land development. 
+5.2 
+AUTHORITY; EXPLANATION OF PROVISIONS 
+The provisions of this ordinance pursuant to the Environment Article, Title 4, Subtitle 2, 
+Annotated Code of Maryland, 2009-replacement volume, are adopted under the Code of Public 
+Local Laws of Kent County and will apply to all development or redevelopment occurring within 
+the unincorporated area of Kent County.  The application of this ordinance and the provisions 
+expressed herein will be the minimum stormwater management requirements and will not be 
+deemed a limitation or repeal of any other powers granted by state statute.  The County will be 
+responsible for the coordination and enforcement of the provisions of this Ordinance.  Any 
+development that has not received final approval for erosion and sediment control and 
+stormwater management plans by May 4, 2010, will comply with the 2010 revised Ordinance, 
+unless the development or redevelopment is granted an administrative waiver under this Section. 
+5.3 
+INCORPORATION BY REFERENCE 
+1. 
+The 2000 Maryland Stormwater Design Manual, Volumes I & II (Maryland Department of 
+the Environment, April 2000 and as may be amended), will be incorporated by reference 
+and will serve as the official guide for stormwater management principles, methods, and 
+practices. 
+2. 
+The USDA Natural Resources Conservation Service Maryland Conservation Practice 
+Standard Pond Code 378 (January 2000 and as may be amended) will be incorporated by 
+reference. 
+5.4 
+GRANDFATHERING 
+1. 
+DEFINITIONS APPLICABLE TO THE GRANDFATHERING. For the purpose of determining the 
+grandfathering of development stormwater management plans as set forth in this Section 
+certain words are hereby defined. 
+(A) 
+Administrative Waiver: A decision by Kent County pursuant to this Ordinance 
+to allow the construction of a development to be governed by the stormwater
+
+<!-- page 304 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 5. STORMWATER MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     301 
+management ordinance in effect as of May 4, 2009.  An administrative waiver 
+is distinct from a waiver granted pursuant to Article IV Processes. 
+(B) 
+Approval: A documented action by Kent County following a review to 
+determine and acknowledge the sufficiency of submitted material to met the 
+requirements of a specified stage in a local development review process.  
+Approval does not mean acknowledgment by Kent County that material has 
+been received for review. 
+(C) 
+Final Project Approval: Approval of the final stormwater management plan and 
+erosion and sediment control plan required to construct a project’s stormwater 
+management facilities.  Final approval also includes securing the bonding or 
+financing for final development plans if required as a prerequisite for approval. 
+(D) 
+Preliminary Project Approval: Approval of the preliminary development plan 
+that includes at a minimum: 
+i. 
+The number of planned dwelling units or lots 
+ii. 
+The proposed project density 
+iii. The proposed size and location of all land uses for the project 
+iv. A plan that identifies: (1) The proposed drainage patterns; (2) The 
+location of all points of discharge from the site; and (3) The type, 
+location, and size of all stormwater management measures based on site-
+specific stormwater management requirement computations. 
+v. 
+Any other information required by Kent County including but not limited 
+to: (1) The proposed alignment, location and construction type and 
+standard for all roads, access ways, and areas of vehicular traffic; (2) A 
+demonstration that the methods by which the development will be 
+supplied with water and wastewater services are adequate; and (3) The 
+size, type, and general location of all proposed wastewater and water 
+system infrastructure. 
+2. 
+ADMINISTRATIVE WAIVERS. Kent County may grant an administrative waiver to a 
+development that received a preliminary project approval prior to May 4, 2010.  
+Administrative waivers expire according to this Section and may be extended.  Kent 
+County may impose such conditions upon the approval of an administrative waiver 
+deemed necessary to secure compliance with the spirit and intent of this Ordinance.   
+3. 
+EXPIRATION OF ADMINISTRATIVE WAIVERS. Except as provided for in this Section, an 
+administrative waiver will expire on May 4, 2013, if the development does not receive 
+final project approval prior to May 4, 2013, or May 4, 2017, if the development receives 
+final approval prior to May 4, 2013. All construction authorized pursuant to an 
+administrative waiver will be completed by May 4, 2017, unless otherwise extended. 
+Administrative waivers which receive an extension will expire according to the 
+requirements of this Section.
+
+<!-- page 305 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 5. STORMWATER MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     302 
+4. 
+EXTENSION OF ADMINISTRATIVE WAIVERS 
+(A) 
+In order to grant an extension to an administrative waiver, Kent County will find 
+the following: (1) the project received preliminary project approval prior to 
+May 4, 2010; and (2) the project was subject to a Development Rights and 
+Responsibilities Agreement, a Tax Increment Financing Approval, or an 
+annexation agreement. 
+(B) 
+Administrative waivers which receive an extension will expire with the 
+expiration of the Developers Rights and Responsibilities Agreement, the Tax 
+Increment Financing approval or the Annexation agreement.   
+5.5 
+SCOPE 
+No person will develop any land for residential, commercial, industrial, or institutional uses or 
+redevelop land without having provided for appropriate stormwater management measures that 
+control or manage runoff from such developments, except as provided in this section.  
+Stormwater management measures will be designed consistent with the Design Manual and 
+constructed according to an approved plan for new development or polices stated in Section 9.7 
+below for redevelopment. 
+5.6 
+EXEMPTIONS 
+The following development activities are exempt from the provisions of this Section and the 
+requirements of providing stormwater management: 
+1. 
+Normally accepted agricultural land management activities and BMPs, (i.e. waterways, 
+ponds, etc.) 
+2. 
+Additions or modifications to existing single family detached residential structures 
+provided that these additions or modifications do not disturb over 5,000 square feet of 
+land. 
+3. 
+Developments that do not disturb over 5,000 square feet of land. 
+4. 
+Land development activities that the Maryland Department of the Environment 
+determines will be regulated under specific state laws, which provide for managing 
+stormwater runoff. 
+5.7 
+REDEVELOPMENT 
+This Section applies to any construction, alteration, or improvement performed on sites where 
+existing land use is commercial, industrial, institutional, or multi-family residential and existing 
+site impervious area exceeds forty (40) percent. 
+1. 
+Stormwater management plans are required by Kent County for all redevelopment, unless 
+otherwise specified by watershed management plans developed according to this 
+Ordinance.  Stormwater management measures will be consistent with the Design 
+Manual.
+
+<!-- page 306 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 5. STORMWATER MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     303 
+2. 
+All redevelopment designs will: 
+(A) 
+Reduce impervious surface area within the limit of disturbance (LOD) by at least 
+50% according to the Design Manual; 
+(B) 
+Implement ESD to MEP to provide water quality treatment for at least 50% of 
+the existing impervious surface area within the limit of disturbance; or 
+(C) 
+Use a combination of 9.7 2a and 2b of this Ordinance for at least 50% of the 
+existing site impervious area. 
+3. 
+Alternative stormwater management measures may be used to meet the requirements 
+of this Section, if the applicant satisfactorily demonstrates to the County that impervious 
+area reduction has been maximized and ESD has been implemented to the MEP.  
+Alternative stormwater management measures include, but are not limited to: 
+(A) 
+An on-site structural BMP; 
+(B) 
+An off-site BMP to provide water quality treatment for an area equal to or 
+greater than 50% of the existing impervious area; or 
+(C) 
+A combination of impervious area reduction, environmental site design 
+implementation, and an on-site or off-site structural Best Management Practice 
+for an area equal to or greater than 50% of the existing site impervious surface 
+area within the limit of disturbance. 
+4. 
+Kent County may develop separate policies for providing water quality treatment for 
+redevelopment projects if the requirements of this sub-section cannot be met.  Any 
+separate redevelopment policy will be reviewed and approved by the Maryland 
+Department of the Environment and may include but not be limited to: 
+(A) 
+A combination of ESD and an on-site or offsite structural BMP;  
+(B) 
+Retrofitting including existing BMP upgrades, filtering practices and offsite ESD 
+implementation; 
+(C) 
+Stream restoration in the same 12-digit watershed as the proposed 
+development and an area restored equivalent to the area required for 
+treatment. 
+(D) 
+Pollution trading with another entity. 
+(E) 
+Payment of a fee in lieu; or 
+(F) 
+A partial waiver of the treatment requirements if ESD is not practicable. 
+5. 
+The determination of alternatives available may be made by Kent County at the 
+appropriate stage in the development review process.  Kent County will consider the 
+prioritization of alternatives in this Section, after it has been determined that it is not 
+practicable to meet the 2009 regulatory requirements using ESD.  In deciding the 
+alternatives that may be required, Kent County may consider factors including but not 
+limited to the following:
+
+<!-- page 307 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 5. STORMWATER MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     304 
+(A) 
+Whether the project is in an area targeted for development incentives such as 
+a Priority Funding Area; 
+(B) 
+Whether the project is necessary to accommodate growth consistent with the 
+Comprehensive Plan; or 
+(C) 
+Whether bonding or other financing mechanisms have been secured based on 
+an approved development plan. 
+6. 
+Stormwater management will be addressed according to the new development 
+requirements in the Design Manual for any net increase in impervious areas. 
+5.8 
+STORMWATER MINIMUM CONTROL STANDARDS 
+Stormwater management will be accomplished for all new development according to the 
+minimum requirements established in this Section and the Design Manual as follows: 
+1. 
+All planning techniques, nonstructural practices, and design methods specified in the 
+Design Manual will be used to implement ESD to the MEP.  The use of environmental site 
+design planning techniques and treatment practices will be exhausted before any 
+structural BMP is implemented.  Stormwater management plans for development 
+projects subject to this Ordinance will be designed using ESD sizing criteria, recharge 
+volume, water quality volume, and channel protection storage volume criteria according 
+to the Design Manual.  The MEP standard is met when channel stability is maintained, 
+predevelopment groundwater recharge is replicated, nonpoint source pollution is 
+minimized, and structural stormwater management practices are used only if determined 
+to be absolutely necessary. 
+2. 
+Control of the 10-year frequency storm event is required according to the Design Manual 
+if the County determines that additional stormwater management is necessary because 
+historical flooding problems exist and downstream floodplain development and 
+conveyance system design cannot be controlled. 
+3. 
+Kent County may require more than the minimum control requirements specified in this 
+Ordinance if hydrologic or topographic conditions warrant or if flooding, stream channel 
+erosion, or water quality problems exist downstream from a proposed project. 
+4. 
+Alternate minimum control requirements may be adopted subject to approval by the 
+Maryland Department of the Environment.  The Maryland Department of the 
+Environment will require a demonstration that alternative requirements will implement 
+ESD to the MEP and control flood damages, accelerated stream erosion, water quality and 
+sedimentation.  Comprehensive watershed studies may also be required. 
+5. 
+Stormwater management and development plans where applicable, will be consistent 
+with adopted and approved watershed management plans or flood management plans as 
+approved by the Maryland Department of the Environment in accordance with the Flood 
+Hazard Management Act of 1976.
+
+<!-- page 308 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 5. STORMWATER MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     305 
+5.9 
+STORMWATER MANAGEMENT MEASURES 
+The ESD planning techniques and practices and structural stormwater management measures 
+established in this Ordinance and the Design Manual will be used, either alone or in combination 
+in a stormwater management plan. The applicant will demonstrate that ESD has been 
+implemented to the MEP before the use of a structural Best Management Plan is considered in 
+developing the stormwater management plan. 
+1. 
+ENVIRONMENTAL SITE DESIGN TECHNIQUES AND PRACTICES 
+(A) 
+The following planning techniques will be applied according to the Design 
+Manual to satisfy the applicable minimum control requirements established in 
+SECTION 5.8: 
+i. 
+Preserving and protecting natural resources 
+ii. 
+Conserving natural drainage patterns 
+iii. Minimizing impervious areas 
+iv. Reducing runoff volume 
+v. 
+Using ESD practices to maintain 100% of the annual predevelopment 
+groundwater recharge volume. 
+(B) 
+The following ESD practices will be designed according to the Design Manual to 
+satisfy the applicable minimum control requirements established in SECTION 
+5.8. 
+i. 
+Disconnection of rooftop runoff 
+ii. 
+Disconnection of non-rooftop runoff 
+iii. Sheet flow to conservation areas 
+iv. Rainwater harvesting, including rain barrels, rainwater tanks, and 
+cisterns. 
+v. 
+Submerged gravel wetlands 
+vi. Landscape infiltration 
+vii. Infiltration berms 
+viii. Dry wells 
+ix. Micro-bioretention 
+x. 
+Rain gardens 
+xi. Swales 
+xii. Enhanced Filters 
+xiii. Any practice approved by the Maryland Department of Environment
+
+<!-- page 309 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 5. STORMWATER MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     306 
+(C) 
+The use of ESD planning techniques and treatment practices specified in this 
+Section will not conflict with existing State law or local ordinances, regulations, 
+or policies.  The County will modify ordinances and codes to eliminate any 
+impediments to implementing ESD to the MEP according to the Design Manual. 
+2. 
+STRUCTURAL STORMWATER MANAGEMENT MEASURES 
+(A) 
+The following structural stormwater management practices will be designed 
+according to the Design Manual to satisfy the applicable minimum control 
+requirements established SECTION 5.8: 
+i. 
+Stormwater management ponds 
+ii. 
+Stormwater management wetlands 
+iii. Stormwater management infiltration 
+iv. Stormwater management filtering systems 
+v. 
+Stormwater management open channel systems 
+(B) 
+When selecting structural stormwater management practices, the applicant 
+will consider the performance criteria specified in the Design Manual with 
+regard to general feasibility, conveyance, pretreatment, treatment and 
+geometry, environment and landscaping, and maintenance. 
+(C) 
+Structural stormwater management practices will be selected to accommodate 
+the unique hydrologic or geologic regions of the State. 
+3. 
+ALTERNATIVE PRACTICES AND MEASURES. Alternative ESD planning techniques and 
+treatment practices and structural stormwater measures may be used for new 
+development runoff control if the practices and measures meet the performance criteria 
+in the Design Manual and all subsequent revisions and are approved by the Maryland 
+Department of Environment.  Practices used for redevelopment projects will be approved 
+by the County.   
+4. 
+RECORDATION OF PRACTICES AND MEASURES. ESD techniques and treatment practices 
+and structural stormwater management measures used to satisfy the minimum 
+requirements in SECTION 5.8 will be recorded in the land records of Kent County and 
+remain unaltered by subsequent property owners.  Prior approval from the County will 
+be obtained before any stormwater management practice is altered. 
+5. 
+MODIFICATION. For purposes of modifying the minimum control requirements or design 
+criteria, the applicant will submit an analysis to the County of the impacts of stormwater 
+flows downstream in the watershed.  The analysis will include hydrologic and hydraulic 
+calculations necessary to determine the impact of hydrographic timing modifications of 
+the proposed development upon a dam, highway, structure, or natural point of restricted 
+stream flow.  The point of investigation will be established with the concurrence of the 
+County downstream of the first downstream tributary whose drainage area equals or 
+exceeds the contributing area to the project or stormwater management facility.
+
+<!-- page 310 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 5. STORMWATER MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     307 
+5.10 
+SPECIFIC DESIGN CRITERIA 
+The basic design criteria, methodologies, and construction specifications, subject to the approval 
+of Kent County and the Maryland Department of Environment will be those of the Design Manual. 
+5.11 
+STORMWATER MANAGEMENT PLANS - REVIEW AND APPROVAL 
+1. 
+For any proposed development a phased stormwater management plan will be submitted 
+to the County for review and approval.  Unless otherwise determined by the County, plans 
+will be submitted for the concept, site design, and final stormwater management 
+construction.  When deemed appropriate by the County due to minor cumulative impacts 
+of the development and when the applicant has demonstrated that ESD standards have 
+been met to the MEP, the site design and final stormwater management construction 
+may be combined.  Site plans, subdivisions, and building permits with a total proposed lot 
+coverage of 15% and total land disturbance less than 20,000 square feet may combine all 
+review phases when the applicant has demonstrated that ESD standards have been met 
+to the MEP using the Standard Plan.  Sites Plans and building permits that meet the criteria 
+outlined on the Standard Stormwater Plan may utilize the Standard Stormwater 
+Management Plan. 
+2. 
+Conceptual stormwater management plans should be submitted with conceptual site or 
+subdivision plans and will include sufficient information for an initial assessment of the 
+proposed project and proposed stormwater.  The concept review process will review at a 
+conceptual level, the feasibility, design and environmental characteristics of the proposal 
+with a goal to ensure that significant natural areas are protected and to determine if 
+stormwater management can be provided according the Stormwater Management 
+Measures identified in SECTION 5.9. 
+3. 
+Following conceptual approval and where applicable in conjunction with the preliminary 
+site or subdivision plan, the applicant will submit a site development plan.  The site 
+development plan will include detailed designs for stormwater management and erosion 
+and sediment control.  The site development plan process will review the plan to ensure 
+that all options for implementing ESD have been exhausted and comments received 
+during conceptual review have been incorporated into the site development plan. 
+4. 
+Following site development plan approval and where applicable in conjunction with the 
+final site or subdivision plan and the sediment and erosion control plan, the applicant will 
+submit a final stormwater management plan.  The final stormwater management plan 
+will include stormwater construction drawings accompanied by a report that includes 
+sufficient information to evaluate the effectiveness of the proposed runoff control design.  
+The final stormwater plan process will review the plan and supporting documents for 
+compliance with all applicable regulations and to ensure that when structural practices 
+are used, all reasonable options for implementing ESD have been exhausted. 
+5. 
+The County will perform a comprehensive review of the stormwater management plans 
+for each phase of the site design.  Coordinated comments will be provided for each plan 
+phase that reflects input from all appropriate agencies including but not limited to the
+
+<!-- page 311 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 5. STORMWATER MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     308 
+Kent Soil and Water Conservation District, the Department of Planning, Housing, and 
+Zoning, and the Department of Public Works.  All comments will be addressed and 
+reflected in the next phase of project design. 
+6. 
+The stormwater management plan will not be considered approved without the inclusion 
+of the signature and date of the signature of the Kent County designee for approval of 
+stormwater management plans. 
+5.12 
+CONTENTS OF STORMWATER MANAGEMENT PLANS 
+1. 
+CONCEPT PLAN. A concept stormwater management plan will include: 
+(A) 
+Scale of 1 inch = 100 feet or greater detail  
+(B) 
+Vicinity map with site location clearly marked 
+(C) 
+North arrow 
+(D) 
+Existing natural features, water and other sensitive resources 
+(E) 
+Topography 
+(F) 
+Natural drainage patterns 
+(G) 
+Anticipated location of all proposed impervious areas, buildings, roadways, 
+parking, sidewalks, utilities, and other site improvements 
+(H) 
+Location of the proposed limit of disturbance, erodible soils, steep slopes, and 
+areas to be protected during construction 
+(I) 
+Preliminary estimates of stormwater management requirements, the selection 
+and location of ESD practices to be used, and the location of all points of 
+discharge from the site 
+(J) 
+A narrative that supports the concept design and describes how ESD will be 
+implemented to the MEP 
+(K) 
+Any other information required by the County 
+2. 
+SITE DEVELOPMENT PLAN. A site development plan will include: 
+(A) 
+Scale of 1 inch = 100 feet or greater detail  
+(B) 
+Vicinity map with site location clearly marked 
+(C) 
+North arrow 
+(D) 
+All the information provided in the concept stormwater management plan 
+(E) 
+Final layout 
+(F) 
+Exact impervious area locations and acreages 
+(G) 
+Proposed topography 
+(H) 
+Delineated drainage areas at all points of discharge from the site
+
+<!-- page 312 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 5. STORMWATER MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     309 
+(I) 
+Stormwater volume computations for ESD and quantity control 
+(J) 
+Preliminary erosion and sediment control plan that contains the construction 
+sequence, any phasing necessary to limit earth disturbances and impacts to 
+natural resources and an overlay showing the types and locations of ESD and 
+erosion and sediment control practices to be used 
+(K) 
+A narrative that supports the site development design, describes how ESD will 
+be used to meet the minimum control requirements, and justifies any proposed 
+structural stormwater management measures 
+(L) 
+Any other information required by the County 
+3. 
+FINAL STORMWATER PLAN. A final stormwater plan will be of sufficient detail to permit 
+all stormwater management approvals and permits to be issued and will include: 
+(A) 
+Final erosion and sediment control plans submitted according to COMAR 
+26.17.01.05 
+(B) 
+Include construction drawings 
+(C) 
+A report that includes sufficient information to evaluate the effectiveness of 
+the proposed runoff and control design.  The report will include but is not 
+limited to the following: 
+i. 
+Geotechnical investigations including soil maps, borings, site specific 
+recommendations, and any additional information necessary for the final 
+stormwater management design 
+ii. 
+Drainage area maps depicting predevelopment and post development 
+runoff flow path segmentation and land use 
+iii. Hydrologic computations of the applicable ESD and unified sizing criteria 
+according to the Design Manual for all points of discharge from the site 
+iv. Hydraulic and structural computations for all ESD practices and structural 
+stormwater management measures to be used 
+v. 
+Narrative that supports the final stormwater management design 
+vi. Any other information required by the County  
+(D) 
+Construction drawings that include but are not limited to the following: 
+i. 
+Vicinity Map 
+ii. 
+North arrow 
+iii. Existing and proposed topography  
+iv. Proposed drainage areas including areas necessary to determine 
+downstream analysis for proposed stormwater management facilities 
+v. 
+Proposed improvements including the location of buildings and other 
+structures, impervious surfaces, storm drainage facilities, and all grading
+
+<!-- page 313 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 5. STORMWATER MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     310 
+vi. Location of existing and proposed structures and utilities 
+vii. Existing and proposed easements and rights-of-ways 
+viii. Delineation of 100-year floodplains and onsite tidal and non-tidal 
+wetlands, where applicable 
+ix. Structural and construction details including representative cross-
+sections for all components of the proposed drainage system or systems 
+and stormwater management facilities 
+x. 
+All necessary construction specifications 
+xi. h) Sequence of construction 
+xii. Data for total site area, disturbed area, new impervious areas, and total 
+impervious areas 
+xiii. Table showing the ESD and unified sizing criteria volumes required in the 
+Design Manual 
+xiv. Table of materials to be used for stormwater management facility 
+planting 
+xv. All soil boring logs and locations 
+xvi. Inspection and maintenance schedule 
+xvii. Owner’s certification that all stormwater management construction will 
+be done according to the approved stormwater management plan. 
+xviii. 
+As-built certification signature block to be executed after project 
+completion 
+xix. Any other information required by the County 
+(E) 
+When the stormwater management plan involves direction of some or all 
+runoff off the site, it is the responsibility of the applicant to obtain from the 
+adjacent property owners any easements or other necessary property interests 
+concerning flowage of water.  Approval of a stormwater management plan 
+does not create or affect any right to direct runoff onto adjacent property 
+without the property owner’s permission. 
+5.13 
+PREPARATION OF STORMWATER MANAGEMENT PLANS 
+1. 
+Stormwater management plans will be prepared by a professional engineer, professional 
+land surveyor, or landscape architect licensed in the State of Maryland.   
+2. 
+If a stormwater BMP requires either a dam safety permit from the Maryland Department 
+of the Environment or small pond approval by the Kent Soil and Water Conservation 
+District, the stormwater management plan will be prepared by a professional engineer 
+licensed in Maryland.
+
+<!-- page 314 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 5. STORMWATER MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     311 
+5.14 
+PERMITS 
+A grading or building permit may not be issued for any parcel or lot unless final erosion and 
+sediment control and stormwater management plan has been approved County as meeting all 
+the requirements of this Ordinance and the Design Manual.  Where appropriate, a building 
+permit may not be issued without: 
+1. 
+Recorded easements for the stormwater management facility and easements to provide 
+adequate access for inspection and maintenance from a public right of way. 
+2. 
+A recorded stormwater management maintenance agreement as described in SECTION 
+5.22. 
+3. 
+A performance bond, an irrevocable letter of credit or other surety; as described in this 
+Ordinance. 
+4. 
+Permission from adjacent property owners, as may be required. 
+5.15 
+PERMIT AND REVIEW FEES 
+1. 
+The County Commissioners will establish a schedule of fees and collection procedure for 
+stormwater management review and permits.  Permits fees will be based on the relative 
+complexity of the project and may cover the cost of plan review, administration and 
+management of the permit process, and inspection of all projects subject to this 
+Ordinance. 
+2. 
+No permits will be issued, nor action taken on amendments or other matters pertaining 
+to this Ordinance, until the fee has been paid in full. 
+5.16 
+SUSPENSION AND REVOCATION 
+Any grading or building permit issued by Kent County may be suspended or revoked after written 
+notice is given to the permittee for any of the following reasons: 
+1. 
+Any violation(s) of the conditions of the stormwater management plan approval. 
+2. 
+Changes in site runoff characteristics upon which an approval or waiver was granted. 
+3. 
+Construction is not in accordance with the approved plans. 
+4. 
+Non-compliance with correction notice(s) or stop-work order(s) issued for the 
+construction of the stormwater management practice. 
+5. 
+An immediate danger exists in a downstream area in the opinion of the County. 
+5.17 
+CONDITIONS FOR APPROVAL 
+In granting the plan approval, the County may impose such conditions thereto as may be deemed 
+necessary to ensure compliance with the provisions of this Ordinance and the preservation of the 
+public health and safety.
+
+<!-- page 315 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 5. STORMWATER MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     312 
+5.18 
+PERFORMANCE BONDS 
+The developer is required to obtain a surety, irrevocable letter of credit, or other means of 
+security acceptable to Kent County and payable to the County Commissioners of Kent County, 
+prior to the issuance of any building and/or grading permit for construction of a development 
+requiring stormwater management.  The amount of the security will not be less than 125% of the 
+total estimated construction cost of all stormwater management facilities and practices.  The 
+security so required in this Section will include provisions relative to forfeiture for failure to 
+complete work specified in the approved stormwater management plan, compliance with all the 
+provisions of this Section and other applicable laws and regulations, and any time limitations.  
+The security will not be fully released without a final inspection of the completed work by Kent 
+County, submission of “as-built” plans, and certification of completion by the County, that all 
+stormwater management facilities and practices as being in compliance with the approved plan 
+and the provisions of this Section.  A provision may be made for partial release of the amount of 
+the bond pro-rata upon completion and acceptance of the various stages of development as 
+specifically delineated, described, and scheduled on the required plans and specifications.  The 
+provision for partial release of the surety will be specified by Kent County in writing prior to 
+stormwater management plan approval.  The developer will notify the County upon completion 
+of each stage that is ready for inspection. 
+5.19 
+INSPECTIONS 
+1. 
+INSPECTION SCHEDULE AND REPORTS 
+(A) 
+The owner/developer will notify the County at least 48 hours before beginning 
+any work in conjunction with site development, the stormwater management 
+plan and completion of construction. 
+(B) 
+Regular inspections will be made and documented for each ESD planning 
+technique and practice at the stages of construction specified in the Design 
+Manual by Kent County, its authorized representative, or a certified engineer 
+license in the State of Maryland.  At a minimum, all ESD and other nonstructural 
+practices will be inspected upon completion of final grading, the establishment 
+of permanent stabilization, and before issuance of use and occupancy 
+approval. 
+(C) 
+Written reports will be prepared for every inspection and will include: 
+i. 
+The date and location of the inspection 
+ii. 
+Whether construction was in compliance with the approved stormwater 
+management plan 
+iii. Any variations from the approved construction specifications 
+iv. Any violations that exist
+
+<!-- page 316 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 5. STORMWATER MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     313 
+(D) 
+The owner/developer and on-site personnel will be notified in writing when 
+violations are observed.  Written notification will describe the nature of the 
+violation and the required corrective action. 
+(E) 
+Work will not proceed until the work previously complete is approved by the 
+appropriate inspector and the inspector furnishes the developer with the 
+results of the inspection reports.  The inspector should provide copies of the 
+inspection report to the developer as soon as possible after completion of each 
+required inspection.   
+2. 
+INSPECTION REQUIREMENTS DURING CONSTRUCTION 
+At a minimum, regular inspections will be made and documented at the following specific stages 
+of construction: 
+(A) 
+Ponds: 
+i. 
+Upon completion of excavation to sub-foundation and when required, 
+installation of structural supports or reinforcement for structures including 
+but not limited to: (1) Core trenches for structural embankments; (2) Inlet 
+and outlet structures, anti-seep collars or diaphragms, and watertight 
+connectors; (3) Trenches for enclosed storm drainage facilities 
+ii. 
+During placement of structural fill, concrete, and installation of piping and 
+catch basins 
+iii. During backfill of foundations and trenches 
+iv. During embankment construction 
+v. 
+On completion of final grading, establishment of permanent stabilization 
+(B) 
+Wetlands - At all stages specified for pond construction, during and after 
+wetlands reservoir planting, and during the second growing season to verify a 
+vegetation survival rate of at least 50%. 
+(C) 
+Infiltration trenches: 
+i. 
+During excavation to subgrade 
+ii. 
+During placement and backfill of under drain systems and observation 
+wells 
+iii. During placement of geotextiles and all filter media 
+iv. During construction of appurtenant conveyance systems such as diversion 
+structures, pre-filters and filters, inlets, outlets, and flow distribution 
+structures 
+v. 
+Upon completion of final grading and establishment of permanent 
+stabilization 
+(D) 
+Infiltration basins - At all stages specified for pond construction, during 
+placement of and backfill of under drainage system.
+
+<!-- page 317 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 5. STORMWATER MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     314 
+(E) 
+Filtering Systems: 
+i. 
+During excavation to subgrade 
+ii. 
+During placement and backfill of under drain systems 
+iii. During placement of geotextiles and all filter media 
+iv. During construction of appurtenant conveyance systems such as diversion 
+structures, pre-filters, and filters, inlets, outlets, and flow distribution 
+structures 
+v. 
+Upon completion of final grading and establishment of permanent 
+stabilization 
+(F) 
+Open Channel Systems: 
+i. 
+During excavation to subgrade 
+ii. 
+During placement and backfill of under drain systems for dry swales 
+iii. During installation of diaphragms, check dams, or weirs 
+iv. Upon completion of final grading and establishment of permanent 
+stabilization 
+(G) 
+Environmental Site Design Practices – At the stage of construction specified in 
+the Design Manual for each ESD planning technique and practice and at a 
+minimum upon completion of final grading, the establishment of permanent 
+stabilization and before issuance of use and occupancy approval. 
+5.20 
+AS-BUILT PLANS 
+Once construction is complete, “as-built” plan certification will be submitted by a professional 
+engineer or professional land surveyor licensed in the State of Maryland to ensure that ESD 
+techniques, treatment practices, and structural stormwater management practices and 
+conveyance systems comply with the specifications contained in the approved plan. The “as-
+built” plan will compare the approved plan with what was constructed.  As-built plans shall certify 
+that all constructed elements conform to the dimensions, intent, and function of the approved 
+plan, denoting any deviations in constructed elements and/or existing conditions of the property.  
+At a minimum, “as-built” certification will include a set of drawings comparing the approved plan 
+with what was constructed.  Other information will be submitted as required by the County.   
+The Department may also engage third-party professionals to review said drawings to ensure 
+compliance with the regulations in this Section, the Land Use Ordinance in general, and any 
+applicable federal, State, or other laws, rules, and regulations. The costs for any third-party 
+professionals will be paid by the applicant or property owner of record of the subject property. 
+5.21 
+NOTICE TO THE MARYLAND DEPARTMENT OF THE ENVIRONMENT 
+Within 45 days of construction, the County will submit a notice of construction completion to the 
+Maryland Department of the Environment on a form supplied by the Maryland Department of
+
+<!-- page 318 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 5. STORMWATER MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     315 
+the Environment for each structural stormwater management practice.  The type, number, total 
+drainage area, and total impervious area treated by all ESD techniques and practices will be 
+reported to the Maryland Department of the Environment.  A notice of construction completion 
+will be sent to the Kent Soil and Water Conservation District when BMPs requiring District 
+approval are constructed. 
+5.22 
+MAINTENANCE 
+1. 
+Maintenance Inspection 
+(A) 
+The County will ensure that preventive maintenance is performed by inspecting 
+all ESD treatment systems and structural stormwater management measures.  
+Inspections will occur during the first year of operation and then at least once 
+every three years thereafter.  A maintenance agreement between the property 
+owner and Kent County will be executed for privately owned ESD treatment 
+practices and structural stormwater management measures as described in 
+this Section. 
+(B) 
+Inspection reports will be maintained by the County for all ESD treatment 
+systems and structural stormwater management measures.  Inspection reports 
+will include the following: 
+i. 
+Date of inspections and names of inspectors 
+ii. 
+An assessment of the quality of the stormwater management system 
+related to ESD treatment practice efficiency and the control of runoff to 
+the MEP 
+iii. The condition of: (1) vegetation or filter media; (2) fences or other safety 
+devices; (3) spillways, valves, or other control structures; (4) slopes, 
+embankments, and safety benches; (5) reservoir or treatment areas; (6) 
+inlet and outlet channels or structures; (7) underground drainage; (8) 
+sediment and debris accumulation in storage or forebay areas; (9) any 
+nonstructural practice to the extent possible; (10) any other item that 
+could affect the proper function of the stormwater management system 
+iv. Description of needed maintenance 
+(C) 
+After notification is provided to the owner of the inspection results, the owner 
+will have 30 days, or other time frame to which the County, and the owner 
+mutually agree to correct the deficiencies.  The County will then conduct an 
+inspection to ensure completion of the repairs.   
+(D) 
+Failure to complete the repairs or repairs found to be improperly completed 
+will be considered violations and subject to the provisions of this Ordinance. 
+(E) 
+If, after an inspection by the County, the condition of a stormwater 
+management facility presents an immediate danger to the public health or 
+safety, because of an unsafe condition or improper construction, or poor
+
+<!-- page 319 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 5. STORMWATER MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     316 
+maintenance, the County, will take such action as may be necessary to protect 
+the public and make the facility safe.  Any cost incurred by the County will be 
+assessed against the owner(s). 
+2. 
+Maintenance Agreement 
+(A) 
+Prior to the issuance of any building permit for which stormwater management 
+is required, the County will require the applicant or owner to execute an 
+inspection and maintenance agreement binding on all subsequent owners of 
+land served by the private stormwater management facility.  Such agreement 
+will provide for access to the facility at reasonable times for regular inspection 
+by the County, and for regular or special assessments of property owners to 
+ensure that the facility is maintained in proper working condition to meet 
+design standards and any provisions established. 
+(B) 
+The agreement will be recorded by the applicant and/or owner with the Kent 
+County Clerk of Court.  A copy of the recorded agreement will be returned to 
+the Department. 
+(C) 
+The agreement will also provide that if, after notice by the County, to correct a 
+violation requiring maintenance work, satisfactory corrections are not made by 
+the owner(s) within a reasonable period of time (thirty (30) days maximum), 
+the County, may perform all necessary work to place the facility in proper 
+working condition.  The owner(s) of the facility will be assessed the cost of the 
+work and any penalties, and there will be a lien on the property, which may be 
+placed on the tax bill and collected as ordinary taxes by Kent County. 
+3. 
+Maintenance Responsibility 
+(A) 
+The owner of the property on which work has been done pursuant to this 
+Ordinance for private stormwater management facilities, or any other person 
+or agent in control of such property, will maintain in good condition and 
+promptly repair and restore all ESD practices, state grade surfaces, walls, 
+drains, dams and structures, vegetation, erosion and sediment control 
+measures, and other protective devices in perpetuity.  Such repairs or 
+restoration and maintenance will be in accordance with previously approved 
+or newly submitted plans.   
+(B) 
+A maintenance schedule will be developed for the life of any stormwater 
+management facility or system of ESD practices and will state the maintenance 
+to be completed, the time period for completion and who will perform the 
+maintenance.  This maintenance schedule will be on the stormwater 
+management plan.
+
+<!-- page 320 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 6. FLOODPLAIN MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     317 
+SECTION 6 
+ 
+FLOODPLAIN MANAGEMENT  
+6.1 
+STATEMENT OF INTENT 
+The purpose of the floodplain management Section is to provide a unified, comprehensive 
+approach to floodplain management which addresses the natural floodplain functions and 
+encourages the use of appropriate construction practices that prevent or minimize flood damage.  
+In combination with the floodplain design standards found in Article II of this Ordinance, these 
+regulations address the requirements of the Federal and State programs concerned with 
+floodplain management; namely: the National Flood Insurance Program (44 CFR 59-79), the 
+Maryland Waterway Construction Permit Program for Non-tidal Floodplains, the Maryland Tidal 
+and Non-tidal Wetlands Permit Programs, the U.S. Army Corps of Engineers’ Section 10 and 404 
+Permit Programs, and the Maryland Coastal Zone Management Program.  
+6.2 
+ESTABLISHMENT OF FLOODPLAIN DISTRICT 
+1. 
+Identification of flood zones.  The regulatory floodplain will be those areas of Kent County, 
+Maryland, which are subject to the 1-percent annual chance (100-year) flood as 
+delineated on the most recent revision of the community's Flood Insurance Rate Maps 
+(FIRMs) and Flood Insurance Study (FIS) for Kent County, Maryland and incorporated areas 
+dated June 9, 2014 prepared by the Federal Emergency Management Agency (FEMA).  
+Areas along non-tidal streams that do not have FEMA delineations as described above are 
+subject to regulation by this Ordinance and the State. 
+2. 
+The Flood Insurance Rate Maps (FIRMs) and Flood Insurance Studies (FIS), and all 
+notations, dimensions, references, and symbols thereon, will be considered a part of this 
+Ordinance and will be filed as a part of this Ordinance with the Department.  Copies of 
+the FIRMs and FIS will be available for inspection in the Department. 
+3. 
+The floodplain will be comprised of the following subdivisions: 
+(A) 
+Non-tidal floodplains: These consist of the floodway and floodway fringe.  Non-
+tidal floodplains may have detailed engineering study data, profiles, and water 
+surface elevations or may have approximate delineations only.  For 
+development in Special Flood Hazard Areas of non-tidal waters of the State with 
+Base Flood Elevations (BFE) but no designated floodways, the cumulative effect 
+of all past and projected development will not increase the BFE by more than 1 
+foot. 
+(B) 
+Tidal floodplains: Those areas subject to coastal or tidal flooding by the 1-
+percent annual chance (100-year) flood.  These areas are flooded due to high 
+tides, hurricanes, tropical storms and steady on-shore winds. 
+(C) 
+Coastal high hazard areas: Those areas subject to coastal or tidal flooding with 
+the addition of high velocity water and wind action.  These areas are designated 
+as V-Zones on the Flood Insurance Rate Maps.
+
+<!-- page 321 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 6. FLOODPLAIN MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     318 
+(D) 
+Shallow Flood Zones (Zone AO): Those areas of shallow flooding, with flood 
+depths of 1 to 3 feet (usually areas of ponding or sheet flow on sloping terrain), 
+with or without BFEs of designated flood depths.  
+4. 
+Floodplain Zone Determination. 
+(A) 
+The Planning Director or Planning Director’s designee will determine the 
+floodplain zone in which the development activity is proposed using the FIRMs 
+and FIS if applicable.  Without prior approval from FEMA, the community will 
+use no other data to enforce floodplain management regulations.  Where map 
+boundaries and elevations disagree, elevations prevail, with approval from 
+FEMA through the issuance of a Letter of Map Change or Amendment. 
+(B) 
+The Planning Director of the Planning Director’s designee will submit to FEMA, 
+or require applicants to submit to FEMA, data and information necessary to 
+maintain FIRMs, including hydrologic and hydraulic engineering analyses 
+prepared by or for Kent County, within six months after such data and 
+information becomes available if the analyses indicate changes in Base Flood 
+Elevations or boundaries. 
+5. 
+Approximate Floodplain Determination.  For development proposed in the approximate 
+floodplain (no water surface elevations or floodway data provided), the applicant will use 
+the best available information to determine the elevation of the 1-percent annual chance 
+(100-year) flood and the extent of the floodway, and will delineate these on the site plan 
+submitted for approval.  For new subdivisions, the applicant will have the 1-percent 
+annual chance (100-year) flood elevations certified by a registered professional engineer 
+based on hydrologic and hydraulic analyses which include a floodway analysis.  
+6. 
+Unmapped Streams.  In cases in which development is proposed in the vicinity of 
+unmapped streams which have no delineated 1-percent annual chance (100-year) 
+floodplain, a 100-foot flood protection setback from the banks of the stream will be used.  
+State permits may be required and applicants are advised to seek a determination from 
+the State. 
+6.3 
+DEVELOPMENT REGULATIONS 
+1. 
+General. In order to prevent excessive flood damage, to determine whether proposed 
+activities will be reasonably safe from flooding, to implement construction methods and 
+practices which minimize flood damage, and to allow for the protection of the natural and 
+beneficial floodplain functions, all development, new construction, and substantial 
+improvements to existing structures in all floodplain zones will comply with the 
+requirements of this Section and those found in Article II.  In the event that a structure is 
+in more than one (1) zone, the more stringent provision will apply to the entire structure. 
+ 
+2. 
+Watercourses. In all floodplain zones, any development which proposes to alter a 
+watercourse will obtain a variance.  All conditions for encroachment in the floodway will
+
+<!-- page 322 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 6. FLOODPLAIN MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     319 
+be met and adverse impacts to aquatic resources will be minimized.  Adjacent 
+communities and property owners, the U.S. Army Corps of Engineers, FEMA, and MDE 
+will be notified by the applicant prior to any modification of a watercourse.  Any activity 
+falling within the 100-year non-tidal floodplain may require a waterway construction 
+permit from the Maryland Department of the Environment. 
+ 
+3. 
+Non-tidal and Tidal Floodplains (Zones A, AE, and A1-30) 
+(A) 
+General development will not occur in the floodplain where alternative 
+locations exist.  Before a permit is issued, the applicant will demonstrate that 
+new structures cannot be located out of the floodplain and that encroachments 
+onto the floodplain are minimized 
+(B) 
+Elevation Requirements, Residential Structures. 
+i. 
+Basements are prohibited.  Enclosures below the Flood Protection 
+Elevation (three feet above the elevation of the 1-percent annual chance 
+(100-year) flood) will be constructed with water equalizing vents to meet 
+the specification found in SECTION 6.4. 
+ii. 
+The elevation of the lowest floor of all new or substantially improved 
+structures, including manufactured homes, will be elevated to or above the 
+Flood Protection Elevation (three feet above the elevation of the 1-percent 
+annual chance (100-year) flood).  In non-tidal floodplains, horizontal 
+expansions which increase the footprint and that are less than substantial 
+will also have the lowest floor elevated to or above the Flood Protection 
+Elevation.  A registered surveyor or professional engineer will certify 
+elevation of the lowest floor on the Elevation Certificate after the lowest 
+floor is in place. An elevation certificate should be submitted at the time 
+of finished construction prior to any certificate of occupancy being issued.  
+iii. Improvements in tidal floodplains which are less than substantial will be 
+constructed to minimize damage during flooding or will be elevated to the 
+greatest extent possible. 
+(C) 
+Elevation Requirements, Non-residential Structures.   
+i. 
+All new or substantially improved non-residential structures will either be 
+elevated as required for residential structures or will be floodproofed.  
+Basements are prohibited.  Enclosures below the Flood Protection 
+Elevation (three feet above the elevation of the 1-percent annual chance 
+(100-year) flood) will be constructed with water equalizing vents to meet 
+the specification found in SECTION 6.4. 
+ii. 
+Horizontal expansions in the non-tidal floodplain which increase the 
+footprint and that are less than substantial will also have the lowest floor 
+elevated to or above the Flood Protection Elevation (three feet above the 
+elevation of the 1-percent annual chance / 100-year flood).
+
+<!-- page 323 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 6. FLOODPLAIN MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     320 
+iii. In non-tidal floodplains, basements and floodproofing are prohibited. 
+iv. Floodproofing designs will insure that areas below the Flood Protection 
+Elevation (three feet above the elevation of the 1-percent annual chance 
+(100-year) flood) are watertight with walls substantially impermeable to 
+the passage of water and with structural components capable of resisting 
+hydrostatic and hydrodynamic loads and effects of buoyancy.   
+v. 
+When the floodproofing option is chosen, a Floodproofing Certificate will 
+be completed by a registered professional engineer or architect.  If a 
+Floodproofing Certificate is not provided, then an Elevation Certificate will 
+be completed by a registered surveyor or professional engineer. 
+(D) 
+Fill 
+i. 
+An applicant will demonstrate that the fill will not affect the flood storage 
+capacity or increase flooding onto neighboring properties. 
+ii. 
+In the event that structures on adjacent properties are known or 
+determined to be subject to flooding under current conditions, the 
+Planning Director or the Planning Director’s designee may require 
+submission of hydrologic and hydraulic analysis of the effects of the 
+proposed fill.  All fill will meet the standards set forth in this Ordinance. 
+(E) 
+Subdivisions 
+i. 
+Non-tidal floodplains.  To avoid flood damage and to protect the natural 
+and beneficial floodplain functions, new flood-prone building sites will not 
+be permitted in non-tidal floodplains.  Each new lot will have a suitable 
+building site outside the floodplain.  Whenever possible, development 
+should be located outside the floodplain.  An access road, constructed 
+above the elevation of the 1-percent annual chance (100-year) floodplain 
+will be provided. 
+ii. 
+The applicant will submit a plan which demonstrates that all building sites 
+located outside of the 100- year floodplain, and that the floodplain areas 
+are protected in their natural state. 
+iii. Tidal floodplains.  New subdivisions in tidal floodplains will be designed to 
+develop land outside the floodplain whenever possible.  An access road 
+constructed above the elevation of the 1-percent annual chance (100-year) 
+flood will be provided whenever possible. 
+iv. Subdivision proposals and development proposals will minimize flood 
+damage and have adequate drainage paths provided to reduce exposure 
+to flood hazards and to guide floodwaters around and away from proposed 
+structures. 
+4. 
+Floodway
+
+<!-- page 324 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 6. FLOODPLAIN MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     321 
+(A) 
+Floodways will be preserved to carry the discharge of the 1-percent annual 
+chance (100-year) flood.  Floodways present increased risks to human life and 
+property because of their relatively faster and deeper flowing waters.  In a 
+regulatory floodway, any encroachment is prohibited which would cause any 
+increase in the base flood level unless hydrologic and hydraulic analyses prove 
+that the proposed encroachment would not increase flood levels during the 
+base flood discharge. 
+(B) 
+Fill will not be permitted. 
+(C) 
+New structures will not be permitted. 
+(D) 
+New development will not be permitted where alternatives exist elsewhere or 
+if any increase in the water surface elevations of the 1-percent annual chance 
+(100-year) flood will occur. 
+(E) 
+Development in the floodway which may result in any increase in water surface 
+elevations or change to the floodway will be submitted to FEMA for a 
+conditional letter of map revision.  Hydrologic and hydraulic analysis on existing 
+floodway models and performed in accordance with standard engineering 
+practices and certified by a registered professional engineer will be submitted.  
+Failure to receive this conditional letter of map revision will be grounds for 
+denial of a permit. 
+(F) 
+Alternative analysis requirement.  An alternative analysis will be submitted to 
+the Department before a permit will be issued.  The alternative analysis will 
+demonstrate that: 
+i. 
+No reasonable alternative exists outside the floodway. 
+ii. 
+Encroachment in the floodway is the minimum necessary. 
+iii. The development will withstand the 1-percent annual chance (100-year) 
+flood without significant damage. 
+iv. The development will not increase downstream or upstream flooding or 
+erosion. 
+(G) 
+Existing structures.  Existing structures in the floodway will be substantially 
+improved only by variance and if they can be brought into conformance with 
+this Ordinance without increasing the footprint.  Minor additions (less than 
+substantial) will be elevated to the Flood Protection Elevation (three feet above 
+the flood elevation) on pilings or columns.  In the event of substantial damage 
+or replacement, the applicant will submit an alternative analysis to determine 
+if the structure can be relocated to a less hazardous site.  Where replacement 
+structures cannot be relocated, they will be limited to the footprint of the 
+previous structure and will comply with the elevation requirements of this 
+Ordinance.  Permits for incremental improvements and additions will be 
+tracked by the Department, and if cumulative improvements constitute
+
+<!-- page 325 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 6. FLOODPLAIN MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     322 
+substantial improvement, no further permits may be issued unless the 
+structure conforms to the provisions of this Ordinance. 
+(H) 
+Maintenance of natural channel.  The natural watercourse will be maintained 
+for protection of aquatic resources.  A variance is required for alteration of 
+watercourses.  Any variance issued will assure that the conditions for 
+encroachment in the floodway are met, adverse impacts to aquatic resources 
+are minimized, and the public good outweighs the adverse impacts.  The 
+provisions of SECTION 6.3.2 pertaining to altering a watercourse will be met. 
+(I) 
+Obstructions.  Structures or fill which may impede, retard, or change the 
+direction of the flow of floodwaters, or any materials that may be carried 
+downstream to cause damage will not be placed in the floodway.  Fences, 
+except two wire fences, will not be placed in the floodway. 
+(J) 
+Construction of roads, bridges, culverts, dams and in-stream ponds.  
+Construction of roads, bridges, culverts, dams and in-stream ponds in non-tidal 
+waters of the State will not be approved unless they comply with this Section 
+and the applicant has received a permit from MDE. 
+5. 
+Coastal high hazard areas (V-Zones and Coastal A Zones) 
+(A) 
+New development will not be permitted in the Coastal High Hazard Area where 
+the action of wind and waves, in addition to tidal flooding, is a factor unless the 
+applicant demonstrates that: 
+i. 
+No reasonable alternative exists outside the Coastal High Hazard Area; 
+ii. 
+The encroachment into the Coastal High Hazard Area is the minimum 
+necessary; 
+iii. The development will withstand the 100-year wind and water loads 
+without damage; 
+iv. The development will not create an additional hazard to existing 
+structures; and 
+v. 
+Any natural dune system will not be disturbed. 
+(B) 
+New and substantially improved structures. 
+i. 
+All new or substantially improved structures will be elevated on 
+adequately anchored pilings or columns to resist flotation, collapse, and 
+lateral movement due to the effects of the one-hundred-year water loads 
+and wind loads acting simultaneously on all building components.  Water 
+loading values will be those associated with the base flood, and wind 
+loading values will be those required by local building standards.  The 
+bottom of the lowest horizontal structural member supporting the lowest 
+floor will be elevated to three feet above the Base Flood Elevation.  A 
+registered professional engineer or architect will certify that building 
+designs, elevations and anchoring have been designed to withstand the
+
+<!-- page 326 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 6. FLOODPLAIN MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     323 
+water and wind loads.  The use of slabs or other at grade foundation 
+systems will be prohibited. 
+ii. 
+The space below the Flood Protection Elevation (three feet above the 
+elevation of the 1-percent annual chance (100-year) flood) will be free of 
+obstruction or may be enclosed with open wood lattice, insert screening 
+or breakaway walls. 
+iii. Breakaway walls will be designed to collapse under a wind and water 
+load less than would occur during the 1-percent annual chance (100-year) 
+flood, and have a design safe loading resistance of not less than ten 
+pounds and no more than twenty pounds (20) per square foot.  Glass 
+walls will not be considered breakaway walls.  Enclosed areas below the 
+Flood Protection Elevation will be used solely for the parking of vehicles, 
+limited storage, and building access.  If such areas are enclosed, a 
+Declaration of Land Restrictions will be signed.  Electrical, mechanical, 
+and plumbing system components will not be mounted on or penetrate 
+through walls that are designed to break away under flood loads. 
+(C) 
+Manufactured homes and recreational vehicles.  Manufactured homes will not 
+be permitted in the Coastal High Hazard Area.  Recreational vehicles will meet 
+the requirements of SECTION 6.55 
+(D) 
+Fill and excavation.  Fill will not be used for the structural support of buildings.  
+Excavation under existing structures or excavation within any enclosed space 
+will be prohibited.  Minor grading, and the placement of minor quantities of 
+fill, will be permitted for landscaping and for drainage purposes under and 
+around buildings and for support of parking slabs, pool decks, patios, and 
+walkways. 
+(E) 
+Location of structures.  New construction within the reach of mean high tide is 
+prohibited.  Alteration of the dune system is prohibited. 
+(F) 
+Existing structures.  Existing structures will not be substantially improved or 
+expanded vertically or horizontally unless the entire foundation system is 
+certified by a professional engineer or architect as capable of supporting the 
+existing building and the proposed improvement during the 1-percent annual 
+chance (100-year) flood as specified in SECTION 6.3.56.55.  Permits for 
+incremental improvements will be tracked, and when cumulative 
+improvements constitute substantial improvement, the entire building will 
+comply with SECTION 6.3.56.55. 
+(G) 
+Decks and patios. In addition to the requirements of the building code or the 
+residential code, decks and patios will be located, designed, and constructed in 
+compliance with the following: 
+i. 
+A deck that is structurally attached to a building or structure will have the 
+bottom of the lowest horizontal structural member at or above the Flood
+
+<!-- page 327 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 6. FLOODPLAIN MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     324 
+Protection Elevation and any supporting members that extend below the 
+design flood elevation will comply with the foundation requirements that 
+apply to the building or structure, which will be designed to 
+accommodate any increased loads resulting from the attached deck. 
+ii. 
+A deck or patio that is located below the Flood Protection Elevation 
+(three feet above the elevation of the 1-percent annual chance (100-year) 
+flood).will be structurally independent from structures and their 
+foundation systems and will be designed and constructed either to 
+remain intact and in place during base flood conditions or to break apart 
+into small pieces that will not cause structural damage to adjacent 
+elevated structures. 
+iii. A deck or patio that has a vertical thickness of more than 12 inches or 
+that is constructed with more than the minimum amount of fill that is 
+necessary for site drainage will not be approved unless an analysis 
+demonstrates no harmful diversion of floodwaters or wave run-up and 
+wave reflection that would increase damage to adjacent elevated 
+structures. 
+iv. A deck or patio that has a vertical thickness of 12 inches or less and that 
+is at natural grade or on fill material that is similar to and compatible with 
+local soils and is the minimum amount necessary for site drainage may be 
+approved without requiring analysis of the impact on diversion of 
+floodwaters or wave run-up and wave reflection. 
+6. 
+Areas of shallow flooding (Zone AO). In areas of shallow flooding (Zone AO), have the 
+lowest floor (including basement) elevated at least as high above the highest adjacent 
+grade as the depth number specified in feet on the FIRM plus three (3) feet, or at least 
+four (4) feet if a depth number is not specified; and: 
+(A) 
+Have enclosures below the lowest floor, if any, that comply with the 
+requirements of Section 10.4; or 
+(B) 
+If proposed to be elevated on fill, meet the limitations on fill in Section 10.3.3.d 
+7. 
+Critical and Essential Facilities. Critical and essential facilities will:  
+(A) 
+Not be located in coastal high hazard areas (V Zones), Coastal A Zones or 
+floodways. 
+(B) 
+If located in flood hazard areas other than coastal high hazard areas, Coastal A 
+Zones and floodways, be elevated to the higher of the elevation required by 
+these regulations plus one (1) foot, the elevation required by the building code, 
+or the elevation of the 0.2 percent chance (500-year) flood.
+
+<!-- page 328 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 6. FLOODPLAIN MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     325 
+6.4 
+DESIGN STANDARDS 
+1. 
+Placement of Buildings and Materials – In general, buildings and accessory structures 
+should be located entirely out of the floodplain, out of the flood protection setback, or on 
+land that is least susceptible to flooding.  All structures permitted in the floodplain will be 
+oriented so as to offer the least resistance to the flow of floodwaters.  Materials which 
+are buoyant, flammable, explosive, hazardous to health, or which at times of flooding may 
+be injurious to human, animal, or plant life, will not be stored below the Flood Protection 
+Elevation (three feet above the elevation of the 1-percent annual chance (100-year) 
+flood). 
+2. 
+Enclosures below Lowest Floor – Buildings which have been elevated and have fully 
+enclosed areas below the Flood Protection Elevation (three feet above the elevation of 
+the 1-percent annual chance (100-year) flood), as well as garages and accessory structures 
+which are not elevated will be constructed with water equalizing vents which meet or 
+exceed the following standards: 
+(A) 
+A minimum of two (2) openings on different walls having a total net area of not 
+less than one square (1) inch for every square foot of enclosed area subject to 
+flooding or an engineered opening certified by a licensed professional; 
+(B) 
+The bottom of all openings will be no higher than one foot above grade; and 
+(C) 
+Openings may be equipped with screens, louvers, valves, or other coverings or 
+devices provided that they permit the automatic entry and exit of floodwaters 
+to equalize hydrostatic forces on the walls. 
+(D) 
+Fully enclosed areas below the Flood Protection Elevation (three feet above the 
+elevation of the 1-percent annual chance (100-year) flood) will be used solely 
+for parking of vehicles, access to the building, or limited storage.  If such areas 
+are enclosed, a Declaration of Land Restriction will be signed by the applicant. 
+(E) 
+In coastal high hazard areas, enclosures below the Flood Protection Elevation 
+(three feet above the elevation of the 1-percent annual chance (100-year) 
+flood) will comply with the provisions of SECTION 6.3 and 6.35. 
+3. 
+Manufactured Homes and Manufactured Home Parks – New manufactured homes and 
+manufactured home parks will be prohibited in the Coastal High Hazard Area and in the 
+floodway.  In other floodplain zones, all new, replacement, or substantially improved 
+manufactured homes, whether in a manufactured home park or not, will comply with 
+SECTION 6.3. 
+(A) 
+Methods of anchoring will include the use of over the top and frame ties to 
+ground anchors.  Pilings or columns will be used to maintain the storage 
+capacity of the floodplain.  Concrete block support pilings will be reinforced by 
+placing reinforcing bars inside and extending them into the footing, filling the 
+hollows with cement, and using mortar to cement the blocks together.  FEMA 
+Publication 85, “Protecting Manufactured Homes from Floods and Other 
+Hazards,” should be consulted for specific recommendations.
+
+<!-- page 329 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 6. FLOODPLAIN MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     326 
+(B) 
+Manufactured homes repaired or replaced due to substantial flooding or other 
+causes will be considered new structures and will fully comply with SECTION 
+6.3. 
+(C) 
+Owners of manufactured home parks or subdivisions that are partially or fully 
+within the floodplain will file an evacuation plan with the Director of Emergency 
+Management.  New manufactured home parks will provide an access road 
+elevated to the Flood Protection Elevation (three feet above the elevation of 
+the 1-percent annual chance (100-year) flood). 
+4. 
+Anchoring – All structures will be firmly anchored in accordance with acceptable 
+engineering practices to prevent flotation, collapse, and lateral movement during 
+flooding.  All air ducts, large pipes and storage tanks located below the Flood Protection 
+Elevation (three feet above the elevation of the 1-percent annual chance (100-year) flood) 
+will be firmly anchored to resist flotation. 
+5. 
+Utilities 
+(A) 
+Electric.  Distribution panel boxes will be installed at least two (2) feet above 
+the Flood Protection Elevation.  All outlets and electrical installations, such as 
+heat pumps, air conditioners, water heaters, furnaces, generators, and 
+distribution systems will be installed at or above the Flood Protection Elevation 
+(three feet above the elevation of the 1-percent annual chance (100-year) 
+flood). 
+i. 
+Plumbing.  Toilets, sinks, showers, water heaters, pressure tanks, 
+furnaces, and other permanent plumbing installations will be installed at 
+or above the Flood Protection Elevation (three feet above the elevation of 
+the 1-percent annual chance (100-year) flood). 
+ii. 
+Gas and liquid storage.  Meters and appliances will be installed at or 
+above the Flood Protection Elevation (three feet above the elevation of 
+the 1-percent annual chance (100-year) flood): (1) Underground tanks in 
+flood hazard areas will be anchored to prevent flotation, collapse or 
+lateral movement resulting from hydrostatic loads, including the effects 
+of buoyancy, during conditions of the base flood. (2) Above-ground tanks 
+in flood hazard areas will be anchored to a supporting structure and 
+elevated to or above the Base Flood Elevation, or will be anchored or 
+otherwise designed and constructed to prevent flotation, collapse, or 
+lateral movement resulting from hydrodynamic and hydrostatic loads, 
+including the effects of buoyancy, during conditions of the base flood. (3) 
+In flood hazard areas, tank inlets, fill openings, outlets and vents will be: 
+(3a) At or above the Base Flood Elevation or fitted with covers designed to 
+prevent the inflow of floodwater or outflow of the contents of the tanks during 
+conditions of the base flood; and (3b) Anchored to prevent lateral movement 
+resulting from hydrodynamic and hydrostatic loads, including the effects of 
+buoyancy, during conditions of the base flood.
+
+<!-- page 330 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 6. FLOODPLAIN MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     327 
+(B) 
+Water supply and sanitary facilities.  Water supply distribution and sanitary 
+disposal collection systems will be designed to minimize or eliminate the 
+infiltration and to avoid impairment or contamination of floodwaters into the 
+systems or discharges from the systems into floodwaters and will be located 
+and constructed so as to minimize or eliminate flood damage.  On-site sewage 
+disposal systems will meet these same standards. 
+(C) 
+Other service facilities.  In addition to utilities noted in this Section, all other 
+service facilities will be designed and/or located to prevent water entry or 
+accumulation. 
+6.5 
+ACCESSORY STRUCTURES 
+1. 
+Where feasible, accessory structures and garages will be located out of the floodplain or 
+elevated to or above the Flood Protection Elevation (three feet above the elevation of the 
+1-percent annual chance (100-year) flood).  When these measures are not feasible the 
+following will apply: 
+(A) 
+The floor of the structure will be at or above grade; 
+(B) 
+The structures will be located, oriented, and constructed so as to minimize 
+flood damage;  
+(C) 
+The structure will be firmly anchored to prevent flotation; and 
+(D) 
+The structure will be constructed with flood damage-resistant materials below 
+the Base Flood Elevation. 
+2. 
+Accessory structures or detached garages, that do not exceed six hundred (600) square 
+feet in size, and used solely for the parking of vehicles and limited storage may be 
+constructed below the Flood Protection Elevation (three feet above the elevation of the 
+1-percent annual chance (100-year) flood) under the conditions of SECTION 6.8.  No 
+machinery, electric devices, or appliances will be located below the Flood Protection 
+Elevation (three feet above the elevation of the 1-percent annual chance (100-year) 
+flood).  All interior walls, ceilings and floors located below the Flood Protection Elevation 
+(three feet above the elevation of the 1-percent annual chance (100-year) flood) will 
+remain unfinished.  A Declaration of Land Restriction will be signed by the property owner 
+and recorded with the Kent County Clerk of Court.  A copy of the recorded document will 
+be attached to the building permit. 
+3. 
+An accessory structure or garage larger than six hundred (600) square feet in size will be 
+elevated to the proper Flood Protection Elevation (three feet above the elevation of the 
+1-percent annual chance (100-year) floodplain). 
+ 
+ 
+4. 
+Attached Garages
+
+<!-- page 331 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 6. FLOODPLAIN MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     328 
+(A) 
+Attached garages, used solely for the parking of vehicles, storage or building 
+access and no more than six hundred (600) square feet in size, are exempt from 
+the elevation requirement but will be elevated to the greatest extent possible.  
+Attached garages will meet the venting requirements found in this Section.  All 
+interior walls, ceilings, and floors below the Flood Protection Elevation (three 
+feet above the elevation of the 1-percent annual chance (100-year) flood) will 
+be unfinished. 
+(B) 
+No machinery, electrical devices, or appliances will be located below the Flood 
+Protection Elevation (three feet above the elevation of the 1-percent annual 
+chance (100-year) flood).  A Declaration of Land Restriction will be signed by 
+the property owner and recorded with the Kent County Clerk of Court.  A copy 
+of the recorded document will be attached to the building permit. 
+5. 
+Recreational Vehicles 
+(A) 
+Recreational vehicles located within the floodplain may be exempt from the 
+elevation and anchoring requirements provided they are: 
+i. 
+Located on the site less than one-hundred eighty (180) consecutive days 
+per year; 
+ii. 
+Fully licensed and ready for highway use; and 
+iii. Properly permitted. 
+(B) 
+A recreational vehicle is ready for highway use if it is on its wheels and jacking 
+system, is attached to the site only by quick disconnect type utilities and 
+securing devices, and has no permanently attached additions.  If it cannot meet 
+all of these criteria, the recreational vehicle will be considered a manufactured 
+home and is subject to the elevation and construction standards of this 
+Ordinance. 
+6. 
+Fill 
+(A) 
+Fill will not be placed in the floodway.  Fill will not be used for structural support 
+in the Coastal High Hazard Area. 
+(B) 
+Fill will consist of soil and rock materials only.  Dredge material will be used as 
+fill only upon certification of suitability by a registered professional geo-
+technical engineer.  Landfills, rubble fills, dumps, and sanitary fills will not be 
+permitted in the floodplain. 
+(C) 
+Fill used to support structures will be compacted to 95% of the maximum 
+density obtainable by the Standard Proctor Test (ASTM Standard D-698), and 
+its suitability to support structures certified by a registered professional 
+engineer.  Fill slopes will be no greater than two horizontal to one vertical.  
+Flatter slopes may be required where velocities may result in erosion. 
+(D) 
+The use of fill will not increase flooding onto or interfere with drainage from 
+neighboring properties.
+
+<!-- page 332 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 6. FLOODPLAIN MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     329 
+(E) 
+In the event that structures on adjacent properties are known or determined 
+to be subject to flooding under current conditions, the Planning Director or the 
+Planning Director’s designee may require submission of hydrologic and 
+hydraulic analysis of the affects of the proposed fill. All fill will meet the 
+standards set forth in this Ordinance. 
+6.6 
+PERMITS 
+1. 
+No development will occur without first obtaining a permit form the Department.  This 
+permit will not be valid until all applicable federal or state permits are obtained. 
+2. 
+Application for a permit will contain, at a minimum, the following information. 
+(A) 
+Name, address, and phone number of the applicant 
+(B) 
+Name, address, and phone number of the property owner, if different from 
+that of the applicant 
+(C) 
+Name, address, and phone number of the contractor 
+(D) 
+Legal description of the site 
+(E) 
+Proposed use of the site 
+(F) 
+Type, dimensions, and estimated cost of the improvement 
+(G) 
+Site characteristics and improvements 
+(H) 
+Site plan drawn to scale which shows: 
+i. 
+Dimensions of the site 
+ii. 
+Size and location of existing and proposed structures or alterations 
+iii. Setbacks 
+iv. Elevation contours in mean sea level (NAVD) 
+v. 
+Delineation of the 1-percent annual chance (100-year) flood boundary. 
+vi. Proposed elevation of the lowest floor and method of elevation, if 
+applicable. 
+(I) 
+A signed agreement stating that the applicant will supply an Elevation 
+Certificate. 
+(J) 
+For additions or improvements, market value or assessed value of structures 
+before improvement.  
+(K) 
+Declaration of Land Restriction where applicable. 
+3. 
+General permits will be granted only after determining that the proposed development 
+will be in compliance with this Ordinance. 
+4. 
+After approval of a permit, no changes of any kind will be made to the application, permit, 
+plans, specifications, or other documents submitted with the application without the
+
+<!-- page 333 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 6. FLOODPLAIN MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     330 
+written approval of the applicable county official.  A copy of the permit will be displayed 
+at the construction site. 
+5. 
+During construction, the building inspector will inspect the site to determine that work is 
+in compliance with the permit.  Any work not in compliance with the permit will be 
+corrected before any additional work is undertaken. 
+6. 
+A record of all floodplain permits will be maintained and be available upon request by the 
+Federal Emergency Management Agency or its authorized agent during periodic 
+assessments of the County’s participation in the National Flood Insurance Program.  All 
+documents needed to support permit action, such as Elevation Certificates, map 
+amendments or revisions, or variance actions will be available for review during these 
+assessments. 
+6.7 
+DAM SAFETY 
+The condition design criteria, hazard class and danger reach of the dam will be considered when 
+reviewing development downstream of existing or proposed dams.  Development within the dam 
+break flood wave will be denied unless the dam meets the standards for a high hazard dam. 
+6.8 
+CONDITIONAL PERMITS 
+A conditional permit may be issued for garages and accessory structures less than six hundred 
+(600) square feet in size, provided: 
+1. 
+The structure is incidental to the primary structure. 
+2. 
+It is used solely for limited storage and parking of vehicles. 
+3. 
+The floor of the structure is constructed at or above grade. 
+4. 
+The structure is located, oriented, and constructed so as to minimize flood damage. 
+5. 
+The structure is firmly anchored to prevent flotation. 
+6. 
+The structure meets the requirements of this Section. 
+7. 
+A Declaration of Land Restriction is recorded with the Kent County Clerk of Court.  A copy 
+of the recorded document will be attached to the building permit. 
+6.9 
+ENFORCEMENT 
+1. 
+It will be the duty of the Planning Director of the Planning Director’s designee to perform 
+the function of the Floodplain Administrator and to enforce the provisions of this 
+Ordinance and to refuse to issue any permit or approve any development that would 
+violate the provisions of this Ordinance.  It will be the duty of all officers and employees 
+of Kent County to assist in the enforcement of this Ordinance by reporting seeming 
+violations. 
+2. 
+The Planning Director of the Planning Director’s designee is authorized and directed to 
+institute any appropriate action to correct violations of this Ordinance.
+
+<!-- page 334 -->
+ARTICLE VI.  ENVIRONMENTAL REGULATIONS 
+SECTION 6. FLOODPLAIN MANAGEMENT 
+Land Use Ordinance for Kent County, Maryland     331 
+3. 
+Any violation of Section 10 will be subject to the fines and penalties established in this 
+Ordinance. 
+4. 
+The Federal Insurance Administrator and the State of Maryland will be notified 
+immediately in writing of any structure or property in violation of this Section.   
+5. 
+The Department may require signed and sealed drawings from a professional licensed 
+surveyor or an engineer, certifying that the requirements above have been satisfied. The 
+Department may also engage third-party professionals to review the drawings to ensure 
+compliance with the regulations in this Section, the Land Use Ordinance in general, and 
+any applicable federal, State, or other laws, rules, and regulations. The costs for any third-
+party professionals will be paid by the applicant or property owner of record. 
+6.10 
+LIABILITY 
+1. 
+The degree of flood protection provided by this chapter is considered reasonable for 
+regulatory purposes and is based on engineering experience and scientific methods of 
+study.  Floods of greater magnitude may occur or flood heights may be increased by man-
+made or natural causes.  This Section does not imply that flooding will not occur outside 
+of delineated floodplain zones, nor that the permitted development and land uses within 
+the floodplain will be free of flooding and associated flood damage.  This Section does not 
+create liability on the part of the County, any officer, or employee thereof for any damage 
+which may result from reliance on this Section. 
+2. 
+The degree of the flood protection required by these regulations is considered reasonable 
+for regulatory purposes and is based on scientific and engineering considerations.  Larger 
+floods can and will occur, and flood heights may be increased by man-made or natural 
+causes. These regulations do not imply that land outside of the Special Flood Hazard Areas 
+or uses that are permitted within such areas will be free from flooding or flood damage.
+
+<!-- page 335 -->
+ARTICLE VII.  DEFINITIONS
+
+<!-- page 336 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     333
+SECTION 1 
+GENERAL RULES OF CONSTRUCTION  
+The following general rules of construction will apply to the regulations of this Ordinance.  
+1. 
+The singular number includes the plural and the plural the singular, unless the context 
+clearly indicates the contrary.  
+2. 
+Words used in the present tense include the past and future tense, and the future the 
+present.  
+3. 
+The word “will” is always mandatory. The word “may” is permissive.  
+4. 
+The word “building” or “structure” includes any part thereof, and the word “structure” 
+includes the word “building.”  
+5. 
+Words and terms not defined herein will be interpreted in accordance with their normal 
+dictionary meaning and customary usage.  
+6. 
+The word “Commission” refers to the Kent County Planning Commission, a seven-member 
+board appointed the County Commissioners.  
+7. 
+The word “Board” refers to the Board of Appeals, a three-member board appointed by 
+the County Commissioners.  
+SECTION 2 
+DEFINITIONS  
+For the purpose of this ordinance, certain terms and words are hereby defined.  
+Acceptable Outfall: The tidewater or that point as determined by the Kent County Soil and 
+Water Conservation District where stormwater can be released to a channel without 
+causing scouring, erosion, or resulting sedimentation to the receiving channel or its 
+floodplain. (Where necessary, the outlet will include structural and vegetative measures 
+to assure non-erosive velocities.)  
+Accessory Structure: A detached structure on the same parcel as the principal structure or use 
+and which is customarily incidental and subordinate to the principal structure or use, for 
+example, a shed or detached garage. 
+Accessory Use: One which: (a) is subordinate to and serves a principal structure or principal use; 
+(b) is on the same lot as the principal structure or use served except as otherwise 
+expressly authorized by provisions of this Ordinance; and (c) is customarily incidental to 
+the principal use or structure.  
+: Adverse Impact: For purposes of stormwater management, any deleterious effect on waters or 
+wetlands including their quality, quantity, surface area, species, species composition, 
+aesthetics or usefulness for human or natural causes which is or may potentially be 
+harmful or injurious to health, welfare, safety, or property, to biological productivity, 
+diversity, or stability or which unreasonably interferes with the enjoyment of life or 
+property, including outdoor recreation.
+
+<!-- page 337 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     334
+Afforestation: The establishment of a forest on an area from which it has always or very long 
+been absent, or the planting of open areas which are not presently in forest cover.  
+Agricultural Easement: A non-possessory interest in land which restricts the conversion of use 
+of the land, preventing nonagricultural uses.  
+Agricultural Land Management: Those methods and procedures used in the cultivation of land 
+in order to further crops or livestock production and conservation of related soil and 
+water resources. Logging and timber removal operations will not be considered a part of 
+this definition. 
+Agriculture: Farming activities including plowing, tillage, cropping, installation of best 
+management practices, seeding, cultivating, and harvesting for production of food and 
+fiber products (except commercial logging and timber harvesting operations), sod 
+production, orchards, nurseries, land in government set aside programs, and other 
+products cultivated as part of a recognized commercial enterprise, but not including 
+animal husbandry.  
+Agritourism: Activities conducted on a farm and offered to the public or to invited groups for 
+the purpose of education, recreation, or active involvement in the farm operation. 
+These activities will be related to agriculture or natural resources and incidental to the 
+primary operation on the site. The term will include hayrides; corn mazes; seasonal 
+petting farms; pumpkin patches; “pick your own” or “cut your own” produce; classes 
+related to agricultural products or skills; harvest festivals; field trips; farm tours; farm 
+museums; picnic and party facilities offered in conjunction with any agritourism activity; 
+food services, including farm to table meals; fishing; hunting; wildlife study; guest farms; 
+and activities or events related to agriculture or natural resources, agricultural products, 
+or agricultural skills. 
+Animal husbandry: Farming activities permitted as separate uses in specific zoning districts. 
+Airport: A permanent installation or facility from which aircraft may take off or land, discharge 
+or receive cargo or passengers, be repaired, take on fuel, or be stored, including 
+hangers, terminals, or accessory activities. 
+Alley: A narrow public thoroughfare not exceeding 16 feet in width, which provides only a 
+secondary means of access to abutting properties and is not intended for general traffic 
+circulation.  
+Alteration: Any construction or renovation to an existing structure other than repair or addition.  
+Anadromous Fish: Fish that travel upstream from their primary habitat in the ocean to fresh 
+waters in order to spawn.  
+Anadromous Fish Spawning Areas: Those streams that are tributary to the Chesapeake Bay 
+where spawning of anadromous species of fish (e.g., rockfish, yellow perch, white perch, 
+and river herring) occurs or has occurred. The streams are designated by the Maryland 
+Department of Natural Resources.
+
+<!-- page 338 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     335
+Apartment: A part of a building containing cooking and housekeeping facilities, consisting of a 
+room or suite of rooms intended, designed, and used as a residence for an individual or 
+single family.  
+Apartment House: Same as Dwelling, Multi-Family Dwelling.  
+Applicant: For erosion and sediment control and stormwater management proposes: Any 
+person, firm, or government agency who executes the necessary forms to procure 
+official approval of a project or a permit to carry out construction of a project. 
+Approved Forest Management Plan: For the purposes of forest conservation outside of the 
+Chesapeake Bay Critical Area, an approved forest management plan is a document, 
+approved by the Department of Natural Resources Forester assigned to Kent County, 
+that operates as a protective agreement for forest conservation as described in Natural 
+Resources Article, Section 5-1607(e)- (f), Annotated Code of Maryland.  
+Approving Agency: For erosion and sediment control and stormwater management purposes: 
+The entity responsible for the review and approval of erosion and sediment control plans 
+and stormwater management plans.  
+Aquaculture: (1) The farming or culturing of finfish, shellfish, other aquatic plants or animals, or 
+both, in lakes, streams, inlets, estuaries, and other natural or artificial water bodies or 
+impoundments; (2) Activities include the hatching, cultivating, planting, feeding, raising, 
+and harvesting of aquatic plants and animals and the maintenance and construction of 
+the necessary equipment, buildings, and growing areas; (3) Cultivation methods include, 
+but are not limited to seed or larvae development and grow out facilities, fish pens, 
+shellfish rafts, racks, and long lines, seaweed floats and the culture of clams and oysters 
+on tidelands and subtidal areas. For the purpose of this definition, related activities such 
+as wholesale and retail sales, processing, and product storage are not considered 
+aquacultural practices.  
+Aquifer: A porous water bearing geologic formation generally restricted to materials yielding an 
+appreciable supply of water.  
+Architect: A professional with training in architecture and licensed by the State of Maryland.  
+Area, Gross: The total area of the site subject to no exclusions.  
+: Automobile Repair: Any building, structure, or area used for major automobile repair, body 
+work, or servicing including the accessory sale of fuels, oils, or parts.  
+Automobile Service Station: Any building, structure, or use of land for the retail sale of 
+automobile fuels, oils, and accessories and where repair service, if any, is incidental.  
+Barren land: Unmanaged land having sparse vegetation.  
+Base Flood: The 1-percent annual chance (100-year) flood event as indicated in the Flood 
+Insurance Study, as amended; the elevation of which is used for regulatory purposes in 
+this Ordinance.
+
+<!-- page 339 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     336
+Base Flood Elevation: The water surface elevation of the base flood in relation to the datum 
+specified on the community’s Flood Insurance Rate Map. In areas of shallow flooding, 
+the Base Flood Elevation is the highest adjacent natural grade elevation plus the depth 
+number specified in feet on the Flood Insurance Rate Map, or at least four (4) feet if the 
+depth number is not specified.  
+Basement: An enclosed area which is below grade on four sides.  
+: Bench terrace: A relatively flat area (i.e., less than 2% grade) constructed on sloping land to 
+planned dimensions and grades. Bench terraces are applied along the contour with the 
+length and width controlled by the natural terrain and the required erosion limitations.  
+Berm: A mound of soil, either natural or manmade, used to obstruct views, noise, direct runoff, 
+or control soil loss.  
+Best Management Practices (BMP): Conservation practices or systems of practices and 
+management measures that control soil loss and reduce water quality degradation 
+caused by nutrients, animal waste, toxins, and sediment. Agricultural BMPs include, but 
+are not limited to, strip cropping, terracing, contour stripping, grass waterways, animal 
+waste structures, ponds, minimal tillage, grass and naturally vegetated filter strips and 
+proper nutrient application measures. For stormwater management purposes: A 
+structural device or non-structural practice designed to temporarily store or treat 
+stormwater runoff in order to mitigate flooding, reduce pollution, and provide other 
+amenities.  
+Boarding House: Same as rooming house  
+Boathouse: A building constructed for the purposes of storing a boat and boat gear.  
+Breakaway Wall: A wall that is not part of the structural support of a building and is intended to 
+collapse under specific lateral loading forces without causing damage to the supporting 
+foundation system of the building.  
+Buffer: Within the Chesapeake Bay Critical Area, an existing, naturally vegetated area or an area 
+established in vegetation and managed to protect aquatic environments, wetlands, 
+shoreline, and terrestrial environments from man-made disturbances. The purpose of 
+the buffer is to: (1) Provide for the removal or reduction of sediments, nutrients, and 
+potentially harmful or toxic substances in runoff entering the Bay and its tributaries; (2) 
+Minimize the adverse effects of human activities on wetlands, shorelines, stream banks, 
+tidal waters and aquatic resources; (3) Maintain an area of transitional habitat between 
+aquatic and upland communities; (4) Maintain the natural environment or streams; and 
+(5) Protect riparian wildlife habitat. (6) The buffer will be expanded for slopes of 15% or 
+more, hydric soils, or highly erodible soils whose development or disturbance may 
+impact streams, wetlands, or aquatic environments. The buffer will be a minimum of 
+100 feet and will be expanded 4 feet for every 1% of slope if the slope is over 15% 
+(measured at the 100-foot mark) or to the top of the slope, whichever is greater in 
+extent. For example, the buffer on a property with an 18% slope is 172 feet [100 + (4 x
+
+<!-- page 340 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     337
+18)]. The buffer is measured horizontally from mean high tide, the edge of tidal 
+wetlands or tributary streams.  
+Buildable Area: The area of that part of the lot not included within the yards, open space, or 
+environmental areas herein required.  
+Buildable Width: The width of the lot not included within the yards, open space, or 
+environmental areas herein required. 
+Building: Any structure having a roof supported by columns or walls for the housing or 
+enclosure of persons or property.  
+Building, Totally Enclosed: Any building having no outside openings other than ordinary doors, 
+windows, and ventilators.  
+Building, Height of: The vertical distance from the average elevation of finished ground surface 
+around the building to the highest point of the coping of a flat roof, or to the deck line 
+of the highest point of coping or parapet of a mansard roof, or to the mean height level 
+between the eaves and ridge for gable, hip, shed, and gambrel roofs. When the highest 
+wall of a building with a shed roof is within 30 feet of a street, the height of such 
+building will be measured to the highest point of coping or parapet.  
+ 
+Building Line: A line within a lot, so designated on a plat of subdivision, between which line and 
+the street line of any abutting street, no building or structure may be erected.  
+Bulk: A term used in this Ordinance to describe the size and shape of a building or structure and 
+its relationship to other buildings, to the lot area for a building, and to open spaces and 
+yards.  
+Caliper: The diameter of a tree measured at six inches above grade.  
+Camp, Boarding: As for day camp, except that uses and structures for the lodging of guests will 
+be permitted in locations appropriate for extensive outdoor recreation.  
+Camp, Day: A lot, tract, or parcel of land operated as a resource utilization enterprise in which 
+seasonal facilities, boating, fishing, swimming, outdoor sports, and activities incidental 
+and relating to the foregoing but not including miniature golf, golf courses, golf driving 
+Flat 
+Gambrel 
+Mansard 
+Hip 
+Gable 
+Shed
+
+<!-- page 341 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     338
+ranges, mechanical amusement devices, or permanent structures for the housing of 
+guests.  
+Campground: Any area or tract of land owned by a single entity to which accommodations for 
+temporary and not year-round occupancy are located or may be placed including cabins, 
+tents, recreational vehicles, and campers, and which is used for recreational purposes 
+and retains an open air or natural character.  
+Canopy: A detachable, roof-like cover supported from the ground, or deck, or walls, of a 
+building for the protection from the sun.  
+Certificate of Occupancy or Use: A permit to legally occupy or use a building for the intended 
+purpose.  
+Certification: A signed, written statement that specific conditions, inspections, or tests (when 
+required) have been performed and that such comply with the applicable requirements 
+of this Ordinance.  
+Champion of the State: In terms of forest conservation, a tree that appears in the State Forest 
+Conservation Manual list of State Champion trees.  
+Champion Tree: The largest tree of its species within the United States, the State, County, or a 
+municipality.  
+Channel: That part of the waterway where the largest class vessel that could use such 
+waterway is required to navigate because of shallowness of water on both sides of such 
+part, or as delineated on an approved plan or navigational chart.  
+Channel Protection Storage Volume: The volume used to design structural management 
+practices to control stream channel erosion. Methods for calculating the channel 
+protection storage volume are specified in the 2000 Maryland Stormwater Design 
+Manual, Volumes I and II, and as amended.  
+Clear-cutting: The removal of the entire stand of trees in one cutting with tree reproduction 
+obtained by natural seeding from adjacent stands or from trees that were cut, from 
+advance regeneration or stump spouts, or from planting of seeds or seedlings by man.  
+Clearing: The removal of trees and/or brush from the land but which will not include the 
+ordinary mowing of grass.  
+Cliff Height: The distance measured from mean high tide to the top of the bank.  
+Clinic -A building or a portion thereof designed for and used by two or more physicians, 
+surgeons, dentists, psychiatrists, physiotherapists, or practitioners in related specialties, 
+or a combination of persons in these professions, but not including lodging of patients 
+overnight.  
+Club, Private: Buildings and facilities owned or operated by a corporation, association, person, 
+or persons for social, educational, or recreational purposes, but not primarily to render 
+service which is normally carried on as a business.
+
+<!-- page 342 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     339
+Cluster Development: Within the Critical Area, a residential development in which dwelling units 
+are concentrated in a selected area or selected areas of the development tract so as to 
+provide a natural habitat or other open space uses on the remainder.  
+Coastal high hazard areas: Those areas subject to coastal or tidal flooding with the addition of 
+high velocity water and wind action. These areas are designated as a V-Zone on the 
+Flood Insurance Rate Map. 
+Coastal A Zone: An area within a special flood hazard area, landward of a coastal high hazard 
+area (V Zone) or landward of a shoreline without a mapped coastal high hazard area, in 
+which the principal source(s) of flooding are astronomical tides and storm surges, and in 
+which, during base flood conditions, the potential exists for breaking waves with heights 
+greater than or equal to 1.5 feet. The inland limit of the Coastal A Zone may be 
+delineated on FIRMs as the Limit of Moderate Wave Action (LiWMA).  
+Collector Street: A street which is intended to collect traffic from minor streets within a 
+neighborhood or a portion thereof and to distribute such traffic to major thoroughfares, 
+in addition to providing access to properties abutting thereon.  
+Colonial Water Birds: Herons, egrets, terns, and glossy ibis. For the purpose of nesting these 
+birds congregate (i.e., colonize) in relatively few areas, at which time, the regional 
+populations of these species are highly susceptible to local disturbances.  
+Commercial Logging and Timber Harvesting Operations: The cutting and removing of tree stems 
+from a site for commercial purposes; leaving the root mass intact, includes all 
+commercial operations done by companies and private individuals for economic gain.  
+Community Piers: Boat docking facilities associated with subdivisions and similar residential 
+areas, and with condominiums, apartments, and other multi-family dwelling units. 
+Private piers are excluded from this definition.  
+Compaction: Desiccation (drying up) of a soil or rock fill by mechanical or other procedures.  
+: Concept Plan: For stormwater management purposes: The first of three plan approvals that 
+includes information necessary to allow an initial evaluation of a proposed project.  
+Conference Center: A year-round facility with staff, equipment, and support services dedicated 
+to providing an environment that will support and facilitate meetings. A minimum of 
+100 square feet of meeting space is provided per guest room. Dedicated meeting rooms 
+are separate from living and leisure areas.  
+Conservation Easement: A non-possessory interest in land which restricts the manner in which 
+the land may be developed in an effort to reserve natural resources for future use.  
+Convalescent Home: A building where regular nursing care is provided for more than one 
+person that is not a member of a family who resides on the premises.  
+Cottage Industry: Family type businesses which employ less than ten people and manufacture 
+and/or provide services with low-impact to the surrounding area and residents (e.g. low 
+traffic volume, no heavy, noisy or environmentally disruptive machinery to perform 
+tasks, little or no outdoor storage). Often home-based industries utilize
+
+<!-- page 343 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     340
+telecommunications networks. Cottage industries include, but are not limited to 
+plumbers, electricians, carpenters, and other tradesmen.  
+Country Inn: An existing building where, for compensation and only by prearrangement for 
+definite periods, lodging and meals are provided. Such uses are limited to fifteen 
+rooming units excluding resident manager quarters. 
+Country Stores: A retail store or shop which sells general merchandise and food serving the 
+local area. 
+Courtyard: An open space that may or may not have direct street access and around which is 
+arranged a single building or group of related buildings. 
+Cover Crop: The establishment of a vegetative cover to protect soils from erosion and to restrict 
+pollutants from entering the waterways. Cover crops can be dense, planted crops of 
+grasses or legumes, or crop residues such as corn, wheat, or soybean stubble which 
+maximize infiltration and prevent runoff from reaching erosive velocities. 
+Critical Area: All lands and waters defined in Md. Code Ann., Natural Resources, §8-1807. These 
+include: (1) All waters of and lands under the Chesapeake Bay and its tributaries to the 
+head of tide and all state and private wetlands designated under Title 16 of the 
+Environmental Article, Annotated Code of Maryland. (2) All lands and water areas within 
+1,000 feet beyond the landward boundaries of state or private wetlands and the heads 
+of tides designated under Title 16 of the Environmental Article, Annotated Code of 
+Maryland. (3) Modification to these areas through inclusions or exclusions proposed by 
+local jurisdictions and approved by the Commission as specified in Md. Code Ann., 
+Natural Resources § 8-1807. 
+Critical and Essential Facilities: Buildings and other structures that are intended to remain 
+operational in the event of extreme environmental loading from flood, wind, snow or 
+earthquakes. [Note: See Maryland Building Performance Standards, Section 1602 and 
+Table 1604.5.] Critical and essential facilities typically include hospitals, fire stations, 
+police stations, storage of critical records, facilities that handle or store hazardous 
+materials, and similar facilities. 
+Critical Habitat Area: A critical habitat for an endangered species and its surrounding protection 
+area. A critical habitat area will (1) Be likely to contribute to the long-term survival of 
+the species; (2) Be likely to be occupied by the species for the foreseeable future; and 
+(3) Constitute habitat of the species that is considered critical under Md. Code Ann., 
+Natural Resources, §4-2a-04 and 10-2a-06. 
+Critical Habitat for Endangered Species: a habitat occupied by an endangered species as 
+determined or listed under Md. Code Ann., Natural Resources, §4-2a-04 and 10-2a-04. 
+Crosswalk: A public way intended for pedestrian use and excluding motor vehicles, which cuts 
+across a block in order to furnish improved access to adjacent streets or properties. 
+Cut: See “excavation”
+
+<!-- page 344 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     341
+Day Care Group: A licensed home or agency that regularly provides supervision for nine or more 
+non-related children. 
+Day Care Home: The provision of supplemental parental care and supervision for eight or fewer 
+non-related children. 
+Declaration of Intent: (1) A signed and notarized statement by a landowner or the landowner’s 
+agent certifying that  the activity on the landowner’s property: (1a) Is for certain 
+activities exempted under this Ordinance or Md. Code Ann., Natural Resources, §5-103 
+and §§5-16-1 through 5-1612; (1b) Does not circumvent the requirements of this 
+Ordinance or Md. Code Ann., Natural Resources, §5-103 and §§5-16-1 through 5-1612; 
+and (1c) Does not conflict with the purposes of any other Declaration of Intent. (2) The 
+document required under this Ordinance. 
+Declaration of Land Restriction (Non-conversion Agreement): A form signed by the owner to 
+agree not to convert or modify in any manner that is inconsistent with the terms of the 
+permit and these regulations certain enclosures below the lowest floor of elevated 
+buildings and certain accessory structures. The form requires the owner to record it on 
+the property deed to inform future owners of the restrictions. 
+Department. The Kent County Department of Planning, Housing, and Zoning, unless otherwise 
+specified.   
+Demolition/demolish: means the act of pulling down, destroying, removing, or razing a building 
+or structure or commencing the work of total or substantial destruction with the intent 
+of completing the same. For the purposes of Historic structure review, the term 
+“demolition” will not include routine maintenance, interior renovations, removal, or 
+construction of porches, decks, windows, or other types of renovations for which 
+approval is generally not required. 
+Density: The permitted number of dwelling units per acre of land to be developed. 
+Design Manual: The 2000 Maryland Stormwater Design Manual, Volumes I and II, and as 
+amended, that serves as the official guide for stormwater management principles, 
+methods, and practices. 
+Detention Structure: A permanent structure for the temporary storage of runoff that is designed 
+so as not to create a permanent pool of water. 
+Developed Land: For stormwater management purposes: To change the runoff characteristics 
+of a parcel of land in conjunction with residential, commercial, industrial, or institutional 
+construction or alteration. 
+Developed Woodland: Those areas of 1 acre or more in size which predominately contain trees 
+and natural vegetation, and which also includes residential, commercial, or industrial 
+structures and uses. 
+Developer: A person, partnership, or corporation constructing more than one dwelling unit or 
+constructing one dwelling unit for occupancy by persons other than the owner, or any 
+type of commercial of industrial development or subdividing of land.
+
+<!-- page 345 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     342
+Development: Any construction, reconstruction, modification, extension, or expansion of 
+buildings or structures; placement of manufactured homes; mining; dredging; placement 
+of fill; grading; paving; dumping; storage of equipment or materials; land excavation; 
+land clearing; land improvement; subdivision of land; or any combination thereof. 
+Development Activities: The construction or substantial alteration of residential, commercial, 
+industrial, institutional, or transportation facilities or structures. 
+Development Project Completion: For the purposes of afforestation, reforestation, or payment 
+into a forest conservation fund; (1) The release of the development bond, if any; (2) 
+Acceptance of the project’s streets, utilities and public services by the county; or (3) 
+Designation by the County that a: (3a) Development project has been completed, or (3b) 
+Particular stage of a staged development has been completed. 
+Direct Discharge: The concentrated release of stormwater to tidal waters or vegetated tidal 
+wetlands from new development or redevelopment projects in the Chesapeake Bay 
+Critical Area. 
+Diversion: A channel or ditch and a ridge constructed across a slope so as to intercept and divert 
+surface runoff. 
+Documented Breeding Bird Areas: Forested areas where the occurrence of interior dwelling 
+birds, during the breeding season, has been demonstrated as a result of on-site surveys 
+using standard biological survey techniques. 
+Dog Kennel, Commercial: The keeping of any dog or dogs, regardless of number, for breeding, 
+sale, boarding, or treatment purposes, except in an animal hospital or pet shop as 
+permitted by these regulations. The keeping of five or more dogs, six months or older, 
+for any purpose. 
+Drainage Area: That area contributing runoff to a single point measured in a horizontal plane, 
+which is enclosed by a ridge line. 
+Drainageway: See “watercourse and/or drainageway” 
+Dwelling: A building or portion thereof, designed and used primarily for residential occupancy, 
+but not including trailers, mobile homes, hotels, motels, motor lodges, boarding and 
+lodging houses, tourist courts, or tourist homes. 
+Dwelling Unit: A room or group of rooms occupied or intended to be occupied as separate living 
+quarters by a single family. Within the Critical Area: A single unit providing complete, 
+independent living facilities for at least one person, including permanent provisions for 
+sanitation, cooking, eating, sleeping, and other activities routinely associated with daily 
+life. Dwelling unit includes living quarters for domestic staff or other employees or 
+tenants, an in-law or accessory apartment, a guest house, or a caretaker residence. 
+Dwelling, Multi-Family: A building designed for and occupied exclusively by three or more 
+families living independently of each other. 
+Dwelling, Single Family: A building designed for and occupied exclusively by one family.
+
+<!-- page 346 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     343
+Dwelling, Two-Family: A building designed for and occupied exclusively by two families living 
+independently of each other. 
+Easement: A grant or reservation by a property owner of the right to use an identifiable piece of 
+land or right for a specified purpose or purposes. For stormwater management 
+purposes: A grant or reservation by a property owner of the right to use an identifiable 
+piece of land or right for a specified purpose or purposes, and which will be included in 
+the conveyance of land affected by such easement. 
+Ecosystem: A more or less self-contained biological community together with the physical 
+environment in which the community’s organisms occur. 
+Elevation Certificate: A FEMA form on which surveyed elevations and other data pertinent to a 
+property and a building are identified and which shall be completed by a licensed 
+professional land surveyor or a licensed professional engineer, as specified by the 
+Floodplain Administrator. When used to document the height above grade of buildings 
+in special flood hazard areas for which base flood elevation data are not available, the 
+Elevation Certificate shall be completed in accordance with the instructions issued by 
+FEMA. Note: FEMA Form 086-0-33 and instructions are available online. 
+ https://www.fema.gov/media-library/assets/documents/160 
+Embankment or Fill: A deposit of soil, rock, or other materials placed by man. 
+Endangered Species: Any species of fish, wildlife, or plants which have been designated as such 
+by regulation by the Secretary of the Department of Natural Resources. Designation 
+occurs when the continued existence of these species as viable components of the 
+State’s resources is determined to be in jeopardy. This includes any species determined 
+to be an “endangered species” pursuant to the Federal Endangered Species Act. 
+Engineer: A person with professional, technical, or practical training, ability, and experience in 
+engineering and licensed in the State of Maryland to practice engineering. 
+Environmental Site Design (ESD): Using small-scale stormwater management practices, 
+nonstructural techniques, and site planning to mimic natural hydrologic runoff 
+characteristics and minimize the impact of land development on water resources. 
+Methods for designing ESD practices are specified in the Design Manual.  
+Erosion: The process by which the ground surface is worn away by the action of wind or water. 
+Erosion and Sediment Control: A system of structural and vegetative measures that minimizes 
+soil erosion and off-site sedimentation. 
+Erosion and Sediment Control Plan: An erosion and sediment control strategy or plan designed 
+to minimize erosion and prevent off-site sedimentation. 
+Excavation, landscaping, or other Contractor’s Yard: Any land and/or buildings used primarily 
+for the storage of equipment, vehicles, machinery, new or used building materials, 
+paint, pipe, or electrical components used by the owners or occupants of the premises 
+in the conduct of any building trades, building craft, or excavation / construction trade. 
+This definition was revised to include a wide range of contractors including landscapers.
+
+<!-- page 347 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     344
+Excavation or Cut: Any act by which the ground surface is cut into, dug, quarried, uncovered, 
+removed, displaced, or relocated and will include the conditions resulting therefrom. 
+Excess Stormwater Runoff: In the Critical Area, all increases in stormwater resulting from: (1) An 
+increase in the imperviousness of the site, including all additions to buildings, roads, and 
+parking lots; (2) Changes in permeability caused by compaction during construction or 
+modifications in contours, including the filling or drainage of small depression areas; (3) 
+Alteration of drainageways or regrading of slopes; (4) Destruction of forest; or (5) 
+Installation of collection systems to intercept street flows or to replace swales or other 
+drainageways. 
+Exemption: For stormwater management purposes: Those land development activities that are 
+not subject to the stormwater management requirements contained in this Ordinance. 
+For erosion and sediment control purposes: Those land development activities that are 
+not subject to the erosion and sediment control requirements contained in this 
+Ordinance. 
+Existing Grade: The vertical location of the existing ground surface prior to excavating or filling. 
+Extended Detention: A stormwater design feature that provides gradual release of a volume of 
+water in order to increase settling of pollutants and protect downstream channels from 
+frequent storm events. Methods for designing extended detention BMPs are specified in 
+the Design Manual. 
+Extreme Flood Volume: The storage volume required to control those infrequent but large 
+storm events in which overbank flows reach or exceed the boundaries of the 100-year 
+floodplain. 
+Family: An individual or individuals living together by joint agreement and occupying a single 
+housekeeping unit with a single primary culinary facility on a non-profit, cost-sharing 
+basis. Domestic servants employed and living on the premises will be considered as part 
+of the family. 
+Farm: A parcel of land not less than 20 acres in size used for agriculture including animal 
+husbandry, and as defined in this Ordinance. 
+: Feedlot: Any tract of land or structure, pen, or corral where cattle, horses, sheep, goats, 
+and/or swine are maintained in close quarters for the purposes of fattening such 
+livestock for final shipment to market. This includes any enterprise used for the 
+production, growing, or holding of agricultural animals regardless of species or number 
+that does not control through ownership sufficient land to allow environmentally safe 
+treatment and disposal of the waste produced by those animals will .  
+Final Erosion and Sediment Control Plan: The last of three plan approvals that includes the 
+information necessary to allow all approvals and permits relating to erosion and 
+sediment control to be issued by the Approving Agency. 
+Final Stormwater Management Plan: The last of three plan approvals that includes the 
+information necessary to allow all approvals and permits relating to stormwater 
+management to be issued by the approving agency.
+
+<!-- page 348 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     345
+Finished Grade: The final grade or elevation of the ground surface conforming to the proposed 
+design. 
+Fisheries Activities: Commercial water dependent fisheries facilities including structures for the 
+packing, processing, canning, or freezing of finfish, crustaceans, mollusks, and 
+amphibians and reptiles and also including related activities such as wholesale and retail 
+sales, product storage facilities, crab shedding, offloading docks, shellfish culture 
+operations, and shore-based facilities necessary for aquaculture operations. 
+Flood: General and temporary condition of partial or complete inundation of normally dry land 
+areas from overflow of inland or tidal waters, or rapid unusual accumulation of runoff 
+from any source. 
+Flood Insurance Rate Map (FIRM): Map which depicts the minimum Special Flood Hazard Area 
+to be regulated by this Ordinance. 
+Flood Insurance Study (FIS): The official report in which the Federal Emergency Management 
+Agency has provided flood profiles, floodway information, and the water surface 
+elevations. 
+Flood Protection Elevation (FPE): The elevation of the base flood plus three feet freeboard. 
+Floodplain: (1) A relatively flat or low area adjoining a river, stream, watercourse, or 
+drainageway which is subject to partial or complete inundation; (2) An area subject to 
+the unusual and rapid accumulation or runoff of surface waters from source; or (3) Land 
+typically adjacent to a body of water with ground surface elevations that are inundated 
+by the base flood. 
+Floodproofing: Any combination of structural and non-structural changes which reduce or 
+eliminate flood damage to improved property. 
+Floodproofing Certificate: Form supplied by FEMA to certify that a building has been designed 
+and constructed to be structurally dry floodproofed to the Flood Protection Elevation. 
+Floodway: The channel and adjacent land area required to discharge the waters of the 100-year 
+flood of a watercourse without increasing the water surface elevations more than a 
+specified height. 
+Floodway Fringe: That portion of the floodplain outside of the floodway. 
+Floor Area, Commercial: For Commercial, business, and industrial buildings or buildings 
+containing mixed uses; the sum of the gross horizontal area of the several floors of a 
+building measured from the exterior faces of the exterior walls separating two buildings 
+but not including: (1a) Attic space providing headroom of less than seven feet; (1b) 
+Basement space not used for retailing; (1c) Uncovered steps or fire escapes; (1d) 
+Accessory water towers or cooling towers; and (1e) Accessory off-street loading spaces.  
+Floor Area, Residential: For Residential buildings: the sum of the gross horizontal areas of the 
+several floors of a dwelling, exclusive of garages, basement, and open porches, 
+measured from the exterior faces of the exterior walls.
+
+<!-- page 349 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     346
+Flow Attenuation: Prolonging the flow time of runoff to reduce the peak discharge. 
+Forest: A biological community dominated by trees and other woody plants covering a land area 
+of 10,000 square feet or greater, includes (1) areas that have at least 100 live trees per 
+acre with at least 50 percent of those trees having a 2-inch or greater diameter at 4.5 
+feet above the ground and larger; and (2) areas that have been cut but not cleared. 
+Forest Conservancy District Board: The forestry board created for each State Forest Conservancy 
+District under Md. Code Ann., Natural Resources, §§5-601 through 5-610. 
+Forest Conservation: The retention of existing forest or the creation of new forest. 
+Forest Conservation and Management Agreement: An agreement as stated in the Md. Code 
+Ann., Tax: Property, § 8-211. 
+Forest Conservation Plan: A plan approved pursuant to the requirements of this Ordinance and 
+the Forest Conservation Technical Manual.  
+Forest Conservation Technical Manual: The technical manual incorporated by reference, used to 
+establish standards of performance required in preparing Forest Stand Delineations and 
+Forest Conservation Plans. 
+https://mdstatedocs.slrc.info/digital/collection/mdgov/id/11130/  
+Forest Cover: The area of a site meeting the definition of forest. 
+Forest Interior Dwelling Birds: Species of birds which require relatively large, forested tracts in 
+order to breed successfully (for example, various species of flycatchers, warblers, vireos, 
+and woodpeckers). 
+Forest Management: The protection, manipulation, and utilization of the forest to provide 
+multiple benefits, such as timber harvest, water transpiration, wildlife habitat, etc. 
+Forest Management Plan: A plan establishing best conservation and management practices for 
+a landowner in assessment of the resource values of forested property. 
+Forest Mitigation Bank: an area of land which has been intentionally afforested or reforested 
+for the express purpose of providing credits for reforestation requirements. 
+Forest Mitigation Bank Agreement: an agreement entered into by an individual owning a forest 
+mitigation bank and the county which commits the banker to certain procedures and 
+requirements when creating and operating the forest mitigation bank. 
+Forest Mitigation Bank Plan: a plan submitted for approval of a forest mitigation bank to the 
+county by an individual proposing to establish a forest mitigation bank. 
+Forest Practice: The alteration of the forest either through tree removal or replacement in order 
+to improve the timber, wildlife, recreational, or water quality values. 
+Forest Stand Delineation: The methodology for evaluating the existing vegetation on a site 
+proposed for development, as provided in the Forest Conservation Technical Manual.
+
+<!-- page 350 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     347
+Fowl: birds which are hunted or kept for food, including Galliformes (such as turkeys, chickens, 
+partridges, and quail) and waterfowl of the order Anseriformes (such as ducks, geese, 
+and swans). See also Livestock and Poultry. 
+Freeboard: An increment of elevation added to the Base Flood Elevation to provide a factor of 
+safety for uncertainties in calculations, wave actions, subsidence, or other unpredictable 
+effects. 
+Frontage, Lot: The distance for which the front boundary line of the lot and the street line are 
+coincident. 
+Frontage, Street: All of the property on one side of a street between two intersecting streets 
+(crossing or terminating), measured along the line of the street, or if the street is dead- 
+ended, then all of the property abutting on one side between an intersecting street and 
+the dead-end of the street.  
+Garage, Private: A garage used for storage purposes only. 
+Grade: Grade elevations will be determined by averaging the elevations of the finished ground 
+at all corners and/or principal points in the perimeter wall of the building. 
+Grading/grade: Any act by which soil is disturbed, including but not limited to, clearing, 
+stripping, stockpiling, excavating, grubbing, scarified, filling, removing root mat or 
+topsoil, or any combination thereof. 
+Grading Unit: The maximum contiguous area allowed to be graded at a given time. For the 
+purposes of erosion and sediment control, a grading unit is the maximum contiguous 
+area allowed to be graded at a given time and can be established on a site-specific basis. 
+Grain Dryer, Commercial: A facility for drying grain, in which the grain that is dried is primarily 
+supplied by sources other than the owner and/or operator of the facility. 
+Group Home: A place, home, or institution which is licensed to provide boarding, shelter, and 
+personal services to not more than eight persons, regardless of age, who have a need for 
+supervision or assisted community living based on emotional, mental, physical, familial, 
+or social differences. (Examples of such persons include but will not be limited to the 
+mentally or physically handicapped, alcoholics, elderly, drug-dependent, and juveniles 
+under the jurisdiction of the courts, the Department of Social Services, or the Juvenile 
+Services Administration). Group homes do not include public or private schools 
+organized and operated under Maryland laws, persons related by blood or marriage 
+within the third degree to the custodial person, or to houses of worship, other religious 
+or other public institutions for caring for such persons within the building while parents 
+or other custodial persons are attending services, activities, or meetings. 
+Growing Season: The period of consecutive frost-free days as stated in the current soil survey 
+for Kent County published by the National Cooperative Soil Survey Program, 16 U.S.C. 
+Section 590 (a): (f).
+
+<!-- page 351 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     348
+Guest House: Living quarters within a detached accessory building located on the same 
+premises as the main dwelling. Such quarters not rented or otherwise used as a separate 
+dwelling and having no separate utility or kitchen. 
+Health Officer: The Health Officer of Kent County. 
+Highly Erodible Soils: Those soils with a slope greater than 15%; or those soils with a K Value 
+greater than 0.35 and with slopes greater than 5%. 
+Highest Adjacent Grade: The highest natural elevation of the ground surface, prior to 
+construction, next to the proposed foundation of a structure. 
+Historic Structures: Any structure, including but not limited to residential, agricultural, civic and 
+commercial buildings, which is equal to or greater than seventy-five years of age, or 
+otherwise deemed to be of historical significance by meeting one or more of the 
+following aspects of Kent County, Maryland or United States History: (1) Association 
+with historic events or activities; (2) Association with persons who are important to the 
+community or to specific developments of history; (3) Embodiment of distinctive 
+characteristics of a type, period, method of construction, or the work of a master; or (4) 
+Potential to provide important information about history or prehistory. (5) For 
+floodplain purposes: Any structure that is: (5a) Individually listed in the National Register 
+of Historic Places (a listing maintained by the U.S. Department of Interior) or 
+preliminarily determined by the Secretary of the Interior as meeting the requirements 
+for individual listing on the National Register; (5b) Certified or preliminarily determined 
+by the Secretary of the Interior as contributing to the historical significance of a 
+registered historic district or a district preliminarily determined by the Secretary to 
+qualify as a registered historic district; or (5c) Individually listed on the Maryland 
+Register of Historic Places. 
+Historic Waterfowl Staging and Concentration Area: An area of open water and adjacent 
+marshes where waterfowl gather during migration and throughout the winter season. 
+These areas are “historic” in the sense that their location is common knowledge and 
+because these areas have been used regularly during recent times. 
+Home Occupation: An occupation or business activity which results in a product or service and 
+is conducted in whole or in part in a dwelling unit or accessory structure and is clearly 
+secondary and subordinate to the residential use of the property. 
+Hospital: A building or group of buildings having room facilities for overnight patients, used for 
+providing services for the inpatient medical or surgical care of sick or injured persons, 
+and which may include related facilities, central service facilities, and staff offices; 
+provided however, that such related facilities will be incidental and subordinate to the 
+main use and will be an integral part of the hospital operation. 
+Hotel: A building in which lodging or boarding are provided for more than 15 persons, primarily 
+transient, or with more than ten guest rooms, offered to the public for compensation. 
+Ingress and egress to and from all rooms is made through an inside lobby or office 
+supervised by a person in charge at all hours. As such, it is open to the public, in contrast
+
+<!-- page 352 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     349
+to a boarding, rooming, or lodging house or an apartment house which are herein 
+separately defined. A hotel may include restaurants, taverns, clubrooms, public banquet 
+halls, ballrooms, and meeting rooms. 
+House of Worship: A building wherein persons regularly assemble for religious worship, and 
+those accessory activities as are customarily associated therein, which building and 
+activities are maintained and controlled by a religious body organized to sustain public 
+worship but not to render a service which is customarily carried on as a business. 
+Hedgerow: A row or rows of bushes, shrubs, or trees forming a hedge. 
+Hydric Soils: Soils that are wet frequently enough to periodically produce anaerobic conditions, 
+thereby influencing the species composition or growth, or both, of plants on these soils. 
+Hydrophytic Vegetation: Those plants cited in “Vascular Plant Species Occurring in Maryland 
+Wetlands” (Dawson, F. et al., 1985) which are described as growing in water or on a 
+substrate that is at least periodically deficient in oxygen as a result of excessive water 
+content (plants typically found in wet areas). 
+Impervious Surface: A surface that has been compacted or covered with a layer of material so 
+that it is highly resistant to infiltration by water.  For stormwater management 
+purposes: Any surface that does not allow stormwater to infiltrate into the ground. 
+Infiltration: The passage or movement of water into the soil surface. 
+Inspection Agency: The Maryland Water Management Administration or, if enforcement 
+authority has been delegated, Kent County. 
+Intermittent Stream: A stream in which surface water is absent during a part of the year as 
+shown on the most recent 7.5-minute topographic quadrangle published by the United 
+States Geologic Survey as confirmed by field verification. 
+Intrafamily Transfers: A transfer to a member of the owner’s immediate family of a portion of 
+the owner’s property for the purpose of establishing a residence for that family 
+member. 
+Island: In street or parking design, a raised area, usually curbed, placed to guide traffic and 
+separate lanes or used for landscaping, signage, or lighting. 
+Junk: Dilapidated automobiles, trucks, tractors, and other such vehicles and parts thereof, 
+dilapidated wagons, trailers, and other kinds of vehicles and parts thereof, scrap 
+building material, scrap contractor’s equipment, tanks, caskets, appliances, cans, 
+barrels, boxes, drums, piping, bottles, glass, old iron, machinery, rags, paper, excelsior, 
+hair, mattresses, beds or bedding, or any other kind of scrap or waste material which is 
+stored, kept, handled, or displayed. 
+Jurisdiction: Territory of a county or municipal corporation within which its powers may be 
+exercised. 
+K Value: The soil erodibility factor in the Universal Soil Loss Equation. It is a quantitative value 
+that is experimentally determined.
+
+<!-- page 353 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     350
+Land Surveyor: A person who is licensed as a land surveyor in the State of Maryland. 
+Land-based aquaculture: In the Critical Area, the raising of fish or shellfish in any natural or 
+man- made, enclosed, or impounded, water body. 
+Landforms: Features of the earth’s surface created by natural causes. 
+Landscape Plan: A plan showing the dimensions and details for reforesting an area at least 35 
+feet wide and covering 2,500 square feet or greater in size or landscaping, using native 
+or indigenous plants when appropriate, and where applicable, and is made a part of an 
+approved Forest Conservation Plan. 
+Laundromat: A business that provides washing, drying, and/or ironing machines or dry-cleaning 
+machines for hire to be used by customers on the premises. 
+Linear Project: a project which is elongated with nearly parallel sides and is used to transport a 
+utility product or public service not otherwise contained in an application for 
+subdivision, such as electricity, gas, water, sewer, communications, trains, and vehicles. 
+It may traverse fee simple properties through defined boundaries or established 
+easement rights 
+Limit of Moderate Wave Action (LiMWA): Inland limit of the area affected by waves greater 
+than 1.5 feet during the base flood. Base flood conditions between the VE Zone and the 
+LiMWA will be similar to, but less severe than those in the VE Zone. 
+Load-Bearing Fill: Any facility, earthwork, or fill placed in a controlled manner to support 
+structural foundations or vehicular traffic, the instability of which would constitute a 
+public hazard or nuisance. 
+Livestock: domesticated animals that are kept for purposes including meat, leather, wool, or 
+labor, which may include but not be limited to cattle, swine, sheep, horses, mules, or 
+goats. Large ruminants include cattle; small ruminants include sheep and goats; equines 
+include horses and mules. See also Fowl and Poultry. 
+Loading Space: An off-street space or berth within or adjacent to the main building for the 
+standing, loading, or unloading of vehicles. 
+Lodging house: Same as rooming house. 
+Lot: A parcel of land whose boundaries have been established by some legal instrument such as 
+a recorded deed or plat and which is recognized as a separate legal entity for the 
+purposes of transferring title. 
+Lot Area: The total horizontal area within the lot lines of the lot. 
+Lot Line: The boundary line of a lot. 
+Lot, Corner: A lot abutting upon two or more streets at their intersection. 
+Lot, Depth: The average horizontal distance between the front and rear lot lines. 
+Lot, Interior: A lot other than a corner lot.
+
+<!-- page 354 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     351
+Lot, Through (Double Frontage): A lot having a frontage of two approximately parallel streets or 
+places. 
+Lot Width: The horizontal distance between the side lot lines measured at the front building 
+setback line. 
+Lowest Floor: In the application of the floodplain regulations, the lowest floor of the lowest 
+enclosed area, including a basement. An unfinished enclosure constructed of flood 
+resistant materials used solely for parking of vehicles, storage, or building access in an 
+area other than a basement, and which is not the lowest floor, as long as it is supplied 
+with water equalizing vents. 
+MET Tower:: A temporary tower erected for the purpose of performing a wind study to 
+determine the optimal location for a wind energy system. 
+Maintenance Agreement or Guarantee: 1) Any security which may be required and accepted by 
+Kent County to ensure that necessary improvements will function as required for a 
+specified period of time. 2) The short-term management agreement associated with 
+afforestation, reforestation, or landscaping. 3) The long-term management agreement 
+for private roads and stormwater management facilities. 
+Major Thoroughfare: A street or highway so designated on the Kent County Major 
+Thoroughfare Map. 
+Manufactured Home: A transportable structure that is built on a permanent chassis and is 
+designed for use with or without a permanent foundation when connected to the 
+required utilities. A mobile home is separately defined below. 
+Marina: A location for docking or mooring boats and providing services for compensation to 
+boats and the occupants thereof. Marina does not include a community pier or other 
+noncommercial boat docking and storage facility.  
+Maximum Extent Practicable (MEP): Designing stormwater management systems so that all 
+reasonable opportunities for using ESD planning techniques and treatment practices are 
+exhausted and only where absolutely necessary, a structural BMP is implemented.  
+Mean High Water Line: The average annual level of high tides at a given location. 
+Microbrewery: A facility in which beer is brewed for distribution and consumption, and which 
+possesses the appropriate license from the State of Maryland, including tasting rooms 
+on the premises for the consumption of on-site produced beer .  
+Minor Street: A street other than a major thoroughfare or collector street and intended 
+primarily for providing access to abutting properties. 
+Mobile Home: A structure, transportable in one or more sections, which when erected on site is 
+320 square feet or more, and is built on a permanent chassis and is designed to be used 
+as a dwelling with or without a permanent foundation when connected to the required 
+utilities and includes plumbing, heating, air conditioning, and electrical systems 
+contained in it. This term will apply to any structure which meets all the requirements of 
+this definition except the size requirement and with respect to which the manufacturer
+
+<!-- page 355 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     352
+voluntarily files a certification required by the Secretary of HUD and complies with the 
+standards established under the federal act. 
+Mobile Home Development: Any lot, parcel, or tract, together with required open space, used, 
+designed, maintained, or held out to accommodate mobile homes, whether by rental or 
+ownership and all buildings and structures intended as accessory uses. A mobile home 
+development does not include automobile or mobile home sales lots on which 
+unoccupied mobile homes are parked for inspection and sale. A mobile home 
+development provides for the permanent or long-term location of mobile homes to be 
+occupied as residences. 
+Mobile Home Park: A mobile home development which is divided into individual sites and solely 
+operated exclusively as a rental project. 
+Mobile Home Subdivision: A mobile home development which is subdivided into individual lots. 
+Modified Buffer: An area of 100 feet measured horizontally from mean high tide, the edge of 
+tidal wetlands, or tributary streams and located within a Modified Buffer Area. This 
+modified buffer will include a 25-foot area of existing naturally vegetated area, or an 
+area established in vegetation and managed to protect aquatic environments, wetlands, 
+shoreline, and terrestrial environments from man-made disturbances. Sites with a non-
+functioning buffer will be required to have a modified buffer. 
+Modified Buffer Area: Those areas as mapped by the Kent County Department of Planning and 
+Zoning and approved by the Critical Area Commission. 
+Motel, Tourist Home, or Motor Lodge: A building in which lodging, or boarding and lodging, are 
+provided and offered to the public for compensation. As such, it is open to the public in 
+contradistinction to a boarding or lodging house, or a multi-family dwelling; same as a 
+hotel except that the buildings are usually designed to serve tourists traveling by 
+automobile, ingress and egress to rooms need not be through a lobby or office and 
+parking is usually adjacent to the rooms. 
+Native Plants: Species native to the State of Maryland, including improved cultivars of those 
+species. 
+Natural Features: Components and processes present in or produced by nature, including, but 
+not limited to, soil types, geology, slopes, vegetation, surface water, drainage patterns, 
+aquifers, recharge areas, climate, floodplains, aquatic life, and wildlife. 
+Natural Ground Surfaces: The ground surface in its original state before grading, stripping, 
+excavation, or filling. 
+Natural Heritage Area: Any community of plants or animals which are considered to be among 
+the best Statewide examples of their kind and are designated by regulation by the 
+Department of Natural Resources. 
+Natural Parks: Areas of natural habitat that provide opportunities for those recreational 
+activities that are compatible with the maintenance of natural conditions.
+
+<!-- page 356 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     353
+Natural Regeneration: The natural establishment of trees and other vegetation with at least 400 
+woody, free-to-grow seedlings per acre, which are capable of reaching a height of at 
+least twenty feet at maturity. 
+Natural Vegetation: Those plant communities that develop in the absence of human activities. 
+Nature-dominated: A condition where landforms or biological communities, or both, have 
+developed by natural processes in the absence of human intervention. 
+Net Tract Area: For forest conservation : (1) Except in agricultural (AZD) and resource (RCD) 
+areas, the total area of a site, including both forested and non-forested areas, to nearest 
+1/10 acre, reduced by the area where forest clearing is restricted by another local 
+ordinance or program. (2) In agricultural (AZD) and resource (RCD) areas, the part of the 
+total tract for which land use will be changed or will no longer be used for primarily 
+agricultural activities, reduced by the area where forest clearing is restricted by another 
+local ordinance or program. (3) For a linear project, the area of a right-of-way width, 
+new access roads, and storage, or the limits of disturbance as shown on an application 
+for sediment and erosion control approval or in a capital improvements program project 
+description. 
+New Construction: In terms of floodplain management, structures, including additions and 
+improvements, and the placement of manufactured homes, for which the start of 
+construction (herein defined) commenced on or after April 25, 1975, the initial effective 
+date of the Kent County Flood Insurance Rate Map, including any subsequent 
+improvements, alterations, modifications, and additions to such structures. 
+NAVD: In terms of floodplain: the North American Vertical Datum of 1988 elevation reference 
+points set by the National Geodetic Survey based on mean sea level. 
+Nonconformities: (1) Nonconforming Lots: A validly recorded lot which at the time it was 
+recorded fully complied with all applicable laws and ordinances but which does not fully 
+comply with the lot requirements of this Ordinance concerning minimum density, area, 
+or dimension. (2) Nonconforming Structures: A structure or building, not including signs, 
+which lawfully existed on the effective date of this Ordinance but which does not 
+comply with one or more of the development standards for the district in which it is 
+located. (3) A use or activity that was lawful prior to the effective date of this Ordinance 
+but fails to comply with the present requirements of the Ordinance. 
+Non-Functioning Buffer: A buffer will be considered non-functioning if: (1) More than 50% of 
+the buffer on-site is impervious, or (2) More than 75% of the buffer on the site is 
+disturbed either with stone, decks, septic systems, or other obvious human impacts. The 
+site will include all contiguous parcels under single ownership. (3) The site is located 
+within a Modified Buffer Area. (4) Contiguous buffers of natural vegetation of 100 feet 
+of shoreline are considered functioning buffers. 
+Non-Point Source Pollution: Pollution generated by diffuse land use activities rather than from 
+an identifiable or discrete facility. It is conveyed to waterways through natural 
+processes, such as rainfall, storm runoff, or groundwater seepage rather than by
+
+<!-- page 357 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     354
+deliberate discharge. Non-point source pollution is not generally corrected by “end-of-
+pipe” treatment, but rather, by changes in land management practices. 
+Non-Renewable Resources: Resources that are not naturally regenerated or renewed. 
+Non-tidal Floodplains: These floodplains consist of the floodway and floodway fringe. Non-tidal 
+floodplains may have detailed engineering study data, profiles, and water surface 
+elevations, or may have approximate delineations only. 
+Non-tidal wetlands: (1) Within the Critical Area, those lands, excluding tidal wetlands regulated 
+under Md. Code Ann., Natural Resources, Title 9, where the water table is usually at or 
+near the surface, or lands where the soil or substrate is covered by shallow water at 
+some time during the growing season, and which are usually characterized by one or 
+both of the following: (1a) At least periodically, the lands support predominately 
+hydrophytic vegetation; and (1b) The substrate is predominately undrained hydric soils. 
+(2) Excluded from these regulations are farm ponds and other man-made bodies of 
+water whose purpose is to impound water for agriculture, water supply, recreation, or 
+waterfowl habitat purposes. (3) Outside the Critical Area, as defined by the State of 
+Maryland, Army Corps of Engineers, Environmental Protection Agency, Natural 
+Resources Conservation Service, U.S. Fish and Wildlife Service, and any other applicable 
+State or Federal Agency. 
+Nursing Home: Same as Convalescent Home. 
+Office of Sediment Control: The Kent County Department of Planning and Zoning for inspection 
+purposes and the Kent Soil and Water Conservation District for plans review purposes. 
+Offsets: Structures or actions that compensate for undesirable impacts. 
+Off-site: Outside of the limits of the area encompassed by the development or tract. 
+Off-site Stormwater Management: The design and construction of a facility necessary to control 
+stormwater from more than one development. 
+On-site: Within the limits of the area encompassed by a development or tract, including an area 
+classified as a 100-year floodplain. 
+On-site Stormwater Management: The design and construction of systems necessary to control 
+stormwater within an immediate development. 
+One Percent Annual Chance (100-Year) Floodplain: An area along or adjacent to a stream or 
+body of water that is capable of storing or conveying floodwaters during the 100-year 
+frequency flood as shown on the Flood Insurance Rate Map and Flood Insurance Study. 
+One Percent Annual Chance (100-Year) Flood: The base flood, having one chance in hundred 
+(one percent chance) of being equaled or exceeded in any year. 
+Open Space: Those areas suitable for common recreational use or which provide visual relief to 
+developed areas, exclusive of flood control channel right of ways, areas devoted to 
+parking, vehicular traffic, or private land, and any other area which does not significantly
+
+<!-- page 358 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     355
+lend itself to the overall benefit of either the particular development or surrounding 
+environment.   
+Overbank Flood Protection Volume: The volume controlled by structural practices to prevent an 
+increase in the frequency of out-of-bank flooding generated by development. Methods 
+for calculating the overbank flood protection volume are specified in the Design Manual. 
+Overburden: In the Critical Area, the strata or material in its natural state, before its removal by 
+surface mining, overlying a mineral deposit, or in between mineral deposits. 
+Palustrine: All non-tidal wetlands dominated by trees, shrubs, persistent emergent plants, or 
+emergent mosses or lichens and all such wetlands that occur in tidal areas where the 
+salinity due to ocean derived salts is below one-half part per 1,000 parts of water. 
+Parking, off-street: An all-weather surface area not in a street or alley and having an area of not 
+less than 200 square feet, exclusive of driveways, permanently reserved for the 
+temporary storage of one vehicle and connected with a street or alley by a paved 
+driveway which affords ingress and egress for an automobile without requiring another 
+automobile to be moved. 
+Perennial Stream: A stream containing surface water throughout an average rainfall year, as 
+shown on the most recent 7.5-minute topographic quadrangle published by the United 
+States Geologic Survey, as confirmed by field verification. 
+Permanent Construction: Any structure occupying a site for more than 180 days per year. 
+Permittee: Any persons to whom a permit is issued pursuant to this Ordinance. 
+Person: Includes, in addition to any other meaning it may have under this chapter, an individual, 
+a corporation, a partnership, the federal government, a county, a municipal corporation, 
+or any other political subdivision of the State, an agency, or any other similar entity 
+whatsoever. 
+Personal Wireless Facility: Facility for the provision of personal wireless services, as defined by 
+the Telecommunications Act but not including public and commercial radio and 
+television facilities.  
+Personal Wireless Facility Tower: A tower, including guyed towers, lattice towers, and 
+monopoles, for the purpose of supporting personal wireless facilities. 
+Physiographic Features: The soils, topography, land slope and aspect, and local climate that 
+influence the form and species composition of plant communities. 
+Pier: A structure built over the water and supported by pillars, piles, or floats, and used as a 
+landing place, including tie-out pilings. 
+Pier Length: The straight-line distance between the mean high-water mark and the outermost 
+piling. 
+Planning Commission: The Kent County Planning Commission.
+
+<!-- page 359 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     356
+Planning Techniques: For stormwater management purposes: A combination of strategies 
+employed early in the project design to reduce the impact from development and to 
+incorporate natural features into a stormwater management plan. 
+Plant Habitat: A community of plants commonly identifiable by the composition of its 
+vegetation and its physiographic characteristics. 
+Plot Plan: A site plan for review of single-family dwellings, accessory uses, and structures, which 
+may include new single-family dwellings, additions and alterations to single family 
+dwellings, and agricultural structures. These projects have minor impact, require less 
+information, and may be reviewed and approved by the Planning Director or the 
+Planning Director’s designee. Other minor, non-residential projects may be eligible for 
+review by this type of site plan. 
+Port: A facility or area established or designated by the State or local jurisdictions for purposes 
+of water-borne commerce. 
+Poultry: domesticated fowl to include but not be limited to chickens, ducks, geese, turkeys, and 
+pigeons or doves. See also Fowl and Livestock. Premises: A lot, together with all the 
+buildings and structures thereon. 
+Primary Road: Primary roads are identified on the Kent County Road Classification System map 
+in the Kent County Comprehensive Plan (See the adopted Kent County Comprehensive 
+Plan: https://www.kentcounty.com/planning/compplan).  
+Priority Funding Area: An area designated as a Priority Funding Area under State Finance and 
+Md. Code Ann., Procurement, §5-7B-02. 
+Private Destination/Residence Club: Tourist accommodations in one or more buildings owned, 
+co-owned, or operated by a corporation, association, person, or persons, and serving as 
+the temporary abode of persons having a residence elsewhere and offering both pre- 
+and post-arrival concierge service. The use and occupancy of the units circulates among 
+individuals on a periodically recurring basis and is inherently transient. 
+Private Harvesting: The cutting and removal of trees for personal use. 
+Private Road: A way for vehicular traffic maintained by private property owners using it. 
+Professional Offices: Offices for doctors, dentists, attorneys, engineers, land surveyors, 
+counselors, and similar uses as determined by the Department. 
+Project Approvals: The approval of development, other than development by a State or local 
+government agency, in the Chesapeake Bay Critical Area by the appropriate local 
+approval authority. The term includes approval of subdivision plats and site plans; 
+inclusion of areas within floating zones; issuance of variances, special exceptions, and 
+conditional use permits; and issuance of zoning permits. The term does not include 
+building permits. 
+Protected Lands: A Maryland Agricultural Land Preservation Foundation (MALPF) district or any 
+other agricultural or conservation easement, both public and private.
+
+<!-- page 360 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     357
+Public Landing: Areas adjacent to the waters of Kent County and owned by the Kent County 
+Commissioners for use by the public for water related activities, subject to rules and 
+regulations as may be promulgated by the Kent County Commissioners. 
+Public Utilities: Uses or structures for the public provision, transmission, and distribution of 
+electricity (but not power generation); fuel transmission and distribution (but not 
+manufacture or storage) of gas; potable water treatment and distribution; sewerage 
+collection and treatment; telephone and internet service facilities (not including stations 
+or terminals). This does not include public utility lines and accessory structures. 
+Public Utility Lines and Accessory structures: Underground gas mains and pipes and 
+underground and overhead electrical and communications wires, cables, pipes, 
+conduits, and their supporting poles, towers, repeaters, boosters, anodes, regulating 
+and measuring devices, and the minor buildings or structures in which they may be 
+housed, but not including major buildings, yards, stations, or substations for 
+transforming, boosting, switching, or pumping purposes, where such facilities are 
+constructed on the ground. 
+Public Water-Oriented Recreation: Shore-dependent recreation facilities or activities provided 
+by public agencies which are available to the general public. 
+Recharge Volume: That portion of the water quality volume used to maintain ground water 
+recharge rates at development sites. Methods for calculating the recharge volume are 
+specified in the Design Manual. 
+Reclamation: The reasonable rehabilitation of disturbed land for useful purposes, and the 
+protection of natural resources of adjacent areas, including water bodies. 
+Recreational Vehicle: A vehicular, portable device, not more than 45 feet in length, built on a 
+chassis designed to be self-propelled or permanently towable by a light duty truck, and 
+used as a temporary dwelling for travel or recreational purposes. 
+Redevelopment: For stormwater management purposes: Any construction, alteration, or 
+improvement on sites where existing land use is commercial, industrial, institutional, or 
+multi-family residential and existing site impervious area exceeds forty (40) percent. For 
+Critical Area purposes: The process of developing land, which is or has been developed. 
+Reforestation: The establishment of a forest through artificial reproduction or natural 
+regeneration and including for forest conservation purposes: (1) The creation of a 
+biological community dominated by trees and other woody plants containing at least 
+one hundred live trees per acre with at least 50 percent of those trees having the 
+potential of obtaining a two-inch or greater diameter measured at 4.5 feet above the 
+ground within seven years. (2) Establishment of a forest according to the Forest 
+Conservation Technical Manual. (3) Landscaping of areas under an approved landscape 
+plan establishing a forest at least 35 feet wide and covering an area of 2,500 square feet 
+or more. (4) For a linear project involving overhead transmission lines, it may consist of a 
+biological community dominated by trees and woody shrubs with no minimum height or 
+diameter criteria.
+
+<!-- page 361 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     358
+Regulated Activity: For application of forest conservation outside of the Critical Area, any of the 
+following activities when that activity occurs on a unit of land which is 40,000 square 
+feet or greater: (1) Subdivision; (2) Grading; (3) An activity that requires a sediment 
+control permit; or (4) Project plan of a State or local agency. 
+Regulated Grading: Any grading performed with the approval of, and in accordance with, 
+criteria established by this Ordinance. 
+Regulations: The whole body of regulations, text, charts, diagrams, notations, and references 
+contained in or referred to in this Ordinance. 
+Renewable Resource: A resource that can renew or replace itself and, therefore, with proper 
+management, can be harvested indefinitely. 
+ Resort: A self-contained facility that serves as a primary attraction for visitors which provides 
+recreational and/ or therapeutic facilities. A resort may also include meeting facilities. 
+Resource Banking: The restoration, creation, enhancement, and in certain defined 
+circumstances, preservation of a natural resource such as wetlands or forest for the 
+express purpose of compensating for the loss of the natural resource. 
+Responsible Personnel: Any foreman, superintendent, or project engineer who is in charge of 
+on-site clearing and grading operations or the implementation and maintenance of an 
+erosion and sediment control plan. 
+Restaurant: An establishment that serves food and beverages primarily to customers seated at 
+tables or counters in a building or designated outdoor seating areas and may include 
+drive through service, when such service are listed as being permitted in a zoning 
+district. This includes cafes, tearooms, and snack bars. 
+Retail businesses, including shopping centers, are businesses which supply, on the premises, 
+household goods, new automotive parts, agricultural supplies and commodities, 
+sporting goods, and the like including department, outlet, and discount stores. 
+Retention: In forest conservation, the deliberate holding and protection of existing trees, 
+shrubs, or plants on the site according to established standards as provided in the Kent 
+County Forest Conservation Technical Manual. 
+Retention Structure: A permanent structure that provides for the storage of runoff by means of 
+a permanent pool of water. 
+Retreat: A small meeting facility in a private, natural area, free from distractions thus allowing 
+meeting participants to focus on the goals and objectives of the meeting. 
+Retrofitting: The implementation of ESD practices, the construction of structural BMPs, or the 
+modification of an existing structural BMP in a previously developed area to improve 
+water quality over current conditions.  
+Right-of-way: A strip of land occupied or intended to be occupied by a street, crosswalk, 
+railroad, road, electrical transmission line, gas pipeline, water main, sanitary or storm 
+sewer main, shade trees, or for another special purpose.
+
+<!-- page 362 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     359
+Riparian Habitat: A habitat that is strongly influenced by water and which occurs adjacent to 
+streams, shorelines, and wetlands. 
+Roads: Collector, Primary, and Secondary: As shown on the County’s Road Classification System 
+map in the Kent County Comprehensive Plan or Town’s Major Thoroughfare Map (See 
+Comprehensive Plan https://www.kentcounty.com/planning/compplan).  
+Roadside Stand: A structure designed or used for the display or sale of local agricultural 
+products. 
+Roadway: That portion of a street or highway available for and intended for use by motor 
+vehicle traffic. 
+Rooming House: A building where, for compensation and by prearrangement for definite 
+periods, lodging, meals, or lodging and meals are provided for three or more persons 
+but containing no more than five guest rooms or rental units that intended for rental to 
+transients on a day to day or week to week basis, but are not intended for use or used 
+as a permanent dwelling, and where individual units do not include kitchen facilities. 
+Rural Inn: A facility with 10 to 25 guest rooms that are not for use as permanent residences, 
+with on-site management for the purpose of providing overnight lodging to the general 
+public for transient stays of 45 consecutive days or less for compensation and only by 
+prearrangement, and at which limited dining facilities may also be offered for guests 
+and the general public. 
+Sanitary Landfill: A land disposal site employing an engineering method of disposing of solid 
+waste on land in a manner that minimizes environmental hazards by spreading the solid 
+waste to the smallest practical volume and applying and compacting cover at the end of 
+each operating day or more often if required. 
+Sawmill: A facility where logs or partially processed cants (logs slabbed on one or more sides) 
+are sawn, split, shaved, stripped, chipped, or otherwise processed to produce wood 
+products (but not paper or paper products) not including the processing of timber for 
+use on the same lot by the owner or resident of that lot. 
+Screen: A structure or planting consisting of fencing, berms, and/or deciduous or coniferous 
+trees or shrubs providing a continuous view obstruction within a site or property. 
+Seasonally Flooded Water Regime: A condition where surface water is present for extended 
+periods, especially early in the growing season, and when surface water is absent, the 
+water table is often near the land surface. 
+Secondary Road: Secondary roads are identified on the Kent County Road Classification System 
+map in the Kent County Comprehensive Plan (see the adopted Kent County 
+Comprehensive Plan: https://www.kentcounty.com/planning/compplan). or roads so 
+designated by an incorporated Town. 
+Sediment: Soils or other surficial materials transported or deposited by the action of wind, 
+water, or artificial means.
+
+<!-- page 363 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     360
+Sediment Control Officer: Kent County Planning Director or the Director’s designee or the 
+District Manager of the Kent Soil and Water Conservation District (KSWCD). 
+Sediment Control Permit: The authorization of an activity regulated under a sediment control 
+plan as provided in the Md. Code Ann., Environment, Title 4. 
+Seedlings: An unbranched woody plant, less than 24 inches in height and having a diameter of 
+less than ½ inch measured at two inches above the root collar. 
+Selection: In the Critical Area, the removal of single, scattered, mature trees or other trees from 
+uneven-aged stands by frequent and periodic cutting operations. 
+Selective Clearing: The careful and planned removal of trees, shrubs, and plants using specific 
+standards and protection measures under an approved Forest Conservation Plan. 
+Servants’ Quarters: Living quarters within a portion of the main building or in an accessory 
+building on the same lot with the main building used for servants employed on the 
+premises, such quarters having no kitchen facilities or separate utility meters, and not 
+rented or otherwise used as a separated dwelling. 
+Setback: The distance between the street right of way and the line of a building or any 
+projection thereof. 
+Sewage Sludge: The accumulated semi-liquid or dried solid residue that is deposited from 
+sewage or septage in a wastewater treatment plant, as defined in the COMAR 
+regulations. 
+Sewage Sludge Land Application: The deposition of sewage sludge on the surface or the 
+injection or incorporation of such material into the root zone or soil profile. 
+Shadow Flicker: The moving shadow created by the sun shining on rotating blades of the wind 
+turbine. 
+Shopping Center: An integrated development of four or more commercial, retail, or service 
+establishments, either connected or freestanding sharing common parking facilities and 
+common access. 
+Shoreline Cliff: A steep face of 10 feet or higher with a slope in excess of 60 degrees either 
+vegetated or non-vegetated which borders the Chesapeake Bay, the Chester River, the 
+Sassafras River, or any open water tributary within Kent County. 
+Sign: See Article V for all sign-related definitions. 
+Significantly Eroding Areas: Areas that erode 2 feet or more per year. 
+Site: Any tract, lot, or parcel of land or combination of tracts, lots, or parcels of land which are 
+under one ownership, or are contiguous and in diverse ownership where development is 
+to be performed as a part of a unit, subdivision, or project.  
+Site Development Plan: For erosion and sediment control and stormwater management 
+purposes: The second of three plan approvals that include the information necessary to 
+allow a detailed evaluation of a proposed project.
+
+<!-- page 364 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     361
+Site Plan: A drawing illustrating a proposed development and prepared in accordance with the 
+specifications of Article IV. 
+Site Plan, Major: A site plan which is reviewed and decided upon by the Kent County Planning 
+Commission. This includes all site plans required by this Ordinance that do not meet the 
+criteria for plot plans or minor site plans. 
+Site Plan, Minor: A site plan which is reviewed and decided upon by the Planning Director, or 
+the Planning Director’s designee, after review by the Technical Advisory Committee. 
+Slip: That area of the waterway contained within the tie-out pilings, a bulkhead, or a pier, 
+whether covered or not. 
+Slope: The inclined exposed surface of fill, excavation, or natural terrain. 
+Soil: All earth material of whatever origin that overlies bedrock, and including, but not limited 
+to, the decomposed zone of bedrock which can be readily excavated by mechanical 
+equipment. 
+Soil Conservation and Water Quality Plans: In the Critical Area, land use plans for farms, which 
+show farmers how to make the best possible use of their soil and water resources while 
+protecting and conserving those resources for the future. It is a document containing a 
+map and related plans that indicate: (1) How the landowner plans to treat a farm unit; 
+(2) Which best management practices the landowner plans to install to treat 
+undesirable conditions; and (3) The schedule for applying those best management 
+practices. 
+Solar Energy System, utility scale: Any device or combination of devices or elements which rely 
+upon direct sunlight as an energy source, including but not limited to any substance or 
+device which collects sunlight for generating energy primarily for use off-site. Energy 
+generated may be used to serve on site power needs.  
+Solar Energy System, small: Any device or combination or devices or elements which rely upon 
+direct sunlight as an energy source, including but not limited to any substance or device 
+which collects sunlight for generating energy for use on site. The energy output may also 
+be delivered to a power grid to offset the cost of energy on site, as well as aggregate 
+metering as defined by the State of Maryland. 
+Special Flood Hazard Area (SFHA): The land in the floodplain subject to a one percent or greater 
+chance of flooding in any given year. Special Flood Hazard Areas are designated by the 
+Federal Emergency Management Agency in Flood Insurance Studies and on Flood 
+Insurance Rate Maps as Zones A, AE, AH, AO, A1-30, and A99, and Zones VE and V1-30. 
+The term includes areas shown on other flood maps that are identified in Article VI. 
+Species in Need of Conservation: Those fish, plants, and wildlife whose continued existence as 
+part of the State’s resources are in question and which may be designated by regulation 
+by the Secretary of Natural Resources as in need of conservation pursuant to the 
+requirements of Md. Code Ann., Natural Resources, §10-2A-06, among others.
+
+<!-- page 365 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     362
+Stabilization: The protection of exposed soils from erosion by the application of seed and 
+mulch, seed and matting, sod, other vegetative measures, and/or structural means. 
+Stable, Private: An accessory building, not related to the ordinary operation of a farm, for the 
+housing of not more than four horses or mules owned by a person or persons living on 
+the premises and which horses or mules are not for hire or sale. 
+Stable Commercial: Any stable for the housing of horses or mules, operated for remuneration, 
+hire, sale, or stabling, or any stable not related to the ordinary operation of a farm, with 
+the capacity for more than four horses or mules, whether or not such stable is operated 
+for remuneration, hire, sale, or stabling. 
+Standards and Specification: The “2011 Maryland Standards and Specification from Soil Erosion 
+and Sediment Control” or any subsequent revisions. 
+Start of Construction: For floodplain management, the date of issue of the building permit for 
+any development, including new construction and substantial improvements, provided 
+that the actual start of the construction or improvement was within 180 days of permit 
+issuance. The actual start of construction is the placement of slab or footings, piles, 
+columns, or actual placement of a manufactured home. For substantial improvement, 
+the start of construction is the first alteration of any structural part of the building. 
+Steep Slopes: Slopes of 15% or greater incline. 
+Stormwater: Water that originates from a precipitation event.  
+Stormwater Management: (1) For quantitative control, a system of vegetative and structural 
+measures that control the increased volume and the rate of surface runoff caused by 
+man-made changes to the land; and (2) For qualitative control, a system of vegetative, 
+structural, and other measures that reduce or eliminate pollutants that might otherwise 
+be carried by surface runoff. 
+Stormwater Management Plan: A set of drawings or other documents submitted by a person as 
+a prerequisite to obtain stormwater management approval, which contains all of the 
+information and specifications pertaining to stormwater management. 
+Stormwater Management System: Natural areas, ESD practices, stormwater management 
+measures, and any other structure through which stormwater flows, infiltrates, or 
+discharges from a site.  
+Stream Protection Corridor: A 100-foot naturally vegetated area or an area established in 
+vegetation and managed to protect aquatic environments, wetlands, shoreline, and 
+terrestrial environments from man-made disturbances. The stream protection corridor 
+will be 100 feet and will be measured horizontally from the top of each normal bank of a 
+perennial or intermittent stream. 
+Stream Restoration Project: an activity that: (1) Is designed to stabilize stream banks or enhance 
+stream function or habitat located within an existing stream, waterway, or floodplain; 
+(2) Avoids and minimizes impacts to forests and provides for replanting on-site an 
+equivalent number of trees to the number removed by the project; (3) May be
+
+<!-- page 366 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     363
+performed under a separate storm sewer system permit, a watershed implementation 
+plan growth offset, or another plan administered by the State or County to achieve or 
+maintain water quality standards; and (4) Is not performed to satisfy stormwater 
+management, wetlands mitigation, or any other regulatory requirement associated with 
+proposed development activity. 
+Street: A public or private thoroughfare which affords the principal means of access to abutting 
+property. 
+Street Line: A dividing line separating a lot, tract, or parcel of land and a contiguous street. 
+Story: That portion of a building, other than a basement, including between the surface of any 
+floor and the surface of the floor next above it; or if no floor next above it exists, then 
+the space between such floors and the ceiling next above it. 
+Stripping: Any activity which removes the vegetative surface cover, including tree removal, 
+clearing, grubbing, and storage or removal of topsoil. 
+Structural Alteration: Any change in the supporting members of a building, footings, bearing 
+walls or petitions, columns, beams, girders, or any substantial change in the roof or 
+exterior walls, excepting such repair as may be required for the safety of the building. 
+Structural Rock Fills: Fills constructed predominately of rock materials for the purpose of 
+supporting structures. 
+Structure: Anything constructed or erected, the use of which requires a more or less permanent 
+location on the ground or attached to something having a permanent location on the 
+ground, including but not limited to mobile homes, swimming pools, fences with footers 
+or a foundation, gas and liquid storage tanks, backstops for tennis courts, sheds, barns, 
+and pergolas, excluding slabs, driveways, and walkways outside the Critical Area. 
+Subdivider: Any person, individual, firm, partnership, association, corporation, estate, trust, or 
+any other group or combination, acting as a unit, dividing or proposing to divide land so 
+as to constitute a subdivision as defined below and including any agent of the 
+subdivider. 
+Subdivision: The division of a lot, tract, or parcel of land into two or more lots, parcels, sites, or 
+other divisions of land. It includes resubdivision and when appropriate to the context, 
+will refer to the process of subdividing or the land subdivided. Subdivisions will be 
+classified into one of the following: (1) Major Subdivision: Any subdivision containing 
+eight or more lots, parcels, sites, or other divisions of land. (2) Minor Subdivision: Any 
+subdivision containing seven or fewer lots, parcels, sites, or other divisions of land. (3) 
+Adjustment of Lot lines: Adjustment of lot lines between adjoining property owners. 
+Substantial Damage: Damage of any origin sustained by a structure whereby the cost of 
+restoring the structure to its before damage condition would equal or exceed 50% of the 
+market value of the structure before the damage occurred. 
+Substantial Improvement: Any repair, reconstruction, or improvement of a structure, the cost of 
+which equals or exceeds 50% of the market value of the structure (without any land
+
+<!-- page 367 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     364
+value included) either before the improvement or repair is started; or if the structure 
+has incurred substantial damage and been restored, before the damage occurred. 
+Substantial improvement occurs when the first alteration of any wall, ceiling, floor, or 
+other structural part of the building commences. The minimum repairs needed to 
+correct previously identified violations of local health, safety, or sanitary codes, and 
+alterations to historic structures which do not preclude their continued designation as 
+historic structures are not considered substantial improvements. In floodway and 
+coastal high hazard areas, permits will be tracked by property locations to determine if 
+the cumulative value of improvements constitute substantial improvement of a 
+structure. 
+Surface Mining: (1a) The breaking of the surface soil in order to extract or remove minerals. 
+(1b) Any activity or process constituting all or part of a process for the extraction or 
+removal of minerals from their original location; (1c) The extraction of sand, gravel, 
+rock, stone, earth, or fill from borrow pits for highway construction purposes or other 
+public facilities. (2) For the purpose of this Ordinance, surface mining includes: (2a) 
+Operations engaged in processing minerals at the site of excavation; (2b) Removal of 
+overburden and mining of limited amounts of any mineral when done for the purpose of 
+prospecting and to the extent necessary to determine the location, quantity, or quality 
+of any natural deposit; and (2c) Mining operations, if the affected land exceeds one acre 
+or more in area. 
+Swimming Pool: Any portable pool or permanent structure containing a body of water 42 inches 
+or more in depth and 250 square feet or more of water surface area, intended for 
+recreational purposes, including a wading pool but not including an ornamental 
+reflecting pool or fishpond or any other type of pool, located and designed so as not to 
+create a hazard or be used for swimming or wading. 
+Technical Advisory Committee (TAC): A committee organized to review and comment on 
+subdivision and other development proposals. TAC consists of the following  types of 
+agencies and their designated representatives: Planning and Zoning, Public Works, 
+Environmental Health, State Highway Administration, State Forester, , and 
+representatives of other agencies and utilities concerned with development or 
+subdivision review. 
+Tenant: An occupant of land or premises who occupies, uses, and enjoys real property for a 
+fixed time, usually through a lease arrangement with the property owners. 
+Tenant House: A farm dwelling, other than the main farmhouse, for occupancy by a person or 
+family associated with the agricultural endeavors on the farm or by a member of the 
+property owner’s immediate family. 
+Thinning: A forest practice used to accelerate the growth of quality trees in the shortest interval 
+of time. 
+Tidal Wetland: Defined as State and private wetlands by the State of Maryland in Md. Code 
+Ann., Natural Resources, Title 9.
+
+<!-- page 368 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     365
+Timber Harvesting: a tree-cutting operation affecting 1 or more acres of forest or developed 
+woodland within a 1-year interval that disturbs 5,000 square feet or more of forest floor. 
+It does not include grubbing and clearing of root mass. 
+Topography: The existing configuration of the earth’s surface including the relative relief, 
+elevation, and position of land features. 
+Townhouse: A single family dwelling forming one of a group or series of three or more attached 
+single-family dwellings separated from one another by party walls without doors, 
+windows, or other provisions for human visibility. 
+Tract: Property or unit of land subject to an application for a grading or sediment control 
+permit, subdivision approval, project plan approval, or areas subject to this Ordinance. 
+Transitional Habitat: A plant community whose species are adapted to the diverse and varying 
+environmental conditions that occur along the boundary that separates aquatic and 
+terrestrial areas. 
+Transportation Facilities: Anything that is built, installed, or established to provide a means of 
+transport from one place to another. 
+Tree: A large, branched woody plant having one or several self-supporting stems or trunks that 
+reach a height of at least twenty feet at maturity. 
+Tributary Streams: Those perennial and intermittent steams that are so noted on the most 
+recent U.S. Geological Survey 7.5-minute topographic quadrangle maps, or on more 
+detailed maps or studies used at the discretion of Kent County. 
+Truck Stop: An independent facility catering predominantly to tractor trailers and other large 
+highway vehicles in which highway services such as fuel, food, repair, and similar items 
+are provided. 
+Truck Terminal: A facility where truck transport goods are transferred, or stored pending 
+transfer, and which may include truck dispatching, parking, and servicing. The terminal 
+cannot be used for permanent or long-term storage of goods. 
+Unwarranted Hardship: Within the Critical Area, without a variance, an applicant would be 
+denied reasonable and significant use of the entire parcel or lot for which the variance is 
+requested. 
+Utility Transmission Facilities: Fixed structures that convey or distribute resources, waste, or 
+both, including, but not limited to electrical lines, water conduits, and sewer lines. 
+Variance: The grant of relief from a term or terms of this Ordinance.  For stormwater 
+management purposes: The modification of the minimum stormwater management 
+requirements for specific circumstances such that strict adherence to the requirements 
+would result in unnecessary hardship and not fulfill the intent of this Ordinance. 
+Violation: For floodplain purposes: Any construction or development in a Special Flood Hazard 
+Area that is being performed without an issued permit. The failure of a building, 
+structure, or other development for which a permit is issued to be fully compliant with
+
+<!-- page 369 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     366
+these regulations and the conditions of the issued permit. A building, structure, or other 
+development without the required design certifications, the Elevation Certificate, or 
+other evidence of compliance required is presumed to be a violation until such time as 
+the required documentation is provided. 
+Waiver: For Stormwater Management Purposes: The relinquishment from stormwater 
+management requirements by Kent County for a specific development on a case-by-case 
+review basis: (1) “Qualitative stormwater management waiver” includes water quality 
+volume and recharge volume design parameters. (2) “Quantitative stormwater 
+management waiver” includes channel protection storage volume, overbank flood 
+protection volume, and extreme flood volume design parameter. 
+Wash Plant: A facility where sand and gravel are washed during processing. 
+Water-based Aquaculture: In the Critical Area, the raising of fish and shellfish in any natural, 
+open, free-flowing water body. 
+Water Quality Volume: The volume of water needed to capture and treat the runoff from 90% 
+of the average annual runoff volume at a development site. Methods for calculating the 
+water quality volume are specified in the Design Manual. 
+Water Use Industry: An industry that requires location near the shoreline because it utilizes 
+surface waters for cooling or other internal purposes. 
+Watercourse and/or Drainageway: Any natural or artificial watercourse (including, but not 
+limited to streams, rivers, creeks, ditches, channels, canals, conduits, culverts, drains, 
+waterways, gullies, ravines, or washes) in which waters flow in a definite direction or 
+course, either continuously or intermittently; and including any area adjacent thereto 
+which is subject to inundation by reason of overflow or floodwaters. 
+Water-Dependent Facilities: Those structures or works associated with industrial, maritime, 
+recreational, educational, or fisheries activities that require location at or near the 
+shoreline within the buffer. An activity is water dependent if it cannot exist outside the 
+buffer and is dependent on the water by reason on the intrinsic nature of its operation. 
+These activities include, but are not limited to, ports, the intake and outfall structures of 
+power plants, water use industries, marinas and other boat docking structures, public 
+beaches and other public water-oriented recreation areas, and fisheries activities. 
+Waterfowl: Birds which frequent and often swim in water, nest, and raise their young near 
+water, and derive at least part of their food from aquatic plants and animals. 
+Watershed: The total drainage area contributing runoff to a single point. For forest 
+conservation purposes all land lying within an area described as a sub-basin in water 
+quality regulations adopted by the Department of the Environment under COMAR 
+26.08.02.08. 
+Waterway: Any body of water, including any creek, canal, river, lake, or bay. 
+Waterway Line: A line marking the normal division between land and a waterway as established 
+by the Department.
+
+<!-- page 370 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     367
+Waterway, Width Measurement: The measurement is made at the shoreline location of the pier 
+and the narrowest width of the waterway from that point including consideration of 
+data and information available from State of Maryland and Army Corps of Engineers.  
+Wetlands: See “tidal wetlands” and “non-tidal wetlands”. 
+Whip: An unbranched woody plant greater than twenty-four inches in height and having a 
+diameter of less than one inch measured at two inches above the root collar. 
+Wildlife Corridor: A strip of land having vegetation that provides habitat and a safe passageway 
+for wildlife. 
+Wildlife Habitat: Those plant communities and physiographic features that provide food, water, 
+cover, nesting, foraging, and feeding conditions necessary to maintain populations of 
+animals. 
+Wind Energy System, small: A wind turbine mounted on a free-standing wind tower or building 
+for the purpose of generating energy for use on site and not for sale and includes 
+windmills that are used for pumping water or other purposes. However, the energy 
+output may be delivered to a power grid to offset the cost of energy on site. 
+Yacht Club: A yacht club for the purposes of this Ordinance is considered to be a marina. 
+Yard: An open space other than a court, on a lot, and unoccupied and unobstructed from the 
+ground upward, except as otherwise provided in this Ordinance.
+
+<!-- page 371 -->
+ARTICLE VII.  DEFINITIONS 
+ 
+Land Use Ordinance for Kent County, Maryland     368
+Yard, Front: A yard extending across the front of a lot between the side lot lines and being the 
+minimum horizontal distance between the street line and the required front yard line. 
+(See diagram above.)  
+On corner lots, the front yard will be considered as one of the following: (a) the yard 
+parallel to the street upon which the lot has its least dimension, or (b) the yard that 
+abuts the primary access to the primary residential building, or (c) the yard parallel to 
+the address street, as determined by the Department, except for waterfront lots.  
+For waterfront properties, the front yard is that part of the yard extending across a lot 
+between the side lot lines and being the minimum horizontal distance from the water 
+and the main building. The front yard is determined by the location of the main building. 
+In the absence of a building on, the front yard is considered to be the 100-foot buffer. 
+Yard, Rear: A yard extending across the rear of the lot between the side lot lines and measured 
+between the rear lot line and the required rear yard setback. 
+Yard, Side: A yard extending from the front yard to the rear yard and being the minimum 
+horizontal distance between the side lot line and the required side yard setback.

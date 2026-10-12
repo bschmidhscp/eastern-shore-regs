@@ -1,0 +1,86 @@
+{
+  "county": "Dorchester",
+  "governing_body": "County Council (charter home rule; 'The Charter' is Part 1 of the eCode360 code)",
+  "website": "https://www.dorchestermd.gov",
+  "code": {
+    "host": "ecode360",
+    "id": "DO0950",
+    "root_guid": "11766131",
+    "url": "https://ecode360.com/DO0950",
+    "zoning_chapter": "155",
+    "subdivision_chapter": "140",
+    "notes": "Verified: https://ecode360.com/print/DO0950?guid=11766131 returns ~4MB with 66 h2.chapterTitle. Includes legislation through 06-03-2025. Chapter 93 is Fees. Charter node guid 11766126. No impact/excise chapter in TOC."
+  },
+  "upload_listings": [],
+  "civicplus": {
+    "site": "CivicPlus/CivicEngage",
+    "document_center": "https://www.dorchestermd.gov/DocumentCenter/View/<id>",
+    "agenda_center": "https://www.dorchestermd.gov/AgendaCenter",
+    "file_pattern": "https://www.dorchestermd.gov/AgendaCenter/ViewFile/{Agenda|Minutes}/_MMDDYYYY-<id>",
+    "note": "No open directory listings (DocumentCenter/ returns the HTML folder UI, not an Index of)."
+  },
+  "crawl_starts": [
+    "https://www.dorchestermd.gov/185/Planning-Zoning",
+    "https://www.dorchestermd.gov/265/Planning-Commission",
+    "https://www.dorchestermd.gov/246/Board-of-Appeals",
+    "https://www.dorchestermd.gov/271/Legislative-Executive-Actions",
+    "https://www.dorchestermd.gov/314/Public-Hearings",
+    "https://www.dorchestermd.gov/293/Fee-Schedules",
+    "https://www.dorchestermd.gov/297/Information-for-Site-Plan-Review",
+    "https://www.dorchestermd.gov/256/Sustainable-Growth",
+    "https://www.dorchestermd.gov/210/Council-Meeting",
+    "https://www.dorchestermd.gov/167/Building-Permits"
+  ],
+  "meetings": {
+    "platform": "civicplus agendacenter",
+    "host": "www.dorchestermd.gov",
+    "bodies": {
+      "County Council": {
+        "page": "https://www.dorchestermd.gov/AgendaCenter/Councils-Office-2",
+        "minutes_example": "https://www.dorchestermd.gov/AgendaCenter/ViewFile/Minutes/_09152026-248",
+        "agendacenter_category_id": "2"
+      },
+      "Planning Commission": {
+        "page": "https://www.dorchestermd.gov/AgendaCenter/Planning-Commission-4",
+        "note": "Page responded but listed NO agenda/minute files in static HTML (JS year filter / possibly empty). Needs follow-up; check DocumentCenter or AgendaCenter/Search.",
+        "agendacenter_category_id": "9"
+      },
+      "Board of Appeals": {
+        "page": "https://www.dorchestermd.gov/AgendaCenter/Board-of-Appeals-3",
+        "note": "Agendas present (2026); no minutes links seen; decisions page not found.",
+        "agendacenter_category_id": "3"
+      }
+    },
+    "verified": "Council minutes PDF /AgendaCenter/ViewFile/Minutes/_09152026-248 downloads (200, application/pdf). Agenda _07232026-201 (BOA) downloads. Category pages list only recent year in static HTML; other years load via POST AgendaCenter/UpdateCategoryList (JS)."
+  },
+  "documents": {
+    "comp_plan": "https://www.dorchestermd.gov/DocumentCenter/View/195/Dorco-Compplan-July-2021-PDF",
+    "comp_plan_year": "2021 (also https://planning.maryland.gov/Documents/OurWork/PBP/compplans-archived/21_CMP_Dorchester_Small.pdf)",
+    "water_sewer_plan": "not found as separate county plan; only 2009 Water Resources Element: https://www.dorchestermd.gov/DocumentCenter/View/267/Wre-Final-CC-Revision-12-9-09-PDF (appendix View/268). Sewer service areas via GIS.",
+    "fee_schedule": "https://www.dorchestermd.gov/DocumentCenter/View/374/FY26-Schedule-of-Fees-PDF",
+    "fee_schedule_year": "FY26 (image-only PDF, no text layer; needs OCR)",
+    "impact_fees": "not found (no impact fee or excise tax chapter in code TOC; fee schedule is image-only so could not text-check)",
+    "subdivision_regs": "in code chapter 140"
+  },
+  "gis": {
+    "hub": "https://docogo.maps.arcgis.com",
+    "rest_root": "https://services7.arcgis.com/yqhlYKSnzjiOzQig/arcgis/rest/services",
+    "zoning_layer": "Zoning_Layer2021/FeatureServer/0 (also Zoning_Layer/FeatureServer, Rezoning_2026/FeatureServer)",
+    "sewer_service_layer": "Sewer_Service/FeatureServer/0 (SewerServiceArea); also County_Water_and_Sewer_WFL1/FeatureServer",
+    "other_layers": [
+      "PropParcels/FeatureServer",
+      "TaxParcel2026/FeatureServer",
+      "Future_Land_Use/FeatureServer",
+      "Growth_Tiers/FeatureServer"
+    ],
+    "verified_f_json": true,
+    "note": "Org id yqhlYKSnzjiOzQig found via arcgis.com sharing/rest search."
+  },
+  "selection": {
+    "minutes_since": "2023-10-01",
+    "appeals_since": "2016-01-01",
+    "legislation_since": "2022-01-01"
+  },
+  "verified": "2026-10-11",
+  "notes": "dorchestermd.gov is the live site; old dorchestercountymd.com returns 500/403 (legacy WordPress uploads). Permits via OpenGov portal https://countyofdorchestermd.portal.opengov.com/ (JS, not crawlable). Ordinances posted as DocumentCenter PDFs on /271 (by year, e.g. 2026-4 Zoning). Agenda Center static HTML shows only the latest year per category."
+}

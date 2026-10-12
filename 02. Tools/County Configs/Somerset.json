@@ -1,0 +1,77 @@
+{
+  "county": "Somerset",
+  "governing_body": "Board of County Commissioners (commission form; not charter/code home rule - unverified)",
+  "website": "https://www.somersetmd.us",
+  "code": {
+    "host": "none (PDFs only)",
+    "id": null,
+    "root_guid": null,
+    "url": "https://www.somersetmd.us/government/ordinances_&_resolutions.php",
+    "zoning_chapter": "Zoning Ordinance (Ord. 1144, 2019; current consolidated w/ amendments PDF - see documents)",
+    "subdivision_chapter": "not found as separate document (likely within zoning ordinance)",
+    "notes": "No eCode360/Municode/AmLegal library found (searched). Public Local Laws 2003 code PDF: https://www.somersetmd.us/document_center/Government/Resolutions/2003CountyCode.pdf. Ordinances/resolutions are one-off PDFs. Zoning amendments: Ord 1174 (2022), 1195 (cannabis, 2024); Aug 2026 amendments proposed."
+  },
+  "upload_listings": [],
+  "crawl_starts": [
+    "https://www.somersetmd.us/departments/departments_-_n_-_z/planning_and_zoning/index.php",
+    "https://www.somersetmd.us/departments/departments_-_n_-_z/planning_and_zoning/planning_commission.php",
+    "https://www.somersetmd.us/departments/departments_-_n_-_z/planning_and_zoning/board_of_appeals.php",
+    "https://www.somersetmd.us/government/ordinances_&_resolutions.php",
+    "https://www.somersetmd.us/government/county_commissioners/agendas_and_minutes.php",
+    "https://www.somersetmd.us/government/county_commissioners/commissioners_minutes.php",
+    "https://www.somersetmd.us/government/county_commissioners/planning_commission.php",
+    "https://www.somersetmd.us/government/county_commissioners/board_of_zoning_appeals.php",
+    "https://www.somersetmd.us/services/downloads.php",
+    "https://www.somersetmd.us/services/maps.php"
+  ],
+  "meetings": {
+    "platform": "plain website (PHP CMS with document_center)",
+    "host": "www.somersetmd.us",
+    "bodies": {
+      "County Commissioners": {
+        "agendas": "https://www.somersetmd.us/government/county_commissioners/agendas_and_minutes.php",
+        "minutes": "https://www.somersetmd.us/government/county_commissioners/commissioners_minutes.php",
+        "path_contains": "document_center/Minutes/Commissioners/"
+      },
+      "Planning Commission": {
+        "agendas": "https://www.somersetmd.us/government/county_commissioners/agendas_and_minutes.php",
+        "minutes": "https://www.somersetmd.us/government/county_commissioners/planning_commission.php",
+        "path_contains": "document_center/Minutes/Planning Commission/"
+      },
+      "Board of Zoning Appeals": {
+        "agendas": "https://www.somersetmd.us/government/county_commissioners/agendas_and_minutes.php",
+        "minutes": "https://www.somersetmd.us/government/county_commissioners/board_of_zoning_appeals.php",
+        "path_contains": "document_center/Minutes/Board of Zoning Appeals/"
+      },
+      "Sanitary District": {
+        "agendas": "agendas_and_minutes.php (Agendas/Sanitary/<year>)",
+        "minutes": "https://www.somersetmd.us/government/county_commissioners/sanitary_district.php"
+      }
+    },
+    "verified": "PDFs download only via root-relative /document_center/... : e.g. https://www.somersetmd.us/document_center/Minutes/Planning Commission/2026/PC Minutes 1.8.26 APPROVED.pdf (200 pdf), Minutes/Board of Zoning Appeals/2026/Minutes February 20 APPROVED.pdf, Minutes/Commissioners/2026/CC 1-13-26_20260128080248.pdf, Agendas/Commissioners/2026/10-6-26 Comm.pdf. Agenda paths: Agendas/{Commissioners,Planning Commission,Board of Zoning Appeals,Sanitary,WorkSessions,SpecialSessions}/<year>/."
+  },
+  "documents": {
+    "comp_plan": "https://www.somersetmd.us/document_center/Department/Planning and Zoning/Comp Plan/Somerset County 2025 Comprehensive Plan_Public Version.pdf",
+    "comp_plan_year": "2025 (45MB; also https://planning.maryland.gov/Documents/OurWork/PBP/compplans-archived/25_CMP_Somerset.pdf)",
+    "water_sewer_plan": "not found (searched P&Z, sanitary district pages, web search)",
+    "fee_schedule": "https://www.somersetmd.us/document_center/Department/Planning and Zoning/Resolutions & Ordinances/Res 1218 - Updated P&Z Fee Schedule.pdf",
+    "fee_schedule_year": "2026 (Res 1218, Jan 2026); older: https://www.somersetmd.us/Fee Schedule - Resoultion 1181.pdf (2024)",
+    "impact_fees": "not found",
+    "subdivision_regs": "not found as separate document",
+    "zoning_ordinance": "https://www.somersetmd.us/document_center/Department/Planning and Zoning/Zoning/2025/Solar (May 2025)/SOCO Zoning Ordinance - June 2025 w.Ordinance.pdf (adopted, with solar); original Ord 1144: https://www.somersetmd.us/document_center/Government/Ordinances/O 1144 -Zoning Ordinance.pdf; zoning map https://www.somersetmd.us/document_center/Services/Maps/zoningmap.pdf",
+    "proposed_2026": "Aug 2026 zoning amendments: .../Public Hearing Notices/Sept 2026 - Zoning Ordinance/SOCO Zoning Ordinance - August 2026 Amendments FINAL_v1.pdf"
+  },
+  "gis": {
+    "hub": "not found (county publishes zoning/flood maps as PDFs)",
+    "zoning_layer": "none county-hosted; state fallback https://mdpgis.mdp.state.md.us/arcgis/rest/services/PlanningCadastre/Generalized_Zoning_2025/MapServer",
+    "sewer_service_layer": "not found",
+    "verified_f_json": "state fallback only"
+  },
+  "selection": {
+    "minutes_since": "2023-10-01",
+    "appeals_since": "2016-01-01",
+    "legislation_since": "2022-01-01"
+  },
+  "verified": "2026-10-11",
+  "notes": "CRITICAL: page hrefs are relative and resolve wrongly (e.g. /government/county_commissioners/document_center/... or /departments/.../planning_and_zoning/document_center/... return 404). Always rewrite to https://www.somersetmd.us/document_center/<path after 'document_center/'>; spaces must be percent-encoded; a ?t= suffix is optional. Unknown paths return soft-404 HTML (200) - check content-type is application/pdf. Directory listings: /document_center/Minutes/ -> 403. Agendas & minutes pages are very large (1.3-1.5MB HTML). Hits to the 'doubled' nested nav URLs (planning_and_zoning/departments/...) are junk. Some files are .docx (e.g. 2019 PC)."
+}

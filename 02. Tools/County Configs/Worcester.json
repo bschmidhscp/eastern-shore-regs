@@ -1,0 +1,99 @@
+{
+  "county": "Worcester",
+  "governing_body": "Board of County Commissioners (7 members; commission form - code home rule status unverified)",
+  "website": "https://worcestermd.gov",
+  "code": {
+    "host": "ecode360",
+    "id": "WO1426",
+    "root_guid": null,
+    "url": "https://ecode360.com/WO1426",
+    "zoning_chapter": "ZS",
+    "subdivision_chapter": "same article (ZS 2-3xx/2-4xx plat procedures; Titles ZS1-ZS10)",
+    "notes": "Code of Public Local Laws organized in Articles/Titles (GP, BR, CG, CJ, CL, NR, PH, PS, PW, TR, ZS). Whole-code print: https://ecode360.com/print/WO1426?guid=WO1426 -> 5.5MB, 66 h2.chapterTitle (plain /print/WO1426 returns 403). Zoning article only: print/WO1426?guid=14070062 -> 2.4MB, 10 titles. Water/sewer = PW 5 (guid 13999855). Natural Resources Article (14070057) has stormwater, critical area. Includes legislation through 11-18-2025.",
+    "part_guids": {
+      "General Provisions": "14034006",
+      "Building Regulations": "14070053",
+      "County Government": "14070054",
+      "Courts and Judicial Proceedings": "14070055",
+      "Criminal Law": "14070056",
+      "Natural Resources": "14070057",
+      "Public Health": "14070058",
+      "Public Safety": "14070059",
+      "Public Works": "14070060",
+      "Taxation and Revenue": "14070061",
+      "Zoning and Subdivision Control": "14070062"
+    }
+  },
+  "upload_listings": [],
+  "drupal": {
+    "files_base": "https://worcestermd.gov/sites/default/files/",
+    "note": "/sites/default/files/ -> 404, /sites/ -> 403: no listing. Older host www.co.worcester.md.us still serves some files."
+  },
+  "crawl_starts": [
+    "https://worcestermd.gov/departments/drp",
+    "https://worcestermd.gov/departments/drp/zoning",
+    "https://worcestermd.gov/departments/drp/subdivision",
+    "https://worcestermd.gov/departments/drp/rezoning",
+    "https://worcestermd.gov/departments/drp/boards",
+    "https://worcestermd.gov/departments/drp/maps",
+    "https://worcestermd.gov/comprehensive-plan",
+    "https://worcestermd.gov/commissioners/legislation/approved",
+    "https://worcestermd.gov/commissioners/hearings",
+    "https://worcestermd.gov/departments/publicworks/water",
+    "https://worcestermd.gov/departments/publicworks/water/charges",
+    "https://worcestermd.gov/minutes",
+    "https://worcestermd.gov/minutes?field_meeting_type_value=Planning+Commission",
+    "https://worcestermd.gov/minutes?field_meeting_type_value=Board+of+Zoning+Appeals",
+    "https://worcestermd.gov/minutes?field_meeting_type_value=Commissioner+Meeting",
+    "https://worcestermd.gov/minutes?field_meeting_type_value=Technical+Review+Committee"
+  ],
+  "meetings": {
+    "platform": "plain website (Drupal 'Meeting Files Archive')",
+    "host": "worcestermd.gov",
+    "bodies": {
+      "Planning Commission": {
+        "url": "https://worcestermd.gov/minutes?field_meeting_type_value=Planning+Commission",
+        "paging": "&page=N (0..32+)"
+      },
+      "Board of Zoning Appeals": {
+        "url": "https://worcestermd.gov/minutes?field_meeting_type_value=Board+of+Zoning+Appeals"
+      },
+      "Commissioner Meeting": {
+        "url": "https://worcestermd.gov/minutes?field_meeting_type_value=Commissioner+Meeting"
+      },
+      "Technical Review Committee": {
+        "url": "https://worcestermd.gov/minutes?field_meeting_type_value=Technical+Review+Committee"
+      },
+      "Water/Wastewater advisory boards": {
+        "url": "https://worcestermd.gov/minutes?field_meeting_type_value=OP+Service+Area+Water+%26+Wastewater+Advisory+Board+Meeting (also Mystic Harbour, Newark)"
+      }
+    },
+    "verified": "Minutes PDF downloads: https://worcestermd.gov/sites/default/files/2026-10/10.08.2026%20BZA%20Minutes_Final.pdf (200 pdf). Files live under /sites/default/files/YYYY-MM/. Each row has Agenda/Packet/Minutes links (BZA decisions are in minutes)."
+  },
+  "documents": {
+    "comp_plan": "https://worcestermd.gov/sites/default/files/2026_Worcester_Comp_Plan_PC_Adopted.pdf",
+    "comp_plan_year": "2026 update: Planning-Commission-adopted version (14.7MB, verified); Commissioner adoption status not verified. Currently effective: 2006 plan https://worcestermd.gov/sites/default/files/departments/drp/finalcomp31406.pdf (also https://planning.maryland.gov/Documents/OurWork/PBP/compplans-archived/06_CMP_Worcester.pdf) + 2024 amendment https://planning.maryland.gov/Documents/OurWork/PBP/compplans-archived/24_AMD_Worcester.pdf",
+    "water_sewer_plan": "not posted as a document (Comprehensive Water and Sewerage Plan amendments only via hearing notices at https://worcestermd.gov/commissioners/hearings); 2011 Water Resources Element: https://worcestermd.gov/sites/default/files/2011 Water Resources Element Amendment.pdf; water/sewer rates: https://worcestermd.gov/sites/default/files/Assessments and Charges.pdf",
+    "fee_schedule": "https://worcestermd.gov/sites/default/files/Resolution 25-11 DRP FY26 Fees.pdf",
+    "fee_schedule_year": "FY26 (check for FY27 resolution)",
+    "impact_fees": "not found (no development impact fee/excise tax page; water/sewer capital/connection charges are in Assessments and Charges)",
+    "subdivision_regs": "in code Zoning and Subdivision Control Article",
+    "other": [
+      "Design Guidelines and Standards 2017: https://worcestermd.gov/sites/default/files/departments/drp/DGS%202017.pdf",
+      "Land Use Map: https://worcestermd.gov/sites/default/files/LandUseMap_CountyWide_09042024.pdf"
+    ]
+  },
+  "gis": {
+    "hub": "not found (no county-hosted REST/Hub located; GIS page is generic links)",
+    "zoning_layer": "rezoning map announced at https://worcestermd.gov/news/worcester-county-launches-interactive-rezoning-map but no REST URL found; state fallback https://mdpgis.mdp.state.md.us/arcgis/rest/services/PlanningCadastre/Generalized_Zoning_2025/MapServer",
+    "sewer_service_layer": "not found",
+    "verified_f_json": "state fallback only"
+  },
+  "selection": {
+    "minutes_since": "2023-10-01",
+    "appeals_since": "2016-01-01",
+    "legislation_since": "2022-01-01"
+  },
+  "verified": "2026-10-11",
+  "notes": "Approved legislation PDFs (Bills/Resolutions) at /commissioners/legislation/approved (files under /sites/default/files/YYYY-MM/). Filenames contain spaces - percent-encode. Comp plan page also hosts work-session packets and public engagement report. Rezoning Case numbers (e.g. Case 447) appear in hearing notices. Resolution 26-20: Route 589 rezoning moratorium. Both worcestermd.gov and www.co.worcester.md.us hostnames appear in links."
+}

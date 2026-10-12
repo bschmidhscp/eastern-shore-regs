@@ -1,0 +1,88 @@
+{
+  "county": "Cecil",
+  "governing_body": "County Council (charter county; elected County Executive; replaced Board of County Commissioners in 2012)",
+  "website": "https://www.ccgov.org",
+  "code": {
+    "host": "ecode360",
+    "id": "CE0748",
+    "root_guid": "26841500",
+    "url": "https://ecode360.com/CE0748",
+    "zoning_chapter": "NOT IN ECODE - Zoning Ordinance is a standalone PDF (see documents.zoning_ordinance)",
+    "subdivision_chapter": "NOT IN ECODE - Subdivision Regulations standalone (only 2011 proposed version found on site)",
+    "notes": "Verified: https://ecode360.com/print/CE0748?guid=26841500 returns ~2.8MB HTML, 67 h2.chapterTitle (general code: fees ch.202/A380, water & sewers ch.365, stormwater 325, taxation 337, TDR A386). Last ecode update seen 2022-10-18 (search snippet); no 'current through' string on TOC page. Zoning/subdivision are adopted separately (Zoning Ordinance eff. 5/1/2011, amended through at least 12/20/2021 solar)."
+  },
+  "upload_listings": [],
+  "crawl_starts": [
+    "https://www.ccgov.org/386/Planning-Zoning-Division",
+    "https://www.ccgov.org/165/Planning-Commission",
+    "https://www.ccgov.org/175/Board-of-Appeals",
+    "https://www.ccgov.org/430/Board-of-Appeals-Meeting-Documents",
+    "https://www.ccgov.org/160/County-Council",
+    "https://www.ccgov.org/210/Resolutions",
+    "https://www.ccgov.org/1015/Building-Fee-Schedule",
+    "https://www.ccgov.org/171/Comprehensive-Plan-Committee",
+    "https://www.ccgov.org/385/Water-Sewer-Planning-Division",
+    "https://www.ccgov.org/390/Wastewater-Information-Forms",
+    "https://www.ccgov.org/389/Development-Plans-Review",
+    "https://www.ccgov.org/Archive.aspx?AMID=53",
+    "https://www.ccgov.org/942",
+    "https://www.ccgov.org/941"
+  ],
+  "civicplus": {
+    "documentcenter": "https://www.ccgov.org/DocumentCenter/View/<id>",
+    "agendacenter": "https://www.ccgov.org/AgendaCenter (empty shell; real meetings are in CivicClerk)",
+    "archive": "https://www.ccgov.org/Archive.aspx?AMID=<id>",
+    "old_domain": "cecilcountymd.gov (same CivicPlus site, still resolves)"
+  },
+  "meetings": {
+    "platform": "civicclerk",
+    "host": "cecilcomd.portal.civicclerk.com",
+    "api": "https://cecilcomd.api.civicclerk.com/v1",
+    "api_examples": {
+      "events": "https://cecilcomd.api.civicclerk.com/v1/Events?$filter=categoryId eq 28 and startDateTime lt 2026-10-01T00:00:00Z&$orderby=startDateTime desc&$top=50 (OData; each event has publishedFiles[{type,fileId}])",
+      "categories": "https://cecilcomd.api.civicclerk.com/v1/EventCategories",
+      "file": "https://cecilcomd.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=<fileId>,plainText=false)"
+    },
+    "bodies": {
+      "Planning Commission": {
+        "civicclerk_category_id": 28,
+        "embed_page": "https://www.ccgov.org/942",
+        "archive_before_2025_11": "https://www.ccgov.org/Archive.aspx?AMID=53 (yearly combined PDFs, ADID=632 etc.)"
+      },
+      "Board of Appeals": {
+        "civicclerk_category_id": 29,
+        "embed_page": "https://www.ccgov.org/941",
+        "archive_before_2025_11": "https://www.ccgov.org/430/Board-of-Appeals-Meeting-Documents (DocumentCenter PDFs: case files 'File 44xx', 'BoA minutes', 'boa voting record')"
+      },
+      "County Council": {
+        "civicclerk_category_id": 26,
+        "embed_page": "https://www.ccgov.org/944",
+        "legislation": "https://www.ccgov.org/210/Resolutions (DocumentCenter/View/<id>, e.g. 01-2026..); older: https://www.ccgov.org/214/Archives"
+      }
+    },
+    "verified": "Minutes PDF fileId 9534 (PC 2026-05-18) downloads 200 application/pdf. Not every meeting has Minutes."
+  },
+  "documents": {
+    "zoning_ordinance": "https://www.ccgov.org/DocumentCenter/View/831 (verified 200 pdf, ~7.4MB, 'Updated Version of the Zoning Ordinance')",
+    "comp_plan": "https://www.ccgov.org/DocumentCenter/View/2938 (verified 200 pdf ~9.5MB)",
+    "comp_plan_year": "2010 (adopted 2010-04-13); no update seen in progress; also https://planning.maryland.gov/Documents/OurWork/PBP/compplans/10_CMP_Cecil.pdf",
+    "water_sewer_plan": "not found as a current document on ccgov.org (Master Water & Sewer Plan 2018 adopted by Resolution 12-2019, amended by council resolutions, e.g. 41-2022); old ccgov.org/home/showpublisheddocument/... URLs are dead (404). Try resolutions at https://www.ccgov.org/210/Resolutions",
+    "fee_schedule": "planning/zoning fee schedule NOT found on current site (search snippets cite Feb 2024 'Development Fee Schedule' and 'Misc Fee Schedule'; old URLs 404). Available: Building Service Fee Schedule https://www.ccgov.org/DocumentCenter/View/6035 (verified 200 pdf); Wastewater Division Fee Schedule eff 8/1/2021 https://www.ccgov.org/DocumentCenter/View/2025; BoA application instructions https://www.ccgov.org/DocumentCenter/View/5773 (BoA fees: special exception $250, variance $200, appeal $250)",
+    "impact_fees": "not found - no county impact fee or development excise tax located in ecode (ch.337 Taxation has no such tax); county charges 0.5% transfer fee (ch.202) and sewer major facility/benefit assessment fees (https://www.ccgov.org/DocumentCenter/View/759, /757, /755)",
+    "subdivision_regs": "not found current; 'Proposed Subdivision Regulations' (2011 comprehensive rezoning) https://www.ccgov.org/DocumentCenter/View/1749"
+  },
+  "gis": {
+    "hub": "https://cecilmaps.org/arcgis/rest/services",
+    "zoning_layer": "ConsolidatedWebService/MapServer/33 (Zoning Districts; also 30 'Zoning (2011)', 25 Rezonings, 32 Split Zonings) - verified ?f=json",
+    "sewer_service_layer": "ConsolidatedWebService/MapServer layers 37 County Owned Sewer Systems, 42 Sanitary Sewer, 45 Town/Private Sewer, 48 Water Systems (infrastructure; no S-1..S-6 category polygons found)",
+    "fallback": "https://mdpgis.mdp.state.md.us/arcgis/rest/services/PlanningCadastre/Generalized_Zoning_2025/MapServer/0",
+    "permits_portal": "https://cecilcountymd.viewpointcloud.com (OpenGov/Viewpoint)"
+  },
+  "selection": {
+    "minutes_since": "2023-10-01",
+    "appeals_since": "2016-01-01",
+    "legislation_since": "2022-01-01"
+  },
+  "verified": "2026-10-11 (scout)",
+  "notes": "CivicPlus site on Cloudflare; www.ccgov.org and www.cecilcountymd.gov serve same site. DocumentCenter/View/<id> works with bare id. /files/ returns 403 (not an index), /uploads/ and /sites/default/files/ 404. Meeting data is JS-embedded CivicClerk (use API, not the HTML). Meetings after Nov 2025 are on CivicClerk; before that PC/BoA are Archive.aspx yearly PDFs and DocumentCenter. Planning Commission page text still says 'County Commissioners' (stale). Old Revize-style showpublisheddocument URLs from search engines are 404."
+}

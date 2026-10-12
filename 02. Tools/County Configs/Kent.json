@@ -1,0 +1,82 @@
+{
+  "county": "Kent",
+  "governing_body": "Board of County Commissioners (3 members; commissioner form, believed code home rule - not verified)",
+  "website": "https://www.kentcounty.com",
+  "code": {
+    "host": "ecode360",
+    "id": "KE1414",
+    "root_guid": null,
+    "url": "https://ecode360.com/KE1414",
+    "part_guids": {
+      "Part I Administrative Legislation": "11767839",
+      "Part II General Legislation": "11767840",
+      "Part III Land Use Legislation": "11767841"
+    },
+    "zoning_chapter": "222 (ecode stub only: says zoning regs are on file in county offices; real text is the 2025 Unified Development Ordinance PDF)",
+    "subdivision_chapter": "within UDO (Chapter 222 UDO, Articles 1-7) - not a separate ecode chapter",
+    "notes": "ecode TOC has no 'The Code' node; print per Part: https://ecode360.com/print/KE1414?guid=11767841 verified (356KB, 13 chapters; Part III = land use incl. ch.199 Planning Commission, 222 Zoning). Do NOT confuse with Kent County DE (KE1751). No 'current through' date on TOC; ecode lists New Laws and 320 Resolutions under /KE1414/documents. Chapter 161 Water and Sewers, 152 Taxation (no impact fee/excise on new homes)."
+  },
+  "upload_listings": [],
+  "crawl_starts": [
+    "https://www.kentcounty.com/government/departments/planning_housing_and_zoning/index.php",
+    "https://www.kentcounty.com/government/departments/planning_housing_and_zoning/plans_ordinances_and_applications.php",
+    "https://www.kentcounty.com/government/departments/planning_housing_and_zoning/2025_unified_development_ordinance.php",
+    "https://www.kentcounty.com/government/departments/planning_housing_and_zoning/public_postings.php",
+    "https://www.kentcounty.com/government/departments/planning_housing_and_zoning/boards_and_committees.php",
+    "https://www.kentcounty.com/government/departments/planning_housing_and_zoning/kent_county_comprehensive_plan.php",
+    "https://www.kentcounty.com/government/departments/planning_housing_and_zoning/project_review.php",
+    "https://www.kentcounty.com/residents/permits/building_permits.php",
+    "https://www.kentcounty.com/government/departments/public_works/water_and_wastewater/comprehensive_water_and_sewage_plan.php",
+    "https://www.kentcounty.com/government/departments/public_works/water_and_wastewater/allocation_inquiries_request_fees_and_rate_schedule.php",
+    "https://www.kentcounty.com/government/commissioners/index.php"
+  ],
+  "civicplus": null,
+  "meetings": {
+    "platform": "civicclerk",
+    "host": "kentcountymd.portal.civicclerk.com",
+    "api": "https://kentcountymd.api.civicclerk.com/v1",
+    "api_examples": {
+      "events": "https://kentcountymd.api.civicclerk.com/v1/Events?$filter=categoryId eq 32 and startDateTime lt 2026-10-01T00:00:00Z&$orderby=startDateTime desc&$top=50",
+      "categories": "https://kentcountymd.api.civicclerk.com/v1/EventCategories",
+      "file": "https://kentcountymd.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=<fileId>,plainText=false)"
+    },
+    "bodies": {
+      "Planning Commission": {
+        "civicclerk_category_id": 32
+      },
+      "Board of Appeals": {
+        "civicclerk_category_id": 29,
+        "name_on_platform": "Board of Zoning Appeals"
+      },
+      "County Commissioners": {
+        "civicclerk_category_id": 27
+      },
+      "Other": "Agriculture Advisory 28, Historic Preservation 31, Administrative Hearings 46"
+    },
+    "verified": "Minutes fileId 3126 (PC 2026-09-03), 3084 (BZA 2026-08-17), 3122 (Commissioners 2026-09-29) all download 200 application/pdf."
+  },
+  "documents": {
+    "unified_development_ordinance": "https://www.kentcounty.com/Documents/Government/Departments/Planning, Housing, and Zoning/2025 Unified Development Ordinance/Chapter_222_Unified_Development_Ordinance_Effective_2025-07-25 (REV 2025-10-01).pdf (verified 200 pdf ~4MB; effective 2025-07-25; per-Article PDFs listed on the UDO page; pre-2025 Land Use Ordinance PDFs under .../Land Use Ordinance/)",
+    "comp_plan": "https://www.kentcounty.com/Documents/Government/Departments/Planning, Housing, and Zoning/Comprehensive Plan/Kent_County_2018_Comp_Plan.pdf",
+    "comp_plan_year": "2018 (adopted 2018-04-17); background doc: .../Comprehensive Plan/Background_Document_2018_Comp_Plan.pdf; no update seen in progress",
+    "water_sewer_plan": "https://www.kentcounty.com/Documents/Government/Departments/Public Works/Water and Wastewater/Comprehensive Water and sewage Plan/2018 Comprehensive Water and Sewer Plan.pdf (verified 200 pdf ~6.3MB; also '2018 Comp Water and Sewer Plan Appendices.pdf' and '2018 Kent County Water and Sewer Plan Update MDE Approval.pdf' same folder)",
+    "fee_schedule": "https://www.kentcounty.com/Documents/Government/Departments/Planning, Housing, and Zoning/Building Permit Requirements/Planning Health Dept Fees - September 1 2024.pdf (verified 200 pdf; effective 2024-09-01)",
+    "impact_fees": "none found (no impact fee or development excise tax in ecode ch.152 Taxation); water/sewer allocation & connection fees: https://www.kentcounty.com/government/departments/public_works/water_and_wastewater/allocation_inquiries_request_fees_and_rate_schedule.php",
+    "subdivision_regs": "in UDO (Chapter 222) - no separate document",
+    "udo": "https://www.kentcounty.com/Documents/Government/Departments/Planning, Housing, and Zoning/2025 Unified Development Ordinance/Chapter_222_Unified_Development_Ordinance_Effective_2025-07-25 (REV 2025-10-01).pdf (verified 200 pdf ~4MB; effective 2025-07-25; per-Article PDFs listed on the UDO page; pre-2025 Land Use Ordinance PDFs under .../Land Use Ordinance/)"
+  },
+  "gis": {
+    "hub": "https://services6.arcgis.com/RWHujKM5TItecIqp/arcgis/rest/services",
+    "zoning_layer": "https://tiles.arcgis.com/tiles/RWHujKM5TItecIqp/arcgis/rest/services/Kent_Zoning_Static/MapServer (layer 0 Kent_Co_Zoning; cached tile map service, verified ?f=json; no feature query - description says it includes zoning and public water/sewer service areas as visual layers)",
+    "sewer_service_layer": "not found as queryable layer (only inside the static map/Experience Builder); services6 org has Parcels, PFAs, Incorporated_Town_Boundaries, Enterprise_Zone(s)",
+    "parcel_viewer": "https://experience.arcgis.com/experience/8f1cddbe396c4b0ebde4b23b64046129",
+    "fallback": "https://mdpgis.mdp.state.md.us/arcgis/rest/services/PlanningCadastre/Generalized_Zoning_2025/MapServer/0"
+  },
+  "selection": {
+    "minutes_since": "2023-10-01",
+    "appeals_since": "2016-01-01",
+    "legislation_since": "2022-01-01"
+  },
+  "verified": "2026-10-11 (scout)",
+  "notes": "Site is Revize CMS (not CivicPlus): documents at /Documents/... with spaces/commas in paths (URL-encode) and ?t=<timestamp> suffix that can be dropped; /Documents/ and /Documents/Government/ return 403 (no index). Planning 'Public Postings' page lists ~79 adjacent-owner notice PDFs by application number (/Documents/.../Public Postings/). No BZA decisions page; decisions are in CivicClerk minutes. Kent legislation is on ecode360 (New Laws/Resolutions) not on the county site. Zoning chapter 222 in ecode is only a stub."
+}

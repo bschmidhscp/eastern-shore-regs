@@ -78,17 +78,40 @@ def target_for(row):
     return base / "Documents" / sub / f"{name}.md"
 
 
+class _Timeout(Exception):
+    pass
+
+
+def _alarm(*_):
+    raise _Timeout()
+
+
 def convert(item):
-    """Worker: convert one document; returns (path, updated_row or None, flagged, error)."""
+    """Worker: convert one document; returns (path, updated_row or None, flagged, error).
+    Each document gets 120 s for table-aware conversion, then falls back to plain text (30 s)."""
+    import signal
     path, row = item
     src = CORPUS / path
+    signal.signal(signal.SIGALRM, _alarm)
     try:
+        signal.alarm(120)
         if src.suffix.lower() == ".pdf":
             text, pages, empty = pdf_text(src)
         else:
             text, pages, empty = office_text(src)
+    except _Timeout:
+        try:
+            signal.alarm(30)
+            doc = fitz.open(src)
+            texts = [p.get_text("text").strip() for p in doc]
+            text = "\n\n".join(f"<!-- page {i} -->\n{t}" for i, t in enumerate(texts, 1))
+            pages, empty = len(texts), sum(1 for t in texts if len(t) < 40)
+        except Exception as e:
+            return path, None, False, f"timeout: {e}"
     except Exception as e:
         return path, None, False, str(e)
+    finally:
+        signal.alarm(0)
     needs_ocr = pages > 0 and empty / pages > 0.5
     dest = target_for(row)
     meta = dict(county=row["county"], category=row["category"], title=row["title"],

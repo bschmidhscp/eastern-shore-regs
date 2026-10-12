@@ -1,0 +1,14 @@
+Use Group,Professional Required
+A: Assembly buildings,Architect or structural engineer
+B: Business,Architect or structural engineer
+E: Educational,Architect or structural engineer
+F: Factory,Architect or structural engineer
+H: High hazard,Structural engineer
+I: Institutional,Architect or structural engineer
+M: Mercantile,Architect or structural engineer
+R-1: Hotel/motel,Architect or structural engineer
+R-2: Multifamily,Architect or structural engineer
+R-3: Single-family and duplex,None
+R-4: Single-family and duplex,None
+S-1 and S-2: Storage building,Architect or structural engineer
+U: Utility building,None

@@ -1,0 +1,11377 @@
+---
+county: "Kent"
+category: "minutes"
+title: "PC_Packet_2024-01-04_posted"
+source_url: "https://www.kentcounty.com/Documents/Government/Boards and Committees/Agendas And Minutes/Planning Commission/2024/Packet/PC_Packet_2024-01-04_posted.pdf?t=202507171308040"
+effective: "2024-01-04"
+retrieved: "2026-10-11"
+original: "Kent/Originals/Meeting Minutes/Planning Commission/PC_Packet_2024-01-04_posted.pdf"
+pages: "60"
+needs_ocr: "no"
+---
+
+# PC_Packet_2024-01-04_posted
+
+<!-- page 1 -->
+County Commissioners Hearing Room 
+400 High Street 
+Chestertown, Maryland  
+ 
+AGENDA 
+January 4, 2024 
+1:30 p.m. 
+ 
+Members of the public are welcome to attend meetings in person or via conference call.  
+ 
+Public participation and audio-only call-in number: 
+ 
+ 
+1. Dial 1-872-239-8359 
+2. Enter Conference ID: 715 416 653# 
+ 
+Members of the public are asked to mute their phones/devices, until the Commission Chair opens the floor for comment.  
+ 
+Members of the public may also watch the live video feed and view the video after the meeting at the County’s YouTube channel at 
+https://www.youtube.com/@kentcountygovernment2757. 
+ 
+MINUTES 
+ 
+November 2, 2023 
+December 7, 2023  
+ 
+APPLICATIONS FOR REVIEW 
+ 
+22-08 
+25809a Still Pond Neck, LLC – Extension of Major Site Plan Approval 
+ 
+26001 Still Pond Neck Road – Third Election District – Agricultural Zoning District (AZD) 
+ 
+23-67 
+Brickyard Land Holdings/Gillespie Precast – Major Site Plan (Concept) 
+ 
+101 Brickyard Road, Chestertown – Third Election District – Industrial (I), Industrial Critical Area (ICA)   
+ 
+23-51 
+Minary’s Dream Alliance Inc. – Determination of Uses 
+ 
+9155 American Legion Drive, Chestertown – Fourth Election District – Critical Area Residential (CAR)   
+ 
+23-51 
+Minary’s Dream Alliance Inc. – Major Site Plan (Preliminary and Final) 
+ 
+9155 American Legion Drive, Chestertown – Fourth Election District – Critical Area Residential (CAR)   
+ 
+GENERAL DISCUSSION 
+ 
+Recommendation regarding the “Planning Commission Final Version” of the Land Use Ordinance, dated January 4, 2024 
+ 
+STAFF REPORTS 
+ 
+ADJOURN 
+ 
+Meetings are conducted in Open Session unless otherwise indicated.  All or part of the Planning Commission meetings can be held in closed session 
+under the authority of the MD Open Meetings Law by vote of the members.  Breaks are at the call of the Chairman.  Meetings are subject to audio 
+and video recordings. 
+ 
+All applicants will be given the time necessary to assure full public participation and a fair and complete review of all projects. Agenda items are 
+subject to change due to cancellations.   
+ent County
+Planning Commission
+MARYLAND
+Department of Planning, Housing, and Zoning
+400 High Street, 1st Floor, Chestertown, MD 21620
+| (410) 778-7423
+| planning@kentgov.org
+
+<!-- page 2 -->
+
+
+<!-- page 3 -->
+Department of Planning, Housing, and Zoning 
+ 
+ 
+To: 
+Kent County Planning Commission 
+From: 
+Mark Carper, Associate Planner 
+Meeting: 
+January 4, 2024 
+Subject: 
+25809a Still Pond Neck, LLC – Extension Request of Site Plan Approval  
+ 
+ 
+Executive Summary 
+ 
+ 
+Request by the Applicant 
+25809a Still Pond Neck, LLC is requesting a 12-month extension of its site plan approval for the installation of a 
+utility-scale solar energy system on an 85-acre farm owned by Raymond and Joyce Stoltzfus. The property is 
+located at 26001 Still Pond Neck Road, in the Third Election District.  
+ 
+Public Process 
+Per Article VI, Section 5.2 of the Kent County Land Use Ordinance, the Planning Commission shall review and 
+approve major site plans. Site plans shall expire after 12 months unless otherwise extended. When the applicant 
+can show that the project is in the process of obtaining permits from a state, local or federal agency and that these 
+permits have been pursued diligently, the Planning Commission shall grant a 12-month extension. A site plan may 
+receive more than one extension.  
+ 
+Summary of the Staff Report  
+A special exception for the installation by the applicant of a utility-scale solar energy system in the Agricultural 
+Zoning District (AZD) was approved by the Board of Appeals on October 17, 2022, and the final site plan was 
+approved by the Planning Commission at its meeting of January 5, 2023, contingent upon obtaining all state and 
+federal permits, recordation of the Forest Conservation easement and agreement, and submission and approval 
+of sureties for landscape maintenance and bond-related requirements for decommissioning.  
+ 
+A necessary change in the system size to address the cost estimated for interconnection with Delmarva and 
+securing the required third-party decommissioning plan and bond have delayed the start of construction. A 
+reduction in the number of panels from an estimated 2,376 to 1,300 is proposed; however the dimensions of 
+the fence enclosure will not change. The previously approved stormwater management, Forest Stand 
+Delineation, and Landscaping plans are to remain the same.  
+ 
+The applicant made a request for an extension of the special exception, and, on September 5, 2023, the Board of 
+Appeals granted an 18-month extension from the signature date of the extension approval.  
+ 
+Staff Recommendation 
+Staff Recommends approval of a 12-month extension of the site plan approval for the installation of a utility-
+scale solar energy system in the AZD contingent upon obtaining all state and federal permits, recordation of the 
+Forest Conservation easement and agreement, and submission and approval of sureties for landscape 
+maintenance and bond-related requirements for decommissioning.
+
+<!-- page 4 -->
+January 10, 2023 
+ 
+Seth Schafer, P.E.  
+Project Management 
+25809A Still Pond Neck, LLC 
+6865 Deerpath Road, Suite 330 
+Elkridge, MD 21075 
+ 
+RE:   
+#22-08: Major Site Plan 
+ 
+Dear Mr. Schafer: 
+ 
+At its meeting on January 5, 2023, the Kent County Planning Commission reviewed the site plan to 
+construct and operate a utility-scale solar energy system on the property of Raymond and Joyce Stoltzfus 
+at 26001 Still Pond Neck Road, Still Pond, MD 21667. Following a review of relevant laws and the 
+Comprehensive Plan, the Planning Commission voted to grant final site plan approval.  
+ 
+The Planning Commission based its decision on the following findings: 
+ 
+• 
+The proposal is consistent with the strategies and goals of the Comprehensive Plan.  
+• 
+The Countywide Standards for Utility-Scale Solar Energy Systems have been sufficiently 
+addressed. 
+• 
+The proposal will not adversely affect traffic patterns or traffic safety, abutting properties or 
+County amenities, or environmental quality.  
+• 
+The stormwater management plan has been approved.  
+• 
+The landscaping plan to mitigate for visibility and glare is sufficient and meets the requirements 
+of the Land Use Ordinance.  
+• 
+The Forest Stand Delineation and the Forest Conservation Plan have been approved.  
+ 
+The approval is contingent upon obtaining all state and federal permits, recordation of the Forest 
+Conservation easement and agreement, and submission and approval of sureties for landscape 
+maintenance and bond-related requirements for decommissioning. Please submit at least three copies of 
+the final site plan for signature. 
+ 
+Sincerely, 
+Kent County Planning Commission 
+ 
+ 
+ 
+F. Joseph Hickman 
+Chair 
+ 
+FJH/mc 
+Kent County
+Planning Commission
+MARYLAND
+Department of Planning, Housing, and Zoning
+400 High Street, 1st Floor, Chestertown, MD 21620
+| (410) 778-7423
+| planning@kentgov.org
+
+<!-- page 5 -->
+Ketxt County Departmerit ofPlanriing, Housitxg arid Zoning
+Kent County
+ Government
+ Center
+400 High Street a Chestertown,
+ MD 21620
+410-778-7423
+ (phone)
+ a 410-810-2932
+ (fax)
+SITE PLAN
+ APPLICATION
+FileNumber:
+ 
+AmountPaid:
+ 
+Date:
+ 
+12/5/2023
+ProjectName:
+ MDL-118StillPondNeckRoad-Solar
+District: 
+Jllj7d 
+Map: 
+12 
+Parcel: 
+gB 
+LotSize: 
+85ac.
+ DeedRef: 
+424/342
+ 
+Zoning: 
+AZD
+LOCATION:
+ 
+26001 Still Pond Neck Road, Still Pond, MD 21667
+PROPOSED
+ USE, Solar Energy System
+OWNER
+ OF LAND:
+Name: Raymond & Joyce Stoltzfus
+Address: 267 Riverview Road, Peach Bottom, PA 17563
+APPLICANT:
+Na me: 26001 Still Pond Neck, LLC
+Address: 6865 Deerpath Rd. Suite 330 Elkridge, MD 21075
+AGENT/ATTORNEY
+ (if any):
+Name:
+Address:
+REGISTERED
+ ENGINEER
+ OR SURVEYOR:
+Name: 
+Becker
+ Morgan
+ Group, Inc.
+Address: 
+312 Went Main Street
+(717) 471-3130
+Telephone.
+B mail: 
+sell31 30@gmail.com
+Telephone:
+ (850) 450-9895
+p5yH3il;jspencer@,pivotenergy.net
+Telephone:
+Email:
+Telephone:
+ 410-546-9100
+Email: 
+thastings@beckermorgan.com
+Please provide
+ the email of the one person
+ who wffl be responsible
+ for responding
+ to comments.
+ Only this
+person
+ will
+ be contacted
+ by staff and will
+ be the person
+ responsible
+ for forwarding
+ the comments
+ or requests
+ for
+additional information to any other interested parties. EMAIL:,ispencer(2,pivotenergy.net
+Water Supply: 
+[J Public SysternC] On lot system
+Sewerage: 
+Cl Public SystemQ On lot system
+TELEPHONE
+ SERVICED
+ BY: 
+N/A
+ELECTRIC
+ SERVICED
+ BY: 
+Delma"a POWer
+NOTICE:
+ 
+The Planning
+ Office is not required
+ to make out this Application.
+ 
+If the Planning
+ Department
+assists you, it cannot
+ be held responsible
+ for its contents.
+Signature
+ of Applicant
+(J 
+Concept
+ Plan
+Q 
+Preliminary
+Q 
+Final
+kpproving
+ Authority:
+Approving
+ Authority:
+Approving
+ Authority:
+Jon Fitzpatrick, Authorized Representative
+ 
+12/5/2023
+Date
+Date
+Date
+Date
+
+<!-- page 6 -->
+December 5th, 2023 
+ 
+Josh Spencer  
+1601 Wewatta St 
+Suite 700 
+Denver, CO 80202 
+850-450-9895 
+jspencer@pivotenergy.net  
+Pivot Energy 
+Kent County Planning Commission 
+F. Joseph Hickman (Chair) 
+James Saunders 
+Paula Reeder 
+Ray Strong 
+William S. Sutton 
+Paul J. Ruge, Jr. 
+Bill Mackey, Director of Planning and Zoning 
+Cynthia McCann, Attorney 
+Bill Crowding, Citizen Representative 
+ 
+Final Site Plan Approval Extension Request (Case No: 22-08, Major Site Plan) 
+Dear Kent County Planning Commission, 
+ 
+I’m writing this letter to formally request a 1-year extension of our Final Site Plan Approval for 
+Case No: 22-08, approved on January 5th, 2023. We have made significant progress towards finalizing the 
+conditional approval items, however, a large unexpected challenge kept us from providing the conditional 
+items and being construction ready within the 1-year timeframe of approval: 
+1. System size change – A cost estimate for Interconnection (IX), the fee we would need to pay DPL 
+to construct system upgrades that would allow our solar array to connect to their system, was 
+provided by Delmarva Power and Light (DPL) on November 17th, 2022 for $1,777,777, consisting 
+of substation improvements of $1,267,000, distribution improvements of $70,000 and telecom 
+improvements of $440,000. Normally, for a project of this size, we would expect a significantly 
+lower number, closer to $50,000 - $350,000.   
+t} Pivot
+Energy
+
+<!-- page 7 -->
+a. The pre-application inquiry from DPL, received on June 24, 2021 did not mention any 
+necessary substation improvements and the large additional cost was totally unexpected 
+and made the 1MW system unprofitable.  
+b. We began coordination with DPL to determine a system size that would not trigger the 
+large improvement requirement and on 11/22/2022 and received final word that a 525 kW 
+system would not trigger the large improvements on 03/13/2023.  
+c. The coordination for the reduced system size halted our Interconnection approval with 
+DPL, which needs to be complete before we can begin construction on the site. DPL also 
+has to wait for the Maryland Public Service Commission (PSC) to change the system size 
+in their internal system to intake our new IX application and start coordination once again. 
+A revised Attachment B was submitted to the Maryland PSC on 05/05/2023 and the 
+system size has still not been updated as of 08/02/2023, thus halting our Utility 
+Interconnection progress. 
+d. The reduction in system size will not materially alter the project in terms of the Special 
+Exception criteria and the findings made by the Board of Zoning Appeals. The changes 
+will reduce the overall size of the system and the number of panels.  Specifically, the 
+Limitation of Disturbance (“LOD”) for the project will remain the same as previously 
+approved and the number of panels reduced from an estimated 2,376 to 1,300. The only 
+change to the approved plan is spacing the solar panels out, with less being required for the 
+reduced system size. The reduced size system will comply with all applicable criteria for 
+establishing and operating a solar array, including all setback requirements.   
+ 
+ 
+ 
+Pivot
+i} Energy
+
+<!-- page 8 -->
+Thank you for your consideration of this request and I will be happy to answer any questions or concerns 
+the Board may have. 
+Sincerely, 
+ 
+Josh Spencer, P.E., PMP 
+UREN
+Gostisa Spencer
+
+<!-- page 9 -->
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+200' B.R.L.
+200' B.R.L.
+200' B.R.L.
+SITE INFORMATION
+1. SITE NAME: 
+MDL118 - STILL POND NECK ROAD SOLAR
+2. SITE ADDRESS:
+26001 STILL POND NECK ROAD
+(SOUTHWEST CORNER OF STILL POND NECK RD. AND STILL POND RD.)
+WORTON, MD 21667
+3. SITE OWNER:
+RAYMOND & JOYCE STOLTZFUS
+267 RIVERVIEW ROAD
+PEACH BOTTOM, PA 17563-9717
+4. DEVELOPER:
+25809A STILL POND NECK, LLC
+SETH SHAFER
+6865 DEERPATH ROAD, SUITE 330
+ELKRIDGE, MD 21075
+410-779-9377
+5. ENGINEER:
+BECKER MORGAN GROUP, INC.
+C/O TED HASTINGS
+312 WEST MAIN STREET, SUITE 300
+SALISBURY, MD 21801
+410-546-9100
+6. GEOGRAPHIC COORDINATES:
+LATITUDE: 
+39°20'31.36"N
+LONGITUDE: 
+76° 4'3.59"W
+7. TAX MAP: 
+12
+8. PARCEL:
+98
+9. DEED BOOK/PAGE:
+424/ 342
+10.PARCEL AREA: 
+85 ACRES ±
+11.LEASE AREA:
+5.00 ACRES ±
+12. AREA OF USE:
+5.00 ACRES
+13.LIMIT OF DISTURBANCE:
+9.91 ACRES ±
+14.JURISDICTION: 
+KENT COUNTY
+15.ZONE:  
+AGRICULTURAL ZONING DISTRICT (AZD)
+16.MINIMUM YARD AND SETBACK REQUIREMENTS FOR UTILITY SCALE SOLAR IS AS FOLLOWS:
+FRONT:
+200 FEET
+REAR: 
+200 FEET
+SIDE:
+200 FEET
+17.FLOOD ZONE DETERMINATION:
+(BASED ON FLOOD INSURANCE RATE MAPS PROVIDED BY FEMA)
+FIRM MAP: 
+24029C0155D
+EFFECTIVE DATE: 
+MARCH 16, 2015
+FIRM ZONE: 
+"X" AREAS DETERMINED TO BE OUTSIDE THE 0.2% ANNUAL CHANCE FLOODPLAIN
+18.WATER AND SEWER NOT PROPOSED FOR THE SITE.
+DRAWN BY:
+DATE:
+PROJECT  NO.:
+COPYRIGHT  2023
+MARK
+DATE
+DESCRIPTION
+ISSUE  BLOCK
+PROJECT  TITLE
+SHEET  TITLE
+SCALE:
+SHEET
+PROJ. MGR.:
+C-001
+LAYER STATE:
+26001 STILL POND NECK ROAD
+STILL POND
+KENT COUNTY,  MD 21667
+MDL-118 STILL
+POND NECK
+ROAD - SOLAR
+10/24/2022
+2022004.00
+ELECTION DISTRICT 3
+E.M.S.
+E.H.H.
+LICENSE NUMBER:
+EXPIRATION DATE:
+I HEREBY CERTIFY THAT THESE
+DOCUMENTS WERE PREPARED OR
+APPROVED BY ME, AND THAT I AM A
+DULY LICENSED PROFESSIONAL
+ENGINEER UNDER THE LAWS OF THE
+STATE OF MARYLAND
+30331
+09/23/24
+JAH
+S
+T
+A
+T
+E
+  
+O
+F
+  
+M
+A
+R
+Y
+L
+A
+N
+D
+P
+R
+O
+F
+E
+S
+S
+I
+O
+N
+A
+L 
+ E
+N
+G
+I
+N
+E
+E
+R
+J
+E
+F
+F
+R
+E
+Y 
+A
+. 
+H
+A
+R
+M
+A
+N
+N
+o
+.
+ 
+3
+0
+3
+3
+1
+06/01/23
+.
+NEW ARRAY LAYOUT
+.
+C-001
+1" = 200'
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+North Carolina
+309 South Governors Avenue
+Dover, DE 19904
+302.734.7950
+312 West Main Street, Suite 300
+Salisbury, MD  21801
+410.546.9100
+Maryland
+www.beckermorgan.com
+Delaware
+A
+E
+R
+N
+C
+G
+H
+I
+I
+N
+T
+E
+E
+E
+C
+R
+T
+I
+U
+N G
+R E
+910.341.7600
+Wilmington, NC  28403
+3333 Jaeckle Drive, Suite 120
+The Tower at STAR Campus
+100 Discovery Boulevard, Suite 102
+Newark, DE 19713
+302.369.3700
+.PDF
+C:\Temp AutoCAD\AcPublish_26652\202200400-Site-C3D21.dwg, Jun 06, 2023 - 9:08am
+ 2023-06-06
+0
+SCALE:  1" = 200'
+100
+200
+400
+Do Not Explode - Select Scale
+COVER SHEET
+9ICINIT<  MAP
+SCALE : 1" =  2000'
+N
+SITE
+TAX MAP 12  PARCEL 48
+N/F
+ROBERT & JEAN PAYNE
+DEED BOOK 445 PAGE 80
+TAX MAP 12  PARCEL 50
+N/F
+NANCY MILLER
+DEED BOOK 937 PAGE 387
+TAX MAP 12  PARCEL 107
+N/F
+JAMES GREENWOOD II
+DEED BOOK 693 PAGE 43
+TAX MAP 12  PARCEL 131
+N/F
+ JOAQUIM & ARLENE SILVA
+DEED BOOK 763 PAGE 58
+STILLPOND NECK ROAD
+SHEET  INDEX
+C-001
+COVER SHEET
+C-101 
+EXISTING CONDITIONS PLAN
+C-201
+SITE PLAN
+C-401
+GRADING PLAN
+C-501
+EROSION AND SEDIMENT CONTROL PLAN
+C-502                     ESC & CONSTRUCTION DETAILS
+C-901 
+CONSTRUCTION NOTES AND DETAILS
+L-001
+FOREST CONSERVATION PLAN
+L-101
+LANDSCAPE PLAN
+L-102
+FENCE DETAIL
+UNDERGROUND ELECTRIC
+CONCRETE CURB & GUTTER
+CONCRETE SIDEWALK, SLAB / PAVING
+IMPERVIOUS SURFACED ROAD, DRIVE
+INDIVIDUAL TREE OR BUSH
+STRUCTURE (CONCRETE, WOOD,
+UNDERGROUND GAS MAIN
+UNDERGROUND TELEPHONE
+PAVEMENT TO BE REMOVED
+DRAINAGE DITCH OR SWALE
+EMBANKMENT SIDESLOPES (DOWN)
+ELEVATION SPOT SHOT
+PROPERTY OR RIGHT-OF-WAY LINE
+LIGHT POLE
+CONSTRUCTION NOTE
+CENTERLINE
+BENCH MARK
+  METAL, ETC.)
+CONTOUR 
+OR LOT
+WIRE FENCE
+N/A
+49
+EVERGREEN
+DECIDUOUS
+N/A
+N/A
+N/A
+ITEM
+SANITARY GRAVITY SEWER LINE,
+STORM DRAIN LINE (CMP OR RCP)
+STORM DRAIN MANHOLE (S.D.M.H.)
+SANITARY SEWER MANHOLE (S.M.H.)
+SANITARY SEWER FORCE MAIN, SIZE
+SIZE & FLOW DIRECTION
+WATER VALVE (W.V.)  OR METER (W.M.)
+CATCH BASIN
+(TELEPHONE OR ELECTRIC OR BOTH)
+UTILITY POLE W/ OVERHEAD SERVICE
+SANITARY SEWER CLEANOUT
+WATER MAIN & SIZE
+FIRE HYDRANT
+& FLOW DIRECTION
+PROPOSED
+LEGEND
+EXISTING
+EX. 10" F.M.
+EX. 10"S
+EX. 10" W
+F.H.
+U.E.
+U.T.
+EX. 2" G
+X
+X
+X
+AGRICULTURAL  FENCE
+STOCKADE  FENCE
+43.55
+10" S
+12" F.M.
+12" W
+F.H.
+U.E.
+U.T.
+2" G
+X
+X
+X
+55
+25.15
+B.C.
+25.00
+T.C.
+25.50
+W.M.
+W.V.
+W.M.
+W.V.
+1 STILL POND NECK
+ROAD SOLAR PRO-ECT
+KENT CO8NT<  MAR<LAND
+T+IRD ELECTION DISTRICT
+STILL POND ROAD
+MD STATE RO8TE 
+PROPOSED
+SOLAR FACILITY
+TAX MAP 4  PARCEL 14
+N/F
+THOMAS SIMMONS, JR.
+DEED BOOK 1139 PAGE 171
+TAX MAP 12  PARCEL 1
+N/F
+CANNERY ROAD FARM, LLC
+DEED BOOK 1096 PAGE 216
+GENERAL  NOTES : SOLAR ENERGY SYSTEMS
+A. SETBACKS TO ACCOMMODATE REQUIRED LANDSCAPE BUFFER
+1. 200 FEET FROM ANY LOT LINE
+2. 200 FEET FROM ANY ROAD/AND OR RIGHT-OF WAY
+3. 200 FEET FROM ANY ROAD/RIGHT-OF-WAY WITHIN ½ MILE OF A TOWN OR VILLAGE BOUNDARY THAT IS THE
+GATEWAY INTO A TOWN OR VILLAGE
+4. 200 FEET FROM ANY RESIDENTIAL USE OR ZONING DISTRICT
+5. SETBACKS MAY BE REDUCED TO 100 FEET FOR NON-RESIDENTIAL DEVELOPMENT WITH WRITTEN CONSENT
+FROM THE PROPERTY OWNERS WHOSE PROPERTY IS ADJACENT TO THE AREA IN WHICH THE SETBACK
+REDUCTION IS SOUGHT. THE PLANNING COMMISSION SHALL BE THE REVIEW AGENCY TO DETERMINE THE
+APPLICATION OF THIS PROVISION.
+6. SETBACKS SHALL BEMEASURED FROM THE OUTERMOST EDGE OF THE NEARESTSOLAR PANELSTRUCTURE
+WITHIN THE SOLAR ARRAY INCLUDING SUBSTATIONS.
+B. INSTALLATION ANDMAINTENANCE STANDARDS
+SOLAR ARRAYS SHALL BE CONSTRUCTED AND MAINTAINED ACCORDING TO THE FOLLOWING:
+1. IF SOLVENTS ARE REQUIRED FOR CLEANING OF THE SOLAR MODULES, THEY MUST BE BIODEGRADABLE.
+ANY UNUSED SOLVENTS MUST BE REMOVED FROM THE SUBJECT PARCEL.
+2. ALL BROKEN OR WASTE SOLAR MODULES SHALL BE REMOVED FROM THE SITE SUBJECT PARCEL WITHIN 30
+DAYS OF BEING TAKEN OUT OF SERVICE, INCLUDING ANY LEACHING PANELS, AND THE SUBJECT PARCEL
+SHALL BE MAINTAINED IN GOOD ORDER.
+3. ALL WIRING NOT ON THE SOLAR ARRAYS SHALL BE UNDERGROUND EXCEPT WHEN NECESSARY TO
+CONNECT TO THE PUBLIC UTILITY.
+4. TRANSMISSION WIRES TO CONNECT THE PROJECT TO THE UTILITY INFRASTRUCTURE SHALL NOT CROSS A
+ROADWAY OVERHEAD.
+5. ANY REQUIRED UTILITY RIGHT OF WAY SHALL BE SECURED THROUGH AN EASEMENT, LEASE, SERVICE
+AGREEMENT OR OTHER LEGALLY BINDING DOCUMENT.
+6. THE SOLAR ARRAY SHALL BE ENCLOSED BY A FENCE OR OTHER APPROPRIATE BARRIER AT THE INTERIOR
+EDGE OF THE REQUIRED LANDSCAPE BUFFER OR IMMEDIATELY ADJACENT TO THE SOLAR ARRAY. THE
+FENCE OR BARRIER SHALL:
+a.
+SECURE THE FACILITY AT ALL TIMES TO PREVENT UNAUTHORIZED PERSONS OR VEHICLES FROM
+GAINING ACCESS.
+b.
+ALL ACCESS GATES WILL PROVIDE A SIGN THAT IDENTIFIES THE RESPONSIBLE PARTIES OR OWNERS
+WITH CURRENT CONTACT INFORMATION.
+7. NOISE GENERATED BY THE FACILITY SHALL BE LIMITED BY THE PROJECT DESIGN TO 45 DBAS MEASURED
+AT TH PROPERTY LINE, TO BE INDICATED ON THE SITE PLAN BY THE ENGINEER, EXCEPT WHEN A BACK-UP
+GENERATOR IS NEEDED FOR MAINTENANCE. CONSTRUCTION ON THE SITE IS EXEMPT FROM THIS
+STANDARD.
+8. SOLAR ARRAYS, INCLUDING THE ELECTRICAL AND MECHANICAL COMPONENTS, SHALL CONFORM TO
+RELEVANT AND APPLICABLE LOCAL, STATE, AND NATIONAL CODES.
+9. TO PROTECT ADJACENT PROPERTIES, AND NOT INTERFERE WITH ROADWAYS OR CREATE A SAFETY
+HAZARD, EVIDENCE SHALL BE PROVIDED THAT THE SOLAR PANELS ARE DESIGNED TO AVOID GLARE
+AND/OR REFLECTION WITH ANTI-REFLECTIVE COATING OR NON-GLARE TECHNOLOGY AND, IF NECESSARY,
+HAVE BEEN EVALUATED WITH A SOLAR GLARE HAZARD AND ANALYSIS TOOL.
+10.NON-ARRAY USES SUCH AS POWER STORAGE ARE NOT PERMITTED.
+C. LANDSCAPE BUFFER FOR UTILITY-SCALE SOLAR ENERGY SYSTEMS
+1. ANY UTILITY SCALE SOLAR FACILITY SHALL COMPLY WITH THE REQUIREMENTS OF THE FOREST
+CONSERVATION ACT. REFORESTATION PLANTING MAY BE INCORPORATED AS LANDSCAPING
+2. THE GROSS USABLE AREA FOR PANELS WILL EXCLUDE WETLAND AREAS THAT ARE REGULATED BY THE
+MARYLAND DEPARTMENT OF THE ENVIRONMENT OR THE U.S. DEPARTMENT OF THE INTERIOR. IMPACTS
+ASSOCIATED WITH ACCESS OR INTERIOR ROADS AND UTILITY CROSSINGS SHALL PROVIDE THE
+NECESSARY AUTHORIZATION FOR ANY DISTURBANCES.
+3. EXISTING TOPSOIL SHALL NOT BE REMOVED FROM THE SITE.
+4. A VEGETATED BUFFER THAT IS A MINIMUM OF 60 FEET WIDE AROUND THE PERIMETER OF THE SITE AREA
+FRONTING ON ROAD OR RIGHTS OF WAY THAT ARE CONSIDERED GATEWAYS TO TOWNS OR VILLAGES AND
+A MINIMUM OF 50 FEET FOR ALL OTHER APPLICATIONS. THIS BUFFER MAY BE LOCATED WITHIN THE
+SETBACK AND SHALL EXTEND AROUND THE ENTIRE PROJECT WITH THE EXCEPTION OF ANY BOUNDARIES
+CONTIGUOUS TO PRESERVED, FORESTED LANDS THAT ARE RECORDED ON A PLAT.
+5. HEALTHY EXISTING VEGETATION WITHIN THE DESIGNATED BUFFER AREA MAY BE USED TO SATISFY THE
+SPECIFIC BUFFER STANDARDS.
+6. NON-NATIVE PLANT MATERIAL SHALL NOT TOTAL MORE THAN 10% OF ALL PLANTINGS.
+7. WHERE A PHASED CONSTRUCTION PLAN IS PROPOSED, THE LANDSCAPE PLAN SHALL IDENTIFY THE
+PHASING OF THE PLANTINGS APPLICABLE TO EACH CONSTRUCTION PHASE.
+8. NOT MORE THAN 25% OF ANY SINGLE PLANT SPECIES SHOULD BE INCLUDED IN THE BUFFER TO PROMOTE
+THE GROWTH OF A NATURAL LANDSCAPE AND AVOID MONOTONY AND UNIFORMITY OF THE THE
+VEGETATION SHALL BE THICKLY PLANTED AND OF SUCH SPECIES THAT IT WILL PROVIDE AN OPAQUE
+VISUAL BARRIER THAT OBSCURES THE UTILITY SCALE SOLAR ARRAY FROM SIGHT ONCE THE VEGETATION
+REACHES MATURITY OR WITHIN FIVE YEARS, WHICHEVER COMES FIRST. A MIX OF EVERGREEN AND
+DECIDUOUS TREES,SHRUBS AND BENEFICIAL HABITAT SHALL BE INCLUDED:
+a.
+A MINIMUM OF TWO STAGGERED ROWS OF EVERGREEN TREES THAT AT INSTALLATION SHALL BE AT
+LEAST 6 FEET IN HEIGHT, EACH PLANTED NO MORE THAN 10 FEET APART. EVERGREEN TREE
+SPECIES SHALL BE A VARIED MIXTURE OF COMPATIBLE TYPES AND ACHIEVE A HEIGHT OF EIGHT
+FEET IN A MINIMUM OF 2 YEARS.
+b.
+IN ADDITION TO THE EVERGREEN TREES, NATIVE DECIDUOUS OR SHADE TREES WITH A MINIMUM
+SIZE AT INSTALLATION OF 2-INCH CALIPER SHALL BE INTERSPERSED TO ENHANCE THE EVERGREEN
+SCREENING ALONG WITH UNDERSTORY TREES WITH A MINIMUM SIZE OF INSTALLATION OF 1-INCH
+CALIPER OR 6 FEET IN OVERALL HEIGHT OR GREATER IF REQUIRED BY THE PLANNING COMMISSION
+TO ADDRESS GATEWAY AREAS.
+c.
+SHRUBS WITH A MINIMUM SIZE AT INSTALLATION OF 24 INCHES IN HEIGHT OR 30 INCHES IN SPREAD.
+d.
+THE BUFFER SHALL INCLUDE A FLOWERING GROUND COVER FOR POLLINATORS, WARM SEASON
+GRASSES AND OTHER BENEFICIAL HABITAT. THE GROUND COVER SEED MIXTURE SHALL INCLUDE A
+MINIMUM OF 10 PLANT SPECIES WITH A MINIMUM OF 2 FLOWERING SEASONS. LAWNS OUTSIDE THE
+REQUIRED BUFFER ARE DISCOURAGED; PLANTINGS FOR POLLINATORS ARE ENCOURAGED IN ALL
+PLANTED AREAS.
+e.
+THE HEIGHT OF PROPOSED PLANTING MAY REQUIRE ALTERNATIVES BASED UPON THE SITE
+ELEVATION AND VISIBILITY FROM ADJACENT PROPERTIES AND ROADS AND/OR RIGHTS OF WAYS. IF
+NECESSARY, AN ELEVATION OR PERSPECTIVE ILLUSTRATION EXHIBIT SHALL BE PROVIDED WITH
+VIEWPOINTS FROM RELEVANT LOCATIONS AROUND THE SITE FOR THE PLANNING COMMISSION TO
+CONSIDER.
+D. A LANDSCAPE BERM SHALL BE PROVIDED AT A MINIMUM OF THREE (3) FEET HIGH TO ASSIST IN SCREENING. THE
+DESIGN OF THE BERM SHALL BE SUCH THAT THE NATURAL DRAINAGE PATTERNS OF THE SITE WILL NOT BE
+ALTERED. THE BERM REQUIREMENT MAY BE WAIVED IN PART OR TOTALSUBJECT TO THE FOLLOWING
+CONDITIONS:
+1. A MINIMUM OF TWO STAGGERED ROWS OF EVERGREEN TREES THAT AT INSTALLATION ARE AT LEAST 8
+FEET IN HEIGHT AND PLANTED NO MORE THAN 10 FEET APART
+2. INTERSPERSED SHADE TREES HAVE A MINIMUM SIZE AT INSTALLATION OF 2.5-INCH CALIPER
+3. UNDERSTORY STORY TREES WITH A MINIMUM SIZE AT INSTALLATION OF 1.5-INCH CALIPER OR 6 FEET IN
+OVERALL HEIGHT
+4. SHRUBS WITH A MINIMUM SIZE AT INSTALLATION OF 30 INCHES IN HEIGHT.
+5. THE LANDSCAPING PLAN IS DEEMED TO SCREEN ELEVATIONS OF THE SITE ADEQUATELY WITHIN 2 YEARS.
+E. IRRIGATION SHALL BE PROVIDED TO ASSIST IN MAINTAINING PLANT MATERIALS IN A HEALTHY CONDITION FOR
+ALL NEWLY CREATED LANDSCAPE BUFFER AREAS. PLANTS SHALL BE WATERED IN A MANNER ADEQUATE TO
+ENSURE ESTABLISHMENT AND SURVIVAL. THE LANDSCAPE PLAN SHALL INCLUDE A WATERING SCHEDULE
+APPROPRIATE FOR THE PROPOSED PLANTINGS, WHICH MAY INCLUDE SERVICE BY ON-SITE IRRIGATION OR
+WATER TRUCK, UNTIL THE PLANT MATERIAL IS SUFFICIENTLY ESTABLISHED TO SURVIVE ON NATURAL SOIL
+MOISTURE. AN IRRIGATION SYSTEM IS SUBJECT TO THE FOLLOWING:
+1. THE IRRIGATION SYSTEM SHALL BE DESIGNED TO PREVENT RUNOFF, LOW HEAD DRAINAGE, OVERSPRAY,
+OR OTHER SIMILAR CONDITIONS WHERE IRRIGATION WATER FLOWS ONTO NONTARGETED AREAS SUCH AS
+ADJACENT PROPERTIES, ROADWAYS, OR STRUCTURES.
+2. ALL AUTOMATIC IRRIGATION SYSTEMS SHALL BE DESIGNED TO MINIMIZE WATER USAGE AND SHALL BE
+MANUALLY SHUT OFF DURING WATER EMERGENCIES OR WATER RATIONING PERIODS.
+3. AN ALTERNATIVE FORM OF IRRIGATION FOR A PARTICULAR SITE MAY BE APPROVED THROUGH THE
+APPLICABLE REVIEW PROCESS UPON DETERMINING THAT UNDERGROUND IRRIGATION IS NOT NECESSARY
+OR AVAILABLE FOR THE TYPE OF PLANT MATERIAL BEING PROPOSED.
+F. A MAINTENANCE AGREEMENT FOR THE LANDSCAPE PLAN SHALL BE PROVIDED WITH A SURETY OR OTHER
+FINANCIAL ASSURANCE TO COVER REPLACEMENT OF THE PLANTINGS AND IRRIGATION SYSTEMS. ALL PLANTINGS
+SHALL BE MAINTAINED IN A LIVE, HEALTHY CONDITION FOR THE DURATION OF THE SOLAR ARRAY LIFE AND SHALL
+BE REPLACED BY THE SOLAR ARRAY OPERATOR AS NECESSARY WITH APPROPRIATELY SIZED PLANT MATERIAL
+AS NECESSARY TO MAINTAIN ALL REQUIRED BUFFERING STANDARDS.
+G. THE SURETY MAY BE PROVIDED ON A PHASED BASIS PER THE LANDSCAPE PHASING PLAN AND SHALL BE HELD
+BY THE COUNTY FOR A PERIOD OF THREE YEARS FOLLOWING PLANTING, AFTER WHICH THE COUNTY, UPON
+SATISFACTORY INSPECTION OF THE LANDSCAPE BUFFER MAY RELEASE 50% OF THE SURETY, AND THE
+REMAINING 50% MAY BE RELEASED AFTER AN ADDITIONAL TWO YEARS. THE COUNTY THEN RESERVES THE
+RIGHT TO INSPECT AND REQUIRE REPLACEMENT FOR THE DURATION OF THE SOLAR ARRAY.
+H. ENTRANCESTO THE PROJECT SHOULD BE DESIGNED TO ENSURE THAT NEIGHBORING PROPERTIES, PUBLIC
+RIGHTS-OF WAYS AND ROADS ARE NOT EXPOSED TO AN UNSCREENED VIEW THROUGH THE ENTRANCEWAY. THE
+USE OF A WIRE MESH OR CHAIN-LINK GATE OR FENCE WITH VINYL INTERWOVEN STRIPS IS NOT ACCEPTABLE.
+I.
+THE PROJECT SHALL COMPLY WITH ALL APPLICABLE FEDERAL AND STATE REGULATIONS, INCLUDING BY NOT
+LIMITED TO OBTAINING A CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY FROM THE PUBLIC SERVICE
+COMMISSION IF REQUIRED, AND IN THE REMOVAL AND DISPOSAL OF THE UTILITY SCALE SOLAR ARRAY AND ALL
+OF ITS COMPONENTS.
+J. THE PROJECT SHALL COMPLY WITH ALL OTHER APPLICABLE REGULATIONS, AS CONTAINED IN THE PUBLIC LAWS
+OF KENT COUNTY.
+K. THE PROJECT SHALL COMPLY WITH THE BOND-RELATED REQUIREMENTS BELOW:
+1. A BOND, SURETY LETTER, OR OTHER FINANCIAL INSTRUMENT FOR REMOVAL OF ALL SOLAR-RELATED
+STRUCTURES AND NON-VEGETATIVE IMPROVEMENTS ON THE SITE AND FOR THE RESTORATION OF THE
+SITE TO ITS PREPROJECT CONDITION SHALL BE SUBMITTED, TO BE BASED ON BONA FIDE WRITTEN
+ESTIMATES PREPARED BY THIRD-PARTY CONSULTANTS;
+2. THE COST ESTIMATE SHALL ADDRESS PROVISIONS FOR THE SAFE REMOVAL AND PROPER DISPOSAL OF
+ALL COMPONENTS OF THE PROJECT, INCLUDING ANY COMPONENTS CONTAINING HAZARDOUS OR TOXIC
+MATERIALS INCLUDING LEACHATES;
+3. AN ESTIMATE FOR REVIEW BY COUNTY SHALL BE SUBMITTED;
+4. BOND SHALL BE MAINTAINED FOR THE LIFE OF THE PROJECT;
+5. BONDING MAY BE IN COORDINATION WITH OTHER REQUIRED BONDING BY THE STATE OF MARYLAND, PSC,
+PULJ, PPRP, ETC.;
+6. IN THE EVENT THAT NO OTHER BONDING IS REQUIRED, THEN A BOND IN FAVOR OF THE COUNTY SHALL BE
+REQUIRED;
+7. SAID BONDING SHALL INCLUDE AN ESCALATOR PROVISION BASED ON CHANGES TO THE COST OF
+RESTORATION, WHICH SHALL BE EVALUATED AND UPDATED EVERY FIVE YEARS;
+8. SAID BOND SHALL BE FOR 110% OF THE ABOVE ESTIMATE(S) AND/OR UPDATED ESTIMATE(S) FROM
+FIVEYEAR REVIEWS;
+9. SAID BOND SHALL BE REDEEMABLE BY THE COUNTY UPON A FINDING THAT THE PROJECT HAS BEEN
+ABANDONED, WITH OR WITHOUT NOTICE FROM PROJECT OPERATORS, IF PROJECT HAS, IN FACT, BEEN
+ABANDONED BY ITS OPERATORS; AND
+10.THE PROJECT WILL BE CONSIDERED TO BE ABANDONED, IF THERE IS NO ELECTRIC GENERATION PROVIDED
+TO THE GRID FOR A PERIOD OF TWELVE (12) CONSECUTIVE MONTHS.
+APPROVED:
+DATE
+KENT COUNT HEALTH DEPARTMENT
+APPROVING AUTHORITY
+APPROVED:
+DATE
+KENT COUNT PLANNING COMMISSION
+APPROVED:
+DATE
+KENT COUNT PLANNING DIRECTOR
+i
+Royal Swan Rd
+a
+BECKER
+26001 STILL POND NECK
+_
+j
+eee
+oleman
+KENT COUNTY, MARYLAND
+i3
+THIRD ELECTION DISTRICT
+ee
+|
+P|
+—
+3
+LESSEE
+EE
+3
+ao
+|
+;
+Td
+| |
+“4
+\
+fa
+a
+OY
+/
+7
+a
+¢
+>,
+c
+—
+(|
+—
+tps, /
+a
+io
+Pumper
+—©— |—_@—_
+yy
+|
+é
+é
+‘|
+—o—|
+—.—_
+LN
+fa
+o
+oe ete
+ie /
+[> /
+eae
+—o—
+a — | eoa
+Cc
+/
+/ 3 /
+¢
+—a
+Ps
+/
+3
+C
+os
+lone
+»/
+P
+cf
+\
+y
+_
+==3== |=
+:
+/
+/
+2
+on ~
+a
+ee
+i
+[Ve
+eon
+_—
+Bp
+=a Ta|nr m=
+/
+/
+/ z
+dr
+asasaal
+a
+a
+es
+roy
+|
+|
+a
+| See
+/
+H
+ax
+— — — Je
+J
+ff
+=a
+Qo |SS
+y
+yoo
+——
+LSS |RRR
+“
+/
+a
+r
+a
+Ae
+ls
+NZ
+—--~
+Z
+i
+=
+____
+______
+7
+‘e}
+88
+—
+—_
+“YR
+pay
+WOT
+tAL =a |wa
+7
+“2
+&
+soccee sonces |—————
+8
+~)
+a
+3
+ye
+|a Fl
+o
+*
+afe pT
+Po
+potee
+ee
+Po
+pot
+ee
+Oo
+|
+—
+Ipo
+Po
+po
+a |
+
+<!-- page 10 -->
+SOIL TYPE LISTING
+BS 
+BIBB SILT LOAM 
+B/D
+BUA 
+BUTLERTOWN-MATTAPEX SILT LOAMS, 0 TO 2 PERCENT SLOPES 
+C
+BUB2 
+BUTLERTOWN-MATTAPEX SILT LOAMS, 2 TO 5 PERCENT SLOPES, MODERATELY ERODED 
+C
+BUC2 
+BUTLERTOWN-MATTAPEX SILT LOAMS, 5 TO 10 PERCENT SLOPES, MODERATELY ERODED 
+C
+CEC2 
+COLTS NECK LOAM, 5 TO 10 PERCENT SLOPES, MODERATELY ERODED 
+B
+CNE 
+COLTS NECK AND SASSAFRAS SOILS, 15 TO 40 PERCENT SLOPES 
+B
+IK 
+IUKA SILT LOAM, RARELY FLOODED 
+C
+MNC2 
+MATAPEAKE SILT LOAM, 5 TO 10 PERCENT SLOPES, MODERATELY ERODED 
+B
+MTCA 
+MATTAPEX SILT LOAM, 0 TO 2 PERCENT SLOPES, MID-ATLANTIC COASTAL PLAIN 
+C
+SGC2 
+SASSAFRAS GRAVELLY LOAM, 5 TO 10 PERCENT SLOPES, MODERATELY ERODED 
+B
+SGC3 
+SASSAFRAS GRAVELLY LOAM, 5 TO 10 PERCENT SLOPES, SEVERELY ERODED 
+B
+BuA
+BuC2
+BuB2
+BuC2
+CeC2
+MtcA
+SgC3
+Bs
+CnE
+SgC2
+BuA
+MnC2
+CnE
+CnE
+BuA
+BuB2
+Ik
+FIR
+FIP
+FIPC
+FSTONE
+FIP
+200' B.R.L.
+200' B.R.L.
+79
+80
+81
+79
+77
+78
+79
+78
+79
+77
+76
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+70
+69
+69
+79
+80
+78
+77
+76
+75
+74
+73
+72
+73
+75
+77
+78
+76
+79
+77
+77
+S 83° 40' 35" W
+310.00'
+S 78° 45' 50" W
+428.23
+'
+N 3° 30' 47" W
+2011.83
+'
+79
+78
+77
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+77
+77
+TAX MAP 12  PARCEL 48
+N/F
+ROBERT & JEAN PAYNE
+DEED BOOK 445 PAGE 80
+TAX MAP 12  PARCEL 50
+N/F
+NANCY MILLER
+DEED BOOK 937 PAGE 387
+TAX MAP 12  PARCEL 107
+N/F
+JAMES GREENWOOD II
+DEED BOOK 693 PAGE 43
+TAX MAP 12  PARCEL 131
+N/F
+ JOAQUIM & ARLENE SILVA
+DEED BOOK 763 PAGE 58
+EXISTING 1,034 SF
+CONCRETE PAD
+TO BE REMOVED
+STILL POND NECK ROAD
+STILL POND ROAD
+(MD STATE ROUTE 292)
+S 82° 14' 26" W
+270.18'
+S 8° 06' 15" E
+727.00'
+S 71° 36' 25" W
+1153.08'
+S 83° 40' 35" W
+143.76'
+EXISTING
+TREELINE
+EXISTING
+TREELINE
+67
+69
+70
+72
+73
+74
+71
+75
+76
+77
+78
+79
+72
+74
+75
+76
+54
+49
+46
+44
+42
+40
+57
+60
+69
+73
+75
+70
+71
+72
+73
+74
+75
+76
+77
+76
+77
+71
+75
+78
+79
+78
+77
+76
+75
+73
+72
+74
+75
+76
+77
+78
+79
+80
+81
+80
+81
+82
+81
+82
+83
+84
+80
+79
+78
+79
+80
+81
+82
+81
+80
+79
+78
+100.00'
+EXISTING BLUE LINE STREAM
+(MD MERLIN ONLINE)
+100 FT STREAM BUFFER
+200' B.R.L.
+EXISTING COMPACTED
+DIRT ROAD
+EXISTING
+AGRICULTURAL
+DRAINAGE SWALE
+EXISTING DITCH
+EXISTING
+AGRICULTURAL
+DRAINAGE SWALE
+S 01° 58' 25" E
+200.00'
+DEFUNCT IRRIGATION WELL TO BE
+INSPECTED BY A WELL DRILLER
+LICENSED BY THE MARYLAND STATE
+BOARD OF WELL DRILLERS AND
+ABANDONED PER MDE GUIDELINES.
+80
+C-101
+1" = 100'
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+North Carolina
+309 South Governors Avenue
+Dover, DE 19904
+302.734.7950
+312 West Main Street, Suite 300
+Salisbury, MD  21801
+410.546.9100
+Maryland
+www.beckermorgan.com
+Delaware
+A
+E
+R
+N
+C
+G
+H
+I
+I
+N
+T
+E
+E
+E
+C
+R
+T
+I
+U
+N G
+R E
+910.341.7600
+Wilmington, NC  28403
+3333 Jaeckle Drive, Suite 120
+The Tower at STAR Campus
+100 Discovery Boulevard, Suite 102
+Newark, DE 19713
+302.369.3700
+.PDF
+E.H.H.
+.
+.
+.
+.
+C:\Temp AutoCAD\AcPublish_26652\202200400-Site-C3D21.dwg, Jun 06, 2023 - 9:08am
+ 2023-06-06
+DRAWN BY:
+DATE:
+PROJECT  NO.:
+COPYRIGHT  2023
+MARK
+DATE
+DESCRIPTION
+ISSUE  BLOCK
+PROJECT  TITLE
+SHEET  TITLE
+SCALE:
+SHEET
+PROJ. MGR.:
+C-101
+LAYER STATE:
+26001 STILL POND NECK ROAD
+STILL POND
+KENT COUNTY,  MD 21667
+MDL STILL
+POND NECK
+ROAD  SOLAR
+10/24/2022
+2022004.00
+ELECTION DISTRICT 3
+E.M.S.
+E.H.H.
+LICENSE NUMBER:
+EXPIRATION DATE:
+I HEREBY CERTIFY THAT THESE
+DOCUMENTS WERE PREPARED OR
+APPROVED BY ME, AND THAT I AM A
+DULY LICENSED PROFESSIONAL
+ENGINEER UNDER THE LAWS OF THE
+STATE OF MARYLAND
+30331
+09/23/24
+JAH
+S
+T
+A
+T
+E
+  
+O
+F
+  
+M
+A
+R
+Y
+L
+A
+N
+D
+P
+R
+O
+F
+E
+S
+S
+I
+O
+N
+A
+L 
+ E
+N
+G
+I
+N
+E
+E
+R
+J
+E
+F
+F
+R
+E
+Y 
+A
+. 
+H
+A
+R
+M
+A
+N
+N
+o
+.
+ 
+3
+0
+3
+3
+1
+06/01/23
+.
+NEW ARRAY LAYOUT
+.
+0
+SCALE:  1" = 100'
+50
+100
+200
+Do Not Explode - Select Scale
+EXISTING
+CONDITIONS PLAN
+
+<!-- page 11 -->
+SOIL TYPE LISTING
+BS 
+BIBB SILT LOAM 
+B/D
+BUA 
+BUTLERTOWN-MATTAPEX SILT LOAMS, 0 TO 2 PERCENT SLOPES 
+C
+BUB2 
+BUTLERTOWN-MATTAPEX SILT LOAMS, 2 TO 5 PERCENT SLOPES, MODERATELY ERODED 
+C
+BUC2 
+BUTLERTOWN-MATTAPEX SILT LOAMS, 5 TO 10 PERCENT SLOPES, MODERATELY ERODED 
+C
+CEC2 
+COLTS NECK LOAM, 5 TO 10 PERCENT SLOPES, MODERATELY ERODED 
+B
+CNE 
+COLTS NECK AND SASSAFRAS SOILS, 15 TO 40 PERCENT SLOPES 
+B
+IK 
+IUKA SILT LOAM, RARELY FLOODED 
+C
+MNC2 
+MATAPEAKE SILT LOAM, 5 TO 10 PERCENT SLOPES, MODERATELY ERODED 
+B
+MTCA 
+MATTAPEX SILT LOAM, 0 TO 2 PERCENT SLOPES, MID-ATLANTIC COASTAL PLAIN 
+C
+SGC2 
+SASSAFRAS GRAVELLY LOAM, 5 TO 10 PERCENT SLOPES, MODERATELY ERODED 
+B
+SGC3 
+SASSAFRAS GRAVELLY LOAM, 5 TO 10 PERCENT SLOPES, SEVERELY ERODED 
+B
+BuA
+BuC2
+BuB2
+BuC2
+CeC2
+MtcA
+SgC3
+Bs
+CnE
+SgC2
+BuA
+MnC2
+CnE
+CnE
+BuA
+BuB2
+Ik
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+FIR
+FIP
+FIPC
+FSTONE
+FIP
+200' B.R.L.
+200' B.R.L.
+79
+80
+81
+79
+77
+78
+79
+78
+79
+77
+76
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+70
+69
+69
+79
+80
+78
+77
+76
+75
+74
+73
+72
+73
+75
+77
+78
+76
+79
+77
+77
+S 83° 40' 35" W
+310.00'
+S 78° 45' 50" W
+428.23
+'
+N 3° 30' 47" W
+2011.83
+'
+79
+78
+77
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+77
+77
+TAX MAP 12  PARCEL 48
+N/F
+ROBERT & JEAN PAYNE
+DEED BOOK 445 PAGE 80
+TAX MAP 12  PARCEL 50
+N/F
+NANCY MILLER
+DEED BOOK 937 PAGE 387
+TAX MAP 12  PARCEL 107
+N/F
+JAMES GREENWOOD II
+DEED BOOK 693 PAGE 43
+TAX MAP 12  PARCEL 131
+N/F
+ JOAQUIM & ARLENE SILVA
+DEED BOOK 763 PAGE 58
+STILL POND NECK ROAD
+STILL POND ROAD
+(MD STATE ROUTE 292)
+S 82° 14' 26" W
+270.18'
+S 8° 06' 15" E
+727.00'
+S 71° 36' 25" W
+1153.08'
+S 83° 40' 35" W
+143.76'
+EXISTING
+TREELINE
+EXISTING
+TREELINE
+67
+69
+70
+72
+73
+74
+71
+75
+76
+77
+78
+79
+72
+74
+75
+76
+54
+49
+46
+44
+42
+40
+57
+60
+69
+73
+75
+70
+71
+72
+73
+74
+75
+76
+77
+76
+77
+71
+75
+78
+79
+78
+77
+76
+75
+73
+72
+74
+75
+76
+77
+78
+79
+80
+81
+80
+81
+82
+81
+82
+83
+84
+80
+79
+78
+79
+80
+81
+82
+81
+80
+79
+78
+100.00'
+EXISTING BLUE LINE STREAM
+(MD MERLIN ONLINE)
+100 FT STREAM BUFFER
+200' B.R.L.
+60.00'
+60.00'
+60.00'
+40'
+16'
+10.00'
+60.00'
+S 01° 58' 25" E
+200.00'
+80
+MVUG
+MVUG
+MVUG
+GROUND SLOPE: 0%-5%
+INTER-ROW SPACING = 12.98 FT
+10 FT WIDE GRAVEL
+ACCESS ROAD
+TOTAL AREA: 4,853 SF
+POI. MV INTERCONNECTION
+LAT: N39° 20' 36.38"
+LONG: W76° 03' 59.35"
+DISTANCE: 430 FT
+SOLAR EQUIPMENT
+PAD REFER TO
+C-901 FOR DETAIL
+REMAINING PORTION OF
+COMPACTED DIRT ROAD
+60' WIDE PERIMETER
+LANDSCAPE BUFFER
+DEFUNCT IRRIGATION WELL TO BE
+INSPECTED BY A WELL DRILLER
+LICENSED BY THE MARYLAND STATE
+BOARD OF WELL DRILLERS AND
+ABANDONED PER MDE GUIDELINES.
+AG FENCE
+AREA: 5.00 ACRES
+PERIMETER: 1,955 FT
+REFER TO LANDSCAPING
+PLANS FOR DETAILS
+EXISTING AGRICULTURAL
+DRAINAGE SWALE TO REMAIN
+60' WIDE PERIMETER
+LANDSCAPE BUFFER
+NOISE GENERATED BY THE
+FACILITY SHALL BE LESS
+THAN 45 dBAs MEASURED
+AT THE PROPERTY LINE,
+EXISTING CULVERT
+CROSSING TO BE
+UTILIZED
+PV MODULES
+AG FENCE
+AREA:
+5.00 ACRES
+PERIMETER: 1,955 FT
+REFER TO LANDSCAPING
+PLANS FOR DETAILS
+MEDIUM VOLTAGE
+UNDERGROUND ELECTRIC
+UTILITY POLES
+304.79'
+266.84'
+532.07'
+27'
+106'
+C-201
+1" = 100'
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+North Carolina
+309 South Governors Avenue
+Dover, DE 19904
+302.734.7950
+312 West Main Street, Suite 300
+Salisbury, MD  21801
+410.546.9100
+Maryland
+www.beckermorgan.com
+Delaware
+A
+E
+R
+N
+C
+G
+H
+I
+I
+N
+T
+E
+E
+E
+C
+R
+T
+I
+U
+N G
+R E
+910.341.7600
+Wilmington, NC  28403
+3333 Jaeckle Drive, Suite 120
+The Tower at STAR Campus
+100 Discovery Boulevard, Suite 102
+Newark, DE 19713
+302.369.3700
+.PDF
+E.H.H.
+E.H.H.
+C:\Temp AutoCAD\AcPublish_26652\202200400-Site-C3D21.dwg, Jun 06, 2023 - 9:08am
+ 2023-06-06
+DRAWN BY:
+DATE:
+PROJECT  NO.:
+COPYRIGHT  2023
+MARK
+DATE
+DESCRIPTION
+ISSUE  BLOCK
+PROJECT  TITLE
+SHEET  TITLE
+SCALE:
+SHEET
+PROJ. MGR.:
+C-201
+LAYER STATE:
+26001 STILL POND NECK ROAD
+STILL POND
+KENT COUNTY,  MD 21667
+MDL STILL
+POND NECK
+ROAD  SOLAR
+10/24/2022
+2022004.00
+ELECTION DISTRICT 3
+E.M.S.
+E.H.H.
+LICENSE NUMBER:
+EXPIRATION DATE:
+I HEREBY CERTIFY THAT THESE
+DOCUMENTS WERE PREPARED OR
+APPROVED BY ME, AND THAT I AM A
+DULY LICENSED PROFESSIONAL
+ENGINEER UNDER THE LAWS OF THE
+STATE OF MARYLAND
+30331
+09/23/24
+JAH
+S
+T
+A
+T
+E
+  
+O
+F
+  
+M
+A
+R
+Y
+L
+A
+N
+D
+P
+R
+O
+F
+E
+S
+S
+I
+O
+N
+A
+L 
+ E
+N
+G
+I
+N
+E
+E
+R
+J
+E
+F
+F
+R
+E
+Y 
+A
+. 
+H
+A
+R
+M
+A
+N
+N
+o
+.
+ 
+3
+0
+3
+3
+1
+06/01/23
+.
+NEW ARRAY LAYOUT
+.
+0
+SCALE:  1" = 100'
+50
+100
+200
+Do Not Explode - Select Scale
+PROPOSED SITE
+PLAN
+DETAIL A
+SCALE: 1" = 10'
+REFER TO
+"DETAIL A"
+THIS SHEET
+22.53'
+7.50'
+3.72'
+
+<!-- page 12 -->
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+18
+79
+80
+81
+80
+81
+82
+81
+82
+83
+80
+79
+78
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+81.02'
+81.26'
+80.58'
+80.68'
+80.84'
+81.01'
+81.39'
+81.59'
+81.81'
+82.17'
+82.44'
+82.79'
+82.28'
+82.03'
+81.68'
+81.95'
+82.01'
+80.48'
+80.55'
+81.48'
+81.67'
+81.85'
+82.26'
+82.56'
+82.89'
+82.81'
+82.36'
+82.74'
+81.97'
+82.09'
+82.13'
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+18
+79
+80
+81
+80
+81
+82
+81
+82
+83
+80
+79
+78
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+82.24'
+82.37'
+82.53'
+82.36'
+81.91'
+82.04' 82.20'
+82.03'
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+C-401
+1" = 50'
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+North Carolina
+309 South Governors Avenue
+Dover, DE 19904
+302.734.7950
+312 West Main Street, Suite 300
+Salisbury, MD  21801
+410.546.9100
+Maryland
+www.beckermorgan.com
+Delaware
+A
+E
+R
+N
+C
+G
+H
+I
+I
+N
+T
+E
+E
+E
+C
+R
+T
+I
+U
+N G
+R E
+910.341.7600
+Wilmington, NC  28403
+3333 Jaeckle Drive, Suite 120
+The Tower at STAR Campus
+100 Discovery Boulevard, Suite 102
+Newark, DE 19713
+302.369.3700
+.PDF
+E.M.S.
+E.H.H.
+C:\Temp AutoCAD\AcPublish_26652\202200400-Site-C3D21.dwg, Jun 06, 2023 - 9:08am
+ 2023-06-06
+DRAWN BY:
+DATE:
+PROJECT  NO.:
+COPYRIGHT  2023
+MARK
+DATE
+DESCRIPTION
+ISSUE  BLOCK
+PROJECT  TITLE
+SHEET  TITLE
+SCALE:
+SHEET
+PROJ. MGR.:
+C-401
+LAYER STATE:
+26001 STILL POND NECK ROAD
+STILL POND
+KENT COUNTY,  MD 21667
+0DL- STILL
+POND NECK
+ROAD - SOLAR
+10/24/2022
+2022004.00
+ELECTION DISTRICT 3
+E.M.S.
+E.H.H.
+LICENSE NUMBER:
+EXPIRATION DATE:
+I HEREBY CERTIFY THAT THESE
+DOCUMENTS WERE PREPARED OR
+APPROVED BY ME, AND THAT I AM A
+DULY LICENSED PROFESSIONAL
+ENGINEER UNDER THE LAWS OF THE
+STATE OF MARYLAND
+30331
+09/23/24
+JAH
+S
+T
+A
+T
+E
+  
+O
+F
+  
+M
+A
+R
+Y
+L
+A
+N
+D
+P
+R
+O
+F
+E
+S
+S
+I
+O
+N
+A
+L 
+ E
+N
+G
+I
+N
+E
+E
+R
+J
+E
+F
+F
+R
+E
+Y 
+A
+. 
+H
+A
+R
+M
+A
+N
+N
+o
+.
+ 
+3
+0
+3
+3
+1
+06/01/23
+.
+NEW ARRAY LAYOUT
+.
+0
+SCALE:  1" = 50'
+25
+50
+100
+Do Not Explode - Select Scale
+SITE GRADING AND
+ACCESS ROAD
+CONSTRUCTION
+PLAN
+DETAIL A
+SCALE: 1" = 10'
+REFER TO
+"DETAIL A"
+THIS SHEET
+10 FT WIDE GRAVEL
+ACCESS ROAD
+TIE INTO EXISTING ROAD
+UTILIZING THE EXISTING
+ACCESS DRIVE TO THE SITE.
+10 FT WIDE GRAVEL
+ACCESS ROAD
+DETAIL B
+SCALE: 1" = 10'
+PLAN VIEW - SITE ACCESS
+SCALE: 1" = 50'
+PLAN VIEW - DISCONNECT AREA
+SCALE: 1" = 50'
+REFER TO
+"DETAIL B"
+THIS SHEET
+10 FT WIDE GRAVEL
+ACCESS ROAD
+TIE INTO EXISTING ROAD
+UTILIZING THE EXISTING
+ACCESS DRIVE TO THE SITE.
+10 FT WIDE GRAVEL
+ACCESS ROAD
+10 FT WIDE PROPOSED N-2
+DISCONNECTION OF
+NON-ROOFTOP RUNOFF
+PROPOSED EQUIPMENT PAD
+4"± ABOVE EXISTING GRADE
+PROPOSED N-2
+DISCONNECTION OF
+NON-ROOFTOP RUNOFF
+27.00'
+10.00'
+27.00'
+10.00'
+27.00'
+10.00'
+10.00'
+10.00'
+EXISTING CULVERT
+EXISTING CULVERT
+
+<!-- page 13 -->
+SOIL TYPE LISTING
+BS 
+BIBB SILT LOAM 
+B/D
+BUA 
+BUTLERTOWN-MATTAPEX SILT LOAMS, 0 TO 2 PERCENT SLOPES 
+C
+BUB2 
+BUTLERTOWN-MATTAPEX SILT LOAMS, 2 TO 5 PERCENT SLOPES, MODERATELY ERODED 
+C
+BUC2 
+BUTLERTOWN-MATTAPEX SILT LOAMS, 5 TO 10 PERCENT SLOPES, MODERATELY ERODED 
+C
+CEC2 
+COLTS NECK LOAM, 5 TO 10 PERCENT SLOPES, MODERATELY ERODED 
+B
+CNE 
+COLTS NECK AND SASSAFRAS SOILS, 15 TO 40 PERCENT SLOPES 
+B
+IK 
+IUKA SILT LOAM, RARELY FLOODED 
+C
+MNC2 
+MATAPEAKE SILT LOAM, 5 TO 10 PERCENT SLOPES, MODERATELY ERODED 
+B
+MTCA 
+MATTAPEX SILT LOAM, 0 TO 2 PERCENT SLOPES, MID-ATLANTIC COASTAL PLAIN 
+C
+SGC2 
+SASSAFRAS GRAVELLY LOAM, 5 TO 10 PERCENT SLOPES, MODERATELY ERODED 
+B
+SGC3 
+SASSAFRAS GRAVELLY LOAM, 5 TO 10 PERCENT SLOPES, SEVERELY ERODED 
+B
+BuA
+BuC2
+BuB2
+BuC2
+SgC3
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+18
+200' B.R.L.
+200' B.R.L.
+79
+77
+78
+79
+79
+77
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+70
+69
+69
+77
+77
+STILL POND NECK ROAD
+18
+79
+78
+77
+76
+75
+73
+72
+74
+75
+76
+77
+78
+79
+80
+81
+80
+81
+82
+81
+82
+83
+84
+80
+79
+78
+79
+80
+81
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+SF/LOD
+80
+SCE
+CWS
+SF
+SF
+SF
+SF
+SF
+SF
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+AREA UNDER THE ARRAY TO BE
+PLANTED WITH POLLINATOR SEED MIX.
+REFER TO PAGE C-502 FOR DETAIL
+TEMPORARY
+STOCKPILE AREA
+(PROTECT WITH SILT
+FENCE AS NECESSARY)
+LIMIT OF
+DISTURBANCE
+9.91 ACRES ±
+3,038 L.F.SILT FENCE
+MATERIAL
+LAYDOWN
+AREA
+CONCRETE
+WASHOUT
+STRUCTURE
+STABILIZED
+CONSTRUCTION
+ENTRANCE
+DRAWN BY:
+DATE:
+PROJECT  NO.:
+COPYRIGHT  2023
+MARK
+DATE
+DESCRIPTION
+ISSUE  BLOCK
+PROJECT  TITLE
+SHEET  TITLE
+SCALE:
+SHEET
+PROJ. MGR.:
+C-501
+LAYER STATE:
+26001 STILL POND NECK ROAD
+STILL POND
+KENT COUNTY,  MD 21667
+0DL STILL
+POND NECK
+ROAD  SOLAR
+10/24/2022
+2022004.00
+ELECTION DISTRICT 3
+E.M.S.
+E.H.H.
+LICENSE NUMBER:
+EXPIRATION DATE:
+I HEREBY CERTIFY THAT THESE
+DOCUMENTS WERE PREPARED OR
+APPROVED BY ME, AND THAT I AM A
+DULY LICENSED PROFESSIONAL
+ENGINEER UNDER THE LAWS OF THE
+STATE OF MARYLAND
+30331
+09/23/24
+JAH
+S
+T
+A
+T
+E
+  
+O
+F
+  
+M
+A
+R
+Y
+L
+A
+N
+D
+P
+R
+O
+F
+E
+S
+S
+I
+O
+N
+A
+L 
+ E
+N
+G
+I
+N
+E
+E
+R
+J
+E
+F
+F
+R
+E
+Y 
+A
+. 
+H
+A
+R
+M
+A
+N
+N
+o
+.
+ 
+3
+0
+3
+3
+1
+06/01/23
+.
+NEW ARRAY LAYOUT
+.
+C-501
+1" = 50'
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+North Carolina
+309 South Governors Avenue
+Dover, DE 19904
+302.734.7950
+312 West Main Street, Suite 300
+Salisbury, MD  21801
+410.546.9100
+Maryland
+www.beckermorgan.com
+Delaware
+A
+E
+R
+N
+C
+G
+H
+I
+I
+N
+T
+E
+E
+E
+C
+R
+T
+I
+U
+N G
+R E
+910.341.7600
+Wilmington, NC  28403
+3333 Jaeckle Drive, Suite 120
+The Tower at STAR Campus
+100 Discovery Boulevard, Suite 102
+Newark, DE 19713
+302.369.3700
+.PDF
+E.H.H.
+.
+.
+.
+.
+C:\Temp AutoCAD\AcPublish_26652\202200400-Site-C3D21.dwg, Jun 06, 2023 - 9:08am
+ 2023-06-06
+0
+SCALE:  1" = 50'
+25
+50
+100
+Do Not Explode - Select Scale
+EROSION SEDIMENT
+CONTROL PLAN
+THE FOLLOWING ITEMS HAVE BEEN ADDRESSED TO MEET THE REQUIREMENTS OF THE
+GENERAL PERMIT FOR STORMWATER ASSOCIATED WITH CONSTRUCTION ACTIVITY (NPDES
+NUMBER MDR10, STATE DISCHARGE PERMIT NUMBER 09GP).
+1.)  UTILIZATION OF ENVIRONMENTAL SITE DESIGN
+2.)  MAINTENANCE OF LIMITS OF DISTURBANCE TO PROTECT NATURAL AREAS
+3.)  CONTROL OF CONSTRUCTION EQUIPMENT AND VEHICLES
+4.)  EVALUATION AND APPROPRIATE LIMITATION OF SITE CLEARING
+5.)  EVALUATION AND DESIGNATION OF SITE AREA FOR PHASING OR SEQUENCING
+6.)  IDENTIFICATION OF SOILS AT HIGH RISK FOR EROSION AND ADVANCED STABILIZATION
+TECHNIQUES TO BE USED
+7.)  IDENTIFICATION OF STEEP SLOPES AND DESIGNATION OF LIMITATIONS ON CLEARING
+THEM
+8.)  EVALUATION AND DESIGNATION OF STABILIZATION REQUIREMENTS AND TIME LIMITS AND
+PROTECTION MEASURES FOR DISCHARGES TO THE CHESAPEAKE BAY, IMPAIRED WATERS
+OR WATERS WITH AN ESTABLISHED TOTAL MAXIMUM DAILY LOAD (TMDL).
+EIGHT ELEMENTS OF ENVIRONMENTAL SITE DESIGN:
+EROSION & SEDIMENT CONTROL DATA
+TOTAL DISTURBED AREA:  
+9.91 ACRES
+1.
+CONTRACTOR TO OBTAIN ALL COUNTY AND STATE PERMITS.
+2.
+NOTIFY MDE  AT 1-410-901-4020, AT LEAST TWO WEEKS PRIOR TO CONSTRUCTION  FOR A
+PRE-CONSTRUCTION MEETING.  FAILURE TO DO SO CONSTITUTES A VIOLATION OF THE APPROVED
+PLANS.
+3.
+CLEAR AND GRUB THOSE AREAS NECESSARY FOR THE INSTALLATION OF EROSION & SEDIMENT
+CONTROLS.
+4.
+INSTALL PERIMETER CONTROLS INCLUDING SILT FENCE, STABILIZED CONSTRUCTION ENTRANCE, ETC.
+AS INDICATED ON PLAN.
+5.
+NOTIFY MDE THAT PERIMETER SEDIMENT CONTROLS ARE IN PLACE.
+6.
+TEMPORARILY STABILIZE DISTURBED AREAS WITHIN THREE (3) DAYS  OF INITIAL DISTURBANCE.
+7.
+CLEAR, GRUB AND ROUGH GRADE PROPOSED DRIVE WAYS, CONCRETE PADS, ETC.  STOCKPILE
+MATERIAL TO BE SPREAD ON-SITE OR RELOCATED TO AN APPROVED AREA.
+8.
+PERFORM SITE STABILIZATION, ETC. PER PLAN.
+9.
+BEGIN INSTALLATION OF SOLAR ARRAY AS SHOWN ON PLAN.
+10.
+BEGIN PERMANENT STABILIZATION OF SITE INCLUSIVE OF POLLINATOR SEED MIX UNDER THE ARRAY
+DURING THE COURSE OF INSTALLATION OF THE ARRAY. BEGIN LANDSCAPING INSTALLATION.
+11.
+COMPLETE PERMANENT STABILIZATION OF THE SITE
+12.
+CONTRACTOR SHALL CONTACT MDE AT 1-410-901-4020 PRIOR TO REMOVAL OF EROSION AND
+SEDIMENT CONTROL MEASURES.  WITH INSPECTORS APPROVAL, REMOVE SEDIMENT AND EROSION
+CONTROL MEASURES.
+SEQUENCE OF CONSTRUCTION
+STABILIZED  CONSTRUCTION  ENTRANCE
+SILT  FENCE & LIMIT OF DISTURBANCE
+EROSION  SEDIMENT  CONTROL  LEGEND
+SF/LOD
+1..  
+THIS PLAN INCLUDES STANDARD EROSION AND SEDIMENT CONTROLS AND MAINTENANCE CRITERIA
+TO PROTECT NATURAL AREAS.
+2.  
+CONTROL OF CONSTRUCTION EQUIPMENT AND VEHICLES ARE PROVIDED ON THIS PROJECT SITE 
+THROUGH THE USE OF A STABILIZED CONSTRUCTION ENTRANCE (EXISTING PAVEMENT).
+3.  
+SITE CLEARING ON THIS PROJECT SITE HAS BEEN EVALUATED AND LIMITED TO ONLY THOSE AREAS
+NECESSARY.
+4.  
+THIS PROJECT SITE IS DESIGNED TO BE CONSTRUCTED AS A SINGLE PHASE AND THEREFORE DOES
+NOT INCLUDE ADDITIONAL PHASING.
+5.  
+THIS PROJECT SITE DOES NOT INCLUDE SOIL AT HIGH RISK FOR EROSION.  ALL AREAS PROPOSED
+AT GREATER THAN 3:1 SLOPE SHALL BE STABILIZED WITH STABILIZATION MATTING PER MDE 
+STANDARDS.
+6.  
+NO STEEP SLOPES EXIST ON THIS SITE AND THEREFORE CLEARING OF SUCH AREAS DOES NOT 
+APPLY.
+MDE GENERAL PERMIT STATEMENTS
+
+<!-- page 14 -->
+C-502
+1" = 100'
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+North Carolina
+309 South Governors Avenue
+Dover, DE 19904
+302.734.7950
+312 West Main Street, Suite 300
+Salisbury, MD  21801
+410.546.9100
+Maryland
+www.beckermorgan.com
+Delaware
+A
+E
+R
+N
+C
+G
+H
+I
+I
+N
+T
+E
+E
+E
+C
+R
+T
+I
+U
+N G
+R E
+910.341.7600
+Wilmington, NC  28403
+3333 Jaeckle Drive, Suite 120
+The Tower at STAR Campus
+100 Discovery Boulevard, Suite 102
+Newark, DE 19713
+302.369.3700
+.PDF
+E.H.H.
+E.H.H.
+.
+.
+.
+.
+C:\Temp AutoCAD\AcPublish_26652\202200400-Site-C3D21.dwg, Jun 06, 2023 - 9:08am
+ 2023-06-06
+DRAWN BY:
+DATE:
+PROJECT  NO.:
+COPYRIGHT  2023
+MARK
+DATE
+DESCRIPTION
+ISSUE  BLOCK
+PROJECT  TITLE
+SHEET  TITLE
+SCALE:
+SHEET
+PROJ. MGR.:
+C-502
+LAYER STATE:
+26001 STILL POND NECK ROAD
+STILL POND
+KENT COUNTY,  MD 21667
+MDL-118 STILL
+POND NECK
+ROAD - SOLAR
+10/24/2022
+2022004.00
+ELECTION DISTRICT 3
+E.M.S.
+E.H.H.
+LICENSE NUMBER:
+EXPIRATION DATE:
+I HEREBY CERTIFY THAT THESE
+DOCUMENTS WERE PREPARED OR
+APPROVED BY ME, AND THAT I AM A
+DULY LICENSED PROFESSIONAL
+ENGINEER UNDER THE LAWS OF THE
+STATE OF MARYLAND
+30331
+09/23/24
+JAH
+S
+T
+A
+T
+E
+  
+O
+F
+  
+M
+A
+R
+Y
+L
+A
+N
+D
+P
+R
+O
+F
+E
+S
+S
+I
+O
+N
+A
+L 
+ E
+N
+G
+I
+N
+E
+E
+R
+J
+E
+F
+F
+R
+E
+Y 
+A
+. 
+H
+A
+R
+M
+A
+N
+N
+o
+.
+ 
+3
+0
+3
+3
+1
+06/01/23
+.
+NEW ARRAY LAYOUT
+.
+0
+SCALE:  1" = 100'
+50
+100
+200
+Do Not Explode - Select Scale
+EROSION SEDIMENT
+CONTROL PLAN
+B
+A
+A
+A
+B
+B
+B
+A
+DETAIL E-1
+SILT
+FENCE
+EROSION  &  SEDIMENT  CONTROL  NOTES:
+SEDIMENT CONTROL FOR CONSTRUCTION IN AREAS OUTSIDE OF DESIGNED CONTROLS:
+EXCAVATED TRENCH MATERIAL SHALL BE PLACED ON THE HIGH SIDE OF THE TRENCH. 
+IMMEDIATELY FOLLOWING PIPE INSTALLATION THE TRENCH SHALL BE BACKFILLED, COMPACTED AND STABILIZED
+AT THE END OF EACH WORKING DAY. 
+TEMPORARY SILT FENCE OR STRAW BALE DIKES SHALL BE PLACED IMMEDIATELY DOWNSTREAM OF ANY DISTURBED 
+AREA INTENDED TO REMAIN DISTURBED LONGER THAN ONE WORKING DAY.
+ALL POINTS OF CONSTRUCTION INGRESS AND EGRESS SHALL BE PROTECTED TO PREVENT TRACKING OF MUD ONTO PUBLIC 
+WAYS. 
+FOLLOWING INITIAL SOIL DISTURBANCE OR REDISTURBANCE, DETAILS OF TEMPORARY OR PERMANENT STABILIZATION 
+SHALL BE COMPLETED AS FOLLOWS: 
+            (A)  WITHIN THREE CALENDAR DAYS ON ALL SURFACES OF PERIMETER CONTROLS, DIKES, SWALES, DITCHES, 
+PERIMETER SLOPES AND ALL SLOPES STEEPER THAN 3 HORIZONTAL TO 1 VERTICAL (3:1).
+            (B)  WITHIN SEVEN DAYS FOLLOWING FINAL GRADING, ALL OTHER DISTURBED OR GRADED AREAS ON THE 
+PROJECT WILL BE PERMANENTLY STABILIZED BY SEEDING OR MULCH.  PERMANENT MULCH CAN INCLUDE BUT IS NOT 
+LIMITED TO STONE, GRAVEL, BLACKTOP, OR CONCRETE SURFACING. 
+THE REQUIREMENTS OF SECTION B-4 (VEGETATIVE STABILIZATION) DO NOT APPLY TO THOSE AREAS WHICH ARE SHOWN ON
+THE PLAN AND ARE CURRENTLY BEING USED FOR MATERIAL STORAGE OR FOR THOSE AREAS ON WHICH ACTUAL 
+CONSTRUCTION ACTIVITIES ARE CURRENTLY BEING PERFORMED OR TO INTERIOR AREAS OF A  SURFACE MINE SITE WHERE THE 
+STABILIZATION MATERIAL WOULD CONTAMINATE THE RECOVERABLE RESOURCE. MAINTENANCE SHALL BE PERFORMED AS 
+NECESSARY TO ENSURE THAT THE STABILIZED AREAS CONTINUOUSLY MEET THE APPROPRIATE REQUIREMENTS OF THE 
+"2011 MARYLAND STANDARDS AND SPECIFICATIONS FOR SOIL EROSION AND SEDIMENT CONTROL".
+STABILIZATION OF ALL DISTURBED AREAS ARE TO MEET THE REQUIREMENTS OF THE "2011 MARYLAND STANDARDS AND 
+SPECIFICATIONS FOR SOIL EROSION AND SEDIMENT CONTROL - SECTION B-4 VEGETATIVE STABILIZATION".
+(A)
+(B)
+(C)
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+REMOVE ONLY LENGTH OF SIDEWALK THAT CAN BE REPLACED DURING THE SAME WORKING DAY.
+(D)
+TEMPORARY SEEDING SUMMARY
+HARDINESS ZONE (FROM FIGURE B.3):
+SEED MIXTURE (FROM TABLE B.1):
+ANNUAL RYEGRASS
+SPECIES
+1
+NO.
+APPLICATION
+40
+RATE (lb/ac)
+(10-20-20)
+(10 lb/1000 sf)
+2/15 TO 4/30
+8/15 TO 11/30
+SEEDING
+DEPTHS
+(90 lb/1000 sf)
+436 lb/ac
+2 ton/ac
+FERTILIZER
+LIME RATE
+RATE
+7A
+SEEDING
+DATES
+1/2"
+17.
+THE OWNER/DEVELOPER OR REPRESENTATIVE IS TO CONTACT THE APPROPRIATE ENFORCEMENT AUTHORITY OR ITS
+AGENT AT THE FOLLOWING STAGES OF THE PROJECT:
+A.  PRIOR TO THE START OF EARTH DISTURBANCE.
+B.  UPON COMPLETION OF THE INSTALLATION OF PERIMETER EROSION AND SEDIMENT CONTROLS, BUT BEFORE
+     PROCEEDING WITH ANY OTHER EARTH DISTURBANCE OR GRADING.
+C.  PRIOR TO THE START OF ANOTHER PHASE OF CONSTRUCTION OR OPENING OF ANOTHER GRADING UNIT.
+D.  PRIOR TO THE REMOVAL OF SEDIMENT CONTROL PRACTICES.
+18.
+CONTRACTOR SHALL CONTACT THE SITE INSPECTOR  FOR APPROVAL OF ANY MINOR REVISIONS TO THIS SITE PLAN A
+MINIMUM OF 5 DAYS PRIOR TO MAKING FIELD CHANGES.  ANY MAJOR CHANGE TO THESE PLANS WILL REQUIRE REVISED
+DRAWINGS BE SUBMITTED AND APPROVED.
+19. FOR DEWATERING SMALL TEMPORARY EXCAVATIONS, THE CONTRACTOR MAY OPT TO INSTALL EITHER A TEMPORARY
+PUMPING PIT AND STILLING BASIN OR USE A SILT BAG DEVICE TO REMOVE SEDIMENTS FROM THE PUMPED WATER.
+20. SOIL PREPARATION, TOPSOILING, AND SOIL AMENDMENTS SHALL BE IN ACCORDANCE WITH SECTION B-4-2 OF THE "2011
+MARYLAND STANDARDS AND SPECIFICATIONS FOR SOIL EROSION AND SEDIMENT CONTROL".
+21. DUST CONTROL MEASURES SHALL BE IN ACCORDANCE WITH SECTION H-5 OF THE "2011 MARYLAND STANDARDS AND
+SPECIFICATIONS FOR SOIL EROSION AND SEDIMENT CONTROL".
+22. MAINTENANCE SHALL BE PERFORMED AS NECESSARY TO ENSURE THAT STABILIZED AREAS CONTINUOUSLY MEET THE
+APPROPRIATE REQUIREMENTS OF "2011 MARYLAND STANDARDS AND SPECIFICATIONS FOR SOIL EROSION & SEDIMENT
+CONTROL.
+23. APPROVED PLANS REMAIN VALID FOR 3 YEARS FROM THE DATE OF APPROVAL, EXCEPT SURFACE MINES AND LANDFILL
+PLANS WHICH REMAIN VALID FOR 5 YEARS FROM THE DATE OF APPROVAL UNLESS SPECIFICALLY EXTENDED OR RENEWED
+BY THE APPROVAL AUTHORITY.
+24. A MARYLAND DEPARTMENT OF THE ENVIRONMENT (MDE) NOTICE OF INTENT (NOI) GENERAL PERMIT FOR CONSTRUCTION
+ACTIVITY IS REQUIRED FOR ALL CONSTRUCTION ACTIVITY IN MARYLAND WITH A PLANNED TOTAL DISTURBANCE OF 1 ACRE
+OR MORE.
+  25. AS MANDATED BY THE NOTICE OF INTENT (NOI) GENERAL PERMIT ISSUED BY THE MARYLAND DEPARTMENT OF THE
+ENVIRONMENT (MDE), AN INSPECTION MUST BE PERFORMED ONSITE OF ALL SEDIMENT CONTROLS ON A WEEKLY BASIS AND
+AFTER EVERY RAINFALL EVENT. ALL SELF INSPECTIONS MUST BE MAINTAINED ALONG WITH ALL APPLICABLE GOVERNING
+AGENCY INSPECTION REPORTS IN A LOG BOOK, TO BE KEPT ONSITE AT ALL TIMES.
+26. MODIFICATIONS TO AN APPROVED PLAN MAY BE REQUESTED BY THE OWNER/DEVELOPER OR REQUIRED BY THE APPROVAL
+OR ENFORCEMENT AUTHORITY.  MODIFICATION OF AN APPROVED PLAN MUST BE MADE IN ACCORDANCE WITH THE
+EROSION AND SEDIMENT CONTROL CRITERIA CONTAINED IN THE STANDARD AND/OR AS DIRECTED BY THE ENFORCEMENT
+AUTHORITY.  IF THE APPROVED PLAN NEEDS TO BE MODIFIED, ADDITIONAL EROSION AND SEDIMENT CONTROL MEASURES
+MAY BE REQUIRED.
+PRIOR TO THE START OF WORK, THE CONTRACTOR IS TO OBTAIN MDE APPROVAL OF ANY PROPOSED PLAN CHANGES
+AND SEQUENCE OF CONSTRUCTION, SPECIFICALLY RELATING TO INSTALLATION, INSPECTION, MAINTENANCE AND
+REMOVAL OF EROSION AND SEDIMENT CONTROL MEASURES.
+SEDIMENT CONTROL MEASURES ARE NOT TO BE REMOVED UNTIL THE AREAS SERVED HAVE ESTABLISHED VEGETATIVE
+COVER, OR WITH THE PERMISSION OF THE MDE SEDIMENT CONTROL INSPECTOR.
+WHEN PUMPING SEDIMENT LADEN WATER, THE DISCHARGE MUST BE DIRECTED TO AN APPROVED SEDIMENT TRAPPING
+MEASURE PRIOR TO RELEASE FROM THE SITE.
+ALL TEMPORARY STOCKPILES ARE TO BE LOCATED WITHIN AREAS PROTECTED BY SEDIMENT CONTROL MEASURES, AND
+ARE TO BE TEMPORARILY STABILIZED.
+ALL SEDIMENT CONTROL DIKES, SWALES, BASINS AND FLOW LINES TO BASINS WILL BE TEMPORARILY SEEDED IMMEDIATELY
+UPON INSTALLATION TO REDUCE THE CONTRIBUTION TO SEDIMENT LOADING.
+DISPOSAL OF EXCESS EARTH MATERIALS ON STATE OR FEDERAL PROPERTY REQUIRES MDE APPROVAL, OTHERWISE
+MATERIALS ARE TO BE DISPOSED OF AT A LOCATION APPROVED BY THE LOCAL AUTHORITY.
+TEMPORARY SOIL EROSION CONTROL AND SEDIMENT CONTROL MEASURES ARE TO BE PROVIDED AS PER THE APPROVED
+PLAN PRIOR TO GRADING OPERATIONS.  LOCATION ADJUSTMENTS ARE TO BE MADE IN THE FIELD AS NECESSARY.  THE
+MINIMUM AREA PRACTICAL SHALL BE DISTURBED FOR THE MINIMUM POSSIBLE TIME.
+IF GRADING IS COMPLETED OUT OF A SEEDING SEASON, GRADED AREAS ARE TO BE TEMPORARILY STABILIZED BY  MULCH
+AND MULCH ANCHORING.  MULCH MATERIAL SHALL BE UNWEATHERED, UNCHOPPED SMALL GRAIN STRAW SPREAD AT THE
+RATE OF 1 1/2 TO 2 TONS PER ACRE.  MULCH ANCHORING TO BE ACCOMPLISHED BY AN APPROVED METHOD, USE OF A
+MULCH ANCHORING TOOL IS RECOMMENDED WHERE POSSIBLE.
+IMPLEMENTATION OF THE SEDIMENT CONTROL PLAN SHALL BE IN ACCORDANCE WITH "2011 MARYLAND STANDARDS AND
+SPECIFICATIONS FOR SOIL EROSION AND SEDIMENT CONTROL".
+THE CONTRACTOR IS RESPONSIBLE FOR IMPLEMENTATION AND MAINTENANCE OF THE APPROVED PLAN, AND ALL OTHER
+MEASURES NECESSARY TO CONTROL, FILTER, OR PREVENT SEDIMENT FROM LEAVING THE SITE.
+IN CASE WHERE STORMWATER MANAGEMENT STRUCTURES ARE A PART OF SITE DEVELOPMENT, REMOVAL OF SEDIMENT
+CONTROL STRUCTURES MAY NOT BE ACCOMPLISHED BEFORE THE CONTRIBUTING DRAINAGE AREA TO THE STORMWATER
+MANAGEMENT STRUCTURE IS STABILIZED.  ALSO, PROPER DEWATERING OF THE SEDIMENT FROM THE SITE.
+ON SITES WHERE INFILTRATION TECHNIQUES ARE UTILIZED FOR THE CONTROL OF STORMWATER, EXTREME CARE MUST BE
+TAKEN TO PREVENT ALL RUNOFF FROM ENTERING THE STRUCTURE DURING CONSTRUCTION.
+DETAIL B-1
+STABILIZED CONSTRUCTION
+ENTRANCE
+DETAIL H-6
+ONSITE CONCRETE
+WASHOUT STRUCTURE
+PERMANENT SEEDING SUMMARY (POLLINATOR MIX)
+FUZZ BUZZ MIX
+ERNMX - 146
+SPECIES
+1
+NO.
+APPLICATION
+40
+RATE (lb/ac)
+(10-20-20)
+PERCENT
+(90 lb/1000 sf)
+2 ton/ac
+FERTILIZER RATE
+LIME RATE
+PRICE/LB
+26.4%
+N
+45 lbs per acre
+(1.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+P2O5
+K2O
+2
+40
+(90 lb/1000 sf)
+2 ton/ac
+21.0%
+45 lbs per acre
+(1.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+3
+40
+(90 lb/1000 sf)
+2 ton/ac
+18.9%
+45 lbs per acre
+(1.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+4
+40
+(90 lb/1000 sf)
+2 ton/ac
+12.0%
+45 lbs per acre
+(1.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+5
+40
+(90 lb/1000 sf)
+2 ton/ac
+5.7%
+45 lbs per acre
+(1.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+6
+40
+(90 lb/1000 sf)
+2 ton/ac
+5.0%
+45 lbs per acre
+(1.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+7
+40
+(90 lb/1000 sf)
+2 ton/ac
+4.8%
+45 lbs per acre
+(1.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+7.08
+Lolium perenne, 'Crave',
+Tetraploid
+Dactylis glomerata,
+Potomac
+Poa pratensis, 'Ginger'
+Bromus biebersteinii,
+'Fleet'
+Trifolium hybridum
+Festuca elatior x Lolium
+perenne, Duo
+Trifolium pratense, Medium,
+Variety Not Stated
+7.08
+7.08
+7.08
+7.08
+7.08
+7.08
+8
+40
+(90 lb/1000 sf)
+2 ton/ac
+2.0%
+45 lbs per acre
+(1.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+Lotus corniculatus, 'Leo'
+7.08
+9
+40
+(90 lb/1000 sf)
+2 ton/ac
+1.4%
+45 lbs per acre
+(1.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+Chamaecrista fasciculata,
+PA Ecotype
+7.08
+10
+40
+(90 lb/1000 sf)
+2 ton/ac
+1.0%
+45 lbs per acre
+(1.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+Linum perenne
+7.08
+11
+40
+(90 lb/1000 sf)
+2 ton/ac
+0.9%
+45 lbs per acre
+(1.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+Coreopsis lanceolata
+7.08
+12
+40
+(90 lb/1000 sf)
+2 ton/ac
+0.5%
+45 lbs per acre
+(1.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+Chrysanthemum
+leucanthemum
+7.08
+13
+40
+(90 lb/1000 sf)
+2 ton/ac
+0.4%
+45 lbs per acre
+(1.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+90 lbs per acre
+(2.0 lb/1000sf)
+Solidago nemoralis, PA
+Ecotype
+7.08
+
+<!-- page 15 -->
+PWR
+ZONE
+CABINET
+1'-4"
+FINS
+FINS
+FINS
+6'-3"
+3'
+10'-7"
+3'-2"
+3'
+2'
+3'
+4'-5"
+26'-10"
+7'-6"
+4'-7"
+7'-10"
+LOW
+VOLTAGE
+TANK
+DAS
+MEDIUM
+VOLTAGE
+3/4" CHAMFERED
+EDGE (TYP.)
+SURFACE FINISH SHALL
+BE BROOM SWEPT
+CONCRETE SHALL HAVE 4000PSI 28 DAY
+COMPRESSIVE STRENGTH MINIMUM
+EXISTING GRADE
+#4 REBAR 12" OC EACH WAY.
+REBAR SHALL GRADE 60 (60ksi)
+GRAVEL
+ 3 4"Ø MAXIMUM
+AGGREGATE SIZE
+NOTE: PROOF-ROLL EQUIPMENT PAD AREAS WITH 20-TON FULLY-LOADED DUMP TRUCK
+            OR SIMILAR PNEUMATIC-TIRE VEHICLE PRIOR TO PAD FOUNDATION WORK.
+9" MIN (TYP.)
+JOB EXCAVATED MATERIAL
+FREE FROM DEBRIS,
+ORGANIC MATERIAL AND
+STONES
+UNDISTURBED NATIVE SOIL
+4"
+4"
+2"
+2'-2" MIN
+2
+1
+3
+4
+5
+6
+7
+8
+10
+9
+11
+12
+13
+14
+15
+16
+17
+PAD-MOUNTED
+TRANSFORMER
+3000A SOLAR PV
+AC SDP
+4'-6"
+3'
+6'
+7'-71
+2"
+7'-6"
+5'-7"
+1'-2"
+1'-2"
+7'-10"
+6'-5"
+SQUARE-D MINI
+POWERZONE
+DAS
+ENCLOSURE
+4'-5"
+3'
+1'-1"
+11'
+18
+26'-10"
+BGE
+SUPPLY
+FEEDER
+BGE
+METERING
+TRANSFORMERS
+CUSTOMER
+FEEDER
+SPARE FUSE
+STORAGE
+CABINET
+GRADE
+7'-11"
+8'-3"
+3'
+3'-6"
+3'
+10'-8"
+11'-4"
+EX. GRADE
+5'-5"
+PV MODULE
+7'-6"
+SINGLE AXIS
+TRACKING RACK
+DRIVEN POST
+FOUNDATION
+4'-8"
+2'
+5'-5"
+60°
+POST EMBEDMENT
+5'-5"
+60°
+7'-6" MIN
+7'-6" MIN
+EX. GRADE
+5'-5"
+PV MODULE
+7'-6"
+SINGLE AXIS
+TRACKING RACK
+DRIVEN POST
+FOUNDATION
+4'-8"
+2'
+5'-5"
+60°
+POST EMBEDMENT
+2' MIN
+5'-5"
+60°
+15' MAX
+7'-6" MIN
+7'-6" MIN
+C-901
+1" = 100'
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+North Carolina
+309 South Governors Avenue
+Dover, DE 19904
+302.734.7950
+312 West Main Street, Suite 300
+Salisbury, MD  21801
+410.546.9100
+Maryland
+www.beckermorgan.com
+Delaware
+A
+E
+R
+N
+C
+G
+H
+I
+I
+N
+T
+E
+E
+E
+C
+R
+T
+I
+U
+N G
+R E
+910.341.7600
+Wilmington, NC  28403
+3333 Jaeckle Drive, Suite 120
+The Tower at STAR Campus
+100 Discovery Boulevard, Suite 102
+Newark, DE 19713
+302.369.3700
+.PDF
+E.H.H.
+E.H.H.
+.
+.
+.
+.
+C:\Temp AutoCAD\AcPublish_26652\202200400-Site-C3D21.dwg, Jun 06, 2023 - 9:09am
+ 2023-06-06
+DRAWN BY:
+DATE:
+PROJECT  NO.:
+COPYRIGHT  2023
+MARK
+DATE
+DESCRIPTION
+ISSUE  BLOCK
+PROJECT  TITLE
+SHEET  TITLE
+SCALE:
+SHEET
+PROJ. MGR.:
+C-901
+LAYER STATE:
+26001 STILL POND NECK ROAD
+STILL POND
+KENT COUNTY,  MD 21667
+MDL-118 STILL
+POND NECK
+ROAD - SOLAR
+10/24/2022
+2022004.00
+ELECTION DISTRICT 3
+E.M.S.
+E.H.H.
+LICENSE NUMBER:
+EXPIRATION DATE:
+I HEREBY CERTIFY THAT THESE
+DOCUMENTS WERE PREPARED OR
+APPROVED BY ME, AND THAT I AM A
+DULY LICENSED PROFESSIONAL
+ENGINEER UNDER THE LAWS OF THE
+STATE OF MARYLAND
+30331
+09/23/24
+JAH
+S
+T
+A
+T
+E
+  
+O
+F
+  
+M
+A
+R
+Y
+L
+A
+N
+D
+P
+R
+O
+F
+E
+S
+S
+I
+O
+N
+A
+L 
+ E
+N
+G
+I
+N
+E
+E
+R
+J
+E
+F
+F
+R
+E
+Y 
+A
+. 
+H
+A
+R
+M
+A
+N
+N
+o
+.
+ 
+3
+0
+3
+3
+1
+06/01/23
+.
+NEW ARRAY LAYOUT
+.
+0
+SCALE:  1" = 100'
+50
+100
+200
+Do Not Explode - Select Scale
+CONSTRUCTION
+NOTES AND
+DETAILS
+E48IPMENT  PAD  DETAIL
+NO SCALE
+M9 S:ITC+*EAR 	 METERIN* E48IPMENT PAD ELE9ATION 
+NO SCALE
+CONCRETE ELECTRICAL PAD SECTION
+NO SCALE
+P9 S:ITC+%OARD 	 TRANS)ORMER E48IPMENT PAD ELE9ATION 
+NO SCALE
+T<PICAL ARRA< ELE9ATION
+NO SCALE
+SHOWN FOR REFERENCE ONLY. REFER TO
+ELECTRICAL DRAWINGS FOR ELECTRICAL
+EQUIPMENT SPECIFICATIONS AND DETAILS
+SHOWN FOR REFERENCE ONLY. REFER TO
+ELECTRICAL DRAWINGS FOR ELECTRICAL
+EQUIPMENT SPECIFICATIONS AND DETAILS
+SHOWN FOR REFERENCE ONLY
+
+<!-- page 16 -->
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+200' B.R.L.
+200' B.R.L.
+200' B.R.L.
+SITE INFORMATION
+1. SITE NAME: 
+MDL118 - STILL POND NECK ROAD SOLAR
+2. SITE ADDRESS:
+26001 STILL POND NECK ROAD
+(SOUTHWEST CORNER OF STILL POND NECK RD. AND STILL POND RD.)
+WORTON, MD 21667
+3. SITE OWNER:
+RAYMOND & JOYCE STOLTZFUS
+267 RIVERVIEW ROAD
+PEACH BOTTOM, PA 17563-9717
+4. DEVELOPER:
+25809A STILL POND NECK, LLC
+SETH SHAFER
+6865 DEERPATH ROAD, SUITE 330
+ELKRIDGE, MD 21075
+410-779-9377
+5. ENGINEER:
+BECKER MORGAN GROUP, INC.
+C/O TED HASTINGS
+312 WEST MAIN STREET, SUITE 300
+SALISBURY, MD 21801
+410-546-9100
+6. GEOGRAPHIC COORDINATES:
+LATITUDE: 
+39°20'31.36"N
+LONGITUDE: 
+76° 4'3.59"W
+7. TAX MAP: 
+12
+8. PARCEL:
+98
+9. DEED BOOK/PAGE:
+424/ 342
+10.PARCEL AREA: 
+85 ACRES ±
+11.LEASE AREA:
+8.05 ACRES ±
+12. AREA OF USE:
+5.00 ACRES
+13.LIMIT OF DISTURBANCE:
+9.91 ACRES ±
+14.JURISDICTION: 
+KENT COUNTY
+15.ZONE:  
+AGRICULTURAL ZONING DISTRICT (AZD)
+16.MINIMUM YARD AND SETBACK REQUIREMENTS FOR UTILITY SCALE SOLAR IS AS FOLLOWS:
+FRONT:
+200 FEET
+REAR: 
+200 FEET
+SIDE:
+200 FEET
+17.FLOOD ZONE DETERMINATION:
+(BASED ON FLOOD INSURANCE RATE MAPS PROVIDED BY FEMA)
+FIRM MAP: 
+24029C0155D
+EFFECTIVE DATE: 
+MARCH 16, 2015
+FIRM ZONE: 
+"X" AREAS DETERMINED TO BE OUTSIDE THE 0.2% ANNUAL CHANCE FLOODPLAIN
+18.WATER AND SEWER NOT PROPOSED FOR THE SITE.
+DRAWN BY:
+DATE:
+PROJECT  NO.:
+COPYRIGHT  2022
+MARK
+DATE
+DESCRIPTION
+ISSUE  BLOCK
+PROJECT  TITLE
+SHEET  TITLE
+SCALE:
+SHEET
+PROJ. MGR.:
+C-001
+LAYER STATE:
+26001 STILL POND NECK ROAD
+STILL POND
+KENT COUNTY,  MD 21667
+MDL-118 STILL
+POND NECK
+ROAD - SOLAR
+10/24/2022
+2022004.00
+ELECTION DISTRICT 3
+E.M.S.
+E.H.H.
+LICENSE NUMBER:
+EXPIRATION DATE:
+I HEREBY CERTIFY THAT THESE
+DOCUMENTS WERE PREPARED OR
+APPROVED BY ME, AND THAT I AM A
+DULY LICENSED PROFESSIONAL
+ENGINEER UNDER THE LAWS OF THE
+STATE OF MARYLAND
+30331
+09/23/24
+JAH
+S
+T
+A
+T
+E
+  
+O
+F
+  
+M
+A
+R
+Y
+L
+A
+N
+D
+P
+R
+O
+F
+E
+S
+S
+I
+O
+N
+A
+L
+ 
+ E
+N
+G
+I
+N
+E
+E
+R
+J
+E
+F
+F
+R
+E
+Y
+ 
+A
+. 
+H
+A
+R
+M
+A
+N
+N
+o
+.
+ 
+3
+0
+3
+3
+1
+C-001
+1" = 200'
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+North Carolina
+309 South Governors Avenue
+Dover, DE 19904
+302.734.7950
+312 West Main Street, Suite 300
+Salisbury, MD  21801
+410.546.9100
+Maryland
+www.beckermorgan.com
+Delaware
+A
+E
+R
+N
+C
+G
+H
+I
+I
+N
+T
+E
+E
+E
+C
+R
+T
+I
+U
+N G
+R E
+910.341.7600
+Wilmington, NC  28403
+3333 Jaeckle Drive, Suite 120
+The Tower at STAR Campus
+100 Discovery Boulevard, Suite 102
+Newark, DE 19713
+302.369.3700
+.PDF
+F:\AutoCAD\Projects\2022\202200400\DWG\202200400-Site-C3D21.dwg, Nov 18, 2022 - 9:51am
+ 2022-11-18
+0
+SCALE:  1" = 200'
+100
+200
+400
+Do Not Explode - Select Scale
+COVER SHEET
+9ICINIT<  MAP
+SCALE : 1" =  2000'
+N
+SITE
+TAX MAP 12  PARCEL 48
+N/F
+ROBERT & JEAN PAYNE
+DEED BOOK 445 PAGE 80
+TAX MAP 12  PARCEL 50
+N/F
+NANCY MILLER
+DEED BOOK 937 PAGE 387
+TAX MAP 12  PARCEL 107
+N/F
+JAMES GREENWOOD II
+DEED BOOK 693 PAGE 43
+TAX MAP 12  PARCEL 131
+N/F
+ JOAQUIM & ARLENE SILVA
+DEED BOOK 763 PAGE 58
+STILLPOND NECK ROAD
+SHEET  INDEX
+C-001
+COVER SHEET
+C-101 
+EXISTING CONDITIONS PLAN
+C-201
+SITE PLAN
+C-401
+GRADING PLAN
+C-501
+EROSION AND SEDIMENT CONTROL PLAN
+C-502                     ESC & CONSTRUCTION DETAILS
+C-901 
+CONSTRUCTION NOTES AND DETAILS
+L-001
+FOREST CONSERVATION PLAN
+L-101
+LANDSCAPE PLAN
+L-102
+FENCE DETAIL
+UNDERGROUND ELECTRIC
+CONCRETE CURB & GUTTER
+CONCRETE SIDEWALK, SLAB / PAVING
+IMPERVIOUS SURFACED ROAD, DRIVE
+INDIVIDUAL TREE OR BUSH
+STRUCTURE (CONCRETE, WOOD,
+UNDERGROUND GAS MAIN
+UNDERGROUND TELEPHONE
+PAVEMENT TO BE REMOVED
+DRAINAGE DITCH OR SWALE
+EMBANKMENT SIDESLOPES (DOWN)
+ELEVATION SPOT SHOT
+PROPERTY OR RIGHT-OF-WAY LINE
+LIGHT POLE
+CONSTRUCTION NOTE
+CENTERLINE
+BENCH MARK
+  METAL, ETC.)
+CONTOUR 
+OR LOT
+WIRE FENCE
+N/A
+49
+EVERGREEN
+DECIDUOUS
+N/A
+N/A
+N/A
+ITEM
+SANITARY GRAVITY SEWER LINE,
+STORM DRAIN LINE (CMP OR RCP)
+STORM DRAIN MANHOLE (S.D.M.H.)
+SANITARY SEWER MANHOLE (S.M.H.)
+SANITARY SEWER FORCE MAIN, SIZE
+SIZE & FLOW DIRECTION
+WATER VALVE (W.V.)  OR METER (W.M.)
+CATCH BASIN
+(TELEPHONE OR ELECTRIC OR BOTH)
+UTILITY POLE W/ OVERHEAD SERVICE
+SANITARY SEWER CLEANOUT
+WATER MAIN & SIZE
+FIRE HYDRANT
+& FLOW DIRECTION
+PROPOSED
+LEGEND
+EXISTING
+EX. 10" F.M.
+EX. 10"S
+EX. 10" W
+F.H.
+U.E.
+U.T.
+EX. 2" G
+X
+X
+X
+AGRICULTURAL  FENCE
+STOCKADE  FENCE
+43.55
+10" S
+12" F.M.
+12" W
+F.H.
+U.E.
+U.T.
+2" G
+X
+X
+X
+55
+25.15
+B.C.
+25.00
+T.C.
+25.50
+W.M.
+W.V.
+W.M.
+W.V.
+1 STILL POND NECK
+ROAD SOLAR PRO-ECT
+KENT CO8NT<  MAR<LAND
+T+IRD ELECTION DISTRICT
+STILL POND ROAD
+MD STATE RO8TE 
+PROPOSED
+SOLAR FACILITY
+TAX MAP 4  PARCEL 14
+N/F
+THOMAS SIMMONS, JR.
+DEED BOOK 1139 PAGE 171
+TAX MAP 12  PARCEL 1
+N/F
+CANNERY ROAD FARM, LLC
+DEED BOOK 1096 PAGE 216
+GENERAL  NOTES : SOLAR ENERGY SYSTEMS
+A. SETBACKS TO ACCOMMODATE REQUIRED LANDSCAPE BUFFER
+1. 200 FEET FROM ANY LOT LINE
+2. 200 FEET FROM ANY ROAD/AND OR RIGHT-OF WAY
+3. 200 FEET FROM ANY ROAD/RIGHT-OF-WAY WITHIN ½ MILE OF A TOWN OR VILLAGE BOUNDARY THAT IS THE
+GATEWAY INTO A TOWN OR VILLAGE
+4. 200 FEET FROM ANY RESIDENTIAL USE OR ZONING DISTRICT
+5. SETBACKS MAY BE REDUCED TO 100 FEET FOR NON-RESIDENTIAL DEVELOPMENT WITH WRITTEN CONSENT
+FROM THE PROPERTY OWNERS WHOSE PROPERTY IS ADJACENT TO THE AREA IN WHICH THE SETBACK
+REDUCTION IS SOUGHT. THE PLANNING COMMISSION SHALL BE THE REVIEW AGENCY TO DETERMINE THE
+APPLICATION OF THIS PROVISION.
+6. SETBACKS SHALL BEMEASURED FROM THE OUTERMOST EDGE OF THE NEARESTSOLAR PANELSTRUCTURE
+WITHIN THE SOLAR ARRAY INCLUDING SUBSTATIONS.
+B. INSTALLATION ANDMAINTENANCE STANDARDS
+SOLAR ARRAYS SHALL BE CONSTRUCTED AND MAINTAINED ACCORDING TO THE FOLLOWING:
+1. IF SOLVENTS ARE REQUIRED FOR CLEANING OF THE SOLAR MODULES, THEY MUST BE BIODEGRADABLE.
+ANY UNUSED SOLVENTS MUST BE REMOVED FROM THE SUBJECT PARCEL.
+2. ALL BROKEN OR WASTE SOLAR MODULES SHALL BE REMOVED FROM THE SITE SUBJECT PARCEL WITHIN 30
+DAYS OF BEING TAKEN OUT OF SERVICE, INCLUDING ANY LEACHING PANELS, AND THE SUBJECT PARCEL
+SHALL BE MAINTAINED IN GOOD ORDER.
+3. ALL WIRING NOT ON THE SOLAR ARRAYS SHALL BE UNDERGROUND EXCEPT WHEN NECESSARY TO
+CONNECT TO THE PUBLIC UTILITY.
+4. TRANSMISSION WIRES TO CONNECT THE PROJECT TO THE UTILITY INFRASTRUCTURE SHALL NOT CROSS A
+ROADWAY OVERHEAD.
+5. ANY REQUIRED UTILITY RIGHT OF WAY SHALL BE SECURED THROUGH AN EASEMENT, LEASE, SERVICE
+AGREEMENT OR OTHER LEGALLY BINDING DOCUMENT.
+6. THE SOLAR ARRAY SHALL BE ENCLOSED BY A FENCE OR OTHER APPROPRIATE BARRIER AT THE INTERIOR
+EDGE OF THE REQUIRED LANDSCAPE BUFFER OR IMMEDIATELY ADJACENT TO THE SOLAR ARRAY. THE
+FENCE OR BARRIER SHALL:
+a.
+SECURE THE FACILITY AT ALL TIMES TO PREVENT UNAUTHORIZED PERSONS OR VEHICLES FROM
+GAINING ACCESS.
+b.
+ALL ACCESS GATES WILL PROVIDE A SIGN THAT IDENTIFIES THE RESPONSIBLE PARTIES OR OWNERS
+WITH CURRENT CONTACT INFORMATION.
+7. NOISE GENERATED BY THE FACILITY SHALL BE LIMITED BY THE PROJECT DESIGN TO 45 DBAS MEASURED
+AT TH PROPERTY LINE, TO BE INDICATED ON THE SITE PLAN BY THE ENGINEER, EXCEPT WHEN A BACK-UP
+GENERATOR IS NEEDED FOR MAINTENANCE. CONSTRUCTION ON THE SITE IS EXEMPT FROM THIS
+STANDARD.
+8. SOLAR ARRAYS, INCLUDING THE ELECTRICAL AND MECHANICAL COMPONENTS, SHALL CONFORM TO
+RELEVANT AND APPLICABLE LOCAL, STATE, AND NATIONAL CODES.
+9. TO PROTECT ADJACENT PROPERTIES, AND NOT INTERFERE WITH ROADWAYS OR CREATE A SAFETY
+HAZARD, EVIDENCE SHALL BE PROVIDED THAT THE SOLAR PANELS ARE DESIGNED TO AVOID GLARE
+AND/OR REFLECTION WITH ANTI-REFLECTIVE COATING OR NON-GLARE TECHNOLOGY AND, IF NECESSARY,
+HAVE BEEN EVALUATED WITH A SOLAR GLARE HAZARD AND ANALYSIS TOOL.
+10.NON-ARRAY USES SUCH AS POWER STORAGE ARE NOT PERMITTED.
+C. LANDSCAPE BUFFER FOR UTILITY-SCALE SOLAR ENERGY SYSTEMS
+1. ANY UTILITY SCALE SOLAR FACILITY SHALL COMPLY WITH THE REQUIREMENTS OF THE FOREST
+CONSERVATION ACT. REFORESTATION PLANTING MAY BE INCORPORATED AS LANDSCAPING
+2. THE GROSS USABLE AREA FOR PANELS WILL EXCLUDE WETLAND AREAS THAT ARE REGULATED BY THE
+MARYLAND DEPARTMENT OF THE ENVIRONMENT OR THE U.S. DEPARTMENT OF THE INTERIOR. IMPACTS
+ASSOCIATED WITH ACCESS OR INTERIOR ROADS AND UTILITY CROSSINGS SHALL PROVIDE THE
+NECESSARY AUTHORIZATION FOR ANY DISTURBANCES.
+3. EXISTING TOPSOIL SHALL NOT BE REMOVED FROM THE SITE.
+4. A VEGETATED BUFFER THAT IS A MINIMUM OF 60 FEET WIDE AROUND THE PERIMETER OF THE SITE AREA
+FRONTING ON ROAD OR RIGHTS OF WAY THAT ARE CONSIDERED GATEWAYS TO TOWNS OR VILLAGES AND
+A MINIMUM OF 50 FEET FOR ALL OTHER APPLICATIONS. THIS BUFFER MAY BE LOCATED WITHIN THE
+SETBACK AND SHALL EXTEND AROUND THE ENTIRE PROJECT WITH THE EXCEPTION OF ANY BOUNDARIES
+CONTIGUOUS TO PRESERVED, FORESTED LANDS THAT ARE RECORDED ON A PLAT.
+5. HEALTHY EXISTING VEGETATION WITHIN THE DESIGNATED BUFFER AREA MAY BE USED TO SATISFY THE
+SPECIFIC BUFFER STANDARDS.
+6. NON-NATIVE PLANT MATERIAL SHALL NOT TOTAL MORE THAN 10% OF ALL PLANTINGS.
+7. WHERE A PHASED CONSTRUCTION PLAN IS PROPOSED, THE LANDSCAPE PLAN SHALL IDENTIFY THE
+PHASING OF THE PLANTINGS APPLICABLE TO EACH CONSTRUCTION PHASE.
+8. NOT MORE THAN 25% OF ANY SINGLE PLANT SPECIES SHOULD BE INCLUDED IN THE BUFFER TO PROMOTE
+THE GROWTH OF A NATURAL LANDSCAPE AND AVOID MONOTONY AND UNIFORMITY OF THE THE
+VEGETATION SHALL BE THICKLY PLANTED AND OF SUCH SPECIES THAT IT WILL PROVIDE AN OPAQUE
+VISUAL BARRIER THAT OBSCURES THE UTILITY SCALE SOLAR ARRAY FROM SIGHT ONCE THE VEGETATION
+REACHES MATURITY OR WITHIN FIVE YEARS, WHICHEVER COMES FIRST. A MIX OF EVERGREEN AND
+DECIDUOUS TREES,SHRUBS AND BENEFICIAL HABITAT SHALL BE INCLUDED:
+a.
+A MINIMUM OF TWO STAGGERED ROWS OF EVERGREEN TREES THAT AT INSTALLATION SHALL BE AT
+LEAST 6 FEET IN HEIGHT, EACH PLANTED NO MORE THAN 10 FEET APART. EVERGREEN TREE
+SPECIES SHALL BE A VARIED MIXTURE OF COMPATIBLE TYPES AND ACHIEVE A HEIGHT OF EIGHT
+FEET IN A MINIMUM OF 2 YEARS.
+b.
+IN ADDITION TO THE EVERGREEN TREES, NATIVE DECIDUOUS OR SHADE TREES WITH A MINIMUM
+SIZE AT INSTALLATION OF 2-INCH CALIPER SHALL BE INTERSPERSED TO ENHANCE THE EVERGREEN
+SCREENING ALONG WITH UNDERSTORY TREES WITH A MINIMUM SIZE OF INSTALLATION OF 1-INCH
+CALIPER OR 6 FEET IN OVERALL HEIGHT OR GREATER IF REQUIRED BY THE PLANNING COMMISSION
+TO ADDRESS GATEWAY AREAS.
+c.
+SHRUBS WITH A MINIMUM SIZE AT INSTALLATION OF 24 INCHES IN HEIGHT OR 30 INCHES IN SPREAD.
+d.
+THE BUFFER SHALL INCLUDE A FLOWERING GROUND COVER FOR POLLINATORS, WARM SEASON
+GRASSES AND OTHER BENEFICIAL HABITAT. THE GROUND COVER SEED MIXTURE SHALL INCLUDE A
+MINIMUM OF 10 PLANT SPECIES WITH A MINIMUM OF 2 FLOWERING SEASONS. LAWNS OUTSIDE THE
+REQUIRED BUFFER ARE DISCOURAGED; PLANTINGS FOR POLLINATORS ARE ENCOURAGED IN ALL
+PLANTED AREAS.
+e.
+THE HEIGHT OF PROPOSED PLANTING MAY REQUIRE ALTERNATIVES BASED UPON THE SITE
+ELEVATION AND VISIBILITY FROM ADJACENT PROPERTIES AND ROADS AND/OR RIGHTS OF WAYS. IF
+NECESSARY, AN ELEVATION OR PERSPECTIVE ILLUSTRATION EXHIBIT SHALL BE PROVIDED WITH
+VIEWPOINTS FROM RELEVANT LOCATIONS AROUND THE SITE FOR THE PLANNING COMMISSION TO
+CONSIDER.
+D. A LANDSCAPE BERM SHALL BE PROVIDED AT A MINIMUM OF THREE (3) FEET HIGH TO ASSIST IN SCREENING. THE
+DESIGN OF THE BERM SHALL BE SUCH THAT THE NATURAL DRAINAGE PATTERNS OF THE SITE WILL NOT BE
+ALTERED. THE BERM REQUIREMENT MAY BE WAIVED IN PART OR TOTALSUBJECT TO THE FOLLOWING
+CONDITIONS:
+1. A MINIMUM OF TWO STAGGERED ROWS OF EVERGREEN TREES THAT AT INSTALLATION ARE AT LEAST 8
+FEET IN HEIGHT AND PLANTED NO MORE THAN 10 FEET APART
+2. INTERSPERSED SHADE TREES HAVE A MINIMUM SIZE AT INSTALLATION OF 2.5-INCH CALIPER
+3. UNDERSTORY STORY TREES WITH A MINIMUM SIZE AT INSTALLATION OF 1.5-INCH CALIPER OR 6 FEET IN
+OVERALL HEIGHT
+4. SHRUBS WITH A MINIMUM SIZE AT INSTALLATION OF 30 INCHES IN HEIGHT.
+5. THE LANDSCAPING PLAN IS DEEMED TO SCREEN ELEVATIONS OF THE SITE ADEQUATELY WITHIN 2 YEARS.
+E. IRRIGATION SHALL BE PROVIDED TO ASSIST IN MAINTAINING PLANT MATERIALS IN A HEALTHY CONDITION FOR
+ALL NEWLY CREATED LANDSCAPE BUFFER AREAS. PLANTS SHALL BE WATERED IN A MANNER ADEQUATE TO
+ENSURE ESTABLISHMENT AND SURVIVAL. THE LANDSCAPE PLAN SHALL INCLUDE A WATERING SCHEDULE
+APPROPRIATE FOR THE PROPOSED PLANTINGS, WHICH MAY INCLUDE SERVICE BY ON-SITE IRRIGATION OR
+WATER TRUCK, UNTIL THE PLANT MATERIAL IS SUFFICIENTLY ESTABLISHED TO SURVIVE ON NATURAL SOIL
+MOISTURE. AN IRRIGATION SYSTEM IS SUBJECT TO THE FOLLOWING:
+1. THE IRRIGATION SYSTEM SHALL BE DESIGNED TO PREVENT RUNOFF, LOW HEAD DRAINAGE, OVERSPRAY,
+OR OTHER SIMILAR CONDITIONS WHERE IRRIGATION WATER FLOWS ONTO NONTARGETED AREAS SUCH AS
+ADJACENT PROPERTIES, ROADWAYS, OR STRUCTURES.
+2. ALL AUTOMATIC IRRIGATION SYSTEMS SHALL BE DESIGNED TO MINIMIZE WATER USAGE AND SHALL BE
+MANUALLY SHUT OFF DURING WATER EMERGENCIES OR WATER RATIONING PERIODS.
+3. AN ALTERNATIVE FORM OF IRRIGATION FOR A PARTICULAR SITE MAY BE APPROVED THROUGH THE
+APPLICABLE REVIEW PROCESS UPON DETERMINING THAT UNDERGROUND IRRIGATION IS NOT NECESSARY
+OR AVAILABLE FOR THE TYPE OF PLANT MATERIAL BEING PROPOSED.
+F. A MAINTENANCE AGREEMENT FOR THE LANDSCAPE PLAN SHALL BE PROVIDED WITH A SURETY OR OTHER
+FINANCIAL ASSURANCE TO COVER REPLACEMENT OF THE PLANTINGS AND IRRIGATION SYSTEMS. ALL PLANTINGS
+SHALL BE MAINTAINED IN A LIVE, HEALTHY CONDITION FOR THE DURATION OF THE SOLAR ARRAY LIFE AND SHALL
+BE REPLACED BY THE SOLAR ARRAY OPERATOR AS NECESSARY WITH APPROPRIATELY SIZED PLANT MATERIAL
+AS NECESSARY TO MAINTAIN ALL REQUIRED BUFFERING STANDARDS.
+G. THE SURETY MAY BE PROVIDED ON A PHASED BASIS PER THE LANDSCAPE PHASING PLAN AND SHALL BE HELD
+BY THE COUNTY FOR A PERIOD OF THREE YEARS FOLLOWING PLANTING, AFTER WHICH THE COUNTY, UPON
+SATISFACTORY INSPECTION OF THE LANDSCAPE BUFFER MAY RELEASE 50% OF THE SURETY, AND THE
+REMAINING 50% MAY BE RELEASED AFTER AN ADDITIONAL TWO YEARS. THE COUNTY THEN RESERVES THE
+RIGHT TO INSPECT AND REQUIRE REPLACEMENT FOR THE DURATION OF THE SOLAR ARRAY.
+H. ENTRANCESTO THE PROJECT SHOULD BE DESIGNED TO ENSURE THAT NEIGHBORING PROPERTIES, PUBLIC
+RIGHTS-OF WAYS AND ROADS ARE NOT EXPOSED TO AN UNSCREENED VIEW THROUGH THE ENTRANCEWAY. THE
+USE OF A WIRE MESH OR CHAIN-LINK GATE OR FENCE WITH VINYL INTERWOVEN STRIPS IS NOT ACCEPTABLE.
+I.
+THE PROJECT SHALL COMPLY WITH ALL APPLICABLE FEDERAL AND STATE REGULATIONS, INCLUDING BY NOT
+LIMITED TO OBTAINING A CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY FROM THE PUBLIC SERVICE
+COMMISSION IF REQUIRED, AND IN THE REMOVAL AND DISPOSAL OF THE UTILITY SCALE SOLAR ARRAY AND ALL
+OF ITS COMPONENTS.
+J. THE PROJECT SHALL COMPLY WITH ALL OTHER APPLICABLE REGULATIONS, AS CONTAINED IN THE PUBLIC LAWS
+OF KENT COUNTY.
+K. THE PROJECT SHALL COMPLY WITH THE BOND-RELATED REQUIREMENTS BELOW:
+1. A BOND, SURETY LETTER, OR OTHER FINANCIAL INSTRUMENT FOR REMOVAL OF ALL SOLAR-RELATED
+STRUCTURES AND NON-VEGETATIVE IMPROVEMENTS ON THE SITE AND FOR THE RESTORATION OF THE
+SITE TO ITS PREPROJECT CONDITION SHALL BE SUBMITTED, TO BE BASED ON BONA FIDE WRITTEN
+ESTIMATES PREPARED BY THIRD-PARTY CONSULTANTS;
+2. THE COST ESTIMATE SHALL ADDRESS PROVISIONS FOR THE SAFE REMOVAL AND PROPER DISPOSAL OF
+ALL COMPONENTS OF THE PROJECT, INCLUDING ANY COMPONENTS CONTAINING HAZARDOUS OR TOXIC
+MATERIALS INCLUDING LEACHATES;
+3. AN ESTIMATE FOR REVIEW BY COUNTY SHALL BE SUBMITTED;
+4. BOND SHALL BE MAINTAINED FOR THE LIFE OF THE PROJECT;
+5. BONDING MAY BE IN COORDINATION WITH OTHER REQUIRED BONDING BY THE STATE OF MARYLAND, PSC,
+PULJ, PPRP, ETC.;
+6. IN THE EVENT THAT NO OTHER BONDING IS REQUIRED, THEN A BOND IN FAVOR OF THE COUNTY SHALL BE
+REQUIRED;
+7. SAID BONDING SHALL INCLUDE AN ESCALATOR PROVISION BASED ON CHANGES TO THE COST OF
+RESTORATION, WHICH SHALL BE EVALUATED AND UPDATED EVERY FIVE YEARS;
+8. SAID BOND SHALL BE FOR 110% OF THE ABOVE ESTIMATE(S) AND/OR UPDATED ESTIMATE(S) FROM
+FIVEYEAR REVIEWS;
+9. SAID BOND SHALL BE REDEEMABLE BY THE COUNTY UPON A FINDING THAT THE PROJECT HAS BEEN
+ABANDONED, WITH OR WITHOUT NOTICE FROM PROJECT OPERATORS, IF PROJECT HAS, IN FACT, BEEN
+ABANDONED BY ITS OPERATORS; AND
+10.THE PROJECT WILL BE CONSIDERED TO BE ABANDONED, IF THERE IS NO ELECTRIC GENERATION PROVIDED
+TO THE GRID FOR A PERIOD OF TWELVE (12) CONSECUTIVE MONTHS.
+5.00
+
+<!-- page 17 -->
+SOIL TYPE LISTING
+BS 
+BIBB SILT LOAM 
+B/D
+BUA 
+BUTLERTOWN-MATTAPEX SILT LOAMS, 0 TO 2 PERCENT SLOPES 
+C
+BUB2 
+BUTLERTOWN-MATTAPEX SILT LOAMS, 2 TO 5 PERCENT SLOPES, MODERATELY ERODED 
+C
+BUC2 
+BUTLERTOWN-MATTAPEX SILT LOAMS, 5 TO 10 PERCENT SLOPES, MODERATELY ERODED 
+C
+CEC2 
+COLTS NECK LOAM, 5 TO 10 PERCENT SLOPES, MODERATELY ERODED 
+B
+CNE 
+COLTS NECK AND SASSAFRAS SOILS, 15 TO 40 PERCENT SLOPES 
+B
+IK 
+IUKA SILT LOAM, RARELY FLOODED 
+C
+MNC2 
+MATAPEAKE SILT LOAM, 5 TO 10 PERCENT SLOPES, MODERATELY ERODED 
+B
+MTCA 
+MATTAPEX SILT LOAM, 0 TO 2 PERCENT SLOPES, MID-ATLANTIC COASTAL PLAIN 
+C
+SGC2 
+SASSAFRAS GRAVELLY LOAM, 5 TO 10 PERCENT SLOPES, MODERATELY ERODED 
+B
+SGC3 
+SASSAFRAS GRAVELLY LOAM, 5 TO 10 PERCENT SLOPES, SEVERELY ERODED 
+B
+BuA
+BuC2
+BuB2
+BuC2
+CeC2
+MtcA
+SgC3
+Bs
+CnE
+SgC2
+BuA
+MnC2
+CnE
+CnE
+BuA
+BuB2
+Ik
+FIR
+FIP
+FIPC
+FSTONE
+FIP
+200' B.R.L.
+200' B.R.L.
+79
+80
+81
+79
+77
+78
+79
+78
+79
+77
+76
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+70
+69
+69
+79
+80
+78
+77
+76
+75
+74
+73
+72
+73
+75
+77
+78
+76
+79
+77
+77
+S 83° 40' 35" W
+310.00'
+S 78° 45' 50" W
+428.23
+'
+N 3° 30' 47" W
+2011.83
+'
+79
+78
+77
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+77
+77
+TAX MAP 12  PARCEL 48
+N/F
+ROBERT & JEAN PAYNE
+DEED BOOK 445 PAGE 80
+TAX MAP 12  PARCEL 50
+N/F
+NANCY MILLER
+DEED BOOK 937 PAGE 387
+TAX MAP 12  PARCEL 107
+N/F
+JAMES GREENWOOD II
+DEED BOOK 693 PAGE 43
+TAX MAP 12  PARCEL 131
+N/F
+ JOAQUIM & ARLENE SILVA
+DEED BOOK 763 PAGE 58
+EXISTING 1,034 SF
+CONCRETE PAD
+TO BE REMOVED
+STILL POND NECK ROAD
+STILL POND ROAD
+(MD STATE ROUTE 292)
+S 82° 14' 26" W
+270.18'
+S 8° 06' 15" E
+727.00'
+S 71° 36' 25" W
+1153.08'
+S 83° 40' 35" W
+143.76'
+EXISTING
+TREELINE
+EXISTING
+TREELINE
+67
+69
+70
+72
+73
+74
+71
+75
+76
+77
+78
+79
+72
+74
+75
+76
+54
+49
+46
+44
+42
+40
+57
+60
+69
+73
+75
+70
+71
+72
+73
+74
+75
+76
+77
+76
+77
+71
+75
+78
+79
+78
+77
+76
+75
+73
+72
+74
+75
+76
+77
+78
+79
+80
+81
+80
+81
+82
+81
+82
+83
+84
+80
+79
+78
+79
+80
+81
+82
+81
+80
+79
+78
+100.00'
+EXISTING BLUE LINE STREAM
+(MD MERLIN ONLINE)
+100 FT STREAM BUFFER
+200' B.R.L.
+EXISTING COMPACTED
+DIRT ROAD
+EXISTING
+AGRICULTURAL
+DRAINAGE SWALE
+EXISTING DITCH
+EXISTING
+AGRICULTURAL
+DRAINAGE SWALE
+S 01° 58' 25" E
+200.00'
+DEFUNCT IRRIGATION WELL TO BE
+INSPECTED BY A WELL DRILLER
+LICENSED BY THE MARYLAND STATE
+BOARD OF WELL DRILLERS AND
+ABANDONED PER MDE GUIDELINES.
+80
+C-101
+1" = 100'
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+North Carolina
+309 South Governors Avenue
+Dover, DE 19904
+302.734.7950
+312 West Main Street, Suite 300
+Salisbury, MD  21801
+410.546.9100
+Maryland
+www.beckermorgan.com
+Delaware
+A
+E
+R
+N
+C
+G
+H
+I
+I
+N
+T
+E
+E
+E
+C
+R
+T
+I
+U
+N G
+R E
+910.341.7600
+Wilmington, NC  28403
+3333 Jaeckle Drive, Suite 120
+The Tower at STAR Campus
+100 Discovery Boulevard, Suite 102
+Newark, DE 19713
+302.369.3700
+.PDF
+E.H.H.
+.
+.
+.
+.
+F:\AutoCAD\Projects\2022\202200400\DWG\202200400-Site-C3D21.dwg, Nov 18, 2022 - 9:51am
+ 2022-11-18
+DRAWN BY:
+DATE:
+PROJECT  NO.:
+COPYRIGHT  2022
+MARK
+DATE
+DESCRIPTION
+ISSUE  BLOCK
+PROJECT  TITLE
+SHEET  TITLE
+SCALE:
+SHEET
+PROJ. MGR.:
+C-101
+LAYER STATE:
+26001 STILL POND NECK ROAD
+STILL POND
+KENT COUNTY,  MD 21667
+MDL STILL
+POND NECK
+ROAD  SOLAR
+10/24/2022
+2022004.00
+ELECTION DISTRICT 3
+E.M.S.
+E.H.H.
+LICENSE NUMBER:
+EXPIRATION DATE:
+I HEREBY CERTIFY THAT THESE
+DOCUMENTS WERE PREPARED OR
+APPROVED BY ME, AND THAT I AM A
+DULY LICENSED PROFESSIONAL
+ENGINEER UNDER THE LAWS OF THE
+STATE OF MARYLAND
+30331
+09/23/24
+JAH
+S
+T
+A
+T
+E
+  
+O
+F
+  
+M
+A
+R
+Y
+L
+A
+N
+D
+P
+R
+O
+F
+E
+S
+S
+I
+O
+N
+A
+L
+ 
+ E
+N
+G
+I
+N
+E
+E
+R
+J
+E
+F
+F
+R
+E
+Y
+ 
+A
+. 
+H
+A
+R
+M
+A
+N
+N
+o
+.
+ 
+3
+0
+3
+3
+1
+0
+SCALE:  1" = 100'
+50
+100
+200
+Do Not Explode - Select Scale
+EXISTING
+CONDITIONS PLAN
+
+<!-- page 18 -->
+SOIL TYPE LISTING
+BS 
+BIBB SILT LOAM 
+B/D
+BUA 
+BUTLERTOWN-MATTAPEX SILT LOAMS, 0 TO 2 PERCENT SLOPES 
+C
+BUB2 
+BUTLERTOWN-MATTAPEX SILT LOAMS, 2 TO 5 PERCENT SLOPES, MODERATELY ERODED 
+C
+BUC2 
+BUTLERTOWN-MATTAPEX SILT LOAMS, 5 TO 10 PERCENT SLOPES, MODERATELY ERODED 
+C
+CEC2 
+COLTS NECK LOAM, 5 TO 10 PERCENT SLOPES, MODERATELY ERODED 
+B
+CNE 
+COLTS NECK AND SASSAFRAS SOILS, 15 TO 40 PERCENT SLOPES 
+B
+IK 
+IUKA SILT LOAM, RARELY FLOODED 
+C
+MNC2 
+MATAPEAKE SILT LOAM, 5 TO 10 PERCENT SLOPES, MODERATELY ERODED 
+B
+MTCA 
+MATTAPEX SILT LOAM, 0 TO 2 PERCENT SLOPES, MID-ATLANTIC COASTAL PLAIN 
+C
+SGC2 
+SASSAFRAS GRAVELLY LOAM, 5 TO 10 PERCENT SLOPES, MODERATELY ERODED 
+B
+SGC3 
+SASSAFRAS GRAVELLY LOAM, 5 TO 10 PERCENT SLOPES, SEVERELY ERODED 
+B
+BuA
+BuC2
+BuB2
+BuC2
+CeC2
+MtcA
+SgC3
+Bs
+CnE
+SgC2
+BuA
+MnC2
+CnE
+CnE
+BuA
+BuB2
+Ik
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+FIR
+FIP
+FIPC
+FSTONE
+FIP
+79
+80
+81
+79
+77
+78
+79
+78
+79
+77
+76
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+70
+69
+69
+79
+80
+78
+77
+76
+75
+74
+73
+72
+73
+75
+77
+78
+76
+79
+77
+77
+S 83° 40' 35" W
+310.00'
+S 78° 45' 50" W
+428.23
+'
+N 3° 30' 47" W
+2011.83
+'
+79
+78
+77
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+77
+77
+TAX MAP 12  PARCEL 48
+N/F
+ROBERT & JEAN PAYNE
+DEED BOOK 445 PAGE 80
+TAX MAP 12  PARCEL 50
+N/F
+NANCY MILLER
+DEED BOOK 937 PAGE 387
+TAX MAP 12  PARCEL 107
+N/F
+JAMES GREENWOOD II
+DEED BOOK 693 PAGE 43
+TAX MAP 12  PARCEL 131
+N/F
+ JOAQUIM & ARLENE SILVA
+DEED BOOK 763 PAGE 58
+STILL POND NECK ROAD
+STILL POND ROAD
+(MD STATE ROUTE 292)
+S 82° 14' 26" W
+270.18'
+S 8° 06' 15" E
+727.00'
+S 71° 36' 25" W
+1153.08'
+S 83° 40' 35" W
+143.76'
+EXISTING
+TREELINE
+EXISTING
+TREELINE
+67
+69
+70
+72
+73
+74
+71
+75
+76
+77
+78
+79
+72
+74
+75
+76
+54
+49
+46
+44
+42
+40
+57
+60
+69
+73
+75
+70
+71
+72
+73
+74
+75
+76
+77
+76
+77
+71
+75
+78
+79
+78
+77
+76
+75
+73
+72
+74
+75
+76
+77
+78
+79
+80
+81
+80
+81
+82
+81
+82
+83
+84
+80
+79
+78
+79
+80
+81
+82
+81
+80
+79
+78
+100.00'
+EXISTING BLUE LINE STREAM
+(MD MERLIN ONLINE)
+100 FT STREAM BUFFER
+GROUND SLOPE: 0%-5%
+INTER-ROW SPACING = 12.98 FT
+10 FT WIDE GRAVEL
+ACCESS ROAD
+TOTAL AREA: 4,853 SF
+POI. MV INTERCONNECTION
+LAT: N39° 20' 36.38"
+LONG: W76° 03' 59.35"
+DISTANCE: 430 FT
+SOLAR EQUIPMENT
+PAD REFER TO
+C-901 FOR DETAIL
+REMAINING PORTION OF
+COMPACTED DIRT ROAD
+60' WIDE PERIMETER
+LANDSCAPE BUFFER
+DEFUNCT IRRIGATION WELL TO BE
+INSPECTED BY A WELL DRILLER
+LICENSED BY THE MARYLAND STATE
+BOARD OF WELL DRILLERS AND
+ABANDONED PER MDE GUIDELINES.
+AG FENCE
+AREA: 5.00 ACRES
+PERIMETER: 1,955 FT
+REFER TO LANDSCAPING
+PLANS FOR DETAILS
+EXISTING AGRICULTURAL
+DRAINAGE SWALE TO REMAIN
+60' WIDE PERIMETER
+LANDSCAPE BUFFER
+NOISE GENERATED BY THE
+FACILITY SHALL BE LESS
+THAN 45 dBAs MEASURED
+AT THE PROPERTY LINE,
+S 01° 58' 25" E
+200.00'
+EXISTING CULVERT
+CROSSING TO BE
+UTILIZED
+PV MODULES
+AG FENCE
+AREA:
+5.00 ACRES
+PERIMETER: 1,955 FT
+REFER TO LANDSCAPING
+PLANS FOR DETAILS
+80
+MVUG
+MVUG
+MVUG
+MEDIUM VOLTAGE
+UNDERGROUND ELECTRIC
+UTILITY POLES
+80
+C-201
+1" = 100'
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+North Carolina
+309 South Governors Avenue
+Dover, DE 19904
+302.734.7950
+312 West Main Street, Suite 300
+Salisbury, MD  21801
+410.546.9100
+Maryland
+www.beckermorgan.com
+Delaware
+A
+E
+R
+N
+C
+G
+H
+I
+I
+N
+T
+E
+E
+E
+C
+R
+T
+I
+U
+N G
+R E
+910.341.7600
+Wilmington, NC  28403
+3333 Jaeckle Drive, Suite 120
+The Tower at STAR Campus
+100 Discovery Boulevard, Suite 102
+Newark, DE 19713
+302.369.3700
+.PDF
+E.H.H.
+E.H.H.
+F:\AutoCAD\Projects\2022\202200400\DWG\202200400-Site-C3D21.dwg, Nov 18, 2022 - 9:52am
+ 2022-11-18
+DRAWN BY:
+DATE:
+PROJECT  NO.:
+COPYRIGHT  2022
+MARK
+DATE
+DESCRIPTION
+ISSUE  BLOCK
+PROJECT  TITLE
+SHEET  TITLE
+SCALE:
+SHEET
+PROJ. MGR.:
+C-201
+LAYER STATE:
+26001 STILL POND NECK ROAD
+STILL POND
+KENT COUNTY,  MD 21667
+MDL STILL
+POND NECK
+ROAD  SOLAR
+10/24/2022
+2022004.00
+ELECTION DISTRICT 3
+E.M.S.
+E.H.H.
+LICENSE NUMBER:
+EXPIRATION DATE:
+I HEREBY CERTIFY THAT THESE
+DOCUMENTS WERE PREPARED OR
+APPROVED BY ME, AND THAT I AM A
+DULY LICENSED PROFESSIONAL
+ENGINEER UNDER THE LAWS OF THE
+STATE OF MARYLAND
+30331
+09/23/24
+JAH
+S
+T
+A
+T
+E
+  
+O
+F
+  
+M
+A
+R
+Y
+L
+A
+N
+D
+P
+R
+O
+F
+E
+S
+S
+I
+O
+N
+A
+L
+ 
+ E
+N
+G
+I
+N
+E
+E
+R
+J
+E
+F
+F
+R
+E
+Y
+ 
+A
+. 
+H
+A
+R
+M
+A
+N
+N
+o
+.
+ 
+3
+0
+3
+3
+1
+0
+SCALE:  1" = 100'
+50
+100
+200
+Do Not Explode - Select Scale
+PROPOSED SITE
+PLAN
+DETAIL A
+SCALE: 1" = 10'
+REFER TO
+"DETAIL A"
+THIS SHEET
+12.98'
+7.50'
+3.72'
+
+<!-- page 19 -->
+BuA
+BuC2
+BuB2
+BuC2
+CeC2
+MtcA
+SgC3
+Bs
+CnE
+SgC2
+BuA
+MnC2
+CnE
+CnE
+BuA
+BuB2
+Ik
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+FIR
+FIP
+FIPC
+FSTONE
+FIP
+200' B.R.L.
+200' B.R.L.
+79
+80
+81
+79
+77
+78
+79
+78
+79
+77
+76
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+70
+69
+69
+79
+80
+78
+77
+76
+75
+74
+73
+72
+73
+75
+77
+78
+76
+79
+77
+77
+S 83° 40' 35" W
+310.00'
+S 78° 45' 50" W
+428.23
+'
+N 3° 30' 47" W
+2011.83
+'
+79
+78
+77
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+77
+77
+X MAP 12  PARCEL 48
+N/F
+BERT & JEAN PAYNE
+ED BOOK 445 PAGE 80
+TAX MAP 12  PARCEL 50
+N/F
+NANCY MILLER
+DEED BOOK 937 PAGE 387
+TAX MAP 12  PARCEL 107
+N/F
+JAMES GREENWOOD II
+DEED BOOK 693 PAGE 43
+TAX MAP 12  PARCEL 131
+N/F
+ JOAQUIM & ARLENE SILVA
+DEED BOOK 763 PAGE 58
+STILL POND NECK ROAD
+S 82° 14' 26" W
+270.18'
+S 8° 06' 15" E
+727.00'
+S 71° 36' 25" W
+1153.08'
+S 83° 40' 35" W
+143.76'
+EXISTING
+TREELINE
+EXISTING
+TREELINE
+67
+69
+70
+72
+73
+74
+71
+75
+76
+77
+78
+79
+72
+74
+75
+76
+54
+49
+46
+44
+42
+40
+57
+60
+69
+73
+75
+70
+71
+72
+73
+74
+75
+76
+77
+76
+77
+71
+75
+78
+79
+78
+77
+76
+75
+73
+72
+74
+75
+76
+77
+78
+79
+80
+81
+80
+81
+82
+81
+82
+83
+84
+80
+79
+78
+79
+80
+81
+82
+81
+80
+79
+78
+100.00'
+EXISTING BLUE LINE STREAM
+(MD MERLIN ONLINE)
+100 FT STREAM BUFFER
+200' B.R.L.
+S 01° 58' 25" E
+200.00'
+80
+SCE
+MVUG
+MVUG
+MVUG
+2,331 LF
+60' BUFFER
+EXISTING
+EDGE OF TREE LINE
+60.00'
+60.00'
+19.40 AC
+EXISTING FOREST AREA
+EXISTING
+EDGE OF TREE LINE
+EXISTING
+EDGE OF TREE LINE
+3.2 AC
+FLOWERING GROUND COVER
+EXISTING
+TREES TO
+REMAIN
+9.91 AC
+TOTAL TRACT AREA
+60.00'
+60.00'
+16'
+16'
+16'
+16'
+286.76'
+10'
+442.32'
+HATCH AREA DENOTES
+ARBORVITAE TREES TO BE
+INSTALLED AT 14' HEIGHT
+NORTH FENCE TO HAVE
+FENCE MESH INSTALLED
+80 L.F. OF 14' TALL (IF 14' TALL TREES CAN NOT
+BE OBTAINED IT MAY BE SUBSTITUTED WITH
+THE TALLEST AVAILABLE ) ARBORVITAE TREES
+(THUJA OCCIDENTALIS) TO BE PLANTED ALONG
+THE FENCE LINE AT MINIMUM 10' STAGGERED
+SPACING IN LIEU OF 8' TALL EVERGREEN TREES
+10/24/2022
+2022004.00
+L-001
+1" = 100'
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+North Carolina
+309 South Governors Avenue
+Dover, DE 19904
+302.734.7950
+312 West Main Street, Suite 300
+Salisbury, MD  21801
+410.546.9100
+Maryland
+www.beckermorgan.com
+Delaware
+A
+E
+R
+N
+C
+G
+H
+I
+I
+N
+T
+E
+E
+E
+C
+R
+T
+I
+U
+N G
+R E
+910.341.7600
+Wilmington, NC  28403
+3333 Jaeckle Drive, Suite 120
+The Tower at STAR Campus
+100 Discovery Boulevard, Suite 102
+Newark, DE 19713
+302.369.3700
+.PDF
+S.W.A.
+E.H.H.
+F:\AutoCAD\Projects\2022\202200400\DWG\202200400-LSCAPE-C3D21-ehh.dwg, Dec 14, 2022 - 2:38pm
+ 2022-12-14
+DRAWN BY:
+DATE:
+PROJECT  NO.:
+COPYRIGHT  2021
+MARK
+DATE
+DESCRIPTION
+ISSUE  BLOCK
+PROJECT  TITLE
+SHEET  TITLE
+SCALE:
+SHEET
+PROJ. MGR.:
+L-001
+LAYER STATE:
+11/18/22 TAC
+11/09/2022
+0
+SCALE:  1" = 100'
+50
+100
+200
+Do Not Explode - Select Scale
+26001 STILL POND NECK ROAD
+STILL POND
+KENT COUNTY,  MD 21667
+0DL STILL
+POND NECK
+ROAD  SOLAR
+ELECTION DISTRICT 3
+MARYLAND  LANDSCAPE  ARCHITECTS  CERTIFICATION
+CHAD D. CARTER, RLA, ASLA                 3725                                   DATE
+I, CHAD D. CARTER, RLA, ASLA, HEREBY CERTIFY THAT I AM A
+LANDSCAPE ARCHITECT IN THE STATE OF MARYLAND, THAT THE
+LANDSCAPING INFORMATION SHOWN HEREON HAS BEEN PREPARED
+UNDER MY SUPERVISION AND TO MY BEST KNOWLEDGE AND BELIEF,
+REPRESENTS GOOD LANDSCAPING PRACTICES.
+KENT COUNTY MARYLAND - SOLAR BUFFER REQUIREMENTS :
+PERIMETER BUFFER PROVIDED :
+2.
+1.
+PERIMETER BUFFER
+2,331 LF OF OPAQUE EVERGREEN BUFFERING
+EACH EVERGREEN TREE SHALL BE PLANTED AT A HEIGHT OF NO LESS THAN 8'
+NO SPECIES SHALL COMPRISE OF MORE THAN 25% OF THE TOTAL WITHIN 100LF
+THE FOLLOWING SPECIES OF EVERGREEN TREES ARE ACCEPTABLE:
+CRYPTOMERIA JAPONICA
+JUNIPERUS VIRGINIANA
+PINUS STROBUS
+PINUS TAEDA
+BUFFER PLANTINGS PROVIDED :
+3.
+2,331 LF / 100 LF @ 60' WIDE = 23.31 BUFFER UNITS
+TSUGA CANADENSIS
+ILEX OPACA
+REQUIREMENT :
+23.31 BUFFER UNITS X 10  EVERGREEN TREES = 233 TREES (MIN)
+A: NOT MORE THAN 25% OF ANY SINGLE PLANT SPECIES SHOULD BE INCLUDE IN THE 
+ BUFFER TO PROMOTE THE GROWTH OF A  NATURAL LANDSCAPE AND AVOID 
+MONOTONY AND UNIFORMITY OF THE BUFFER. NON-NATIVE PLANT MATERIAL 
+SHALL NOT TOTAL MORE THAN 10% OF ALL PLANTINGS.VEGETATION SHALL 
+PROVIDE AN OPAQUE VISUAL BARRIER THAT OBSCURES THE UTILITY
+SCALE SOLAR ARRAY FROM SIGHT ONCE THE VEGETATION REACHES
+MATURITY OR WITHIN FIVE YEARS, WHICHEVER COMES FIRST. A MIX OF
+EVERGREEN TREES, UNDERSTORY TREES, SHADE TREES,SHRUBS AND 
+FLOWERING GROUND COVER SHALL BE INCLUDED.
+B:  A MINIMUM OF TWO STAGGERED ROWS OF EVERGREEN TREES THAT AT
+INSTALLATION SHALL BE AT LEAST 8 FEET IN HEIGHT, EACH PLANTED NO
+MORE THAN 10 FEET APART.
+C: IN ADDITION TO THE EVERGREEN TREES, NATIVE DECIDUOUS OR SHADE
+TREES WITH A MINIMUM SIZE AT INSTALLATION OF 2 1/2-INCH CALIPER SHALL BE
+INTERSPERSED TO ENHANCE THE EVERGREEN SCREENING ALONG WITH
+UNDERSTORY TREES WITH A MINIMUM SIZE AT INSTALLATION OF 1 1/2-INCH
+CALIPER OR 6 FEET IN OVERALL HEIGHT OR GREATER IF REQUIRED BY THE
+PLANNING COMMISSION TO ADDRESS GATEWAY AREAS.
+E: THE BUFFER SHALL INCLUDE A FLOWERING GROUND COVER FOR
+POLLINATORS, WARM SEASON GRASSES AND OTHER BENEFICIAL HABITAT.
+THE GROUND COVER SEED MIXTURE SHALL INCLUDE A MINIMUM OF 10 PLANT
+SPECIES WITH A MINIMUM OF 2 FLOWERING SEASONS. LAWNS OUTSIDE THE
+REQUIRED BUFFER ARE DISCOURAGED; PLANTINGS FOR POLLINATORS ARE
+ENCOURAGED IN ALL PLANTED AREAS.
+F: THE HEIGHT OF PROPOSED PLANTING MAY REQUIRE ALTERNATIVES BASED
+UPON THE SITE ELEVATION AND VISIBILITY FROM ADJACENT PROPERTIES
+AND ROADS AND/OR RIGHTS OF WAYS. IF NECESSARY, AN ELEVATION OR
+PERSPECTIVE ILLUSTRATION EXHIBIT SHALL BE PROVIDED WITH VIEWPOINTS
+FROM RELEVANT LOCATIONS AROUND THE SITE FOR THE PLANNING
+COMMISSION TO CONSIDER.
+THE REQUIRED SETBACK SHALL BE PLANTED AT (60) SIXTY FEET WIDE AND
+ACHIEVE A MINIMUM EIGHT (8) FOOT HIGH FOUR SEASON VISUAL BARRIER IN
+ACCORDANCE WITH THE FOLLOWING GUIDELINES:
+AMAECYPARIS THYOIDES
+23.31 BUFFER UNITS X 2  UNDERSTORY TREES = 47 TREES (MIN)
+23.31 BUFFER UNITS X 10 SHRUBS = 233 TREES (MIN)
+23.31 BUFFER UNITS X 2 SHADE TREES = 47 TREES (MIN)
+THE FOLLOWING SPECIES OF UNDERSTORY TREES ARE ACCEPTABLE:
+CHIONANTHUS VIRGINIANUS
+MONOLIA VIRGINIANA 
+CERCIS CANADENSIS
+CORNUS AMOMUM
+AMELANCHIER CANADENSIS
+CARPINUS CAROLINIANA 
+CORNUS FLORIDA
+THE FOLLOWING SPECIES OF SHRUBS ARE ACCEPTABLE:
+MYRICA CERIFERA 
+VIBURNUM DENTATUM
+VIBURNUM LENTAGO
+KALMIA LATIFOLIA
+RHODODENDRON MAXIMUM 
+RHODODENDRON ATLANTICUM
+ILEX GLABRA
+GROUND COVER PROVIDED:
+4.
+100' X 60' = 6,000 SF 
+6,000 SF X 23.31 BUFFER UNITS = 139,860 SF (3.2 AC)
+233 EVERGREEN TREES
+TOTAL:
+47 UNDERSTORY TREES
+233 SHRUBS
+47 SHADE TREES
+560 TOTAL PLANTINGS
+3.2 AC OF FLOWERING GROUND COVER
+TOTAL:
+RECOMMENDED MIX - FUZZ BUZZ MIX (ERNMX-146) 
+LANDSCAPE PLAN
+THUJA OCCIDENTALIS
+
+<!-- page 20 -->
+BuA
+BuC2
+BuB2
+BuC2
+CeC2
+MtcA
+SgC3
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+200' B.R.L.
+200' B.R.L.
+8
+81
+79
+77
+78
+79
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+70
+69
+69
+77
+77
+79
+78
+77
+77
+STILL POND NECK ROAD
+18
+70
+71
+72
+73
+74
+75
+76
+77
+76
+77
+79
+78
+77
+76
+75
+73
+72
+74
+75
+76
+77
+78
+79
+80
+81
+80
+81
+82
+81
+82
+83
+84
+80
+79
+78
+79
+80
+81
+82
+80
+SCE
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+MVUG
+2,331 LF
+60' BUFFER
+60.00'
+60.00'
+3.2 AC
+FLOWERING GROUND COVER
+EXISTING
+TREES TO
+REMAIN
+9.88 AC
+TOTAL TRACT AREA
+60.00'
+60.00'
+16'
+16'
+16'
+16'
+286.76'
+10'
+442.32'
+HATCH AREA DENOTES
+ARBORVITAE TREES TO BE
+INSTALLED AT 14' HEIGHT
+NORTH FENCE TO HAVE
+FENCE MESH INSTALLED
+80 L.F. OF 14' TALL (IF 14' TALL TREE CAN NOT
+BE OBTAINED IT MAY BE SUBSTITUTED WITH
+THE TALLEST AVAILABLE ) ARBORVITAE TREES
+(THUJA OCCIDENTALIS) TO BE PLANTED ALONG
+THE FENCE LINE AT MINIMUM 10' STAGGERED
+SPACING IN LIEU OF 8' TALL EVERGREEN TREES
+10/24/2022
+2022004.00
+L-101
+1" = 60'
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+North Carolina
+309 South Governors Avenue
+Dover, DE 19904
+302.734.7950
+312 West Main Street, Suite 300
+Salisbury, MD  21801
+410.546.9100
+Maryland
+www.beckermorgan.com
+Delaware
+A
+E
+R
+N
+C
+G
+H
+I
+I
+N
+T
+E
+E
+E
+C
+R
+T
+I
+U
+N G
+R E
+910.341.7600
+Wilmington, NC  28403
+3333 Jaeckle Drive, Suite 120
+The Tower at STAR Campus
+100 Discovery Boulevard, Suite 102
+Newark, DE 19713
+302.369.3700
+.PDF
+S.W.A.
+E.H.H.
+LANDSCAPE PLAN
+.
+.
+.
+.
+.
+F:\AutoCAD\Projects\2022\202200400\DWG\202200400-LSCAPE-C3D21-ehh.dwg, Nov 18, 2022 - 9:12am
+ 2022-11-18
+DRAWN BY:
+DATE:
+PROJECT  NO.:
+COPYRIGHT  2021
+MARK
+DATE
+DESCRIPTION
+ISSUE  BLOCK
+PROJECT  TITLE
+SHEET  TITLE
+SCALE:
+SHEET
+PROJ. MGR.:
+L-101
+LAYER STATE:
+11/18/22 TAC
+11/09/2022
+SCALE:  1" = 60'
+0
+30
+60
+120
+Do Not Explode - Select Scale
+26001 STILL POND NECK ROAD
+STILL POND
+KENT COUNTY,  MD 21667
+MDL-118 STILL
+POND NECK
+ROAD - SOLAR
+ELECTION DISTRICT 3
+EVERGREEN  TREE  PLANTING  DETAIL
+NO SCALE
+SOIL MIXTURE - CONSISTING OF
+1/4 HUMUS AND 3/4 TOPSOIL
+MULCH - PLACE 3"
+LAYER OF SPECIFIED
+MULCH.  DO NOT PLACE
+IN CONTACT WITH TREE
+TRUNK.  KEEP MULCH
+WEEDED AND REPLACE
+AS NEEDED.
+SET ROOT BALL 2" ABOVE
+GRADE.  REMOVE EXCESS
+SOIL ON TOP OF THE
+BALL, JUST EXPOSING
+THE ROOT FLARE.
+UNDISTURBED SOIL
+REMOVE TOP 1/3 OF BURLAP.
+CUT & REMOVE ALL STRAPPING,
+ROPES, AND WIRE CAGES.
+FINISHED
+GRADE
+CANVAS WEBBING OR
+PLASTIC HORTICULTURAL
+TAPE.  DO NOT STRETCH.
+2"x2" WOODEN
+STAKES.  DRIVE
+SECURELY INTO
+GROUND.  3 PER
+TREE.
+BMG NO. : L-02
+1.
+QUALITY AND SIZE OF PLANTS, SPREAD OF ROOTS, AND SIZE OF BALLS SHALL BE IN ACCORDANCE WITH THE
+CURRENT STANDARDS OF THE AMERICAN ASSOCIATION OF NURSERYMEN "AMERICAN STANDARDS FOR 
+NURSERY STOCK."
+EVERGREEN TREES SHALL HAVE A FULL, WELL-BRANCHED, CONICAL FORM TYPICAL OF THE SPECIES.
+ALL DECIDUOUS SHADE TREES SHALL BRANCH A MINIMUM OF 7'-0" ABOVE GROUND LEVEL.  TREES SHALL BE 
+PLANTED AND STAKED IN ACCORDANCE WITH THE DETAIL SHOWN.
+PLANT MATERIALS DELIVERED TO THE SITE IN UNCOVERED TRUCKS WILL BE REJECTED.
+UNACCEPTABLE PLANT MATERIALS:  MATERIALS WHICH HAVE DAMAGED OR CROOKED LEADERS, DEFORMED
+GROWTH HABIT, ABRASIONS OF THE BARK, SUN SCALD, WINDBURN, DISFIGURING NOT COMPLETELY CALLUSED
+WILL BE REJECTED. IN ADDITION, TREES HAVING THEIR CENTRAL LEADERS HEADED BACK WILL ALSO BE 
+REJECTED.  PLANTS WITH LOOSE OR CRACKED ROOT BALL OR CONTAINERS WILL BE REJECTED.
+2.
+ALL PLANTS SHALL BE PLANTED IN TOPSOIL THAT IS THOROUGHLY WATERED AND TAMPED AS BACKFILLING 
+PROGRESSES. NOTHING BUT SUITABLE TOPSOIL, FREE OF DRY SOD, STIFF CLAY, LITTER, STONES IN EXCESS OF
+ONE (1) INCH DIAMETER, ETC. SHALL BE USED FOR PLANTING.
+MULCH FOR PLANTING BEDS SHALL BE SHREDDED HARDWOOD BARK MULCH UNLESS OTHERWISE SPECIFIED ON
+THE PLANS AND SHALL HAVE NO LEAVES, YOUNG GREEN GROWTH, BRANCHES, TWIGS, GREATER IN DIAMETER
+OF ½", WEEDS, SHAVINGS OR FOREIGN MATERIAL SUCH AS STONES, ETC. SHALL BE MIXED WITH THE MULCH.
+ALL SHRUB MASSES SHALL BE PLANTED IN CONTINUOUS MULCHED BEDS WITH A LIGHTLY COMPACTED DEPTH
+OF THREE (3) INCHES.  ALL CONTAINER PLANTS ARE TO HAVE ROOTS CUT ON FOUR SIDES AND/ OR SPREAD OUT
+IN NEW SOIL MIXTURE.
+3.
+ALL AREAS NOT STABILIZED IN PAVING OR PLANT MATERIALS SHOULD BE SEEDED AND MULCHED. (SEE EROSION
+& SEDIMENT CONTROL PLAN AND NOTES.)
+4.
+LANDSCAPE BEDS NOT DEFINED BY CURBS, SIDEWALKS, WALLS OR OTHER STRUCTURES SHALL BE ENCLOSED
+BY ALUMINUM EDGING UNLESS OTHERWISE INDICATED.
+5.
+AREAS DISTURBED BY LANDSCAPE OPERATIONS SHALL BE GRADED TO MATCH EXISTING TOPSOIL AND SEED OR
+SOD AS REQUIRED.
+6.
+CONTRACTOR SHALL BE RESPONSIBLE FOR ANY DAMAGE TO UTILITIES AND MAY MAKE MINOR ADJUSTMENTS IN
+SPACING AND/OR LOCATION OF PLANT MATERIALS. CONTRACTOR TO VERIFY "AS BUILT" LOCATION OF ALL 
+UTILITIES.
+7.
+NO PLANT, EXCEPT GROUNDCOVERS, SHALL BE WITHIN THREE (3) FEET FROM SIDEWALKS.
+8.
+NO TREE SHALL BE PLANTED CLOSER THAN TEN (10) FEET FROM ANY STRUCTURE OR BUILDING.
+9.
+NO TREE SHALL BE PLANTED WITHIN TEN (10) FEET OF UNDERGROUND UTILITIES OR FIRE HYDRANTS.
+10.
+ONLY TREES THAT REACH A HEIGHT AND SIZE AT MATURITY OF SMALL TO MEDIUM SHALL BE PLANTED UNDER
+POWER LINES.
+11.
+THE CONTRACTOR SHALL WATER ALL PLANTS THOROUGHLY BY WAY OF A WATER TANK TRUCK  TWICE DURING
+THE FIRST 24-HOUR PERIOD AFTER PLANTING, AND THEN WEEKLY OR MORE OFTEN, IF NECESSARY,
+DURING THE FIRST GROWING SEASON, UNLESS THE OWNER AGREES TO MAINTAIN AND WATER THEM.
+12.
+TREES TO REMAIN ON-SITE SHALL BE PROTECTED WITH SNOW FENCE DURING CONSTRUCTION (SEE DETAIL).
+SNOW FENCING TO BE MAINTAINED DURING CONSTRUCTION BY CONTRACTOR.
+13.
+THE PLANTING PLAN SHALL TAKE PRECEDENCE OVER THE PLANT SCHEDULE SHOULD ANY PLANT QUANTITY 
+DISCREPANCIES OCCUR.
+14.
+NO SUBSTITUTIONS SHALL BE MADE WITHOUT APPROVAL OF THE OWNER AND/ OR THE LANDSCAPE ARCHITECT.
+15.
+ALL NEW TREES SHALL BE GUARANTEED TO SURVIVE FOR ONE FULL YEAR AFTER INSTALLATION (FULL COST).
+ALL  STAKES AND GUYS SHALL BE REMOVED FROM TREES AND SITE AS EARLY AS THREE (3) MONTHS, BUT NO
+LONGER THAN ONE (1) YEAR AFTER PLANTING.
+GENERAL  LANDSCAPE  NOTES :
+DECIDUOUS  TREE  PLANTING  DETAIL
+NO SCALE
+UNDISTURBED SOIL
+NOTE:
+DO NOT HEAVILY PRUNE THE TREE
+AT PLANTING.  PRUNE ONLY
+CROSSOVER LIMBS, CO-DOMINANT
+LEADERS, AND BROKEN OR DEAD
+BRANCHES.  SOME INTERIOR
+TWIGS AND LATERAL BRANCHES
+MAY BE PRUNED; HOWEVER, DO
+NOT REMOVE THE TERMINAL BUDS
+OF BRANCHES THAT EXTEND TO
+THE EDGE OF THE CROWN.
+REMOVE TOP 1/3 OF BURLAP.
+CUT & REMOVE ALL STRAPPING,
+ROPES, AND WIRE CAGES.
+SOIL MIXTURE - CONSISTING OF
+1/4 HUMUS AND 3/4 TOPSOIL
+FINISHED
+GRADE
+2"x2" WOODEN
+STAKES.  DRIVE
+SECURELY INTO
+GROUND.  3 PER
+TREE.
+CANVAS WEBBING OR
+PLASTIC HORTICULTURAL
+TAPE.  DO NOT STRETCH.
+MULCH - PLACE 3"
+LAYER OF SPECIFIED
+MULCH.  DO NOT PLACE
+IN CONTACT WITH TREE
+TRUNK.  KEEP MULCH
+WEEDED AND REPLACE
+AS NEEDED.
+BMG NO. : L-01
+SET ROOT BALL 2" ABOVE
+GRADE.  REMOVE EXCESS
+SOIL ON TOP OF THE
+BALL, JUST EXPOSING
+THE ROOT FLARE.
+SHRUB  PLANTING  DETAIL
+NO SCALE
+SET ROOT BALL 2" ABOVE
+GRADE.  REMOVE EXCESS
+SOIL ON TOP OF THE
+BALL, JUST EXPOSING
+THE ROOT FLARE.
+REMOVE TOP 1/3 OF BURLAP.
+CUT & REMOVE ALL STRAPPING,
+ROPES, AND WIRE CAGES.  FOR
+CONTAINER PLANTS, CUT
+ROOTS ON FOUR (4) SIDES AND/
+OR SPREAD OUT IN NEW SOIL
+MIXTURE.
+SOIL MIXTURE -
+CONSISTING OF 1/4
+HUMUS AND 3/4
+TOPSOIL
+UNDISTURBED SOIL
+FINISHED
+GRADE
+MULCH - PLACE 3"
+LAYER OF SPECIFIED
+MULCH.  DO NOT PLACE
+IN CONTACT WITH
+SHRUB TRUNK.  KEEP
+MULCH WEEDED AND
+REPLACE AS NEEDED.
+BMG NO. : L-03
+NOTE:
+PRIOR TO MULCHING. APPLY
+APPROVED PRE-EMERGENT WEED
+CONTROL ON ALL SHRUB BEDS.
+60'
+100'
+KENT COUNTY- MD: SOLAR BUFFER DETAIL
+GRASSY ROADWAY FOR SOLAR ACCESS
+EVERGREEN TREES
+ON STAGGERED
+SPACINGS NO MORE
+THAN 10' APART AND
+MUST BE 8' IN HEIGHT
+PERIMETER FENCE
+NO SCALE
+FLOWERING GROUND
+COVER WITH A MINIMUM
+OF 10 PLANT SPECIES
+AND 2 FLOWERING
+SEASONS
+UNDERSTORY TREES
+AT 1.5" CALIPER OR
+OVER 6' IN HEIGHT
+NOTES:
+BUFFERYARD SHALL INCLUDE A MINIMUM OF TWO (2) STAGGERED ROWS OF
+EVERGREEN TREES AT A MINIMUM OF 8' IN HEIGHT SHALL BE INSTALLED. PLANTINGS
+SHALL BE PLACED AT MAXIMUM OF 10' FEET APART WITHIN THE SAME ROW AND 10
+FEET APART FROM THE ADJACENT, STAGGERED ROW.
+DEVELOPER SHALL INTERSPERSE NATIVE DECIDUOUS SHADE TREES, MINIMUM SIZE
+OF 2.5" CALIPER. UNDERSTORY TREES WITH A MINIMUM SIZE AT INSTALLATION OF 1.5"
+CALIPER OR 6' IN OVERALL HEIGHT. SHRUBS SHALL BE BE 30" IN HEIGHT AT
+INSTALLATION
+NON-NATIVE PLANT MATERIAL SHALL NOT TOTAL MORE THAN 10% OF ALL PLANTINGS.
+NOT MORE THAN  25% OF ANY SINGLE PLANT SPECIES SHOULD BE INCLUDED IN THE
+BUFFER TO PROMOTE THE GROWTH OF A NATURAL LANDSCAPE AND AVOID
+MONOTONY AND UNIFORMITY.
+C-PR-L-TREE-PS
+C-PR-L-TREE-PS
+C-PR-L-TREE-PS
+NATIVE DECIDUOUS
+SHADE TREES,
+MINIMUM SIZE 2.5"
+CALIPER
+BMG NO. : L-08
+60' WIDE
+BUFFER
+5'
+C-PR-L-TREE-PS
+C-PR-L-TREE-PS
+C-PR-L-TREE-PS
+C-PR-L-TREE-PS
+C-PR-L-TREE-PS
+C-PR-L-TREE-PS
+C-PR-L-TREE-PS
+EVERGREEN SHRUBS
+18" HEIGHT  MINIMUM
+9.91 AC
+
+<!-- page 21 -->
+15' (TYP.)
+3' (TYP.)
+6' (TYP.)
+5"~6"
+5"~6"
+6"~7"
+8'
+3'
+DROP PIN
+8'
+END H-BRACE POST TYPICAL
+AT ALL FENCE TERMINATIONS
+AND CORNERS
+12.5 GUAGE DOUBLE WRAPPED
+DIAGONAL BRACE WIRE
+8'
+4' (TYP.)
+SOUTHERN YELLOW
+TREATED PINE POST (TYP.)
+MV AC
+BRAIDED COPPER BONDING
+JUMPER MOUNTED TO
+HINGE SIDE OF GATE TO
+GROUND ACCESS GATE
+13.2KV
+MV AC
+ACCESS ROAD GATEWAY
+VIDEO
+SURVEILLANCE
+NOTICE
+H
+I
+G
+H
+ 
+V
+O
+L
+T
+A
+G
+E
+S
+O
+L
+A
+R
+ 
+F
+A
+C
+I
+L
+I
+T
+Y
+DANGER
+"NOTICE: VIDEO SURVEILLANCE"
+SIGNAGE EVERY 40'
+5 8" DIA. X 10FT GROUND ROD (TYP.)
+H
+I
+G
+H
+ 
+V
+O
+L
+T
+A
+G
+E
+S
+O
+L
+A
+R
+ 
+F
+A
+C
+I
+L
+I
+T
+Y
+DANGER
+"DANGER! HIGH VOLTAGE"
+SIGNAGE EVERY 40'
+6'
+5"~6"
+10/24/2022
+2022004.00
+L-102
+N/A
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+24x36
+North Carolina
+309 South Governors Avenue
+Dover, DE 19904
+302.734.7950
+312 West Main Street, Suite 300
+Salisbury, MD  21801
+410.546.9100
+Maryland
+www.beckermorgan.com
+Delaware
+A
+E
+R
+N
+C
+G
+H
+I
+I
+N
+T
+E
+E
+E
+C
+R
+T
+I
+U
+N G
+R E
+910.341.7600
+Wilmington, NC  28403
+3333 Jaeckle Drive, Suite 120
+The Tower at STAR Campus
+100 Discovery Boulevard, Suite 102
+Newark, DE 19713
+302.369.3700
+.PDF
+S.W.A.
+E.H.H.
+FENCE DETAIL
+.
+.
+.
+.
+.
+.
+.
+F:\AutoCAD\Projects\2022\202200400\DWG\202200400-LSCAPE-C3D21-ehh.dwg, Dec 14, 2022 - 2:58pm
+ 2022-12-14
+DRAWN BY:
+DATE:
+PROJECT  NO.:
+COPYRIGHT  2021
+MARK
+DATE
+DESCRIPTION
+ISSUE  BLOCK
+PROJECT  TITLE
+SHEET  TITLE
+SCALE:
+SHEET
+PROJ. MGR.:
+L-102
+LAYER STATE:
+11/18/22 TAC
+11/09/2022
+26001 STILL POND NECK ROAD
+STILL POND
+KENT COUNTY,  MD 21667
+MDL-118 STILL
+POND NECK
+ROAD - SOLAR
+ELECTION DISTRICT 3
+A* )ENCE ELE9ATION
+NO SCALE
+
+<!-- page 22 -->
+
+
+<!-- page 23 -->
+Brickyard: Office Building Expansion - Concept Site Plan Review - 1 
+ 
+Department of Planning, Housing, and Zoning 
+ 
+ 
+To: 
+Kent County Planning Commission 
+From: 
+Mark Carper, Associate Planner 
+Meeting: January 4, 2024 
+Subject: 
+Brickyard Landing Holdings, LLC 
+ 
+Concept Site Plan Review – Gillespie Precast, LLC Office Addition 
+ 
+Executive Summary 
+ 
+REQUEST BY THE APPLICANT 
+Brickyard Landing Holdings, LLC is requesting concept site plan review for the expansion of the Gillespie 
+Precast, LLC office building by constructing a 2-story, 7,296-square-foot addition to the rear of the existing 
+structure.  
+ 
+PUBLIC PROCESS 
+Per Article VI, Section 5.2 of the Kent County Land Use Ordinance, the Planning Commission shall review and 
+approve major site plans.    
+ 
+SUMMARY OF THE STAFF REPORT 
+Located at 101 Brickyard Road, Chestertown, Maryland, this precast facility operates across three adjacent 
+parcels (26, 161, and 490) under the ownership and maintenance of Brickyard Land Holding, LLC. The existing 
+office building is on Parcel 161, which is zoned Industrial (I) and Industrial Critical Area (ICA). The proposed 
+building addition and supporting parking are to be entirely within the Industrial zoning district.  
+ 
+As more than 50% of the project site is within the Critical Area, staff has determined that the proposed 
+activity is exempt from Forest Conservation requirements per Article VI, Section 8.2.10. The proposed project 
+is a support use to the overall industrial use, and a certified engineer’s report on performance standards is 
+not required. An addition of 14 new parking spaces is proposed, resulting in a total of 34 spaces. The 
+resultant structure, with a total gross floor area 13,222 square feet, will require 33 parking spaces. As there 
+are to be more than 20 parking spaces, bicycle parking is required. Building elevations and floor plans have 
+been submitted.  
+ 
+STAFF RECOMMENDATION   
+In order to receive preliminary site plan approval, the applicant must address and/or submit the following 
+outstanding items: 
+ 
+• 
+Citizen Participation Plan Report 
+• 
+Preliminary sediment and erosion control and stormwater management plans  
+• 
+Details on signs and lighting
+
+<!-- page 24 -->
+Brickyard: Office Building Expansion - Concept Site Plan Review - 2 
+ 
+PRELIMINARY STAFF REPORT 
+ 
+TO: 
+Kent County Planning Commission 
+SUBJECT: 
+#23-67 – Brickyard Land Holdings, LLC 
+ 
+Concept Site Plan Review – Gillespie Precast, LLC Office Addition 
+DATE: 
+December 28, 2023 
+ 
+DESCRIPTION OF PROPOSAL 
+ 
+Brickyard Landing Holdings, LLC is requesting concept site plan review for the expansion of the Gillespie 
+Precast, LLC office building by constructing a 2-story, 7,296-square-foot addition to the rear of the existing 
+structure.  
+ 
+Located at 101 Brickyard Road, Chestertown, Maryland, this precast facility operates across three adjacent 
+parcels (26, 161, and 490) under the ownership and maintenance of Brickyard Land Holding, LLC. The existing 
+office building is on Parcel 161, which is zoned Industrial (I) and Industrial Critical Area (ICA). The proposed 
+building addition and supporting parking are to be entirely within the Industrial zoning district. With a 
+combined area of 76.558 acres for the three parcels, 49.606 acres (approximately 65%) is in the Critical Area. 
+As more than 50% of the project site is within the Critical Area, staff has determined that the proposed activity 
+is exempt from Forest Conservation requirements per Article VI, Section 8.2.10.  
+ 
+RELEVANT ISSUES 
+ 
+I. Permitted Accessory Uses 
+ 
+A. Applicable Laws: Article V, Section 15.4 of the Kent County Land Use Ordinance establishes that offices 
+are a permitted accessory use in the Industrial District.  A site plan is required.  
+ 
+Article V, Section 15.5 of the Kent County Land Use Ordinance establishes the density, height, width, 
+bulk, and fence requirements for the Industrial District Industrial Critical Area District.   
+ 
+B. Staff and TAC Comments: The proposed use is permitted. Building plans with front, side, and rear 
+elevations of all exterior walls for the proposed office building expansion have been submitted for 
+review. The proposed office building expansion meets the minimum setback requirements and height 
+limitations. 
+ 
+II. Industrial Performance Standards 
+ 
+A. Applicable Law: Article V, Section 15.6 of the Kent County Land Use Ordinance establishes the 
+performance standards for industrial activity. These performance standards address noise, vibration, 
+glare, air pollution, water pollution, radioactivity, electrical interference, smoke and particulate 
+matter, toxic matter, and odorous matter limitations with compliance certified in an engineer’s report.   
+ 
+B. Staff and TAC Comments: The proposed project is a support use to the overall industrial use, and a 
+certified engineer’s report on performance standards is not required.  
+ 
+III. Industrial Environmental Standards
+
+<!-- page 25 -->
+Brickyard: Office Building Expansion - Concept Site Plan Review - 3 
+ 
+A. Applicable Law: Article V, Section 15.8 of the Kent County Land Use Ordinance establishes the Industrial 
+Environmental Standards which include agriculture, anadromous fish, forest conservation, natural 
+heritage areas, nontidal wetlands, stream protection corridor, stormwater management, threatened 
+and endangered species, and water quality standards.  
+ 
+B. Staff and TAC Comments:  
+ 
+Per Article VI, Section 8.2.10 of the Land Use Ordinance, the proposed activity is exempt from 
+Forest Conservation requirements as more than 50% of the project site is within the Critical 
+Area.  
+ 
+Preliminary sediment and erosion control and stormwater management plans are required for 
+preliminary review.  
+ 
+Maryland’s Environmental Resource and Land Information Network (MERLIN), indicates that 
+there are no threatened or endangered species in the vicinity of the proposed activity.   
+ 
+IV. Design Standards 
+ 
+A. Applicable Law: Article V, Section 15.9 of the Kent County Land Use Ordinance establishes the Industrial 
+Design Standards which address site access, on-site circulation, floodplain, landscaping, screening, 
+lighting, site planning, and subdivision. Screening is required to protect adjoining properties and 
+roadways from noise, glare, and uses which are visually incompatible with neighboring land uses. 
+Lighting on the site should be sufficient to provide for the safety and security of the business, its 
+employees, and its customers while avoiding glare onto adjacent properties and adjacent roadways 
+and not interfere with traffic or create a safety hazard. 
+ 
+15.9.5 Screening - Screening is required to protect adjoining properties and roadways from noise, 
+glare, and uses which are visually incompatible with neighboring land uses.  
+ 
+B. Staff and TAC Comments:  
+ 
+Adequate spacing is provided to ensure on-site circulation for the proposed use.  
+ 
+In 2018, a landscape plan was approved and implemented on the road frontage of Parcel 161 for 
+an addition to the existing concrete production building. No additional screening is required. 
+ 
+No exterior lighting is shown on the submitted site plans. Lighting details will be required for 
+preliminary site plan approval. 
+ 
+V. Site Plan Review  
+ 
+A. Comprehensive Plan: “Strategy: Retain and promote existing businesses and assist in their growth” 
+(Page 8) 
+ 
+B. Applicable Law: Article VI, Section 5 of the Kent County Land Use Ordinance outlines the 
+procedures and requirements for site plan review. Site Development Plans are required to ensure that 
+new development complies with the Comprehensive Plan, Land Use Ordinance, Village Master Plans 
+and other agency requirements, thereby promoting the health, safety, and general welfare of Kent 
+County residents. 
+ 
+At each stage of review the Planning Commission shall review the site plan and supporting 
+ 
+documents taking into consideration the reasonable fulfillment of the following objectives:
+
+<!-- page 26 -->
+Brickyard: Office Building Expansion - Concept Site Plan Review - 4 
+ 
+a. Conformance with the Comprehensive Plan and, where applicable, the Village Master Plan 
+b. Conformance with the provisions of all applicable rules and regulations of county, state, and 
+federal agencies. 
+c. Convenience and safety of both vehicular and pedestrian movement within the site and in 
+relationship to adjoining ways and properties. 
+d. Provisions for the off-street loading and unloading of vehicles incidental to the normal 
+operation of the establishment, adequate lighting, and internal traffic control. 
+e. Reasonable demands placed on public services and infrastructure. 
+f. Adequacy of methods for sewage and refuse disposal, and the protection from pollution of 
+both surface waters and groundwater. This includes minimizing soil erosion both during and 
+after construction. 
+g. Protection of abutting properties and County amenities from any undue disturbance caused 
+by excessive or unreasonable noise, smoke, vapors, fumes, dust, odors, glare, stormwater 
+runoff, etc. 
+h. Minimizing the area over which existing vegetation is to be removed. Where tree removal is 
+required, special attention shall be given to planting of replacement trees. 
+i. 
+The applicant’s efforts to integrate the proposed development into the existing landscape 
+through design features such as vegetative buffers, roadside plantings, and the retention of 
+open space and agricultural land. 
+j. 
+The applicant’s efforts to design the development to complement and enhance the rural and 
+historic nature of the County including incorporating into the project forms and materials that 
+reflect the traditional construction patterns of neighboring communities. 
+k. The building setbacks, area, and location of parking, architectural compatibility, signage, and 
+landscaping of the development, and how these features harmonize with the surrounding 
+townscape and natural landscape.  
+ 
+C. Staff and TAC Comments:  
+ 
+The proposal is consistent with the Comprehensive Plan. 
+ 
+The proposal conforms with the provisions of applicable rules and regulations.  
+ 
+Areas for vehicular flow appear to be adequate for the use proposed.  
+ 
+Demands on public services and infrastructure are reasonable.  
+ 
+Standard waste from the office is discharged into the Chestertown sewage system.  
+ 
+Preliminary soil and erosion control and stormwater management plans are required for 
+preliminary site plan review.  
+ 
+A Citizen Participation Plan is required. The sending of letters is sufficient.   
+ 
+STAFF RECOMMENDATION   
+In order to receive preliminary site plan approval, the applicant must address and/or submit the following 
+outstanding items: 
+ 
+• 
+Citizen Participation Plan Report 
+• 
+Preliminary sediment and erosion control and stormwater management plans  
+• 
+Details on signs and lighting
+
+<!-- page 27 -->
+
+
+<!-- page 28 -->
+
+
+<!-- page 29 -->
+
+
+<!-- page 30 -->
+
+
+<!-- page 31 -->
+
+
+<!-- page 32 -->
+
+
+<!-- page 33 -->
+UP
+A3.0
+1
+A3.0
+2
+A3.0
+4
+A3.0
+3
+EXPANDED
+BREAK ROOM
+WOMENS
+MENS
+JAN.
+CL.
+STAIR
+OFFICE
+STORAGE
+MECH.
+OFFICE
+OFFICE
+HR OFFICE
+COURTYARD
+TERRACE
+11' x 14'
+11' x 14'
+7' x 14'
+12' x 14'
+11' x 12'
+11' x 12'
+11' x 17'
+10' x 24'
+13' x 30'
+COFFEE
+COPY
+9' x 27'
+9' x 27'
+5' x 5'
+A 3.0
+1
+A 3.0
+2
+A 3.0
+4
+A 3.0
+3
+HR HUDDLE
+FILES
+FILES
+FILES
+FILES
+77' - 0"
+44' - 0"
+98' - 0" +/-
+10' - 0"
+NEW ADDITION
+54' - 0"
+EXISTING BUILDING
+83' - 0" +/-
+26' - 0"
+27' - 6"
+23' - 6"
+project no.
+drawn by
+checked by
+dwg. no.:
+date:
+revisions
+23-35
+A2.0
+09-05-23
+JLF
+JML
+GROUND FLOOR PLAN
+GILLESPIE PRECAST OFFICE ADDITION
+GILLESPIE & SON, INC.
+102 BRICKYARD RD. CHESTERTOWN, MD
+ 1/8" = 1'-0"
+A2.0
+1
+GROUND FLOOR PLAN
+
+<!-- page 34 -->
+DN
+A3.0
+1
+A3.0
+2
+A3.0
+3
+OFFICE
+OFFICE
+OFFICE
+TOILET
+TOILET
+CONFERENCE
+ROOM
+OFFICE
+OFFICE
+BALCONY
+STAIR
+10' x 24'
+7' x 8'
+7' x 8'
+OPEN OFFICE
+17' x 20'
+12' x 15'
+12' x 15'
+8' x 25'
+12' x 14'
+12' x 14'
+12' x 14'
+COFFEE
+COPY
+A 3.0
+1
+A 3.0
+2
+A 3.0
+4
+A 3.0
+3
+44' - 0"
+10' - 0"
+54' - 0"
+77' - 0"
+12' - 10"
+55' - 2"
+9' - 0"
+18' - 6"
+25' - 6"
+44' - 0"
+10' - 0"
+26' - 0"
+27' - 6"
+10' - 8"
+12' - 10"
+project no.
+drawn by
+checked by
+dwg. no.:
+date:
+revisions
+23-35
+A2.1
+09-05-23
+JLF
+JML
+SECOND FLOOR PLAN
+GILLESPIE PRECAST OFFICE ADDITION
+GILLESPIE & SON, INC.
+102 BRICKYARD RD. CHESTERTOWN, MD
+ 1/8" = 1'-0"
+A2.1
+1
+SECOND FLOOR PLAN
+
+<!-- page 35 -->
+FIRST FLOOR
+0' - 0"
+BOT. OF FOOTING
+-4' - 0"
+SECOND FLOOR
+11' - 8"
+ROOF
+21' - 8"
+NEW ADDITION
+EXISTING BUILDING
+FIRST FLOOR
+0' - 0"
+BOT. OF FOOTING
+-4' - 0"
+SECOND FLOOR
+11' - 8"
+ROOF
+21' - 8"
+FIRST FLOOR
+0' - 0"
+BOT. OF FOOTING
+-4' - 0"
+SECOND FLOOR
+11' - 8"
+ROOF
+21' - 8"
+NEW ADDITION
+EXISTING BUILDING
+FIRST FLOOR
+0' - 0"
+BOT. OF FOOTING
+-4' - 0"
+SECOND FLOOR
+11' - 8"
+ROOF
+21' - 8"
+project no.
+drawn by
+checked by
+dwg. no.:
+date:
+revisions
+23-35
+A3.0
+09-05-23
+JLF
+JML
+ELEVATIONS
+GILLESPIE PRECAST OFFICE ADDITION
+GILLESPIE & SON, INC.
+102 BRICKYARD RD. CHESTERTOWN, MD
+ 1/8" = 1'-0"
+A3.0
+1
+EAST ELEVATION
+ 1/8" = 1'-0"
+A3.0
+2
+NORTH ELEVATION
+ 1/8" = 1'-0"
+A3.0
+3
+WEST ELEVATION
+ 1/8" = 1'-0"
+A3.0
+4
+SOUTH ELEVATION
+
+<!-- page 36 -->
+
+
+<!-- page 37 -->
+Department of Planning, Housing, and Zoning 
+ 
+ 
+To: 
+Kent County Planning Commission 
+From: 
+William Mackey, AICP, Kent County Zoning Administrator and Director, DPHZ 
+Date: 
+December 29, 2023 (for inclusion in the packet and posted online for the public) 
+Subject: 
+Decision and Determination re Major Site Plan Application of Minary’s Dream Alliance 
+ 
+ 
+DECISION AND DETERMINATION 
+ 
+ 
+The property subject of this decision and determination is located at 9155 American Legion Drive, Chestertown, 
+Maryland, and is zoned Critical Area Residential (CAR) per the Official Zoning Map of Kent County, Maryland, which 
+was adopted in 2002 in conjunction with the Kent County Land Use Ordinance (LUO). An unofficial digital copy of 
+the map is available online here.  
+ 
+Minary’s Dream Alliance (MDA) has submitted a site plan for improvements at the property. As noted in the 
+Department’s Preliminary Staff Report, dated September 29, 2023, under Relevant Issues, 1. Uses: 
+ 
+“The Zoning Administrator has the authority to determine if uses are permitted. Determinations on 
+proposed uses will be made following review of the concept site plan.”  
+ 
+Article VII, Section 1.1 of the Kent County Land Use Ordinance (LUO) provides, in relevant part: 
+ 
+1.1 Continuance 
+The lawful use of land, including existing nonconforming uses, existing on the effective date of this 
+Ordinance, although such use does not conform to the regulations specified for the district in which 
+such land is located, may be continued provided: 
+a. The use is not enlarged, increased, or extended to occupy a greater area than that occupied by such 
+use on the effective date of this Ordinance… 
+ 
+It is my opinion and determination that MDA’s proposal is not an enlargement of the existing, legal nonconforming 
+use because each of the proposed improvements and uses on the site plan are permitted-by-right in the CAR zoning 
+district. If a use is permitted by right, then it may be allowed on a property independent from any other use or uses, 
+as long as all other pertinent regulations for such uses are complied with and any required approval processes are 
+followed.  The proposed improvements and uses are as follows: 
+ 
+On MDA’s site plan, proposed improvements and uses are identified and keyed to a Land Use Key on page L0.1 of 
+the site plan prepared by Miles Barnard, ASLA, RLA of South Fork Studio, Inc. The submitted narrative and site plan 
+are attached for reference.  
+ 
+1.  
+Sacred Place Sitting Area and Labyrinth and Outdoor Classroom/Performance Area. 
+ 
+These improvements are shown in the  green area on the Land Use Key. This use is labeled Public or Private Park. 
+The specific Sacred Space and Labyrinth improvements are shown in detail on page L1.2 of the site plan. Per Article 
+V. District Regulations, Section 5. Critical Area Residential, § 5.2 Permitted Principal Uses and Structures, # 7 of the 
+LUO, Public or Private Parks are permitted by right in the CAR zoning district.
+
+<!-- page 38 -->
+Decision and Determination 2024-12-29 
+ 
+Page 2 of 3 
+Public and private parks and playgrounds for the purpose of conserving and enjoying the natural resources, 
+including both active and passive parks owned and operated by Kent County, the State of Maryland, or 
+federal government but not including commercial play fields for football, baseball, and other major sports 
+activities such as motocross or drag racing fields.  
+ 
+Interpretation: The use indicated in green on the proposed site plan is the same use as permitted by right on any 
+CAR property, subject to other relevent provisions of the LUO and any pertinent County, State, and federal law and 
+is therefore not subject to the limitations for legal nonconforming uses. 
+ 
+2. 
+Existing Camping and Picnic Area 
+ 
+This area is shown in the salmon colored area of the Land Use Key. The existing camping/picnic area is an establsihed 
+use area that predates MDA’s ownership of the property. No improvements are proposed for this area. 
+ 
+3. 
+Relocation of Existing Garden and Proposed Greenhouse and Accessory Structure.  
+ 
+These improvements are shown in the lavendar area on the Land Use Key labeled Garden, Greenhouse and Garden 
+Storage, and in more detail on page L.10 of the site plan. Per Article V. District Regulations, Section 5. Critical Area 
+Residential, § 5.2 Permitted Principal Uses and Structures, # 5 (see excerpt below) of the LUO, greenhouses are 
+permitted by right in the CAR zoning district. 
+ 
+Greenhouses, wholesale or retail, provided structures are 200 feet from all property lines and are 
+adequately landscaped. 
+ 
+Gardens are expected on residentially zoned property, as are small structures to store gardening supplies as well as 
+garages. Additionally, per Article XI. Definitions, Section 2. Definitions, #2, of the LUO, the following definition 
+provides for accessory structures that are expected in all zoning distritcts. 
+ 
+2. Accessory Structure  A detached structure on the same parcel as the principle structure or use and which 
+is incidental and subordinate to the principal structure or use in area, extent and purpose, i.e. shed, or 
+detached garage. 
+ 
+Interpretation: The use indicated in lavendar on the proposed site plan is a similar use as permitted by right on any 
+CAR property, subject to other relevent provisions of the LUO and any pertinent County, State, and federal law. In 
+this case, greenhouses are permitted by right on the property; however, a variance may be needed.  Gardens, 
+garden storage, and garages are uses anticipated on residentially zoned property; accessory structures are assumed 
+by the LUO to be permitted by right in the CAR and are regulated by Article V. District Regulations, Section 5. Critical 
+Area Residential, § 5.5 Denisty, Area, Height, Width and Yard Requirements. 
+ 
+4. 
+Living Shoreline. 
+ 
+The proposed Living Shoreline improvement is shown in the blue area of the Land Use Key.   
+ 
+A living shoreline stabilization is a type of erosion, sediment, and flood control. Per Article V. District Regulations, 
+Section 5. Critical Area Residential, § 5.2 Permitted Principal Uses and Structures, # 4 of the LUO, erosion and flood 
+control structures are permitted by right in the CAR zoning district. 
+ 
+Interpretation: A living shoreline is similar to an erosion and flood control structure which is permitted by right on 
+any CAR property, subject to other relevent provisions of the LUO and any pertinent County, State, and federal law. 
+Additionally, a living shoreline is also the State’s and the County’s preferred methodology for shoreline treatments.
+
+<!-- page 39 -->
+Decision and Determination 2024-12-29 
+ 
+Page 3 of 3 
+ 
+5.  
+Existing Building. 
+ 
+The existing building is shown in the yellow area of the Land Use Key. No change to the existing building is proposed.    
+ 
+6. 
+Parking Lot Reconstruction. 
+ 
+The parking lot reconstruction improvements are shown in the gray area on the Land Use Key labeled Accessory 
+off-street Parking, and in more detail on page L1.2 of the site plan. Per Article V. District Regulations, Section 5. 
+Critical Area Residential, § 5.4 Accessory Uses, # 2 (excerpt below) of the LUO, the following use is permitted by 
+right in the CAR zoning district. 
+ 
+Accessory off-street parking and loading of non-commercial vehicles that have current licenses and are 
+operable. 
+ 
+Interpretation: The use indicated in gray on the proposed site plan is the same use as permitted by right on any 
+CAR property, subject to other relevent provisions of the LUO and any pertinent County, State, and federal law. In 
+this case, the use is permitted by right on the property, and is therefore not subject to the limitations for legal 
+nonconforming uses. 
+ 
+Please note this decision and determination represents an administrative determination. If a member of the public 
+or the applicants wish to appeal this determination, they may do so by filing an appeal within thirty (30) days from 
+the date of the determination. Please note such an appeal may be sent directly to planning@kentgov.org. Appeals 
+are reviewed by the Kent County Board of Appeals. Further information is available regarding the Kent County Board 
+of Appeals and the formal appeal process, which is posted online here. 
+ 
+ 
+Attachments 
+• 
+Submittal by applicants, dated September 23, 2023, for concept review 
+ 
+cc:  Shelley L. Heller, Kent County Administrator  
+ 
+Carla Gerber, Deputy Director, DPHZ
+
+<!-- page 40 -->
+N 23°38'34" W
+539.81'
+26.19'
+(566.00' TOTAL)
+L19
+L20
+L21
+L22
+L5
+L6
+L7
+L8
+L9
+L10
+L11
+L12
+L13
+L14
+L15
+L16
+L17
+L18
+N 66°16'16" E
+423.12'
+16.95'±
+(440.07' TOTAL)
+L1
+L2
+L3
+L4
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+4
+5
+6
+7
+8
+8
+7
+13
+12
+13
+12
+11
+11
+10
+10
+10
+12
+10
+5
+9
+8
+7
+6
+3
+MORGAN CREEK
+Ex. Main Building
+Ex.
+Garage
+Ex.
+Office
+Ex. Driveway and Parking with
+75 standard spaces &
+4 handicapped-accessible spaces
+ 100' BUFFER
+ 100' BUFFER
+Ex. Garden
+Ex. Blind
+24" Northern Red Oak
+24" Northern Red Oak
+Crabapple
+Crabapple
+Crabapple
+Crabapple
+Dogwood
+Dogwood
+Ex. Osprey Pole
+24" Red Oak
+24" Pine
+20" Pine
+36" Red Oak
+ 25' NTW
+BUFFER
+Hemlock
+FLOOD ZONE X
+FLOOD ZONE AE(EL7)
+Ex. Floating Dock and Pier
+Ex. Stairs
+NOTE: SLOPES GREATER 
+THAN 15% ALONG MOST 
+OF SHORELINE
+Ex. Septic Tank
+Edge of Ex. Canopy
+Wooded area to remain undisturbed
+Ex. Light
+15'-0"
+15' SIDE SETBACK
+50' REAR SETBACK
+50'-0"
+Ex. Entrance
+Ex. Sign
+AMERICAN LEGION DRIVE
+Ex. Well
+Ex. Flagpole
+Ex. Light
+Ex. HVAC Units
+Ex. Concrete Walkway
+Ex. Above-ground Oil Tank
+Ex. HVAC Units
+Ex. Utility Pole
+Ex. Propane Tank
+Edge of Ex. Canopy
+Wooded area to remain undisturbed
+FLOOD ZONE X
+FLOOD ZONE AE(EL7)
+LANDS OF
+ALEXANDER BURT, JR
+26910 MALLARD RD
+7.84 AC
+LOT 1 | PARCEL 57
+LANDS OF
+RUSSELL & DIANA
+FRYMIARE
+CHESMAR RD
+38,200 SF
+LOT 9 | PARCEL 57
+WdcB
+Woodstown Sandy Loam
+12% of total site
+WdcA
+Woodstown Sandy Loam
+58% of total site
+FacA
+Fallsington Sandy Loam
+17% of total site
+SacB
+Sassafras Sandy Loam
+7% of total site
+Ax
+Axis Mucky Silt Loam
+3% of total site
+Bs
+Bibb Silt Loam
+1% of total site
+KmA
+Keyport Fine Sandy Loam
+2% of total site
+0
+40
+80
+120 FT
+Pre-development Lot Coverage - Minary's Dream Alliance
+Total Land Area (SF)
+353,707 SF
+Zoning Classifications
+CAR
+Allowed Lot Coverage (15%)
+53,056 SF
+Area Description
+Ex. Main Building
+6,310 SF
+Ex. Garage
+599 SF
+Ex. Office
+420 SF
+Ex. Driveway
+52,950 SF
+Ex. Walkways and other Paving
+1,204 SF
+Total Lot Coverage
+61,482 SF
+Drawn by : DMB 
+Scale : 
+1st Issue DateL0.1
+Existing
+Conditions
+1" = 40'
+01-12-23
+10810 CLIFF ROAD 
+CHESTERTOWN, MD 21620
+410 778 1098      410 778 6848(f)
+www.southforkstudio.com
+INC. 
+LANDSCAPE  ARCHITECTURE 
+S O U T H 
+F O R K 
+S T U D I O 
+REVISIONS
+ISSUED FOR:
+Client Review
+Bid
+Permit
+Construction
+Revision
+Approval
+Coordination
+Do Not Scale the Drawing 
+Contractors to Verify Dimensions on Site
+These drawings and specifications and the ideas
+represented thereby are and shall remain the
+property of the Landscape Architect.  No part
+thereof shall be copied or used in connection with
+any work or project or by any other person for any
+purpose other than for the specific project for which
+they have been prepared and developed without
+the written consent of the Landscape Architect.
+Minary's Dream Alliance
+9155 American Legion Drive
+Chestertown, MD
+E
+S
+W
+N
+LINE
+BEARING
+DISTANCE
+L1
+S 61°16'24" E
+38.22'
+L2
+S 73°06'49" E
+20.57'
+L3
+S 63°15'21" E
+38.73'
+L4
+N 88°20'41" E
+31.75'
+L5
+N 41°19'41" E
+0.91'
+L6
+S 48°40'19" E
+82.60'
+L7
+S 41°19'41" W
+6.00'
+L8
+S 27°04'26" W
+9.62'
+L9
+S 37°26'34" E
+39.06'
+L10
+S 52°47'37" E
+86.50'
+L11
+S 47°42'22" E
+84.27'
+L12
+S 45°28'35" E
+62.32'
+L13
+S 05°07'58" E
+56.00'
+L14
+S 18°34'50" W
+83.07'
+L15
+S 21°17'24" W
+72.31'
+L16
+S 36°27'56" W
+71.76'
+L17
+S 34°10'17" W
+118.46'
+L18
+N 85°39'18" W
+86.61'
+L19
+N 87°02'20" W
+73.58'
+L20
+N 89°54'56" W
+95.14'
+L21
+S 76°29'30" W
+114.72'
+L22
+S 40°24'28" W
+39.60'
+KENT COUNTY PLANNING COMMISSION CHAIR
+DATE
+APPROVED:
+Ex. Tree to remain
+Proposed Tree
+MV
+Existing 1' Contour
+Property Line
+25
+Electric
+Propane
+E
+P
+Sewer
+S
+Telephone
+T
+Water
+W
+LEGEND
+Setback
+Flood Boundary
+Soil Boundary
+Mean High Water Line
+Ex. Tree Canopy
+SITE LOCATION
+VICINITY MAP
+NTS
+03-01-23
+Design Questionaire
+03-29-23
+Steering Comm. #2
+08-30-23
+Site Plan Review
+REVIEWED FOR KENT SOIL AND WATER CONSERVATION 
+DISTRICT AND MEETS TECHNICAL REQUIREMENTS
+KENT SOIL AND WATER CONSERVATION DISTRICT
+                       DATE
+KENT SOIL & WATER CONSERVATION DISTRICT RESERVES THE RIGHT TO ADD, 
+DELETE, MODIFY OR OTHERWISE ALTER THE SEDIMENT CONTROL PROVISIONS 
+OF THIS PLAN IN THE EVENT ADDITIONAL PROTECTION BECOMES NECESSARY.
+HEALTH DEPARTMENT APPROVING AUTHORITY
+DATE
+APPROVED:
+Property Information:
+9155 American Legion Drive
+Chestertown, MD 21620
+Map 38  Grid 3A  Parcel 57
+8.12 Acres
+County: Kent
+Election District 4, Precinct 1
+09-26-23
+Planning Commission
+1
+Proposed Land Use Diagram
+Scale: 1" = 80'-0"
+Public or Private Park, per Article V,
+Section 5, §5.2, #7 of the LUO
+LAND USE KEY
+Existing Camping and Picnic Area
+Garden, Greenhouse and Garden Storage
+Public or Private Park, per Article V,
+Section 5, §5.2, #7 of the LUO
+Existing Building - Nonconforming
+Accessory off-street Parking, per Article V,
+Section 5, §5.4, #2 of the LUO
+A1
+A2
+NOTE: Structures A1 and A2 are Existing Accessory Structures, 
+per Article V, Section 5, §5.3, #3 of the LUO
+Ex. Camping
+and Picnic
+Area
+Garden/Greenhouse and 
+Garden Storage
+Sacred Place - Sitting Area
+Sacred Place - Labyrinth
+Living
+Shoreline
+Outdoor
+Classroom/Performance
+Ex. Building
+Parking
+
+<!-- page 41 -->
+EX. MAIN BUILDING
+ 100' BUFFER
+20" Pine
+Hemlock
+PROPOSED RELOCATED 
+ENTRANCE WITH GATEWAY 
+ARCH, TO BE DESIGNED
+RELOCATED
+GARDEN
+Future
+Garden
+Expansion
+FUTURE 
+SEPTIC 
+EXPANSION
+AREA
+MORGAN CREEK
+KAYAK
+LAUNCH
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+12
+13
+14
+15
+16
+17
+8
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+HC1
+HC2
+HC3
+HC4
+HC5
+HC6
+Ex. Garage
+Ex. Office
+EXISTING
+CAMPING AND
+PICNIC AREA
+PROPOSED FORESTED EDGE
+PROPOSED
+FORESTED EDGE
+PROPOSED FORESTED EDGE
+LABYRINTH
+(SEE L1.2)
+PROPOSED 
+MEADOW
+PROPOSED WARM SEASON GRASS MEADOW
+PROPOSED
+MEADOW
+MOWED LAWN
+MOWED LAWN
+EXISTING 
+ENTRANCE
+EXISTING SIGN
+EXISTING MHWL
+FUTURE LIVING
+SHORELINE
+EXISTING ASPHALT, TO BE REMOVED
+EXISTING ASPHALT, TO BE REMOVED
+EXISTING GARDEN
+ 100' BUFFER
+ 100' BUFFER
+EXISTING WOODLINE
+PROPOSED WOODLINE
+PROPERTY LINE
+SACRED
+PLACE
+(SEE L1.2)
+EXISTING WOODLINE
+EXISTING WOODLINE
+AMERICAN LEGION DRIVE
+20'-0"
+20'-0"
+18'-0"
+24'-0"
+aisle
+18'-0"
+EXISTING PAVING, 
+TO REMAIN
+24'-0"
+EXISTING STEPS
+EXISTING DOCK
+PROPOSED PAVING
+PROPOSED 6' WIDE
+MULCH PATH
+PROPOSED
+BIORETENTION
+AREAS
+LANDS OF
+ALEXANDER BURT, JR
+26910 MALLARD RD
+7.84 AC
+LOT 1 | PARCEL 57
+LANDS OF
+RUSSELL & DIANA FRYMIARE
+CHESMAR RD
+38,200 SF
+LOT 9 | PARCEL 57
+FLOOD ZONE X
+FLOOD ZONE AE(EL7)
+FLOOD ZONE X
+FLOOD ZONE AE(EL7)
+0
+30
+60
+90 FT
+EX. WELL
+PROPOSED TREE
+EXISTING TREE
+PROPOSED
+AT-GRADE DECK
+FOR OUTDOOR
+CLASSROOM
+AND
+PERFORMANCE
+PROPOSED
+GARAGE
+PROPOSED
+GREEN
+HOUSE
+Dogwood
+Dogwood
+PROPOSED 
+4' WIDE PATH
+Drawn by : DMB 
+Scale : 
+1st Issue DateL1.0
+Master
+Plan
+1" = 30'
+01-12-23
+10810 CLIFF ROAD 
+CHESTERTOWN, MD 21620
+410 778 1098      410 778 6848(f)
+www.southforkstudio.com
+INC. 
+LANDSCAPE  ARCHITECTURE 
+S O U T H 
+F O R K 
+S T U D I O 
+REVISIONS
+ISSUED FOR:
+Client Review
+Bid
+Permit
+Construction
+Revision
+Approval
+Coordination
+Do Not Scale the Drawing 
+Contractors to Verify Dimensions on Site
+These drawings and specifications and the ideas
+represented thereby are and shall remain the
+property of the Landscape Architect.  No part
+thereof shall be copied or used in connection with
+any work or project or by any other person for any
+purpose other than for the specific project for which
+they have been prepared and developed without
+the written consent of the Landscape Architect.
+Minary's Dream Alliance
+9155 American Legion Drive
+Chestertown, MD
+E
+S
+W
+N
+Not for
+Construction
+Pre-development Lot Coverage - Minary's Dream Alliance
+Total Land Area (SF)
+353,707 SF
+Zoning Classifications
+CAR
+Allowed Lot Coverage (15%)
+53,056 SF
+Area Description
+Ex. Main Building
+6,310 SF
+Ex. Garage
+599 SF
+Ex. Office
+420 SF
+Ex. Driveway
+52,950 SF
+Ex. Walkways and other Paving
+1,204 SF
+Total Lot Coverage
+61,482 SF
+Post-Development Lot Coverage - Minary's Dream Alliance
+Total Land Area (SF)
+353,707 SF
+Zoning Classifications
+CAR
+Allowed Lot Coverage (%)
+53056 SF
+Pre-Development Lot Coverage
+61482 SF
+Area Description
+Ex. Main Building
+6310 SF
+Ex. Garage
+599 SF
+Ex. Office
+420 SF
+Ex. Walkways and other Paving to Remain
+797 SF
+Proposed Driveway
+46492 SF
+Proposed Walkways
+3191 SF
+Proposed Labyrinth
+1197 SF
+Proposed Greenhouse and Garage
+2466 SF
+Total Lot Coverage
+61472 SF
+Lot Coverage Change
+-10 SF
+Ex. Tree to remain
+Proposed Tree
+MV
+Existing 1' Contour
+Property Line
+25
+Electric
+Propane
+E
+P
+Sewer
+S
+Telephone
+T
+Water
+W
+LEGEND
+Setback
+Flood Boundary
+Soil Boundary
+Mean High Water Line
+Ex. Tree Canopy
+Proposed Tree Canopy
+Proposed Planting Bed
+Proposed Bioretention
+Proposed Lawn
+Proposed Warm 
+Season Meadow
+Proposed Walkways
+Proposed Driveway
+Existing, to be removed
+REVIEWED FOR KENT SOIL AND WATER CONSERVATION 
+DISTRICT AND MEETS TECHNICAL REQUIREMENTS
+KENT SOIL AND WATER CONSERVATION DISTRICT
+                       DATE
+KENT SOIL & WATER CONSERVATION DISTRICT RESERVES THE RIGHT TO ADD, 
+DELETE, MODIFY OR OTHERWISE ALTER THE SEDIMENT CONTROL PROVISIONS 
+OF THIS PLAN IN THE EVENT ADDITIONAL PROTECTION BECOMES NECESSARY.
+Property Information:
+9155 American Legion Drive
+Chestertown, MD 21620
+Map 38  Grid 3A  Parcel 57
+8.12 Acres
+County: Kent
+Election District 4, Precinct 1
+03-01-23
+Design Questionaire
+03-29-23
+Steering Comm. #2
+08-30-23
+Site Plan Review
+KENT COUNTY PLANNING COMMISSION CHAIR
+DATE
+APPROVED:
+HEALTH DEPARTMENT APPROVING AUTHORITY
+DATE
+APPROVED:
+CONSTRUCTION PHASING FOR 
+PROPOSED IMPROVEMENTS
+1.
+SACRED PLACE
+2.
+LABYRINTH
+3.
+RELOCATED GARDEN
+4.
+LIVING SHORELINE
+5.
+AT-GRADE DECK
+6.
+GREENHOUSE & GARAGE
+7.
+PARKING LOT
+09-26-23
+Planning Commission
+
+<!-- page 42 -->
+Proposed Mulch Path
+6'-0"
+Proposed Mulch Path to Garden
+Existing Garden
+Proposed Garden
+1 - 1.5 ton Seating Boulders
+Nature Sacred Bench
+Mulch Walking Surfaace
+1-2 Ton Entrance Boulder
+Native Shrub Planting with Native 
+Ferns and Groundcover
+Bench Swing hung from 
+Tree Branch
+Edge of Brush
+Top of Bank
+MHWL
+Ex. Hunting Blind, to remain
+OAK
+Native Shrub Planting with
+Native Ferns and
+Groundcover
+Morgan Creek
+SACRED PLACE
+1/4" = 1'-0"
+40'-0"
+8" dia. Log Entrance Posts
+2
+L1.2
+Drawn by : DMB 
+Scale : 
+1st Issue DateL1.2
+Detailed
+Plans
+1/4" = 1'-0"
+03-29-23
+10810 CLIFF ROAD 
+CHESTERTOWN, MD 21620
+410 778 1098      410 778 6848(f)
+www.southforkstudio.com
+INC. 
+LANDSCAPE  ARCHITECTURE 
+S O U T H 
+F O R K 
+S T U D I O 
+REVISIONS
+ISSUED FOR:
+Client Review
+Bid
+Permit
+Construction
+Revision
+Approval
+Coordination
+Do Not Scale the Drawing 
+Contractors to Verify Dimensions on Site
+These drawings and specifications and the ideas
+represented thereby are and shall remain the
+property of the Landscape Architect.  No part
+thereof shall be copied or used in connection with
+any work or project or by any other person for any
+purpose other than for the specific project for which
+they have been prepared and developed without
+the written consent of the Landscape Architect.
+Minary's Dream Alliance
+9155 American Legion Drive
+Chestertown, MD
+E
+S
+W
+N
+Not for
+Construction
+LABYRINTH
+1/4" = 1'-0"
+Proposed Shade Tree
+Bench
+Path to Garden
+Path to
+Parking
+Ø 48'-0"
+ Lawn
+Proposed 
+2-ton Boulder
+ Lawn
+4'-5"
+1'-6"
+1'-6"
+Play Field
+ Lawn
+Irregular Flagstone 
+Paving
+1
+L1.2
+1
+1
+Lawn
+1 1/2" thick Irregular Flagstone, 
+hand tight joints
+2" mortar setting bed
+4" crushed and compacted CR-6 base
+Compacted subgrade
+1'-6"
+1
+Irregular Flagstone Paving
+Scale: 3/4" = 1'-0"
+2
+Nature Sacred Bench
+Scale: 3/4" = 1'-0"
+SIDE ELEVATION
+FRONT ELEVATION
+1'-0"
+1'-3"
+3'-3"
+2'-6"
+8'-0"
+3'-6"
+03-29-23
+Steering Comm. #2
+08-30-23
+Site Plan Review
+Property Information:
+9155 American Legion Drive
+Chestertown, MD 21620
+Map 38  Grid 3A  Parcel 57
+8.12 Acres
+County: Kent
+Election District 4, Precinct 1
+09-26-23
+Planning Commission
+
+<!-- page 43 -->
+Department of Planning, Housing, and Zoning 
+ 
+ 
+To: 
+Kent County Planning Commission 
+From: 
+Carla Gerber, Deputy Director 
+Meeting: 
+January 4, 2024 
+Subject: 
+Minary’s Dream Alliance, Inc. – Site Plan Review – Preliminary and Final 
+ 
+ 
+Executive Summary 
+ 
+ 
+Request by the Applicant 
+Minary’s Dream Alliance, Inc. (MDA) is requesting preliminary and final review of a proposed Site Plan that will 
+function as MDA’s master plan for projects on the site and would be implemented over time as funding allows. If 
+required, building permits will be issued for individual projects. 
+ 
+Public Process 
+Per Article VI, Section 5.2 of the Kent County Land Use Ordinance, the Planning Commission shall review and 
+approve major site plans.    
+ 
+Summary of the Staff Report  
+MDA is proposing site improvements including the creation of a “Sacred Place” sitting area, labyrinth, living 
+shoreline, reconfigured garden with added greenhouse and garden storage garage, wooden platform for outdoor 
+classroom or performance, and reconfigured entrance/parking area. The site plan in this case must be considered 
+with respect to Judge Murphy’s order concerning the legal non-conforming use of the property and as to 
+permitted uses currently allowed within the Critical Area Residential district.  
+ 
+Staff Recommendation 
+The Planning Commission has the authority to decide if preliminary and final approval may be granted at the same 
+meeting. MDA is still working with the Health Department, and the size and design of the new septic system has 
+not been finalized. There are no sureties that need to be posted prior to final approval.  
+ 
+Staff recommends granting final approval with the condition that MDA apply for building permits, as applicable, 
+as each project moves forward and all requirements of the Health Department, or other agencies as applicable, 
+are met.
+
+<!-- page 44 -->
+23-51, Minary’s Dream Alliance – 2 
+ 
+PRELIMINARY STAFF REPORT 
+ 
+To: 
+Kent County Planning Commission 
+Subject: 
+Minary’s Dream Alliance, Inc. 
+ 
+Site Plan Review – Preliminary 
+Date: 
+December 29, 2023 
+ 
+Description of Proposal 
+The applicants are seeking site plan review for their property at 9155 American Legion Drive near Chestertown. 
+The Site Plan identifies a number of improvements that will be implemented over time as funding allows. The 
+improvements include creation of a “Sacred Place,” labyrinth, living shoreline, reconfigured garden with added 
+greenhouse and garden storage garage, wooden platform for outdoor classroom or performance, and 
+reconfigured entrance/parking area. More details may be found in the applicant’s narrative. If required, building 
+permits will be issued for individual projects. 
+ 
+The 8.12-acre property is zoned “CAR” Critical Area Residential and is located on American Legion Drive adjacent 
+to Morgan Creek. There are residential uses on either side along the creek and an agricultural field across the 
+road. The property is currently improved with an existing main building, plus accessory buildings used as an office 
+and garage. There is also a camping and picnic area and dock that runs parallel to the shoreline.  
+ 
+History 
+The property was developed in the 1960s and owned by the American Legion until it was sold to the applicants. 
+Under current zoning regulations, the Legion’s use as a social, charitable, business, and civic organization was a 
+legal non-conforming use. A decision of the Zoning Administrator that the use of the property by the applicant to 
+provide education to families, community services, and youth services was consistent with the uses conducted by 
+the American Legion and could continue was appealed to the Kent County Board of Appeals, which was then 
+appealed to Kent County Circuit Court. The Court ruled that use of the property consistent with the historic uses 
+could continue with some contingencies. Judge Murphy’s order is included in the applicant’s documentation.  
+ 
+Relevant Issues 
+ 
+I. Uses 
+ 
+B. Applicable Law: Article VIII, Nonconformities, Section 1.1 establishes that nonconforming uses may 
+continue. Article V, Section V, Critical Area Residential establishes the permitted and accessory uses within 
+the district. 
+ 
+C. Staff and TAC Comments:  The Zoning Administrator has the authority to determine if uses are permitted. 
+Determinations on proposed uses will be made following review of the concept site plan.”.  
+ 
+II. District Environmental Standards  
+ 
+A. Applicable Law: Article V, Section 5.7 in the Kent County Land Use Ordinance establishes the Critical Area 
+Environmental Design Standards, which include stormwater and Critical Area standards.  The purpose of 
+these standards is to provide for the proper stewardship of the County’s natural resources.  Specifically, it is 
+the overall goal of the County to maintain the quality of the County’s ecosystem in the face of continuing 
+activity, growth and change.
+
+<!-- page 45 -->
+23-51, Minary’s Dream Alliance – 3 
+ 
+Article VI, Section 9 of the Kent County Land Use Ordinance sets forth the provisions for Erosion and Sediment 
+Control and Section 10, Stormwater Management.  
+ 
+B. Staff and TAC Comments: The proposed site plan includes enhanced landscaping along the perimeter of the 
+property and within the proposed parking lot. No clearing of existing forest is proposed. Proposed 
+improvements are located outside of the floodplain and proposed structures are outside of the Critical Area 
+buffer and the non-tidal wetlands buffer. The living shoreline will enhance water quality. 
+ 
+Stormwater management and sediment and erosion control plans will be submitted with individual projects, 
+as applicable. 
+ 
+The total existing lot coverage exceeds the 15% limit and is grandfathered. The proposed lot coverage is 10 
+square feet less than the existing and will establish a new limit of 61,472 square feet. MDA will not be allowed 
+to exceed the new limit in the future without a variance. 
+ 
+IV. Parking and Loading Requirements 
+A. Applicable Law:  Article VI, Section 1.3 of the Kent County Land Use Ordinance establishes the parking 
+standards. Community Centers/Civic Clubs/Museums require one parking space per 50 square feet of 
+gross floor area. There are no parking standards for parks or greenhouses. 
+ 
+B. Staff and TAC Comments: There are currently 75 standard parking spaces and 4 handicapped-accessible 
+spaces, which is less than the required number of spaces for community centers or civic clubs. The 
+reconfigured parking lot will have 73 standard spaces and 6 handicapped-accessible spaces. As there are 
+no changes proposed with the existing building and the total number of spaces is not decreasing, it has 
+been the practice of DPHZ that additional parking is not required to comply with the current standards.  
+ 
+V. Site Plan Review 
+A. Comprehensive Plan: “Implement thorough design review for new development and major renovations.” 
+(Page 33) 
+ 
+B. Applicable Law: Article VI, Section 5.3 of the Kent County Land Use Ordinance establishes site plan review 
+procedures. The Planning Commission shall prepare findings of fact concerning the reasonable fulfillment 
+of the objectives listed below.  
+a. Conformance with the Comprehensive Plan and, where applicable, the Village Master Plan. 
+b. Conformance with the provisions of all applicable rules and regulations of county, state, and federal 
+agencies. 
+c. Convenience and safety of both vehicular and pedestrian movement within the site and in relationship 
+to adjoining ways and properties. 
+d. Provisions for the off-street loading and unloading of vehicles incidental to the normal operation of 
+the establishment, adequate lighting, and internal traffic control. 
+e. Reasonable demands placed on public services and infrastructure.   
+f. Adequacy of methods for sewage and refuse disposal, and the protection from pollution of both 
+surface waters and groundwater.  This includes minimizing soil erosion both during and after 
+construction.  
+g. Protection of abutting properties and County amenities from any undue disturbance caused by 
+excessive or unreasonable noise, smoke, vapors, fumes, dust, odors, glare, stormwater runoff, etc. 
+h. Minimizing the area over which existing vegetation is to be removed.  Where tree removal is required, 
+special attention shall be given to planting of replacement trees.
+
+<!-- page 46 -->
+23-51, Minary’s Dream Alliance – 4 
+ 
+i. 
+The applicant’s efforts to integrate the proposed development into the existing landscape through 
+design features such as vegetative buffers, roadside plantings, and the retention of open space and 
+agricultural land. 
+j. 
+The applicant’s efforts to design the development to complement and enhance the rural and historic 
+nature of the County including incorporating into the project forms and materials that reflect the 
+traditional construction patterns of neighboring communities. 
+k. The building setbacks, area, and location of parking, architectural compatibility, signage, and 
+landscaping of the development, and how these features harmonize with the surrounding townscape 
+and the natural landscape. 
+ 
+C. Staff and TAC Comments:  
+• 
+The proposal is consistent with strategies and goals of the Comprehensive Plan. The programs 
+operated by MDA support the Plan’s goal to develop an educated workforce with the skills and 
+training required to serve current and future employers. In addition, MDA programs are intended to 
+fill gaps in services provided by other community facilities such as schools, libraries, and parks and 
+recreation. The proposed shoreline and landscaping improvements support goals of the Environment 
+section to protect sensitive resources and expand forests.  
+• 
+The property is served by private well and septic. The applicant is working with the Health Department 
+to establish a new septic reserve area. If the Health Department determines that they cannot sign the 
+final  site plan, then their approval will be required as each project moves forward 
+• 
+The redesign of the parking lot is intended to improve traffic patterns and safety of pedestrians within 
+the site. 
+• 
+Stormwater management and erosion and sediment control plans will be reviewed with individual 
+projects, as applicable. 
+• 
+The applicant has designed the project with the goal to complement the neighborhood and to 
+enhance habitat and improve water quality. 
+• 
+Existing vegetation will not be removed. 
+• 
+Design charrettes, which were open to the public, have been conducted.  
+• 
+As located on the site plan, the greenhouse will require a variance. Greenhouses are permitted in CAR 
+but require a 200-foot setback from all property lines. Changes to the location would require an 
+amendment to the site plan. 
+• 
+As located on the site plan, the garden storage and garage will require a special exception as it is an 
+accessory structure in the front yard of a waterfront parcel. Changes to the location would require an 
+amendment to the site plan. 
+• 
+The applicant has included a new note on the site plan concerning the existing camping area. It is now 
+noted as a “Primitive Campground and Picnic Area” with “Tent camping only by private groups.” The 
+Land Use Key has been updated for consistency. 
+ 
+Staff Recommendation 
+The Planning Commission has the authority to decide if preliminary and final approval may be granted at the same 
+meeting. MDA is still working with the Health Department, and the size and design of the new septic system has 
+not been finalized. There are no sureties that need to be posted prior to final approval.  
+ 
+Staff recommends granting final approval with the condition that MDA apply for building permits, as applicable, 
+as each project moves forward and all requirements of the Health Department, or other agencies as applicable, 
+are met.
+
+<!-- page 47 -->
+
+
+<!-- page 48 -->
+South Fork Studio Landscape Architecture, Inc. 
+410-778-1098  southforkstudio.com 
+ 
+ 
+ 
+ 
+ 
+September 26, 2023 
+ 
+ 
+Kent County Department of Planning, Housing and Zoning 
+300 High Street 
+Chestertown, MD 21620 
+ 
+Re:  
+Minary’s Dream Alliance, Inc. 
+9155 American Legion Drive 
+Chestertown, MD 21620 
+Map 38 – Parcel 57  8.12 Acres 
+Zoning: Critical Area Residential 
+ 
+NARRATIVE 
+ 
+We are submitting this project for Minor Site Plan approval of a proposed Master Plan for 9155 
+American Legion Drive in Chestertown which is the headquarters for Minary’s Dream Alliance 
+(MDA). MDA was founded in 2020, and their mission is to transform the lives of youth, 
+families, and communities through education, resource development, and community 
+engagement. In 2022 they purchased the American Legion property to serve as their home where 
+they have offices,  hold events such as food drives, movie nights, and back-to-school giveaways. 
+They provide indoor and outdoor education, teach about sustainable gardening and renewable 
+energy, and provide other community support.  
+ 
+MDA is the recipient of a grant from an Annapolis-based organization called Nature Sacred 
+which has been funding design services that have resulted in the attached drawings showing an 
+overall property Master Plan. The intention of  the Master Plan is to provide a road map for 
+property improvements over the next 5-10 years. We are seeking Minor Site Plan approval for 
+the Master Plan only. MDA would then seek individual building permits through Kent County 
+Planning, Housing and Zoning for each project as funding becomes available. 
+ 
+Property Specifics 
+ 
+The property sits along the banks of Morgan Creek, a tributary of The Chester River and is 8.12 
+acres. It is entirely located within the Chesapeake Bay Critical Area, zoned Critical Area 
+Residential, and is served by private water and sewer. While operating as the American Legion 
+from 1978 until 2021, nonconforming uses were taking place and accepted by Officials and 
+citizens. However, when MDA was under contract to buy the property in 2021, some neighbors 
+challenged the validity of ongoing nonconforming uses. This challenge resulted in a lawsuit 
+which ended with a ruling from Judge Harris Murphy which is included with this submission. In 
+that ruling, Judge Murphy acknowledges the historic nonconforming uses, and allows for those 
+nonconforming uses to continue under the MDA ownership with some contingencies. Those
+
+<!-- page 49 -->
+Minary’s Dream Alliance 
+Narrative 
+Page 2 of 7 
+ 
+contingencies are that the nonconforming uses cannot be intensified and includes some specific 
+examples such as not constructing new athletic facilities or creating new access points on 
+Morgan Creek. 
+ 
+Proposed Improvements 
+ 
+The Master Plan includes improvements to existing features and the addition of some new ones. 
+The overall theme of site improvements is to maintain harmony with adjacent properties, 
+enhance and expand habitat for animals, birds, and insects, improve water quality of Morgan 
+Creek, incorporate sustainable construction where possible, and in general honor the site’s 
+existing attributes. All the improvements on the Master Plan result in a zero net change in Lot 
+Coverage which is detailed on the drawing worksheets. 
+ 
+Sacred Place: First and foremost is the creation of what is called a Sacred Place. This is an 
+important part of the Nature Sacred design philosophy and will be a place where people can sit 
+alone on a bench and write in a weatherproof journal, gather as a group to discuss current events 
+or attend an outdoor class, or simply sit to commune with nature, enjoy the view, and read a 
+book. The Sacred Place will have a bench (on the drawings), boulders for sitting, native 
+plantings, and a mulch walking surface. The Sacred Place installation would be phase 1 of 
+implementation and a detailed drawing of this space is included in the package. If this Master 
+Plan is approved, we would immediately submit a building permit for the Sacred Place. 
+ 
+Labyrinth: The labyrinth is a meditative walking experience that can be done alone or with other 
+people. The labyrinth path would be built in the grass with flagstone as the walking path. The 
+Labyrinth would be built as part of phase 1 and a detailed drawing of this space is included in the 
+package. If this Master Plan is approved, we would immediately submit a building permit for the 
+Labyrinth. 
+ 
+Driveway Entrance Relocation: The proposed shift to the entrance off American Legion Drive 
+would allow for a better parking lot design as seen on the drawings. The existing entrance would 
+be removed and planted with trees. 
+ 
+Parking Area: The existing parking lot is an aging expanse of asphalt. The proposal is to remove 
+all this asphalt and reconfigure the paving as shown. If budget allows, a large portion of the new 
+parking lot would  be built using porous pavers to aid in stormwater management. The parking 
+lot would also be designed to drain water to a series of bioretention areas which would further 
+treat stormwater. The end result is a parking lot with less paving and more parking, trees, and 
+environmental benefits. 
+ 
+Living Shoreline: What makes this property special is its location along Morgan Creek. We plan 
+to celebrate and enhance this special and sensitive habitat with a living shoreline. This is a 
+project within the project and would require approvals from The State along with the County. 
+This project would stabilize the undercut bank along Morgan Creek and restore native plantings 
+in the tidal zone. In addition, it allows children access to shallow water. This type of shoreline 
+stabilization is preferred over a traditional stone revetment. The construction of the living 
+shoreline may result in the relocation of water dependent access from the currently existing stairs
+
+<!-- page 50 -->
+Minary’s Dream Alliance 
+Narrative 
+Page 3 of 7 
+ 
+to the currently existing naturally graded slope to the creek. All these details would be provided 
+in a separate prepared building permit application in the future. 
+ 
+Garden: The current vegetable garden would be relocated and rotated to sit outside the 100’ 
+buffer. In the long term there would be a greenhouse built beside the garden and a storage 
+building for garden equipment. Behind the greenhouse would be composting bins to support 
+garden activities. In the garden, kids would learn how to grow their own food, generate their own 
+power, and build a garden of their own using sustainable practices. 
+ 
+At-Grade Deck: This low wooden deck (12” off the ground) would provide clean dry space for 
+outdoor classroom activities as well as outdoor performance space for something like community 
+theatre. 
+ 
+Meadows: As part of the plan to enhance and create habitat, a series of small warm season grass 
+meadows would be created throughout the property. Warm Season grass meadows provide 
+habitat for declining populations of Bobwhite Quail and provide forage for insects and nesting 
+habitat for other ground dwelling bird species. 
+ 
+Mowed Lawn: The drawings show ample area of mowed lawn to provide for freeform play and 
+activities. 
+ 
+Tree Planting: In addition to tree planting around the proposed parking lot, the drawings indicate 
+that the long-term goal is to surround the site with a forest edge to provide habitat and privacy. 
+Some areas show expanding existing forest cover.
+
+<!-- page 51 -->
+Minary’s Dream Alliance 
+Narrative 
+Page 4 of 7 
+ 
+Requirements per Land Use Ordinance Article VI, Section 5.4B 
+ 
+1. Owner/Representative 
+a. Owner: Minary’s Dream Alliance, Inc. P.O. Box 35 Denton, MD 21629 
+b. Representative: South Fork Studio Landscape Architecture 10810 Cliff Rd. 
+Chestertown, MD 21620 
+ 
+2. Street address, tax map, parcel number, and subdivision if any. 
+9155 American Legion Drive 
+Chestertown, MD 21620 
+Map 38 – Parcel 57 
+8.12 Acres 
+ 
+3. Zoning: Critical Area Residential 
+ 
+4. Current and proposed use of the property 
+Current/Previous Use: American Legion Post 36.  While operating as the American 
+Legion from 1978 until 2021, nonconforming uses were taking place and accepted by 
+Officials and citizens. 
+ 
+Proposed Use: Minary’s Dream Alliance Headquarters and offices with events such as 
+food drives, movie nights, and back-to-school giveaways taking place. They provide 
+indoor and outdoor education, teach about sustainable gardening and renewable energy, 
+and provide other community support.  
+ 
+5. An explanation of the viewshed, open space, and conservation analysis undertaken 
+during the design of the site plan 
+There are two primary viewsheds on this property. One is the view of the property from 
+Legion Drive, the other is the view of Morgan Creek from the property. To address views 
+of the property from Legion Drive, the design calls for the creation of a forested edge. 
+This forested edge will also extend up the side property lines. This will help to define the 
+property lines, improve privacy, and also create habitat for birds, mammals and insects. 
+The approach for the view of Morgan Creek is to simply conserve, maintain and celebrate 
+it. A Sacred Place with a bench will allow visitors a place to sit and enjoy the view of the 
+Creek. All existing native trees and understory vegetation will be conserved, protected 
+and expanded. Some areas of open and mowed lawn outside the 100’ Buffer will be 
+maintained as such, but other areas will see expansion of forested areas and creation of 
+native warm season grass meadows. 
+ 
+6. How the proposed development complies with the Comprehensive Plan and the design 
+and environmental standards of this Ordinance 
+a. Comprehensive Plan: Some of the activities that take place at MDA, particularly 
+outreach and education of young members of the community are in direct support 
+of the Comprehensive Plan’s section on Economy and specifically Education and 
+Training. Here, youth will learn many skills to help them enter the workforce and 
+contribute to the economy of Kent County. As is more completely described in the
+
+<!-- page 52 -->
+Minary’s Dream Alliance 
+Narrative 
+Page 5 of 7 
+ 
+next section of this narrative under Environmental Standards, the project has 
+many environmental benefits to Kent County and its tidal waters. While 
+technically not a public facility, MDA serves many similar functions and can fill 
+the gaps in services provided by other Community Facilities like Schools, 
+Libraries and Parks & Recreation facilities. In addition, these services are being 
+provided using an existing facility, preventing the need for a new development 
+project. 
+b. Environmental Standards: No new agriculture land will be created, and no 
+activities that would adversely affect Anadromous fish will be undertaken. No 
+existing trees or vegetation is proposed to be removed within the 100’ Critical 
+Area Buffer. A bench/gathering area with mulch groundcover is proposed within 
+the 100’ Buffer. A new living shoreline is the only Development Activity proposed 
+inside the buffer for the Morgan Creek waterfront. This project would stabilize the 
+shoreline, allow for the establishment of aquatic and subaquatic plants, create 
+aquatic and shoreline habitat that currently does not exist, improve water quality, 
+and provide water dependent access for the users of Minary’s Dream Alliance. 
+There are two existing accessory structures within the 100’ buffer. No expansion 
+or changes are proposed to those structures. If the proposed greenhouse and 
+garage by the relocated garden is approved, it may be possible to remove the 
+existing garage from the buffer. No forested areas are planned for development or 
+disturbance. Every effort will be made to reduce existing impervious surfaces (lot 
+coverage), but no net increase in impervious surface will happen. The current lot 
+coverage exceeds the allowed 15%, but is grandfathered at 61,482 square feet. 
+There are currently no non-tidal wetlands mapped on the project site. The only 
+slopes over 15% are within the buffer along the shoreline and will not be 
+disturbed. There is currently no Low Impact Development stormwater 
+management on the property. The proposed Master Plan calls for a newly 
+designed parking area that would use porous paving and Micro-Bioretention to 
+more effectively control both volume and quality of stormwater runoff. There  are 
+no known endangered or protected species of concern on the property. Regarding 
+sewage disposal, MDA is communicating with MDE and the Kent County health 
+Department about establishing provisions for future septic disposal area 
+expansion to comply with all current and proposed uses. 
+ 
+7. Proposed type of water and sewer service: Private Water & Sewer 
+ 
+8. Number of employees: 6 
+ 
+9. The proposed development schedule and phases of development for all proposed 
+construction 
+ 
+a. Sacred Place Sitting Area 
+b. Sacred Place: Labyrinth 
+c. Relocate existing Garden 
+d. Living Shoreline Construction 
+e. At-grade Classroom and Performance Deck
+
+<!-- page 53 -->
+Minary’s Dream Alliance 
+Narrative 
+Page 6 of 7 
+ 
+f. Greenhouse & Garage Construction 
+g. Parking Lot Reconstruction 
+ 
+10. Statement of provisions for ultimate ownership and maintenance of all parts of the 
+development including streets, structures, and open space: This is all private property 
+and this question does not pertain to the project. 
+ 
+11. The only water dependent uses in the Critical Area for this project would be the Living 
+Shoreline. See the following response related to the Living Shoreline proposal: 
+a. That the activities will not significantly alter existing water circulation patterns or 
+salinity regimes: 
+i. The living shoreline will have no impact on circulation or salinity. 
+b. That the water body upon which these activities are proposed has adequate 
+flushing characteristics in the area of development.  
+i. This shoreline is tidal with continuous water movement 
+c. That disturbance to wetlands, submerged aquatic plant beds, or other areas of 
+important aquatic habitats will be minimized.  
+i. Current water depth suggests there is very little submerged aquatic 
+vegetation. However, this will be more closely analyzed when a permit is 
+filed with MDE. Aquatic habitats will only be improved and expanded, not 
+disturbed. 
+d. That adverse impact to water quality that may occur as a result of theses 
+activities, such as non-point source runoff, sewage discharge from land activities 
+or vessels, or from boat cleaning and maintenance operations, is minimized.  
+i. Water  quality will only be improved by the Living Shoreline simply from 
+the creation of new riparian plantings alone. 
+e. That shellfish beds will not be disturbed or be made subject to discharge that will 
+render them unsuitable for harvesting.  
+i. There are no known shellfish beds that existing in Morgan Creek in front 
+of this property. 
+f. That dredging shall be conducted in a manner, and using a method, which creates 
+the least disturbance to water quality and aquatic and terrestrial habitats in the 
+area immediately surrounding the dredging operation or within the Critical Area.  
+i. No dredging is proposed 
+g. That dredge spoil will not be placed within the minimum 100-foot buffer or 
+elsewhere in that portion of the Critical Area which has been designated as a 
+Habitat Protection Area except as necessary for the following: 
+ i. Backfill for permitted shore erosion protection measures; 
+ ii. Use in approved vegetated shore erosion projects;  
+ii. Placement on previously approved channel maintenance spoils disposal 
+area iv. Beach nourishment  
+1. No dredging is proposed 
+g. That interference with the natural transport of sand will be minimized. 
+i. The Living Shoreline will be designed and constructed in a way that 
+minimizes impacts to the natural movement of sediment.
+
+<!-- page 54 -->
+Minary’s Dream Alliance 
+Narrative 
+Page 7 of 7 
+ 
+h. That in the context of existing uses, the proposed use will result in only minimal 
+individual and cumulative impact on water quality and fish, wildlife and plant 
+habitat in the Critical Area. 
+i. The proposed Living Shoreline should improve water  quality, fish, 
+wildlife and plant habitat 
+i. That the activity meets all required environmental standards 
+i. Once a final design is created, and the design goes through the permitting 
+process it will be reviewed for compliance with all required environmental 
+standards. 
+ 
+12. Critical Area density calculations based on the original parcel 
+i. The project does not involve the addition of any parcels or dwelling units 
+that would generate density 
+ 
+13. Citizen Participation Plan 
+i. To date, the planning and design process has included several design 
+charrettes open to the public and the Major Site Plan Review process will 
+also allow citizens to participate in the process. 
+ 
+ 
+In summary, the proposed improvements to the property are meant to enhance habitat, improve 
+water quality, and improve use without negatively impacting adjacent properties. 
+ 
+Thank you’re your consideration of this proposed Master Plan at 9155 American Legion Drive. 
+ 
+Sincerely, 
+ 
+ 
+ 
+D. Miles Barnard, ASLA RLA 
+ 
+Cc: 
+Doncella Wilson - Minary’s Dream Alliance 
+Vanessa Holloway-Truxon - Minary’s Dream Alliance 
+Paul Tue - Minary’s Dream Alliance 
+Kim Righi - Minary’s Dream Alliance 
+Darran Tilghman – Shorerivers 
+Neha Srinivasan – Nature Sacred 
+ 
+Attachments:  
+January 4, 2022 Order by Judge Harris P. Murphy 
+September 15, 2023 Email from MDE
+
+<!-- page 55 -->
+
+
+<!-- page 56 -->
+
+
+<!-- page 57 -->
+1
+Miles Barnard
+From:
+Brennan Greene -MDE- <brennan.greene@maryland.gov>
+Sent:
+Friday, September 15, 2023 10:30 AM
+To:
+Miles Barnard
+Cc:
+Carla Gerber; William Mackey; Erika Hercher -MDH-
+Subject:
+Re: Chestertown Project
+Hi Miles, 
+ 
+After reviewing the file, it looks like the two sand mound disposal systems were approved by John Beskid in 2019/2020 
+for a maximum of 600 gallons per day (gpd) of flow from the existing American Legion.  In 2022 the owners of Minary's 
+Dream approached the Kent County Health Department (KCHD) regarding the change in use for the establishment.  At 
+the time they were asked to provide an accurate assessment of what current usage and future plans were for the 
+establishment to get an understanding of what kind of wastewater flow would be necessary to accommodate the 
+structure. 
+ 
+MDE was brought in at the time to assist with the restrictive soils outside of the approved sewage disposal area, and we 
+had advised and requested that KCHD work with the owners to pin down the projected usage of the establishment.  To-
+date it does not seem that any projected or existing usage has been provided to the KCHD for the purposes of sizing the 
+wastewater generated by the establishment. 
+ 
+What we would be looking for at the moment is a realized wastewater flow of the current establishment.  What are the 
+operations that are occuring out of the establishment?  What are the hours of operation?  Specifically, how many people 
+are in the establishment?  How many other entities use it and how many people are in these groups?  Without changing 
+anything, what operations can be conducted there?  We know that there is a kitchen that can be utilized, but may not 
+be to the fullest extent at this point in time. 
+ 
+As for expansion, the current approved area for sewage disposal is for two sand mounds (one initial, and one 
+replacement) for 600 gpd.  We generally do not evaluate a structure or proposal before application is submitted, but the 
+Maryland Department of the Environment does have a guidance for wastewater flows for on-site systems on their 
+website that is promulgated to the Approving Authorities and the public here: 
+ 
+https://mde.maryland.gov/programs/water/BayRestorationFund/OnsiteDisposalSystems/Documents/Onsite%20Systems/
+MDEGuidanceWastewaterFlowsForDesign.pdf 
+ 
+Please note that from our brief evaluation of the site in April of 2022, that aside from the already approved sewage 
+disposal area (SDA), the soils were poor, and sensitive environmental receptors (non-tidal wetlands, open water) were 
+restrictive for placement of other areas for sewage disposal.  We had recommended that once Minary's Dream had 
+provided a definitive proposal for the existing and expansion, that they may need a third party consultant to evaluate 
+the property for potential non-conventional disposal. 
+ 
+If you have any questions regarding this, please feel free to contact me and I will try to assist as I can. 
+  
+Brennan E. Greene, L.E.H.S. 
+Sanitarian VI, Regional Consultant 
+On-Site Systems Division Wastewater Pollution Prevention and Reclamation Program  
+Water and Science Administration 
+Maryland Department of the Environment 
+1800 Washington Boulevard 
+Baltimore, Maryland 21230 (c) 410-207-7291 
+brennan.greene@ m aryland.gov 
+Website | Facebook | Twitter  
+ 
+Click here to complete a three question customer experience survey.
+
+<!-- page 58 -->
+N 23°38'34" W
+539.81'
+26.19'
+(566.00' TOTAL)
+L19
+L20
+L21
+L22
+L5
+L6
+L7
+L8
+L9
+L10
+L11
+L12
+L13
+L14
+L15
+L16
+L17
+L18
+N 66°16'16" E
+423.12'
+16.95'±
+(440.07' TOTAL)
+L1
+L2
+L3
+L4
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+4
+5
+6
+7
+8
+8
+7
+13
+12
+13
+12
+11
+11
+10
+10
+10
+12
+10
+5
+9
+8
+7
+6
+3
+MORGAN CREEK
+Ex. Main Building
+Ex.
+Garage
+Ex.
+Office
+Ex. Driveway and Parking with
+75 standard spaces &
+4 handicapped-accessible spaces
+ 100' BUFFER
+ 100' BUFFER
+Ex. Garden
+Ex. Blind
+24" Northern Red Oak
+24" Northern Red Oak
+Crabapple
+Crabapple
+Crabapple
+Crabapple
+Dogwood
+Dogwood
+Ex. Osprey Pole
+24" Red Oak
+24" Pine
+20" Pine
+36" Red Oak
+ 25' NTW
+BUFFER
+Hemlock
+FLOOD ZONE X
+FLOOD ZONE AE(EL7)
+Ex. Floating Dock and Pier
+Ex. Stairs
+NOTE: SLOPES GREATER 
+THAN 15% ALONG MOST 
+OF SHORELINE
+Ex. Septic Tank
+Edge of Ex. Canopy
+Wooded area to remain undisturbed
+Ex. Light
+15'-0"
+15' SIDE SETBACK
+50' REAR SETBACK
+50'-0"
+Ex. Entrance
+Ex. Sign
+AMERICAN LEGION DRIVE
+Ex. Well
+Ex. Flagpole
+Ex. Light
+Ex. HVAC Units
+Ex. Concrete Walkway
+Ex. Above-ground Oil Tank
+Ex. HVAC Units
+Ex. Utility Pole
+Ex. Propane Tank
+Edge of Ex. Canopy
+Wooded area to remain undisturbed
+FLOOD ZONE X
+FLOOD ZONE AE(EL7)
+LANDS OF
+ALEXANDER BURT, JR
+26910 MALLARD RD
+7.84 AC
+LOT 1 | PARCEL 57
+LANDS OF
+RUSSELL & DIANA
+FRYMIARE
+CHESMAR RD
+38,200 SF
+LOT 9 | PARCEL 57
+WdcB
+Woodstown Sandy Loam
+12% of total site
+WdcA
+Woodstown Sandy Loam
+58% of total site
+FacA
+Fallsington Sandy Loam
+17% of total site
+SacB
+Sassafras Sandy Loam
+7% of total site
+Ax
+Axis Mucky Silt Loam
+3% of total site
+Bs
+Bibb Silt Loam
+1% of total site
+KmA
+Keyport Fine Sandy Loam
+2% of total site
+0
+40
+80
+120 FT
+Pre-development Lot Coverage - Minary's Dream Alliance
+Total Land Area (SF)
+353,707 SF
+Zoning Classifications
+CAR
+Allowed Lot Coverage (15%)
+53,056 SF
+Area Description
+Ex. Main Building
+6,310 SF
+Ex. Garage
+599 SF
+Ex. Office
+420 SF
+Ex. Driveway
+52,950 SF
+Ex. Walkways and other Paving
+1,204 SF
+Total Lot Coverage
+61,482 SF
+Drawn by : DMB 
+Scale : 
+1st Issue DateL0.1
+Existing
+Conditions
+1" = 40'
+01-12-23
+10810 CLIFF ROAD 
+CHESTERTOWN, MD 21620
+410 778 1098      410 778 6848(f)
+www.southforkstudio.com
+INC. 
+LANDSCAPE  ARCHITECTURE 
+S O U T H 
+F O R K 
+S T U D I O 
+REVISIONS
+ISSUED FOR:
+Client Review
+Bid
+Permit
+Construction
+Revision
+Approval
+Coordination
+Do Not Scale the Drawing 
+Contractors to Verify Dimensions on Site
+These drawings and specifications and the ideas
+represented thereby are and shall remain the
+property of the Landscape Architect.  No part
+thereof shall be copied or used in connection with
+any work or project or by any other person for any
+purpose other than for the specific project for which
+they have been prepared and developed without
+the written consent of the Landscape Architect.
+Minary's Dream Alliance, Inc
+9155 American Legion Drive
+Chestertown, MD
+Election District 4
+E
+S
+W
+N
+LINE
+BEARING
+DISTANCE
+L1
+S 61°16'24" E
+38.22'
+L2
+S 73°06'49" E
+20.57'
+L3
+S 63°15'21" E
+38.73'
+L4
+N 88°20'41" E
+31.75'
+L5
+N 41°19'41" E
+0.91'
+L6
+S 48°40'19" E
+82.60'
+L7
+S 41°19'41" W
+6.00'
+L8
+S 27°04'26" W
+9.62'
+L9
+S 37°26'34" E
+39.06'
+L10
+S 52°47'37" E
+86.50'
+L11
+S 47°42'22" E
+84.27'
+L12
+S 45°28'35" E
+62.32'
+L13
+S 05°07'58" E
+56.00'
+L14
+S 18°34'50" W
+83.07'
+L15
+S 21°17'24" W
+72.31'
+L16
+S 36°27'56" W
+71.76'
+L17
+S 34°10'17" W
+118.46'
+L18
+N 85°39'18" W
+86.61'
+L19
+N 87°02'20" W
+73.58'
+L20
+N 89°54'56" W
+95.14'
+L21
+S 76°29'30" W
+114.72'
+L22
+S 40°24'28" W
+39.60'
+KENT COUNTY PLANNING COMMISSION CHAIR
+DATE
+APPROVED:
+Ex. Tree to remain
+Proposed Tree
+MV
+Existing 1' Contour
+Property Line
+25
+Electric
+Propane
+E
+P
+Sewer
+S
+Telephone
+T
+Water
+W
+LEGEND
+Setback
+Flood Boundary
+Soil Boundary
+Mean High Water Line
+Ex. Tree Canopy
+SITE LOCATION
+VICINITY MAP
+NTS
+03-01-23
+Design Questionaire
+03-29-23
+Steering Comm. #2
+08-30-23
+Site Plan Review
+REVIEWED FOR KENT SOIL AND WATER CONSERVATION 
+DISTRICT AND MEETS TECHNICAL REQUIREMENTS
+KENT SOIL AND WATER CONSERVATION DISTRICT
+                       DATE
+KENT SOIL & WATER CONSERVATION DISTRICT RESERVES THE RIGHT TO ADD, 
+DELETE, MODIFY OR OTHERWISE ALTER THE SEDIMENT CONTROL PROVISIONS 
+OF THIS PLAN IN THE EVENT ADDITIONAL PROTECTION BECOMES NECESSARY.
+HEALTH DEPARTMENT APPROVING AUTHORITY
+DATE
+APPROVED:
+Property Information:
+9155 American Legion Drive
+Chestertown, MD 21620
+Map 38  Grid 3A  Parcel 57
+8.12 Acres
+County: Kent
+Election District 4, Precinct 1
+09-26-23
+Planning Commission
+1
+Proposed Land Use Diagram
+Scale: 1" = 80'-0"
+Public or Private Park, per Article V,
+Section 5, §5.2, #7 of the LUO
+LAND USE KEY
+Existing Primitive Campground and Picnic Area
+Garden, Greenhouse and Garden Storage
+Living Shoreline / Public or Private Park  
+Existing Building - Nonconforming
+Accessory off-street Parking, per Article V,
+Section 5, §5.4, #2 of the LUO
+A1
+A2
+NOTE: Structures A1 and A2 are Existing Accessory Structures, 
+per Article V, Section 5, §5.3, #3 of the LUO
+Garden/Greenhouse and 
+Garden Storage
+Sacred Place - Sitting Area
+Sacred Place - Labyrinth
+Living
+Shoreline
+Outdoor
+Classroom/Performance
+Ex. Building
+Parking
+Existing Primitive
+Campground and
+Picnic Area
+Tent camping only by
+private groups
+12-29-23
+Planning Commission
+
+<!-- page 59 -->
+EX. MAIN BUILDING
+ 100' BUFFER
+20" Pine
+Hemlock
+PROPOSED RELOCATED 
+ENTRANCE WITH GATEWAY 
+ARCH, TO BE DESIGNED
+RELOCATED
+GARDEN
+Future
+Garden
+Expansion
+FUTURE 
+SEPTIC 
+EXPANSION
+AREA
+MORGAN CREEK
+KAYAK
+LAUNCH
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+12
+13
+14
+15
+16
+17
+8
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+HC1
+HC2
+HC3
+HC4
+HC5
+HC6
+Ex. Garage
+Ex. Office
+EXISTING PRIMITIVE
+CAMPGROUND AND
+PICNIC AREA
+Tent camping only by private groups
+PROPOSED FORESTED EDGE
+PROPOSED
+FORESTED EDGE
+PROPOSED FORESTED EDGE
+LABYRINTH
+(SEE L1.2)
+PROPOSED 
+MEADOW
+PROPOSED WARM SEASON GRASS MEADOW
+PROPOSED
+MEADOW
+MOWED LAWN
+MOWED LAWN
+EXISTING 
+ENTRANCE
+EXISTING SIGN
+EXISTING MHWL
+FUTURE LIVING
+SHORELINE
+EXISTING ASPHALT, TO BE REMOVED
+EXISTING ASPHALT, TO BE REMOVED
+EXISTING GARDEN
+ 100' BUFFER
+ 100' BUFFER
+EXISTING WOODLINE
+PROPOSED WOODLINE
+PROPERTY LINE
+SACRED
+PLACE
+(SEE L1.2)
+EXISTING WOODLINE
+EXISTING WOODLINE
+AMERICAN LEGION DRIVE
+20'-0"
+20'-0"
+18'-0"
+24'-0"
+aisle
+18'-0"
+EXISTING PAVING, 
+TO REMAIN
+24'-0"
+EXISTING STEPS
+EXISTING DOCK
+PROPOSED PAVING
+PROPOSED 6' WIDE
+MULCH PATH
+PROPOSED
+BIORETENTION
+AREAS
+LANDS OF
+ALEXANDER BURT, JR
+26910 MALLARD RD
+7.84 AC
+LOT 1 | PARCEL 57
+LANDS OF
+RUSSELL & DIANA FRYMIARE
+CHESMAR RD
+38,200 SF
+LOT 9 | PARCEL 57
+FLOOD ZONE X
+FLOOD ZONE AE(EL7)
+FLOOD ZONE X
+FLOOD ZONE AE(EL7)
+0
+30
+60
+90 FT
+EX. WELL
+PROPOSED TREE
+EXISTING TREE
+PROPOSED
+AT-GRADE DECK
+FOR OUTDOOR
+CLASSROOM
+AND
+PERFORMANCE
+PROPOSED
+GARAGE
+PROPOSED
+GREEN
+HOUSE
+Dogwood
+Dogwood
+PROPOSED 
+4' WIDE PATH
+Drawn by : DMB 
+Scale : 
+1st Issue DateL1.0
+Master
+Plan
+1" = 30'
+01-12-23
+10810 CLIFF ROAD 
+CHESTERTOWN, MD 21620
+410 778 1098      410 778 6848(f)
+www.southforkstudio.com
+INC. 
+LANDSCAPE  ARCHITECTURE 
+S O U T H 
+F O R K 
+S T U D I O 
+REVISIONS
+ISSUED FOR:
+Client Review
+Bid
+Permit
+Construction
+Revision
+Approval
+Coordination
+Do Not Scale the Drawing 
+Contractors to Verify Dimensions on Site
+These drawings and specifications and the ideas
+represented thereby are and shall remain the
+property of the Landscape Architect.  No part
+thereof shall be copied or used in connection with
+any work or project or by any other person for any
+purpose other than for the specific project for which
+they have been prepared and developed without
+the written consent of the Landscape Architect.
+Minary's Dream Alliance, Inc
+9155 American Legion Drive
+Chestertown, MD
+Election District 4
+E
+S
+W
+N
+Not for
+Construction
+Pre-development Lot Coverage - Minary's Dream Alliance
+Total Land Area (SF)
+353,707 SF
+Zoning Classifications
+CAR
+Allowed Lot Coverage (15%)
+53,056 SF
+Area Description
+Ex. Main Building
+6,310 SF
+Ex. Garage
+599 SF
+Ex. Office
+420 SF
+Ex. Driveway
+52,950 SF
+Ex. Walkways and other Paving
+1,204 SF
+Total Lot Coverage
+61,482 SF
+Post-Development Lot Coverage - Minary's Dream Alliance
+Total Land Area (SF)
+353,707 SF
+Zoning Classifications
+CAR
+Allowed Lot Coverage (%)
+53056 SF
+Pre-Development Lot Coverage
+61482 SF
+Area Description
+Ex. Main Building
+6310 SF
+Ex. Garage
+599 SF
+Ex. Office
+420 SF
+Ex. Walkways and other Paving to Remain
+797 SF
+Proposed Driveway
+46492 SF
+Proposed Walkways
+3191 SF
+Proposed Labyrinth
+1197 SF
+Proposed Greenhouse and Garage
+2466 SF
+Total Lot Coverage
+61472 SF
+Lot Coverage Change
+-10 SF
+Ex. Tree to remain
+Proposed Tree
+MV
+Existing 1' Contour
+Property Line
+25
+Electric
+Propane
+E
+P
+Sewer
+S
+Telephone
+T
+Water
+W
+LEGEND
+Setback
+Flood Boundary
+Soil Boundary
+Mean High Water Line
+Ex. Tree Canopy
+Proposed Tree Canopy
+Proposed Planting Bed
+Proposed Bioretention
+Proposed Lawn
+Proposed Warm 
+Season Meadow
+Proposed Walkways
+Proposed Driveway
+Existing, to be removed
+REVIEWED FOR KENT SOIL AND WATER CONSERVATION 
+DISTRICT AND MEETS TECHNICAL REQUIREMENTS
+KENT SOIL AND WATER CONSERVATION DISTRICT
+                       DATE
+KENT SOIL & WATER CONSERVATION DISTRICT RESERVES THE RIGHT TO ADD, 
+DELETE, MODIFY OR OTHERWISE ALTER THE SEDIMENT CONTROL PROVISIONS 
+OF THIS PLAN IN THE EVENT ADDITIONAL PROTECTION BECOMES NECESSARY.
+Property Information:
+9155 American Legion Drive
+Chestertown, MD 21620
+Map 38  Grid 3A  Parcel 57
+8.12 Acres
+County: Kent
+Election District 4, Precinct 1
+03-01-23
+Design Questionaire
+03-29-23
+Steering Comm. #2
+08-30-23
+Site Plan Review
+KENT COUNTY PLANNING COMMISSION CHAIR
+DATE
+APPROVED:
+HEALTH DEPARTMENT APPROVING AUTHORITY
+DATE
+APPROVED:
+CONSTRUCTION PHASING FOR 
+PROPOSED IMPROVEMENTS
+1.
+SACRED PLACE
+2.
+LABYRINTH
+3.
+RELOCATED GARDEN
+4.
+LIVING SHORELINE
+5.
+AT-GRADE DECK
+6.
+GREENHOUSE & GARAGE
+7.
+PARKING LOT
+09-26-23
+Planning Commission
+12-14-23
+Planning Commission
+12-29-23
+Planning Commission
+
+<!-- page 60 -->
+Proposed Mulch Path
+6'-0"
+Proposed Mulch Path to Garden
+Existing Garden
+Proposed Garden
+1 - 1.5 ton Seating Boulders
+Nature Sacred Bench
+Mulch Walking Surfaace
+1-2 Ton Entrance Boulder
+Native Shrub Planting with Native 
+Ferns and Groundcover
+Bench Swing hung from 
+Tree Branch
+Edge of Brush
+Top of Bank
+MHWL
+Ex. Hunting Blind, to remain
+OAK
+Native Shrub Planting with
+Native Ferns and
+Groundcover
+Morgan Creek
+SACRED PLACE
+1/4" = 1'-0"
+40'-0"
+8" dia. Log Entrance Posts
+2
+L1.2
+Drawn by : DMB 
+Scale : 
+1st Issue DateL1.2
+Detailed
+Plans
+1/4" = 1'-0"
+03-29-23
+10810 CLIFF ROAD 
+CHESTERTOWN, MD 21620
+410 778 1098      410 778 6848(f)
+www.southforkstudio.com
+INC. 
+LANDSCAPE  ARCHITECTURE 
+S O U T H 
+F O R K 
+S T U D I O 
+REVISIONS
+ISSUED FOR:
+Client Review
+Bid
+Permit
+Construction
+Revision
+Approval
+Coordination
+Do Not Scale the Drawing 
+Contractors to Verify Dimensions on Site
+These drawings and specifications and the ideas
+represented thereby are and shall remain the
+property of the Landscape Architect.  No part
+thereof shall be copied or used in connection with
+any work or project or by any other person for any
+purpose other than for the specific project for which
+they have been prepared and developed without
+the written consent of the Landscape Architect.
+Minary's Dream Alliance, Inc
+9155 American Legion Drive
+Chestertown, MD
+Election District 4
+E
+S
+W
+N
+Not for
+Construction
+LABYRINTH
+1/4" = 1'-0"
+Proposed Shade Tree
+Bench
+Path to Garden
+Path to
+Parking
+Ø 48'-0"
+ Lawn
+Proposed 
+2-ton Boulder
+ Lawn
+4'-5"
+1'-6"
+1'-6"
+Play Field
+ Lawn
+Irregular Flagstone 
+Paving
+1
+L1.2
+1
+1
+Lawn
+1 1/2" thick Irregular Flagstone, 
+hand tight joints
+2" mortar setting bed
+4" crushed and compacted CR-6 base
+Compacted subgrade
+1'-6"
+1
+Irregular Flagstone Paving
+Scale: 3/4" = 1'-0"
+2
+Nature Sacred Bench
+Scale: 3/4" = 1'-0"
+SIDE ELEVATION
+FRONT ELEVATION
+1'-0"
+1'-3"
+3'-3"
+2'-6"
+8'-0"
+3'-6"
+03-29-23
+Steering Comm. #2
+08-30-23
+Site Plan Review
+Property Information:
+9155 American Legion Drive
+Chestertown, MD 21620
+Map 38  Grid 3A  Parcel 57
+8.12 Acres
+County: Kent
+Election District 4, Precinct 1
+09-26-23
+Planning Commission

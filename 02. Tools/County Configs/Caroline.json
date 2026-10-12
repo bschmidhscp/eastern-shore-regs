@@ -1,0 +1,89 @@
+{
+  "county": "Caroline",
+  "governing_body": "Board of County Commissioners (5; commissioner form, believed code home rule - not verified)",
+  "website": "https://www.carolinemd.org",
+  "code": {
+    "host": "ecode360",
+    "id": "CA1090",
+    "root_guid": null,
+    "url": "https://ecode360.com/CA1090",
+    "part_guids": {
+      "Part I General Provisions Pertaining to Code": "11766773",
+      "Part II Organization and Administration": "11766774",
+      "Part III General Government": "11766775",
+      "Appendices I-IV": "11766776-11766779",
+      "Disposition List": "11766780"
+    },
+    "zoning_chapter": "175 (guid 8726812; website 252/Zoning-Ordinance embeds it plus attachment tables)",
+    "subdivision_chapter": "162 Subdivision of Land (guid 8726072) - separate from zoning",
+    "notes": "No 'The Code' node; print per Part works: https://ecode360.com/print/CA1090?guid=11766775 verified (3.2MB, 34 chapters incl. 162, 167 Development Impact Fees guid 35892133, 173 Water and Sewer guid 13600574, 175 Zoning). Zoning amended through Bills 2026-001/002/003 adopted 2026-03-17 (per ecode history). Chapter 175 use/parking/sign tables are separate PDF attachments (https://www.carolinemd.org/attachment/336575/CA1090-175c Table of Use Regulations.pdf style - 404 via direct fetch in test; get via ecode page links)."
+  },
+  "upload_listings": [],
+  "crawl_starts": [
+    "https://www.carolinemd.org/138/planning-codes",
+    "https://www.carolinemd.org/239/Planning-Commission",
+    "https://www.carolinemd.org/254/Board-of-Zoning-Appeals",
+    "https://www.carolinemd.org/409/Codes-Plans",
+    "https://www.carolinemd.org/654/Caroline-County-Comprehensive-Plan",
+    "https://www.carolinemd.org/323/Pending-Legislation-Public-Hearing-Notic",
+    "https://www.carolinemd.org/318/Agenda-Meeting-Info",
+    "https://www.carolinemd.org/288/Building-Permits-Zoning-Certificates",
+    "https://www.carolinemd.org/272/Major-Subdivisions",
+    "https://www.carolinemd.org/252/Zoning-Ordinance"
+  ],
+  "civicplus": {
+    "documentcenter": "https://www.carolinemd.org/DocumentCenter/View/<id>",
+    "agendacenter": "https://www.carolinemd.org/AgendaCenter",
+    "agendacenter_search": "https://www.carolinemd.org/AgendaCenter/Search/?term=&CIDs=<cat>,&startDate=&endDate=&dateRange=&dateSelector=",
+    "most_recent": "https://www.carolinemd.org/AgendaCenter/MostRecent/Planning-Commission-1-1",
+    "alias_host": "md-carolinecounty.civicplus.com"
+  },
+  "meetings": {
+    "platform": "civicplus agendacenter",
+    "host": "www.carolinemd.org",
+    "bodies": {
+      "County Commissioners": {
+        "agendacenter_category_id": 3,
+        "minutes": "AgendaCenter ViewFile/Minutes (verified _09222026-1936 200 pdf)",
+        "legislation": "https://www.carolinemd.org/323/Pending-Legislation-Public-Hearing-Notic (Legislative Bill PDFs, DocumentCenter/View/<id>, 2024-2026)"
+      },
+      "Planning Commission": {
+        "agendacenter_category_id": 1,
+        "minutes": "only agendas/packets found in AgendaCenter search (no Minutes docs) - not found",
+        "schedule": "https://www.carolinemd.org/DocumentCenter/View/11762"
+      },
+      "Board of Appeals": {
+        "agendacenter_category_id": 2,
+        "name_on_site": "Board of Zoning Appeals",
+        "minutes": "only agendas found - not found",
+        "schedule": "https://www.carolinemd.org/DocumentCenter/View/11407"
+      },
+      "Other": "Construction Trades 8, North County Water & Sewer Authority 14, Ethics 11"
+    },
+    "verified": "Commissioners minutes PDF downloads OK; PC/BZA minutes not located."
+  },
+  "documents": {
+    "zoning_ordinance": "ecode360 Chapter 175 (see code); subdivision Chapter 162",
+    "comp_plan": "https://www.carolinemd.org/DocumentCenter/View/144 (2010 Comprehensive Plan; verified 200 pdf ~5MB)",
+    "comp_plan_year": "2010; 2026 update IN PROGRESS - draft https://www.carolinemd.org/DocumentCenter/View/12407/DRAFT-PLAN-ALL-CHAPTERS (verified 200 pdf ~15MB), info page https://www.carolinemd.org/654/Caroline-County-Comprehensive-Plan",
+    "water_sewer_plan": "https://www.carolinemd.org/DocumentCenter/View/9635/2_Caroline-County-CWSP---1992-w-Amendments-11-07-2023 (verified 200 pdf ~27MB; 1992 plan with amendments through 2023-11-07)",
+    "fee_schedule": "https://www.carolinemd.org/DocumentCenter/View/12172/55_FY2027-Fee-Schedule (verified 200 pdf; FY2027, Planning & Codes department); prior: View/9644 (FY2025, verified)",
+    "impact_fees": "ecode Chapter 167 Development Impact Fees (adopted 2018-10-09, Bill 2018-2; rates calculated in 167-8 / by subarea) - separate rate schedule PDF not located",
+    "subdivision_regs": "in ecode Chapter 162 (separate from zoning)"
+  },
+  "gis": {
+    "hub": "https://gis.carolinemd.org/server/rest/services",
+    "zoning_layer": "Zoning/Zoning_2013_CC/MapServer/0 (verified ?f=json; layer named 2013 - may be stale vs. 2026 text amendments and map corrections Bill 2026-001)",
+    "sewer_service_layer": "not found (Utilities/SepticTiers_0000_CC/MapServer, Hosted/PDAs FeatureServer exist; WastewaterTreatmentPlant layer in Community_Resources; no S-category layer)",
+    "other": "Hosted/CompPlan_LandUse/FeatureServer, Cadastral/Parcels_2026_MD/MapServer, PPA_PFA/PriorityFundingArea_2025_MD/MapServer",
+    "portal": "https://gis.carolinemd.org/portal/home",
+    "fallback": "https://mdpgis.mdp.state.md.us/arcgis/rest/services/PlanningCadastre/Generalized_Zoning_2025/MapServer/0"
+  },
+  "selection": {
+    "minutes_since": "2023-10-01",
+    "appeals_since": "2016-01-01",
+    "legislation_since": "2022-01-01"
+  },
+  "verified": "2026-10-11 (scout)",
+  "notes": "Server path is /server/rest/services (not /arcgis). CivicPlus site; Planning Commission page (239) is OnBoardGOV roster. Board of Zoning Appeals page 254 has no extractable links; BZA/TAC schedule is a DocumentCenter PDF. Pending legislation page holds bills back to 2024 only. Some site docs are old http:// links."
+}

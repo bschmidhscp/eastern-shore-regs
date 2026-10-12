@@ -1,0 +1,87 @@
+{
+  "county": "Queen Anne's",
+  "governing_body": "Board of County Commissioners (5 members; commissioner form, believed code home rule - not verified)",
+  "website": "https://www.qac.org",
+  "code": {
+    "host": "ecode360",
+    "id": "QU1770",
+    "root_guid": null,
+    "url": "https://ecode360.com/QU1770",
+    "part_guids": {
+      "Part I General Provisions": "11768875",
+      "Part II County Government": "11768876",
+      "Part III Local Regulations": "11768877",
+      "Disposition List": "11768879"
+    },
+    "zoning_chapter": "18:1 (guid 7137102; Zoning and Subdivision Regulations combined; Appendix 18App Glossary guid 7143350)",
+    "subdivision_chapter": "18:1 (same chapter)",
+    "notes": "No 'The Code' node found; print per Part works: https://ecode360.com/print/QU1770?guid=11768877 verified (6.6MB, 32 chapters incl. 18:1, 18:3 Development Impact Fees guid 7143053, 24 Sanitary District/Water/Sewer guid 7131545, 28 Adequate Public Facilities guid 7134318). Chapter 18:1 amended through Ord. 25-10 (2025-08-26). Note chapter numbers use colon (18:1). Minutes archive on ecode: https://ecode360.com/QU1770/documents/Minutes (2727 items)."
+  },
+  "upload_listings": [],
+  "crawl_starts": [
+    "https://www.qac.org/234/Planning-Zoning",
+    "https://www.qac.org/396/Planning-Commission",
+    "https://www.qac.org/1618/Comprehensive-Zoning-Code-Update",
+    "https://www.qac.org/484/Comprehensive-Plans",
+    "https://www.qac.org/1139/Comprehensive-Water-Sewer-Plan",
+    "https://www.qac.org/1501/Comprehensive-Water-Sewer-Plan-other-doc",
+    "https://www.qac.org/300/Building-Fees",
+    "https://www.qac.org/630/Ordinances",
+    "https://www.qac.org/703/Resolutions",
+    "https://www.qac.org/1780/Agenda-Meeting-Documents",
+    "https://www.qac.org/240/Adequate-Public-Facilities-Ordinance",
+    "https://www.qac.org/1813/Board-of-Appeals-Agendas"
+  ],
+  "civicplus": {
+    "documentcenter": "https://www.qac.org/DocumentCenter/View/<id>",
+    "agendacenter": "https://www.qac.org/AgendaCenter",
+    "agendacenter_search": "https://www.qac.org/AgendaCenter/Search/?term=&CIDs=<cat>,&startDate=&endDate=&dateRange=&dateSelector=",
+    "viewfile": "https://www.qac.org/AgendaCenter/ViewFile/Agenda|Minutes/_<MMDDYYYY>-<id>",
+    "most_recent_pattern": "/AgendaCenter/MostRecent/<Name>-<n>",
+    "also": "https://www.qac.org/CivicAlerts.aspx, /Calendar.aspx"
+  },
+  "meetings": {
+    "platform": "civicplus agendacenter",
+    "host": "www.qac.org",
+    "bodies": {
+      "County Commissioners": {
+        "agendacenter_category_id": 4,
+        "minutes": "AgendaCenter ViewFile/Minutes (verified _09082026-2413 200 pdf); also ecode360 QU1770/documents/Minutes; also https://www.qac.org/775/Minutes---County-Commissioners",
+        "legislation": "Ordinances by year https://www.qac.org/630/Ordinances (e.g. /1837/2026-Ordinances), Resolutions https://www.qac.org/703/Resolutions (/1836/2026-Resolutions); DocumentCenter PDFs"
+      },
+      "Planning Commission": {
+        "agendacenter_category_id": 5,
+        "minutes": "NOT posted in AgendaCenter (only agendas/packets found); 2025 PC agendas also as pages /1791/Planning-Commission-Agendas; PC meeting documents monthly PDFs at https://www.qac.org/1780/Agenda-Meeting-Documents (DocumentCenter/View/<id>, e.g. October 2026 = 26604)"
+      },
+      "Board of Appeals": {
+        "agendacenter_category_id": 3,
+        "minutes": "AgendaCenter ViewFile/Minutes (verified _07152026-2378 200 pdf)",
+        "page": "https://www.qac.org/1813/Board-of-Appeals-Agendas"
+      },
+      "Other": "Staff Technical Advisory Committee 6, Economic Development Commission 9, Plumbing/HVAC Board 26"
+    },
+    "verified": "Minutes PDFs downloaded OK for BoA and Commissioners; PC minutes not found."
+  },
+  "documents": {
+    "comp_plan": "https://www.qac.org/DocumentCenter/View/17397/2022-Queen-Annes-County-Comprehensive-Plan_FINAL_links (verified 200 pdf ~33MB)",
+    "comp_plan_year": "2022; also 2022 Kent Narrows Community Plan https://www.qac.org/DocumentCenter/View/16736; 2010 plan https://www.qac.org/486/2010-Comprehensive-Plan; a Comprehensive Zoning Code Update is on https://www.qac.org/1618",
+    "water_sewer_plan": "https://www.qac.org/DocumentCenter/View/785/2011-Comprehensive-Water-and-Sewerage-Plan-CWSP---May-2011-PDF (verified 200 pdf ~19MB); amendments e.g. CWSP 11-01 https://www.qac.org/DocumentCenter/View/19503 and 11-02 /19502 listed at https://www.qac.org/1501/Comprehensive-Water-Sewer-Plan-other-doc; Sewer Allocation Policy 2023 https://www.qac.org/DocumentCenter/View/20030",
+    "fee_schedule": "building/inspection fees: https://www.qac.org/DocumentCenter/View/325 (2012 update) and 324 (2008) - all on https://www.qac.org/300/Building-Fees; a current planning/zoning fee schedule not found",
+    "impact_fees": "https://www.qac.org/DocumentCenter/View/21974/FY25-Impact-Fees (verified 200, xlsx; FY24 = View/21975, FY23 = View/21976, back to FY09 on same page; newer FY26/FY27 not listed on the page). Legal basis ecode Ch.18:3 Development Impact Fees",
+    "subdivision_regs": "in ecode Ch.18:1 (combined)"
+  },
+  "gis": {
+    "hub": "https://gis.qac.org/arcgis/rest/services/QAC_PUBLIC",
+    "zoning_layer": "QAC_PUBLIC/QAC_Planning/MapServer/0 (Zoning; fields Zone, GeneralZone, Ordinance, EffectiveDate; also 1 Growth Areas, 2 PFA, 5 Enterprise Zone, 6 Utility Scale Solar Overlay, 7 Incorporated Towns) - verified ?f=json, supports Query",
+    "sewer_service_layer": "not found in QAC_Planning/Administrative/Development/Environmental/Reference services (no S-category layer); other services include QAC_Development, QAC_Environmental, QAC_Conservation, QAC_ForestConservation",
+    "geocortex": "https://gis.qac.org/Geocortex/Essentials/Rest/sites/QAC_Development_Review_Map/map/mapservices",
+    "fallback": "https://mdpgis.mdp.state.md.us/arcgis/rest/services/PlanningCadastre/Generalized_Zoning_2025/MapServer/0"
+  },
+  "selection": {
+    "minutes_since": "2023-10-01",
+    "appeals_since": "2016-01-01",
+    "legislation_since": "2022-01-01"
+  },
+  "verified": "2026-10-11 (scout)",
+  "notes": "CivicPlus site. AgendaCenter category ids: BoCC 4, PC 5, BoA 3 (page 129 is a JS shell; use AgendaCenter/Search with CIDs). Planning Commission page (396) is an OnBoardGOV roster page with little content. Many pages redirect/shared via qac.org without www. Impact fee schedules are xlsx/PDF DocumentCenter items. County Code link on website points to ecode via custId=QU1770. QAC Comprehensive Zoning Code Update (Ch.18:1) was adopted in stages; check 18:1 history lines for effective dates."
+}

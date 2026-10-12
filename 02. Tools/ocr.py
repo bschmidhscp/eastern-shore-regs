@@ -6,6 +6,7 @@ Requires ocrmypdf (brew install ocrmypdf).
 Usage: python -I "02. Tools/ocr.py" --county Talbot [--workers 6]
 """
 import argparse
+import re
 import subprocess
 import sys
 import tempfile
@@ -42,10 +43,26 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--county", required=True)
     ap.add_argument("--workers", type=int, default=6)
+    ap.add_argument("--max-pages", type=int, default=60, help="skip non-essential scans longer than this")
+    ap.add_argument("--all", action="store_true", help="OCR everything, including packets and long scans")
     a = ap.parse_args()
-    todo = [(p, r) for p, r in read_manifest(a.county).items()
-            if "needs_ocr" in r.get("notes", "") and p.lower().endswith(".pdf")]
-    print(f"{len(todo)} scanned PDFs to OCR", flush=True)
+    import pymupdf as fitz
+    todo, deferred = [], []
+    for p, r in read_manifest(a.county).items():
+        if "needs_ocr" not in r.get("notes", "") or not p.lower().endswith(".pdf"):
+            continue
+        # Targeted OCR: always do decisions, minutes, plans, fees, code; skip meeting packets and
+        # very long scans of anything else (searchable later with --all).
+        try:
+            n = len(fitz.open(CORPUS / p))
+        except Exception:
+            n = 0
+        important = re.search(r"/(Plans|Fees|Code|Legislation)/|Decision|Minutes", p) and not re.search(r"packet", p, re.I)
+        if a.all or (important and n <= 300) or n <= a.max_pages and not re.search(r"packet", p, re.I):
+            todo.append((p, r))
+        else:
+            deferred.append((p, n))
+    print(f"{len(todo)} scanned PDFs to OCR; {len(deferred)} deferred (packets/long scans; run with --all)", flush=True)
     done, failed = [], []
     with ThreadPoolExecutor(a.workers) as ex:
         for i, (path, new, err) in enumerate(ex.map(ocr_one, todo), 1):

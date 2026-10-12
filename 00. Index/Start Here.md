@@ -23,7 +23,7 @@ Step two is comparing counties and narrowing to the best two or three.
 | What | Location | Link |
 |---|---|---|
 | Everything | `Docs + Regs/` | [folder](https://drive.google.com/drive/folders/1xlT-7qCx-VOBHL8NK7gUUAQ23kffB6Mf) |
-| Guides, search database, comparisons | `Docs + Regs/00. Index/` | [folder](https://drive.google.com/drive/folders/1Hmh04fW_U-otCfBGBq1IXts_SRcYUnGG) |
+| Guides, search database, **County Comparison** | `Docs + Regs/00. Index/` | [folder](https://drive.google.com/drive/folders/1Hmh04fW_U-otCfBGBq1IXts_SRcYUnGG) |
 | Statewide rules and map catalog | `Docs + Regs/01. Maryland/` | [folder](https://drive.google.com/drive/folders/1U2XjhPHcu4hHoiLThtfmgDpeyP2HKBsl) |
 | Map source catalog (33 layers, parcel lookup recipe) | `01. Maryland/GIS/SOURCES.md` | [folder](https://drive.google.com/drive/folders/1zGPRpFAaVTJJ-9PRVBNBJqtJKoDImFyI) |
 | Scripts | `Docs + Regs/02. Tools/` | [folder](https://drive.google.com/drive/folders/172WAqBPpqKkTDGqbKkT7QmDEmNVDIGGN) |
@@ -38,6 +38,8 @@ Each county folder has the same layout:
 <County>/
   00. Summary.md   layer-1 summary for small subdivisions (start here for a county)
   01. Digests/     one-line-per-item tables (legislation, PC actions, appeals, council, pre-apps)
+                   + Key Metrics.json (feeds the County Comparison)
+  02. Coverage Report.md   what was found / missing for this county
   Code/            county code, one markdown file per section (e.g. Chapter 190/190-36.md);
                    each chapter folder has "00. Contents.md" (outline) and "00. History.md";
                    "Code/00. Amendments Not Yet in Code.md" lists newer bills to read alongside
@@ -95,6 +97,19 @@ The repo is public: never commit personal emails, credentials or confidential de
   through the date stated in `Talbot/Code/00. Contents.md`; later bills live in `Originals/Legislation`.
   Fee schedules turn over every July 1.
 - After meaningful work, **add a dated entry to the Project Log** so the other person's AI stays current.
+
+## Adding or refreshing a county (pipeline)
+
+1. Config: `02. Tools/County Configs/<County>.json` (code host, website, meeting archive, key documents).
+2. Automated: `~/.venvs/esl/bin/python -I "02. Tools/run_county.py" --county <County>` — code, inventories,
+   meetings, document selection, download, text + OCR, legislation index, digest batches, coverage report,
+   search index. Progress log: `~/.cache/esl/<County>/run.log`.
+3. AI steps: Haiku digest agents per batch list (`02. Tools/Prompts/Digest Instructions.md`) →
+   `merge_digests.py`; Sonnet summary agent (`02. Tools/Prompts/County Summary Prompt.md`) writes
+   `00. Summary.md` + `01. Digests/Key Metrics.json`; then `build_comparison.py`.
+4. Review `<County>/02. Coverage Report.md`, then publish guides and sync GitHub.
+
+Cross-county comparison: `00. Index/County Comparison.md` (one column per county).
 
 ## Conventions
 
