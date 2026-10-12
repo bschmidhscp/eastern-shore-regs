@@ -1,0 +1,13489 @@
+---
+county: "Cecil"
+category: "plan"
+title: "2010-Comprehensive-Plan-PDF"
+source_url: "https://www.ccgov.org/DocumentCenter/View/2938/2010-Comprehensive-Plan-PDF"
+effective: "2010-12-31"
+retrieved: "2026-10-11"
+original: "Cecil/Originals/Plans/2010-Comprehensive-Plan-PDF.pdf"
+pages: "198"
+needs_ocr: "no"
+---
+
+# 2010-Comprehensive-Plan-PDF
+
+<!-- page 1 -->
+Cecil County 
+Comprehensive Plan 
+Adopted by the Board of County Commissioners  
+  April 13, 2010
+
+<!-- page 2 -->
+Acknowledgements 
+The Cecil County Planning Commission expresses its appreciation to the many people, agencies and 
+organizations that provided information, ideas and input for this plan. 
+Cecil County Commissioners 
+Rebecca J. Demmler 
+Robert J. Hodge 
+Brian L. Lockhart, President 
+James T. Mullin 
+Wayne L. Tome 
+ 
+Cecil County Planning Commission
+William Mortimer, Chairman 
+B. Patrick Doordan 
+Guy Edwards 
+Joe Janusz 
+Wyatt K. Wallace 
+Kennard Wiggins 
+H. Clay McDowell, Alternate 
+ 
+Office of Planning & Zoning
+ 
+Eric Sennstrom, Director 
+ 
+ 
+Anthony DiGiacomo,  
+Principal Planner 
+David R. Black,  
+GIS Coordinator 
+Jennifer Bakeoven, 
+ Administrative Assistant 
+Eric Shertz, Plan Reviewer 
+Betty Patterson, Administrative Assistant 
+ 
+Contributing County Agencies 
+Gregory Bayor, Senior 
+Services and Community 
+Transit Director 
+Richard Brooks, Director of 
+Emergency Services 
+Roy Clough, Economic 
+Development Deputy Director 
+Denise Davis, Public Library 
+Director 
+W. Scott Flanigan, Public Works 
+Director 
+Stephanie Garrity,  Cecil County 
+Health Department 
+Sheriff Barry Janney 
+Amy LePore, Department of 
+Emergency Services 
+David Mahaney, Office of 
+Housing & Community 
+Development Director 
+Nick Riccuiti, Department of 
+Social Services Director 
+Vernon Thompson, Economic 
+Development Director 
+Clyde VanDyke, Parks and 
+Recreation Director 
+Craig Whiteford, Budget Director 
+ 
+Consultant Assistance
+Environmental Resources Management, Annapolis, Maryland 
+ 
+Special thanks to Melissa Appler, Jason DuBow and John Leocha at the Maryland Department of 
+Planning, Mike Nixon at the Maryland Department of Transportation, Tony Hofmann of Michael Baker 
+Inc., Brigid Kenney and Janice Outen at the Maryland Department of the Environment, David Nemazie 
+at the University of Maryland’s Center for Environmental Science, Daniel Blevins and David Gula at the 
+Wilmington Area Planning Council, Jenel Fronheiser at Cecil College, and Gerrit Knaap of the National 
+Center for Smart Growth Research and Education at the University of Maryland
+
+<!-- page 3 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+ 
+Citizens’ Oversight Committee 
+Diane Lane, Chair, Vice President of Student Services & Institutional Effectiveness, Cecil College
+Ann Jackson * 
+Brian Bolender #³ 
+Carl Walbeck # 
+Chuck Smyser 
+Dan Derr 
+Dan Polite 
+Dan Whitehurst 
+Diana Broomell 
+Donna Deckard 
+Donna Tapley 
+Ed Cairns # 
+Eileen Butler # 
+Gary Stewart 
+Henry Shaffer * 
+Jeff Clewer * 
+John Bennett 
+John Bunnell 
+John Denver 
+John Poole¹ 
+Kennard Wiggins 
+Linda Snyder 
+Mike Pugh 
+Owen Thorne * 
+B. Patrick Doordan 
+Patricia Folk 
+Paula Gilley # 
+Phyllis Kilby 
+Randy Hutton² 
+Robert Gell * 
+Robert Hodge³ 
+Rupert Rossetti * 
+Sandra Edwards 
+Sarah Colenda * 
+Shawn Day 
+Vaughan Ellerton 
+Vernon Duckett 
+Vic Priapi 
+Vicky Strause 
+Walter Buck 
+ 
+Will Whiteman 
+ 
+ 
+* Subcommittee chair 
+# Subcommittee co-chair 
+1 Served through October 2008 
+2 Served through April 2009 
+3 Served through May 2009 
+ 
+Citizens’ Oversight Committee members contributed countless hours to the Comprehensive Plan project. 
+Their contributions to the Plan were significant and should be recognized.
+
+<!-- page 4 -->
+
+
+<!-- page 5 -->
+
+
+<!-- page 6 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+ 
+Table of Contents 
+1 
+Introduction ........................................................................................................................................ 1-1 
+1.1 
+Legal Requirements ...................................................................................................................................... 1-1 
+1.2 
+The Plan’s Relationship with the Towns in Cecil County .............................................................................. 1-2 
+1.3 
+Plan Preparation ........................................................................................................................................... 1-2 
+1.4 
+Note on Plan Content and Appendix ............................................................................................................. 1-3 
+2. 
+Background ....................................................................................................................................... 2-1 
+2.1 
+Planning Context .......................................................................................................................................... 2-1 
+2.2 
+Location, Regional Setting, Government ...................................................................................................... 2-2 
+2.3 
+History ........................................................................................................................................................... 2-2 
+2.4 
+Planning History ............................................................................................................................................ 2-5 
+2.5 
+Related Plans and Documents ..................................................................................................................... 2-5 
+2.6 
+Cecil County’s Future.................................................................................................................................... 2-6 
+3. 
+Land Use ........................................................................................................................................... 3-1 
+3.1 
+Goals and Objectives .................................................................................................................................... 3-1 
+3.2 
+Land Use and Development Trends ............................................................................................................. 3-1 
+3.3 
+Proposed Land Use ...................................................................................................................................... 3-6 
+3.4 
+Defining Growth and Rural Areas ................................................................................................................. 3-9 
+3.5 
+Land Use Categories .................................................................................................................................. 3-11 
+3.6 
+Land Use Issues ......................................................................................................................................... 3-21 
+3.7 
+Policies and Actions .................................................................................................................................... 3-28 
+4. 
+Economic Development ..................................................................................................................... 4-1 
+4.1 
+Goals and Objectives .................................................................................................................................... 4-1 
+4.2 
+Overview ....................................................................................................................................................... 4-1 
+4.3 
+Discussion of Issues ................................................................................................................................... 4-16 
+4.4 
+Fisheries ..................................................................................................................................................... 4-20 
+4.5 
+Policies and Actions .................................................................................................................................... 4-21 
+5. 
+Transportation Element ..................................................................................................................... 5-1 
+5.1 
+Goals and Objectives .................................................................................................................................... 5-1 
+5.2 
+Roads ........................................................................................................................................................... 5-2 
+5.3 
+Transit ......................................................................................................................................................... 5-14 
+5.4 
+Bicycle and Pedestrian Facilities ................................................................................................................ 5-16 
+5.5 
+Other Transportation Facilities .................................................................................................................... 5-19 
+5.6 
+Policies and Actions .................................................................................................................................... 5-21 
+6. 
+Water Resources Element................................................................................................................. 6-1 
+6.1 
+Introduction ................................................................................................................................................... 6-1 
+6.2 
+Goals and Objectives .................................................................................................................................... 6-1 
+6.3 
+Background ................................................................................................................................................... 6-1 
+6.4 
+Drinking Water Assessment .......................................................................................................................... 6-3 
+6.5 
+Wastewater Assessment ............................................................................................................................ 6-14 
+6.6 
+Programmatic Assessment of Stormwater Policies .................................................................................... 6-25 
+6.7 
+Total Nutrient Loads ................................................................................................................................... 6-28 
+6.8 
+Policies and Actions .................................................................................................................................... 6-33
+
+<!-- page 7 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+ 
+7. 
+Sensitive Areas .................................................................................................................................. 7-1 
+7.1 
+Goals and Objectives .................................................................................................................................... 7-1 
+7.2 
+Description of Sensitive Areas ...................................................................................................................... 7-2 
+7.3 
+Discussion of Issues ..................................................................................................................................... 7-8 
+7.4 
+Policies and Actions .................................................................................................................................... 7-16 
+8. 
+Community Facilities ......................................................................................................................... 8-1 
+8.1 
+Goals and Objectives .................................................................................................................................... 8-1  
+8.2 
+Primary and Secondary Education ............................................................................................................... 8-1  
+8.3 
+Higher Education .......................................................................................................................................... 8-6 
+8.4 
+Parks and Recreation ................................................................................................................................... 8-7 
+8.5 
+Cultural Facilities .......................................................................................................................................... 8-8 
+8.6 
+Fire and Emergency Services ....................................................................................................................... 8-8 
+8.7 
+Law Enforcement (Police) ........................................................................................................................... 8-12 
+8.8 
+Information Technology .............................................................................................................................. 8-13 
+8.9 
+Health Care ................................................................................................................................................. 8-14 
+8.10 Solid Waste ................................................................................................................................................. 8-15 
+8.11 Public Libraries ........................................................................................................................................... 8-16 
+8.12 Policies and Actions .................................................................................................................................... 8-17 
+9. 
+Housing .............................................................................................................................................. 9-1 
+9.1 
+Goals and objectives..................................................................................................................................... 9-1 
+9.2 
+Existing conditions ........................................................................................................................................ 9-2 
+9.3 
+Housing Issues ............................................................................................................................................. 9-2 
+9.4 
+Workforce Housing Providers ....................................................................................................................... 9-6 
+9.5 
+Affordable Housing Need .............................................................................................................................. 9-7 
+9.6 
+Energy Efficient Housing Development......................................................................................................... 9-8 
+9.7 
+Policies and Actions ...................................................................................................................................... 9-8 
+10. Mineral Resources Element ............................................................................................................ 10-1 
+10.1 Goals and Objectives .................................................................................................................................. 10-1 
+10.2 Description of Mineral Resources ............................................................................................................... 10-1 
+10.3 Discussion of Issues ................................................................................................................................... 10-2 
+10.4 Policies and Actions .................................................................................................................................... 10-4 
+11. Implementation ................................................................................................................................... 11-1 
+11.1 Goals and Objectives .................................................................................................................................. 11-2 
+11.2 Tools and Approaches to Implementing the Plan ....................................................................................... 11-2 
+11.3 Smart, Green and Growing Legislation ....................................................................................................... 11-7 
+11.4 Policies and Actions .................................................................................................................................... 11-8 
+11.5 Summary of Implementation Policies and Actions ...................................................................................... 11-9
+
+<!-- page 8 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+ 
+Tables 
+Table 2.1 
+Comprehensive Plan Projections ........................................................................................................... 2-7  
+Table 2.2 
+Town and County, Population and Households, 2005,2010 and 2030 .................................................. 2-8 
+Table 2.3 
+Town and County Population and Housing, 2000, 2010, and 2030 ....................................................... 2-8 
+Table 2.4 
+Non-Residential Development, 2009 ..................................................................................................... 2-9 
+Table 2.5 
+Housing Units at Build-out ..................................................................................................................... 2-9 
+Table 3.1 
+Cecil County Land Use/Land Cover ....................................................................................................... 3-3 
+Table 3.2 
+Population, Housing Units and Households, 1990-2010 ........................................................................ 3-5 
+Table 3.3 
+Residential Building Permits Issued by Land Use District ...................................................................... 3-6 
+Table 3.4 
+Major Industrial Construction and Expansion, 2005-09 ......................................................................... 3-6 
+Table 3.5 
+Proposed Land Use ............................................................................................................................... 3-7 
+Table 3.6 
+Land Use Categories Summary ........................................................................................................... 3-20 
+Table 4.1: 
+Full Time Jobs in Cecil County and Maryland, 2008 .............................................................................. 4-3 
+Table 4.2: 
+Major Employers (not including county government) ............................................................................. 4-4 
+Table 4.3: 
+Employment and Payrolls, Cecil County, 2008 ...................................................................................... 4-5 
+Table 4.4: 
+Employment Trends, Cecil County, 2002-08 ......................................................................................... 4-6 
+Table 4.5: 
+Agricultural Economic Data ................................................................................................................. 4-11 
+Table 4.6: 
+Business/Technology Parks, 2009....................................................................................................... 4-15 
+Table 4.7: 
+Major Industrial Construction and Expansion, 2005-09 ....................................................................... 4-16 
+Table 4.8: 
+Land Available for Employment Uses .................................................................................................. 4-17 
+Table 4.9: 
+Total Fish Catch in Cecil County and Maryland, 2008 ......................................................................... 4-21 
+Table 5.1: 
+Highway Needs Inventory Projects in Cecil County ............................................................................... 5-7 
+Table 5.2: 
+Recommended Minimum Level of Service ............................................................................................ 5-9 
+Table 5.3: 
+Bicycle Improvement Needs ................................................................................................................ 5-17 
+Table 6.1: 
+Public Water System Characteristics ..................................................................................................... 6-5 
+Table 6.2: 
+Drinking Water Demand and Capacity ................................................................................................... 6-6 
+Table 6.3: 
+Water Withdrawals in Cecil County, 2000 .............................................................................................. 6-7 
+Table 6.4: 
+Public Sewer System Characteristics .................................................................................................. 6-15 
+Table 6.5: 
+Wastewater Flow and Treatment Capacity .......................................................................................... 6-17 
+Table 6.6: 
+Nutrient TMDLs for Cecil County Watersheds ..................................................................................... 6-19 
+Table 6.7: 
+Point Source Nutrient Loads ................................................................................................................ 6-20 
+Table 6.8: 
+Cecil County Nonpoint Source Nutrient Loading ................................................................................. 6-29 
+Table 6.9: 
+Cecil County Total Nutrient Loading .................................................................................................... 6-31 
+Table 6.10: Impervious Coverage ........................................................................................................................... 6-32 
+Table 7.1: 
+Protected Agricultural and Forest Lands ................................................................................................ 7-6 
+Table 7.2: 
+Priority Preservation Area Goal ........................................................................................................... 7-10 
+Table 8.1: 
+Cecil County School Capacity and Enrollment ...................................................................................... 8-2 
+Table 8.2: 
+Future School Needs, 2030 ................................................................................................................... 8-5 
+Table 8.3: 
+Cecil College Enrollment, 2005-09 ........................................................................................................ 8-6 
+Table 8.4: 
+County Hazard Risks ........................................................................................................................... 8-12 
+Table 9.1: 
+Housing Units, 2000 through 2030 ........................................................................................................ 9-1 
+Table 9.2: 
+Housing Type and Tenure, 1990 to 2000 .............................................................................................. 9-2 
+Table 9.3: 
+Median Household Income, 1999, 2005 ................................................................................................ 9-3 
+Table 9.4: 
+Monthly Housing Costs as a Percentage of Household Income ............................................................ 9-4 
+Table 9.5: 
+Units Lacking Complete Kitchen and Plumbing Facilities, 2000 ............................................................ 9-4 
+Table 9.6: 
+Housing Age .......................................................................................................................................... 9-5 
+Table 10.1: Construction Aggregate Production 2004-2007 ................................................................................... 10-1 
+Table 10.2: Permitted Mining Operations in Cecil County, 2009 ............................................................................ 10-2 
+Table 11.1: 2030 Facilities and Infrastructure Needs Cost Estimate Summary ...................................................... 11-4 
+Table 11.2: Plan Implementation .......................................................................................................................... 11-10 
+Table 11.3: 2030 Facilities and Infrastructure Needs Cost Estimate .................................................................... 11-16
+
+<!-- page 9 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+ 
+Maps 
+Map 2.1 
+Regional Context ................................................................................................................................... 2-3 
+Map 2.2 
+Regional Planning Context .................................................................................................................... 2-4 
+Map 3.1 
+Existing Land Use .................................................................................................................................. 3-2 
+Map 3.2 
+Priority Funding Areas and Enterprise Zones, 2009 .............................................................................. 3-4 
+Map 3.3 
+Future Land Use .................................................................................................................................... 3-8 
+Map 3.4 
+Growth and Rural Areas ...................................................................................................................... 3-10 
+Map 3.5 
+Historic Districts ................................................................................................................................... 3-27 
+Map 4.1: 
+Business/Technology Parks ................................................................................................................ 4-14 
+Map 5.1 
+Cecil County Roadway Functional Classifications ................................................................................. 5-3 
+Map 5.2 
+Average Annual Daily Traffic, 2008 ....................................................................................................... 5-5 
+Map 5.3 
+AADT Trends, 1998-2008 ...................................................................................................................... 5-6 
+Map 5.4 
+2030 Evening Peak Hour LOS ............................................................................................................... 5-8 
+Map 5.5 
+Recommended Road System Improvements ...................................................................................... 5-11 
+Map 6.1 
+Watersheds in Cecil County .................................................................................................................. 6-2 
+Map 6.2 
+Water Service Areas in Cecil County ..................................................................................................... 6-4 
+Map 6.3 
+Proposed Wellhead Protection Areas .................................................................................................. 6-13 
+Map 6.4 
+Sewer Service Areas in Cecil County .................................................................................................. 6-16 
+Map 6.5 
+Tier II Waters in Cecil County .............................................................................................................. 6-21 
+Map 7.1 
+Wetlands and Floodplains ..................................................................................................................... 7-3 
+Map 7.2 
+Protected Agricultural and Forest Land ................................................................................................. 7-7  
+Map 7.3 
+Priority Preservation Areas .................................................................................................................. 7-11  
+Map 7.4 
+Strategic Forest Lands Assessment, Vulnerability Ranking ................................................................. 7-13  
+Map 7.5 
+Strategic Forest Lands Assessment, Economic Ranking .................................................................... 7-13  
+Map 8.1 
+Educational Facilities ............................................................................................................................. 8-4  
+Map 8.2 
+Community Facilities ............................................................................................................................ 8-10 
+Map 10.1 
+Permitted Mining Operations in Cecil County 2009 ............................................................................. 10-3  
+ 
+Figures 
+Figure 5.1 
+Conceptual US 40 Cross Sections....................................................................................................... 5-12 
+Figure 5.2 
+East Coast Greenway .......................................................................................................................... 5-18 
+Figure 5.3 
+Imaginary Surfaces for Airports ........................................................................................................... 5-20 
+Figure 7.1 
+Hubs and Corridors .............................................................................................................................. 7-14 
+Figure 8.1 
+CCPS Feeder System ........................................................................................................................... 8-3 
+ 
+Appendices 
+Appendix 1 1990 Comprehensive Plan Map ............................................................................................................... 1 
+Appendix 2 COC Meeting Minutes and plan-related materials .................................................................................... 2 
+Appendix 3 Build-out Analysis Materials ...................................................................................................................... 3 
+Appendix 4 Water Resources Element Supplementary Materials ............................................................................... 4
+
+<!-- page 10 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+ 
+Acronyms  
+Acronym 
+Meaning 
+ 
+APFO 
+Adequate Public Facilities 
+Ordinance 
+ATK 
+ 
+Alliant Techsystems 
+BI 
+Business – Intensive zoning 
+district  
+BAT 
+ 
+Best Available Technology  
+BMPs  
+Best Management Practices  
+BRAC  
+Base Reallocation and Closure 
+BTRC 
+Business Training Resource 
+Center  
+CCDES 
+Cecil County Department of 
+Emergency Services  
+CCEMS 
+Cecil County Emergency 
+Medical Services 
+CCPL  
+Cecil County Public Library  
+CCPS  
+Cecil County Public Schools  
+C&D  
+Chesapeake and Delaware 
+Canal  
+COC 
+ 
+Citizen Oversight Committee 
+COG 
+ 
+Council of Governments  
+COMAR 
+Code of Maryland Regulations 
+CSSC 
+Chesapeake Science and 
+Security Corridor 
+DBED 
+Maryland Department of 
+Business and Economic 
+Development 
+DNR 
+Maryland Department of Natural 
+Resources 
+DPW 
+Cecil County Department of 
+Public Works 
+EDU 
+ 
+Equivalent Dwelling Unit 
+EMS 
+ 
+Emergency Medical Services  
+ENR 
+ 
+Enhanced Nutrient Removal 
+EOP 
+ 
+Emergency Operations Plan 
+EPA 
+Environmental Protection 
+Agency 
+ESD 
+Environmentally Sensitive 
+Design 
+GPD 
+ 
+Gallons per Day 
+LPPRP 
+Land Preservation Parks and 
+Recreation Plan 
+M1/M2 
+Light/Heavy Industrial zoning 
+districts 
+MALPF 
+Maryland Agricultural Land 
+Preservation Foundation 
+MDA 
+Maryland Department of 
+Agriculture  
+MDE 
+Maryland Department of the 
+Environment 
+MDP 
+Maryland Department of 
+Planning 
+MGD 
+ 
+Millions of Gallons Per Day 
+MGE 
+ 
+Municipal Growth Element  
+MGS 
+ 
+Maryland Geological Survey 
+MHT 
+ 
+Maryland Historical Trust 
+MRA 
+ 
+Maryland Recycling Act  
+MSBDC 
+Maryland Small Business 
+Development Center Network 
+NAR  
+Northern Agricultural Residential 
+zoning district 
+NHA 
+ 
+National Heritage Areas 
+OS 
+Open Space zoning district 
+OSDS 
+Onsite Sewage Disposal 
+Systems  
+PDR 
+Purchase of Development 
+Rights 
+PFA 
+ 
+Priority Funding Area 
+PPA 
+ 
+Priority Preservation Area 
+PPE 
+ 
+Personal Protective Equipment 
+PUD 
+ 
+Planned Unit Development 
+RLA 
+ 
+Rural Legacy Areas 
+RTE 
+Rare, Threatened, and 
+Endangered (species)
+
+<!-- page 11 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+ 
+SAR 
+Southern Agricultural 
+Residential zoning district 
+SBDC  
+Small Business Development 
+Center  
+SCBA 
+Self Contained Breathing 
+Apparatus  
+SFLA 
+Strategic Forest Lands 
+Assessment 
+SR 
+Suburban Residential zoning 
+district 
+SRBC 
+Susquehanna River Basin 
+Commission  
+STEM 
+Science, Technology, 
+Engineering and Math 
+(programs) 
+TDR 
+ 
+Transfer of Development Rights 
+TIF 
+ 
+Tax Increment Financing 
+TMDL  
+Total Maximum Daily Load  
+TN 
+ 
+Total Nitrogen  
+TP 
+ 
+Total Phosphorus  
+USGS  
+US Geological Survey  
+WILMAPCO 
+Wilmington Area Planning 
+Council  
+WMA 
+ 
+Wildlife Management Area 
+WRE 
+ 
+Water Resources Element  
+WSSC 
+Wetlands of Special State 
+Concern 
+WWTP  
+Wastewater Treatment Plant
+
+<!-- page 12 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+1-1 
+1 
+Introduction  
+This 2010 Comprehensive Plan (the Plan) serves as the policy guide and framework for 
+future growth and development in Cecil County.  The Plan examines land use, water 
+resources (including drinking water, wastewater, and stormwater), transportation, public 
+facilities (including police, emergency services, schools, parks, and libraries), economic 
+development, housing, environmentally sensitive areas, mineral resources, and other natural 
+resources.   
+The Plan’s “horizon” is the year 2030, meaning that the Plan looks at growth and 
+development out over the next 20 years.  Amendments to the Plan can be made at any time.  
+However, under state law, the County must review the Plan at least every six years.  The 
+next review should begin in 2016 and may result in adjustments or changes to the Plan. 
+This Comprehensive Plan replaces the current County Comprehensive Plan, which was 
+adopted in 1990 and amended in 2006.   Each chapter of the Plan contains goals and 
+objectives, a review of background and trends, a discussion of issues, and recommended 
+policies and actions.  
+1.1 
+Legal Requirements 
+This Plan has been prepared pursuant to State enabling legislation and the requirements for 
+Maryland counties contained in Article 66-B of the Annotated Code of Maryland.  Article 66-B 
+has been amended several times in recent years to include new requirements for 
+comprehensive plans, including a water resources element, a priority preservation area 
+element and a workforce housing element. This Plan has been prepared to meet these 
+requirements.   
+In 2009, as part of Smart, Green and Growing Legislation, the General Assembly replaced 
+the State’s eight planning visions with 12 new ones. These new visions are the State’s land 
+use policy, and local jurisdictions are required to incorporate the visions into their 
+comprehensive plans and implement them through the zoning ordinance and other 
+regulations:  
+1. Quality of Life and Sustainability: A high quality of life is achieved through universal 
+stewardship of the land, water and air, resulting in sustainable communities and 
+protection of the environment; 
+2. Public Participation: Citizens are active partners in the planning and implementation of 
+community initiatives and are sensitive to the responsibilities in achieving community 
+goals; 
+3. Growth Areas: Growth is concentrated in existing population and business centers, 
+growth areas adjacent to these centers, or strategically selected new centers; 
+4. Community Design: Compact, mixed-use, walkable design consistent with existing 
+community character and located near available or planned transit options is encouraged 
+to ensure efficient use of land and transportation resources and preservation and 
+enhancement of natural systems, open spaces, recreational areas, and historical, cultural 
+and archeological resources; 
+5. Infrastructure: Growth areas have the water resources and infrastructure to 
+accommodate population and business expansion in an orderly, efficient, and 
+environmentally sensitive manner; 
+6. Transportation: A well-maintained, multimodal transportation system facilitates the safe, 
+convenient, and efficient movement of people, goods and services within and between 
+population and business centers; 
+7. Housing: A range of housing densities, types and sizes provides residential options for 
+citizens of all ages and incomes;
+
+<!-- page 13 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+1-2 
+8. Economic Development: Economic development and natural resource-based businesses 
+that promote employment opportunities for all income levels within the capacity of the 
+State’s natural resources, public services, and public facilities, are encouraged; 
+9. Environmental Protection: Land and water resources, including the Chesapeake and 
+coastal bays, are carefully managed to restore and maintain healthy air and water, 
+natural systems and living resources; 
+10. Resource Conservation: Waterways, forests, agricultural areas, open space, natural 
+systems, and scenic areas are conserved; 
+11. Stewardship: Government, business entities and residents are responsible for the 
+creation of sustainable communities by collaborating to balance efficient growth with 
+resource protection; and 
+12. Implementation: Strategies, policies, programs and funding for growth and development, 
+resource conservation, infrastructure and transportation are integrated across the local, 
+regional, state and interstate level to achieve these visions. 
+1.2 
+The Plan’s Relationship with the Towns in Cecil County 
+Cecil County contains the incorporated towns of Cecilton, Charlestown, Chesapeake City, 
+Elkton, North East, Perryville, Port Deposit and Rising Sun.  Under state law, the towns have 
+their own planning authority and adopt their own comprehensive plans.  In that sense the 
+County Plan does not apply to the towns.  However, interjurisdictional coordination is 
+important, and the County coordinated the development of the Plan with the towns, most of 
+which have been updating their own comprehensive plans concurrent with the County Plan.  
+Once adopted, the County should continue to work closely with the towns on all issues that 
+affect county objectives as set forth in the County Plan.  This will help insure the success of 
+the County Plan, particularly in regards to residential and business growth, infrastructure, and 
+transportation.  Changes to this plan or to any of the town’s plans need to be seriously 
+coordinated between all appropriate parties 
+1.3 
+Plan Preparation 
+The Plan was prepared for the Cecil County Board of County Commissioners by the Cecil 
+County Planning Commission.  The Planning Commission was assisted by staff from the 
+Cecil County Office of Planning and Zoning and several other County departments and 
+agencies.  The Maryland Departments of Planning (MDP), Transportation (MDOT), Natural 
+Resources (DNR), and the Environment (MDE) each provided technical assistance and 
+contributed data used in the Plan.  Staff from the Wilmington Area Planning Council 
+(WILMAPCO) and the National Center for Smart Growth Research and Education at the 
+University of Maryland also contributed to the process. 
+To assist the Planning Commission, the 
+Board of County Commissioners 
+appointed a 41-member Citizens’ 
+Oversight Committee (COC), representing 
+varied elements of the County’s general 
+population, to work with the Office of 
+Planning and Zoning.  The Board of 
+County Commissioners charged the COC 
+with the responsibilities to select a 
+consulting firm to help develop and draft 
+the Plan, provide ongoing feedback to 
+staff and the consultant to ensure that the 
+views and perspectives of Cecil County’s 
+citizens were represented in the Plan, and 
+to submit a recommended plan to the 
+Planning Commission.  Individual COC 
+The COC was made up of 41 representatives.
+
+<!-- page 14 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+1-3 
+members are listed on the inside cover of this document.  
+Between December 2007 and October 2009, the COC met as a full committee and in seven 
+subcommittees (Agriculture Preservation and Minerals, Economic Development, Housing, 
+Land Use, Public Services, Infrastructure and Transportation, and Water Resources) at 
+dozens of meetings, developing goals and objectives and contributing to, discussing and 
+refining the Plan’s policies and action items.  The COC sponsored two forums early in the 
+process to discuss regional and local issues with representatives of adjacent jurisdictions and 
+the towns.  The subcommittees gathered information and met with representatives of County, 
+state and regional agencies to understand the planning issues facing the County. The COC 
+also hosted a countywide public forum in July 2009 on a Concept Plan containing the 
+Comprehensive Plan’s major recommendations.  In all, COC members contributed countless 
+hours to the project.  Their contributions to this Plan were significant and should be 
+recognized. 
+Minutes of COC meetings and plan-related materials are included as an appendix to the 
+Comprehensive Plan. 
+1.4 
+Note on Plan Content, Recommendations and Appendix 
+The Comprehensive Plan contains goals, objectives, policies and action items that the 
+County will consider as it works to implement the plan.  In this context, these terms are 
+defined as follows: 
+• 
+Goals define a set of broad desired outcomes that the County wants to achieve through 
+this plan;  
+• 
+Objectives are more specific desired outcomes and/or ways to measure them;   
+• 
+Policies describe the County’s position on planning issues.  Policies help guide the 
+County’s decision makers on how to achieve the Plan’s goals and objectives; and 
+• 
+Action items are the specific steps that should be undertaken to implement the goals, 
+objectives, and policies.   
+Because the distinction between goals and objectives can be subtle, they have been 
+combined in each plan chapter.  Policies and actions also are combined. 
+The Comprehensive Plan is not law in the same sense, for example, as the zoning ordinance. 
+The Comprehensive Plan is adopted by resolution and not by ordinance, and, as stated 
+above, it is a policy guide.  Nevertheless, the Plan does carry significant weight.  The basic 
+objective of the Zoning Ordinance, for example is to implement the Comprehensive Plan.   A 
+number of related plans and programs such as the Master Water and Sewer Plan, and the 
+Land Preservation, Parks, and Recreation Plan must be consistent with the Comprehensive 
+Plan. 
+A large volume of data and information was used to prepare this Plan. To keep the Plan to a 
+manageable length and size, the main text contains the key points, data, maps, figures, 
+conclusions, policies and recommendations.   
+Supporting documents, reports, data and memoranda are in the appendix to this plan which 
+is available in electronic format from the Cecil County Office of Planning and Zoning, which 
+also has paper copies.
+
+<!-- page 15 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+ 
+2-1 
+2 
+Background and Challenges 
+2.1 
+Planning Context 
+A comprehensive plan is a major undertaking and one of the chief powers exercised by local 
+government involving a top-to-bottom review of land use and development policies.  When 
+communities are stable, a comprehensive plan may reflect the status quo.  However, during 
+periods of rapid change, a comprehensive plan can “define” a county’s future and set a 
+course for generations to come.  Cecil County is facing change, and the 2010 
+Comprehensive Plan, arguably, will be the fundamentally defining plan for Cecil County.  
+Cecil County is on the cusp of significant change.  After years of relatively slow growth, the 
+County is projected to grow by almost 50 percent –more than 51,000 residents – between 
+2010 and 2030.  This would be the fastest growth rate among Maryland counties and is a 
+rapid rate of change for a county still predominantly rural and known for its rural character. 
+Part of the reason is economic; Cecil County is on the edge of the growing Philadelphia, 
+Wilmington and Baltimore metropolitan regions.  The amount of land available for 
+development in these areas is shrinking, increasing development pressure in “edge” areas 
+like Cecil County.  At the same time, Cecil County has a significant supply of developable 
+land and benefits from a transportation system that provides access from the County to jobs 
+throughout central Maryland, Delaware, southeastern Pennsylvania and Washington D.C., as 
+well as to jobs in the County for commuters from other jurisdictions. 
+Other sources of change are expected to affect the County.  The Department of Defense’s 
+Base Realignment and Closure (BRAC) program is expected to bring approximately 8,200 
+jobs to the Aberdeen Proving Ground in Harford County resulting in almost 28,000 direct, 
+indirect and induced jobs on and within 40 miles of the base.  Cecil County’s 2007 BRAC 
+Action Plan estimated that five percent of these jobs were likely to locate in the County 
+resulting in additional household and population growth.  The study estimated that Cecil 
+County would get about 12 percent of the projected population growth – or more than 5,000 
+residents – associated with BRAC.  This growth alone will have impacts on transportation, 
+workforce development, land use/infrastructure, and education. 
+Economic development efforts cannot be limited to the spinoffs of BRAC.  The County must 
+pay careful attention to job creation so it does not become a bedroom community for other 
+counties.  Cecil County’s ratio of jobs to households has been lower than its neighbors, and 
+residential growth must be balanced with expansions of employment and commercial 
+development to sustain the County’s economic health and support the maintenance and 
+expansion of public infrastructure.  Moderately-priced housing is needed for a balanced 
+community, but tends not to “pay for itself,” in terms of yielding sufficient tax revenue to pay 
+for the service demands it creates, especially for schools, roads, and parks.  Economic 
+development, therefore, is central to the County’s fiscal health.   
+Infrastructure, primarily water and sewer, has been an issue in the County for many years.  
+Fragmented infrastructure service has slowed the pace of development in the county’s 
+designated growth areas, and has, in part, accelerated development into the county’s 
+northern and southern rural areas.  The County is facing limitations on discharges from 
+wastewater treatment plants due to nutrient caps associated with the Chesapeake Bay 
+restoration efforts.  Within the horizon of this Plan, the County will need to implement its 
+planned and potential public water system improvements and continue to upgrade and 
+expand its wastewater treatment plants. 
+The next few years will be critical for the County’s agricultural industry and the County’s 
+agricultural land preservation goals.  The amount of farmland in Cecil County has been 
+relatively stable since the 1980s, with some fluctuations according to the Census of 
+Agriculture, but smaller farms are becoming more numerous.  Development in rural areas 
+threatens the future viability of the County’s agricultural areas. The County’s efforts to
+
+<!-- page 16 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+ 
+2-2 
+preserve rural areas must be bolstered and enhanced to ensure the long-term viability of 
+agriculture and agribusiness. 
+2.2 
+Location, Regional Setting, Government 
+Cecil County is located at the northeastern corner of Maryland and is bordered to the north by 
+Chester and Lancaster Counties in Pennsylvania, to the east by New Castle County, 
+Delaware, to the south by the Sassafras River and Kent County, to the west by the 
+Susquehanna River and Harford County, and to the southwest by the Chesapeake Bay (Map 
+2-1).   
+From a regional planning perspective Cecil County’s growth area is part of a linear growth 
+area along the I-95 and US 40 corridors in Delaware and Harford County.  To Cecil County’s 
+north, south, and west are rural lands in Chester and Lancaster Counties, PA, Kent County, 
+MD and Harford County.  Both Chester and Lancaster Counties have been experiencing 
+suburban growth from the Philadelphia metropolitan area.  To Cecil County’s east, northern 
+New Castle County is planned for mostly urban and suburban development. (Map 2-2)  
+Cecil County contains approximately 350 square miles of land and 70 square miles of water, 
+including a portion of the Chesapeake Bay.  As of 2010, the County has a population density 
+of approximately 300 people per square mile with an average household size of 2.7.  
+Cecil County has a commissioner form of government; a five-member Board of County 
+Commissioners is the County’s legislative body.  Cecil County has eight incorporated towns; 
+Cecilton, Charlestown, Chesapeake City, Elkton, North East, Perryville, Port Deposit, and 
+Rising Sun.  Elkton serves as the county seat.  All the towns except Charlestown have an 
+elected mayor and commissioners.  The Charlestown commissioners select a president. 
+2.3 
+History 
+Cecil County’s earliest inhabitants were the Toghwoghs, Minquas, Shawnase and the 
+Susquehannock American Indian tribes. The first European visitors arrived in 1608 as part of 
+John Smith’s expedition, which explored much of the Chesapeake Bay (Chesapeake Bay 
+Gateways Network 2007). A small settlement and trading post was founded on the 
+Susquehanna River in 1633 by Englishman William Clayborne. Cecil County itself was 
+founded in 1674 and was named for Cecilius Calvert, the second Lord Baltimore and founder 
+of the Maryland colony.  
+Cecil’s early development was based on 
+exports of skins, tobacco, and other 
+agricultural products, and the county was 
+historically made up of plantations, farms, 
+mills, towns and ports. The main route up 
+from Baltimore to Philadelphia in the 1800s, 
+known as the Post Road, ran through Cecil 
+County. As a result, the County was a 
+frequent stop for colonial-era travelers such 
+as George Washington and Thomas 
+Jefferson, who stopped at places like 
+Rodgers Tavern in Perryville on their way to 
+and from Philadelphia.  
+Commerce was further improved by 
+construction of the Chesapeake and 
+Delaware (C&D) Canal, connecting the 
+Chesapeake Bay and the Delaware River. 
+The mid-18
+th century Rodgers Tavern in Perryville.
+
+<!-- page 17 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+ 
+2-3 
+The canal was completed in 1829. Today's canal is a modern, electronically controlled 
+commercial waterway, carrying approximately 8,000 commercial vessels per year, including 
+approximately 40 percent of all ship traffic in and out of the Port of Baltimore
+1.  
+Map 2.1: Regional Context 
+                                                     
+1 US Army Corps of Engineers, personal communication.
+
+<!-- page 18 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+ 
+2-4 
+Map 2.2: 
+Regional Planning Context 
+ 
+ 
+ 
+ 
+ 
+The purpose of this 
+map is to provide the 
+regional context for 
+planning within Cecil 
+County. The Cecil 
+County section of the 
+map shows the land 
+use map from the 
+County's 1990 
+Comprehensive Plan. 
+Around Cecil County 
+the map shows 
+generalized future land 
+use from the 
+comprehensive plans 
+for Harford, Kent and 
+Queen Anne's County 
+in Maryland, New 
+Castle and Kent 
+Counties in Delaware, 
+and Chester, Lancaster 
+and York Counties in 
+Pennsylvania. Each 
+County's land use map 
+categories were 
+translated into three 
+general categories: 
+rural (less than one 
+dwelling unit per acre), 
+suburban (one to eight 
+dwelling units per acre), 
+and urban (six or more 
+dwelling units per acre). 
+The map also shows 
+major cities, towns and 
+transportation facilities.
+
+<!-- page 19 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+2-5 
+2.4 
+Planning History  
+Cecil County’s first comprehensive plan, “The Master Development Plan,” was adopted in 
+August 1962.  The plan process began in 1959 when the County appointed an interim 
+Planning Commission and its first planning director.  Subsequent plans, both called the 
+“Comprehensive Plan,” were adopted in December 1974 and December 1990.  The County 
+has amended the 1990 plan several times, most recently in 2006.  This 2010 Plan is the first 
+completely new plan since 1990. 
+2.4.1 
+Zoning and Subdivision 
+The County adopted its first zoning ordinance to regulate land use in June 1962 as The 
+Master Development Plan was being finalized.  In 1976, the County adopted its first 
+subdivision ordinance to regulate the subdivision and development of land.  In 1979, the 
+County completed a comprehensive rezoning
+2 and did so again in 1993 following the 
+adoption of the 1990 Plan. 
+The eight incorporated towns in Cecil County have their own planning authority and adopt 
+their own comprehensive plans, zoning, and subdivision regulations.   
+2.5 
+Related Plans and Documents 
+The Comprehensive Plan influences and is influenced by companion plans and documents 
+that serve to implement the Plan: 
+• 
+Cecil County Zoning Ordinance  
+• 
+Cecil County Subdivision Regulations  
+• 
+Master Sewer and Water Plan (updated 2008).  This plan guides the development of 
+water supply and sewerage systems and facilities by implementing the County’s growth 
+and development policies.   
+• 
+Hazard Mitigation Plan (2006) 
+• 
+County Solid Waste Management Plan (2008) 
+• 
+Capital Budget and Capital Improvement Program.  The annual Capital Budget and 
+Improvement Program relates the goals and objectives of the Comprehensive Plan to 
+implementation.  It states which capital projects will be undertaken over the next five 
+years and how they will be funded.  The Comprehensive Plan, in turn, is important to the 
+capital budgeting process because it outlines the location of future growth and identifies 
+needed capital projects. 
+ 
+A number of other plans and studies have been conducted that the County uses to varying 
+degrees in its comprehensive planning program. 
+ 
+• 
+Cecil County Public Schools Educational Facilities Master Plan (annual) 
+• 
+Urban Growth Boundary Plan (2000) 
+• 
+Cecil County Water Resources Study (2004) 
+• 
+Surface Water Supply Study for Cecil County Designated Growth Area (2006) 
+• 
+Recommended Strategies for Cecil County relative to Maryland’s Chesapeake Bay 
+Tributary Strategy Statewide Implementation Plan (2007)  
+• 
+Land Conservation, Restoration and Management for Water Quality Benefits in Cecil 
+County, MD (2007)  
+• 
+Cecil County Economic Development Strategic Plan (2007) 
+• 
+Cecil County Growth Study (2007) 
+• 
+BRAC Action Plan (2007) 
+• 
+Road Improvement Strategic Plan (2007) 
+• 
+Cecil County Green Infrastructure Plan (2008) 
+                                                     
+2 A rezoning of all or a substantial portion of a jurisdiction.
+
+<!-- page 20 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+2-6 
+2.5.1 
+Plans Incorporated by Reference 
+In addition to the plans above, two others are particularly important, because they were 
+adopted specifically to be adjuncts to the County’s comprehensive planning program.    
+• 
+The Lower Susquehanna Heritage Greenway promotes heritage tourism and greenway 
+development in Harford and Cecil counties. Approximately one-third of the entire 45,532 
+Greenway is located in Cecil County between Conowingo dam and Perryville. The Lower 
+Susquehanna Heritage Greenway management plan was incorporated into the County's 
+Comprehensive Plan in 2001.  
+• 
+The Land Preservation Parks and Recreation Plan, 2005 (LPPRP) focuses on three 
+types of resources: parks and recreation, agricultural lands, and natural resource lands. It 
+describes these resources, evaluates how effective current programs and funding 
+sources are in improving, protecting and conserving them, and recommends where 
+changes are needed to overcome shortcomings, close gaps, and achieve goals.  
+The LPPRP and the Lower Susquehanna Heritage Greenway Management Plan are 
+appended by reference onto this 2010 Comprehensive Plan.   
+2.6 
+Cecil County’s Future 
+While the Comprehensive Plan looks out 20 years to the year 2030, the implications of the 
+Plan’s policies and action items will be felt for much longer.  Looking to the future, the County 
+must address several key growth and development issues: 
+• 
+How to attract most new growth to Growth Areas.  Achieving this longstanding County 
+goal has lagged in the past largely because of a lack of water and sewer infrastructure. 
+• 
+How to maintain a viable agricultural industry, achieve the County’s agricultural and 
+natural resource land preservation goals, and maintain the rural character that defines so 
+much of the County. 
+• 
+How to expand the number and quality of jobs and economic development opportunities. 
+• 
+How to provide and pay for the public services and facilities needed to support future 
+growth; including schools, roads, transit, parks, police, fire and emergency services, 
+health care, libraries, water and sewer, storm water, and solid waste. 
+Given the change anticipated in the County, the COC looked at population, household and 
+employment projections to 2030, as well as a longer-term view of the County at build-out.  
+Build-out, in this context, is a future point in time, perhaps in 60 to 80 years, when all (or 
+substantially all) of developable land in the County will be developed.   
+Examining build-out conditions enabled the COC to consider whether the current path of 
+planning and zoning in the County is sustainable.  It also provided insight into future 
+transportation, water resource and infrastructure needs.  Identifying future transportation 
+corridors is especially important because development can block potential road rights-of-way, 
+and thus require expensive property acquisition and retrofits if future roads must be cut 
+through existing development. 
+Considering the implications of build-out on water resources enabled to COC to examine 
+future needs for drinking water sources and approaches to wastewater disposal that may 
+require long-term planning and land-intensive technologies such as treated wastewater land 
+application or tertiary treatment wetlands.  More detail on the process of evaluating build-out 
+is presented below. 
+2.6.1 
+Existing and Projected Population, Households, Housing Units and Jobs 
+As of 2010, Cecil County’s population, including municipalities, is estimated at approximately 
+103,800, an eight percent increase over the County’s population of 96,195 in 2005 (Table 
+2.1).  This number is projected to increase to approximately 154,900 by 2030, or 49 percent.
+
+<!-- page 21 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+2-7 
+The Plan projects that approximately 80 percent of the County’s population growth (40,937 of 
+51,126 persons) between 2010 and 2030 will occur in growth areas, with the remaining 20 
+percent divided between North Rural (18 percent) and South Rural (2 percent) areas.  
+Population in the growth areas would increase by 63 percent between 2010 and 2030.   
+As of 2010, Cecil County has approximately 40,600 housing units.   This number would 
+increase to approximately 62,400 by 2030.  The number of households in the County also 
+would increase, from approximately 38,300 in 2010 to 59,100 in 2030.  The number of 
+housing units is larger than the number of households because Cecil County has an 
+approximately nine percent housing unit vacancy rate
+3. The rates of growth and geographic 
+breakdown of the change are similar to the rates of population change. 
+Table 2.1: 
+Comprehensive Plan Projections  
+Population 
+2005 
+2010 
+2020 
+2030 
+Change 2010-2030 
+Percent
+of 
+Countywide 
+Change 
+Number 
+Percent 
+Growth Areas 
+59,477 
+65,420 
+85,507 
+106,357 
+40,937 
+63% 
+80%
+North Rural 
+32,190 
+33,750 
+39,241 
+43,067 
+9,317 
+28% 
+18%
+South Rural 
+4,528 
+4,658 
+5,248 
+5,530 
+872 
+19% 
+2%
+TOTAL 
+96,195 
+103,828
+129,996
+154,954
+51,126 
+49% 
+100%
+Households 
+2005 
+2010 
+2020 
+2030 
+Change 2010-2030 
+Percent
+of 
+Countywide 
+Change 
+Number 
+Percent 
+Growth Areas 
+21,737 
+24,324 
+32,491 
+40,767 
+16,443 
+68% 
+79%
+North Rural 
+11,354 
+12,109 
+14,435 
+16,019 
+3,910 
+32% 
+19%
+South Rural 
+1,802 
+1,885 
+2,176 
+2,314 
+429 
+23% 
+2%
+TOTAL 
+34,893 
+38,318
+49,102
+59,100
+20,782 
+54% 
+100%
+Housing Units 
+2005 
+2010 
+2020 
+2030 
+Change 2010-2030 
+Percent
+of 
+Countywide 
+Change 
+Number 
+Percent 
+Growth Areas 
+23,041 
+25,783 
+34,440 
+43,213 
+17,430 
+68% 
+79%
+North Rural 
+12,035 
+12,836 
+15,301 
+16,980 
+4,145 
+32% 
+19%
+South Rural 
+1,910 
+1,998 
+2,307 
+2,453 
+455 
+23% 
+2%
+TOTAL 
+36,987 
+40,617
+52,048
+62,646
+22,029 
+54% 
+100%
+Employment 
+2005 
+2010 
+2020 
+2030 
+Change 2010-2030 
+Percent
+of 
+Countywide 
+Change 
+Number 
+Percent 
+Growth Areas 
+31,170 
+33,898 
+46,372 
+50,503 
+16,605 
+49% 
+85%
+North Rural 
+6,117 
+6,609 
+8,572 
+9,250 
+2,641 
+40% 
+14%
+South Rural 
+1,213 
+1,293 
+1,511 
+1,547 
+254 
+20% 
+1%
+TOTAL 
+38,500 
+41,800
+56,455
+61,300
+19,500 
+47% 
+100%
+Table 2.1 contains the Comprehensive Plan’s population, housing, and employment projections. The projections are 
+broken out by growth areas and rural areas.  Growth areas include the County’s eight incorporated towns, as well as 
+areas designated as growth areas on the Future Land Use Map – see Land Use Chapter).  Rural areas are further 
+designated ‘north’ and ‘south’ based on their location relative to the Chesapeake and Delaware Canal. 
+Sources: ERM; Maryland Department of Planning, WILMAPCO, Cecil County 
+The number of jobs in Cecil County also is expected to increase, from an estimated 41,800 in 
+2005 to 61,300 in 2030, a 47 percent increase.  Of these jobs, 85 percent would be located in 
+growth areas and 15 percent in rural areas, mostly in the North Rural (14 percent) area. 
+Tables 2.2 and 2.3 break down the population and household projections by towns.  They 
+show that the towns make up approximately 27 percent of the County’s total and projected 
+change in population. 
+                                                     
+3 Higher than Maryland’s average because of vacation units.
+
+<!-- page 22 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+2-8 
+Table 2.2: Town and County, Population and Households, 2005, 2010 and 2030 
+ 
+ 
+ 
+ 
+Change 2010-2030 
+  
+2005 
+2010  
+2030 
+Number 
+Percent 
+Population 
+ 
+ 
+ 
+ 
+ 
+  Incorporated Towns 
+25,765 
+27,814 
+41,513 
+13,699 
+27% 
+  Rest of County 
+70,430 
+76,014 
+113,441 
+37,427 
+73% 
+Total 
+96,195 
+103,828 
+154,954 
+51,126 
+100% 
+Households 
+ 
+ 
+ 
+ 
+ 
+  Incorporated Towns 
+9,897 
+10,874 
+16,815 
+5,941 
+29% 
+  Rest of County 
+24,996 
+27,444 
+42,285 
+14,841 
+71% 
+Total 
+34,893 
+38,318 
+59,100 
+20,782 
+100% 
+Sources: Maryland Department of Planning, ERM 
+ 
+Table 2.3: Town and County Population and Housing, 2000, 2010, and 2030 
+ 
+2000 Census
+2010
+2030
+Geography 
+Population 
+Housing 
+units 
+Population 
+Housing 
+units 
+Population 
+Housing 
+units 
+Towns 
+23,020 
+9,674 
+27,814 
+11,844 
+41,513 
+18,316
+  Cecilton 
+474 
+202 
+573 
+261 
+854 
+404
+  Charlestown  
+1,019 
+415 
+1,231 
+553 
+1,838 
+857
+  Chesapeake City  
+787 
+365 
+951 
+455 
+1,419 
+705
+  Elkton 
+11,894 
+4,731 
+14,371 
+5,831 
+21,449 
+9,007
+  North East 
+2,747 
+1,262 
+3,319 
+1,496 
+4,954 
+2,316
+  Perryville 
+3,672 
+1,548 
+4,437 
+1,851 
+6,622 
+2,864
+  Port Deposit 
+676 
+416 
+816 
+493 
+1,219 
+763
+  Rising Sun 
+1,751 
+735 
+2,116 
+904 
+3,158 
+1,400
+Unincorporated 
+Area of County 
+62,931 
+24,787 
+76,014 
+28,773 
+113,441 
+44,330
+Total County  
+85,951 
+34,461 
+103,828 
+40,617 
+154,954 
+62,646
+Sources: US Census; Maryland Department of Planning, ERM 
+Note: 2030 projections for the Towns are for population and housing units within 2008 boundaries. 
+2.6.2 
+Commercial and Industrial Uses 
+As of 2010 there are an estimated 41,800 part-time and full-time jobs in Cecil County (MDP 
+2009).  Of these jobs, the County estimates that approximately 14,000 were employed by the 
+County’s 44 largest employers (those with at least 50 employees).   
+Major employers in the County include W. L. Gore & Associates, the Cecil County Public 
+Schools, Perry Point V.A. Medical Center, Union Hospital/Affinity Health Systems, ATK Alliant 
+Techsystems, Cecil County, Terumo Medical Corp., IKEA Maryland, Cecil College and Wal-
+Mart. 
+Cecil County estimates that non-residential building square footage in 2009 was 
+approximately 12.1 million square feet.  Of this, 77 percent was industrial space and 19 
+percent was retail.  Only two percent of the County’s existing inventory of non-residential 
+space was occupied by office uses, a very low percentage for a jurisdiction of Cecil County’s 
+size.
+
+<!-- page 23 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+2-9 
+Table 2.4: 
+Non-Residential Development, 2009 
+ 
+Existing (2009) 
+  
+Square Feet 
+Percent
+Industrial 
+9,304,451 
+77%
+Retail 
+2,264,614 
+19%
+Flex 
+292,044 
+2%
+Office 
+287,614 
+2%
+Total 
+12,148,723 
+100%
+Sources: Cecil County Office of Economic Development, CoStar 
+2.6.3 
+Addressing the County’s Long-Term Future: Build-out Analysis 
+During the planning process, the COC discussed at length how much growth the County 
+wanted and could support at build-out, when all or nearly all of the developable land in the 
+county has been developed.  This question is important because the County needs to and 
+would benefit by taking action in the short term on some issues that have long-term 
+consequences, such as reserving land for road rights-of-way and planning for long-term 
+water and sewer infrastructure needs.  Some of these policies need to be put in place during 
+the life of this Plan, even though the facilities may not be needed until after 2030. 
+To address Cecil County’s long-term future, the COC worked extensively with County staff 
+and consultants to review and evaluate the consequences of build-out.  This process involved 
+examining the County’s existing land use plan and zoning map, calculating and reviewing the 
+development capacity of the County’s developable land, defining plan goals, developing and 
+refining a Future Land Use Concept that addressed these goals, and examining the potential 
+impacts of build-out with special emphasis on water resources and transportation. Materials 
+developed for the build-out analysis are provided in the Comprehensive Plan Appendix. 
+While the build-out discussion proved difficult, as build out is perhaps 60 to 80 years away, 
+the COC ultimately approved a land use map and associated development densities that set 
+the County on a path toward a potential build out of approximately 83,600 more housing units 
+than existed in 2005, an approximately 27 percent increase compared to the potential under 
+the 1990 Comprehensive Plan as implemented through the zoning ordinance (Table 2.5).  
+The total number of units at build-out (122,622) would equate to a population of 
+approximately 300,000. 
+Table 2.5: 
+Housing Units at Build-out 
+ 
+Additional Housing Unit Capacity 
+Column 
+1
+2
+3
+4
+5 
+1+5
+Plan/Concept 
+Existing 
+(2005) 
+County
+(excluding 
+MEA1) 
+Towns 
+MEA 
+Total 
+Add’l 
+Total
+Units at 
+Build-out 
+1990 Comprehensive Plan 
+and Zoning 
+39,046 
+54,798 
+5,228 
+5,000 
+65,026 
+104,072 
+Future Land Use Concept 
+(2010 Comprehensive 
+Plan) 
+39,046 
+70,199 
+8,377 
+5,000 
+83,576 
+122,622 
+1 MEA is the Mineral Extraction Area
+
+<!-- page 24 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-1 
+3 
+Land Use  
+This chapter describes the proposed land use plan for Cecil County.  It lists land use goals 
+and objectives, discusses land use and development trends since the 1990 Comprehensive 
+Plan and provides detailed information about existing and proposed land uses in the County. 
+3.1 
+Goals and objectives 
+The County’s land use goals and objectives are to:  
+• 
+Incentivize development within Growth Areas and discourage development outside 
+Growth Areas1. 
+• 
+Encourage maximum growth and high density development in the Growth Corridor. 
+• 
+Achieve a balance of residential development and employment opportunities.  
+• 
+Attract high density, mixed use development at appropriate locations in the Growth 
+Corridor. 
+• 
+Concentrate high density development in areas where adequate public facilities will be 
+provided. 
+• 
+Provide land in appropriate locations for growth and expansion of economic development 
+opportunities. 
+• 
+Encourage modest, controlled development adjacent to towns outside the Growth 
+Corridor. 
+• 
+Encourage the conservation of agricultural and forested lands; encourage sustainable 
+agribusiness and other natural resource based industries. 
+• 
+Maintain the equity value of agricultural land. 
+• 
+Maintain the rural character of the County. 
+• 
+Integrate land use and transportation planning to create attractive concentrations, or 
+nodes, of development that can be served by transit. 
+• 
+Protect private property rights. 
+3.2 
+Land Use and Development Trends 
+This section discusses land use and development trends as background to the proposed land 
+use plan. 
+3.2.1 
+Existing Land Use 
+Existing land use as of 2007 is shown on Map 3.1.  Cecil County has abundant resource 
+lands.  As of 2007, approximately 76 percent of the County’s land area was in resource 
+lands; agriculture, forest and wetlands, while 24 percent was developed (see Table 3.1).  
+However, between 1973 and 2007, approximately 36,600 acres of resource lands, or 16 
+percent of the County’s total land area, were developed, mostly as low density residential 
+uses.     
+                                                     
+1 These terms are defined below in this Chapter (Section 3.4).
+
+<!-- page 25 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-2 
+Map 3.1: Existing Land Use  
+ 
+Source: Maryland Dept. of Planning 2007 Land Use Land Cover dataset
+
+<!-- page 26 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-3 
+Table 3.1: 
+Cecil County Land Use/Land Cover  
+Land Use 
+1973 
+2007 
+Change, 1973-2007
+Acres 
+Percent 
+Acres 
+Percent 
+Acres 
+Percent
+Development Lands 
+16,334
+7%
+53,193
+24% 
+36,859
+225%
+Low Density Residential 
+8,768
+4%
+20,116
+9% 
+11,348
+129%
+Medium/High Density 
+Residential 
+1,531
+1%
+6,441
+3% 
+4,910
+321%
+Commercial/Industrial 
+1,655
+1%
+4,812
+2% 
+3,157
+191%
+Rural Residential1 
+n/a
+n/a
+13,844
+6% 
+n/a 
+n/a
+Other Categories1, 2 
+4,380
+2%
+7,980
+4% 
+3,600
+82%
+Resource Lands3 
+206,325
+93%
+169,748
+76% 
+-36,577
+-18%
+Agriculture 
+112,729
+50%
+85,248
+38% 
+-27,481
+-24%
+Forest  
+91,259
+41%
+81,547
+37% 
+-9,712
+-11%
+Wetlands 
+2,337
+2%
+2,953
+1% 
+616
+26%
+Total4 
+222,659
+100%
+222,941
+100% 
+ 
+ 
+Notes: 
+Residential densities are defined as follows:  rural = 0.05-0.2 du/acre; low = 0.2-2 du/acre; medium/high = 2-8+ 
+du/acre 
+1  Rural Residential and Transportation categories were not included in MDP’s 1973 Land Use/Land Cover dataset.  . 
+2  Institutional, Extractive, Open Urban, Beaches, Bare rock, Bare Ground, Transportation 
+3  Excludes Water 
+4  Change in overall land area is likely due to changes in MDP’s mapping techniques and shifts in shoreline. 
+Sources: Maryland Dept. of Planning 1973, 2007 Land Use Land Cover datasets 
+Protected Lands 
+Approximately 36,400 acres in Cecil County are protected agricultural and forest lands.  Of 
+this total approximately 23,000 acres, or 10 percent of the County’s land area, are protected 
+through purchased or donated protective easements established through agricultural or other 
+preservation programs (see Chapter 7, Sensitive Areas, Section 7.2.6).    
+More detail on protected lands is available in the County’s 2005 Land Preservation Parks and 
+Recreation Plan. 
+Priority Funding Areas 
+Priority Funding Areas are communities and areas where the County wants to direct state 
+investment.  PFAs were established in the Smart Growth Priority Funding Areas Act of 1997.  
+The County’s PFAs are shown on Map 3.2.   
+Enterprise Zones are areas where tax incentives are offered for job creation and the 
+establishment of new businesses.  Cecil County has nine Enterprise Zones (see Map 3.2):  
+• 
+Chesapeake Corporate Center, Elkton  
+• 
+Broadlands/Gore Business Park, north of Elkton 
+• 
+Triumph Industrial Park, Elkton  
+• 
+North East Commerce Center, North East  
+• 
+Peninsula Industrial Park, west of North East 
+• 
+Principio Business Park, Perryville  
+• 
+Perryville Industrial Park  
+• 
+Vantage Point, Elkton  
+• 
+Bainbridge Property, Port Deposit
+
+<!-- page 27 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-4 
+Map 3.2: Priority Funding Areas and Enterprise Zones, 2009 
+ 
+Notes: Villages are PFAs; This Comprehensive Plan recommends the deletion of four villages shown on this map since they are 
+now subsumed into the Growth Area (see Section 3.5.3).
+
+<!-- page 28 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-5 
+3.2.2 
+Growth and Development Since 1990 
+In 1990, Cecil County had a population of 71,347 of which 17,192, or 24 percent, lived in the 
+eight incorporated towns (see Table 3.2). Between 1990 and 2010, the County’s population 
+increased by 32,481, or 46 percent.  The towns grew at a faster rate than the unincorporated 
+portions of the County during this period (62 versus 40 percent).  Cecil County’s rate of 
+growth was more than twice as fast as the 21 percent increase in Maryland during these 
+years. 
+The number of housing units and households in the County also grew, with housing units 
+outnumbering households because a percentage of dwelling units are vacant at any one 
+time.   
+Table 3.2: 
+Population, Housing Units and Households, 1990-2010 
+ 
+1990 
+2000 
+2010 
+Change 1990-2010 
+Number 
+Share of Growth 
+in Towns/ 
+County 
+Share of Total 
+Growth 
+Population 
+  Incorporated Towns 
+17,192 
+23,020 
+27,814 
+10,622 
+62% 
+33% 
+  Rest of County 
+54,155 
+62,931 
+76,014 
+21,859 
+40% 
+67% 
+Total 
+71,347 
+85,951 
+103,828 
+32,481 
+46% 
+  
+Housing Units 
+  Incorporated Towns 
+7,088 
+9,617 
+11,844 
+4,756 
+67% 
+37% 
+  Rest of County 
+20,568 
+24,844 
+28,773 
+8,205 
+40% 
+63% 
+Total 
+27,656 
+34,461 
+40,617 
+12,961 
+47% 
+ 
+Households 
+  Incorporated Towns 
+6,583 
+8,829 
+10,874 
+4,291 
+65% 
+32% 
+  Rest of County 
+18,142 
+22,394 
+27,444 
+9,302 
+51% 
+68% 
+Total 
+24,725 
+31,223 
+38,318 
+13,593 
+55% 
+ 
+Sources: US Census, Maryland Dept. of Planning 
+ 
+ 
+Of the 12,961 housing units built in Cecil County between 1990 and 2010, 37 percent were 
+built in the towns and 63 percent were built in the rest of the County.   
+Recent Development Activity 
+Although County policy under the 1990 Comprehensive Plan has been to concentrate 
+residential growth in designated growth areas, a significant percentage of residential units 
+have been built outside of these areas (Table 3.3).  Between 1997 and 2008, the number of 
+building permits issued for new dwellings was almost evenly split between designated growth 
+and non-growth areas.  During this period, the largest number of building permits issued in 
+any land use district was in the Rural Conservation district, with 39 percent of all residential 
+permits for new dwellings, or 2,759 permits.  Note that Table 3.3 does not include building 
+permits issued in the towns, which are growth areas.  If these are factored in, the split is 
+closer to 60 percent in growth areas versus 40 percent in non-growth areas. 
+In 2006, the County amended the zoning ordinance (effective 1-1-2007) to reduce residential 
+densities in the Northern and Southern Agricultural Residential zoning districts (NAR and 
+SAR), from one dwelling unit per five acres to one unit per 10 acres in the NAR, and from one 
+dwelling unit per eight acres to one unit per 20 acres in the SAR.
+2  
+                                                     
+2 Prior to the amendment, the densities could be increased to one unit per 3 acres in the NAR and one unit per 5 
+acres in the SAR if 60 percent open space were provided in new subdivisions.
+
+<!-- page 29 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-6 
+The distribution of future growth was an issue discussed at length during the Comprehensive 
+Plan process, leading to the land use goal to incentivize development within the growth area 
+and discourage development outside of it.   
+Table 3.3: 
+Residential Building Permits Issued by Land Use District (New 
+Dwellings Only), 1997-2008 
+Land Use District  
+(Categories from 1990 Comprehensive 
+Plan) 
+Number of Permits 
+Percent 
+Designated Growth Areas 
+3,588 
+50% 
+  Development  
+1,801 
+25% 
+  Suburban  
+1,318 
+18% 
+  Town  
+458 
+6% 
+  Mineral Extraction 
+11 
+<1% 
+Non-Growth Areas 
+3,570 
+50% 
+  Rural Conservation 
+2,759 
+39% 
+  Resource Protection 
+770 
+11% 
+  Village  
+41 
+1% 
+Total 
+7,158 
+100% 
+Source: Cecil County Office of Planning and Zoning, Annual report for the Planning Commission 
+Notes: 
+Data in this table does not include permits in the incorporated towns, except for 2003, when 
+permits were combined with the Town district. If permits in the towns are factored in, the split is 
+closer to 60 percent in growth areas versus 40 percent in non-growth areas. 
+A copy of the 1990 Comprehensive Plan Map is included in the Plan Appendix.
+Industrial Uses 
+Between 2005 and 2009, the County attracted nearly $200 million in new and expanded 
+industrial investment, generating almost 4.4 million square feet of building space and 
+approximately 1,850 jobs (Table 3.4).  Most of this development was new construction.  
+Employment areas that attracted multiple projects include the Triumph Business Park, North 
+East Commerce Center, North East Business Center, Principio Industrial Park, the Upper 
+Chesapeake Corporate Center and the Town of Elkton. 
+Table 3.4: 
+Major Industrial Construction and Expansion, 2005-09 
+Type of Development 
+Square feet 
+Jobs 
+Investment ($millions) 
+  Expansions 
+1,414,400 
+529 
+$43.95  
+  New Construction 
+2,965,000 
+1,335 
+$150.74  
+Total 
+4,379,400 
+1,864 
+$194.69  
+Source: Cecil County Office of Economic Development
+3.3 
+Proposed Land Use 
+The land use plan embodies the County’s goals and objectives and meets the County’s 
+growth needs by creating land use categories that apply to specific geographic areas of the 
+County. The plan divides the County into 12 land use categories in three groups: growth 
+areas, rural areas and other areas:
+
+<!-- page 30 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-7 
+Growth Areas 
+Rural Areas 
+Other Areas 
+• 
+High 
+• 
+Resource Protection 
+• 
+Mineral Extraction 
+• 
+Medium-High 
+• 
+Rural Conservation 
+• 
+Village 
+• 
+Medium 
+ 
+ 
+• 
+Low 
+ 
+ 
+• 
+Employment 
+ 
+ 
+• 
+Mixed Use Employment 
+ 
+ 
+• 
+Mixed Use Residential 
+ 
+ 
+• 
+Town 
+ 
+ 
+Approximately 71 percent of the County is in rural areas, 24 percent is in growth areas, and 5 
+percent is in other areas (Table 3.5).  
+Table 3.5: 
+Proposed Land Use  
+ 
+Acres 
+Percent 
+Growth Areas 
+54,331 
+24% 
+  High  
+4,084 
+2% 
+  Medium High  
+3,310 
+1% 
+  Medium  
+12,281 
+5% 
+  Low  
+15,125 
+7% 
+  Employment 
+5,659 
+3% 
+  Mixed Use Residential 
+655 
+0.3% 
+  Mixed Use Employment 
+795 
+0.4% 
+  Towns 
+12,423 
+6% 
+Rural Areas 
+159,288 
+71% 
+  Rural Conservation 
+95,819 
+43% 
+  Resource Protection 
+63,469 
+28% 
+Other Areas 
+10,084 
+5% 
+  Mineral Extraction 
+8,442 
+4% 
+  Village 
+1,641 
+1% 
+Total 
+223,703 
+100% 
+The land use designations are intended to direct growth toward existing population centers 
+and areas adjacent to these centers by setting appropriate densities and coordinating growth 
+with public infrastructure.  The four major residential growth categories are differentiated by 
+density: High, Medium-High, Medium, and Low.  All these areas ultimately could be served by 
+public sewer, but most Low Growth areas are not anticipated to be served by public sewer or 
+water within the current Master Water and Sewer Plan. 
+High growth areas are located along major roads and adjacent to towns.  Medium-High areas 
+serve as a transition from High growth areas and towns to Medium growth areas.  Low 
+growth areas generally are on the edges of the Designated Growth Area, but also separate 
+the Elkton and North East areas.  Commercial (retail) areas do not have their own land use 
+category and could be located in any land use district, at intensities consistent with the 
+density designation (see Section 3.5).  
+Map 3.3 is the Future Land Use Map.  The map has several purposes: 
+• 
+It is a policy map that provides the basis for a more refined classification of land into 
+zoning districts that regulate the use and development of land.   
+• 
+It serves as a guide to the County’s future desires and interests for land development, 
+preservation and conservation.   
+• 
+It serves as a guide to decision makers regarding public facilities—primarily water and 
+sewer—as well as schools, economic development, transportation, and parks.
+
+<!-- page 31 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-8 
+Map 3.3: Future Land Use
+
+<!-- page 32 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-9 
+The Future Land Use Map does not apply to the County’s eight incorporated towns.  The 
+towns have their own planning authority and adopt their own comprehensive plans and land 
+use regulations.  The County coordinated the development of the Future Land Use Map with 
+the towns. 
+3.3.1 
+Changes from the 1990 Land Use Plan Map 
+The Future Land Use map is quite different from the 1990 Comprehensive Plan Land Use 
+map as it defines future land uses in the growth areas in a more fine-grained manner.  To 
+assist in seeing the differences between the 2010 map and the 1990 map the appendix to 
+this plan contains “side by side” maps.  
+Each of the growth area designations are new, including Town, which corresponds to the 
+corporate boundaries of the incorporated towns as of the adoption of this plan (the 1990 Plan 
+had a Town District that designated areas outside Rising Sun, Chesapeake City, and 
+Cecilton).  The Resource Protection, Rural Conservation and Mineral Extraction Districts 
+carry over from the 1990 Comprehensive Plan.   
+In addition to the changes in the land use categories, the 2010 Comprehensive Plan Future 
+Land Use map includes several changes to the 1990 Comprehensive Plan map: 
+• 
+Growth area has been added south of Elkton.  This area had been identified as Rural 
+Conservation. 
+• 
+Growth areas have been adjusted around the towns of Rising Sun, Chesapeake City and 
+Cecilton.  
+• 
+Employment areas have been added as a land use district.  Employment areas have 
+been added north of Interstate 95 and north of Elkton.  Portions of these areas had been 
+designated as Rural Conservation under the 1990 Plan. 
+• 
+Mixed use areas are designated along the US 40 corridor west of Elkton. 
+• 
+The Medium Growth area has been extended along MD 213 (Singerly Road) north of 
+Cherry Hill.   
+3.4 
+Defining Growth and Rural Areas 
+An important component of this Comprehensive Plan is establishing growth areas versus 
+rural areas.  Over time, a number of terms have been used in Cecil County to describe future 
+growth areas.  To clarify the intent of the plan, the Comprehensive Plan uses the following 
+terms, defined as follows, and shown on Map 3.4.
+
+<!-- page 33 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-10 
+Map 3.4: Growth and Rural Areas
+
+<!-- page 34 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-11 
+Designated Growth Area 
+Designated Growth Areas comprise all areas where the County wishes to encourage and 
+attract growth and development.  The Designated Growth Areas are centered in the central 
+part of the County, but also include the associated growth areas around the towns of 
+Cecilton, Chesapeake City, and Rising Sun. 
+Designated Growth Areas are indicated on the Future Land Use Map as High, Medium-High, 
+Medium, Low, Mixed Use, Employment, and Town.  They are currently served by public 
+water and sewer or could be served in the future. 
+ 
+Mineral Extraction Areas shown on Map 3.4 are future growth areas that are part of the 
+Designated Growth Area. 
+Growth Corridor 
+The Growth Corridor is a subset of the Designated Growth Area, comprising the Designated 
+Growth Area excluding the Low Growth areas.   
+Rural Areas 
+Rural Areas comprise the Resource Preservation and Rural Conservation land use districts. 
+3.5 
+Land Use Categories 
+3.5.1 
+Growth Areas 
+The primary intent of this plan is to concentrate development in growth areas.  This will allow 
+the County to efficiently plan for and implement public infrastructure and deflect future growth 
+away from rural areas, thereby protecting the County’s rural character and supporting 
+agriculture and agribusiness. 
+The intent for the growth areas is to allow for the development and redevelopment of 
+residential, commercial and business uses at densities and intensities consistent with each 
+growth designation: High, Medium-High, Medium and Low.  In addition, growth areas include 
+two mixed-use designations: Mixed Use Residential and Mixed Use Employment (at densities 
+and intensities consistent with the Medium-High and High growth areas), as well as 
+Employment areas and the incorporated towns (Town). 
+Growth areas are the lands most suitable for future development based on the County’s 
+existing built environment and land use pattern, as well as its future land use, economic 
+development, and resource protection goals.  They are primarily located along the I-95 and 
+US 40 corridors but also include the incorporated towns of Cecilton, Chesapeake City and 
+Rising Sun and their respective growth areas.  Each growth area is served by or planned for 
+service by public sewer and water facilities and transportation networks, including roads and, 
+in several cases, rail and transit. 
+By concentrating development in growth areas, the Plan seeks to reduce development 
+pressure in rural areas.  This needs to be accomplished by allowing landowners in Rural 
+areas to transfer their development rights to growth areas, especially to the High and 
+Medium-High areas, and by providing infrastructure and incentives and encouraging design 
+that will enable growth areas to develop with a character that makes them attractive places to 
+live, work and play.   
+By concentrating residential, industrial and commercial growth in the Growth Corridor, the 
+County can reduce the cost of providing public infrastructure – by making it more efficient – 
+and limit impacts to the environment.   
+By locating employment opportunities and commercial areas close to residential areas, the 
+County can help to reduce the number of vehicle trips and average trip length.  By reducing
+
+<!-- page 35 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-12 
+vehicle trips, the County can help to reduce the traffic impacts of development, as well as the 
+cost to build, improve, and maintain roads and other transportation infrastructure. 
+In addition to the Mixed-Use districts, mixed-use development achieved through the Planned 
+Unit Development process is encouraged at appropriate locations along major roads and 
+intersections in growth areas.  In particular, opportunities for mixed-use development exist 
+near the I-95 interchanges with MD 279 (near Elkton), MD 272 (in North East) and MD 222 
+(near Perryville and Port Deposit).  As these areas develop, they should be connected and 
+served by transit.  Mixed-use can be vertical as well.  Where properly zoned, residential uses 
+may be permitted on upper floors of structures with ground-floor commercial or business 
+uses. 
+Residential development needs to be balanced with opportunities for economic development 
+and the expansion of the County’s job base.  By encouraging more employment growth, the 
+County can help to provide job opportunities for residents, reduce the need for commuting out 
+of the County, and generate tax revenues that support the County’s public infrastructure 
+needs.   
+As noted above, commercial (retail) areas do not have their own land use category on the 
+future land use map and could be located in any land use district, at intensities consistent 
+with the density designation.  
+All growth areas (except for most Low growth areas) are served or are planned for service in 
+the Master Water and Sewer Plan.  All Low growth areas could receive water and sewer 
+service in the future.   
+Although suitable for development, growth areas also contain significant environmental 
+resources, including wetlands, steep slopes, stream valleys, forests, and special plant and 
+wildlife habitats (see Sensitive Areas element).  Development that may impact sensitive 
+areas should be planned to protect these resources to the greatest extent possible. 
+Achieving the desired development in Growth Areas will require proactive efforts on the part 
+of the County: 
+• 
+Continued efforts to make water and sewer infrastructure available in the growth corridor.  
+• 
+Reviewing the zoning and subdivision ordinances for opportunities to simplify and 
+streamline the development review and approval process.  The Planned Unit 
+Development (Article XII of the Zoning Ordinance) was cited during the Comprehensive 
+Plan process as an example of a desirable, flexible development tool that now requires a 
+special exception, but that could have an administrative approval process (in, for 
+example, the High and Medium High growth areas. Fast tracking development 
+applications in the growth corridor was also cited which, while feasible, needs to consider 
+the equity concerns of development that is effectively delayed due to the fast tracking of 
+other applications.  
+• 
+Creating a more attractive transfer of development rights program (see below) 
+• 
+Consider minimum development densities in key growth areas so that land valuable for 
+high density development is used for that purpose, and not for lower density development 
+that in total will have lower value to the  County.  
+• 
+Consider increasing the maximum height limits in the zoning ordinance. 
+The following sections describe the growth areas in more detail.   
+High 
+High growth areas comprise about two percent of the County, or approximately 4,100 acres.  
+All of the high growth areas are adjacent to the towns of Elkton, North East and Perryville.  
+Higher density development is encouraged in these areas as a mix of housing types, 
+including especially duplexes, townhouses, apartments and condominiums.  Residential
+
+<!-- page 36 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-13 
+areas should be connected to one another to the extent possible with pedestrian and bicycle 
+linkages and result in well-designed, attractive and walkable neighborhoods.  
+Consistent with the High growth designation, commercial uses can be regional in nature and 
+serve large market areas, provided they are well planned, designed in a manner that creates 
+pedestrian and transit linkages to nearby areas, and support the County’s land use and 
+economic development goals.  Larger commercial uses should be on major roads for safe 
+and convenient access for large traffic volumes. 
+Residential densities will average five to eight dwelling units per acre but can be expected to 
+increase to over 12 units per acre in some portions of the High growth areas.  
+Medium High 
+Medium High growth areas comprise about one percent of the County, or approximately 
+3,300 acres.  These areas are located adjacent to the towns of North East and Elkton and are 
+envisioned as pedestrian-friendly areas that provide a transition in density from High to 
+Medium growth areas.  As with the High growth areas, Medium High growth areas contain a 
+mix of housing types, including single-family detached units, townhouses, apartments, and 
+condominiums, as well as commercial development at moderately high intensities.  
+Commercial uses generally serve the local population but can be regional in nature if located 
+along major roads. 
+Residential densities will average four to six dwelling units per acre but can be up to 12 units 
+per acre. 
+Medium 
+Medium growth areas comprise about five percent of the County, or approximately 12,300 
+acres.  They offer the opportunity for development on the periphery of the Designated Growth 
+Area, especially north and northwest of Elkton, west of the Town of North East and north of 
+Charlestown, and between Perryville and Port Deposit.  Medium growth areas also form the 
+growth areas around the smaller towns of Cecilton, Chesapeake City, and Rising Sun.  
+Medium growth areas may contain commercial uses mostly at moderate intensities, as 
+neighborhood commercial centers serving everyday shopping and personal service needs.   
+Residential densities are typically three to four units per acre but can range from two to six 
+units per acre.   
+Low 
+Low growth areas make up about seven percent of the County, or 15,100 acres.  Low growth 
+areas provide a transition between more densely developed areas and rural areas.  
+Residential densities are two or less dwelling units per acre.  
+Housing is considered high density at 8.34 units per acre in Whitehall West subdivision 
+(right) and at 11.23 units per acre in Chesapeake Landing (left).
+
+<!-- page 37 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-14 
+Although most areas designated for Low growth are not shown as water and sewer service 
+areas in the Master Water and Sewer Plan, they may be eligible for public service in the 
+future.  As such, they represent future growth opportunities in the Designated Growth Area.  
+It is the County’s intention to direct the majority of growth to High, Medium-High and Medium 
+growth areas that are already served by or are planned for water and sewer service, only 
+extending infrastructure to Low growth areas as feasible based on prioritization.   
+Where public water and sewer are not available, development in the Low growth area will 
+likely be on larger lots that accommodate private water and sewer service.   
+Employment 
+Employment areas make up about 
+three percent of the County, or 
+approximately 5,700 acres.  
+Thirteen employment areas are 
+designated on the Future Land Use 
+map, including the County’s existing 
+industrial parks and enterprise 
+zones, as well as other locations 
+strategically located along 
+transportation corridors, including 
+roads and rail lines.  In addition to 
+these areas, several large 
+employment areas are located in the towns (see Chapter 4 Economic Development).  
+The intent of Employment areas is to provide for major industrial, manufacturing, office, and 
+business uses and economic development opportunities in business parks and campuses 
+near major roads.  The goal is to provide sufficient land area and opportunities to support the 
+expansion of the County’s employment base and create opportunities for long-term economic 
+development, as the local economy expands and diversifies. 
+Employment areas have, or are planned for, access to public water and sewer service.  While 
+some commercial (retail) uses could locate in Employment areas, they would be small, 
+primarily to serve the Employment areas and not the regional, retail market.  Employment 
+uses should be screened and buffered, where necessary, to minimize negative impacts on 
+adjoining residential land uses.   
+Employment areas should provide abundant opportunities for new and expanded industrial 
+and office uses in a range of sizes to increase employment opportunities in the County.  
+Public infrastructure improvements should be targeted to strategic development and 
+redevelopment projects. 
+Mixed Use Areas 
+A major goal of the land use plan is to attract mixed use development at appropriate locations 
+in the Growth Corridor.  Mixed use development is a combination of one or more of the 
+following on one site or across several sites:  residential, commercial, business, service, civic 
+and open space.  True mixed use development integrates the different uses horizontally (on 
+the same site) or vertically (in the same building).   The main streets of Cecil County’s towns 
+are examples mixed use areas. Mixed use development has several advantages over single 
+use development: 
+• 
+Uses reinforce each other, for example, residential supports business, business supports 
+retail and so on.  
+• 
+Automobile trips are reduced as more trips can be made on foot, creating a healthier 
+environment.  
+Housing in Bethel Springs is low density at 1 unit per acre.
+
+<!-- page 38 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-15 
+• 
+Mixed use areas can be livelier, with a more varied and interesting built environment.  
+Parking areas can be shared and smaller.  
+The Comprehensive Plan designates two mixed-use areas: Mixed Use Residential and Mixed 
+Use Employment along US 40 west of Elkton, supporting US 40 as Cecil County’s primary 
+business corridor (see Section 3.6).   These areas benefit from their location along US 40 and 
+its proximity to existing towns and infrastructure, as well as to the AMTRAK and CSX rail 
+lines. 
+The Mixed Use areas would include medium to medium-high density residential uses, 
+including townhouses and apartments and could have multi-story buildings with residential 
+uses above commercial or office uses.  Residential densities are envisioned as similar to the 
+High and Medium-High growth areas.  
+The Comprehensive Plan envisions an area mix of 80 percent residential and 20 percent 
+non-residential in the Mixed Use Residential area, and a 30 percent residential and 70 
+percent employment area mix in the Mixed Use Employment area. 
+New zoning districts will be needed to implement mixed use areas. They are envisioned as 
+mapped or overlay districts
+3 that would not require the developer to obtain use approval (like 
+a special exception) but would require a master planning or a special study similar to those 
+prepared for a planned unit developments (PUDs). 
+Service roads or consolidated access points may be developed along the US 40 corridor to 
+provide access to developed properties and minimize the number of access points along the 
+highway to preserve the free flow of traffic (see Chapter 5 Transportation). 
+Mixed Use Residential 
+The Mixed Use Residential area contains approximately 660 acres west of Elkton, north of 
+US 40 and south of Nottingham Road.  This area is envisioned as an opportunity to develop 
+attractive communities along the north side of the US 40 corridor.  This area is envisioned as 
+having a residential emphasis given the mostly residential character to its north and west.   
+This mixed-use area is strategically located along US 40 near the center of the County and 
+benefits from its proximity to Elkton, North East and the developing areas between the towns.  
+Concentrating mixed-use projects in this area provides opportunities to create transit-
+supportive nodes of density along a major corridor.  When the Elkton train station is 
+reopened, serving MARC commuter rail and as a potential integration with the SEPTA R-2 
+rail line, this area should be connected directly to the station area by transit.  Such a 
+connection would support the mixed-use area and provide alternatives to non-motor vehicle 
+travel in a strategic part of the County. 
+Mixed Use Employment 
+The Mixed Use Employment area contains approximately 800 acres west of Elkton, south of 
+US 40 and north of MD 7 (Old Philadelphia Road) and the AMTRAK rail line.  Given this 
+area’s location between MD 7 and US 40, close to the rail line and the existing low intensity 
+business and industrial uses, this area is envisioned as a master planned, office, commercial 
+and residential area.   
+As the County develops, the Mixed Use Employment area is intended to function as an 
+attractive location for high- and mid-level office development, well designed and landscaped, 
+and fronting or within easy access of US 40.   
+                                                     
+3 An overlay district lays over the underlying district and provides an alternative or supplemental set of regulations.
+
+<!-- page 39 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-16 
+Town 
+As noted above, the eight incorporated towns have their own planning authority and adopt 
+their own comprehensive plans.  Towns account for approximately six percent of the County’s 
+land area. The Future Land Use Map shows the boundaries of the Towns as of 2009.  In 
+some cases the towns own land outside their boundaries but, for purposes of consistency, 
+this land is only shown as “Town” if it has been annexed.  
+Each Town’s proposed future growth areas are described in their Comprehensive Plan.   
+During the life of this Comprehensive Plan, some of these lands that are in the County as of 
+2009 may be annexed into the Towns.   
+3.5.2 
+Rural Areas 
+Rural areas make up approximately 71 percent of the County.  Agricultural uses predominate 
+in the coastal plain south of the Chesapeake and Delaware Canal and in the Piedmont in the 
+north central section of the County.  Large forested areas cover the east bank of the 
+Susquehanna and the Elk Neck peninsula.  Smaller forested areas are scattered throughout 
+the Rural Areas especially in stream valleys and in much of the Chesapeake Bay Critical 
+Area.  
+The County intends for rural areas to remain rural and for the agricultural and the other 
+natural resources within them to remain viable and economically productive.  The County will 
+continue to support the permanent preservation of these areas for their natural and 
+agricultural resources through the purchase or transfer of development rights or the 
+acquisition of easements by government agencies and private organizations.  As part of this 
+support, the County will continue using its funds to supplement state funding through the 
+MALPF, which is used to 
+purchase development rights on 
+agricultural lands.  The County 
+will also continue to support the 
+economic viability of farming, 
+forestry and related business 
+activities such as broadening 
+the list of permitted value-added 
+agricultural related enterprises 
+(see Chapter 4, Economic 
+Development).  
+Rural areas include the Rural 
+Conservation and Resource 
+Protection districts.  Both of 
+these designations carry 
+forward from the 1990 
+Comprehensive Plan. Chapter 7 
+of this Comprehensive Plan 
+discusses a Priority Preservation Area (PPA) intended to further support preservation in the 
+Rural area.  To support the PPA, existing tools such as the purchase of development rights 
+and the transfer of development rights programs will need to be strengthened, especially in 
+the Rural Conservation area. The County will work to maintain its Agricultural Certification. 
+Residential development continues to be permitted in Rural areas but, as noted above (Table 
+3.3), over the past 11 years the number of building permits in Rural areas has been 40 to 50 
+percent of total County permits.  This 2010 Comprehensive Plan recommends that the 
+County consider a growth management policy to ensure that development in rural areas does 
+not exceed a desirable share of overall county development. 
+In 2009, the General Assembly enacted the Smart Growth Goals, Measures, and Indicators 
+and Implementation of Planning Visions Act that requires local planning commissions to 
+Rural areas would make up approximately 70 percent of the 
+County under the future land use plan.
+
+<!-- page 40 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-17 
+submit annual reports beginning in 2011 that include specific smart growth measures and 
+indicators.  The bill establishes a statewide land use goal of increasing the percentage of 
+growth within PFAs and decreasing the percentage of growth outside PFAs.  The annual 
+report must include the amount, share and net density of growth being located inside and 
+outside of PFAs; net density of growth that is being located inside and outside the PFA; as 
+well as the number of acres preserved using local agricultural land preservation funding.  This 
+new law reinforces the need for Cecil County to make progress toward concentrating growth 
+in growth areas and preserving agricultural land. 
+As noted above, commercial (retail) areas do not have their own land use category on the 
+Future Land Use map.  Low intensity commercial uses would be allowed in appropriate 
+locations in Rural areas to serve rural communities.  Villages are especially appropriate for 
+commercial uses, given their function as historic rural centers, when consistent with the intent 
+of the Village district as defined in Section 3.5.3.  Small areas of business or light industrial 
+use may be permitted in Rural areas with appropriate buffering. 
+The County’s water and sewer policies for Rural areas are: 
+• 
+Extension of public sewer and or water systems will not be permitted except in cases 
+where a threat to public health exists.  
+• 
+Residential and other non-agriculture development must be served by on-site sewer and 
+water facilities.  Private shared sewer facilities may be permitted and can provide an 
+opportunity to preserve large open space areas
+4.  
+Rural Conservation  
+The Rural Conservation area is intended to encourage the retention of agricultural and 
+forestry uses and to support the County’s agricultural industry.  
+The Rural Conservation area makes up about 43 percent of the County, or approximately 
+95,800 acres.  The area encompasses existing agricultural areas north of the Chesapeake 
+and Delaware Canal, including the Fair Hill Rural Legacy Area. It includes much of the Elk 
+Neck peninsula south of the Town of North East and west of Elkton.  North of the I-95 and US 
+40 corridors, the district extends to the Pennsylvania state line and includes sparsely 
+developed areas between towns and rural villages.    
+Residential development is permitted but at low density, a maximum of one dwelling unit per 
+10 acres, to maintain the rural character of this area of the County.  When development does 
+occur the essential elements of rural character need to be maintained, and opportunities 
+taken to allow agricultural activities to continue, in open space areas for example
+5.   
+The proximity of the Rural Conservation area to the Designated Growth Area distinguishes its 
+agricultural areas from those of the Resource Protection area.  Farmland in the Rural 
+Conservation area has experienced significant development pressure, as evidenced by the 
+trends in Table 3.3, which show that 39 percent of the residential building permits in Cecil 
+County since 1997 have been issued in this area, the largest share of any land use district 
+designated in the 1990 Comprehensive Plan.  The need to protect agriculture is most acute in 
+this area. 
+Resource Protection 
+The Resource Protection area is intended to encourage retention of agricultural land and 
+agricultural-related activities and to support the County’s agricultural industry.   
+                                                     
+4 Regulations to allow shared facilities were added to the County zoning ordinance in 2005 – see Section 175. 
+Community Sewerage Systems. 
+5 New subdivisions in the Northern Agricultural-Residential zoning district that implements Rural Conservation area 
+must have a minimum 60 percent open space.
+
+<!-- page 41 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-18 
+The Resource Protection area makes up about 28 percent of the County, or approximately 
+63,500 acres.  The district lies south of the Chesapeake and Delaware Canal, where 
+protection of agricultural land resources is well advanced.   The areas designated as 
+Resource Protection on the Future Land Use Map correspond to areas where agriculture 
+continues to be the dominant land use.  The County and other partners have been quite 
+successful in preserving land in the Resource Protection area and there are some large 
+blocks of protected land especially in the Sassafras Rural Legacy area and north and south 
+of the Bohemia river in the MD 213 corridor. 
+Residential development is permitted in the Resource Protection area but at very low density, 
+a maximum of one dwelling unit per 20 acres, to maintain rural character.  When 
+development does occur the essential elements of rural character need to be maintained, and 
+opportunities taken to allow agricultural activities to continue, on open space parcels for 
+example. 
+ 
+3.5.3 
+Other Areas 
+Other areas include the Mineral Extraction district and Villages.  Together, they account for 
+approximately five percent of the County’s total land area.  Villages are, technically, growth 
+areas in that they are Priority Funding Areas but the amount of anticipated growth is so small 
+that this Plan classifies them in this Other Areas category.  
+Mineral Extraction 
+The Mineral Extraction Area protects mineral deposits of economic importance from 
+development until the deposits have been mined.  Mineral Extraction Areas are not expected 
+to be available for development during the term of this Comprehensive Plan.  However, most 
+Mineral Extraction Areas are future Growth Areas that are part of the Designated Growth 
+Area (see Map 3.4).  
+Mineral Extraction areas consist of land with known mineral deposits primarily owned or 
+otherwise controlled by the mineral extraction industry.  They represent approximately 8,400 
+acres.  Mining activities may occur only in the Mineral Extraction area.  
+The Mineral Extraction area serves several functions: to protect economically important 
+mineral resources for current and future use; to prevent incompatible development that may 
+directly or indirectly preclude access to the mineral resources until the resource has been 
+removed; and to protect adjacent land uses from negative impacts that can result from 
+mineral extraction activity.  
+The designation of an area as a Mineral Extraction area is an interim designation. After 
+mineral extraction is complete, a special study and possible plan amendment will determine 
+the future use of the land, taking into consideration the type and intensity of adjacent land 
+uses and the availability of infrastructure and services, and the impact on water quality and 
+Resource Protection areas aim to preserve agricultural land.
+
+<!-- page 42 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-19 
+environmentally sensitive areas.   The ultimate land use of mineral extraction areas will be 
+decided in the context of the comprehensive plan in effect when a change is requested.  
+Village 
+The purpose of the Village district is to protect the character of the County’s historic villages 
+by separating them from surrounding rural or developed areas.  Crossroad villages are 
+located at intersections of existing or historic roads.  They may feature a cluster of structures 
+that include historic buildings, architectural elements, community focal points, historic 
+employment centers and commercial uses.  Villages are classified into two categories: 
+Crossroad (C) and Waterfront (W).  The Comprehensive Plan recognizes 19 villages (see 
+Map 3.3): 
+• 
+Bay View (C) 
+• 
+Fair Hill (C) 
+• 
+Calvert (C) 
+• 
+Farmington (C) 
+• 
+Cherry Hill (C) 
+• 
+Fredericktown (W) 
+• 
+Childs (C) 
+• 
+Hacks Point (W) 
+• 
+Colora (C) 
+• 
+Leslie/Marysville (C) 
+• 
+Conowingo/Kilbys Corner (C) 
+• 
+Locust Point (W) 
+• 
+Crystal Beach (W) 
+• 
+Port Herman/Hollywood Beach (W) 
+• 
+Earleville (C) 
+• 
+Red Point (W) 
+• 
+Elk Mills (C) 
+• 
+Warwick (C) 
+ 
+• 
+Zion (C) 
+ 
+Villages make up less than one percent of the County’s land area, or approximately 1,600 
+acres.  The 1990 Comprehensive Plan also recognized 19 villages.  The Village Residential 
+(VR) zoning district has flexible design criteria and may be retained, even in the Designated 
+Growth Area. 
+Waterfront villages are located along the shorelines of the Chesapeake Bay and its 
+tributaries. The dwellings in these villages historically were built to provide seasonal 
+occupancy for recreational purposes.  Today permanent residents occupy the majority of 
+these once-seasonal dwellings.  Waterfront villages generally feature cottage-type housing 
+on narrow lots, on a street grid, with water-dependent facilities and water-oriented 
+development patterns.  
+The boundaries of crossroad villages are drawn to include developed areas near village 
+centers and adjacent undeveloped land to allow for a limited amount of future growth, no 
+more than 10 percent above what existed when they were first designated.   
+Residential densities are typically about one unit per acre without public sewer and water but 
+can be increased to four units per acre with sewer and water.  Villages generally rely on 
+onsite sewage disposal and groundwater.  However, villages are Priority Funding Areas (see 
+Map 3.2) and are eligible for public water and sewer service, though this is only anticipated 
+where there is threat to public health exists or where public services can be readily extended 
+from nearby areas.   
+The 1990 Comprehensive Plan recommended a Village District Study to make 
+recommendations to protect the villages’ historic and architectural character.  While the study 
+was not done, the County did create village boundaries, opportunities for expansion, and the 
+Village Residential zoning district, which allows some non-residential development and is a
+
+<!-- page 43 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-20 
+flexible tool to preserve the neighborhood and community character of the villages.  The VR 
+district is used in some villages and in some areas that are not designated as villages.  A 
+village study would be worthwhile, especially in light of efforts to direct growth to growth 
+areas, to determine whether adjustments should be made to the VR district.   
+3.5.4 
+Summary of Land Use Categories 
+Table 3.6 summarizes the land use categories shown on the Future Land Use Map including 
+the proposed ranges of residential densities for each of the categories.  Although these 
+density ranges are goals, the County understands that development projects are not always 
+able to and sometimes are not intended to maximize density.  Therefore, the actual densities 
+realized in these areas may be toward the middle of these ranges.
+
+<!-- page 44 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-21 
+Table 3.6: 
+Land Use Categories Summary 
+Category 
+Intent, Types of Land Use
+Growth Areas  
+High 
+ 
+Medium-
+High 
+ 
+Medium 
+These areas are predominantly residential in character but may include commercial and business 
+areas especially on major roads such as US 40.  Mixed-use development through Planned Unit 
+Developments is encouraged at appropriate locations in these areas.  
+ 
+High and Medium-High areas are mostly adjacent to Towns.  Higher density development is 
+encouraged in these areas with a mix of housing types, single-family, town houses, and apartments.   
+ 
+Residential densities in Medium-High areas are from six to 12 dwelling units per acre, increasing to 
+over 12 dwelling units per acre in portions of High areas.  
+ 
+Medium growth areas offer opportunity for growth in outer parts of the Designated Growth Area, 
+especially north of Elkton and North East and also between Perryville and Port Deposit.  Medium 
+growth areas also form the growth areas around the smaller towns, Cecilton, Chesapeake City, and 
+Rising Sun. Residential densities in Medium areas are from two to six dwelling units per acre.   
+Low 
+Low Growth areas provide a transition from some higher growth areas to rural areas.  Residential 
+densities in Low areas are two dwelling units or less per acre.  
+All Low Growth areas could be eligible for public sewer service in the future, though most areas are 
+not shown as planned water and sewer service areas in the Master Water and Sewer Plan.  
+Employment  
+Major industrial, manufacturing, office, and business parks and campuses, located at strategic 
+locations with access to major roads and other infrastructure.  
+Some large employment areas are in towns, see Economic Development.  
+Mixed Use 
+Employment 
+Mixed Use 
+Residential  
+Mixed Use areas offer opportunities for an integrated mix of residential, employment, and 
+commercial uses. Mixed Use areas are on US 40 and adjacent or close to the AMTRAK and CSX rail 
+line, where they can benefit from future expanded transit service.  Residential densities in mixed use 
+areas are from six to 12 dwelling units per acre, increasing to over 12 dwelling units per acre in some 
+portions.  
+Town 
+Incorporated towns. The towns have their own planning authority and adopt their own 
+comprehensive plans.  
+Rural Areas 
+Rural 
+Conservation 
+The Rural Conservation Area is intended to encourage retention of agricultural and forestry uses and 
+to support the County’s agriculture industry.  Residential development is permitted but at low density, 
+one dwelling unit per 10 acres, to maintain rural character of this area of the County.  
+Resource 
+Protection 
+The Resource Protection area is intended to encourage retention of agricultural land and agricultural-
+related activities and to support the County’s agricultural industry.    Residential development is 
+permitted but at very low density, one dwelling unit per 20 acres. 
+Other Areas 
+Mineral 
+Extraction 
+The Mineral Extraction Area protects mineral deposits of economic importance from preemption by 
+development until the deposits have been mined.  Mineral Extraction Areas are not expected to be 
+available for development during the life of this Comprehensive Plan.  Most Mineral Extraction Areas 
+are future Growth Areas that are part of the Designated Growth Area. 
+Village 
+The Village district is intended to protect the character of the County’s historic villages by separating 
+them from surrounding rural or developed areas and allowing a limited amount of growth.  Villages 
+are primarily residential, with a limited amount of commercial uses serving the needs of residents of 
+the village and nearby rural areas.  Residential densities are typically about one unit per acre without 
+public sewer and water but can be increased to four units per acre with public sewer and water.
+
+<!-- page 45 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-22 
+3.6 
+Land Use Issues 
+3.6.1 
+Community Character 
+By 2030 Cecil County is projected have 51,000 more people, 22,000 more housing units, and 
+19,500 more jobs (see Section 2.6).  A key measure of the success of this Comprehensive 
+Plan will be how attractive the County is after this development occurs.  The challenge, in 
+regard to community character and design, will be to integrate future development with the 
+rural landscape and the development already in place to create a cohesive rural, suburban 
+and urban character that features distinct, attractive and healthy communities. 
+Community character can be considered the sum of the characteristics that make a place 
+distinctive.  For Cecil County, these characteristics include agricultural landscapes, abundant 
+open space, a diversity of environmental resources, small towns with historic cores, rural 
+roads, historic resources, a range of housing types, and access to major transportation 
+corridors and job centers.  
+Although many developed areas in Cecil County have been well designed as individual 
+projects, the need to create a more cohesive development character will become more urgent 
+as more growth occurs in “infill” situations (filling in spaces between existing development).  
+Growth areas must be perceived as attractive places to live for development to occur there.  
+Growth areas also must function well as places to live, work and play.  This not only involves 
+providing adequate infrastructure to support growth, but assuring that the design and layout 
+of infrastructure and development enables residents and workers to benefit from convenient 
+access to well-designed, attractive parks, schools, shopping areas, employment and public 
+spaces.   
+The Plan has been drafted in light of the State’s planning visions.  These visions address 
+quality of life and sustainability through the stewardship of environmental resources, and 
+community design through the development of mixed-use, walkable communities.  The 
+Citizens Oversight Committee endorsed these visions and drafted goals that address these 
+visions and define a vision of future land use. 
+A primary concern of many participants in the Comprehensive Plan process has been that 
+development will compromise the very characteristics that make Cecil County an attractive 
+place to live and work.  Therefore, the County needs to consider character and design issues 
+very carefully as the Plan is implemented.  This section attempts to summarize the County’s 
+vision of community character. 
+Farms such as Mt. Ararat near Port Deposit add character to the County. 
+Photo Courtesy of Cecil Soil Magazine
+
+<!-- page 46 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-23 
+3.6.2 
+Community Character in Growth Areas  
+Concentrating development in growth areas will help to protect rural character by directing 
+development to higher density areas served, or intended for service, by public water and 
+sewer.  Within the growth areas are distinct districts with varying densities.  The High and 
+Medium High areas are more urban in character, as are the Mixed Use areas.  Medium and 
+Low growth areas are more suburban in nature.  However, all growth areas should have a 
+built environment and open spaces that enhance community character and reinforce the 
+neighborhood’s identity. 
+The overall vision for growth areas is for well-designed, attractive, compact, pedestrian-
+oriented communities with useable open space and convenient travel connections between 
+adjacent and nearby developments.  Residential and commercial areas should be connected 
+where possible to provide residents with transportation options and to help reduce the 
+demand for vehicle trips, especially for local travel. 
+The County can enhance community character by planning public projects and working with 
+developers to: 
+• 
+Create concentrations, or nodes, of development at strategic locations 
+• 
+Develop plans that create a sense of place  
+• 
+Incorporate existing and future transit considerations into development  
+• 
+Locate commercial uses in nodes, and not as strip development along highways 
+• 
+Create compact neighborhoods accessible on foot or by bicycle to open space and public 
+uses 
+• 
+Create usable public open spaces 
+• 
+Incorporate green infrastructure 
+considerations into development 
+(see Chapter 7) 
+• 
+Connect neighborhoods to parks, 
+trails and greenways 
+• 
+Create community centers, 
+gateways and focal points with a 
+design theme that reflects the 
+vitality and character of the 
+surrounding area 
+• 
+Reduce potential conflicts 
+between land uses through site 
+design, buffers and landscaping 
+• 
+Access major residential, 
+commercial and industrial 
+developments by internal roads, not directly from State or County roads 
+• 
+Connect internal street networks between adjacent developments wherever possible to 
+avoid concentrating traffic on major roads 
+• 
+Design stormwater management systems so they become amenities 
+The County developed a Smart Code Report including many of the techniques listed above 
+and a 2004 amendment to the 1990 Comprehensive Plan recommended the County adopt a 
+“smart code” ordinance “that provides for the establishment of well planned, mixed use 
+communities and neighborhoods in our priority funding areas.”  
+The Elkton West Area 
+Perhaps the most strategic growth area in Cecil County is the area around Elkton, especially 
+the area known as Elkton West.  The area north, northwest and northeast of the Town has 
+Bus stops near residential uses support the use of transit 
+at Chesapeake Ridge near North East.
+
+<!-- page 47 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-24 
+been designated for growth for many years, but development has been stymied by the lack of 
+public sewer and water infrastructure.   
+The County has attempted to move development forward by signing an agreement with the 
+Artesian Water Company to provide water and wastewater service to this area.  However, the 
+Town of Elkton continues to view portions of Elkton West as potential annexation areas, 
+consistent with its long-standing policy and vision of its boundaries as I-95 on the north, 
+Frenchtown Road on the south, and the state line on the east. 
+The County’s Future Land Use Plan envisions this area as a mix of High and Medium High 
+growth areas, while the Town’s vision is for more moderate densities and opportunities for 
+employment growth.  Given the importance of this area, an area plan would help to 
+coordinate competing visions and develop a land use framework that can be implemented 
+with infrastructure improvements to create an attractive and cohesive development pattern. 
+Similarly, the vision and timeframe for development south of Elkton differs between the 
+County and the Town.  This area should be examined further to prioritize its development 
+relative to other growth areas. 
+Coordination with the Towns 
+The areas around Elkton are examples of the need to coordinate with the Towns on their 
+future growth areas and the character of the development in these areas.  The land use 
+vision in this plan concentrates development in the Growth Corridor more densely than in the 
+past.   
+In order to implement the community character elements described in this section, the 
+County’s and the Towns’ development visions need to be consistent and the provision of 
+public infrastructure coordinated.  Without this communication and coordination, these growth 
+areas will likely develop on a project-by-project, haphazard basis unconnected and contrary 
+to the vision of the County’s development character as cohesive, interconnected and well-
+designed, with mutually supportive land uses. 
+The US 40 Corridor as Cecil County’s primary business corridor 
+The US 40 corridor in Cecil County extends from the Susquehanna River through Perryville, 
+North East and Elkton, to the Delaware state line.  Since the highway was constructed in the 
+1930s, it has served as the County’s “Main Street” in the sense of its being the location of the 
+county’s major commercial and business areas as well as the Towns of Elkton, Perryville, 
+and North East.  It is a gateway to the Eastern Shore as well. 
+The County now has new business areas closer to I-95 but this Comprehensive Plan seeks 
+to strengthen and reinforce US 40 as the County’s primary business corridor – or “address 
+street” to differentiate it from the smaller, more intimate main streets in the towns.  Principio 
+business park is a good example of new development reinforcing the US 40 corridor.  
+Segments of US 40, especially between Perryville and North East, cut through areas that 
+today are undeveloped with a rural feel.  However, a significant portion of the highway 
+frontage contains automobile-oriented strip development.  Setbacks, landscaping and 
+building types are not consistent and pedestrian and vehicle connections between parcels is 
+very limited.  Although the general development pattern serves today’s needs, continuation of 
+this pattern will gradually increase the number of driveways, use up the available roadway 
+capacity and result in more traffic signals, and travel delays – not supportive for a primary 
+business corridor. 
+To address these issues, the Cecil County Economic Development Commission appointed a 
+Route 40 Beautification Committee to take a comprehensive look at US 40, examine what 
+other jurisdictions are doing along similar corridors, and recommend potential improvements.  
+The committee recommended that the County develop a plan in coordination with Maryland 
+State Highway Administration, property owners and the towns along US 40, with the
+
+<!-- page 48 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-25 
+Department of Public Works and state representatives, to develop a coordinated approach to 
+improve the character of the corridor.  The committee recommended that the County consider 
+developing a Route 40 Corridor Overlay District that would enable all of the parties to develop 
+a common vision for the corridor and create the tools needed to implement it. 
+The significance of US 40 will continue to grow as the County does.  The corridor will retain 
+its function as a major east-west route connecting Delaware and Maryland, a primary 
+transportation route for County residents, a commercial corridor, especially through the towns 
+of Elkton, North East and Perryville, and an integral component of the County’s economic 
+development infrastructure. 
+This Comprehensive Plan 
+envisions US 40 as a free-flow 
+roadway incorporating transit, and 
+connecting towns and nodes of 
+development.  This is especially 
+true of the proposed mixed-use 
+areas west of Elkton.  These 
+mixed-use areas provide an 
+opportunity for the County to 
+attract office and other 
+employment uses in attractive 
+mixed-use and business campus 
+developments, flanked by 
+commercial and residential uses 
+in close proximity.  
+The Beautification Committee described a vision for US 40 consistent with the land use goals 
+of the Comprehensive Plan, in that it seeks to “create vibrant, mixed-use, pedestrian-oriented 
+retail and service centers within a mix of residential and office uses, ideally centers should be 
+located within a quarter mile of higher density population concentrations; these centers 
+should have higher quality design with pedestrian-oriented areas with focal points, cafes and 
+plazas to create a sense of place.” 
+As a major transportation facility, US 40 provides opportunities for the County to integrate 
+transportation and land use and create a development pattern that supports future multi-
+modal transportation improvements.  Chapter 5, Transportation, describes some future road 
+section concepts for US 40.  
+3.6.3 
+Community Character in Rural Areas 
+The primary characteristic of rural areas is a sense of openness.  Rural landscapes are 
+dominated by agricultural and forest land.  Too much residential development in rural areas 
+can impact this character by reducing the sense of openness and making rural areas appear 
+more suburban in character. 
+A goal of this plan is to preserve rural character in an economically sustainable manner.  This 
+involves preserving agricultural, forested, wetland and waterfront landscapes, protecting 
+scenic views, enhancing historic and cultural resources, maintaining the character of 
+crossroad and waterfront villages, and incorporating a manageable amount of rural 
+residential development.  Although rural character is associated with open space, rural 
+development, focused primarily on agriculture, agribusiness, and other natural resource-
+based enterprises is necessary to keep rural areas economically vibrant and sustainable.   
+Clustering Residential Uses to Preserve Open Space 
+Clustering, or conservation development, has become common in recent years as a way to 
+allow development while still protecting environmental resources, creating open space, and 
+protecting farmland and the character of rural communities.  Cluster developments typically 
+Principio Business Park includes 800 acres of employment land 
+along US 40 between Perryville and North East
+
+<!-- page 49 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-26 
+allow for the same density yields as conventional development, but on smaller lots so that 
+open space can be protected.  Usually, the open space that is provided contains 
+environmental resources and sometimes may not be developable based on environmental 
+regulations.   
+Note, the County zoning ordinance distinguishes between “open space” which is land and 
+water areas retained for use as active or passive recreation areas or for resource protection 
+and “common open space” which is land for the use of owners and residents of a 
+development. The Comprehensive Plan uses the term open space in its broader sense.  
+The advantages of clustering relate to the use and perception of the open space as an 
+amenity.  It creates an openness that many people desire, in some cases it can be farmed, 
+and it can benefit the environment by better protecting a site’s natural features, providing 
+habitat for wildlife, reducing storm water runoff from impervious surfaces.  By connecting the 
+open space of adjoining conservation design subdivisions environmental habitat “corridors” 
+can be created for wildlife. 
+While clustering provides many advantages, it is not always an effective tool to protect 
+agriculture.  Unless the open space is very large and regularly shaped, it can be difficult for 
+traditional farming to continue in the open-space areas. The proximity of residential 
+development, traffic, and concerns over nuisance complaints can discourage farmers from 
+using such parcels.  
+The current development requirements in the NAR and SAR zoning districts effectively 
+mandate clustering in that a minimum 60 percent of a new subdivision must be in open 
+space.  To achieve rural character and support agriculture and other natural resource uses, 
+the required open space in subdivisions needs to be as large and regularly configured as 
+possible.  
+3.6.4 
+Creating an Effective Transfer of Development Rights Program 
+The County adopted a Transfer of Development Rights (TDR) program in 2006 to provide an 
+additional incentive for agricultural land preservation in concert with increased density in the 
+1990 Comprehensive Plan’s growth areas.  However, the program has not yet been used.  
+While this may be in part because the program was adopted just prior to a severe 
+development slowdown, the program should be reviewed to incentivize its use to the greatest 
+degree possible.  A viable TDR program will be key to achieving several of this 2010 
+Comprehensive Plan’s goals.  
+Part of the review should include the use of TDRs to increase density in the Growth Corridor.  
+Higher density is desired in the Growth Corridor, especially in the high and medium-high 
+areas but should be tied to land 
+preservation, especially in the Priority 
+Preservation Area (see Sensitive Areas 
+element).  The review should include TDR 
+sending and receiving rates.    
+3.6.5 
+Historic Sites, Scenic Roads 
+Cecil County has a rich historic heritage 
+contributing to community character 
+throughout the County in both growth 
+areas and rural areas.  The Cecil County 
+Historic Sites Survey, maintained by the 
+Maryland Historical Trust (MHT), lists 
+1,567 sites, of which 48 sites are listed on 
+the National Register of Historic Places, 
+and 20 sites are protected by a historic 
+preservation easement held by the MHT.  
+18
+th Century Elk Landing, a historic site south of 
+Elkton, is on the National Register of Historic 
+Places.
+
+<!-- page 50 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-27 
+Many important historic sites are in Towns, several of which have historic districts.   
+In 2000, as recommended by the 1990 Comprehensive Plan, the County amended its zoning 
+ordinance to include a historic district overlay zone and create a Historic District Commission.  
+The Overlay Zone is applied on a strictly volunteer basis and currently covers 24 sites (Map 
+3.5).  The Lower Susquehanna Heritage Greenway is a certified Maryland Heritage Area, 
+thus important to the County’s historic heritage and, increasingly, important to tourism (see 
+Chapter 4, economic development).   
+Cecil County’s rural landscape is most easily viewed from roads.  Cecil County has several 
+state-designated scenic byways that also attract visitors including MD Routes, 213, 222, 273 
+and US 1.  MD 213 is in the National Scenic Byways Program.  In addition many County 
+roads are scenic and historic and contribute greatly to local character.   
+Protecting historic and scenic resources wherever possible, and giving them due 
+consideration in development planning is important to ensure that they continue to contribute 
+to enhance the character of the County.  A study of county scenic roads would be valuable to 
+determine whether a protection program is warranted. 
+3.6.6 
+Watershed Planning 
+In recent years, the State of Maryland, local governments, regional planning agencies, inter-
+jurisdictional governmental associations and nongovernmental organizations have focused 
+efforts to improve water quality in the Chesapeake Bay and local watersheds.  Many of these 
+efforts address land use, because the characteristics of development, especially the amount 
+of impervious surface have a direct impact on water quality.  The greater the amount of 
+impervious surface, the more that water quality is degraded.  Therefore, how land is used – 
+and local land use decisions are implemented – have a significant impact on water quality 
+and the environment. 
+The watershed is the most appropriate geographic scale within which to assess and provide 
+policy guidance to manage pollution and degradation of the County’s waterways.  This 
+approach can help to prioritize capital expenditures and restoration efforts in portions of the 
+County where water quality is most threatened.  
+Cecil County does not have a comprehensive watershed-based planning framework.  
+Developing such a framework would give the County the policy basis for land use, 
+environmental, and other decisions that have the potential to impact water quality.  As 
+described in Chapter 7, Sensitive Areas, a watershed planning approach also can provide 
+guidance on decisions with the potential to impact the County’s natural resources. 
+This Plan attempts to integrate the findings of the Water Resources element (Chapter 6) with 
+land use and the protection of environmental resources (described in Chapter 7, Sensitive 
+Areas) to create a sustainable framework for local land use decision-making.  This approach, 
+generally referred to as watershed planning, will become increasingly important as efforts to 
+improve water quality are implemented and refined. 
+3.6.7 
+Protecting Private Property Rights 
+This plan has been drafted to serve as a policy guide and framework for future growth and 
+development in Cecil County.  Many of the most important policy questions addressed by this 
+plan deal with land use.  As a county grows and its regional planning context changes, 
+policies and regulations often need to change in response.   
+When a local government changes its policies, landowners may be affected, both positively 
+and negatively.  In drafting this plan, it has been a goal of the County to balance the need to 
+manage growth with the rights of private property owners.  Although achieving such a 
+balance is a challenge, this plan seeks to protect property rights to the extent possible as it 
+addresses the County’s need to manage future residential, commercial and industrial growth 
+for the County’s overall benefit.
+
+<!-- page 51 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-28 
+Map 3.5: Historic Districts
+
+<!-- page 52 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-29 
+3.7 
+Policies and Actions  
+1. Use the future land use map (Map 3.3) and this chapter as a basis for updating the 
+County’s zoning map and zoning and land development ordinances.  
+2. Make the Growth Corridor attractive and functional to attract people to live and 
+businesses to locate and expand: 
+a. Provide adequate, attractive infrastructure and community facilities to serve the area; 
+schools, transit, sidewalks and trails, parks, cultural amenities, police, fire and 
+emergency services, health care, libraries, as well as basic services such as roads, 
+water and sewer, telecommunications, and solid waste.  
+b. Review the Planned Unit Development (PUD) regulations and approval process to 
+make PUDs easier to develop in desired locations (see Section 3.5.1).   
+c. Create mixed use zoning districts to facilitate development in the Future Land Use 
+Map’s Mixed Use areas.  Encourage the development of horizontal and vertical 
+mixed uses 
+d. Adopt a Smart Code Ordinance to provide urban design requirements leading to the 
+building of attractive, walkable, communities (see Section 3.6.2).  
+e. Consider increasing the maximum height limits in the zoning ordinance. 
+f. 
+Consider establishing minimum development densities in portions of the Growth 
+Corridor.  
+3. Consider a growth management policy to ensure that development in rural areas does 
+not exceed a desirable share of overall county development.  Between 1997 and 2008 
+approximately 50 percent of Cecil County building permits were issued for development 
+in growth areas and 50 percent for development outside of growth areas (not including 
+towns).  This Comprehensive Plan, while not adopting a specific desirable share number, 
+recognizes that 50 percent of development outside growth areas exceeds the desirable 
+share.   
+Following adoption of the Comprehensive Plan, appoint a broad-based committee to 
+recommend a plan and related ordinances to implement this policy.  The plan should 
+consider the following: 
+• 
+What the desirable growth areas versus non growth areas shares of development 
+should be, and how they should be measured, in acres or in lots, for example.  
+• 
+Whether the policy should be implemented through building permits or through the lot 
+creation (subdivision) process.  
+• 
+A provision that would, in addition to the non growth areas share of development, 
+permit the approval of residential building lots (perhaps up to two) between parents 
+and children, or grandparents and grandchildren. 
+• 
+A fair and equitable queuing system for allocating building lots/dwelling units among 
+competing residential projects.  This might include phasing of development in large 
+residential projects in non-growth areas that might, on their own, take up a large 
+proportion of the available share of development.   
+• 
+Allowing periodic (annual or biannual) review by the County Commissioners of the 
+policy, share numbers, and implementing regulations.   
+The results of this effort should be coordinated with the State’s Smart, Green and 
+Growing requirements for an annual report beginning in 2011, establishing a goal and 
+documenting the amount of growth occurring inside and outside of Priority Funding 
+Areas. 
+4. Review the Transfer of Development Rights (TDR) program, including the sending and 
+receiving rates, to incentivize its use to the greatest degree possible.
+
+<!-- page 53 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+3-30 
+5. Continue to use all means to preserve land in the Rural Areas for agricultural and natural 
+resource pursuits.  See Chapter 7 the Sensitive Areas element. 
+6. Locate commercial uses at key intersections and nodes and not as strip development 
+along major roads. 
+7. Coordinate with the Towns to plan for future annexation areas, and for compatible land 
+uses along common boundaries. 
+8. Coordinate with the State and the Towns to identify improvements for the US 40 corridor 
+to support its role as the County’s primary business corridor (see Chapter 5). 
+9. Conduct a Village District Study to evaluate current conditions in villages, changes since 
+the villages were designated, and whether adjustments should be made to the zoning 
+map and text as they affect villages.  
+10. Conduct a study of county scenic roads and determine whether a protection program for 
+the road and of the land and views from the road is warranted.
+
+<!-- page 54 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+4-1 
+4 
+Economic Development 
+Many of the goals of the 2010 Comprehensive Plan relate to economic development in Cecil 
+County.  This chapter describes the County’s economy and recent economic trends, 
+discusses key issues, and documents the Comprehensive Plan’s economic development 
+goals, policies, and action items through 2030.   
+4.1 
+Goals and Objectives 
+1. Designate sufficient land in appropriate locations as employment, commercial and 
+business areas. 
+2. Increase employment in Cecil County to provide jobs for residents, reduce the need to 
+commute outside of the County to work, and expand the tax base.   
+3. Increase the ratio of jobs to housing units in the County. 
+4. Encourage the expansion of the manufacturing, high tech, and research and 
+development industries. 
+5. Expand the job skills of the County workforce. 
+6. Encourage sustainable agribusiness and other natural resource based industries, 
+including mineral extraction and fisheries. 
+7. Maintain the equity value of agricultural land. 
+8. Support a productive base of forestland and a forest resource industry, emphasizing the 
+economic viability of privately owned forestland. 
+9. Promote tourism.  
+4.2 
+Overview 
+Located midway between Baltimore and Philadelphia and a short distance from Wilmington, 
+Cecil County benefits from a multi-modal transportation network that provides easy 
+connections to metropolitan areas throughout the Eastern Seaboard.  As such, the County 
+offers an attractive location for employers seeking to establish, expand and relocate their 
+businesses. 
+Although Cecil County remains largely rural, its population growth over time is attributed in 
+part to the in-migration of residents from neighboring jurisdictions.  These relocators generally 
+have retained their jobs, which has influenced the County’s jobs-to-housing ratio, one 
+measure of the local economy.  This ratio is important because it relates the number of jobs 
+in an area to the number of housing units; the more jobs per housing unit, the more economic 
+opportunities for local residents and the less commuting to other jurisdictions that is required 
+by local workers.   
+Compared to neighboring counties, Cecil County generally lacks jobs, as measured in terms 
+the ratio of jobs to housing.1  As the County grows and becomes more populous, it will need 
+more jobs to provide economic opportunities for residents and to increase the tax base 
+needed to support public services.   
+The availability of developable land, growth pressures originating in larger, surrounding 
+jurisdictions, the effects of Base Realignment and Closure (BRAC), and the influence of 
+                                                     
+1 In 2005, Cecil County had a jobs-to-housing units ratio of 0.99, compared to 1.22 in Harford County, 1.25 in Kent 
+County, 1.60 in Lancaster County, 1.69 in Newcastle County and 1.76 in Chester County (U.S. Bureau of Economic 
+Analysis and U.S. Census Bureau).  A portion of Cecil County’s lower ratio is attributable to a higher housing 
+vacancy rate.
+
+<!-- page 55 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+4-2 
+Interstate 95, US 40 and other elements of the Northeast’s transportation infrastructure bring 
+the potential for rapid residential growth in the years ahead.   
+The County’s challenge is to both stimulate economic development and manage it proactively 
+in a way that creates a balanced tax base while protecting the County’s environment and 
+rural character and providing adequate infrastructure for this growth.  Part of creating this 
+balanced tax base is developing an economic environment that attracts high–wage 
+employers and businesses that contribute to indirect economic development opportunities 
+such as secondary job creation and spinoff spending that supports existing businesses and 
+creates new opportunities. 
+This Plan seeks to bolster the County’s economic position by providing the land use 
+framework to support increases in both the absolute number of jobs in the County and the 
+ratio of jobs to households.  Plan policies support the growth of local employers and 
+encourage the development of high-tech, research and development industries, as well as 
+manufacturing, in designated employment areas, mixed-use areas and in employment areas 
+in the towns.   
+Agribusiness and natural resource-based industries are important economic engines for Cecil 
+County (see Section 4.2.2).  As the county grows and development pressures increase, 
+protecting natural resource-based land from extensive development will be critical so that the 
+County retains a sustainable natural resource-based economic sector.    
+This element also addresses fisheries in Cecil County. 
+4.2.1 
+Employment 
+Cecil County benefits from a diverse business community of more than 2,000 employers that 
+provided more than 28,000 jobs as of 2008 (Table 4.1)2.  Eighty percent of these jobs are in 
+the private sector, while one-fifth is in the Federal, State or local governments.  More than 30 
+of these employers have 100 or more workers, led by W.L. Gore, the Perry Point VA Medical 
+Center, Union Hospital of Cecil County, Alliant Techsystems (ATK), Cecil County 
+Government, Wal-Mart and IKEA (Table 4.2). 
+                                                     
+2 Note, the numbers in Tables 4.1, 4.3 and 4.4 reflect “covered employment”; jobs on which unemployment 
+insurance taxes are paid.  The employment numbers in Table 2.1 are higher because they include all jobs.
+
+<!-- page 56 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+4-3 
+Table 4.1: 
+Full Time Jobs in Cecil County and Maryland, 2008 
+ 
+Cecil County 
+State of Maryland
+Sector 
+Jobs 
+Share 
+Jobs 
+Share 
+of Total
+of Total
+Government 
+5,407
+19%
+470,409 
+19%
+ 
+Federal1 
+1,250 
+4% 
+127,150 
+5% 
+ 
+State 
+323 
+1% 
+99,683 
+4% 
+ 
+Local 
+3,834 
+14% 
+243,576 
+10% 
+Private Sector 
+22,944
+81%
+2,066,991 
+81%
+ 
+Natural Resources and Mining 
+623 
+2% 
+6,528 
+0% 
+ 
+Construction 
+1,354 
+5% 
+178,076 
+7% 
+ 
+Manufacturing 
+4,600 
+16% 
+128,440 
+5% 
+ 
+Trade, Transportation, and Utilities 
+6,332 
+22% 
+461,249 
+18% 
+ 
+Information 
+246 
+1% 
+49,820 
+2% 
+ 
+Financial Activities 
+787 
+3% 
+149,220 
+6% 
+ 
+Professional and Business Services 
+1,534 
+5% 
+398,952 
+16% 
+ 
+Education and Health Services 
+3,273 
+12% 
+367,671 
+14% 
+ 
+Leisure and Hospitality 
+3,241 
+11% 
+236,048 
+9% 
+ 
+Other Services/Unclassified 
+954 
+3% 
+90,987 
+4% 
+Total Employment (Non-Farm)
+28,351
+100%
+2,537,400 
+100%
+1   Maryland Department of Labor, Licensing, and Regulation’s official federal number is 3,567, but this number 
+includes all Veterans Administration Healthcare System in Maryland (an official break out by County is not available).  
+Table 4.1 uses 1,300 (1,125 from table 4.2 plus an estimated 125 for post office and other federal employment).  
+Sources: Maryland Department of Labor, Licensing, and Regulation (DLLR), 2008 Cecil County, State of Maryland 
+Fact Sheets 
+As a primarily rural county in one of the country’s most urbanized states, Cecil County has an 
+economic profile that differs from the State of Maryland.  The County continues to have a 
+significant manufacturing sector (16 percent of all jobs in Cecil County, versus 5 percent of all 
+jobs statewide) that offers competitive pay and benefits.  In fact, the manufacturing sector 
+represents the second highest payroll category of all industry sectors in Cecil County (Table 
+4.3).   
+Given its location along major transportation corridors, the County also has a large 
+warehouse and distribution sector (included in the “Trade, Transportation and Utilities” 
+category on Table 4.1), representing more than one in five jobs countywide in 2008.  Retail 
+jobs are counted in this category, which generally has relatively low-paying jobs (the third 
+lowest among the sectors listed in Table 4.3). 
+Cecil County lags behind the state in terms of jobs in the Professional and Business 
+Services.  Only five percent of jobs in the County are within this category, compared to 16 
+percent statewide.  The County also has a small financial sector, with 787 jobs, or three 
+percent of all jobs in the County.  Six percent of all jobs statewide are in this sector. 
+Approximately one in five jobs in Cecil County are government jobs, the same proportion than 
+exists statewide.  Four percent (1,250 jobs) are for the Federal government, which is 
+comparable to the percentage of Federal jobs for the state as a whole (five percent).  More 
+than 1,100 of these jobs are at the Perry Point VA Medical Center in Perryville.
+
+<!-- page 57 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+4-4 
+Table 4.2: 
+Major Employers, 2009  
+Company  
+Workers
+Product / Service 
+Industry  
+W. L. Gore & Associates  
+2,667 
+Medical products / R&D 
+Manufacturing  
+Perry Point VA Medical 
+Center1 
+1,125 
+Medical services  
+Health care  
+Union Hospital of Cecil County  
+864 
+Medical services  
+Health care  
+ATK  
+795 
+Propellants, rocket 
+motors  
+Manufacturing  
+Cecil County Government 
+6102 
+Government 
+Government 
+Terumo Medical  
+565 
+Medical products/ R&D  
+Manufacturing  
+Wal-Mart   
+500 
+Consumer goods  
+Retail trade  
+IKEA  
+370 
+Home furnishings 
+distribution  
+Wholesale trade  
+Cecil College  
+300 
+Higher education  
+Educational services  
+Performance Food Group  
+265 
+Food products 
+distribution  
+Wholesale trade  
+Burris Logistics  
+250 
+Refrigerated trucking  
+Transportation and 
+warehousing   
+Moon Nurseries  
+240 
+Nursery products  
+Agriculture  
+Terumo Cardiovascular 
+Systems  
+220 
+Medical products / R&D 
+Manufacturing  
+Chesapeake Publishing  
+200 
+Newspaper publishing 
+& printing  
+Information  
+Upper Bay Counseling and 
+Support  
+200 
+Medical services  
+Health care  
+Calvert Manor Healthcare 
+Center  
+186 
+Nursing care  
+Health care  
+C&S Wholesale Grocers  
+180 
+Food products 
+distribution  
+Wholesale trade  
+Petro Fuel Operation  
+175 
+Truck fueling station  
+Retail trade  
+General Electric / Holman  
+163 
+Appliance distribution  
+Wholesale trade  
+Acme Markets  
+160 
+Groceries  
+Retail trade  
+Estes Express Lines  
+150 
+Truck terminal  
+Transportation and 
+warehousing   
+Laurelwood Care Center  
+150 
+Medical services  
+Health care  
+1: Employee counts for federal and military facilities exclude contractors 
+2: Full time equivalent 
+Source: Cecil County Office of Economic Development
+
+<!-- page 58 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+4-5 
+Table 4.3: 
+Employment and Payrolls, Cecil County, 2008 
+Industry 
+Average 
+Number of 
+Reporting 
+ Units 
+Annual 
+Average 
+Employment 
+Average 
+Weekly 
+Wage Per 
+Worker 
+Total Employment 
+2,039
+28,351
+$842
+Government
+76
+5,407
+$1,160
+Federal Government1 
+27 
+1,250 
+$1,554 
+State Government 
+6 
+323 
+$748 
+Local Government 
+43 
+3,834 
+$828 
+Private Sector 
+1,963
+22,944
+$735
+Goods Producing 
+398 
+6,577 
+$1,121 
+Natural Resources and Mining 
+40 
+623 
+$628 
+Construction 
+295 
+1,354 
+$689 
+Manufacturing 
+63 
+4,600 
+$1,314 
+Service Providing 
+1,565 
+16,367 
+$581 
+Trade, Transportation, and Utilities 
+469 
+6,332 
+$576 
+Information 
+18 
+246 
+$804 
+Financial Activities 
+188 
+787 
+$700 
+Professional and Business Services 
+300 
+1,534 
+$819 
+Education and Health Services 
+184 
+3,273 
+$757 
+Leisure and Hospitality 
+231 
+3,241 
+$300 
+Other Services 
+175 
+954 
+$418 
+1 Per Table 4.1 Maryland Department of Labor, Licensing, and Regulation’s official federal number is 3,567, but this 
+number includes all Veterans Administration Healthcare System in Maryland (an official break out by County is not 
+available).  Table 4.3 uses 1,300 (1,125 from table 4.2 plus an estimated 125 for post office and other federal 
+employment). 
+Source: Maryland Department of Labor, Licensing, and Regulation (DLLR) 
+Cecil County experienced 14 percent job growth between 2002 and 2008 (Table 4.4).  The 
+largest increases in jobs occurred in the manufacturing, education and health services, trade 
+transportation and utilities, and local government sectors.  The fastest growing sectors in 
+terms of rate of growth were education and health services, manufacturing, professional and 
+business services and local government. 
+4.2.2 
+Key Industry Sectors 
+This section describes some of the major components of the County’s economy. 
+Warehousing and Distribution 
+The largest employment sector in Cecil County is trade, transportation and utilities, which 
+includes warehousing and distribution, as well as commercial/retail employers.  As of 2008, 
+this sector had 6,300 full-time jobs or more than one-in-five of the full-time jobs in the County.  
+This figure represents a 13 percent increase over 2002.
+
+<!-- page 59 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+4-6 
+Table 4.4: 
+Employment Trends, Cecil County, 2002-08 
+ 
+2002
+2008
+Change 2002-08
+Industry 
+Unit
+s 
+Jobs 
+Unit
+s 
+Jobs 
+Unit
+s 
+Jobs 
+Job Growth 
+(%)
+Total Employment 
+1,696 
+26,87
+3 
+2,039 
+30,66
+8 
+343 
+3,79
+5 
+14% 
+Government 
+48 
+6,978 
+76 
+7,724 
+28 
+746 
+11% 
+Federal Government1 
+28 
+1,250 
+27 
+1,250 
+-1 
+27 
+1% 
+State Government 
+7 
+333 
+6 
+323 
+-1 
+-10 
+-3% 
+Local Government 
+13 
+3,105 
+43 
+3,834 
+30 
+729 
+23% 
+Private Sector 
+1,648 
+19,89
+5 
+1,963 
+22,94
+4 
+315 
+3,04
+9 
+15% 
+Goods Producing 
+363 
+5,791 
+398 
+6,577 
+35 
+786 
+14% 
+Natural Resources and Mining 
+32 
+525 
+40 
+623 
+8 
+98 
+19% 
+Construction 
+266 
+1,583 
+295 
+1,354 
+29 
+-229 
+-14% 
+Manufacturing 
+65 
+3,683 
+63 
+4,600 
+-2 
+917 
+25% 
+Service Providing 
+1,282 
+14,09
+8 
+1,565 
+16,36
+7 
+283 
+2,26
+9 
+16% 
+Trade, Transportation, and 
+Utilities 
+438 
+5,582 
+469 
+6,332 
+31 
+750 
+13% 
+Information 
+15 
+258 
+18 
+246 
+3 
+-12 
+-5% 
+Financial Activities 
+115 
+724 
+188 
+787 
+73 
+63 
+9% 
+Professional and Business 
+Services 
+217 
+1,233 
+300 
+1,534 
+83 
+301 
+24% 
+Education and Health Services 
+135 
+2,450 
+184 
+3,273 
+49 
+823 
+34% 
+Leisure and Hospitality 
+206 
+2,991 
+231 
+3,241 
+25 
+250 
+8% 
+Other Services 
+156 
+860 
+175 
+954 
+19 
+94 
+11% 
+Unclassified 
+3
+6
+0 
+0 
+-3 
+-6 
+-100% 
+1 See footnote to tables 4.1 and 4.3 for adjustments to federal employment. 
+Source: Maryland Department of Labor, Licensing, and Regulation (DLLR) 
+Cecil County has a significant distribution industry that benefits from the County’s location on 
+Interstate 95, US 40 and two rail corridors, and its proximity to major metropolitan centers.  
+This industry sector also has relatively minor water and wastewater infrastructure needs, 
+which has made it a viable industrial use in areas of the County that have had limited public 
+infrastructure. 
+The largest existing facility is the 1.7 million square foot IKEA distribution center in Perryville, 
+which employs 370 people.  The General Electric/Holman Distribution center at Principio 
+Business Park is the second largest facility in terms of size, with 1.1 million square feet.  The 
+second and third largest distribution facilities in terms of employees are Performance Food 
+Group (265 jobs) on MD 279 north of Elkton and Burris Logistics (250 jobs) at Broadlands 
+Business Park in Elkton. 
+In 2007, the Cecil County Economic Development Commission created a workgroup to 
+develop a growth study compiling and analyzing data for use in policy and decision-making. 
+The resulting Growth Study discussed the future of the distribution industry in light of the
+
+<!-- page 60 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+4-7 
+County’s efforts to diversify the local economy.3  One of the key questions the study identified 
+was whether the County should continue to actively pursue large distribution centers and 
+warehouses.  Many factors underlie this concern.  Wages in this sector are generally lower 
+than in the manufacturing and professional and business service sectors; warehousing 
+supports fewer jobs per acre than these sectors; distribution facilities generate significant 
+truck traffic; and developing more distribution facilities will reduce the amount of employment 
+land available for other, higher wage purposes.   
+Since 2007, in light of this study, the County has focused economic development efforts on 
+attracting jobs in sectors with higher wage structures that provide more secondary benefits 
+and spinoff spending.  The County does not offer tax incentives to companies seeking 
+locations for warehouse and distribution centers but will otherwise support their development. 
+As the County grows, it will need commercial and retail establishments to serve the local 
+population.  Therefore, the retail segment of this sector likely will grow as the County does.  
+Manufacturing 
+Manufacturing has been an important element of Cecil County’s economy for many years.  
+Although the number of manufacturers is relatively small (63 employment units in 2008), 
+together they generate 4,600 jobs, making manufacturing the County’s second largest 
+employment sector.  Manufacturing also represented the fastest growing employment sector 
+in the County between 2002 and 2008, in terms of the number of jobs, with 917 new jobs 
+generated, a 25 percent increase from six years earlier (Table 4.4). 
+Cecil County is home to several large and innovative manufacturers that have continued to 
+perform well in a challenging economy.  The largest among these is W.L. Gore, with 2,600 
+employees across 13 locations in Cecil County, as part of its “eastern cluster” in the 
+Delaware Valley.  These facilities produce electronic interconnects, fabric laminates, 
+industrial sealants, filtration media and membrane technologies.  W. L. Gore also has a 
+growing research and development operation at its Cherry Hill facility.   
+Alliant Techsystems Inc. (known as ATK) operates its Tactical Propulsion and Controls unit in 
+Elkton with 795 employees, up from 350 a few years ago.  ATK is one of the largest 
+aerospace and defense contractors in the United States.  Terumo Medical has two plants in 
+Elkton employing 565 people who make cardiovascular equipment.  The Growth Study noted 
+                                                     
+3 The 2007 Growth Study was completed after the 2004 Cecil County Strategic Plan and shares much of its data. 
+North East Commerce Center provides over 
+345,000 SF of industrial space.
+
+<!-- page 61 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+4-8 
+that average weekly wages in manufacturing recorded the largest increase in Cecil County in 
+the five years prior to 2007 due to increased demand for specialized labor. 
+Given the importance that manufacturing plays in the local economy, the County will need to 
+continue its efforts to support workforce development, so that local residents have the skills 
+needed to work in the evolving manufacturing sector (see Section 4.2.4).  
+Education and Health Services 
+The fastest growing employment sector in Cecil County since 2002 has been education and 
+health services.  This reflects growth at Union Hospital of Cecil County, the Perry Point VA 
+Center, as well as many smaller medical services and nursing care providers.  As the local 
+population ages, this sector is likely to continue to grow. 
+In terms of education, Cecil College is the fastest growing community college in Maryland, 
+with enrollment growing more than 20 percent between 2005 and 2009, to 3,175 credit 
+students.  To serve this growing enrollment, Cecil College employs 300 people.  The college 
+plans to continue to expand enrollment at its campus in North East, a satellite facility in Elkton 
+and a planned facility at Bainbridge in Port Deposit. 
+Tourism 
+Cecil County’s rural character, quaint small towns, 220 miles of shoreline, water-oriented 
+sporting activities, equine industry, and accessibility to the Chesapeake Bay attract visitors 
+from throughout the region.  The County’s proximity to Washington D.C., Baltimore, 
+Philadelphia, and New York City provide opportunities to market the County’s historic, cultural 
+and natural resources to large populations within a short drive. 
+Cecil County’s colonial history dates to the 
+17th Century when Captain John Smith 
+established a settlement named Head of Elk 
+near the confluence of Big Elk and Little Elk 
+creeks, the area’s oldest transportation 
+corridors.  Later, the Town, now named 
+Elkton, became known as the “Marriage 
+Capital of Maryland,” drawing couples wanting 
+to marry quickly to Cecil County. 
+Today the County has approximately 1,500 
+historic sites and structures, 50 of which are 
+listed on the National Register of Historic 
+Places.   Significant historic resources include 
+Elk Landing, the Mount Harmon Plantation, 
+Principio Iron Works, Rodgers Tavern and the 
+Turkey Point Lighthouse.  The incorporated 
+towns also feature many historic resources, 
+including Historic South Chesapeake City (a 
+village located along the southern bank of the 
+Chesapeake and Delaware Canal) and the 
+entire Town of Port Deposit, both of which are 
+listed on the National Register, and the Big Elk 
+Creek Covered Bridge. 
+Cecil County also contains many recreational 
+and natural areas that draw visitors.  Elk Neck 
+State Park includes 2,200 acres of forests, cabins and campsites, as well as trails, a beach 
+and the Turkey Point Lighthouse. It is also a popular destination for birdwatchers due to hawk 
+migration patterns.  The Fair Hill Natural Resources Management Area includes 5,600 acres 
+of natural areas and 40 miles of trails.  Together, these two state parks are the most popular 
+Elk Neck State Park features the Turkey Point 
+Lighthouse, a National Register Site.
+
+<!-- page 62 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+4-9 
+tourist destinations in Cecil County, accounting for 800,000 visitors in 2008, half of whom 
+came from outside the County, according to the Cecil County Office of Tourism. 
+Other important resources that attract tourism include the Elk Neck Trail, Lower 
+Susquehanna Heritage Greenway, and the East Coast Greenway.  In 2001, Cecil County 
+adopted the Lower Susquehanna Heritage Greenway Management Plan and it is appended 
+by reference onto this 2010 Comprehensive Plan. The Heritage Plan documents the 
+Susquehanna’s cultural, natural and recreational resources and is designed to increase and 
+enhance visitation in the region.  Cecil County has several state-designated scenic byways 
+that attract visitors, including MD routes 213, 222, 273 and US 1.  MD 213 south of 
+Chesapeake City is in the National Scenic Byways Program.   
+Leisure and hospitality, a category that includes tourism-related industries, accounted for 11 
+percent of the County’s full-time jobs in 2008, although wages in this sector tend to be low 
+(see Table 4.3).  Expanding the base of tourism-related industries can help to diversify the 
+local economy and provide economic opportunities for residents and businesses. 
+In 2008, voters approved gambling at five sites across Maryland, including one in Perryville.  
+The proposed 138,000-square foot gaming parlor would be on 36 acres west of Perryville 
+Road (MD 222) north of Interstate 95 in Perryville.  The parlor, which is proposed to include 
+between 500 and 1,500 slot machines, is scheduled to open in October 2010.  The property 
+is part of a larger 140-acre site proposed as an entertainment destination featuring shops, 
+restaurants, entertainment venues, a theater, conference center and hotels.  An economic 
+and fiscal impact analysis completed for the Office of Economic Development in January 
+2009 estimated that the project, once completed in three proposed phases, would generate a 
+total economic impact of $123 million locally and support 967 new jobs representing potential 
+wages of $31.6 million. 
+Agriculture 
+Agriculture remains an important component of Cecil County’s economy, and the rural 
+landscape defines the County’s character.  As of 2007, about 38 percent of the County’s land 
+area was in farms.  The exact number of acres (85,206 in 2007) has varied in recent 
+agricultural censuses but has been in the range of 85,000 acres, or slightly less than 40 
+percent of the County’s land area, since at least 1992.   
+Table 4.5 summarizes key data about Cecil County’s agricultural industry.  These data show 
+Agriculture is an important component of the County’s economy and 
+heritage.  Photo Courtesy of Cecil Soil Magazine.
+
+<!-- page 63 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+4-10 
+several key trends: 
+• 
+The number of farms in Cecil County has increased since 2002, but the average farm 
+size has decreased.  Although this increase may be surprising given the amount of 
+growth in the County, it is not inconsistent with other Maryland counties, eight of which 
+also saw increases between 2002 and 2007. 
+• 
+The number of farm operators identifying agriculture as their primary occupation has 
+increased with the number of farms, though the number is small (296). 
+• 
+The market value per farm of agricultural products has increased steadily since 1997. 
+• 
+The number of small farms (defined as smaller than 50 acres) has increased over time, 
+while the number of large farms (180 acres or larger) has remained the same since 1997. 
+• 
+The amount of acreage dedicated to corn and beans has increased as prices for these 
+commodities have risen.   
+• 
+The amount of acreage planted in wheat, forage and other cropland has decreased over 
+time. 
+In 2007, prior to the 2007 Census of Agriculture, an Agriculture Study was prepared for the 
+Office of Economic Development.   The study included an extensive review of data, as well 
+as interviews with stakeholders in the agricultural industry.  Among the study’s key findings 
+were: 
+• 
+Cecil County has not lost farms or farmland as rapidly as the State of Maryland as a 
+whole 
+• 
+Cecil County farmers report higher net cash farm income on average than their 
+counterparts in the rest of the state.  However, farms reporting net losses in Cecil County 
+outnumbered net gainers by a ratio of approximately 3 to 2 
+• 
+Farm incomes were neither high nor stable enough to promote high survival rates 
+• 
+The County’s horse breeding industry is in decline 
+• 
+The next generation is not interested or prepared to guarantee agriculture’s future in 
+Cecil County  
+• 
+Agri-tourism and horticulture represent promising opportunities 
+Virtually all interviewees in the study agreed that the greatest threat to the future of Cecil 
+County agriculture is generational.  According to the farmers interviewed, younger family 
+members were generally not interested in farming, with many lured to nearby metropolitan 
+areas in search of more lucrative opportunities.  
+Several interviewees suggested that the widespread lack of interest in farming was the result 
+of a lack of awareness among young people about farm-related opportunities.  These 
+interviewees believe that agriculture-related courses should be available at all county high 
+schools and that the county would benefit from a new trade school (see Chapter 8, 
+Community Facilities). 
+Mining 
+Mining has played an important role in the economic and employment history of Cecil County.  
+The County’s primary mineral resources are aggregates, including sand, gravel, stone, as 
+well as clay.  On average, approximately 3 to 3.5 million tons of sand, gravel, and stone are 
+produced and sold annually by the County’s three largest producers.  In 2008, this sector 
+provided 623 jobs in Cecil County, or two percent of all full-time jobs (see Chapter 10, Mineral 
+Resources).
+
+<!-- page 64 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+4-11 
+Table 4.5: 
+Agricultural Economic Data 
+ 
+1997 
+2002 
+2007 
+Change 2002 to 2007 
+  
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Land in County (acres) 
+222,655 
+  
+222,655 
+  
+222,655 
+  
+  
+  
+Number of farms 
+510 
+  
+468 
+  
+583 
+  
+115 
+25% 
+Land in farms (acres) 
+86,419 
+39% 
+77,089 
+35% 
+85,026 
+38% 
+7,937 
+10% 
+Land in farms by land use (acres) 
+Cropland 
+62,168 
+81% 
+56,603 
+73% 
+60,147 
+78% 
+3,544 
+6% 
+Woodland  
+13,213 
+17% 
+9,520 
+12% 
+11,960 
+16% 
+2,440 
+26% 
+Pasture 
+6,517 
+8% 
+7,446 
+10% 
+8,040 
+10% 
+594 
+8% 
+Other (house lots, roads) 
+4,521 
+6% 
+3,520 
+5% 
+4,879 
+6% 
+1,359 
+39% 
+Number of Farms by Size  
+1-9 acres 
+44 
+9% 
+49 
+10% 
+68 
+15% 
+19 
+39% 
+10-49 acres 
+194 
+38% 
+192 
+41% 
+239 
+51% 
+47 
+24% 
+50-179 acres 
+143 
+28% 
+113 
+24% 
+162 
+35% 
+49 
+43% 
+180-499 acres 
+88 
+17% 
+77 
+16% 
+72 
+15% 
+-5 
+-6% 
+500-999 acres 
+28 
+5% 
+22 
+5% 
+25 
+5% 
+3 
+14% 
+1000+ acres 
+13 
+3% 
+15 
+3% 
+17 
+4% 
+2 
+13% 
+Market Value of Products Sold $ millions  
+Crops (including nursery & 
+greenhouse) 
+$22.70  
+39% 
+$30.20 
+44% 
+44.1 
+46% 
+$13.90 
+46% 
+Livestock 
+$35.90  
+61% 
+$38.40 
+56% 
+$51.70 
+54% 
+$13.30 
+35% 
+Total 
+$58.70  
+  
+$68.60 
+  
+$95.80 
+  
+$27.20 
+40% 
+Market Value of Land and 
+Buildings $ millions 
+$367.40  
+  
+$457.10 
+  
+$653.90 
+  
+$196.80 
+43% 
+Farms by value of sales  
+$24,999 or less 
+381 
+75% 
+342 
+73% 
+403 
+69% 
+61 
+18% 
+$25,000 and above 
+129 
+25% 
+126 
+27% 
+180 
+31% 
+54 
+43% 
+Top crops (acres) 
+  
+  
+  
+  
+  
+  
+  
+  
+Corn for grain 
+19,570 
+31% 
+18,760 
+33% 
+21,970 
+39% 
+3,210 
+17% 
+Soybeans 
+14,203 
+23% 
+13,849 
+24% 
+18,006 
+32% 
+4,157 
+30% 
+Forage (hay, grass) 
+8,523 
+14% 
+8,713 
+15% 
+8,365 
+15% 
+-348 
+-4% 
+Wheat 
+6,639 
+11% 
+6,724 
+12% 
+6,589 
+12% 
+-135 
+-2% 
+Other 
+13,233 
+21% 
+8,557 
+15% 
+5,217 
+9% 
+-3,340 
+-39% 
+Principal Farm Operator Characteristics  
+Farming as primary 
+occupation 
+248 
+53% 
+255 
+54% 
+296 
+51% 
+41 
+16% 
+Other as primary 
+occupation 
+262 
+56% 
+213 
+46% 
+287 
+49% 
+74 
+35% 
+Average age 
+56 
+  
+57.3 
+  
+56.6 
+  
+  
+  
+Hired Farm Labor (full and 
+part-time) 
+629 
+  
+1,423 
+  
+1,110 
+  
+-313 
+-22% 
+Note: Total County acreage (222,655) does not match other tables in this Plan because USDA uses a different map base. 
+Sources: USDA, 2007, 2002 and 1997 Censuses of Agriculture
+
+<!-- page 65 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+4-12 
+4.2.3 
+County Economic Policy 
+Cecil County Office of Economic Development 
+The Cecil County Office of Economic Development is responsible for coordinating and 
+implementing the County’s economic development strategy to increase jobs and capital 
+investment.  The Office of Economic Development partners with the Maryland Department of 
+Business and Economic Development (DBED), Cecil College, the Chesapeake Science and 
+Security Corridor (CSSC), the Cecil County Chamber of Commerce, the Susquehanna 
+Workforce Network, the Wilmington Area Planning Council (WILMAPCO) and federal 
+agencies to provide a variety of incentives and technical assistance to employers. 
+The Cecil County office of the Maryland Small Business Development Center Network 
+(MSBDC) was established through a cooperative effort between the Maryland Small 
+Business Development Center and Cecil College. The Small Business Development Center 
+(SBDC) provides counseling, training and technical assistance in all aspects of small 
+business management to emerging and small businesses.  Its goal is to strengthen small and 
+medium sized businesses, and contribute to the growth of the local economy. 
+Cecil County Growth Study 
+In 2007, the Office of Economic Development commissioned the Cecil County Growth Study 
+(Strategic Plan), a detailed statistical analysis of the issues facing the County, intended to 
+provide policymakers and stakeholders with information needed to adopt a coherent set of 
+policies and principles to guide economic growth and development.  Although the plan does 
+not list specific goals, it states its “overarching purpose” is to help shape, channel and 
+marshal growth to create better quality of life outcomes, given the growth forecast for the 
+County by 2030. 
+The Strategic Plan plan offers six recommendations intended to promote economic growth 
+and prosperity while securing the County’s rural heritage and fiscal viability.  These 
+recommendations include: 
+1. 
+Developing an aggressive County-led infrastructure strategy for the growth corridor. 
+2. 
+Enabling the County to enact impact fees and excise taxes, and creating tax 
+incremental financing (TIF) districts to spur redevelopment in areas characterized by 
+low quality, unattractive development. 
+3. 
+Moving the I-95 tollbooths to the Delaware border to support the potential for more 
+intense and higher quality development in the county’s growth corridor, particularly in 
+and around Perryville and Port Deposit; and continuing support for commuter rail 
+extensions linking Perryville and Elkton to Newark and Wilmington, Delaware. 
+4.  
+Committing the County to concepts of clustering development and creating shared 
+facilities that would permit more land to be set aside as open space and that would 
+use land more efficiently. 
+5. 
+Focusing the County’s economic development efforts on recruiting and retaining 
+high-wage service sector and research and development (R&D) jobs, including R&D 
+efforts that take place within manufacturing contexts, spurring further economic 
+development. 
+6. 
+Designating a County Growth Coordinator to coordinate economic development 
+activities and maximize the proportion of growth that takes place within designated 
+growth areas. 
+The Offices of Planning and Zoning and Economic Development have taken on the role of 
+growth coordinator.  The other recommendations outlined in this report are discussed in this 
+Comprehensive Plan.
+
+<!-- page 66 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+4-13 
+4.2.4 
+Existing Economic Activity 
+Cecil County has nine business and technology parks, totaling more than 2,600 acres (Map 
+4.1).  As of September 2009, approximately 1,200 acres were available for development 
+(Table 4.6).  This includes business parks in towns, such as a portion of Bainbridge in the 
+Town of Port Deposit, the Upper Chesapeake Corporate Center and Triumph Industrial Park 
+in the Town of Elkton, the North East Commerce Center in the Town of North East, and 
+Perryville Industrial Park in the Town of Perryville.  The business parks not in towns account 
+for approximately 1,600 total acres, and 784 available acres as of 2009. 
+Each of these business parks are state-designated Enterprise Zones.  Businesses that locate 
+or create jobs in Enterprise Zones are eligible for property tax or state income tax credits. 
+Each of the industrial parks has existing buildings, ranging in size from 5,000 to 600,000 
+square feet, available for occupancy.  A 600,000 square foot crossdock distribution facility, 
+expandable to 1.2 million square feet, is available in the Principio Business Park.  
+Construction has been completed on a 45,000 square foot flex/office building at the Cecil 
+Technology Campus at Principio. The campus has been permitted for five buildings totaling 
+225,000 square feet.   
+Bainbridge represents the redevelopment of the former Bainbridge Navy Base, west of MD 
+222 and south of MD 276 in Port Deposit.  The site includes 1,200 acres, of which 
+approximately 350 acres have been set aside for employment uses and a campus for Cecil 
+College.  The remaining land will be developed as residential uses, except for a parcel 
+containing the former Tome's School buildings, which are being refurbished as a retirement 
+community. 
+Major Economic Development Projects 
+Between 2005 and 2009, the County attracted nearly $200 million in new and expanded 
+industrial investment, generating almost 4.4 million square feet of building space and 
+approximately 1,850 jobs (Table 4.7).  Most of this development was new construction.  
+Employment areas that attracted multiple projects include the Triumph Industrial Park, North 
+East Commerce Center, North East Business Center, Principio Business Park, the Upper 
+Chesapeake Corporate Center and the Town of Elkton. 
+Commercial Areas 
+Commercial (retail) activity in Cecil County is concentrated in the towns of Elkton, North East 
+and Perryville, as well as along the US 40 corridor within unincorporated areas of the County.   
+Cecilton, Rising Sun, Charlestown, Port Deposit and Chesapeake City also have limited 
+commercial areas primarily serving the local population.  A number of villages (see Chapter 
+3, Land Use) also have some retail activity, reflecting the County’s historical settlement and 
+commercial patterns.  One example of this village-type development is Conowingo/Kilbys 
+Corner, at the corner of Rock Springs Road and US 1 in the northwestern part of the County.
+
+<!-- page 67 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+4-14 
+Map 4.1: 
+Business Parks
+
+<!-- page 68 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+4-15 
+Table 4.6: 
+Business Parks, 2009 
+Business/Technology Parks 
+Location 
+Acres
+Major Occupants 
+Infrastructure 
+Total 
+Available
+Broadlands Business/Gore 
+Industrial Park  
+Cecil County 
+(I-95 and MD 
+279) 
+313 
+90 
+Burris Logistics, 
+Michelin 
+Water, sewer, 
+natural gas, 
+broadband 
+North East Commerce Center  
+North East 
+93 
+15 
+New England Motor 
+Freight, Herr's Foods 
+Water, sewer 
+Peninsula Industrial Park  
+Cecil County 
+(I-95 and MD 
+272) 
+100 
+4 
+Composites USA, 
+Tim Plastics, 
+Buildings First 
+Source 
+Water, sewer, 
+broadband 
+Triumph Industrial Park  
+Cecil County 
+(MD 279 and 
+MD 545) 
+375 
+90 
+Colonial Metals, 
+Liqui-Box, Veltec, 
+Fluoron 
+Water, sewer, 
+natural gas 
+Upper Chesapeake Corporate 
+Center 
+Elkton 
+149 
+35 
+W.L. Gore, Estes 
+Trucking, Delmar 
+Surgical, Cecil 
+County Government 
+Water, sewer, 
+natural gas, 
+broadband 
+Perryville Industrial Park  
+Perryville 
+373 
+0 
+IKEA 
+Water, sewer, 
+natural gas 
+Principio Business Park  
+Cecil County 
+(US 40 and 
+Belvidere 
+Road) 
+800 
+600 
+General 
+Electric/Holman, 
+Perryville Cold 
+Storage, General 
+Resonance 
+Water, sewer, 
+broadband 
+intended but 
+not available 
+as of 2009 
+Bainbridge4 
+Port Deposit 
+350 
+350 
+None (Cecil County 
+Public Library and 
+Cecil College, under 
+development) 
+Water, sewer, 
+natural gas  
+Vantage Point 
+Elkton 
+59 
+59 
+None 
+Utilities nearby 
+but not on site 
+Total Business/Technology 
+Parks 
+ 
+2,612 
+1,243 
+ 
+ 
+Total within Cecil County 
+(outside towns) 
+ 
+1,588 
+784  
+ 
+Percentage within Cecil 
+County (outside towns) 
+ 
+61% 
+63%  
+ 
+Source: Cecil County Economic Development 
+                                                     
+ 
+4 The Bainbridge site includes 1,239 acres, 350 of which have been designated for employment uses.
+
+<!-- page 69 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+4-16 
+Table 4.7: 
+Major Industrial Construction and Expansion, 2005-09 
+Type of Development 
+Square feet 
+Jobs 
+Investment 
+($millions) 
+Expansions 
+1,414,400 
+529 
+$43.95 
+New Construction 
+2,965,000 
+1,335 
+$150.74 
+Total 
+4,379,400
+1,864
+$194.69 
+Source: Cecil County Office of Economic Development 
+4.3 
+Discussion of Issues 
+4.3.1 
+Employment Areas 
+One of the primary goals of the Comprehensive Plan is to make sure the County has 
+sufficient land for employment, commercial and business uses, so as the County grows the 
+employment base can increase to provide jobs for residents, reduce the need for residents to 
+commute outside the County to work, and to increase the tax base that supports public 
+services. 
+The Comprehensive Plan projects that Cecil County will gain 19,500 jobs between 2010 and 
+2030, a 47 percent increase.  Identifying employment areas sufficient and appropriate for this 
+growth was a central task of the planning process.  As noted in Chapter 3, Land Use, one of 
+the key differences between this plan and the 1990 Comprehensive Plan is the addition of 
+employment areas as a land use category.  Although thousands of acres are zoned for 
+business, industrial and commercial uses, this is the first time the County has had a specific 
+Employment designation in the Comprehensive Plan.  This action reflects Cecil County’s 
+interest in reserving land for economic development purposes to stimulate economic 
+development, especially in employment sectors with higher-paying jobs, in particular, office-
+based employment. 
+In addition to existing business and technology parks (Section 4.2.4), new areas along rail 
+lines adjacent to existing industrial uses and along major roads are designated as 
+Employment areas.  The Future Land Use map designates approximately 5,700 acres for 
+Employment, plus 1,450 acres for Mixed Use, a significant portion of which is intended for 
+employment uses (Table 3.6). 
+Employment areas are intended to provide for major industrial, manufacturing, office, and 
+business uses and economic development opportunities in business parks and campuses 
+near major roads.  By adding this land use category, the County intends to promote economic 
+development in areas served by infrastructure and best located to generate high-wage 
+employment while protecting these areas for future employment.  Many of these locations are 
+along the US 40 corridor and CSX rail line. 
+Mixed Use areas offer opportunities to integrate residential, employment, and commercial 
+uses.  These areas have been designated to support US 40’s role as the County’s primary 
+business corridor and provide a land use framework that will enable the County and State to 
+coordinate land use with future transportation facilities, including rail and bus transit.  (More 
+information on the development character of the US 40 corridor is included in Chapter 3, 
+Land Use.) 
+Commercial (retail) areas do not have their own land use category but could be located in 
+any land use district, at intensities consistent with the land use district’s density designation.  
+Limited commercial uses also are permitted in Villages, consistent with existing development 
+and their historic development pattern. 
+In 2010, Cecil County had 5,700 acres zoned for light or heavy manufacturing.  This figure 
+includes scattered industrial sites throughout the County.  An additional 1,800 acres were
+
+<!-- page 70 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+4-17 
+zoned for commercial use (including the Business General, Business Intensive and Business 
+Local categories).  The incorporated towns also include scattered employment sites not 
+located in business parks.  The industrial and employment sites can be located in any land 
+use category at an intensity appropriate for the land use district. 
+The Comprehensive Plan identifies approximately 2,900 acres for new employment uses 
+(Table 4.8).  This includes the land available in business and technology parks (Table 4.6), as 
+well as Employment areas that are not currently zoned for employment.  In addition, it is the 
+Plan’s goal to develop 70 percent of the Mixed Use Employment and 30 percent of the Mixed 
+Use Residential area as employment uses.  This would yield another 688 acres (557+131) for 
+employment in the Mixed Use areas. 
+Table 4.8: 
+Land Available for Employment Uses, 2009 
+Land Available for Employment Uses
+Acres
+Business and Technology Parks 
+1,243 
+Employment areas not in Business Parks 
+955 
+Mixed Use Employment area 
+557 
+Mixed Use Residential area 
+131 
+Total 
+2,886
+Source: ERM 
+At a low density of 15 employees per acre, typical of one-story industrial development, the 
+land identified in Table 4.8 would support more than 43,000 jobs, more than twice the 
+projected job growth.  Office-based employment can average 150 employees per acre in 
+multi-story buildings, which would use land more efficiently and generate a higher yield of 
+jobs.  The more successful the County is at encouraging the development of office jobs, as 
+envisioned in this Comprehensive Plan, the better able it will be to concentrate employment 
+density and job growth and have land available for economic development projects and utilize 
+public transit. 
+Table 4.8 does not include scattered industrial sites in the County or employment areas in 
+Towns not located in business parks.  Nor does it include the potential of redevelopment of 
+existing employment areas.  Therefore, the potential yield of employment lands designated in 
+the Plan is higher than 43,000 jobs. 
+4.3.2 
+Infrastructure: Sewer, Water, Roads and Broadband 
+The 2007 Cecil County Growth Study (Strategic Plan) highlights the need for the County to 
+take the lead in developing infrastructure in growth areas.  In the past, the County has relied 
+on the municipalities to supply infrastructure – primarily sewer and water service – to these 
+areas.  However, complexities between the County and some of the towns in the Growth 
+Area have complicated the 
+implementation of this effort, 
+primarily in regard to residential 
+development.  The County will 
+need to continue to lead this 
+effort to ensure that the 
+provision of infrastructure is 
+consistent with its economic 
+development goals. 
+The provision of public 
+infrastructure, including roads in 
+addition to water and sewer, is 
+critical to attract and retain 
+employment.  All of the county’s 
+North East Commerce Center offices of Delmarva Power, which 
+provides power for much of Cecil County.
+
+<!-- page 71 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+4-18 
+business and industrial parks (Section 4.2.3) have water and sewer service.  A few new 
+employment areas designated in this plan lack water and sewer, including the area west of 
+MD 316 and across from Broadlands Business Park, an area near Childs along the CSX line 
+north of I-95 and west of MD 213, an area west of MD 213 north of Cherry Hill Middle School, 
+and an area northeast of the Town of Rising Sun. 
+As these employment areas develop, road infrastructure will need to be expanded and 
+upgraded.  In particular, the western portion of the Elkton Loop Road described in Chapter 5, 
+the Transportation Element, linking MD 781 (Delancy Road) to MD 279, through Elkton West 
+to Marley Road and to US 40 will provide access to employment areas and the Mixed Use 
+Residential area envisioned north of US 40. The intersections of this loop road with major 
+north-south roads such as Appleton Road (MD 316), Singerly Road (MD 213) and Blue Ball 
+Road (MD 545) could become mixed-use “nodes.”  
+Intersection upgrades are needed at the US 40 intersections with MD 213 in Elkton and MD 
+222 in Perryville.  A north-south connection between US 40 and MD 7 would serve the Mixed 
+Use Employment area. 
+Another important infrastructure issue related to economic development is the location of the 
+tollbooths on Interstate 95.  Just north of the Susquehanna River along the northbound lanes, 
+the tollbooths serve as an economic barrier between areas to the south, including the 
+Baltimore metropolitan area, and provide an incentive for through-traffic to divert to local 
+roads to avoid or pay lesser tolls. 
+The Growth Study attributed the relative lack of economic activity in the western part of the 
+County, especially in Perryville and Port Deposit, to the tollbooth location.  Relocating the toll 
+to a point closer to the state line would remove this barrier between Cecil County and the rest 
+of Maryland.  Such an action also would support the County’s efforts to maximize the 
+economic benefits of BRAC, as it would remove an obstacle between Cecil County and the 
+Aberdeen Proving Ground.  The relocation of the tollbooths also would support the effort to 
+establish the Perryville area as a regional entertainment destination. 
+In 2004, the Maryland Eastern Shore Broadband Strategic Plan, conducted in conjunction 
+with DBED, Maryland’s Technology Development Corporation, the Tri-County Council for the 
+Lower Eastern Shore and the Mid-Shore Regional Council, concluded that the Eastern Shore 
+suffers limited access to competitively priced high-speed communication technologies that 
+are widely available in urban areas.5  As of 2010, not all of the County’s existing and 
+proposed employment areas have broadband service, and rural areas also lack access to 
+high-speed Internet service.  Working in partnership with service providers can help to fill this 
+gap. 
+Financial Tools 
+The infrastructure improvements described in the previous section will require resources.  
+The Growth Study emphasizes the need for the County to take the lead in assuring the 
+provision of infrastructure to ensure that growth is directed to areas the County has 
+designated for it.  County government should look at tools to finance this infrastructure, 
+including impact fees and excise taxes, both of which were recommended in the past.   
+The need to diversify the financing tools the County has available, using special taxing district 
+and Tax Increment Financing districts (TIFs), for example, will become more acute as growth 
+occurs.6  Without these tools, the County will be dependent upon property taxes, bonds, and 
+                                                     
+5 The Maryland Technology Development Corporation (TEDCO), the Tri-County Council for the Lower Eastern Shore 
+of Maryland, the Mid-Shore Regional Council and the Maryland Department of Business and Economic Development 
+(DBED) are working together to expand the Eastern Shore's communications infrastructure capacity and 
+competitiveness.   The Maryland Eastern Shore Broadband Strategic Plan seeks to resolve the lack of quality access 
+on the Shore by determining best practices to use the region's assets, analyzing and defining critical gaps in 
+infrastructure, and providing specific solutions for all counties on the Eastern Shore. 
+6 Cecil County has authorized TIFs on three occasions, although their use was not executed.
+
+<!-- page 72 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+4-19 
+state and federal aid (when available) to pay for necessary infrastructure improvements.  
+Other financial tools and approaches are discussed in detail in Chapter 11, Implementation. 
+4.3.3 
+Base Realignment and Closure (BRAC) 
+The Department of Defense’s Base Realignment and Closure (BRAC) program is expected to 
+have significant impacts in Cecil County.  BRAC is a long-term effort by the Federal 
+government to consolidate facilities for the Armed Forces and make these facilities more 
+efficient.  In 2005, the Department of Defense announced the most recent round of 
+realignments and closures, actions that would relocate functions from Fort Monmouth in New 
+Jersey to the Aberdeen Proving Ground (APG) in Harford County. 
+BRAC is expected to bring 8,200 jobs to APG and generate almost 28,000 direct, indirect and 
+induced jobs within 40 miles of the base.  In 2007, the County’s BRAC Action Plan estimated 
+that five percent of these jobs were likely to locate in Cecil County.  The growth in jobs will 
+spur population growth as well.  As discussed in the BRAC Action Plan. Cecil County would 
+receive about 12 percent of the projected population growth associated with BRAC at APG, 
+or more than 5,000 residents.   
+The BRAC Advisory Panel, a group of Cecil County officials and residents, developed the 
+recommendations in the BRAC Action Plan and expressed concern that the County does not 
+have sufficient land zoned for office, industrial and commercial uses that is “fully approved 
+and permitted and available for immediate use,” in response to the demands of BRAC.  The 
+lack of commercial office space was seen particularly acute, given the lack of available office 
+space in the County.  
+This Comprehensive Plan responds to the needs generated by BRAC by designating 
+employment areas in strategic locations along major transportation routes.  The Plan also 
+designates two large mixed-use areas along US 40.  The Mixed Use Employment area is 
+envisioned as an attractive location for master planned office parks interspersed with retail 
+and residential uses.  This area would be a primary location for multi-story office uses and 
+provide a prime “address” for companies locating in Cecil County. 
+4.3.4 
+Affordable Housing 
+The availability of adequate affordable and workforce housing can encourage businesses to 
+expand and locate in Cecil County.  The County is more affordable compared to adjacent 
+counties like Harford and New Castle, and it would be well positioned to build upon this 
+advantage by increasing infrastructure availability in the Growth Corridor. 
+The BRAC Action Plan specifically noted that workforce housing is a critical component of the 
+County’s business development and growth strategy.  The jobs generated by BRAC will help 
+to diversify the local economy and bring higher-wage jobs to the County.  However, not all of 
+the jobs locating in Cecil County will be high income, so provisions are needed to assure that 
+a range of housing at various price points are available.  The BRAC Advisory Panel 
+envisioned mixed-use development and incentives to develop affordable units within the 
+growth corridor, as well as transportation improvements and amenities that make the growth 
+corridor an attractive place to live, as key to the County’s success in maximizing the benefits 
+of BRAC. 
+Chapter 9, Housing, explores affordable and workforce housing in greater detail. 
+4.3.5 
+Workforce Development 
+The 2007 Cecil County Growth Study (Strategic Plan) highlighted some of the challenges 
+Cecil County will face as the local economy evolves with BRAC and the development of 
+higher-wage and higher-skilled jobs.  The County’s labor force participation rate has been 
+declining since 1990, especially among men, and is projected to decline through 2030, 
+according to data from the Maryland Department of Planning.  Part of this decline is traced to 
+the aging of the population, but it is also tied to the County’s educational attainment.  Of the
+
+<!-- page 73 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+4-20 
+population aged 25 and older in 2005, 13 percent of County residents had at least a 
+bachelor’s degree, compared to 19 percent of Maryland residents, according to the Census 
+Bureau’s 2007 American Community Survey. 
+With jobs demanding a higher skill level, many residents may find it more difficult to get a job 
+locally as the economy evolves.  A number of interviewees cited in the Cecil County Growth 
+Study (Strategic Plan) noted the lack of availability of technically proficient labor, including 
+workers with specialized skills in engineering, health and information technology.  Both the 
+Growth Study (Strategic Plan) and BRAC Action Plan noted the need for more workforce 
+development programs, to augment the classes provided by Cecil College and the Cecil 
+County Public Schools.   
+These efforts can focus on vocational offerings at the high school level (carpentry, 
+automotive, HVAC, plumbing, electrical), as well as Science, Technology, Engineering and 
+Math (STEM) programs at all levels from kindergarten through college.  Adult and workforce 
+education also can take place through the Small Business Development Center and Business 
+Training Resource Center. 
+4.3.6 
+Agriculture 
+Land in farms in Cecil County has remained 
+fairly stable since 1992 and the number of 
+farms has risen slightly, reflecting a shift 
+from large- and medium-sized farms to 
+smaller farms (Table 4.5).  The agriculture 
+industry and agribusiness face a number of 
+challenges.   
+Much of the most productive agricultural 
+land (and prime soils) are in the northern 
+part of the County, part of a large 
+agricultural region that extends through 
+southern Pennsylvania.  This area is also 
+the portion of the County most affected by 
+rural residential development since 1990 
+(see Chapter 3, Land Use).  As large tracts 
+are parcelized and rural areas suburbanize, 
+the County faces the potential of losing the 
+critical agglomeration of rural lands that sustain its agriculture industry.   
+Directing growth to Growth Areas is one way the Comprehensive Plan addresses this issue.  
+But other measures are needed to support agriculture, especially among smaller farmers 
+whose families have farmed their land for generations.  For these farmers, the monetary 
+value of their land for future development can outweigh the benefits of agriculture, creating an 
+incentive to sell their farms for residential uses when this option is available.   
+Supporting farmland preservation, including through an attractive Transfer of Development 
+Rights program, promoting agribusiness by expanding the types of activities considered to be 
+value-added agricultural related enterprises as permitted uses, and expanding permitted 
+sales so as not to be strictly limited to agricultural products can help to generate more income 
+for farmers and help to support the County’s agriculture industry. 
+4.4 
+Fisheries 
+State law requires that all counties located on tidal waters include a Fisheries Element in their 
+Comprehensive Plan, focusing on the designation of areas for loading, unloading, and 
+processing finfish and shellfish, and for docking and mooring commercial fishing boats and 
+vessels. 
+Scheeler Seeds, LLC, located near Cecilton, has been 
+supplying seed to farmers, landscapers and homeowners 
+in and around Cecil County for 25 years.                       
+Photo Courtesy of Cecil Soil Magazine
+
+<!-- page 74 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+4-21 
+A handful of commercial fishing 
+operations are based in Cecil 
+County.  Although more than 200 
+individuals from the County held 
+state-administered commercial 
+fishing licenses in 2009, a lack of 
+local facilities limits the ability to 
+offload catch in the County.  No 
+commercial docks operate in the 
+County, and there are only 13 
+publicly owned boat ramps, 
+despite the County’s 220 miles of 
+shoreline.  
+According to the Maryland 
+Department of Natural 
+Resources, fishing in local 
+waters yielded almost 2 million 
+pounds of catch in 2008 valued at $1.4 million (Table 4.9).  This represented about three 
+percent of the total catch in Maryland and two percent of the total value.  These figures 
+account for commercial fishing in the Elk River, Bohemia River, Northeast River, 
+Susquehanna Flats, Susquehanna River, Sassafras River and Upper Chesapeake Bay 
+region.  The data do, however, include segments of the rivers not in Cecil County. 
+Table 4.9: 
+Total Fish Catch in Cecil County and Maryland, 2008 
+ 
+Total Catch in Cecil 
+County-Area Waters 
+State of Maryland Totals 
+Share of State 
+Total from County-
+Area Waters 
+Year 
+Pounds 
+Dollars
+Pounds
+Dollars
+Pounds
+Dollars 
+2008 
+1,953,601 
+$1,439,913 
+59,862,351 
+$74,886,212 
+3% 
+2% 
+Source: Maryland Department of Natural Resources 
+In addition to commercial fishing, two wholesalers operate in the County. 
+A 2003 Tourism Industry Impact Study prepared for the Office of Economic Development 
+found that, of 804 people surveyed, 187 or 18.4 percent of visitors came to Cecil County for 
+fishing, creating 96 (29.9%) of 321 overnight stays.  They also accounted for 91 (18.8%) of 
+483 day trips.  
+Encouraging recreational fishing will remain a key component of the County’s tourism 
+strategy. 
+4.5 
+Policies and Actions 
+1. Encourage the development of flex space/office uses along the US 40 corridor, especially 
+in the Mixed Use areas, where they can be integrated with residential and 
+commercial/retail uses. 
+2. Focus the Mixed Use area between US 40 and MD 7 west of Elkton on employment 
+uses, in campus-like office settings, supporting the County’s goal of making US 40 its 
+primary business corridor and center for economic development and providing 
+opportunities for office uses. 
+3. Make available a listing of all commercially and industrially zoned land that can be 
+developed as office uses in support of BRAC.  
+4. Provide infrastructure, including water, sewer and roads, to designated employment and 
+mixed use areas. 
+Recreational fishing is popular along the County’s shores. 
+Photo Courtesy of Cecil Soil Magazine.
+
+<!-- page 75 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+4-22 
+5. Continue efforts to relocate the tollbooths on Interstate 95 to the Maryland-Delaware 
+state line. 
+6. Support the economic viability of farming, equine, forestry and related business activities. 
+a. Review the need to expand the types of activities considered to be value-added 
+agricultural related enterprises as permitted uses in the Resource Protection and 
+Rural Conservation areas (see definition of agriculture in the zoning regulations).   
+b. Consider expanding permissible agriculture and forestry support enterprises in the 
+Rural Conservation and Resource Protection areas, for example, add farm implement 
+servicing as an accessory use to farm implement sales, which is currently permitted 
+by special exception. 
+c. Review standards for retail on-site sales on land not zoned for business use 
+(currently addressed in the zoning regulations as farmers markets and roadside 
+stands).  Consider expanding permitted sales so as not to be strictly limited to 
+agricultural products produced by the owner or within the immediate neighborhood, 
+though County products should be the preponderance of goods sold, with the 
+balance coming from the local region. 
+7. Promote tourism by continuing to build upon the County’s character, including small 
+towns, rural agricultural enterprises, heritage, scenic byways, water and equine related 
+recreational opportunities including access to the water, and County and State parks.  
+Coordinate with the State, towns, and businesses to attract tourists from nearby major 
+population centers, especially to the Lower Susquehanna Heritage Greenway trail system 
+and other off-road and on-road trails. 
+8. Take advantage of the freight rail lines that traverse Cecil County by promoting this asset 
+as an economic development opportunity and directing employment uses that rely on 
+fuel-efficient cargo operations to designated employment areas along rail lines. 
+9. Encourage and support the provision of broadband high-speed internet services / 
+telecommunications to commercial, industrial, governmental, and residential users in the 
+Growth Areas to advance the economic, essential services, and cultural development of 
+the County.  Work with service providers to extend broadband to other areas of the 
+County so that all residents can be served. 
+10. Encourage the training and development of the local labor force to fulfill the future needs 
+of local industry, especially in science, technology, engineering and math.  Continue to 
+work with Cecil College, the Cecil County Public Schools and other partners to expand 
+workforce development programs. 
+11. Explore the potential to develop a commercial fishing dock in Cecil County to provide 
+opportunities for the offloading of seafood.
+
+<!-- page 76 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+5-1 
+5 
+Transportation  
+Summary 
+This Chapter describes the countywide transportation system, including roads, bus and rail 
+transit systems, pedestrian facilities, bicycle facilities, and other elements.  Cecil County’s 
+vision for its future transportation network is a multimodal system that meets the mobility and 
+accessibility needs of its residents and employees through a combination of roads, transit, 
+and non-motorized facilities.  The extension of MARC and SEPTA commuter rail service 
+along the I-95/US 40 corridor (and the development of a supporting local transit network) is a 
+particular priority.   
+Full development of such a system will 
+take many years, likely beyond this 
+Plan’s 2030 horizon.  This Chapter 
+identifies transportation improvements 
+and policies that are needed to support 
+the County’s 2030 projected population 
+and employment, improve the function 
+and safety of the transportation system, 
+and build towards the County’s long-
+range vision.  The local transportation 
+needs within Cecil County’s eight towns 
+are addressed by each town’s individual 
+Comprehensive Plan. 
+Transportation Needs Analyses 
+Many of the recommendations in this Comprehensive Plan are based on the 2007 Cecil 
+County Roadway Improvement Strategic Plan, prepared for the Department of Public Works 
+(DPW).  That document focused on 2007 and future (2030) traffic volumes, safety, transit, 
+and other transportation network factors related to the I-95/US 40 corridor. 
+Separate from the Strategic Plan, as part of the Comprehensive Plan development process, 
+the Comprehensive Plan’s land use and transportation recommendations were modeled to 
+evaluate 2008 and 2030 conditions, as well as conditions at buildout. A description of this 
+model and its results is in Section 5.2.4 and, in more detail, in the Comprehensive Plan 
+Appendix.   
+While this Transportation chapter focuses on the County’s transportation needs through the 
+year 2030, the transportation buildout analysis highlights the need to think beyond the 2030 
+horizon.  In particular, prior to 2030, the County will need to plan right of way expansions and 
+acquisitions that will be necessary to meet the County’s transportation needs beyond 2030. 
+5.1 
+Goals and Objectives 
+The Comprehensive Plan’s transportation goals and objectives are: 
+1. Provide a multi-modal public transportation system, including road, rail, bus, pedestrian, 
+and bicycle, that meets the needs of residents and workers in terms of safety, mobility, 
+and convenient access to everyday destinations. 
+2. Expand the road network in the Growth Corridor to increase connectivity and provide 
+alternate route options, especially through and around the towns and north-south 
+between the US 40 and I-95 corridors. 
+3. Develop US 40 into the County’s primary business corridor; preserve capacity, maintain 
+free traffic flow, enhance its visual appearance, expand transit, and pedestrian, and 
+bicycle options. 
+The MARC station in Perryville
+
+<!-- page 77 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+5-2 
+4. Increase transit options (bus and rail) to increase transportation choices and reduce 
+automobile trips.  Establish commuter rail transit and infrastructure to serve the 
+Designated Growth Area, including its five towns. 
+5.2 
+Roads  
+5.2.1 
+Road Network 
+Roads within Cecil County are owned and maintained primarily by the Maryland State 
+Highway Administration (SHA), the County, and the eight municipalities.  Cecil County’s 
+major roadways are shown on Map 5-1.  The primary routes in Cecil County connect to 
+Harford County to the west and New Castle County, Delaware to the east.  These include I-
+95, US 40, US 1 (which turns north into Chester County, PA), and MD 273.  MD 213 is the 
+County’s primary link to the Delmarva Peninsula.  Other north-south routes, including MD 
+222/US 222 and MD 272 link the I-95/US 40 corridor to Pennsylvania.  
+State  
+Cecil County is within the Maryland State Highway Administration’s (SHA) District 2, 
+headquartered in Chestertown.  SHA and the Maryland Transportation Authority (MdTA), 
+which is responsible for toll facilities, own and maintain approximately 200 miles of roadway 
+in Cecil County.   
+County and Municipal Roads 
+The Roads Division of the Cecil County Department of Public Works builds and maintains 
+County roads and bridges.  The eight incorporated Towns within the County are responsible 
+for operation and maintenance of their local roads.  These County- and locally-maintained 
+facilities include approximately 980 miles of roads and 139 bridges. 
+Functional Classification 
+Functional classification groups roadways into a hierarchy based upon the type of service 
+they are intended to provide to a community.  Roads work together as a system to provide for 
+travel in a region, striving to simultaneously provide access to property and travel mobility.  
+Local roads provide land access, arterials provide mobility for through traffic, and collectors 
+bridge the gap between the functions of land access and mobility.   
+The classification system is used for federal, state and local highway programs and can be 
+used for a variety of other planning purposes, such as prioritizing maintenance and snow 
+removal.  The Comprehensive Plan defines four roadway classifications (from highest to 
+lowest): interstate, arterial, collector, and local.  These classifications are shown on Map 5.1, 
+which also serves as the Official Cecil County Roadway Classification Map.  
+5.2.2 
+County Traffic Trends 
+In 2009, for the most part, traffic flows well in Cecil County.  Traffic volumes are relatively low, 
+and most roads experience free-flow conditions with no delays, and only a few road 
+segments and intersections have poor levels of service—defined in this plan as Level of 
+Service (LOS) E or F—at certain times.1   
+                                                     
+1  Level of Service (LOS) analyses assign a letter grade, ranging from A to F, to roadway segments and 
+intersections.  Level of service is determined by evaluating factors, including capacity, speed, and delay.  LOS A 
+represents the very best conditions, where the driver experiences very little delay.  LOS F represents the worst 
+conditions, where congestion and delay are significant or an intersection is unable to serve the traffic demand.  LOS 
+D (or better) is considered acceptable in Cecil County, while LOS E and F are generally considered unacceptable.
+
+<!-- page 78 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+5-3 
+Map 5.1 
+Cecil County Roadway Functional Classifications
+
+<!-- page 79 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+5-4 
+SHA monitors traffic volumes at a number of locations throughout Cecil County.  Average 
+Annual Daily Traffic (AADT) counts for these locations are shown in Map 5.2.  I-95 and US 40 
+carry the largest traffic volumes in the County.  The highest AADT in the County is nearly 
+89,000 vehicles per day (vpd), along I-95 near MD 272.  Although high, this volume is 
+indicative of the County’s rural/suburban position in the Baltimore-Philadelphia corridor.  For 
+example, AADT on I-95 near I-695 in Baltimore County is approximately 160,000 vpd.   
+Map 5.3 shows the average annual percentage change in AADT since 1998.  There are 
+several trends worth noting: 
+• 
+Change in AADT at monitoring locations in Cecil County generally ranged from a decline 
+of approximately three percent per year (over the 10-year analysis period) to an increase 
+of more than five percent per year.  By comparison, traffic growth was approximately 2.0 
+percent statewide and 1.4 percent in District 2 during the same period.  
+• 
+Traffic volumes have declined in some locations, most notably on MD 213 in and north of 
+Elkton, south of US 40 on MD 272, and on US 40 just west of North East.2 
+• 
+Despite declines in some specific locations, overall traffic volumes along I-95 and US 40 
+grew by about one percent per year, or 50,000 vpd overall since 1998. 
+• 
+Traffic volumes grew at all monitoring locations along US 1 and MD 273 in the northern 
+rural area.  Overall, traffic on these two roads grew by about 1.6 percent per year. 
+• 
+Traffic volumes on MD 272 north of I-95 also grew by 1.6 percent per year. 
+5.2.3 
+Planned Road Improvements 
+State Roads 
+SHA identifies highway improvement needs in the six-year Consolidated Transportation 
+Program (CTP), which is part of the Maryland Transportation Plan.  Cecil County projects in 
+the 2009-2014 CTP include deck replacement on the Hatem Bridge (US 40 over the 
+Susquehanna River) and a few small maintenance projects.   
+SHA also maintains a Highway Needs Inventory (HNI) which is a longer-range list of needs 
+on state-maintained highways.  The HNI is updated by SHA every two years and it serves as 
+the technical basis for projects to be added into the state transportation capital budget or the 
+CTP.  Since transportation needs often exceed available state transportation funding, the HNI 
+often identifies projects for which funding has not yet been identified.  Table 5.1 shows the 
+projects listed in the HNI for Cecil County.  The County also wishes to evaluate a potential 
+new I-95 interchange between MD 222 and MD 272, although the eventual need for and 
+implementation of this interchange is likely tied to long-term redevelopment of the Mineral 
+Extraction Area. 
+                                                     
+2 This finding is counterintuitive, given the overall traffic growth in Cecil County and statewide, and may not reflect 
+the experience of Cecil County residents.  Construction, temporary traffic patterns, or faults in SHA traffic monitoring 
+equipment may explain these data.
+
+<!-- page 80 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+5-5 
+Map 5.2 
+Average Annual Daily Traffic, 2008
+
+<!-- page 81 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+5-6 
+Map 5.3 
+AADT Trends, 1998-2008
+
+<!-- page 82 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+5-7 
+Table 5.1: 
+Highway Needs Inventory Projects in Cecil County 
+Facility 
+Type of Improvement 
+US 40, from MD 279 to state line 
+Divided highway reconstruction. 
+US 301, from Kent County to state line 
+Access control improvements 
+MD 7, from Charlestown to MD 272 
+Two lane reconstruction. 
+MD 213 
+• 
+From MD 285 to US 40 
+• 
+US 40 to MD 279 
+• 
+North of Providence Road to MD 273 
+ 
+• 
+Divided highway reconstruction. 
+• 
+Multi-lane reconstruction. 
+• 
+Two lane reconstruction. 
+MD 222 
+• 
+US 40 to MD 275 
+• 
+MD 275 to Bainbridge entrance 
+ 
+• 
+Multi-lane reconstruction. 
+• 
+Two lane reconstruction. 
+MD 272 
+• 
+North end of couplet to US 40 
+• 
+US 40 to Lums Road 
+ 
+• 
+Multi-lane urban reconstruction. 
+• 
+Divided highway reconstruction. 
+MD 273, from Rising Sun to Sylmar Road 
+Two lane reconstruction. 
+MD 279 
+• 
+From MD 213 to MD 316 
+• 
+North of US 40 to west of MD 213 
+ 
+• 
+Multi-lane reconstruction. 
+• 
+Divided highway reconstruction. 
+Source: SHA. Highway Needs Inventory 
+ 
+Priorities for upgrades to Cecil County’s road network are also influenced by regional 
+planning conducted by the Wilmington Area Planning Council (WILMAPCO)—the 
+Metropolitan Planning Organization (MPO) for Cecil County and New Castle County, DE.  
+The WILMAPCO 2030 Regional Transportation Plan3 lists three projects in Cecil County:  
+• 
+I-95 (entire length in Cecil County), widening of one lane in each direction; 
+• 
+MD 272 (US 40 to Lums Road) as described in Table 5.1; and 
+• 
+MD 213 reconstruction (2 to 4 lane divided), Frenchtown Road to US 40. 
+County Roads   
+Cecil County’s 2010-2014 Capital Improvement Plan (CIP) includes funds for upgrades to 
+Lums Road, Oldfield Point Road, Old Elk Neck Road, Racine School Road, and Theodore 
+Road.  The CIP also includes upgrades to several small intersections, as well as the 
+replacement or rehabilitation of 43 road bridges throughout the County.   
+In addition to the improvements recommended above, the following projects were 
+recommended in the 2007 Roadway Improvement Strategic Plan.   
+• 
+A northern loop around Elkton, to increase connectivity in the north Elkton area and 
+reduce traffic through downtown Elkton.  This loop would include the following segments: 
+o 
+A new roadway connection between MD 281 and MD 316, via extension of Delancy 
+Road (MD 781); 
+o 
+A new roadway connection between the western terminus of Ricketts Mill Road and 
+the eastern terminus of Zeitler Road; 
+o 
+A new roadway connection between the western terminus of Zeitler Road and Marley 
+Road; and 
+o 
+Upgrades of existing segments of Ricketts Mill, Zeitler, and Marley Roads, and other 
+roads as necessary. 
+                                                     
+3 The Regional Transportation Plan, prepared in 2007, is a federally-mandated document that identifies long-term 
+transportation needs within the MPO’s service area.
+
+<!-- page 83 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+5-8 
+• 
+A new east-west road between Red Toad Rd, Belvidere Road, and Jackson Station Rd, 
+providing an alternative route parallel to and between I-95 and US 40.  This road would 
+serve long term (beyond 2030) development in this part of the County. 
+• 
+Widening of MD 272 from I-95 to US 40, to alleviate congestion. 
+• 
+Widening of MD 222 between MD 275 and US 40 to alleviate congestion. 
+5.2.4 
+Future Traffic 
+In order to evaluate the anticipated traffic impact (in 2030) of the Future Land Use Plan on 
+the Cecil County transportation system, the growth associated with that Plan was modeled 
+using the State’s Upper Eastern Shore regional travel demand model.  The model assumed 
+that WILMAPCO’s Regional Transportation Plan improvements would be in place by 2030, as 
+would the 2007 Roadway Improvement Strategic Plan improvements. 
+Based on these improvements, the population, household, and housing unit projections in 
+Table 2.1, and the Future Land Use Plan in Chapter 3, the model determined future peak-
+hour4 Levels of Service (LOS) for major roads in the County.5  Map 5.4 shows the results.  
+With the upgrades described in this section, peak hour congestion would generally remain at 
+acceptable levels.  A few major roads—particularly in and around North East and Elkton—
+would approach LOS E or F.  The model estimated that an additional 11 lane miles of new 
+roadway (primarily on the County’s major roadways) would be needed to attain LOS D6 
+throughout the county.  However, upgrades to the US 40/MD 213 intersection, among others, 
+could alleviate some of the projected congestion. 
+Map 5.4 
+2030 Evening Peak Hour LOS 
+ 
+Source: ERM 
+                                                     
+4 Peak hour refers to the hour or hours of maximum traffic volume.  In Cecil County, this occurs during the evening 
+commute period. 
+5 For more details on the transportation model, methodology, and findings, please see Transportation Modeling 
+Methodology in the Comprehensive Plan Appendix. 
+6 Note that this standard is consistent with the peak-hour minimum level of service set for Growth Areas in this 
+Comprehensive Plan (and for the Development District in the 1990 Comprehensive Plan).
+
+<!-- page 84 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+5-9 
+The model was also run for projected traffic at buildout (per the analysis described in Section 
+2.6.3).  The key finding of this analysis was that approximately 63 additional lane-miles of 
+new roadway (primarily on the County’s major roadways) would be needed to attain LOS D 
+throughout the County.  
+5.2.5 
+Discussion of Issues—Road Network 
+This section describes some of the key issues and recommendations related to the County’s 
+road network.   
+Level of Service 
+A Level of Service policy establishes a basis for evaluating proposed development plans and 
+projects against the LOS that the County seeks to achieve or maintain as growth occurs.  
+These criteria are used to evaluate the transportation system impacts of proposed 
+development and the Future Land Use Plan (as described in Section 5.2.4), to evaluate 
+alternative transportation plans, and to determine capital requirements.  The recommended 
+minimum level of service (LOS) for developments in each land use designation in Table 3.6 
+are listed in Table 5.2.  These LOS standards carry forward from the 1990 Comprehensive 
+Plan. 
+Table 5.2: 
+Recommended Minimum Level of Service 
+Land Use Designation 
+Off Peak 
+Peak Hour
+Growth Areas 
+High, Medium-High, Medium, Low, Employment, Mixed Use Residential, 
+Mixed Use Employment 
+LOS C 
+LOS D 
+Rural Areas 
+Rural Conservation, Resource Protection 
+LOS B 
+LOS C 
+Other Areas 
+Village, Mineral Extraction 
+LOS C 
+LOS D 
+ 
+Current LOS deficiencies on roadways would prohibit future development adjacent to these 
+roadways.  However, new development in such areas should not be approved if it reduces 
+(worsens) LOS below the roadway’s current level, unless those adverse effects are mitigated 
+by the developer.  
+Minimum LOS standards can be made part of the development approval process in several 
+ways, including an Adequate Public Facilities requirements, Impact Fees, or direct 
+incorporation of the standards into ordinances.  Because most roads in Cecil County have 
+and are projected to have adequate levels of service, an APFO for roads is unlikely to be 
+effective in managing development.  Impact fees are recommended elsewhere in this plan 
+(see Chapter 11), and may be appropriate for roads.   
+The County should consider amending its development ordinances and regulations to either 
+refer to LOS standards in this Comprehensive Plan or to directly incorporate them into the 
+ordinance or regulations language. This would enable the County to require traffic studies on 
+a case-by-case basis (depending on the size or scale of the proposed development), to 
+require improvements if a transportation facility (roadway or intersection) does not meet the 
+standards, or to amend development proposals that would exceed LOS standards regardless 
+of mitigation. 
+Upgrades and Expansions 
+To ensure acceptable Levels of Service on the County’s road network and to improve 
+connectivity, road system upgrades and expansions should focus on the following key 
+objectives:
+
+<!-- page 85 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+5-10 
+• 
+Improving north-south connections between US 40 and I-95.  For businesses and towns 
+in the US 40-MD 7 corridor to flourish, fast, easy access to I-95 will be critical.  
+Recommended improvements include upgrades to MD 222, MD 272, MD 279, plus the 
+proposed northern loop road around Elkton.  
+• 
+Increasing connectivity within the Designated Growth Area to provide alternate route 
+options so that all the traffic is not channeled onto a few roads.  In particular, new or 
+upgraded east-west connections are needed in the Designated Growth Area in the area, 
+running parallel to I-95 and US 40.  Recommended connections include the extension of 
+Chesapeake Boulevard to Maloney Road, a new connection to serve the Mixed Use 
+Employment area west of Elkton, and working with landowners to acquire or dedicate 
+right-of-way for an east-west road serving long-term (beyond 2030) redevelopment of the 
+Mineral Extraction Area between Perryville and North East. 
+• 
+Preserving US 40 to the greatest extent possible as a “free flowing” road with few traffic 
+signals.  See below.  
+• 
+Expansion of I-95, as recommended by WILMAPCO and MdTA.  I-95 is a regionally 
+significant road.  Expanding capacity on I-95 will also help to keep regional traffic off of 
+the County’s local road network.  The expansion of I-95 in Cecil County is a component 
+of larger regional plans to widen the interstate from MD 24 in Harford County through 
+New Castle County, Delaware. 
+• 
+Continuing the County’s program of bridge rehabilitation and replacement.  The County 
+tries to upgrade or replace five bridges per year. 
+To achieve these objectives, this Comprehensive Plan concurs with the recommendations of 
+the Regional Transportation Plan and the 2007 Roadway Improvement Strategic Plan.  In 
+addition, upgrades to the US 40/MD 213 intersection should be investigated.7  Map 5.5 shows 
+the Comprehensive Plan’s recommended road system upgrades and expansions, which are 
+also listed in Section 5.6.   
+US 40 (Pulaski Highway) 
+US 40 has historically been Cecil County’s primary thoroughfare.  Even several decades after 
+the construction of I-95, US 40 remains one of the County’s busiest roads, serving both 
+regional and local traffic.  As described in Chapter 3, the County envisions US 40 as the 
+County’s primary business corridor, a free-flow roadway that incorporates transit and 
+bicycle/pedestrian facilities, and connects towns and nodes of development. 
+Achieving this vision will require 
+coordination with SHA to alter the design of 
+the roadway itself, specifically to 
+accommodate transit service, bicycle and 
+pedestrian facilities, and access 
+management facilities.  Figure 5.1 shows 
+some conceptual cross-sections that could 
+be used to guide the redesign of US 40.  
+Options 1 and 2 may be more applicable to 
+less developed portions of the US 40 
+corridor, where right-of-way is available or 
+easier to acquire.  Option 3 may be more 
+applicable within towns or in developed 
+portions of the US 40 corridor, where right-
+of-way is more difficult to acquire. 
+                                                     
+7 The US 40/MD 222 intersection in Perryville and the US 40/MD 272 intersection in North East have also been 
+identified as a potential source of traffic congestion.  Although modeling indicates that these intersections do not 
+appear to be problematic in 2030, the County should carefully monitor congestion in these locations. 
+U.S. Route 40 Eastbound at MD 279
+
+<!-- page 86 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+5-11 
+Map 5.5 
+Recommended Road System Improvements
+
+<!-- page 87 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+5-12 
+Figure 5.2 
+Conceptual US 40 Cross Sections
+
+<!-- page 88 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+5-13 
+Access management preserves road capacity by limiting the number of new entry points.  
+The 2007 Roadway Improvement Strategic Plan recommends a number of access 
+management techniques along the entire length of US 40, including consolidation of existing 
+entrances and driveways, construction of curbs and narrowing of existing driveways, and 
+construction of service roads. 
+Aesthetic improvements, such as those recommended by the US 40 Beautification 
+Committee (see Section 3.6.1), are also important components of future upgrades to US 40.  
+While most of the Beautification Committee’s recommendations relate to land use, code 
+enforcement, and other non-transportation aspects of the corridor, a few recommendations 
+address roadway design.  In particular, the Beautification Committee report recommends 
+tree-planting and other beautification of US 40’s medians; pedestrian access; and signage.  
+The County, municipalities, and SHA should work together to develop a coordinated plan for 
+redesign of US 40 to achieve the objectives described in this Comprehensive Plan. 
+Elkton Loop Road 
+As described in Section 5.2.3, the Roadway Improvement Strategic Plan recommended the 
+development of a new northern loop road around Elkton.  The intent of this loop road is to 
+increase overall connectivity in the area north of Elkton and Elkton West and provide access 
+to I-95 that does not require travel through central Elkton.   
+This Comprehensive Plan carries forward the Strategic Plan’s recommendation, with an 
+alignment modification in the vicinity of Muddy Lane and Belle Hill Road.  However, there is 
+some concern that implementation of such a loop road could lead to increased traffic 
+congestion on US 40, MD 279, and MD 281 east of Elkton.  In particular, drivers may use the 
+eastern portion of this loop (between MD 279 and US 40) to bypass the Delaware toll plaza 
+on I-95.  The portion of the road east of MD 279 could also be costly as it would require an 
+upgrade of the Amtrak railroad crossing at Muddy Lane.  The pros and cons of this proposed 
+road should be carefully studied to ensure that its implementation helps to achieve the 
+County’s transportation goals.   
+Tolls 
+The Maryland Transportation Authority (MdTA) collects tolls on northbound I-95 north (east) 
+of the Tydings Bridge, and on northbound US 40 north (east) of the Hatem Bridge.  The 
+County is concerned that the tolls, both of which are near Cecil County’s western border, 
+discourage travel to and economic development within Cecil County.  One option to address 
+the economic impacts of MdTA’s tolls is to relocate the toll facilities to the eastern side of the 
+County, near the Delaware line.  The major concern about this option is the potential that 
+individuals who wish to avoid tolls would detour along local roads or smaller state roads such 
+as MD 279, MD 281, and Frenchtown Road to bypass the toll, overwhelming the capacity of 
+these roads.   
+To address toll-related issues, the County should work with MdTA, SHA, and the Delaware 
+Department of Transportation (DelDOT) to study the feasibility of and options for toll 
+relocation. 
+A separate concern is DelDOT’s plans to convert US 301 to a limited access toll road in New 
+Castle County (associated with the planned US 301 bypass around Middletown).  Cecil 
+County is concerned about toll and truck weight evasion, which could increase traffic in rural 
+parts of southern Cecil County, and through small communities such as Cecilton and 
+Chesapeake City.  The County, SHA, and DelDOT should work together to ensure 
+enforcement of truck weight limits and toll avoidance. 
+Safety 
+Roadway safety is an ongoing concern for existing and proposed future roads, and applies to 
+drivers, pedestrians, and bicyclists alike.  The Roadway Improvement Strategic Plan
+
+<!-- page 89 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+5-14 
+identifies several County road segments, listed below, where safety improvements should be 
+priorities.8  Recommended safety improvements include alterations of road geometry (curves, 
+hills, and slopes); signage; and pavement marking.  
+Another candidate location for safety improvement is at the I-95/ MD 222 interchange.  Some 
+citizens have identified the weave move from the southbound ramp to I-95 south as 
+dangerous due to the speed of southbound traffic. 
+• 
+Barksdale Road 
+• 
+Bouchelle Road 
+• 
+Frenchtown Road 
+• 
+Jackson Station Road 
+• 
+Jones Chapel Road 
+• 
+Lums Road 
+• 
+Mechanics Valley Road 
+• 
+Mountain Hill Road 
+• 
+Muddy Road 
+• 
+Nottingham Road 
+• 
+Old Elk Neck Road 
+• 
+Red Toad Road 
+• 
+Reservoir Road 
+5.3 
+Transit 
+Existing Conditions  
+Three agencies provide transit service in Cecil County.  The Penn Line of the Maryland 
+Transit Administration (MTA)’s Maryland Commuter Rail (MARC) service has its northern 
+terminus at Perryville, and links the County to Baltimore and Washington, D.C.  As of 2009, 
+there were six scheduled trips per weekday in each direction. 
+The Delaware Transit Corporation (DART First State) operates bus service between Elkton 
+and Newark, Delaware via MD 279, providing a connection to SEPTA (Southeastern 
+Pennsylvania Transportation Authority—the Philadelphia-area transit system) and Amtrak 
+trains at the Newark station.  As of 2009, there were six scheduled DART bus trips per 
+weekday in each direction. 
+The Cecil County Department of Senior Services and Community Transit runs “The Bus,” 
+which offers both scheduled, and demand-response (reservation-based) service, as follows: 
+• 
+Glasgow Connection: Scheduled service between downtown Elkton and People’s Plaza 
+in Glasgow, Delaware (with connections to DART First State bus service).  The Glasgow 
+Connection offers twelve trips per weekday and five trips per weekend day in each 
+direction. 
+• 
+Perryville Connection: Scheduled service between Downtown Elkton and downtown 
+Perryville (including the MARC/Amtrak station), including stops in North East.  The 
+Perryville Connection offers eight weekday trips per day in each direction. 
+• 
+CT Cruiser: This is demand-response service, available to all County residents, but 
+designed primarily for seniors and persons with functional disabilities.  Service is 
+available within Cecil County and to neighboring jurisdictions from 8:00 a.m. to 4:00 p.m., 
+and reservations are required.  Prices are based on the distance traveled.  The CT 
+Cruiser also provides service to the Perryville and Elkton Senior Centers. 
+Although SEPTA does not directly serve Cecil County, its R2 Regional Rail line offers 
+multiple round-trips from Newark, Delaware to Wilmington and Philadelphia. 
+Park-and-ride lots are available for commuters who wish to carpool.  The lots are located at: 
+• 
+MD 222 at Blythedale/Bainbridge Roads (62 spaces) 
+• 
+I-95 at MD 272 (100 spaces) 
+• 
+I-95 at MD 279 (25 spaces) 
+                                                     
+8 SHA maintains a separate list of Candidate Safety Improvement Locations on state roads.
+
+<!-- page 90 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+5-15 
+• 
+MD 213 at Frenchtown Road (18 spaces) 
+Discussion of Issues 
+Developing more robust transit service is a key priority of the Comprehensive Plan.  Such a 
+system will create options for residents and people who work in the County.  This includes 
+extension of two commuter rail systems—MARC from Perryville and SEPTA from Newark, 
+Delaware—as well as enhanced bus service.   
+WILMAPCO’s Track A Feasibility Study (2003) examines opportunities to extend commuter 
+and freight rail between Perryville and Newark, DE, likely along the existing Amtrak rail 
+corridor.  Phase I of this study involved extension of SEPTA commuter rail service from 
+Newark (its current southern terminus) to Elkton.  Phase II examined extension of MARC 
+commuter rail from Perryville (its current northern terminus) to Elkton.  Key considerations for 
+extension of commuter rail include: 
+• 
+Provision of additional trackage to 
+ensure free flow of Amtrak, 
+MARC, SEPTA, and freight rail 
+along the existing Amtrak corridor. 
+• 
+Construction of new stations at 
+Elkton and North East, and 
+rehabilitation of the Perryville 
+Station 
+• 
+Coordination of freight and 
+passenger rail infrastructure and 
+service. 
+• 
+To link rail investments to 
+economic development and 
+growth management strategies. 
+The Phase II study, conducted in 2005, found that likely land use patterns, population 
+densities, and likely park-and-ride commuter demand would justify extension of MARC rail 
+service to Elkton by 2025.  Extension of SEPTA to Elkton by 2030 should also be feasible.  In 
+addition, the County believes that there is demand for limited Amtrak service at Elkton. 
+This Comprehensive Plan envisions higher residential densities and concentrations of 
+economic activity in the Designated Growth Area than were envisioned in the WILMAPCO 
+transit study, thus bolstering the case for extension of commuter rail across the County.  
+Increased density is strongly associated with increased demand for and use of mass transit.  
+Federal funding decisions for transit systems are based in part on the relationship between 
+land use and transportation, with preference given to jurisdictions that encourage density 
+near potential transit stations.  Accordingly, the Comprehensive Plan’s recommendations for 
+mixed use development in the Designated Growth Area would further support transit, as 
+would the cross-sections in Figure 5.1 that include transit right-of-way. 
+Along with extension of rail transit, development of a countywide transit system should 
+include expansion of bus transit options.  This should include additional routes and scheduled 
+service by “The Bus” and/or DART First State.  Bus service should link train stations to 
+employment and commercial centers, in the County, as well as more densely developed 
+residential areas.  The County specifically recommends bus stops along MD 279 to enhance 
+DART First State service.  Park-and-ride lots, served by transit, should be provided at train 
+stations and at other key points in the County to reduce the number and distance of 
+automobile trips. 
+Amtrak crossing the Susquehanna River 
+Photo Courtesy Cecil Soil Magazine.
+
+<!-- page 91 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+5-16 
+5.4 
+Bicycle and Pedestrian Facilities  
+On-Road Bicycle Facilities 
+SHA’s 2007 Maryland Bicycle Map identifies the following on-road bicycle routes in Cecil 
+County: 
+• 
+US 40, from MD 222 to the Delaware State Line; 
+• 
+US 1, from the Susquehanna River to MD 273; 
+• 
+MD 273, from US 1 to the Delaware State Line; 
+• 
+MD 222, from US 1 to US 40; and 
+• 
+MD 213, from MD 273 to the Kent County Line. 
+These routes are generally marked with “Share the Road” signs.  Designated bicycle lanes 
+are generally not present along these routes, although many have shoulders. 
+As part of the 2002 Statewide 20 Year Bicycle and Pedestrian Access Master Plan, the 
+Maryland Department of Transportation (MDOT) compiled a Bicycle and Pedestrian Needs 
+Inventory.  Similar to the HNI, the Bicycle/Pedestrian Needs Inventory identified those state 
+roads with the greatest need for bicycle and pedestrian improvements.  Table 5.3 lists Cecil 
+County’s bicycle improvement needs, as identified in the 2002 Plan.  Facilities designated as 
+Tier 1 have the highest priority for state funding, while facilities designated as Tier 2 have 
+secondary priority for state funds.   
+Pedestrian Facilities 
+Pedestrian facilities can include multi-use paths, sidewalks, crosswalks, pedestrian crossing 
+signals, signage, and pedestrian-level street lighting.  Pedestrian facilities in Cecil County are 
+generally found in municipalities, and are limited in other parts of the County.   
+It is desirable to promote walking as a means of transportation for overall personal health and 
+environmental reasons, as well as to preserve road capacity by reducing automobile trips.  
+Additionally, federal, state, and local transportation policies support pedestrian travel as a 
+viable alternative to driving where the land uses make it feasible. 
+As new County facilities with high levels of activity are planned, and community facilities 
+(schools, college, libraries, parks, etc.) are improved, an assessment of pedestrian access 
+should be completed to ensure that safe pedestrian access within and to these sites is 
+encouraged and facilitated.  Consideration should be given to pedestrian access along and 
+across roads in developed and developing areas (including villages), particularly the need for 
+marked crosswalks or pedestrian crossing signs to promote safety.
+
+<!-- page 92 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+5-17 
+Table 5.3: 
+Bicycle Improvement Needs1 
+Route  
+From  
+To 
+Length (mi.) 
+Tier 1 Facilities 
+MD 213 
+US 40 
+MD 7 (Main Street) 
+0.6 
+MD 279 
+US 40 
+Elkton Corporate Limits 
+0.25 
+Tier 2 Facilities 
+US 1 
+County Line 
+State Line 
+9.5 
+MD 7 
+North East Corporate Limits 
+US 40 
+4.6 
+MD 7 
+US 40 
+Baltimore Street (MD 267) 
+1.2 
+MD 7 
+Charlestown Corporate Limits 
+North East Corporate Limits 
+1.9 
+MD 7 
+Perryville Corporate Limits 
+US 40 
+2.4 
+MD 213 
+MD 273 
+McClearly Road 
+0.4 
+MD 213 
+Johnstown Road 
+I-95 
+0.3 
+MD 213 
+Elkton Corporate Limits 
+Glebe Road 
+9.2 
+MD 222 
+Perryville Corporate Limits 
+I-95 
+1.1 
+MD 222 
+US 1 
+Port Deposit Corporate Limits 
+4.3 
+MD 272 
+State Line 
+Southern Terminus 
+19.2 
+MD 273 
+MD 316 
+Rising Sun Corporate Limits 
+12.7 
+MD 277 
+MD 279 
+MD 316 
+1.3 
+MD 279 
+Appleton Road 
+MD 277 
+2.6 
+MD 310 
+MD 213 
+County Line 
+5.0 
+MD 316 
+MD 277 
+I-95 
+1.0 
+MD 342 
+MD 310 
+Chesapeake City Corporate Limits 
+2.7 
+MD 545 
+Leeds Road 
+Gravelly Run 
+1.9 
+1: Excludes segments that are wholly or primarily within municipalities. 
+Source: Maryland DOT, http://www.mdot.state.md.us/Planning/Bicycle/TECHNI.PDF 
+Recreational Trails 
+A number of bicycle/pedestrian trails are currently under development or are planned, and 
+Cecil County has an opportunity to create an excellent network of trails that could be a 
+tremendous countywide and regional amenity. 
+The East Coast Greenway (ECG) is a 
+planned multi-state 2,600-mile long trail 
+geared to both bicyclists and hikers that 
+would link the east coast cities from 
+Maine to Florida. It is planned to run 
+through Cecil County in three segments 
+(see Figure 5.2): from Perryville to 
+Newark, DE generally along the US 40 
+corridor; and from the Conowingo Dam 
+to Newark via US 1 and MD 273; and 
+from Kent County to Elkton via MD 213.  
+The eventual intent of the East Coast 
+Greenway is to establish a complete 
+off-road trail system.  However, in the 
+interim, the Greenway follows portions 
+of US 40 (across the Hatem Bridge), 
+MD 222, MD 7, MD 316, MD 277, and 
+other local and state roads. 
+The Lower Susquehanna Heritage Greenway Trail stretches 
+from Conowingo to Principio Furnace.
+
+<!-- page 93 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+5-18 
+The 2005 Land Preservation, Parks, and Recreation Plan (LPPRP) describes the 
+recommended recreational (off-road) trail network for the County.  In addition to the East 
+Coast Greenway, recommended trails of regional significance include: 
+• 
+Elk Neck Trail, stretching 12 miles from Elk Neck State Forest to Elk Neck State Park; 
+• 
+Lower Susquehanna Heritage Greenway Trail, stretching 16.5 miles from Conowingo to 
+Principio Furnace; and 
+• 
+Mason-Dixon Trail, stretching 20 miles from Perryville to Elkton via the central portion of 
+the County.  This trail segment is part of a larger multi-state trail that runs from 
+Pennsylvania to Delaware. 
+For more detail on these facilities, please see section III.C.5 of the LPPRP. 
+Figure 5.2 
+East Coast Greenway 
+ 
+Source: East Coast Greenway
+
+<!-- page 94 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+5-19 
+5.5 
+Other Transportation Facilities 
+5.5.1 
+Scenic Roads 
+Existing Conditions 
+The Maryland Scenic Byways Program, managed by SHA, has designated the following 
+scenic byways in Cecil County.  
+• 
+Mason and Dixon Scenic Byway: US 1 from the Harford County line to MD 273; and MD 
+273: US 1 to Delaware state line. 
+• 
+Chesapeake Country Scenic Byway: MD 213 from the Kent County line to Chesapeake 
+City.  Designated “sidetracks” include portions of MD 282, Grove Neck Road, Pond Neck 
+Road, Worsel Manor Road, and Bohemia Church Road in the vicinity of Cecilton, Grove 
+Point, and Pond Neck.  This portion of the Chesapeake Country Scenic Byway is also a 
+designated National Scenic Byway. 
+• 
+Lower Susquehanna Scenic Byway: MD 222: US 1 to MD 7 via Port Deposit and 
+Perryville. 
+The mission of the Maryland Scenic Byways Program is to enhance the quality of life and 
+pride in, and the visitor appeal of the local community.  The Program promotes responsible 
+management and preservation of the state’s most scenic cultural and historic roads and 
+surrounding resources.  The Program provides funds for community based corridor 
+management plans, which makes them eligible for additional grant funds.  
+Discussion of Issues 
+In addition to state-designated Scenic Byways, a number of County roads in Cecil County are 
+potentially valuable for their scenic and/or historic attributes.  Establishment of a local scenic 
+and/or historic road program could recognize the value of these roads, and their contributions 
+to the County’s scenic and historic character.   
+To establish such a program, the County would first need to conduct an inventory of scenic 
+and/or historic roads.  Next, the County would need to develop policies to protect and 
+enhance these roads.  Policies could relate to the physical attributes of the road itself (such 
+as vertical or horizontal curves), as well as to the land and resources (aesthetic or cultural) 
+visible from the designated roads.  Amendments to the County’s Roads Code would address 
+the former, while changes to the County’s land development ordinances would address the 
+latter. 
+5.5.2 
+Airports 
+Existing Conditions  
+Cecil County Airport, along Oldfield Point Road southwest of Elkton, is the only General 
+Aviation airport in Cecil County.  The privately-owned public-use airport has a 3,000 foot 
+paved runway, but currently hosts no scheduled commercial air service.  The Raintree 
+Airpark Seaplane Base is in the Elk River, adjacent to Cecil County Airport.   
+Cecil County Airport’s long-range Master Plan includes extension of the runway to 4,000 feet, 
+extension of the taxiway, a new terminal building, and hangars.  
+Residents who wish to travel via commercial air carriers typically travel to either Philadelphia 
+International Airport or Baltimore-Washington International Thurgood Marshall Airport.  
+MARC and SEPTA rail systems provide links to these airports.
+
+<!-- page 95 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+5-20 
+Issues 
+In addition to serving transportation needs, Cecil County Airport contributes to economic 
+development in the County by attracting business and providing an alternative to commercial 
+airports.  During the Comprehensive Plan development process, concerns were raised that 
+the County’s existing land development regulations do not adequately address the airport’s 
+safety areas, which are defined by Federal Aviation Administration (FAA) guidelines. 
+Airports are permitted as a Special Exception in the NAR, SAR, SR, BI, M1, M2, and OS 
+zoning districts.  The zoning ordinance makes reference to Maryland Aviation Administration 
+and FAA guidelines for airport design.  FAA guidelines are also the basis for height 
+restrictions near the airport.  The Maryland Code of Regulations defines various “imaginary 
+surfaces” extending beyond airport boundaries.  Under state law, obstructions (including 
+structures, trees, or other objects) that would cause airport or air navigation hazards are 
+prohibited within these imaginary surfaces.  Figure 5.3 shows the typical imaginary surfaces 
+associated with airports. 
+Figure 5.3 
+Imaginary Surfaces for Airports 
+ 
+Source: FAA 
+To ensure compatible land use, the County should consider adopting an overlay zoning 
+district around airports that would alert County staff, residents, and businesses regarding the 
+potential for off-airport navigation hazards, and a requirement for review of proposed 
+development projects by the Maryland Aviation Administration.  
+5.5.3 
+Freight Transportation  
+Existing Conditions  
+There are three freight rail lines in Cecil County.  The CSX line runs east-west, from Perryville 
+to Newark, DE, to the north of US 40.  Norfolk-Southern operates two lines.  One line is co-
+located with the Amtrak Northeast Corridor between Perryville and Elkton, while another runs 
+along the east bank of the Susquehanna River from Perryville into Pennsylvania.  Access to 
+freight rail is often a factor in siting decisions for industrial and commercial facilities.  This was 
+the case for several major employers in Cecil County, including General Electric and 
+Perryville Cold Storage in the Principio Industrial Park, and Cargill near Elkton.
+
+<!-- page 96 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+5-21 
+Initially constructed in 1829, the Chesapeake and Delaware (C&D) Canal stretches 
+approximately 14 miles from the Elk River to the Delaware River via Chesapeake City.  It is 
+one of America’s most economically important canals, handling approximately 40 percent of 
+all ship traffic from the Port of Baltimore.9  
+Discussion of Issues 
+The existing freight facilities in Cecil County represent a significant economic development 
+asset.  This is particularly true of rail, which offers a comparably fuel-efficient cargo option in 
+an era of escalating fuel costs and increased traffic on major highways.  The Comprehensive 
+Plan recognizes this opportunity, in part by ensuring that many of the areas designated as 
+Employment Centers in the Land Use Plan (see Chapter 3) have access to freight rail lines.  
+The County should work with CSX and Norfolk Southern to encourage continued marketing 
+of rail-accessible sites and employment centers.  The co-location of Norfolk-Southern and 
+Amtrak does pose some conflicts in using rail to promote economic development, since not 
+all sites along the Norfolk-Southern line are equally accessible without crossing Amtrak 
+tracks. 
+5.6 
+Policies and Actions  
+Road System Improvements 
+1. Complete the following projects, working the State Highway Administration as 
+appropriate. 
+o 
+I-95 widening (one lane in each direction) through Cecil County. 
+o 
+MD 213 US 40 to Frenchtown Road; 2 to 4 lane divided. 
+o 
+MD 272 US 40 to Lums Road; 2 to 4 lane divided 
+o 
+Intersection upgrade at US 40 and MD 213 in Elkton. 
+o 
+North-south connection between MD 7 and US 40 to serve the Mixed Use 
+Employment area west of Elkton. 
+o 
+Extension of Chesapeake Boulevard to Maloney Road  
+2. Work with the State Highway Administration to evaluate the following projects: 
+o 
+Northern loop route around Elkton, from MD 781 (Delancy Road) to MD 279, through 
+Elkton West to Marley Road and to US 40.  
+o 
+Intersection upgrade at US 40 and MD 222 in Perryville. 
+3. Work with the State Highway Administration and the Departments of Public Works, 
+Planning and Zoning, and Economic Development  to put in place plans and programs 
+that implement the County’s vision for US 40.  Inputs include: 
+o 
+This Comprehensive Plan, including the Future Land Use Map and Recommended 
+Road Network Improvements.  Future road section concepts for discussion with SHA 
+are shown on Figure 5.1.  Special focus should be on the portion of US 40 through 
+Elkton which, without improvements, is projected to operate at LOS E or F in 2030.  
+o 
+US 40 Beautification Committee report (2008).  This committee was established by 
+the Cecil County Economic Development Commission to create a vision for the future 
+of the US 40 corridor. 
+o 
+Access management recommendations in the Cecil County Roadway Improvement 
+Strategic Plan (2007).   
+                                                     
+9 Source, US Army Corps of Engineers: http://www.nap.usace.army.mil/sb/c&d.htm
+
+<!-- page 97 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+5-22 
+o 
+Transit considerations such as a dedicated transit lane. 
+4. Work with MdTA, SHA, and DelDOT to evaluate the relocation of tolls on I-95 and US 40 
+to the eastern side of the County, and to minimize toll and truck weight avoidance in 
+conjunction with establishment of a US 301 toll. 
+5. Consider amending the County’s development ordinance to refer to the Comprehensive 
+Plan’s LOS standards or to adopt those standards directly into the ordinances.   
+Transit 
+6. Support the extension of MARC and SEPTA rail service to Elkton, in cooperation with 
+MTA, WILMAPCO, and other agencies as appropriate.  
+7. Increase local bus transit in Cecil County to augment proposed rail service, and to link rail 
+stations to employment and commercial centers and residential areas. 
+8. Incorporate transit considerations into US 40 upgrades (see Policy 3). 
+9. Promote ride sharing by establishing and expanding park and ride lots at key locations, 
+including train stations, and link park-and-ride lots to transit service. 
+10. Encourage transit accessibility to nearby commercial airports in Baltimore and 
+Philadelphia. 
+Non-Motorized Transportation 
+11. Create a trails network building on the trails and greenways concept in the County’s Land 
+Preservation Parks and Recreation Plan (2005), including the Lower Susquehanna 
+Heritage Greenway trail system.  
+12. Encourage the development of walkable communities that serve a wide range of incomes 
+and physical abilities, while reducing dependence on automobile travel. 
+Funding 
+13. Consider impact fees or a development excise tax to provide additional County funds for 
+transportation improvements.  
+14. Consider designating funds specifically for transit, bicycle, pedestrian, and other projects 
+that provide alternatives to single-occupant vehicle trips (see Chapter 11, 
+implementation). 
+Other Policies 
+15. Consider a County scenic and/or historic roads program, focused on County roads.  The 
+first step in establishing such a program is to conduct an inventory of eligible roads. 
+16. Support the use of existing rail lines for commercial goods shipments to reduce through 
+truck traffic on major roads.  Work with rail companies (including Amtrak) to reduce or 
+eliminate freight/cargo conflicts and maximize access to freight rail lines. 
+17. Utilize County waterway connections to the Chesapeake and Delaware Canal to promote 
+shipment of commodity goods such as gravel and agricultural products out of the County 
+by barge rather than by truck. 
+18. Consider adopting an Airport Overlay District for the area around the County’s airports.  
+Provisions of this district would include notification of potential navigation hazards, and 
+coordination with the Maryland Aviation Administration, as described in Section 3.6.6. 
+19. Continue to improve the safety of roads in the County, particularly those identified in the 
+2007 Roadway Improvement Strategic Plan, as well as the I-95/MD 222 interchange.   
+20. Continue the County’s program of bridge rehabilitation and replacement.
+
+<!-- page 98 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-1 
+6 
+Water Resources Element 
+6.1 
+Introduction 
+In 2006, the Maryland General Assembly passed House Bill 1141 (HB 1141), which modified 
+Article 66B of the Annotated Code of Maryland by requiring the inclusion of a Water 
+Resources Element in Comprehensive Plans.  The Water Resources Element must establish 
+a clear relationship between existing and proposed future development, the drinking water 
+sources, and wastewater facilities that will be necessary to serve that development.  It must 
+also evaluate the discharge of nutrients (nitrogen and phosphorus) from point sources (such 
+as wastewater treatment plants) and nonpoint sources (such as stormwater runoff), and must 
+evaluate the impact of these discharges on the rivers, streams, and other waters that receive 
+these pollutant loads. 
+This Chapter (the Cecil County Water Resources Element) conducts these evaluations within 
+the framework of the County’s watersheds—specifically its 13 “eight-digit” watersheds,1 
+shown in Map 6.1.  Of these watersheds, twelve drain into the Chesapeake Bay and one, the 
+Christina River watershed, drains into the Delaware Bay.   
+6.2 
+Goals and Objectives 
+The Water Resources goals for the County are to: 
+1. Increase the capacity and extent of water resources infrastructure—water supply and 
+wastewater collection, treatment, and discharge capacity—in Growth Areas. 
+2. Plan growth in a way that allows sufficient time to develop adequate drinking water and 
+wastewater resources and infrastructure. 
+3. Work with municipalities in the County, neighboring jurisdictions, the Susquehanna River 
+Basin Commission, other regional organizations, and private service providers to address 
+water resource issues related to water supply, wastewater treatment, and nonpoint 
+source pollution. 
+4. Enhance stormwater management programs, to reduce non-point source loading of 
+nutrients and sediment into the Chesapeake Bay, and to increase infiltration and aquifer 
+recharge. 
+6.3 
+Background 
+6.3.1 
+Coordination with Cecil County’s Municipalities 
+The Cecil County Department of Public Works (DPW) owns and operates one public 
+wastewater collection and treatment system—the Seneca Point Advanced Wastewater 
+Treatment Plant) but no public water systems.  With a few exceptions, the eight incorporated 
+Municipalities in Cecil County all offer public water and sewer service to residents and 
+businesses within their boundaries (wastewater from the Towns of North East and 
+Charlestown flows to Seneca Point).  Water and sewer service not provided by the County or 
+municipalities is provided by private entities, subject to franchise agreements with the County. 
+The County’s municipalities are currently preparing Comprehensive Plan updates, to include 
+Municipal Growth Element (MGE) and Water Resources Element (WRE), as required by HB 
+1141.  This County Water Resources Element compiles and synthesizes, to the greatest 
+degree possible, data from the municipalities (including their WREs and MGEs, if available) in 
+order to link water resources, growth, and land use for the entire County.   
+                                                     
+1 This refers to the numeric classification system used by the Maryland Department of the Environment.
+
+<!-- page 99 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-2 
+Map 6.1 
+Watersheds in Cecil County
+
+<!-- page 100 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-3 
+The County coordination efforts extend beyond data collection.  A parallel process with the 
+local Council of Governments (COG), comprised of representatives from the County and its 
+municipalities, examined Countywide water and sewer capacity issues concurrently with the 
+preparation of the County Comprehensive Plan.  As part of the COG process, County 
+representatives participated in monthly COG meetings and held in-depth discussions with the 
+municipalities and their technical consultants.  While this document contains the water 
+resources policies for unincorporated portions of the County, the County’s policies are 
+intended to be compatible with the policies of the municipalities. 
+6.3.2 
+Growth and Development Scenarios 
+Through the Comprehensive Plan COC process, a consensus future land use plan emerged, 
+as described in Chapter 3.  This WRE evaluates the water resources impacts of the 
+consensus plan as a single scenario.   
+While multiple scenarios are not evaluated directly in this Element, the consensus concept is 
+the product of evaluation (which included water resources factors) of several rounds of 
+preliminary concepts.2  A COC exercise in 2008 evaluated public water and sewer demand, 
+demand for new septic systems, and increases in impervious surface from two different land 
+use scenarios.  A white paper describing the demands and capacities of the County’s water 
+resources at buildout was prepared in 2009.  A white paper describing the COC “Concept 
+Plan” (the forerunner of the Future Land Use Plan) included description and analysis of 
+current and future water resources capacities and limitations.  These analyses were major 
+inputs into the future land use plan shown in Chapter 3.  These materials are summarized in 
+the WRE Appendix and the COC materials included in this Plan. 
+6.4 
+Drinking Water Assessment 
+This section describes demand for drinking water in Cecil County, including public and private 
+water systems, and water for agriculture, business, and other uses. 
+6.4.1 
+Public Water Systems 
+Approximately 17,100 dwelling units in Cecil County and its towns (44 percent of the County 
+total in 2008)3 receive drinking water from public or private water systems, shown on Map 
+6.2.  This includes water systems maintained by the municipalities, as well as those operated 
+by private water providers such as Artesian Water Maryland, Inc. (Artesian); CECO Utilities; 
+Crystal Beach; Port Herman; and the Mountain Hill Company (a subsidiary of Artesian).  A 
+comparable share of non-residential development is connected to these water systems.  In 
+2009, the Meadowview/Highlands, Pine Hills and Harbour View public water systems 
+formerly owned and operated by Cecil County were acquired by Artesian (see Section 6.4.3).  
+The County no longer owns or operates any public water systems. 
+Approximately 65 percent of the drinking water for public systems comes from surface water, 
+while the remaining 35 percent is withdrawn from groundwater or purchased from private 
+water companies.  Groundwater availability is highly dependent upon geology.  Cecil County 
+straddles the Piedmont and the Coastal Plain physiographic provinces.  The dividing line 
+between these regions, known as the Fall Line, generally follows the I-95 corridor.  Geologic 
+formations in the Piedmont region, to the north and west of the Fall Line are not suitable for 
+large-scale groundwater withdrawal due to the reliance on fractures and other irregularities.   
+                                                     
+2 MDP and MDE require evaluation of at least one future land use scenario as part of the WRE, with iterative 
+adjustments to that scenario to reflect water resources limitations.  Through multiple rounds of preliminary scenario 
+evaluation, the WRE embodies such iterative evaluations. 
+3 2008 was used as the base year for most Water Resources Element analysis because it was the most recent year 
+for which data were available.
+
+<!-- page 101 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-4 
+Map 6.2 Water Service Areas in Cecil County 
+ 
+Source: Cecil County Water and Sewer Master Plan, Municipal WREs and MGEs.
+
+<!-- page 102 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-5 
+To the south and east of the Fall Line, confined Coastal Plain aquifers are generally suitable 
+for public water supplies.  The major coastal plain aquifers in Cecil County are the Potomac, 
+Magothy, and Monmouth formations (see diagram of water bearing formations in the WRE 
+Appendix).   
+The characteristics of surface water sources also vary according to their location in either the 
+Piedmont or Atlantic Coastal Plan.  The Piedmont in Cecil County is dissected or bordered by 
+four major waterways, the Susquehanna, Northeast, and Elk Rivers, and Octoraro Creek.  
+These waterways provide a major portion of the water used daily in Cecil County (primarily 
+from the Susquehanna).4  The Atlantic Coastal Plain is drained by the Bohemia and 
+Sassafras Rivers, which tend to be slower-moving, more prone to water quality concerns, and 
+are therefore not used for public water supplies.   
+Table 6.1 provides basic information about each public water system.  Greater detail about 
+each system can be found in the WRE Appendix. 
+Table 6.1: 
+Public Water System Characteristics 
+Water System 
+Source 
+Planned/Potential System 
+Upgrades or Expansions 
+Source Concerns, 
+System Issues 
+Cecilton 
+2 wells - Magothy 
+formation 
+Additional well & storage 
+tank 
+Iron & Manganese 
+Charlestown 
+2 wells - Magothy 
+formation 
+Additional wells and storage.  
+Possible connection with 
+Mountain Hill Water 
+Company. 
+Iron, pH, system near 
+capacity 
+Chesapeake City 
+North & South 
+4 wells - Potomac 
+formation 
+Privatization of drinking 
+water system, capacity 
+increase to 400,000 gpd 
+Iron 
+Elkton 
+2 wells - Potomac 
+formation; Big Elk Creek 
+Additional wells and capacity 
+None 
+Harbour View 
+2 wells - Potomac 
+formation 
+None 
+None 
+Meadowview / 
+Highlands 
+2 wells - Potomac 
+formation; United Water 
+of DE 
+None 
+None 
+North East 
+North East Creek 
+Expanding capacity to 2 
+MGD 
+None 
+Perryville 
+Susquehanna River 
+Technology upgrades 
+Quality concerns due 
+to sedimentation 
+Pine Hills 
+2 wells - Potomac 
+formation 
+None 
+None 
+Port Deposit 
+Susquehanna River 
+System upgrades underway 
+Quality concerns due 
+to sedimentation 
+Rising Sun 
+5 wells - Potomac 
+formation 
+Additional wells 
+Inadequate future 
+water quantity. 
+Sources: Water and Sewer Master Plan; Municipal WREs and MGEs; Surface Water Supply Study for Cecil County 
+Designated Growth Area, 2006 
+Table 6.2 shows the existing and projected future drinking water production, demand, and net 
+available capacity for public water systems in Cecil County.  Projected demand is based on 
+Table 2.1, adjusted to include nonresidential demand.  Most public systems currently have 
+excess capacity, although a few, such as Rising Sun and Elkton, are close to their limits.  
+Chesapeake City is at or slightly over its capacity.  Without new water sources, several public 
+water systems will be unable to support projected growth through 2030.  
+                                                     
+4 Source: Cecil County Master Water & Sewer Plan, 2004.
+
+<!-- page 103 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-6 
+Table 6.2: 
+Drinking Water Demand and Capacity 
+ 
+Cecilton 
+Charlestown* 
+Chesapeake City* 
+Elkton* 
+Harbour View 
+North East 
+Perryville* 
+Port Deposit* 
+Rising Sun 
+Elkton West 
+(Meadowview, 
+Highlands, Cherry 
+Hill) 
+Pine Hills 
+Water Production, 
+20081 
+gpd2 
+98,000 
+207,000
+170,000
+2,150,000
+51,700
+1,200,000 
+800,000
+400,000
+260,000
+1,133,000
+165,000 
+ERU3 
+392 
+828
+680
+8,600
+207
+4,800 
+3,200
+1,600
+1,040
+4,532
+660 
+Water Demand, 
+2008 
+gpd 
+47,800 
+92,400
+176,000
+1,800,000
+19,800
+670,000 
+376,000
+58,000
+216,100
+390,000
+73,000 
+ERU 
+191 
+370
+704
+7,200
+79
+2,680 
+1,504
+232
+864
+1,560
+292 
+Available 
+Capacity, 2008 
+gpd 
+50,200 
+114,600
+(6,000)
+350,000
+31,900
+530,000 
+424,000
+342,000
+43,900
+743,000
+92,000 
+ERU 
+201 
+458
+(24)
+1,400
+128
+2,120 
+1,696
+1,368
+176
+2,972
+368 
+Total New Demand 
+through 20304 
+gpd 
+63,200  
+120,660 
+137,031 
+1,237,500 
+4,950 
+804,750  
+840,000 
+502,000 
+205,592 
+804,750 
+58,400  
+ERU 
+253  
+483 
+548 
+4,950 
+20 
+3,219  
+3,360 
+2,008 
+822 
+3,219 
+234  
+Total Projected 
+Demand 20305 
+gpd 
+111,000  
+213,060 
+313,031 
+3,037,500 
+24,750 
+1,474,750  
+1,216,000 
+560,000 
+421,692 
+1,194,750 
+131,400  
+ERU 
+444  
+852 
+1,252 
+12,150 
+99 
+5,899  
+4,864 
+2,240 
+1,687 
+4,779 
+526  
+Likely Capacity, 
+20305, 6 
+gpd 
+98,000  
+207,000 
+400,000 
+3,150,000 
+51,700 
+2,000,000  
+2,000,000 
+1,500,000 
+260,000 
+3,000,000 
+165,000  
+ERU 
+392  
+828 
+1,600 
+12,600 
+207 
+8,000  
+8,000 
+6,000 
+1,040 
+12,000 
+660  
+Net Available 
+Projected 
+Capacity, 2030 
+gpd 
+(13,000) 
+(6,060)
+86,969 
+112,500 
+26,950 
+525,250  
+784,000 
+940,000 
+(161,692)
+1,805,250 
+33,600  
+ERU 
+(52) 
+(24)
+348 
+450 
+108 
+2,101  
+3,136 
+3,760 
+(647)
+7,221 
+134  
+Sources: Cecil County Department of Public Utilities; Water and Sewer Master Plan; Municipalities.  * Indicates municipalities where data was provided by Water Resources and/or Municipal 
+Growth Elements.  Note that 2008 water demand in municipalities are based on Equivalent Residential Units (ERU), and may not match the housing unit data in Table 2.1 because public 
+water service areas are not necessarily coterminous with municipal boundaries, and because ERUs  include nonresidential development. 
+1: Indicates the most restrictive of either the system’s permitted withdrawal or the water treatment plant’s treatment capacity. 
+2: gpd = gallons per day 
+3: ERU = An Equivalent Residential Unit (ERU) is 250 gallons per day (gpd).  This figure represents the average amount of water used by one household, and is also used to calculate 
+residential and non-residential (e.g., businesses) water demand. 
+4: Includes new demand from residential and nonresidential development, as well as system extensions to existing development. 
+5: Total projected demand for these systems in 2030 would be approximately 8.7 MGD, versus total capacity of approximately 12.8 MGD. 
+6: Incorporates all ongoing or planned capacity upgrades.
+
+<!-- page 104 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-7 
+6.4.2 
+Water Use Outside of Public Systems 
+Summary 
+Table 6.3 presents a profile of the overall water use in Cecil County in 2000 (the most recent 
+year for which data on overall water use is available).  Although these data are not up-to-
+date, they do indicate the relationship between different types of water users in the County.  
+In 2000, approximately 10.3 million gallons per day (MGD) of fresh water were used in Cecil 
+County, of which 7.3 MGD was from groundwater and 3 MGD was from surface water 
+withdrawals.  Public water supplies (including private utilities) and individual wells for homes 
+each used more than one third of this total withdrawal.  Groundwater for domestic supply was 
+the largest single water use category, reflecting the large amount of development in the 
+County’s rural areas.  
+Table 6.3: 
+Water Withdrawals in Cecil County, 2000 
+Type of Withdrawal 
+Surface Water 
+(MGD) 
+Ground Water 
+(MGD) 
+Total 
+(MGD) 
+Percent of County 
+Withdrawals 
+Public Water Supply 
+2.0 
+1.6 
+3.6 
+35% 
+Domestic Supply (wells) 
+0 
+3.8 
+3.8 
+37% 
+Commercial 
+0.5 
+0.7 
+1.2 
+11% 
+Industrial 
+0 
+0.1 
+0.1 
+1% 
+Mining 
+0.2 
+0.1 
+0.3 
+3% 
+Livestock Watering 
+0.2 
+0.1 
+0.3 
+3% 
+Irrigation 
+0.1 
+0.9 
+1.0 
+10% 
+Total 
+3.0 
+7.3 
+10.3 
+100% 
+Source:  USGS Water Science Center. Freshwater Use and Withdrawals, 2000. 
+http://md.water.usgs.gov/freshwater/withdrawals/#top  
+Domestic Water Supply 
+All residents in portions of Cecil County beyond the reach of public water systems 
+(approximately 21,400 homes, or 56 percent of all homes in the County) obtain their water 
+from private wells or small private water providers.  These wells draw water from a variety of 
+water-bearing formations in the County, but rely primarily on the Potomac aquifer and 
+numerous piedmont crystalline rock aquifers. 
+Commercial and Industrial Water Use 
+Other users, such as agricultural irrigation, 
+commercial establishments, and mining 
+operations, account for 28% of the remaining 
+withdrawals.  Of these, commercial uses 
+account for the majority of both the surface 
+water and ground water withdrawals, closely 
+followed by agricultural irrigation. In 2004, 
+industrial groundwater appropriation permits 
+totaled 0.4 MGD.5  The largest commercial 
+users in the County tend to be mining 
+operations and nurseries, some of which have 
+annual permitted withdrawals of more than 0.9 
+MGD. 
+                                                     
+5 Cecil County Water and Sewer Plan.  March 2004. 
+The majority of County nurseries use surface 
+water for irrigation.
+
+<!-- page 105 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-8 
+Agricultural Water Use 
+Agricultural use of groundwater includes the watering of livestock and irrigation.  Agricultural 
+irrigation is most common in the agricultural areas south of Elkton (in the Resource Protection 
+area of Cecil County).  The majority of water for agriculture is withdrawn from unconfined or 
+surficial aquifers—aquifers that are fed directly by rainwater.  These aquifers are separate 
+from the confined aquifers used for public and domestic supplies in the Coastal Plain, or the 
+crystalline aquifers used in the Piedmont.  Thus, while agricultural water use is an important 
+consideration, it can be considered separately from public water supplies. 
+6.4.3 
+Issues of Concern—Drinking Water 
+This section summarizes the key issues related to drinking water that emerged through the 
+Comprehensive Plan process.  
+Elkton West Franchise Agreement 
+In August 2008, Cecil County and Artesian Water Maryland, Inc. (Artesian) signed a franchise 
+agreement that transferred all County-owned drinking water assets to Artesian.  By terms of 
+the agreement, Artesian will provide water and wastewater service to the Elkton West area 
+(areas to the west and north of Elkton), initially through an interconnection to Artesian Water 
+Company of Delaware.  The transfer of assets includes the Harbour View, Cherry Hill, 
+Meadowview, Pine Hills and Route 7 systems, and associated parcels, easement rights and 
+water transmission and distribution systems.  Artesian will initially provide 3 MGD of water for 
+the Elkton West area, with plans to expand water production for this area up to 5 MGD. 
+The County will provide oversight for Artesian's extension of public water service.  However, 
+during development of the Comprehensive Plan, the following concerns were raised about 
+the compatibility of the franchise agreement and the Comprehensive Plan's land use and 
+growth priorities:6 
+Reliability: Particularly during a drought, there is a concern that water flows from out-of-state 
+sources could be reduced or even stopped, although Artesian has considerable excess 
+capacity.  Artesian's Delaware subsidiary currently purchases much of its water from the 
+Chester Water Authority in Pennsylvania, raising concerns7 that more than one state could 
+choose to shut off the County's water supply regardless of the provisions of the franchise 
+agreement.  Artesian plans to develop water sources in Cecil County.  As a matter of County 
+policy, the establishment of drinking water sources within Cecil County should become a 
+priority.  
+Consistency: Artesian can only provide water service within the Elkton West service area, all 
+of which is designated as a Growth Area.  However, there is some concern that, within Elkton 
+West area, Artesian's priorities for water service extensions may differ from the County's 
+priorities, as expressed by the Future Land Use plan and other Comprehensive Plan 
+priorities.  Close County oversight of Artesian's operations, as established in the franchise 
+agreements, is required to ensure maximum consistency between development policy and 
+the provision of water infrastructure. 
+Unmet Future Demand in Public Water Systems 
+To serve projected growth, the County and the municipalities will need to obtain additional 
+water supplies, and will, in many cases, need to upgrade and expand treatment facilities and 
+water distribution systems.  In addition to the Elkton West franchise, the following planned or 
+likely system expansions, included in the “Likely Capacity, 2030” row of Table 6.2, will help to 
+address potential system deficits.   
+                                                     
+6 These concerns were raised by MDP and COC members.  Correspondence between the County and MDP on this 
+issue is included in the Water Resources Element Appendix. 
+7 Artesian believes that these concerns are not well-founded.  See the 17 July 2008 letter in the Water Resources 
+Element Appendix.
+
+<!-- page 106 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-9 
+• 
+As described above, Artesian will initially provide 3 MGD of water for Elkton West, with 
+plans to expand water production for this area up to 5 MGD.  
+• 
+An interconnection to Artesian’s Elkton West system will allow the Town of Elkton to draw 
+1 MGD of water (in addition to the supply committed for Elkton West).  This should 
+enable Elkton to meet its 2030 demand.   
+• 
+The Mountain Hill Water Company (Not listed in Table 6.2), also an Artesian subsidiary, 
+serves the Principio Business Park, the Charlestown Crossing mixed use development, 
+and the surrounding area.  Artesian plans to increase the current 287,000 gpd capacity of 
+this system to 1 MGD, a net gain of approximately 0.7 MGD.  This system expansion 
+would likely serve expansion in the Principio business park, but could also serve 
+Charlestown’s water needs. 
+• 
+The Town of Perryville will upgrade its 
+water pumping, sedimentation, filtration, 
+and storage capacities to increase its 
+water production capacity from 0.8 MGD 
+to 2.0 MGD (a net gain of 1.2 MGD)—
+matching the Town’s current withdrawal 
+limit from the Susquehanna River. 
+• 
+The Town of Port Deposit will withdraw 
+up to 1.5 MGD from the Susquehanna 
+River, due to a successful petition to the 
+Susquehanna River Basin Commission.  
+This withdrawal will serve the long-term 
+buildout of the Bainbridge development. 
+• 
+The Town of North East will upgrade its 
+water system to at least 2.0 MGD, from 
+the current 1.2 MGD capacity. 
+• 
+The Town of Chesapeake City will purchase as much as 0.4 MGD of water (while retiring 
+its two water treatment plants) from Artesian Water Delaware.   
+After these system expansions are complete, as shown in Table 6.2, the public water 
+systems in the Towns of Cecilton, Charlestown, and Rising Sun will have insufficient capacity 
+to serve projected growth through 2030, and several other systems will approach their 
+capacities by 2030.   
+To address these needs, the Town of Rising Sun is investigating connections to drinking 
+water sources and suppliers in Pennsylvania, including Chester Water Authority to provide 
+future capacity.  One option for Charlestown may be an interconnection to the nearby North 
+East public water system or the Mountain Hill Water Company, both of which may have 
+excess capacity in 2030.  For other systems beyond 2030, new or expanded water supplies 
+will be needed.  Section 6.4.4 outlines options for such new supplies. 
+Water Quality Concerns8 
+The quality of groundwater in Cecil County is generally acceptable.  Salinity may be a 
+problem in shallow wells adjacent to the estuaries of the Chesapeake Bay.  Reports have 
+shown that wells drilled to over 500 feet in the sedimentary rocks in the southern portion of 
+the county have encountered brackish water where the salinity approaches one thousand 
+parts per million or more. 
+                                                     
+8 Source: Water and Sewer Master Plan 
+The Susquehanna River is a drinking water source for 
+western portions of Cecil County.
+
+<!-- page 107 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-10 
+Fluoridation 
+Cecil County children have higher rates of tooth decay than other children in other Maryland 
+jurisdictions.  Fluoridation of community water supplies should be encouraged as a safe and 
+accepted public health practice to promote oral health.  The Town of North East began 
+fluoridation of its water supply in August 2009. 
+Drought Management 
+The 2009 Hazard Vulnerability Analysis lists drought as a medium hazard risk (see Chapter 
+8, the Community Facilities Element).  Cecil County has no drought management policy 
+related to public drinking water systems.  This is particularly important, considering the 
+degree to which public systems in Cecil County rely on out-of-state water sources.  
+Establishing a Countywide drought management policy (in conjunction with municipalities and 
+private water providers) could help to manage water supplies during drought. 
+6.4.4 
+Potential New Water Supplies 
+After the upgrades and expansions described in Section 6.4.3, most major public water 
+systems will have adequate capacity to meet projected 2030 demands.  Beyond 2030, 
+however, public systems in Cecil County (including municipalities) will require as much as 10 
+MGD of additional capacity to meet drinking water demand at buildout.9  This section 
+describes potential sources that can help meet the County’s long-term drinking water needs.   
+In most cases, these new sources are not immediate needs before 2030.  However to ensure 
+the availability of these water sources beyond 2030, the County, its municipalities, and its 
+private water providers must take actions before 2030.  These entities must identify and 
+secure funding, permits, and the land necessary to implement these new sources.  In 
+particular, it will be necessary to acquire or reserve the land necessary for new drinking water 
+reservoirs and wells (including wellhead protection areas).   
+Potential New Groundwater Supplies 
+Coastal Plain aquifers in Cecil County have historically been adequate to serve public 
+systems and individual wells.  Indeed, for Cecilton, increased groundwater withdrawals 
+appear to be the most likely source of additional drinking water.  However, the cumulative 
+impact of development throughout the Delmarva Peninsula on these aquifers is the subject of 
+increasing concern.  The US Geological Survey (USGS) reports that “withdrawals from 
+Maryland Coastal Plain aquifers have caused ground-water levels in confined aquifers to 
+decline by tens to hundreds of feet from their original levels.  Continued water-level declines 
+could affect the long-term sustainability of ground-water resources in agricultural areas of the 
+Eastern Shore.”10  In most cases, the recharge areas for these aquifers are not necessarily 
+found on the Eastern Shore, and are thus not within the control of the people and 
+governments that use this water. 
+To more specifically define the ultimate capacity of the Coastal Plain aquifer system, the 
+Maryland Department of the Environment (MDE), the Maryland Geological Survey (MGS), 
+and the US Geological Survey (USGS) have begun work on a Coastal Plain Aquifer Study.  
+The County should use the data and recommendations of the Coastal Plain Aquifer Study 
+(once completed) to shape its own water use policies.  However, the County also recognizes 
+the need for and supports the development of broader regional water policies to protect 
+Coastal Plain groundwater supplies.   
+The most significant potential groundwater supplies for the northern rural areas of Cecil 
+County (areas north and west of Elkton) are under the Elk Neck peninsula.  Aquifers in these 
+                                                     
+9 For more information, see “Evaluation of Water Resources at Buildout” in the Water Resources Element Appendix. 
+10 Source: USGS. 2006. Sustainability of the Ground Water Resources in the Atlantic Coastal Plain of Maryland. 
+USGS Fact Sheet 2006-3009
+
+<!-- page 108 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-11 
+locations may be productive enough to serve a significant portion of the Growth Area, 
+particularly the Elkton area.   
+Individual wells provide drinking water for thousands of homes and businesses across the 
+County, totaling approximately 3.8 MGD in 2000 (see Table 6.3).  Groundwater resources 
+within and to the north of the I-95/US 40 corridor are less consistent than in the Coastal Plain, 
+due to the underlying fractured rock formations, and the ability of Piedmont formations to 
+support significant amounts of future growth is not well understood.  The issue is not 
+necessarily quantity of water.  Application of the Water Balance methodology, as described in 
+Models and Guidelines 26, MDP’s official guidance for preparing the WRE, shows that the 
+northern rural area receives as much as 26 MGD of groundwater recharge.  However, not all 
+of this water is accessible, due to the fractured nature of the water-bearing formation and 
+seasonal variations in water availability.   
+Potential New Surface Water Supplies 
+Several opportunities exist to meet Cecil County’s long-term water supply needs with surface 
+water.  The most promising options are listed below. 
+• 
+Withdrawals from the Susquehanna 
+River.  The Susquehanna River 
+Basin Commission (SRBC), a 
+regional governing body, handles 
+requests for additional withdrawals 
+from the river.  In recent years, the 
+SRBC has been reluctant to grant 
+withdrawals that would result in 
+interbasin transfer of water (e.g., 
+from the Conowingo and Lower 
+Susquehanna watersheds to other 
+parts of Cecil County).  However, 
+some additional withdrawal may be 
+available to serve public systems in 
+western portions of the County.  
+• 
+Surface water impoundments.  Cecil 
+County’s 2006 Surface Water 
+Supply Study evaluated the 
+potential to create new surface 
+water impoundments to supply 
+public water systems.  The two most promising potential impoundments were: 
+o 
+A reservoir site on Principio Creek, north of Theodore Road, which could supply as 
+much as 0.32 MGD to the North East area. 
+o 
+A reservoir site adjacent to the mouth of Principio Creek (south of the Amtrak line on 
+the east side of the creek and including part of Stancills’ quarry), which could supply 
+as much as 2.3 MGD to the North East area.   
+o 
+Elk Mills Quarry, adjacent to Big Elk Creek.  Once extraction activity ceases on this 
+site (after approximately 2068), this source could provide as much as 13.2 MGD of 
+water supply to the Elkton area. 
+6.4.5 
+Additional Considerations  
+Water Conservation and Reuse 
+Water conservation is an often-overlooked, but critically important element of water supply.  
+Cecil County bases its current planning on the assumption that one household uses an 
+average of 250 gallons per day (gpd) of drinking water.  If, through water conservation 
+A view of the potential reservoir area on Principio Creek 
+north of Theodore Road. 
+2006 Reservoir Feasibilty Study
+
+<!-- page 109 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-12 
+education and installation of water-efficient appliances and fixtures, average water use could 
+be reduced to 225 gpd per household, the County would reduce its water demand in public 
+systems in 2030 by nearly 1 MGD (more than 10 percent of year 2030 demand from public 
+systems).  The County’s Flow Reduction Program requires low flow fixtures for all new and 
+upgraded structures.  Regular audits of the water distribution system to minimize system 
+water loss can also help to conserve water. 
+In some jurisdictions, water from tertiary treatment wetlands (see the discussion of Public 
+Sewer Systems in Section 6.5.3) meets potable water standards, and can be reused as 
+drinking water.  Safety concerns would be the paramount issue in such reuse, but this option 
+may be viable in the long term (see Section 6.5.3). 
+Another option for residents and individual businesses may be the use of cisterns to collect 
+and re-use rain water.  The County currently has no regulations regarding the design and 
+maintenance of cisterns. 
+Desalination (Beyond 2030) 
+The Cecil County Department of Public works has suggested that desalination, coupled with 
+withdrawals from the tidal Elk River and other tidal river mouths in the Chesapeake Bay may 
+be required in order to meet the County’s long-term drinking water needs.  Although very 
+expensive at the present time, it is not unreasonable to assume that the costs of 
+desalinization will drop over time, as more and more communities in the US and around the 
+world begin to rely on such systems.  Supplies of brackish water are presumed to be 
+substantial, although treatment to remove pollutants could also add expense to the process.  
+While not a primary strategy at this time, the County should nonetheless continue to examine 
+desalination as a long-term option for water supply. 
+Capital Costs 
+The majority of this section has focused on available quantities of drinking water.  However, 
+the costs of transporting water are important.  To meet the County’s needs at buildout, 
+interconnection of water systems may become necessary.  Interconnection may also be 
+prudent to ensure redundancy in case of system damage or failure.  For example, the 13.2 
+MGD of water from a future Elk Mills Quarry Reservoir may be needed in North East, or even 
+Rising Sun, rather than Elkton itself.  Interconnected water systems would be expensive to 
+install, but would give the County the flexibility it needs to maintain safe and adequate water 
+supplies while directing growth and development according to the Future Land Use Plan. 
+6.4.6 
+Wellhead Protection 
+Wellhead Protection is a strategy designed to protect public drinking water supplies by 
+managing the land surface around a well where activities might affect the quality of the water.  
+In 2000, Maryland Department of the Environment (MDE) conducted a Source Water 
+Assessment in Cecil County delineating wellhead protection areas, indentifying potential 
+sources of contamination, and developing management strategies to protect water supplies 
+for public systems.  MDE’s proposed wellhead protection areas in Cecil County are shown in 
+Map 6.3.
+
+<!-- page 110 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-13 
+Map 6.3 
+Proposed Wellhead Protection Areas 
+ 
+Source: MDE
+
+<!-- page 111 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-14 
+As a result of the MDE report, a wellhead protection ordinance was drafted by the County 
+that includes specific itemization of permitted and prohibited uses.  The key 
+recommendations of the draft ordinance include: 
+• 
+Up to two wellhead protection zones are established for each well serving a public 
+system.  Zone 1 is the area with a groundwater travel time of up to one year to the pump 
+location, while Zone 2 is the area with a groundwater travel time of up to 10 years. 
+• 
+Prohibited uses within wellhead protection zones include (but are not limited to) storage 
+of hazardous materials, service stations, animal waste pits, quarrying and mining 
+operations, and similar activities that involve storage or deposition of potential 
+contaminants. 
+• 
+Application of pesticides are permitted in wellhead protection areas, as long as their use 
+conforms to applicable labeling and federal and state guidelines 
+This Comprehensive Plan recommends adoption of a wellhead protection ordinance.   
+6.5 
+Wastewater Assessment 
+This section describes existing demand for public wastewater services in Cecil County.  
+Approximately 16,900 housing units (44 percent of the County total in 2008) are connected to 
+public sewer systems, including systems operated by private entities.  Houses and 
+businesses not on public sewer use onsite sewage disposal systems (OSDS), commonly 
+know as septic systems.  The sewer/septic split amongst non-residential development is 
+comparable to the residential split.  Since 1998, approximately half of all new residential units 
+built in Cecil County use private septic systems.11  
+6.5.1 
+Public Wastewater Systems 
+There are 11 public or community wastewater treatment plants (WWTPs) in Cecil County.  
+WWTP technology ranges from disinfection to Enhanced Nutrient Removal (ENR) plants.  
+Table 6.4 summarizes the discharge locations, planned upgrades, and concerns related to 
+the County’s public wastewater systems, while Map 6.4 shows existing and planned public 
+sewer service areas. 
+                                                     
+11 Source: Maryland Property View. 
+Elkton Wastewater Treatment Plant is owned and operated by the Town of Elkton.
+
+<!-- page 112 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-15 
+The County owns and operates the Seneca Point WWTP, which serves the Towns of North 
+East and Charlestown.  Artesian Wastewater Maryland owns and operates the Cherry Hill, 
+Harbour View, Highlands, and Meadowview WWTPs as part of the Elkton West franchise.  
+The remaining public WWTPs are owned and operated by municipalities.  
+The 66 largest WWTPs in the State are categorized as “significant” (or “major”) facilities, and 
+are eligible for financial assistance through Maryland’s Bay Restoration Fund for upgrades 
+required to attain Enhanced Nutrient Removal (ENR) technology.  The three significant 
+facilities in Cecil County are the Seneca Point, Elkton, and Perryville WWTPs.  Elkton has 
+been upgraded to ENR, while ENR upgrades at Perryville should be complete by 2010.  ENR 
+upgrades have been planned for Seneca Point, but no completion date has been set.   
+The remaining public WWTP’s in Cecil County are considered “non-significant” (or “minor”) 
+plants, and are not eligible for funding from the Bay Restoration Fund.  Upgrades to these 
+facilities are not required unless the WWTP cannot achieve its permitted pollution discharge 
+limits.  Although it does not discharge to the Chesapeake Bay Watershed, the Meadowview 
+WWTP is also being upgraded to ENR.   
+Table 6.4: 
+Public Sewer System Characteristics 
+Sewer System  
+Discharge 
+Location 
+Existing 
+Treatment 
+Technology1 
+Upgrades or Expansions, and Other 
+Issues 
+Cecilton 
+Duck Creek 
+Lagoon 
+Correction of Inflow and Infiltration (I/I)2 
+Chesapeake City 
+(North and South) 
+C&D Canal 
+Disinfection 
+New 0.3 MGD BNR WWTP planned 
+Elkton WWTP 
+Big Elk Creek 
+ENR 
+None 
+Harbour View 
+Elk River 
+Disinfection 
+Upgrade to BNR/ENR, 0.22 MGD 
+Cherry Hill 
+Little Elk Creek 
+Disinfection 
+Retirement, connection to Meadowview 
+WWTP 
+Highlands 
+Christina River 
+Lagoon 
+Meadowview 
+Christina River 
+BNR 
+Upgrade to ENR, 2.3 MGD 
+Seneca Point 
+North East River 
+ENR 
+Phased expansion to 5 MGD 
+Perryville 
+Mill Creek 
+BNR 
+ENR upgrade; system extensions; correction 
+of I/I 
+Port Deposit 
+Susquehanna 
+River 
+Package 
+WWTP 
+New 1.0 MGD ENR WWTP  
+Rising Sun 
+Stone Run 
+Lagoon 
+Correction of I/I, potential WWTP 
+upgrade/expansion 
+Notes: 
+1: Biological Nutrient Removal (BNR) is an advanced type of wastewater treatment that can typically achieve nutrient 
+loads of 8 mg of nitrogen and 2 mg of phosphorus per liter of discharged effluent.  Enhanced Nutrient Removal 
+represents the limits of current treatment technology, and can typically achieve 3 mg/L nitrogen, 0.3 mg/L phosphorus. 
+2: Inflow is water from storm events entering the system through roof drains, sump pumps, foundation drains, and similar 
+sources.  Infiltration is groundwater entering the system through leaking pipes, manholes, and other elements.  I/I takes 
+up sewer capacity that should be reserved only for wastewater, effectively limiting the system’s overall capacity. 
+ 
+Table 6.5 shows the existing (2008) and projected future wastewater flows, permitted 
+discharge capacities, and net available capacity for public sewer systems in Cecil County.  
+These wastewater systems are described in detail in the WRE Appendix.  All public systems 
+currently have excess capacity, although a few, such as Chesapeake City and Port Deposit, 
+are close to their limits, and Rising Sun is constrained by a consent order.  Without expanded 
+discharges, public water systems in Cecilton and Rising Sun will be unable to support 
+projected growth through 2030.  Section 6.5.3 describes options for obtaining additional 
+capacity.
+
+<!-- page 113 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-16 
+Map 6.4 
+Sewer Service Areas in Cecil County 
+ 
+Source: Cecil County Water and Sewer Master Plan, Municipal WREs and MGEs.
+
+<!-- page 114 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-17 
+Table 6.5: 
+Wastewater Flow and Treatment Capacity 
+  
+Cecilton  
+Chesapeake 
+City North* 
+Chesapeake 
+City South* 
+Elkton* 
+Cherry Hill 
+Highlands 
+Meadowview 
+Perryville* 
+Port Deposit* 
+Rising Sun 
+Harbour View 
+Seneca Point 
+Existing Treatment 
+Capacity1 
+gpd 
+100,000
+75,000
+88,000
+3,200,000
+250,000
+50,000 
+1,000,000
+1,650,000
+90,000
+275,000
+65,000
+2,000,000 
+ERU 
+400
+300
+352
+12,800
+1,000
+200 
+4,000
+6,600
+360
+1,100
+260
+8,000 
+Current Average 
+Daily Flow 
+gpd 
+60,305
+54,650
+73,650
+1,490,000
+125,000
+44,000 
+460,000
+720,000
+85,000
+216,100
+31,000
+1,000,000 
+ERU 
+241
+219
+295
+5,960
+500
+176 
+1,840
+2,880
+340
+864
+124
+4,000 
+Current Available 
+Capacity 
+gpd 
+39,695
+20,350
+14,350
+1,710,000
+125,000
+6,000 
+540,000
+930,000
+5,000
+58,900
+34,000
+1,000,000 
+ERU 
+159
+81
+57
+6,840
+500
+24 
+2,160
+3,720
+20
+236
+136
+4,000 
+Total New Demand 
+through 20302 
+gpd 
+63,200
+137,031
+1,237,500
+879,750
+840,000
+502,000
+245,592
+4,950
+1,380,000 
+ERU 
+253
+548
+4,950
+3,519
+3,360
+2,008
+982
+20
+5,520 
+Total projected 
+demand, 2030 
+gpd 
+123,505
+265,331
+2,727,500
+1,508,750
+1,560,000
+587,000
+461,692
+35,950
+2,380,000 
+ERU 
+494
+1,061
+10,910
+6,035
+6,240
+2,348
+1,847
+144
+9,520 
+Future Capacity3 
+gpd 
+100,000 
+300,000 
+3,200,000 
+2,300,000 
+1,650,000 
+1,000,000 
+275,000 
+65000
+5,000,000  
+ERU 
+400
+1,200 
+12,800
+9,200
+6,600
+4,000
+1,100
+260
+20,000 
+Net Available 
+Projected 
+Capacity, 2030 
+gpd 
+(23,505)
+34,669 
+472,500 
+791,250 
+90,000 
+413,000 
+(186,692)
+29,050 
+2,620,000  
+ERU 
+(94)
+139 
+1,890 
+3,165 
+360 
+1,652 
+(747)
+116 
+10,480  
+Source: Cecil County Department of Public Utilities, Municipalities.  * Indicates municipalities whose Water Resources and/or Municipal Growth Elements provided data.  Note that 2008 
+wastewater flows in municipalities are based on Equivalent Residential Units (ERU), and may not match the housing unit data in Table 2.1 because public sewer service areas are not 
+necessarily coterminous with municipal boundaries, and because ERUs  include nonresidential development. 
+1: Indicates the more restrictive of the WWTP’s discharge permit or its physical capacity.   
+2: Includes new demand from residential and nonresidential development, as well as system extensions to existing development. 
+3: Incorporates ongoing, planned, and recommended capacity and technology upgrades.
+
+<!-- page 115 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-18 
+Elkton West Franchise Agreement 
+In August 2008, Cecil County and Artesian Wastewater Maryland, Inc. (Artesian) signed a 
+franchise agreement that transferred most County-owned wastewater assets to Artesian.  By 
+terms of the agreement, Artesian will provide water and wastewater service to the Elkton 
+West area (areas to the west and north of Elkton).  The transfer of assets includes the Cherry 
+Hill, Harbour View, Highlands, and Meadowview wastewater systems and their related 
+collection systems.  Artesian’s intent is to retire the Highlands and Cherry Hill systems, and to 
+pump their effluent to an expanded and upgraded Meadowview WWTP. 
+The County will provide oversight for Artesian's extension of public sewer service in the 
+Elkton West service area.  During development of the Comprehensive Plan, concerns were 
+raised that Artesian's priorities for sewer service extensions may differ from the County's 
+priorities, as expressed by the Future Land Use plan and other Comprehensive Plan 
+priorities. 12  Close County oversight of Artesian's operations, as established in the franchise 
+agreement, is required to ensure consistency between development policy and the provision 
+of sewer infrastructure. 
+6.5.2 
+Point Source Nutrient Loads and Measures of Assimilative Capacity 
+Nitrogen and phosphorus (more generally referred to as “nutrients”) from WWTPs, 
+stormwater, and other sources are the primary contributors to degraded water quality in the 
+Chesapeake Bay and its tributaries.  Excess nitrogen and phosphorus in an aquatic 
+ecosystem causes a wide range of problems, including algal blooms, loss of oxygen in the 
+water, fish kills, and the loss of aquatic vegetation.  In the Chesapeake Bay area, 
+eutrophication13 is a widespread problem that can be remedied by decreasing input rates of 
+nitrogen and phosphorus into the water.   
+To address nutrient discharges into the Bay, water and sewer planning must take into 
+account the “assimilative capacity” of a receiving body of water—the mass of nutrients that 
+the stream can receive while still maintaining acceptable water quality.  The majority of Cecil 
+County is in the Chesapeake Bay Watershed.  This section describes the key limits on 
+assimilative capacity as they apply to the County’s WWTPs (some of these measures also 
+apply to nonpoint nutrient sources, as described in Section 6.7).  In cases where multiple 
+measures of assimilative capacity apply to the same point source, the more stringent 
+standard applies. 
+Total Maximum Daily Load (TMDL) 
+One measure of assimilative capacity is the Total Maximum Daily Load (TMDL), required 
+under the Federal Clean Water Act.  A TMDL is the maximum amount of pollutant that a 
+water body, such as a river or a lake, can receive without resulting in impaired water quality.  
+In essence it quantifies an upper threshold for pollutants or stressors.  Whereas point source 
+caps only address WWTPs and other point sources, a TMDL accounts for all sources of the 
+given pollutant, including point sources and non-point sources (such as stormwater, 
+agricultural runoff, or discharges from septic systems).  Water bodies are classified as 
+“impaired” when they are too polluted or otherwise degraded to support their designated and 
+existing uses.  The impaired waters list is called the 303(d) list, in reference the section in the 
+Clean Water Act that establishes TMDLs.14  
+TMDLs have been established for nutrients for four of the Cecil County’s watersheds, as 
+summarized in Table 6.6.  In addition, MDE has determined that the Conowingo 
+                                                     
+12 These concerns were raised by MDP and some COC members.  Correspondence between the County and MDP 
+on this issue is included in the Water Resources Element Appendix. 
+13 Eutrophic waters are rich in mineral and organic nutrients, promoting a proliferation of plant life, especially algae.  
+This reduces the dissolved oxygen content and often causes the extinction of other organisms. 
+14 Center for Watershed Protection.  A Users Guide to Watershed Planning in Maryland, Chapter 2.December 2005.  
+http://www.dnr.state.md.us/watersheds/pubs/planninguserguide/UserGuideChapter2.pdf
+
+<!-- page 116 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-19 
+Dam/Susquehanna River, Back Creek, Lower and Upper Elk River, and Upper Chesapeake 
+Bay are impaired by nutrients. 
+While nutrients from new development will impact water quality in all watersheds, the nutrient 
+impairments in the Bohemia, Sassafras, and Lower Elk Rivers are likely tied to agricultural 
+sources of nitrogen and phosphorus.  Thus, development-related nutrient concerns are 
+highest in the Northeast River, Furnace Bay, Upper Elk River, and Back Creek, where much 
+of the County’s future development will occur.   
+Point Source Caps 
+To address nutrient loads from point sources such as WWTPs, the state has established 
+Chesapeake Bay Tributary Strategy point source caps.  These caps are numerical limits on 
+the amount of nitrogen and phosphorus that WWTPs can discharge to the Bay and its 
+tributaries (expressed as pounds per year of nitrogen and phosphorus).  Nitrogen and 
+phosphorus point source caps have been established for the Elkton, Perryville, and Seneca 
+Point WWTPs.   
+Table 6.6: 
+Nutrient TMDLs for Cecil County Watersheds 
+Watershed 
+Impairing Nutrient 
+Point Source TMDL 
+(lbs/year) 
+Nonpoint Source TMDL 
+(lbs/year) 
+Bohemia River1 
+Nitrogen 
+No annual standard established.  Expressed as 
+lbs/month during summer (low-flow) months only.   
+Phosphorus 
+Northeast River1 
+Nitrogen 
+84,268 
+74,749 
+Phosphorus 
+7,906 
+3,763 
+Sassafras River1, 2 
+Phosphorus 
+6,824 
+6,839 
+Christina River1 
+Nitrogen 
+21,323 
+Not specified in TMDL 
+Phosphorus 
+2,132 
+Notes: 
+1: The TMDL referenced in this table applies only to the Maryland portion of the watershed. 
+2: Approximately 36 percent of the Maryland portion of the watershed is in Cecil County.  All significant point 
+sources in the Maryland portion of the watershed are in Kent County. 
+ 
+Table 6.7 shows current and projected future nutrient discharges from public wastewater 
+systems in Cecil County, compared to relevant Point Source Caps or TMDLs.  All plants 
+except for Seneca Point and Elkton are over the limit for total phosphorus (TP).  The Cherry 
+Hill, Cecilton, and Harbour View WWTPs currently exceed their point source caps for total 
+nitrogen (TN).  
+Antidegradation 
+Maryland’s antidegradation policy significantly limits new discharge permits and expansions 
+of existing discharge permits that would degrade water quality in Tier II (high quality) waters, 
+as defined by the US Environmental Protection Agency (EPA).  In these areas, new nutrient 
+discharges can be permitted as long as they do not degrade existing water quality.  Cecil 
+County’s Tier II waters include segments of Basin Run, Little North East Creek, Principio 
+Creek, Mill Creek, Big Elk Creek, and Gramies Run, as shown on Map 6.5.  None of Cecil 
+County’s public WWTPs discharge to Tier II waters, nor are any of these facilities upstream 
+from Tier II waters.
+
+<!-- page 117 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-20 
+Table 6.7: 
+Point Source Nutrient Loads 
+System 
+Cecilton 
+Chesapeake 
+City North 
+Chesapeake 
+City South 
+Cherry Hill¹ 
+Highlands¹ 
+Meadowview 
+Perryville 
+Port Deposit 
+Harbour View 
+Seneca Point 
+Rising Sun 
+Elkton  
+Existing Technology 
+BNR 
+Secondary 
+Secondary 
+Secondary 
+BNR 
+BNR 
+Package 
+Secondary 
+ENR 
+Lagoon 
+ENR 
+Existing Demand 
+MGD 
+0.06 
+0.05 
+0.07 
+0.13 
+0.04 
+0.46 
+0.72 
+0.09 
+0.03 
+1.00 
+0.22 
+1.49 
+Existing Nutrient 
+loading (lbs/year) 
+TN 
+1,468 
+7,118 
+6,844 
+2,409 
+11,194 
+17,521 
+4,654 
+1,697 
+12,168 
+11,832 
+18,130 
+TP 
+308 
+2,372 
+2,281 
+803 
+2,799 
+4,380 
+1,551 
+566 
+913 
+3,944 
+1,360 
+Nutrient Load Cap 
+(lbs/year)2 
+TN 
+n/a 
+n/a 
+n/a 
+n/a 
+n/a 
+20,101 
+n/a 
+n/a 
+24,364 
+n/a 
+37,156 
+TP 
+n/a 
+n/a 
+n/a 
+n/a 
+n/a 
+1,508 
+n/a 
+n/a 
+1,827 
+n/a 
+2,787 
+Net Available 
+Discharge, 2008 
+(Overage) 
+TN 
+n/a 
+n/a 
+n/a 
+n/a 
+n/a 
+2,580 
+n/a 
+n/a 
+12,196 
+n/a 
+19,026  
+TP 
+n/a 
+n/a 
+n/a 
+n/a 
+n/a 
+(2,872) 
+n/a 
+n/a 
+914 
+n/a 
+1,427  
+2030 Technology 
+BNR 
+BNR 
+Retired 
+Retired 
+ENR 
+ENR 
+ENR 
+ENR 
+ENR 
+ENR3 
+ENR 
+Projected  
+Demand, 2030 
+MGD 
+0.12 
+0.27 
+0.96 
+1.56 
+0.59 
+0.04 
+1.99 
+0.42 
+2.73  
+Future Cap4 
+TN 
+2,466 
+3,650 
+21,323 
+20,101 
+8,223 
+460 
+24,364 
+15,076 
+37,156 
+TP 
+411 
+274 
+2,132 
+1,508 
+1,371 
+77 
+1,827 
+2,513 
+2,787 
+Nutrient 
+Discharges,  2030 
+(lbs/year) 
+TN 
+3,006 
+6,457 
+11,708 
+18,982 
+7,142 
+437 
+24,268 
+5,131 
+33,187 
+TP 
+751 
+1,614 
+878 
+1,424 
+536 
+33 
+1,820 
+385 
+2,489 
+Net Available 
+Discharge, 2030 
+(Overage) 
+TN 
+(540) 
+(2,807) 
+9,615 
+1,119 
+1,081 
+23 
+96 
+9,945 
+3,969 
+TP 
+(340) 
+(1,340) 
+1,254 
+84 
+835 
+44 
+7 
+2,128 
+298 
+Notes: 
+1:  WWTP to be closed and effluent pumped to Meadowview WWTP 
+2: Indicates the Tributary Strategy Point Source Cap for major facilities.  To be updated with nutrient cap data for minor facilities, when provided by MDE. 
+3:  Assumes upgrade-in-place, or retirement of Rising Sun WWTP and transfer to Seneca Point WWTP (not yet planned) 
+4: Assumes existing caps where available.  For new/expanded facilities, likely future caps reflect the facility's proposed size at 4 mg/L nitrogen, 0.3 mg/L Phosphorus.  To be updated with 
+nutrient cap data for minor facilities, when provided by MDE.
+
+<!-- page 118 -->
+2010 Cecil County Comprehensive Plan 
+ 
+6-21 
+Map 6.5 
+Tier II Waters in Cecil County 
+ 
+Source: MDE
+
+<!-- page 119 -->
+2010 Cecil County Comprehensive Plan 
+ 
+6-22 
+6.5.3 
+Future Wastewater Disposal Options 
+While most public sewer systems will be able to meet new demand through 2030, there are 
+concerns about system capacity beyond 2030.  After the upgrades and expansions described 
+below, Cecil County would still require as much as 14 MGD of additional wastewater treatment 
+capacity to meet wastewater treatment demand at buildout.15  This section describes some 
+strategies that can help meet the County’s 2030 and long-term sewer system needs.  
+In most cases, these new discharges are not immediate needs before 2030.  However to ensure 
+the availability of discharge capacity beyond 2030, the County, its municipalities, and its private 
+wastewater service providers must take actions before 2030.  It is likely that a combination of 
+upgrades, expansions, nutrient trading, land application, tertiary treatment wetlands, and 
+wastewater reuse will be necessary to address the County’s long-term wastewater capacity 
+needs.  To ensure adequate discharge capacity after 2030, the County, together with wastewater 
+service providers, must identify and secure funding, permits, and the land necessary to 
+implement these new disposal options.   
+Upgrades and Expansions 
+In addition to the Elkton West franchise, the following planned or likely system expansions, 
+included in Table 6.5, will help to address potential system deficits.   
+• 
+The Meadowview WWTP will be upgraded to Enhanced Nutrient Removal (ENR) technology, 
+and will be expanded to a capacity of 2.3 MGD, with long-term expansion to 4.0 MGD 
+planned.  At the same time, the Highlands and Cherry Hill WWTPs will be retired, with their 
+flows transferred to Meadowview.  Meadowview discharges to the Delaware Bay via the West 
+Branch of the Christina River.  Artesian (which will own and operate the facility), believes that 
+4.0 MGD of discharge is within the limits of that watershed’s nutrient TMDL.  
+• 
+Port Deposit will upgrade its WWTP to a 1.0 MGD ENR facility.  Discussion is also underway 
+between the County and the Town regarding the potential to convey the Town’s wastewater 
+to the Seneca Point WWTP. 
+• 
+Chesapeake City will replace its two existing WWTPs with a new 0.3 MGD BNR facility. 
+• 
+After ENR upgrades are complete, and using various nutrient trading approaches (see 
+below), the Seneca Point WWTP will conduct phased expansions to 5.0 MGD.  The County 
+plans to eventually expand the WWTP to 11.3 MGD.  However, such increased volumes 
+cannot be discharged without additional nutrient trades or offsets from other areas 
+In addition to these expansions, a solution will be needed for the Rising Sun WWTP.  That facility 
+is under a consent order due to effluent violations, and also experiences significant inflow and 
+infiltration.  Without upgrades, the Rising Sun WWTP also will not be able to accommodate future 
+flows.  The Town lacks the fiscal resources to upgrade the facility without placing financial 
+burdens on its citizens.  Another option for addressing the Rising Sun WWTP’s deficits could 
+include interconnection to one of the County’s other ENR facilities, or other alternative treatment 
+options.  An interconnection would involve considerable expense for new sewer lines, but might 
+ultimately be a valid solution.  The County could also obtain nutrient credits (see below) for such 
+a connection. 
+Nutrient Trading 
+Under the state’s Policy for Nutrient Cap Management and Trading,16 nutrient discharges can be 
+traded between one point source (e.g., a WWTP) and another within the same trading basin (for 
+Cecil County, this includes the entire Chesapeake Bay Watershed except for the Potomac and 
+Patuxent basins).  In such a scenario, an existing WWTP outside of Cecil County (likely in 
+Maryland, but trades from Pennsylvania could also be considered) would agree to forego a 
+certain amount of development in exchange for payment, and then send or “trade” that excess 
+                                                     
+15 For more information, see “Evaluation of Water Resources at Buildout” in the Water Resources Element Appendix. 
+16 Information available at: http://www.mde.state.md.us/Water/nutrientcap.asp
+
+<!-- page 120 -->
+2010 Cecil County Comprehensive Plan 
+ 
+6-23 
+treatment capacity to one of the County’s WWTPs.  The receiving WWTP would then be allowed 
+to expand beyond its current permitted capacity (as long as its discharges would not exceed the 
+limits set by a TMDL). 
+Nutrient credits can be accrued through other methods: 
+• 
+Upgrading an existing minor WWTP (in Cecil County, this is a WWTP other than Elkton, 
+Seneca Point, or Perryville) to Biological Nutrient Removal (BNR) or ENR technology;  
+• 
+Retiring an existing minor WWTP after connecting its flow to an ENR facility; or 
+• 
+Retiring existing On Site Disposal Systems (OSDS or septic system) by connecting to an 
+ENR facility. 
+The County’s WWTPs are already pursuing some of these opportunities, particularly the Elkton 
+West plan to retire the Cherry Hill and Highlands WWTPs and divert their flows to the 
+Meadowview WWTP.  In addition, retirement of existing OSDS (those in use as of approximately 
+2007) has already been mentioned as one strategy for increasing capacity in the Seneca Point 
+WWTP.   Under the state policy, Seneca Point or any other WWTP could receive the following 
+nutrient credits for each type of OSDS retired: 
+• 
+OSDS in the Chesapeake Bay Critical Area: approximately 5.3 EDU per OSDS. 
+• 
+OSDS within 1,000 feet of any perennial surface water: 3.3 EDU per OSDS. 
+• 
+Any other OSDS: 2 EDU 
+A study conducted for the Seneca Point WWTP found that there were approximately 1,690 septic 
+systems in the WWTP’s service boundary.17  Using the OSDS retirement formula described 
+above, extension of public sewer to these residences and businesses could generate as much as 
+1.76 MGD of capacity credits for the Seneca Point facility.  Extension of sewer service to the 
+Carpenters Point area (a known area of failing or inadequate septic systems) is underway and 
+could generate credits for as much as 7,398 lbs per year of nitrogen, or 0.81 MGD. 
+There are a total of approximately 3,000 residential units on septic systems in the Critical Area in 
+Cecil County.  By connecting half of those units to a WWTP (assuming that the other half are too 
+far from the WWTP to extend service), the County’s WWTPs could gain approximately 2 MGD of 
+capacity.   
+MDE and the Maryland Department of Agriculture (MDA) are developing guidelines that would 
+allow trades between nonpoint sources (such as agriculture) and point sources.  
+Land Application of Treated Wastewater 
+The application of treated wastewater effluent directly to the soil can allow pollutants to be 
+absorbed before the effluent reaches receiving streams.  Land application would not count toward 
+nutrient caps.  Spray irrigation is the most common form of land application, although other 
+options (such as drip irrigation or subsurface discharge) can also be considered.   
+Factors such as slope, soil depth and granularity, water table depth and behavior, and buffers 
+from streams and developed areas are important in determining true suitability of sites for land 
+application.  While site-specific studies are necessary to determine the feasibility of land 
+application, the Piedmont portion of Cecil County may not be appropriate for land application, due 
+to the underlying fractured geology and the risk of contamination of groundwater.  Areas south of 
+the Fall Line are more likely to be appropriate for land application. 
+Other important considerations include effluent storage and seasonal restrictions; land application 
+systems typically require large storage lagoons capable of holding several months’ worth of 
+effluent.  Land application may not be permitted during winter months, when frozen soil cannot 
+accept effluent, or during other months when water tables rise.   
+                                                     
+17 Source: Northeast Advanced Wastewater Treatment Plant Feasibility Study, 2008.
+
+<!-- page 121 -->
+2010 Cecil County Comprehensive Plan 
+ 
+6-24 
+Those caveats notwithstanding, there does appear to be an opportunity for public sewer systems 
+in Cecil County to utilize land application as an alternative or enhancement to surface water 
+discharge.  A significant amount of land would need to be reserved for land application.  A 
+desktop analysis presented to the Comprehensive Plan Water Resources Subcommittee in 
+August 2008 showed that, within approximately five miles of the Seneca Point WWTP, there were 
+more than 1,600 acres of land that was potentially suitable for land application. 18  This amount of 
+land could accommodate disposal of as much as 4.4 to 5.8 MGD of wastewater effluent. 
+In other Maryland jurisdictions, land application is also frequently used for the disposal of WWTP 
+sludge (the material that remains after nutrients have been removed from wastewater effluent).  
+This practice is not common in Cecil County, in part because the County does not have a policy 
+regarding agricultural land application of WWTP sludge.  Cecil County disposes of its WWTP 
+sludge in the County landfill, and is developing a composting facility at the landfill to dispose of 
+sludge.  The County should consider developing a policy regarding agricultural land application of 
+WWTP sludge.  
+Tertiary Treatment Wetlands 
+In this system, effluent is treated at a BNR or ENR WWTP and then discharged into a series of 
+constructed, vegetated wetlands.  These wetlands purify the effluent to the point where the 
+eventual discharge meets or exceeds water quality standards.  A WWTP paired with a tertiary 
+treatment wetland could potentially increase its discharges without violating nutrient caps or 
+TMDLs.  In addition to providing wastewater treatment, the wetlands can also provide habitat for 
+wetland-dwelling species. 
+The best-known application of this 
+technology occurs in Clayton County, 
+Georgia.  In this system (which treats 
+9.3 million gallons of wastewater per 
+day), the wetland-treated effluent is 
+pure enough to be used for drinking 
+water.19  Other smaller applications of 
+tertiary treatment wetlands can be 
+found in other parts of Maryland.  
+These facilities are typically used at 
+schools and other institutional 
+facilities.  Implementation of such a 
+facility for large-scale public use 
+would depend heavily on soil 
+characteristics and other site-specific 
+conditions. 
+The designers of the Clayton County 
+tertiary treatment wetland system 
+estimate that 15 acres of land are 
+needed for each MGD of wastewater treated.  Depending on individual site, soil, and vegetation 
+conditions, the entire remaining 14 MGD sewer capacity deficit in the County (at buildout) could 
+be met through the use of tertiary treatment wetlands covering perhaps 300-400 acres (including 
+buffers, and other site considerations).   
+Wastewater Reuse 
+Treated wastewater can also be reused to sustain landscaping, or in industrial processes.  The 
+latter is the case at the Mattawoman WWTP in Charles County.  The vast majority of treated 
+effluent from that plant is pumped to the Panda Co-Generation Station (power plant) in 
+Brandywine, MD, where it is used as cooling water.  Within Cecil County, up to 450,000 gallons 
+                                                     
+18 Included in the Water Resources Element Appendix. 
+19 For more information, see http://www.ccwa1.com/operations/water.reclamation.aspx  
+Tertiary treatment wetlands reduce the amount of nutrients 
+discharged into local waterways. Photo presented to the Water 
+Resources subcommittee, 2008.
+
+<!-- page 122 -->
+2010 Cecil County Comprehensive Plan 
+ 
+6-25 
+per day of treated effluent from the Meadowview WWTP will be used for seasonal dry weather 
+conditions to irrigate the Newark Country Club golf course off of Appleton Road. 
+In some cases, treated wastewater effluent can also be used to recharge groundwater aquifers.  
+In such a system, effluent is treated to potable (or better) standards before being injected into the 
+aquifer.  One such large-scale system is in place in Orange County, California.20  In that system, 
+treated effluent is used not only to recharge the drinking water aquifer, but also to halt and even 
+reverse saltwater intrusion from the Pacific Ocean into the aquifer.  This technique is not typically 
+used in Maryland.  
+6.6 
+Programmatic Assessment of Stormwater Policies 
+Non-point source pollution is a significant source of nutrient deposition in Cecil County's rivers 
+and streams.  Non-point sources consist of agricultural run off, sediments and erosion from 
+development, stormwater runoff that contains pollutants from roads, streets, residential areas 
+(particularly pet wastes and lawn fertilizer), subsurface nutrients from septic systems, chemicals 
+and fertilizers from golf courses, and other similar sources. These nutrient loads are called non-
+point because they come from widely dispersed origins, and are difficult to measure and correct.  
+This section characterizes County policies that address stormwater and nonpoint source 
+pollution. 
+6.6.1 
+The Maryland Stormwater Design Manual 
+The 2000 Maryland Stormwater Design Manual, Volumes I & II is incorporated by reference into 
+the Cecil County Stormwater Management Ordinance, and serves as the official guide for 
+stormwater principles, methods, and practices.   
+In 2007, the Maryland General Assembly passed the Maryland Stormwater Management Act, 
+which mandates substantial revision of the Stormwater Design Manual.  The most notable 
+provision of the Stormwater Management Act of 2007 is the requirement that new development 
+use Environmental Site Design (ESD) techniques, which are intended to “maintain pre-
+development runoff characteristics” on the site.21  MDE has completed the revisions to the 
+Maryland Stormwater Design Manual, and the County is currently revising its Stormwater 
+Management Ordinance as necessary to incorporate these revisions.  
+6.6.2 
+Watershed Planning 
+Planning at the watershed level is an important tool in ensuring and improving water quality.  The 
+watershed is the most appropriate geographic scale within which to assess and provide policy 
+guidance to manage pollution and degradation of the County’s waterways.  This approach can 
+help to prioritize capital expenditures and enforcement efforts in portions of the County where 
+water quality is most threatened.  It can also make the County eligible for funding resources, such 
+as Section 319 funds through the Clean Water Act. 
+Cecil County does not have a comprehensive watershed-based planning framework.  Developing 
+such a framework (typically developed at the 8-digit level, although such an approach is valid for 
+smaller geographies) would give the County the policy basis for land use, environmental, and 
+other decisions that have the potential to impact water quality.  As described in Chapter 7, the 
+Sensitive Areas Element, a watershed planning approach can also provide guidance on decisions 
+with the potential to impact the County’s key natural resources. 
+This Comprehensive Plan compiles many of the elements of watershed planning, particularly 
+those that relate to water quality.  The 303(d) list of impaired waters and the resultant TMDLs 
+described in Section 6.5.2 are one source of water quality data and policy recommendations, as 
+are the forthcoming requirements of SB 276 (Section 6.7.4).  This section describes other 
+sources of watershed-based water quality information. 
+                                                     
+20 For more information, see http://www.gwrsystem.com/  
+21 Source: MDE. http://www.mde.state.md.us/Programs/WaterPrograms/SedimentandStormwater/swm2007.asp
+
+<!-- page 123 -->
+2010 Cecil County Comprehensive Plan 
+ 
+6-26 
+Maryland Clean Water Action Plan 
+The Clean Water Action Plan envisions a joint effort among federal, state, and local governments, 
+the private sector, and the public to restore watersheds that fail to meet water quality goals under 
+the Clean Water Act.  Maryland’s Clean Water Action Plan (1998) assesses water quality, habitat, 
+and other factors in each of the state’s 8-digit watersheds and assigns each watershed to one of 
+three categories: 
+Category 1: Watersheds not meeting clean water and other natural resource goals and needing 
+restoration.  Ten of Cecil County’s watersheds fall into this category, including the Back Creek, 
+Bohemia River, Conowingo Dam, Furnace Bay, Little Elk Creek, Lower Elk River, Lower 
+Susquehanna River, Northeast River, Sassafras River, and Upper Elk River.   
+Category 2: Watersheds currently meeting goals that need preventive actions to sustain water 
+quality and aquatic resources.  Three of Cecil County’s watersheds fall into this category, 
+including Big Elk Creek, Christina River, and Octoraro Creek. 
+Category 3: Pristine or sensitive watersheds that need an extra level of protection.  Some 
+watersheds may be designated Category 3 as well as either Category 1 or Category 2.  The 
+Category 3 watersheds in Cecil County are Back Creek, Big Elk Creek, Bohemia River, 
+Conowingo Dam, Furnace Bay, Lower Elk River, Lower Susquehanna River, Northeast River, 
+Octoraro Creek, and Upper Elk River.   
+For each watershed, the state’s goal is 
+to develop a Watershed Restoration 
+Action Strategies (WRAS) for each 
+Category 1 and Category 3 watershed. 
+Green Infrastructure Plan 
+The Cecil County Green Infrastructure 
+Plan was completed in 2007.  The 
+Green Infrastructure Plan examines 
+the relationship between land cover, 
+impervious surface, and water quality 
+and found a strong correlation 
+between the presence of green 
+infrastructure and higher water quality.  
+In particular, water quality was highest 
+in watersheds with larger amounts of 
+forest cover and lower levels of 
+impervious surface (see Section 6.7.3, 
+and Chapter 7). 
+In addition to the documents and 
+programs described above, the Maryland Department of Natural Resources (DNR) and MDE 
+conduct annual water quality sampling at several locations in Cecil County.  County residents 
+also participate in the state’s Tributary Strategy Teams to monitor water quality and implement 
+nonpoint source Best Management Practices (BMPs).  The County relies on DNR water quality 
+sampling, and does not conduct regular sampling of its own. 
+6.6.3 
+Other Nonpoint Source Policies and Considerations 
+In addition to the Maryland, Stormwater Design Manual, Cecil County uses zoning tools to protect 
+the water supply and preserve open space.  These include a Critical Area Overlay Zone that 
+limits development near the Chesapeake Bay and the tidal portions of its tributaries, 60 percent 
+open space requirements in the NAR and SAR zoning districts, a 110 foot buffer around perennial 
+streams, and a 25 foot buffer around all non-tidal wetlands.   
+To promote water conservation, the County has implemented the flow reduction program, which 
+requires the use of low-flow appliances, fixtures, and other measures in new construction and 
+The Green Infrastructure Plan recommends the protection of 
+riparian forests, like this one along Mill Creek, to maintain water 
+quality. Photo Courtesy of The Conservation Fund.
+
+<!-- page 124 -->
+2010 Cecil County Comprehensive Plan 
+ 
+6-27 
+upgrades to existing construction. The County also uses a Purchase of Development Rights 
+program and a Transfer of Development Rights program to promote land conservation. 
+The County has also invested in the ASIST Stormwater Database Management Systems 
+software that is used to inventory and track County-owned stormwater assets as well as to 
+document County inspections and work orders associated with that infrastructure. As the County 
+compiles data related to stormwater permit compliance activities and associated expenditures, 
+this data will be used to provide annual fiscal analyses specific to the implementation of the 
+Stormwater Management Program22. 
+Land Preservation, Parks, and Recreation Plan 
+Cecil County’s 2005 Land Preservation, Parks, and Recreation Plan (LPPRP) was adopted as an 
+amendment to the Comprehensive Plan, and contains numerous goals, policies, and 
+implementation actions, many of which address issues similar to those analyzed as part of this 
+WRE.  Key LPPRP goals, policies, and implementation strategies that support the policies in this 
+WRE are listed below. 
+• 
+Continue to protect recreational open space and resource lands at a rate that equals or 
+exceeds the rate that land is developed at a statewide level. 
+• 
+Adopt recommended revisions relating to natural resources into the Comprehensive Plan, 
+[such as] to watershed protection, groundwater resources, rural legacy areas, greenways, 
+and smart growth.  
+• 
+Incorporate small area and watershed-based planning into the County’s comprehensive 
+planning program. 
+• 
+Complete protection of the County’s two rural legacy areas – Sassafras and Fair Hill. 
+• 
+Integrate greenways and the State’s Green Infrastructure concepts more comprehensively 
+into the County’s planning and development review processes. 
+• 
+Incorporate small area and watershed-based planning into the County’s comprehensive 
+planning program.  Based on the State’s Clean Water Action Plan, the primary candidate 
+watershed in Cecil County would be the Upper Elk River. 
+Failing Septic Systems 
+There are several areas of failing or inadequate septic systems exist in Cecil County.  Notable 
+communities include Carpenter’s Point, Crystal Beach, Hack’s Point, Holloway Beach, Locust 
+Point, Cara Cove, Red Point and North East Point/Hance’s Point.  A sewer extension from 
+Seneca Point WWTP is underway for Carpenter’s Point.  The County should work with the 
+municipalities and private sewer providers to evaluate ways to address these and other areas of 
+failing septic systems, either by connection to public sewer systems, or through the alternative 
+wastewater disposal options discussed above.  The County could also consider new wastewater 
+collection and treatment systems, tied to land application (or another alternative disposal method) 
+to address failing septic systems. 
+A separate but related category of potential nonpoint source pollution involves the Indian Acres 
+campground, south of Cecilton.  This campground is intended for temporary use, but is often 
+occupied year-round.  Sewage is collected in holding tanks that must be pumped out.  Public 
+input into the Comprehensive Plan indicates that Indian Acres is not the only example of such a 
+facility.  The County should work with municipalities, and private service providers to address 
+potential wastewater concerns.   
+In many jurisdictions, public sewer lines that serve areas of failing septic systems and similar 
+public health concerns (including water lines that serve areas of failed or contaminated wells) are 
+designated “denied access” infrastructure; homes and businesses along the path of the new 
+                                                     
+22 Cecil County Stormwater Management Program, May 2009.
+
+<!-- page 125 -->
+2010 Cecil County Comprehensive Plan 
+ 
+6-28 
+sewer line cannot connect to it unless a public health problem (e.g., a failing septic system) 
+exists.  The County designates “denied access” lines on a case-by-case basis, depending largely 
+on the distance from the WWTP.  The County may wish to consider making “denied access” the 
+default designation for all such public health-related sewer extensions, to avoid potential 
+confusion on the part of property owners near these lines. 
+Septic Denitrification 
+Nitrogen removal (or denitrification) units can reduce the nitrogen loading from septic systems by 
+approximately 50 percent.  Maryland Senate Bill 554 (from the 2009 legislative session) now 
+requires all new septic systems in the Chesapeake Bay Critical Area to include Best Available 
+Technology (BAT) for nitrogen removal (as defined by MDE).23  Septic denitrification is one 
+approach to meeting TMDL requirements. 
+The County does not currently require denitrification units for new or replacement septic systems, 
+but should consider the State recommendation in other areas, such as near perennial waterways 
+or in watersheds that are impaired by nitrogen.  In addition to the State’s Critical Area 
+requirements, this Plan encourages all new septic systems to use nitrogen removal at the 
+discretion of the owner.  The County should also encourage denitrification retrofits for existing 
+septic systems – including obtaining nonpoint-to-point source nutrient credits for such retrofits, if 
+applicable under forthcoming nutrient trading guidance (see Section 6.5.3).  
+Agriculture 
+Agriculture is important to the economy and character of the County, but runoff from cropland, 
+feedlots, and pastures can carry nutrients and pollutants from manure, fertilizers, ammonia, 
+pesticides, livestock waste, soil, and sediment into waterways.  Across the Chesapeake Bay 
+basin, agriculture is one of the largest contributors of nitrogen and phosphorus to the Bay and its 
+tributaries.  However, this impact can be reduced through the application of agricultural Best 
+Management Practices (BMPs) such as planting cover crops, judicious use of fertilizer (especially 
+animal manure), and maintaining appropriate buffers along rivers and streams.  The County 
+should continue to work with the agricultural community to ensure that agricultural BMPs are 
+implemented to the greatest degree feasible. 
+Stormwater Retrofits 
+Stormwater retrofits can help to reduce nonpoint source pollution, particularly in more densely 
+developed areas built prior to stormwater management requirements.  The County should identify 
+locations where such retrofits could address concentrations of nonpoint source pollution (“hot 
+spots”), or where retrofits can help to protect environmentally sensitive areas.  Future retrofit 
+funds and implementation activities should be targeted to these priority areas.  
+Sedimentation and Erosion 
+Sedimentation and other impacts resulting from construction activity are also a potential threat to 
+water quality.  Most new non-agricultural development in Cecil County requires a grading permit 
+and a sedimentation and erosion control plan that is approved by the Cecil County Soil 
+Conservation District.   
+Open Section Roads 
+Outside of Growth Areas and other areas where pedestrian facilities are a priority, new roads in 
+the County should continue to be developed with open sections, to better disperse stormwater.   
+                                                     
+23 More information is available at: http://www.mde.state.md.us/Water/CBWRF/osds/brf_bat.asp
+
+<!-- page 126 -->
+2010 Cecil County Comprehensive Plan 
+ 
+6-29 
+ 
+6.7 
+Total Nutrient Loads 
+This section characterizes the combined effect of point source and non-point source nutrient 
+loads in Cecil County. 
+6.7.1 
+Nonpoint Source Loading 
+Table 6.8 summarizes existing and projected (2030) nutrient loading from non-point sources in 
+Cecil County.  Nonpoint source nutrient loads (including septic systems) were estimated using 
+methodology developed by the Maryland Department of the Environment, as modified by the 
+County to reflect revised nutrient loading rates.  More detail on the nonpoint source evaluation 
+methodology is presented in the WRE Appendix.   
+Future nutrient loads would decrease significantly in all watersheds, compared to current levels.  
+This is due largely to the nonpoint source model’s assumption24 that nutrient-reducing BMPs for 
+urban stormwater and agricultural runoff would be more widely implemented by 2030.   
+Agriculture—including cropland, pastures, orchards, and feeding operations—occupies more than 
+forty percent of the County’s land, and is by far the largest contributor of both nitrogen 
+(approximately 64 percent of existing and 50 percent of projected discharges) and phosphorus 
+(approximately 78 percent of the existing and 68 percent of projected discharges).  Septic 
+systems contribute approximately 10 percent of existing nitrogen loads and 15 percent of 
+projected nitrogen loads.  The actual septic load only increases moderately through 2030, but the 
+drop in overall nonpoint source nitrogen loads leaves septic systems with a larger share of the 
+total by 2030. 
+Based on these data, neither of the established nonpoint source TMDLs would be met by 2030.  
+Given the magnitude of the difference between existing/projected nutrient loads and nonpoint 
+source TMDLs, the nonpoint source model used for this Comprehensive Plan may not be the best 
+measure of progress toward TMDLs.25  The County should continue to work with MDE, MDA, and 
+other appropriate agencies to reduce nonpoint source nutrient loads in impaired watersheds, and 
+to further clarify the actual and projected loadings in these watersheds. 
+6.7.2 
+Total Nutrient Loading 
+Table 6.9 shows the total combined point and nonpoint source discharge in each 8-digit 
+watershed in Cecil County.  This table combines the information in Tables 6.7 and 6.8.  As with 
+the nonpoint source loadings alone, total nutrient loadings would drop significantly compared to 
+existing levels.  
+6.7.3 
+Impervious Surface 
+Impervious surfaces are primarily human-made surfaces which do not allow rainwater to enter the 
+ground.  Impervious cover creates runoff that causes stream bank erosion, sediment deposition 
+into stream channels, increases in stream temperatures, and degradation to water quality and 
+aquatic life.  The amount of impervious surface in a watershed is a key indicator of water quality.  
+Water quality in streams tends to decline as watersheds approach seven to ten percent 
+impervious coverage, and drops sharply when the watershed approaches 15 percent impervious 
+coverage.26 Countywide, impervious surface currently covers about four percent of total land 
+area, and is projected to rise to more than five percent.  In Cecil County’s most developed 
+watersheds, impervious surface coverage is somewhat higher, as shown in Table 6.10.   
+                                                     
+24 The model uses loading rates from the Chesapeake Bay Program Watershed Model, Phase 4.3. 
+25 However, the nonpoint source model used in this WRE is recommended by MDE for use in Comprehensive Plans. 
+26 Center for Watershed Protection Watershed Protection Techniques 1(3):  pp. 100-111
+
+<!-- page 127 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-30 
+Table 6.8: 
+Cecil County Nonpoint Source Nutrient Loading 
+(all data in 
+lbs/year) 
+Existing (2007) 
+Projected (2030) 
+TN 
+TP 
+Nonpoint 
+Source TMDL 
+Available 
+Assimilative 
+Capacity (Overage) 
+vs. TMDL1 
+TN 
+TP 
+Available 
+Assimilative 
+Capacity (Overage) 
+vs. TMDL1 
+Septic 
+Nonpoint 
+Total 
+TN 
+TP 
+TN 
+TP 
+Septic 
+Nonpoint 
+Total 
+TN 
+TP 
+Christina 
+River 
+7,736 
+69,364 
+77,100 
+5,634 
+ 
+ 
+ 
+ 
+11,603 
+39,911 
+51,514 
+5,571 
+ 
+ 
+Furnace  
+Bay  
+12,707 
+136,900 
+149,607 
+11,263 
+ 
+ 
+ 
+ 
+12,974 
+81,904 
+94,878 
+7,607 
+ 
+ 
+Northeast 
+River 
+42,183 
+412,346 
+454,529 
+32,841 
+74,749 
+3,763 
+(379,780) 
+(29,078) 
+33,298 
+261,600 
+294,898 
+23,421 
+(220,149) 
+(19,658) 
+Lower Elk 
+River 
+29,543 
+234,594 
+264,137 
+19,239 
+ 
+ 
+ 
+ 
+27,921 
+133,099 
+161,020 
+12,469 
+ 
+ 
+Upper Elk 
+River 
+31,268 
+165,928 
+197,196 
+11,536 
+ 
+ 
+ 
+ 
+38,639 
+115,648 
+154,287 
+8,493 
+ 
+ 
+Big Elk  
+Creek 
+8,355 
+111,294 
+119,649 
+9,406 
+ 
+ 
+ 
+ 
+8,873 
+65,171 
+74,044 
+6,228 
+ 
+ 
+Little Elk 
+Creek 
+24,750 
+179,071 
+203,821 
+14,644 
+ 
+ 
+ 
+ 
+22,848 
+107,130 
+129,978 
+9,711 
+ 
+ 
+Back  
+Creek 
+8,846 
+90,680 
+99,526 
+7,814 
+ 
+ 
+ 
+ 
+9,315 
+50,975 
+60,290 
+5,046 
+ 
+ 
+Bohemia 
+River 
+11,314 
+345,270 
+356,584 
+31,504 
+ 
+ 
+ 
+ 
+10,569 
+177,697 
+188,266 
+20,023 
+ 
+ 
+Sassafras 
+River 
+5,689 
+212,837 
+218,526 
+19,050 
+ 
+6,839 
+ 
+(12,221) 
+6,778 
+112,194 
+118,972 
+12,138 
+ 
+(5,299) 
+Lower 
+Susquehanna 
+25,136 
+144,659 
+169,795 
+4,292 
+ 
+ 
+ 
+ 
+41,695 
+123,496 
+165,191 
+4,067 
+ 
+ 
+Conowingo 
+Dam 
+5,401 
+38,056 
+43,457 
+1,266 
+ 
+ 
+ 
+ 
+5,746 
+26,723 
+32,469 
+1,012 
+ 
+ 
+Octoraro 
+Creek 
+41,153 
+271,208 
+312,361 
+10,376 
+ 
+ 
+ 
+ 
+37,847 
+170,105 
+207,952 
+8,065 
+ 
+ 
+Total  
+254,082 
+2,412,207 
+2,666,289 
+178,865 
+ 
+ 
+ 
+ 
+268,105 
+1,465,055 
+1,733,160 
+131,631 
+ 
+ 
+Notes: 
+1: Reflects Load Allocation (LA) limits set by adopted TMDLs for each watershed.  Where no TMDL has been adopted, or where the watershed is not impaired, no numerical standards are shown.
+
+<!-- page 128 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-31 
+Table 6.9: 
+Cecil County Total Nutrient Loading 
+(all data in lbs/year) 
+Existing (2007) 
+Projected (2030) 
+Nonpoint 
+Point 
+Total 
+Nonpoint 
+Point 
+Total 
+TN 
+TP 
+TN 
+TP 
+TN 
+TP 
+TN 
+TP 
+TN 
+TP 
+TN 
+TP 
+Christina River  
+77,100 
+5,634 
+13,603 
+3,602 
+90,703 
+9,236 
+51,514 
+5,571 
+11,708 
+878 
+63,222 
+6,449 
+Furnace Bay  
+149,607 
+11,263 
+ 
+ 
+149,607 
+11,263 
+94,878 
+7,607 
+ 
+ 
+94,878 
+7,607 
+Northeast River  
+454,529 
+32,841 
+12,168 
+913 
+466,697 
+33,754 
+294,898 
+23,421 
+24,268 
+1,820 
+319,166 
+25,241 
+Lower Elk River  
+264,137 
+19,239 
+1,697 
+566 
+265,834 
+19,805 
+161,020 
+12,469 
+437 
+33 
+161,457 
+12,502 
+Upper Elk River  
+197,196 
+11,536 
+ 
+ 
+197,196 
+11,536 
+154,287 
+8,493 
+ 
+ 
+154,287 
+8,493 
+Big Elk Creek 
+119,649 
+9,406 
+18,130 
+1,360 
+137,779 
+10,766 
+74,044 
+6,228 
+33,187 
+2,489 
+107,231 
+8,717 
+Little Elk Creek 
+203,821 
+14,644 
+6,844 
+2,281 
+210,665 
+16,925 
+129,978 
+9,711 
+ 
+ 
+129,978 
+9,711 
+Back Creek 
+99,526 
+7,814 
+7,118 
+2,372 
+106,644 
+10,186 
+60,290 
+5,046 
+6,457 
+1,614 
+66,747 
+6,660 
+Bohemia River  
+356,584 
+31,504 
+1,468 
+308 
+358,052 
+31,812 
+188,266 
+20,023 
+3,006 
+751 
+191,272 
+20,774 
+Sassafras River  
+218,526 
+19,050 
+ 
+ 
+218,526 
+19,050 
+118,972 
+12,138 
+ 
+ 
+118,972 
+12,138 
+Lower Susquehanna 
+169,795 
+4,292 
+22,176 
+5,932 
+191,971 
+10,224 
+165,191 
+4,067 
+26,124 
+1,959 
+191,315 
+6,026 
+Conowingo Dam 
+43,457 
+1,266 
+ 
+ 
+43,457 
+1,266 
+32,469 
+1,012 
+ 
+ 
+32,469 
+1,012 
+Octoraro Creek 
+312,361 
+10,376 
+11,832 
+3,944 
+324,193 
+14,320 
+207,952 
+8,065 
+5,131 
+385 
+213,083 
+8,450 
+Total 
+2,666,289 
+178,865 
+95,036 
+21,278 
+2,761,325 
+200,143 
+1,733,160 
+131,631 
+110,318 
+9,929 
+1,843,478 
+141,560
+
+<!-- page 129 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-32 
+The Little Elk Creek, Lower Susquehanna River, and Upper Elk River watersheds are all at or 
+above the seven-to-ten percent impervious threshold (although Christina River watershed is also 
+above this threshold, the portion of the Christina watershed within Cecil County is only a very 
+small portion of the broader Christina River watershed, most of which is in Delaware and 
+Pennsylvania).  Not surprisingly, these watersheds are home to Elkton, Perryville, and Port 
+Deposit, the County’s largest municipalities. 
+The use of Environmental Site Design (ESD) for new development, and targeted stormwater 
+retrofits can help to mitigate some of the impacts of impervious surfaces.  In addition, as existing 
+development is replaced with new homes and businesses, that redevelopment will, under the 
+Maryland Stormwater Management Act, use ESD.  Thus, future impervious surface rates for 
+different development types may be lower than the constant loading rates included in the 
+nonpoint source model used for this analysis. 
+Table 6.10: 
+Impervious Coverage 
+Watershed 
+Total 
+Acres1 
+Impervious Surface
+Existing 
+2030 
+Acres 
+Percent 
+Acres 
+Percent 
+Christina River 
+5,313 
+468 
+8.8% 
+644 
+12.1% 
+Furnace Bay 
+13,598 
+339 
+2.5% 
+538 
+4.0% 
+Northeast River 
+40,371 
+1,969 
+4.9% 
+2,831 
+7.0% 
+Lower Elk River 
+25,413 
+453 
+1.8% 
+487 
+1.9% 
+Upper Elk River 
+19,895 
+1,653 
+8.3% 
+2,005 
+10.1% 
+Big Elk Creek 
+10,947 
+484 
+4.4% 
+625 
+5.7% 
+Little Elk Creek 
+15,693 
+915 
+5.8% 
+1,304 
+8.3% 
+Back Creek 
+8,761 
+228 
+2.6% 
+314 
+3.6% 
+Bohemia River 
+26,545 
+238 
+0.9% 
+274 
+1.0% 
+Sassafras River 
+17,136 
+182 
+1.1% 
+235 
+1.4% 
+Lower Susquehanna 
+12,198 
+1,062 
+8.7% 
+2,066 
+16.9% 
+Conowingo Dam 
+4,834 
+91 
+1.9% 
+112 
+2.3% 
+Octoraro Creek 
+22,210 
+931 
+4.2% 
+1,074 
+4.8% 
+Cecil County Overall 
+222,911 
+9,015 
+4.0% 
+12,509 
+5.6% 
+Existing based on 2007 Land Use/Land Cover.  2030 based on the Future Land Use Plan. 
+Notes: 
+1: Excludes areas of open water within the County’s boundaries. 
+6.7.4 
+Choice of Land Use Plan 
+A major purpose of the WRE is to evaluate the water resources impacts of projected land use and 
+development trends, and to provide input into the Comprehensive Plan’s recommended future 
+land use pattern.  Ideally, the WRE should use measures of assimilative capacity, such as 
+completed TMDLs for nutrients, to guide direction of growth and land use patterns within the 
+County.  Because TMDLs have not been completed for all of County’s impaired 8-digit 
+watersheds, particularly the Elk River and the Chesapeake Bay, it is difficult to identify 
+“appropriate” receiving waters for the County’s point and nonpoint source nutrient loads, or to 
+direct future growth toward those appropriate receiving waters.   
+Because full TMDL implementation is likely to be years away, the WRE must make 
+recommendations based on the best available data.  The Future Land Use Plan in Chapter 3 
+reflects multiple rounds of evaluation of different land use scenarios, each of which used water 
+resources as key evaluation criteria.  As shown in Table 6.9, the Future Land Use Plan, coupled 
+with implementation of nonpoint source BMPs (including ESD) and upgrades to public 
+wastewater treatment plants, could result in a substantial reduction in total nutrient loads to the 
+Chesapeake Bay and its tributaries.
+
+<!-- page 130 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-33 
+Although the relationship between the County’s nutrient TMDLs and the nonpoint source model 
+used in this WRE is questionable, it is clear that development in the Northeast River watershed 
+(and, to some degree the Sassafras River watershed) has the potential to threaten the County’s 
+ability to meet the nonpoint source TMDL.  While this might imply that the Northeast River 
+watershed is not an appropriate location for development, much of the watershed is in the 
+Designated Growth Area, and has been since at least 1990.  There is significant potential to 
+concentrate growth in or near already-developed land, in a way that provides opportunities for 
+stormwater management facilities to treat urban runoff more efficiently.  Development in the 
+Northeast River watershed should proceed carefully, and stormwater management retrofits 
+should be targeted here to reduce nonpoint source nutrient loading.  The County and state should 
+also work with their counterparts in Pennsylvania to address nutrient loads in the Pennsylvania 
+portion of the Northeast River watershed (and other Cecil County watersheds that cross state 
+boundaries).  
+Relationship to Local Land Use Goals 
+In 2009, Senate Bill 276 was signed into law.  The new law amends Article 66B, requiring the 
+establishment of a statewide goal for increasing the amount of development within PFAs and 
+decreasing development outside of PFAs.  As part of this law, jurisdictions must also establish 
+(beginning in 2011) local land use goals for the amount of development inside of PFAs.  The 
+Future Land Use Plan will result in progress toward the statewide (and eventually the local) land 
+use goals by directing development to PFAs and employment centers.  Indeed, the Future Land 
+Use Plan represents an effort to significantly increase the amount of development targeted to 
+PFAs, and therefore strongly supports the state land use goal. 
+6.8 
+Policies and Actions  
+Priority Projects and Ordinance Updates 
+1. Aggressively pursue development of water resources infrastructure in the Growth Corridor.  
+While Low Growth areas are eligible for sewer service, providing service to these areas is a 
+lower priority compared to other growth areas.  High priority actions include, but are not 
+limited to: 
+• 
+Expand the water distribution system in the Elkton West service area. 
+• 
+Combine and upgrade wastewater collection and treatment systems in the Elkton West 
+service area.  This includes retirement of the Cherry Hill and Highlands WWTPs and 
+expansion of the Meadowview WWTP. 
+• 
+Upgrade and expand the Seneca Point WWTP and collection system to a capacity of at 
+least 5 MGD by 2030.  This expansion will require nutrient credits.  Therefore, the County 
+should utilize MDE’s Nutrient Cap Management and Trading policy for point sources, and 
+forthcoming regulations for nonpoint source trading, and identify nutrient reduction 
+strategies that could provide credits to the Seneca Point WWTP. 
+2. Amend the County’s land development and other related ordinances as follows: 
+• 
+Revise the County’s stormwater management regulations to implement 2007 Maryland 
+Stormwater Management Act.  Under the Act, the County must do this by May, 2010. 
+• 
+Adopt the draft wellhead protection ordinance, described in Section 6.4.6, or a similar 
+ordinance whose purpose is to protect public drinking water sources through land use 
+and other limitations. 
+• 
+Outside the Critical Area, all new development that is not connected to public sewer 
+systems to use best available pollution reducing technologies for controlling pollutants, as 
+defined by MDE, at the discretion of the owners.  Elsewhere, consider requiring nutrient 
+credits (similar to those established under the state Nutrient Cap Management and 
+Trading policy) for subdivisions built using septic systems..
+
+<!-- page 131 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-34 
+• 
+Consider developing a Denied Access policy that designates all public health-related 
+extensions of water and sewer service into rural areas as Denied Access (with provisions 
+to remove Denied Access status where appropriate). 
+• 
+Consider developing a County policy and/or regulations regarding agricultural land 
+application of sludge from County wastewater treatment plants.  
+3. Incorporate water and sewer information from this Comprehensive Plan into the next revision 
+of the County’s Water and Sewer Master Plan. 
+4. As a part of the next Comprehensive Plan review, update and refine the non-point source 
+loading analyses (including point source data) used for this WRE. 
+Drinking Water 
+5. Closely monitor the extension of water and sewer service by Artesian to ensure that water 
+and sewer infrastructure is developed in accordance with the County’s land use and growth 
+priorities. 
+6. Design and implement a rigorous water conservation education program.  As part of this 
+program, conduct routine system-wide water use audits to minimize water loss through leaks. 
+7. Working cooperatively with the municipalities, create and implement a drought management 
+policy for public water systems. 
+8. Work with municipalities, private water suppliers, MDE, and DNR to secure new surface 
+water sources within the county to meet long-term (post-2030) needs, including (but not 
+limited to): 
+• 
+New surface water impoundments, particularly on or alongside Principio Creek and at Elk 
+Mills Quarry. 
+• 
+New surface water withdrawals from the Susquehanna River, coordinated with 
+Susquehanna River basin Commission and municipalities, as necessary. 
+• 
+Additional groundwater wells on Elk Neck Peninsula (coordinating with the Maryland 
+Department of Natural Resources, for well locations on State Forest land), and elsewhere 
+throughout the County. 
+• 
+Water desalination.  
+9. Encourage fluoridation of all community water systems, and seek State funding for these 
+improvements. 
+10. Investigate options for a program to encourage the use of cisterns, including regulations and 
+requirements for the design and maintenance of these facilities. 
+Wastewater 
+11. Continue to identify and eliminate sources of inflow and infiltration (I/I) to free up additional 
+capacity at treatment plants. 
+12. Identify areas in the County suitable for treated wastewater land application techniques (such 
+as spray irrigation) and tertiary treatment wetlands.  Land should be acquired or reserved 
+before 2030 to meet the County’s longer term wastewater disposal needs.  
+13. Continue to actively pursue the abatement of failing septic systems—particularly those 
+identified in the 2004 County Water and Sewer Master Plan—through connection to public 
+sewer systems, where appropriate.  Work with MDE to ensure that the County receives 
+nutrient credits for such actions. 
+14. Promote the re-use of stormwater and treated wastewater for purposes such as on-site 
+irrigation, non-potable process water (industrial activities), and other uses, where appropriate.
+
+<!-- page 132 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+ 
+6-35 
+Watershed Planning 
+15. Incorporate watershed-based planning into the County’s comprehensive planning program, 
+with the goal of managing watersheds and making day to day decisions in ways that protect, 
+conserve, and restore water quality.  
+16. In conjunction with the annual land use reporting requirements of Maryland’s 2009 Smart, 
+Green, and Growing legislation (specifically Senate Bill 276), monitor water quality and the 
+amount of impervious surface at the 8 digit watershed level.  Use this information to guide 
+development decisions in a way that protects water quality, especially in watersheds that 
+approach critical thresholds. 
+17. Work with counterparts in Pennsylvania and Delaware to address nutrient impairments in 
+watersheds that cross state boundaries.
+
+<!-- page 133 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+7-1 
+7 
+Sensitive Areas 
+Cecil County is located at the north end of the Chesapeake Bay and extends easterly from 
+the Susquehanna River to the Delaware line and south to the Sassafras River. The County’s 
+land area is shaped by several peninsulas formed by the Susquehanna, Northeast, Elk, 
+Bohemia, and Sassafras Rivers.  Cecil County is divided into two major physiographic 
+regions along the “fall line”, which lies just north of the I-95/US 40 corridor.   
+The southern two-thirds of the County, south of the fall line, are in the Atlantic Coastal Plain. 
+Generally this land shows little relief; its streams are small and sluggish and marshes and 
+wetland areas are common. Underlying sediments are easily eroded, and wave action from 
+the Chesapeake Bay, in addition to surface runoff, has created local areas of steep slopes 
+and bluffs from 20 to nearly 100 feet in height.   
+The northern third of Cecil County lies within the eastern Piedmont, and is characterized by 
+an uneven, hilly terrain punctuated by small-scale gorges, cliffs, and ridges. The northeastern 
+portion of the County is moderately hilly, with the greatest relief provided by the gorges of the 
+major stream valleys. The north-central section of the County is only slightly hilly with wide 
+valleys and large-scale undulations in the terrain. The northwest section of the County 
+provides the most varied topography.  Near Port Deposit along the Susquehanna River, for 
+example, are granite cliffs. Further north, the Octoraro and Conowingo Creeks form deep 
+gorges as they flow to the Susquehanna. This region has the highest elevation in the County; 
+535 feet above sea level near Rock Springs.   
+Maryland State planning law requires each comprehensive plan to establish goals and 
+policies related to sensitive environmental areas, specifically addressing: 
+• 
+Steep slopes, 
+• 
+Streams, wetlands, and their buffers, 
+• 
+100-year floodplains, 
+• 
+Habitats of threatened or endangered species, 
+• 
+Agricultural and forest land intended for resource protection or conservation, and 
+• 
+Other areas in need of special protection. 
+This chapter, in conjunction with other chapters of this Plan, especially Water Resources and 
+Land Use, updates the County’s policies to regarding sensitive areas.  
+7.1 
+Goals and Objectives 
+The County’s sensitive areas goals and objectives are to: 
+1. Protect environmentally sensitive resources and natural features in all areas of the 
+County, comprising steep slopes, streams, wetlands, floodplains, and habitat including 
+the habitats of threatened or endangered species. 
+2. Protect 80 percent of the remaining undeveloped land in the designated Priority 
+Preservation Area. 
+3. Conserve agricultural and forest resource land, with special focus on the County’s Priority 
+Preservation Area. 
+4. Develop a systematic approach to protect the County’s green infrastructure resources.  
+5. Manage watersheds in ways that protect, conserve and restore their hydrologic and water 
+quality functions.
+
+<!-- page 134 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+7-2 
+7.2 
+Description of Sensitive Areas 
+7.2.1 
+Steep Slopes 
+Steep slopes are inherently unstable landforms that become susceptible to increased soil 
+erosion when disturbed.  The adverse effects of steep slope disturbance are more significant 
+where the slope is adjacent to a stream or other water body because erosion can decrease 
+water quality and cause negative impacts to riparian plant and animal species.   
+In Cecil County, steep slopes are most extensive along the Susquehanna River near Port 
+Deposit, along the major stream valleys in the Piedmont and also along the shoreline of the 
+Chesapeake Bay, where the Coastal Plain sediments are eroded into bluffs. 
+The County Zoning Ordinance1 regulates new development on steep slopes as follows: 
+• 
+Development on slopes2 greater than 25 percent is prohibited.  
+• 
+Development on slopes between 15 and 25 percent is restricted and must use good 
+engineering practices.  
+• 
+Additional regulations apply in the Chesapeake Bay Critical Area which adjoins the 
+shorelines generally to the head of tide. 
+7.2.2 
+Streams and Buffers 
+Cecil County has streams and rivers ranging from first-order headwater streams to large 
+water bodies like the Susquehanna, Bohemia and Sassafras rivers (larger streams and rivers 
+are shown in Map 7.1).  The County’s streams provide water supplies for household use and 
+agriculture and serve as habitat for fish and other aquatic organisms.  
+Stream buffers, strips of land at the edges of rivers and streams, have multiple benefits. They 
+help to control flooding and reduce the volume and speed with which pollutants and 
+sediments enter the water.  This, in turn, helps to protect water quality, not only in the 
+sections of streams in Cecil County but also downstream on the Christina River and in the 
+mainstem of the Chesapeake Bay itself.  Stream buffers also provide habitat and a source of 
+food for aquatic organisms. 
+The Zoning Ordinance requires stream buffers of 110 feet from a perennial stream, and 25 
+feet from an intermittent stream (50 feet in forest conservation/retention areas3).  The 110 
+foot –buffer is expandable to 160 feet if associated with hydric or highly erodible soils and 
+slopes greater than 15 percent.  Dedication to the County is required if land is designated on 
+County’s Greenways Plan (a greenways map is included in the Land Preservation Parks and 
+Recreation Plan).  
+                                                     
+1 Most of the environmental standards, including steep slopes, are in Section 174 of the zoning ordinance. 
+2 Covering a contiguous area of 10,000 square feet or more. 
+3 Cecil County  Forest Conservation Regulations.
+
+<!-- page 135 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+7-3 
+Map 7.1 
+Streams, Wetlands and Floodplains
+
+<!-- page 136 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+7-4 
+7.2.3 
+Wetlands 
+Wetlands are saturated soils that have enough moisture to support vegetation adapted to wet 
+conditions.  Wetlands provide habitat for plants, fish, and wildlife; maintain water quality (by 
+collecting sediment and pollutants and slowing their distribution into waterways), act as 
+ground water recharge areas, and help to control flooding and erosion.  Wetlands also 
+provide recreational and educational opportunities. 
+In Cecil County, low-lying wetlands are concentrated along the Chesapeake Bay and its 
+tributaries and include swamps, marshes, bogs and other hydric soils areas.  Wetlands occur 
+along the shoreline as tidal wetlands, in the floodplains of streams, at the heads of 
+drainageways, and in isolated depressions (Map 7.1).   
+Wetlands are generally more extensive in the Coastal Plain than in the Piedmont area, 
+though steeper slopes limit the extent of these wetlands in comparison with lower Eastern 
+Shore nontidal wetlands south of Cecil County.   
+Tidal wetlands are not extensive in Cecil County, due to the generally steep slopes of the 
+major rivers.  The largest vegetated tidal wetlands are found along the tributaries of the Elk 
+and Northeast rivers. Due to the width of the streams in these areas, MDE found that these 
+areas would likely be some of the most effective at stabilization of shoreline sediments.4  
+The County Zoning Ordinance (Section 174) requires a 25-foot setback from non-tidal 
+wetlands except as permitted by the U.S. Army Corp of Engineers and the State.  This 
+Comprehensive Plan recommends that additional analysis be performed to study in detail the 
+benefits of expanding the non-tidal wetland buffer and if warranted, determine the appropriate 
+buffer (see below under issues). 
+The Maryland Department of the 
+Environment (MDE) regulates 
+development with the potential to 
+impact wetlands through regulations 
+implementing the Non-Tidal Wetlands 
+Protection Act.5  In some cases 
+(typically where a proposed 
+development involves large amounts 
+of wetlands), the U.S. Army Corps of 
+Engineers must issue permits for 
+development.  
+Maryland gives special regulatory 
+attention to “Wetlands of Special 
+State Concern (WSSC),” wetlands 
+with rare, threatened, or endangered 
+species, or other unique attributes.  
+Additional regulatory protections 
+apply to WSSCs, such as sediment controls and specific types of stormwater management 
+practices.  The State has designated 12 WSSCs in Cecil County, including Octoraro Slopes, 
+Roaring Woods, Cecil Bog, and Whitaker Swamp. 
+7.2.4 
+Floodplains 
+Floodplains are relatively low, flat areas adjoining rivers, streams, and other bodies of water.  
+They are usually naturally formed and are subject to partial or complete flooding on a periodic 
+basis.  Floodplains store and moderate the speed and impact of floodwaters, and, in 
+                                                     
+4 Prioritizing Sites for Wetland Restoration, Mitigation, and Preservation in Maryland. May 18, 2006 - Maryland 
+Department of the Environment 
+5 COMAR Title 26, Subtitle 23 
+Wetland along a Principio Creek tributary.              
+Photo Courtesy of The Conservation Fund.
+
+<!-- page 137 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+7-5 
+conjunction with wetlands (many of which are found in floodplains), help to maintain water 
+quality and to recharge groundwater.  
+Cecil County has both tidal and non-tidal floodplains. Most non-tidal flooding occurs in August 
+and September as a result of high intensity rainfall.  Most tidal flooding is attributed to tidal 
+surges and high coastal waters due to strong winds associated with hurricanes, tropical 
+storms and major thunderstorms.   
+Floodplains are typically described in terms of the frequency of flooding that they experience.  
+The 100-year floodplain is the area that has a one percent chance of being flooded in any 
+given year.  Cecil County’s 100-year floodplains are mostly found near the County’s rivers, 
+lakes, streams and wetlands (Map 7.1). 
+The zoning ordinance (Floodplain Overlay District, Sections 224 to 244) limits most 
+development and disturbance in the 100-year floodplain.  Occupied areas of residential 
+structures must be entirely outside of the floodplain or on land least susceptible to flooding.  
+Non-residential structures in the floodplain must be flood-proofed, and fill is discouraged. 
+7.2.5 
+Habitats of Rare, Threatened, and Endangered Species 
+The Federal and state government maintain lists and maps of the habitats of rare, 
+threatened, and endangered (RTE) species, including plants and animals.  Cecil County has 
+14 state-listed RTE animal species (two of which are also federally listed endangered 
+species), and 143 state-listed RTE plant species. 6  
+The Maryland Department of Natural 
+Resources (DNR) has designated two 
+Natural Heritage Areas (NHA) in Cecil 
+County: the Grove Neck NHA along 
+the Sassafras River and the Plum 
+Creek NHA in Elk Neck State Forest.  
+NHAs are designated for special 
+protection, pursuant to state 
+regulations.  
+The Susquehanna Flats form another 
+important environmental and habitat 
+area at the mouth of the Susquehanna 
+River where the sediments carried 
+down by the River drop out of 
+suspension in the calmer waters at the 
+Top of the Bay (but not within the 
+Plum Creek NHA), creating a rich 
+habitat for fish and other aquatic 
+species. 
+The U.S. Fish and Wildlife Service regulates development with the potential to impact the 
+habitats of federally-listed RTE species, while DNR regulates development with the potential 
+to affect state-listed RTE species.  Under the zoning ordinance (Section 174) RTE species 
+designated in MD DNR’s Natural Heritage Program are protected.  
+7.2.6 
+Agricultural and Forest Land  
+As noted in Chapter 3, Cecil County is rich in natural resource lands with approximately 75 
+percent of the County in agricultural and forest land as of 2007 (Table 3.1, Map 3.1).  
+                                                     
+6 Source: Department of Natural Resources, 2004.  State mapping of RTE species habitat does not indicate which 
+individual species is associated with a particular habitat extent.  See 
+http://www.dnr.state.md.us/wildlife/rte/rte07ceci.pdf for a complete listing of RTE species with habitat in Cecil County. 
+The Bald Eagle is one of the 14 RTE species found in Cecil County.
+
+<!-- page 138 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+7-6 
+Most of the County’s agricultural lands are in two broad areas: one north of the I-95 corridor, 
+running east-west across the width of the County, and the other south of the Chesapeake 
+and Delaware canal. The southern agricultural area is at the northern end of a roughly 
+400,000-acre area known as the “Agricultural Security Corridor”. This area of the Eastern 
+Shore includes portions of five counties, and is defined by the presence of high quality 
+agricultural soils, a concentration of agricultural infrastructure, and extensive agricultural 
+easements. 
+Forested areas occur throughout the County and include large contiguous, state-owned 
+blocks on the Elk Neck peninsula: Elk Neck State Forest and Elk Neck State Park.  Another 
+large forested area is located between the towns of Perryville and North East along the I-
+95/US 40 corridor. 
+Approximately 36,400 acres in Cecil County are protected agricultural and forest lands (Table 
+7.1, Map 7.2.) 
+Table 7.1: 
+Protected Agricultural and Forest Lands 
+ 
+Acres 
+Percent 
+Total Agricultural and Forest Lands 
+        36,368  
+100% 
+Agriculture 
+        21,938  
+60% 
+Maryland Agricultural Land Preservation Foundation  
+(MALPF)* 
+        13,750  
+63% 
+Other easements (see note)* 
+           5,148  
+23% 
+Rural Legacy* 
+           2,582  
+12% 
+Cecil County Purchase of Development Rights Program* 
+              458  
+2% 
+Forest 
+        14,430  
+40% 
+Fair Hill** 
+           5,613  
+39% 
+Elk Neck State Forest** 
+           3,500  
+24% 
+Elk Neck State Park** 
+           2,218  
+15% 
+Other (Wildlife Management Areas, Hunting Areas)** 
+           2,167  
+15% 
+Forest Legacy Easement* 
+              854  
+6% 
+Susquehanna State Park** 
+                78  
+1% 
+Notes:  
+Other easements: Maryland Environmental Trust, Cecil Land Trust, Nature Conservancy, Natural Lands Trust, North 
+American Land Trust, Eastern Shore Land Conservancy. 
+Some forest land such as Fair Hill, Elk Neck State Park, and Wildlife Management Areas include recreation land and 
+some non-forested areas.  
+Sources:* Cecil County Office of Planning and Zoning, Protected Land Report April 2009; **LPPRP 2005 
+The largest category of agricultural protected land is easements is the Maryland Agricultural 
+Land Preservation Foundation (MALPF) (13,750 acres), followed by easements donated or 
+acquired from a number of sources (see table note for the list).  Close to 2,600 acres have 
+been protected by the Maryland Environmental Trust, Cecil Land Trust and Eastern Shore 
+Land Conservancy through the state’s Rural Legacy program.  
+The Rural Legacy Program, administered by DNR, involves delineating geographic areas of a 
+county in need of focused land conservation and acquiring easements from willing 
+landowners within those areas.  The goals are to protect large, contiguous tracts of land and 
+other strategic areas from sprawl and to enhance natural resources, agricultural, forestry and 
+environmental protection through cooperative efforts among state and local governments and 
+land trusts.  
+Cecil County and the state have designated two Rural Legacy Areas (RLA) in Cecil County: 
+the Sassafras RLA, established in 1998, and the Fair Hill RLA, established in 2002. The 
+Sassafras RLA features prime agricultural land and productive farming operations.  More 
+than 75 percent of the area contains prime agricultural soils.  Fair Hill is another highly 
+productive agricultural region, that also includes the 5,600-acre state-owned Fair Hill Natural
+
+<!-- page 139 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+7-7 
+Map 7.2 
+Protected Agricultural and Forest Land
+
+<!-- page 140 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+7-8 
+ 
+Resources Management Area and the Farm Museum and Conservation Education Center, 
+an 84-acre property acquired by Cecil County in 2002 (See Map 7.2). 
+In 2005, Cecil County adopted a Purchase of Development (PDR) program with annual 
+funding of approximately $500,000.  As of 2009, 458 acres had been protected through this 
+program   
+Protected forest land totals approximately 14,400 acres.  Some of these lands include 
+recreation land and some non-forested areas.  The largest areas are Fair Hill, Elk Neck State 
+Forest and Elk Neck State Park. 
+As of 2009, more than $40 million has been spent to protect land in Cecil County.  More 
+detail on protected lands is in the County’s 2005 Land Preservation Parks and Recreation 
+Plan (LPPRP), which is incorporated by reference into this Comprehensive Plan.  The County 
+will work to maintain its Agricultural Certification. 
+7.2.7 
+Chesapeake Bay Critical Area 
+The Chesapeake Bay Critical Area contains approximately 25,800 acres of sensitive 
+shoreline areas, approximately 12 percent of the County’s land area, and is subject to 
+regulatory controls in the zoning ordinance and subdivision regulations regarding land use, 
+development, and natural resource disturbance. 
+7.3 
+Discussion of Issues 
+7.3.1 
+Future Growth and Development 
+The potential encroachment of future development on sensitive environmental, agricultural, 
+and forest resources is an important issue facing the County.  Development in rural areas – 
+where most of these resources are - increases their fragmentation which, in turn, threatens 
+their long-term viability.  As discussed in Chapter 3, Land Use, more than 3,500 new 
+residential permits were issued in the County’s Comprehensive Plan-designated rural areas 
+between 1997 and 2008, representing half of the residential development (in terms of 
+permits) in Cecil County during this period.   
+Oak heath forest in Elk Neck State Forest.                             
+Photo Courtesy of The Conservation Fund.
+
+<!-- page 141 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+7-9 
+The County has taken steps to reduce development in rural areas. As noted in Chapter 3, in 
+2006, the County reduced residential densities in the Northern and Southern Agricultural 
+Residential zoning districts (NAR and SAR), from one dwelling unit per five acres to one unit 
+per 10 acres in the NAR, and from one dwelling unit per eight acres to one unit per 20 acres 
+in the SAR.  The County also adopted a transfer of development rights (TDR) and a purchase 
+of development rights (PDR) program.  
+This Comprehensive Plan projects that approximately 20 percent of the County’s population 
+growth by 2030 will occur in rural areas (Table 2.1).  This figure represents a reduction in the 
+percentage of growth that would occur in rural areas compared to recent trends.  However, 
+even under this projection, more than 4,500 housing units could be added to rural, non-
+growth areas of the County over the next 20 years.   
+To address the impacts of future development this Comprehensive Plan builds on steps the 
+County has already taken with a series of land use policies including (see Chapter 3 for 
+detail): 
+• 
+Directing most future growth to growth areas. 
+• 
+Facilitating development in growth areas by, for example, creating mixed use zoning 
+districts, and allowing Planned Unit Developments easier to develop in desired locations. 
+• 
+Policies to encourage the provision of infrastructure and incentives that will enable growth 
+areas to develop as attractive, well-designed places to live, work and play.   
+• 
+A growth management policy to ensure that development in rural areas does not exceed 
+a desirable share of overall county development. 
+• 
+Review of the Transfer of Development Rights (TDR) program, including the sending and 
+receiving rates, to incentivize its use to the greatest degree possible. 
+To supplement these policies the following sections discuss Agricultural and Forest Land 
+Intended for Protection and Green Infrastructure. 
+7.3.2 
+Agricultural and Forest Land Intended for Protection 
+In 2000, the Cecil County Board of County Commissioners adopted a farmland preservation 
+goal of 55,000 acres by 2025: 30,000 acres in the Resource Protection district and 25,000 
+acres in the Rural Conservation district.  The 2005 Land Preservation Parks and Recreation 
+Plan (LPPRP) noted that, based on average annual funding of $1.5 million between 2000 and 
+2004, it would take 49 years to achieve the farmland preservation goal, but that based on the 
+rate of farmland loss, some time around 2025 the County would not have a pool of farmland 
+sufficient to meet the goal.  Farmland loss appears to have stabilized somewhat based on the 
+2007 Census of Agriculture (see Table 4.5), giving the County a window to increase 
+preservation efforts.  
+Priority Preservation Area 
+Maryland House Bill 2, passed in 2006, requires counties whose agricultural land 
+preservation program is certified by the State to include a Priority Preservation Element in 
+their Comprehensive Plans.  A Priority Preservation Area (PPA) is an area that: 
+• 
+Contains productive agricultural or forest soils, or is capable of supporting profitable 
+agricultural and forestry enterprises where productive soils are lacking;  
+• 
+Is governed by local policies that stabilize the agricultural and forest land base so that 
+development does not convert or compromise agricultural or forest resources; 
+• 
+Is large enough to support the kind of agricultural operations that the County seeks to 
+preserve; and
+
+<!-- page 142 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+7-10 
+• 
+Is accompanied by the County’s acreage goal for land to be preserved through 
+easements and zoning in the PPA equal to at least 80 percent of the remaining 
+undeveloped areas of land in the area.  
+PPAs can also include forestland being preserved for its environmental values. In these 
+areas the emphasis is on forest conservation rather than forest production7   
+The proposed Cecil County PPA is in three parts; northern rural area, southern rural area, 
+and Elk Neck Peninsula (Map 7.3).  In all, the PPA includes approximately 125,800 acres or 
+57 percent of the County’s land area.  The PPA includes some protected lands but excludes 
+large protected land areas such as Elk Neck State Forest and State Park and Fair Hill8. 
+The land preservation goal within the PPA is approximately 79,000 acres (80 percent of the 
+undeveloped land in the PPA), of which approximately 53,600 acres are not yet protected 
+(Table 7.2).  The PPA contains some developed areas.  Creation of the PPA would not affect 
+these areas, and some additional development would be expected to occur in the PPA, 
+provided it was consistent with the 80 percent preservation goal.   
+The PPA acreage preservation goal is aggressive and exceeds the current County goal of 
+55,000 acres – though that goal relates to agricultural land preservation, whereas the PPA 
+goal is broader, and would include, for example productive forest land.   
+During preparation of the Comprehensive Plan a number of comments were received 
+regarding the size of the PPA and whether certain parts of the County should be included in 
+the PPA.  State certification of the PPA, and any refinement to the area and the acreage 
+preservation goal, would occur when the County applies for recertification of its agricultural 
+land preservation program.   
+ 
+Table 7.2: 
+Priority Preservation Area Goal 
+ 
+ 
+Acres 
+Northern
+Elk Neck
+Southern 
+Total PPA
+1 
+Priority Preservation Area (overall size) 
+56,734 
+10,483 
+58,558 
+125,775 
+2 
+Developed* 
+14,127 
+2,844 
+10,040 
+27,011 
+3 
+Undeveloped (1 minus 2) 
+42,607 
+7,639 
+48,519 
+98,765 
+4 
+Preservation Goal (80% x 3) 
+34,086 
+6,111 
+38,815 
+79,012 
+5 
+Protected Lands ** 
+5,732 
+2,211 
+17,489 
+25,432 
+6 
+Remaining Protection Goal (4-5) 
+28,354 
+3,900 
+21,326 
+53,580 
+*Includes developed land and proposed major subdivisions 
+**Includes easements; state, federal, county owned lands; and common space. The Southern PPA's 
+protected lands total includes the recent 1,003 acre State of Maryland acquisition from the Roman Catholic 
+Clergymen. 
+Source: Cecil County July 10, 2009 
+ 
+ 
+                                                     
+7 Planning Guidance Bulletin, Sensitive Areas Element Volume 1 Number 1, Maryland Dept. of Planning, November 
+2007. 
+8 Comments were made, however, that excluding these areas may have inadvertently also excluded valuable 
+unprotected lands in the vicinity of Fair Hill, for example.
+
+<!-- page 143 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+7-11 
+Map 7.3 
+Priority Preservation Area
+
+<!-- page 144 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+7-12 
+Forests 
+Preserving contiguous forest stands, increasing the amount of forest retention and 
+encouraging reforestation in developed areas can help to maintain forest cover which is 
+important for such ecosystem services as habitat, air quality, water quality and flood control. 
+As part of the Strategic Forest Lands Assessment (SFLA), DNR identified forests in Maryland 
+according to their ecological significance (including impacts on water quality, sensitive 
+species, and other factors), and according to their vulnerability to conversion to non-forest 
+uses.9  Maps 7.4 and 7.5 show the economic ranks and vulnerability and of the County’s 
+forests, according to the SFLA. 
+The County has not adopted a specific numeric goal for forest conservation, though the PPA 
+does include several of the County’s larger forested areas and its acreage goal will include 
+forest land. 
+Much of the high-value, medium-risk forest land in the County is located in the Growth Area. 
+This land, much of which lies between Perryville and North East, needs to be carefully 
+considered in the County’s assessment of its green infrastructure, see next section.   
+Much of the County’s forest has low or medium economic ranks, as well as medium to high 
+risks for conversion to non-forest uses.  Much of the medium value forest land on the Elk 
+Neck Peninsula is in the proposed PPA.  
+Forest Legacy funds are available through the State to identify and protect environmentally 
+important forestlands through the use of perpetual conservation easements between willing 
+sellers and willing buyers.  Approximately 850 acres have been protected using Forest 
+Legacy funds (Table 7.1).   The County should consider creating a county-level forest 
+conservation program that would allow participation by property owners whose parcels are 
+not large enough to qualify for state programs such as the Forestry Stewardship Plan.  A 
+county-level program might only apply where the parcel adjoins an area that is already in 
+Forestry Stewardship, or is in a high priority area, such as the PPA. 
+                                                     
+9 Source: DNR State Forest Lands Assessment, http://www.dnr.state.md.us/forests/conferences/sfla/index.htm 
+Priority preservation areas aim to preserve productive agricultural land.    Photo 
+courtesy of Cecil Soil Magazine.
+
+<!-- page 145 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+7-13 
+Map 7.4 
+Strategic Forest Lands Assessment, Economic Ranking 
+ 
+ 
+Map 7.5 
+Strategic Forest Lands Assessment, Vulnerability Ranking 
+          
+Source: DNR State Forest Lands Assessment,
+
+<!-- page 146 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+7-14 
+7.3.3 
+Green Infrastructure  
+During preparation of the Comprehensive Plan there was considerable discussion regarding 
+“green infrastructure”.  There are a number of different definitions of green infrastructure.  In 
+2006 the County commissioned a Green Infrastructure plan from the Conservation Fund.  
+The resulting Cecil County Green Infrastructure Plan, completed in 2007, defines green 
+infrastructure as: 
+“an interconnected network of natural areas and other open spaces that conserves 
+natural ecosystem values and functions, sustains clean air and water, and provides a 
+wide array of benefits to people and wildlife.”   
+The particular value of green infrastructure as a concept is that it looks at natural resources at 
+the big picture landscape level, considering the values of and interconnections between 
+natural areas across watersheds and other boundaries. The purpose of the Green 
+Infrastructure Plan was to identify and protect the County’s critical green infrastructure. 
+The Green Infrastructure Plan was presented to the Board of County Commissioners but the 
+Board did not formally adopt it as County policy.  The plan includes a green infrastructure hub 
+and corridor network, a water quality analysis, identification of ecosystem services provided 
+by the green infrastructure network, and implementation recommendations (Figure 7.1).  The 
+hub and corridor network updates for Cecil County, a statewide network first identified by the 
+Maryland Department of Natural Resources in 2000, and which was incorporated into the 
+2005 LPPRP.  
+The Green Infrastructure Plan identifies the County’s largest green infrastructure hubs as on 
+the Elk Neck peninsula (including Elk Neck State Park, Elk Neck State Forest, and Plum 
+Creek Natural Heritage Area), along the Northeast River, west and north of Charlestown, Fair 
+Hill, and along the larger streams (for example, Octoraro Creek, Northeast Creek, Bohemia 
+River, and Sassafras River).  The plan also identifies “gaps” in the green infrastructure 
+network for land that is in development, agriculture, or is barren. 
+Figure 7.1  Hubs and corridors
+
+<!-- page 147 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+7-15 
+Several COC subcommittees discussed green infrastructure in detail and made many 
+recommendations for consideration in the Comprehensive Plan including adopting the Green 
+Infrastructure Plan, protecting green infrastructure wildlife corridors, creating a “natural 
+resources district” to apply to priority natural resource areas, and identifying and designating 
+“restoration focus watersheds” where water quality enhancement would be encouraged.  
+Significant potential conflicts exist between these recommendations and the 
+recommendations for growth and development in Growth Areas, and, possibly, the 
+recommendations for the agricultural industry in rural areas.  There was consensus among 
+the COC about the need to protect sensitive areas throughout the County, including in 
+Growth Areas.  However, there were different opinions concerning what lands should be 
+considered sensitive, the extent to which they were already protected by federal, state or 
+local regulation, what the objectives of a County-approved Green Infrastructure Plan should 
+be, and what additional measures or protections need to be put in place to achieve these 
+objectives.  
+Therefore, further discussion and evaluation will be needed, potentially through a broad-
+based committee that would study and evaluate the Green Infrastructure Plan’s 
+recommendations in relation to this Comprehensive Plan and identify steps the County can 
+take to implement a green infrastructure plan in ways that will support and not conflict with 
+the Comprehensive Plan’s other goals, objectives, policies, and actions.  
+Watershed planning 
+Watershed planning is closely related to green infrastructure in that it is focused on water 
+quality which is one of the many ecosystem services provided by a green infrastructure 
+network.  Indeed the Green Infrastructure Plan identified conservation focus watersheds and 
+restoration focus watersheds based on different criteria.  Chapter 6 of this Comprehensive 
+Plan discusses watershed planning in the context of water resources.   
+The committee recommended to evaluate the Green Infrastructure Plan should also consider 
+watershed-based planning considerations into its evaluation.  For example, the County 
+should consider ways to track and monitor natural resource areas in a form of clearinghouse 
+along with the data sources described in Chapter 6 (water resources).  This information 
+would support the County’s land use and sensitive areas goals, help inform land use 
+decisions, and target areas for restoration and/or additional protection.  Controlling the 
+spread of invasive species in forested and reforested areas and the need to encourage the 
+use of native plant species in landscaping plans submitted as part of development plans were 
+brought up as specific concerns during preparation of the Comprehensive Plan. 
+7.3.4 
+Wetlands 
+As noted above (section 7.2.3) the County Zoning Ordinance currently requires a 25-foot 
+setback from non-tidal wetlands.  This Comprehensive Plan recommends that additional 
+analysis be performed to study in detail the benefits of expanding the non-tidal wetland 
+buffer.  
+Wetland buffers protect the water quality of wetlands by preventing the buffer area from 
+serving as a source of pollution, as well as by processing pollutants that flow from upland 
+areas.  Vegetation and deep permeable soils in the buffer slow down surface flow, allow for 
+infiltration before runoff reaches wetlands, and inhibit the formation of channelized flow, 
+improving removal of sediments and nutrients.  Wetlands also provide habitat for many plant 
+and animal species. 
+Depending on site conditions, much of the sediment and nutrient removal may occur within 
+the first 15 to 30 feet of the buffer, but buffers wider than 30 feet remove pollutants more 
+consistently.  Larger buffers are more effective over the long run because buffers can 
+become saturated with sediments and nutrients, gradually reducing their effectiveness, and 
+because it is much harder to maintain the long-term integrity of small buffers.
+
+<!-- page 148 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+7-16 
+Non-tidal wetlands are extensive in Cecil County.  This Comprehensive Plan recommends 
+that additional analysis be performed to study in detail the benefits of expanding the non-tidal 
+wetland buffer.  
+7.3.5 
+Other Regulations 
+During preparation of the Comprehensive Plan a number of recommendations were made to 
+improve the protection of sensitive areas at the site specific level and the connections 
+between sensitive areas on adjacent sites.  These included: 
+• 
+Increase percentage of forest retention, afforestation and reforestation for different types 
+of development 
+• 
+Consider requiring that forest stand delineations evaluate adjoining land parcels to 
+preserve contiguous forest stands. 
+• 
+Maintain large areas of contiguous habitat to avoid fragmentation of these areas. 
+• 
+As land is subdivided ensure the subdivision regulations preserve useful and sustainable 
+open spaces.   
+• 
+Ownership and management by third parties of large open space areas set aside during 
+the development process in order to better protect and manage these areas for natural 
+resource purposes. 
+These recommendations should be considered as part of the development regulations 
+update which will occur after adoption of the Comprehensive Plan.  
+7.4 
+Policies and Actions  
+Priority Preservation Area 
+1. Refine the Priority Preservation Area map and acreage goals as part of the recertification 
+of the County’s agricultural land preservation program 
+2. Review the Transfer of Development Rights program (see Chapter 3).  Aggressive use of 
+the TDR program will be critical to preserving the PPA especially in the Rural 
+Conservation area, which has less protective zoning than the Resource Protection area.   
+3. Continue to participate in land preservation programs including the Maryland Agricultural 
+Land Preservation Foundation, Program Open Space, Rural Legacy, and Forest Legacy, 
+and with land trusts and other land preservation organizations. 
+4. Continue to fund the County’s Purchase of Development Rights (PDR) program and seek 
+to increase funding.  
+In 2009, the General Assembly enacted the Smart Growth Goals, Measures, and 
+Indicators and Implementation of Planning Visions Act requiring local planning 
+commissions to submit annual reports that include specific smart growth measures and 
+indicators.  One of the measures is the number of acres preserved using local agricultural 
+land preservation funding.   
+5. Consider other types of land preservation including PDR by parties other than the county 
+or state, and cluster subdivisions with a high open space preservation requirement 
+(higher than the current 60 percent requirement in the NAR and SAR zoning districts).  
+Green Infrastructure/ Watershed Planning 
+6. Consider appointing a broad-based Committee to i) study and evaluate the 2007 Green 
+Infrastructure Plan’s recommendations in relation to the newly adopted Comprehensive 
+Plan and ii) identify steps the County can take to implement a green infrastructure plan in 
+ways that will support and not conflict with the Comprehensive Plan’s other goals, 
+objectives, policies, and actions. 
+7. Incorporate watershed-based planning into the County’s comprehensive planning 
+program (see Chapter 6).  Develop the capacity to track and monitor natural resources
+
+<!-- page 149 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+7-17 
+areas in a way that informs land use decisions with natural resource and renewable 
+resource-based industry priorities, and targets areas for restoration and/or additional 
+protection. 
+Other 
+8. Perform additional analysis to study in detail the benefits of expanding the non-tidal 
+wetland buffer.  
+9. Review other environmental standards, such a forest conservation and habitat protection, 
+as part of the development regulations update which will occur after adoption of the 
+Comprehensive Plan (see section 7.3.5).  
+10. Consider creating a county-level forest conservation program that would allow 
+participation by property owners whose parcels are not large enough to qualify for under 
+state programs.  A county-level program might only apply where the parcel adjoins an 
+area that is already protected, or is in a high priority area, such as the PPA.
+
+<!-- page 150 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+8-1 
+Bayview Elementary School in North East 
+8 
+Community Facilities 
+This chapter describes community facilities and services in Cecil County, including 
+educational facilities, public safety (police, fire and emergency services), solid waste, health 
+care, and arts and culture.  Parks and recreation facilities also are addressed in the 2005 
+Cecil County Land Preservation, Parks and Recreation Plan (LPPRP), which is incorporated 
+by reference into this Comprehensive Plan. 
+8.1 
+Goals and Objectives  
+The following goals and objectives apply to all community facilities: 
+• 
+Provide facilities and services to support growth and community needs, particularly in 
+growth areas, but also in rural areas.  
+• 
+Locate new facilities in or convenient to existing population centers and growth areas. 
+• 
+Establish funding and growth management mechanisms to ensure facilities are provided 
+concurrent with growth and demand. 
+• 
+Incorporate energy efficiency components in the design and construction of public 
+facilities. 
+8.2 
+Primary and Secondary Education 
+8.2.1 
+Organization 
+Cecil County Public Schools (CCPS) is the County’s public school system.  The Cecil County 
+Board of Education consists of seven elected members and is responsible for the: 
+• 
+establishment of public schools;  
+• 
+delineation of geographical 
+attendance areas; 
+• 
+reception and administration of 
+funds; 
+• 
+acquisition of sites and the 
+construction of school buildings; 
+• 
+appointment and compensation of 
+school employees; 
+• 
+prescription of curriculum guides and 
+programs of instruction; and  
+• 
+establishment of local school policy. 
+8.2.2 
+Facilities 
+Cecil County has 28 schools with a total enrollment of 16,128 as of the 2008-09 school year, 
+including 17 elementary schools (serving kindergarten through fifth grade), six middle schools 
+(grades 6-8), and five high schools (Map 8.1).  Facilities include 39 buildings and 60 
+relocatable classrooms with more than two million square feet of building space. The average 
+age of buildings is 50 years and most schools are considered to be in “good” or better 
+condition.
+1  
+As of the 2008-09 school year, nine schools were over capacity (Calvert Elementary, 
+Conowingo Elementary, Gilpin Manor Elementary, Kenmore Elementary, North East Middle, 
+Bohemia Manor High, North East High, and Rising Sun High).  CCPS has an overall school 
+utilization rate of 92 percent. 
+                                                     
+1 Cecil County Public Schools 2010 Educational Facilities Master Plan
+
+<!-- page 151 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+8-2 
+Programs for students with disabilities are available as needs dictate.  Six elementary 
+schools offer programs supported by Title I funds. These funds are allocated based on the 
+percent of poverty as determined by the number of students receiving free or reduced price 
+meals. Pre-kindergarten programs for 4-year-olds operate at 13 elementary schools.  
+Additional educational facilities include the Cecil County School of Technology and the 
+Providence School.  The Cecil County School of Technology is a specialized trade school 
+that includes programs in carpentry, allied health, culinary arts, webmaster technology, and 
+automotive technology, among others, for 11th and 12th grade students who attend for part 
+of the school day. The Providence School offers an alternative training program for at-risk 
+children and other students who have been removed from their home schools due to 
+behavioral problems and who will eventually transition back to regular middle and high school 
+classes. 
+Figure 8.1 shows elementary and middle schools and what percentage of student enrollment 
+feeds into high schools. 
+8.2.3 
+Enrollment Projections and Facility Needs 
+Enrollment Projections 
+CCPS prepares an Educational Facilities Master Plan that identifies the facility improvements 
+needed to support projected enrollment increases and addresses other facility needs.  The 
+ten-year plan is updated every year.  The most recent plan looks at facility needs to the year 
+2019 based on the enrollment projections for that school year. 
+Public school enrollment in Cecil County has grown about one percent per year for many 
+years, and this trend is expected to continue through 2019.  CCPS projects enrollment is 
+projected to increase by 12 percent between 2008-09 and 2018-19, to 18,069 students 
+(Table 8.1), or a little more than one percent per year.  The largest percentage increase 
+would occur at the elementary level (15 percent).  Enrollment also is projected to increase 
+nine percent at the middle schools and eight percent at the high schools. 
+To quantify the impact of the County’s projected growth on CCPS to the horizon of this 
+Comprehensive Plan, staff worked with CCPS to project school enrollment to 2030 using a 
+statewide model.  This projection estimates that CCPS will have an enrollment of 22,570 
+students in 2030, an increase of approximately 6,400 students, or 40 percent over current 
+enrollment, a significant increase over CCPS’ current projections (Table 8.1).  
+Table 8.1: 
+Cecil County School Capacity and Enrollment  
+  
+Schools 
+Capacity2 
+Enrollment 
+  
+Number1 
+Current3 
+Planned4
+Current
+Projected 
+ Year 
+2009 
+2008-09 
+2018-19
+2008-095
+2018-196
+% Change 
+2009-2019 
+2029-307 
+% Change 
+2009-2030 
+Elementary 
+17 
+8,112 
+8,112
+7,518 
+8,644 
+15% 
+10,510 
+39%
+Middle 
+6 
+4,478 
+5,178
+3,656 
+4,001 
+9% 
+5,110 
+40%
+High 
+5 
+4,879 
+5,719
+5,044 
+5,444 
+8% 
+6,950 
+42%
+Total 
+28 
+17,469 
+19,009
+16,218
+18,089 
+12% 
+22,570 
+40%
+1 Number equals the total number of CCPS schools operating in 2008-09. 
+2 Capacity equals the total state rated capacity of all schools in CCPS.  
+3 Current capacity is the total state rated capacity of all 28 CCPS schools in 2009. 
+4 Planned capacity equals the 2009 capacity plus the CTE High School and one additional middle school of 700 students. 
+5 Current enrollment is the count as of September 2008. 
+6 Projected enrollment is the official CCPS projection for 2018-19 as identified in the FY 2010 Educational Facilities Master 
+Plan. 
+7 Projected enrollment in 2030 was calculated by ERM based on the Comprehensive Plan’s population projections for 2030 
+and the State of Maryland’s long-range model for projecting school enrollment. 
+Sources: ERM, Cecil County Public Schools
+
+<!-- page 152 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+8-3 
+Figure 8.1: 
+CCPS Feeder System 
+Cherry Hill Middle
+54%
+Elkton Middle
+100%
+Cecil Manor Elem.
+81%
+Gilpin Manor Elem.
+100%
+Kenmore Elem.
+100%
+Holly Hall Elem.
+44%
+Leeds Elem.
+79%
+Thomson Estates Elem.
+100%
+Cecil Manor
+19%
+Elkton High
+ 
+Cherry Hill Middle
+27%
+Rising Sun Middle
+100%
+Cecil Manor Elem.
+81%
+Calvert Elem.
+100%
+Kenmore Elem.
+100%
+Conowingo Elem.
+58%
+Leeds Elem.
+79%
+Leeds Elem.
+6%
+Rising Sun Elem.
+100%
+Rising Sun High
+     
+Cherry Hill Middle
+19%
+North East Middle
+100%
+Cecil Manor Elem.
+81%
+Bay View Elem.
+100%
+Kenmore Elem.
+100%
+Elk Neck Elem.
+100%
+Leeds Elem.
+79%
+Leeds Elem.
+15%
+North East Elem.
+100%
+North East High
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Cecil County Public Schools Educational Facilities Master Plan 
+ 
+Bo Manor Middle
+100%
+Cecilton Elem.
+100%
+Chesapeake City Elem.
+100%
+Holly Hall Elem.
+56%
+Bohemia Manor High
+Perryville Middle
+100%
+Bainbridge Elem.
+100%
+Conowingo
+42%
+Perryville Elem.
+100%
+Charlestown
+100%
+Perryville High
+
+<!-- page 153 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+8-4 
+Map 8.1 
+Educational Facilities
+
+<!-- page 154 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+8-5 
+Facility Needs 
+The 2010 Educational Facilities Master Plan includes two projects that would increase CCPS’ 
+capacity: the Comprehensive Career and Technology (CTE) High School, scheduled to open 
+in 2013 with a programmed enrollment of 940 students, and a new middle school scheduled 
+to open in 2015 to address facility and growth needs at Bohemia Manor Middle and High 
+School.  CCPS’s policy is for new middle schools to accommodate up to 700 students.  
+These projects would increase the County’s inventory to 30 schools and total enrollment 
+capacity to 19,009 students (Table 8.2). With these planned improvements, CCPS’s schools 
+would have an overall utilization rate of 95 percent in 2018-19 (based on a capacity of 19,009 
+and a projected enrollment of 18,089).   
+The projected enrollment in 2030 is about 3,600 students above CCPS’ planned 2019 
+capacity of 19,009, including about 2,400 at the elementary grades and 1,200 at the high 
+schools (Table 8.2).  Of the enrollment growth projected between 2008 and 2030 
+(approximately 6,400 additional students), almost 70 percent is projected to occur between 
+2019 and 2030.   
+Table 8.2: 
+Future School Needs, 2030 
+Grade Level/Year 
+Maximum
+School Size 
+(CCPS policy) 
+Planned 
+Capacity 
+Projected 
+Enrollment 
+Additional 
+Capacity  
+Needed 
+Schools 
+Needed 
+ 
+2019 
+2030 
+2030 
+2030 
+Elementary 
+600 
+8,112 
+10,510 
+2,398 
+4 
+Middle 
+700 
+5,178 
+5,110 
+-68 
+0 
+High 
+1,200 
+5,719 
+6,950 
+1,231 
+1 
+Total 
+19,009
+22,570
+3,561 
+5 
+Source: Cecil County Public Schools 
+Based on CCPS new school sizes of 600 students per elementary school, 700 per middle 
+school and 1,200 at the high school level, Cecil County would need four elementary schools 
+and one high school by 2030, in addition to the two schools already planned. This level of 
+growth and amount of construction would be almost unprecedented in Cecil County, which 
+has not built more than four schools in a decade since the 1950s.   
+Because enrollment projections and facility needs are updated every year, CCPS will be able 
+to track growth closely and plan for facility improvements.  As concept subdivisions are 
+presented to the County for approval, CCPS should review the capacities of schools that 
+would affected by the development.  If the schools will be over capacity when the 
+development will occur (taking into account new or renovation/addition projects in the Capital 
+Improvement Plan), then CCPS should work with the County on measures to provide the 
+necessary capacity.   
+Although exact locations have not been identified, the four elementary schools needed by 
+2030 likely would be needed in the Elkton area south of US 40, in or around Perryville and 
+Port Deposit, and between Elkton and North East.  . 
+Funding 
+With an average current cost of $20 million per elementary school and $60 million per high 
+school, funding five schools will be challenging.  In Maryland, state and local governments 
+share the responsibility of planning and funding school construction.  Projects funded with 
+state resources require that local governments and school districts justify the need for new 
+buildings and expansions based upon projections using three-year enrollment averages and 
+local birth rates.  Anticipated residential growth alone is not a justification for state funding.  
+The State allocates construction funds based on need, and projects must compete statewide 
+for funding.  The funding process can take about four years from concept through 
+construction.
+
+<!-- page 155 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+8-6 
+Cecil College is the fastest growing community college in Maryland.  The main campus, shown left, is in North 
+East and there is a satellite campus in Elkton, shown to the  right. 
+Local governments in Maryland typically fund the local costs of school construction through 
+the sale of bonds.  Jurisdictions can opt to pay for school construction projects without or in 
+anticipation of state support.  This approach, known as “front funding,” can accelerate the 
+school construction process and is most often used during periods of rapid growth.  If growth 
+occurs as rapidly as projected, Cecil County will need to consider this approach, as well as 
+other funding mechanisms, to support the construction of school facilities in a timely manner 
+(see also, Chapter 11, Implementation). 
+8.3 
+Higher Education 
+Cecil College is the only higher education facility in Cecil County, offering two-year associate 
+degrees and providing opportunities for students to earn credits for transfer to four-year 
+colleges.   
+Cecil College is the fastest growing community college in Maryland.  Enrollment of credit 
+students grew more than 20 percent between 2005 and 2009, to 3,175 (Table 8.3), and has 
+more than doubled since 2000.  In addition, the college had 4,700 non-credit students in 2009 
+in workforce training, certification and personal enrichment programs. 
+Table 8.3: 
+Cecil College Enrollment, 2005-09 
+  
+2005
+2006
+2007
+2008
+2009
+Credit Students 
+2,630
+2,669
+2,737
+2,956
+3,175
+Non-Credit Students 
+5,368
+5,371
+5,265
+4,661
+4,700
+Total 
+7,998
+8,040
+8,002
+7,617
+7,875
+Source: Cecil College; 2009 FY figures are projected 
+ 
+Cecil College has created partnerships with seven universities, arrangements that offer 
+students the opportunity to complete baccalaureate degrees.  Students can transfer credits to 
+these universities and attend classes on these campuses in some cases.   
+Partnerships have been established with Drexel University (for nursing), Salisbury University 
+(social work), the University of Maryland-Baltimore County (biotechnology), University of 
+Delaware (nursing), University of Maryland-Baltimore (dental hygiene), University of 
+Wisconsin-Green Bay (nursing) and Wilmington University (leadership and management). 
+The College is developing additional partnerships with Drexel University (engineering) and 
+Wilmington University (teacher education), as well as Arcadia University (physician 
+assistant), Johns Hopkins University (business administration) and Lakeland Community 
+College (nuclear engineering technician).  These partnerships expand the number of degree 
+choices students have to complete their studies while maintaining their residence within the 
+county.
+
+<!-- page 156 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+8-7 
+There are approximately 1,500 acres of park and 
+recreation land in Cecil County, including 
+Perryville Community Park, shown here.  
+Cecil College is based in North East.  Existing campus facilities include the Community 
+Cultural Center (library wing), Community Cultural Center (theatre wing), Arts and Sciences 
+Building, Technology Center, and the Physical Education and Activities Building.  
+The College developed Elkton Station in downtown Elkton in 2005 to replace a former facility 
+on Railroad Avenue in the town.  The 52,000-square foot facility provides continuing 
+education and credit course offerings and partners with area businesses and the Cecil 
+County Public Schools on other programs. 
+The College plans to continue to expand enrollment at its campuses in North East, Elkton 
+and add a future facility on 10 acres at Bainbridge in Port Deposit.   At the North East campus 
+construction of a new physical education complex is underway and an engineering and math 
+building is in design.  Other proposed projects include:  
+• 
+Community Cultural Center Theatre 
+Wing Addition 
+• 
+Student Center 
+• 
+Academic Building 
+• 
+Conference Center 
+• 
+Day Care Center 
+• 
+Facilities Management and Receiving 
+Building  
+• 
+Concessions Building.  
+• 
+Future Parking Deck/Covered Entry to 
+Theatre 
+• 
+Future “Student Village” 
+8.4 
+Parks and Recreation  
+As of 2005, Cecil County had approximately 1,500 acres of park and recreation land, and 
+open space, including land owned and managed by the Cecil County Public Schools and the 
+eight incorporated towns. This acreage includes 16 community parks, 14 mini-parks, 8 sports 
+complexes, 7 special use areas and 9 undeveloped parks.  
+The State of Maryland manages nearly 5,800 acres of recreation land at Elk Neck State Park, 
+Elk Neck State Forest and Susquehanna State Park.  Fair Hill, also State-owned, with 5,600 
+acres, is classified as a Natural Resources Management Area and provides extensive 
+passive recreation opportunities.  The County also includes more than 2,800 acres of federal 
+land, including approximately 500 acres of managed hunting areas.  Other federal land 
+serves as dredge disposal sites and wildlife management areas.  
+The Land Preservation, Parks and 
+Recreation Plan (LPPRP), updated 
+every six years, is the County’s detailed 
+policy plan for parks, recreation, and 
+land preservation.  The 2005 LPPRP 
+included an analysis that evaluated the 
+supply of recreation facilities against 
+current demand.  The analysis found 
+sizable deficits for several types of 
+recreational facilities, including 
+baseball/softball diamonds, indoor 
+basketball courts, multipurpose fields 
+for team sports, hiker/biker trails, and 
+recreational fishing opportunities.   
+The plan also looked at how park and 
+recreation needs were distributed.  The 
+demand for recreational land was found 
+to be highest in the North East, Elkton 
+and Rising Sun areas.
+
+<!-- page 157 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+8-8 
+Highlights of the long-range park acquisition and development program in the LPPRP 
+include: 
+ 
+• 
+Acquisition of 250 to 410 acres of park and recreation lands. 
+• 
+Development of a regional park of 100 to 200 acres in the I-95/US 40 corridor. 
+• 
+Development of a community park between 75 to 100 acres in the Town of Elkton or in 
+the Elkton/Fair Hill area. 
+• 
+Building an indoor sports complex or recreation center in Elkton. 
+• 
+Developing two community parks of approximately 25 to 50 acres in the Rising Sun and 
+North East areas. 
+• 
+Creating additional access points to the Chesapeake Bay and other water bodies. 
+ 
+The LPPRP recommends that the County consider expanding its role in funding for recreation 
+and parks.  The County relies on the state’s Program Open Space (POS) program for most 
+recreational facilities.  As POS funding has declined, other options will be needed to develop 
+these facilities. 
+The County has begun an update of the LPPRP that is expected to be complete in 2010. 
+8.5 
+Cultural Facilities 
+Cultural facilities and programs are important contributors to quality of life in a community 
+and, as such, can influence residential and business locational decisions.  
+Cecil County is home to a number of cultural facilities, organizations, resources and 
+attractions. The Community Cultural Center at Cecil College is the leading performing arts 
+theater in northeast Maryland, featuring programs in theater, music, dance and art.   
+Cultural attractions include a summer concert series along the banks of the Chesapeake and 
+Delaware Canal, the annual county fair, the Cecil County Farm Museum, the Historical 
+Society of Cecil County, and more than 14 art galleries.  The county also has many 
+restaurants and lodging facilities, including waterfront dining, country inns, authentic crab 
+houses, and family fare.  
+The Cecil County Arts Council (CCAC) serves as a local clearinghouse for information on the 
+arts. The CCAC is a non-profit organization that offers exhibitions, art education workshops, 
+musical performances, literary arts programs, and special events to the community.  CCAC 
+awards scholarships to students pursuing degrees in the arts and grants to local non-profit 
+organizations and schools presenting art programs. The CCAC is funded, in part, by the 
+Maryland State Arts Council and Cecil County government. 
+8.6 
+Fire, Rescue, and Emergency Medical Services  
+8.6.1 
+Existing Services and Staffing 
+Fire and rescue services in Cecil County are provided through nine volunteer fire companies 
+and one career company (Map 8.2).  Cecilton, Chesapeake City, Elkton (Singerly), North 
+East, Charlestown, Perryville, Port Deposit (Water Witch), Rising Sun (Community Fire 
+Company), and Hack’s Point have volunteer fire companies.  The only career fire company is 
+at the Perry Point VA Medical center in Perryville. 
+The volunteer companies operate 18 stations throughout the County.  Each fire company has 
+a defined first response area.  Extensive mutual aid agreements among the companies and 
+fire companies in adjacent counties and states provide additional resources when an incident 
+exceeds local capabilities 
+Emergency Medical services (EMS) are provided through a partnership between the 
+volunteer fire companies and Cecil County Department of Emergency Services (CCDES, 
+formerly known as Emergency Management and Civil Defense).  CCDES is the agency
+
+<!-- page 158 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+8-9 
+Perryville Fire Company building on MD 222 near I-95 
+responsible for 911 PSAP, the emergency medical services system, emergency 
+management, hazardous material response, electronic services, and training and education.   
+CCDES personnel are responsible for training, coordination, and response of all County 
+emergency operations center staff.  The director of emergency services serves as the sworn 
+emergency manager and staffs the division with a full time emergency readiness manager 
+and a part-time emergency planner.  
+Each of the volunteer companies provides EMS services for their first response areas, while 
+CCDES operates thee paramedic stations.  Some volunteer companies estimate a ratio of 
+one EMS call for every 10 residents, and EMS calls account for more than 75 percent of all 
+calls for most volunteer companies.  The majority of these calls occur in the daytime, when 
+volunteer availability is at its lowest. 
+CCDES has established three strategically located paramedic stations near Rising Sun, 
+between Elkton and North East, and near Chesapeake City.  A CCDES paramedic unit is 
+dispatched on every EMS call in the county.  Depending upon the situation, the paramedic 
+unit may be cancelled if the volunteer ambulance is closer and fully staffed.  The unit may 
+respond to the scene to provide assistance, or the paramedic unit may supplement the 
+volunteer ambulance crew. 
+Staffing needs vary significantly among the nine volunteer companies because of different 
+first response area populations and call volumes.  Volunteers have significant training 
+requirement.  Two volunteer companies have hired personnel to supplement volunteers.  The 
+others continue to operate with volunteers only, but increasing daytime incidents strain their 
+ability to respond promptly.   
+Areas without water service rely on tanker trucks from volunteer companies for suppression 
+in place where holding tanks and dry hydrants have not been installed.  The water carried by 
+tanker trucks often runs out before a fire is controlled.  Although installation of tanks and 
+hydrants is not required, the Planning Commission often recommends that infrastructure be 
+installed as a condition of approval during the development process.  Encouraging the further 
+development of this infrastructure would improve fire protection in rural areas.
+
+<!-- page 159 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+8-10 
+Map 8.2 
+Community Facilities
+
+<!-- page 160 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+8-11 
+8.6.2 
+Funding 
+The costs of providing fire, rescue, and emergency medical services are significant.  
+Equipment, fuel and insurance account for much of the costs, which have been rising 
+steadily.  Fundraising requirements are a major strain on the volunteer fire service.   
+In 2006, the Cecil County Board of Commissioners established the Apparatus Replacement 
+Fund, wherein the County makes $1 million available annually to replace fire and EMS 
+equipment. This program has been successful but has not met all of the need.  Equipment 
+due to be replaced or scheduled for replacement in fiscal year 2010, for example, exceeded 
+funding by 150 percent. 
+Cecil County funds several fire and EMS programs, including workers’ compensation 
+insurance.  Although these costs are significant, they are less than what the County would 
+face with a career department.  On average, more than 85 percent of the cost of a career fire 
+department is personnel related.
+2 Other than workers compensation and a recognition 
+program, the county has no personnel costs and thus enjoys a significant savings compared 
+to the cost of a career fire department. 
+8.6.3 
+Facility Needs  
+Cecil County is developing a long-range EMS plan to address the County’s needs over the 
+next 10 years.  Potential projects include a new EMS station in the Perryville area, replacing 
+the North East station with a site on the Cecil College campus, expanding the 911 call center, 
+and establishing an EMS headquarters which would also expand paramedic career 
+advancement and recruitment opportunities. 
+Several of the fire stations and medic units are in need of renovations and/or expansion.  
+Population growth will influence the location of future stations, and the need for expanded 
+service will be centered in growth areas.  As of 2010, eight of the 18 fire stations and two of 
+the medic units are located in the Designated Growth Area.  Concentrating growth in the 
+Elkton West area will increase the demand for fire and EMS service in this area.   
+8.6.4 
+Emergency Services 
+CCDES has a primary focus on programming and planning initiatives to increase the 
+County’s response effectiveness through the four phases of disaster: mitigation, 
+preparedness, response, and recovery. This agency has developed plans addressing the 
+response to various types of emergencies in the county.  Practice drills (mock events) are 
+conducted regularly throughout the year in conjunction with state and federal emergency 
+response agencies.   
+CCDES is responsible for the following plans: 
+• 
+Hazard Mitigation Plan 
+• 
+Hazard Mitigation/Hazard Vulnerability 
+Analysis 
+• 
+Emergency Operations Plan 
+• 
+Radiological Response Plan 
+• 
+County-wide Continuity of Operations 
+Plan 
+• 
+Various other hazard-specific plans 
+• 
+Division Standard Operating 
+Procedures 
+ 
+Based on a 2009 Hazard Vulnerability Analysis, the relative hazard risks for Cecil County are 
+shown on Table 8.4.  CCDES is responsible for planning for each type of emergency and 
+coordinating large-scale response efforts through the emergency operations center.  The 
+agency also offers training and full-scale exercise opportunities to all County emergency 
+responders.  
+                                                     
+2 Research conducted by COC Public Services Subcommittee.
+
+<!-- page 161 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+8-12 
+Table 8.4: 
+County Hazard Risks 
+High 
+Medium-High 
+Medium 
+Medium-Low 
+• Winter weather 
+• Flooding 
+• High wind 
+• Thunderstorms 
+• Tornado 
+• Soil movement 
+• Hazardous Materials 
+• Drought 
+• Hurricanes 
+• Wildfires 
+• Epidemics 
+• Dam failure 
+• 
+Heat related issues  
+• 
+Other transportation related issues 
+• 
+Fire/explosion 
+8.7 
+Law Enforcement (Police) 
+8.7.1 
+Responsibilities, Facilities and Staffing 
+Law enforcement services in Cecil County are provided by local municipalities in Elkton, 
+North East, Perryville, Port Deposit and Rising Sun.  In addition, the Cecil County Sheriff’s 
+Office and Maryland State Police provide a variety of essential services throughout the 
+County and in support of the local municipalities. 
+Collectively these law enforcement agencies provide services in the areas of traffic control 
+and enforcement, crime prevention and investigation, court room security, and educational 
+and support programs that benefit the community at large. 
+The Cecil County Sheriff’s Office Law Enforcement Division is headquartered on Chesapeake 
+Boulevard in Elkton.  Programs administered by the Sheriff’s Office include: 
+• 
+Deputies in School 
+• 
+DARE 
+• 
+Are You Okay? (serving the senior population) 
+• 
+Court Room Security 
+• 
+Child Sex Abuse Investigation and Registration 
+• 
+Drug Task Force 
+• 
+Warrant Unit 
+• 
+911 Calls for Service 
+• 
+Patrol  Services 
+• 
+Criminal Investigations 
+• 
+Traffic Control and Accident Investigation 
+• 
+Civil Process Unit 
+• 
+K-9 Patrol Unit 
+ 
+The Maryland State Police have two barracks located in Cecil County.  Barrack F is located 
+at US 40 and MD 272 in North East.  Barrack M is located along I 95 north of Perryville.  In 
+addition to their state duties, State Police supplement local law enforcement programs and 
+services.   
+The Maryland Transportation Authority Police provide security and law-enforcement services 
+at the Thomas J. Hatem Memorial Bridge (US 40 across the Susquehanna River). The 
+Maryland State Police, under contract with the Authority, provide law-enforcement services 
+along I-95. 
+Correctional Center 
+The Cecil County Correctional Center is located on Landing Lane in Elkton.  The Sheriff is 
+responsible for the management of the Correctional Center, which includes a Detention 
+Center and a Community Corrections Center.   
+Persons held at the Detention Center are awaiting trial or have been convicted of a crime and 
+may serve a sentence of up to 18 months.  The Detention Center is a medium- to maximum-
+security facility.   
+The Community Corrections Center is a minimum security facility.  The purpose of the center 
+is to house and rehabilitate individuals who have been convicted of a crime but, in the 
+judgment of the court and corrections officials, are able to participate in community activities 
+such as employment and rehabilitation activities without posing a substantial danger to the
+
+<!-- page 162 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+8-13 
+community.  As such, the Community Corrections Center serves the courts as a sentencing 
+alternative to confinement in the Detention Center.   
+The Correctional Center was built in 1983.  It was designed to house 70 inmates in the 
+Detention Center and 32 inmates in the Community Corrections Center.  Shortly after 
+construction, legislative initiatives authorized double bunking and the center’s operational 
+capacity increased from 102 to 204 inmates.  In 2009, the combined average daily population 
+of the Detention Center and the Community Corrections Center was 250.    
+In 2005, the Sheriff’s Office in cooperation with the Board of County Commissioners 
+developed a master plan to identify the county’s correctional needs through the year 2030.  
+The Needs Assessment Study and Master Plan recommended renovation and expansion.  In 
+cooperation with the State of Maryland, funding for the project was approved and 
+construction is scheduled for completion in December 2011.  The expansion and renovation 
+project will result in the build-out of the Elkton site.  Further expansion would require land 
+acquisition at another location. 
+Juvenile Services 
+Juvenile Services of Cecil County supervises approximately 160 youth per month and 
+receives an average of 65 referrals from law enforcement.  The office includes a director, 
+supervisor, case managers, and a family intervention specialist.  The office moved to the 
+Elktowne Centre in Elkton in 2006, and the space is considered sufficient to meet the existing 
+demand.   
+8.7.2 
+Facility and Program Needs 
+The County’s projected growth will expand the need for law enforcement and correctional 
+facilities. These needs include: 
+• 
+A Central Booking Center serving the Sheriff’s Office and municipal police departments 
+operating 24 hours a day and seven days a week. 
+• 
+The potential need to acquire a site for the further expansion of the Correctional Center.  
+This issue should be considered during the next Comprehensive Plan process to 
+determine if and when such an expansion would be needed and where the facility should 
+be located. 
+• 
+Expanding minimum security and alternative programs such as work release, adult drug 
+treatment court, community service, home detention, pre-trial services, and inter-agency 
+program development will help to reduce the need for confinement at the Detention 
+Center. 
+• 
+Identifying the need and funding for law enforcement substations near Chesapeake City, 
+Cecilton, Rising Sun and Conowingo to supplement facilities in the growth corridor. 
+• 
+Support the need to invest more money in technology to deliver efficient and effective 
+public safety services. 
+• 
+Develop a comprehensive Public Safety Master Plan. 
+8.8 
+Information Technology  
+The Cecil County Department of Information Technology manages the County’s computer 
+and information systems. The department’s most recent five-year plan covers fiscal years 
+2008 through 2012 and includes several key action items: 
+• 
+Disaster Recovery and Emergency Preparedness: Continue efforts to provide the ability 
+to recover information in the event of a disaster or major accident. 
+• 
+Focus on Energy Consumption: Continue to make energy saving recommendations that 
+reduce the power cost to Cecil County government.  Design and install all information 
+technology architecture with low energy considerations.
+
+<!-- page 163 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+8-14 
+• 
+Broadband Solutions: As broadband service expands, negotiate blanket contracts with 
+providers to allow for high-speed remote access to remote County offices (see also 
+Chapter 4, Economic Development).  
+8.9 
+Health Care 
+8.9.1 
+Union Hospital 
+Union Hospital of Cecil County, the 
+only hospital in the County, is located 
+in Elkton (Map 8.2).  The 149-bed 
+facility is staffed by nearly 900 staff 
+members and 260 physicians offering 
+outpatient, surgical and emergency 
+services, as well as comprehensive 
+health education programs. The six 
+operating rooms host an average of 
+20 procedures a day.   
+In 2007, the hospital opened a 48-bed 
+inpatient tower in Elkton, expanding 
+its capacity and services in patient 
+care.  The hospital’s 2008-11 Strategic Plan calls for further program development in 
+cardiovascular, oncology, and chest diseases.  The hospital also plans to focus on physician 
+recruitment and the creation of primary care and multi-specialty group medical practices.  
+In support of these goals, the hospital has identified short-term strategic capital investments 
+of $15 million to enhance its facilities.  The hospital also has constructed and is planning 
+satellite facilities to improve access to medical care in the southern and western parts of Cecil 
+County.  The hospital plans to build on the Principio Medical Campus in Perryville.   
+8.9.2 
+Health Department 
+The Cecil County Health Department is located on Bow Street in Elkton, a facility that opened 
+in 1990.  The Department provides community health services and education related to: 
+• 
+epidemiology and communicable 
+diseases 
+• 
+tuberculosis control 
+• 
+sexually transmitted diseases  
+• 
+adult health  
+• 
+home health  
+• 
+developmental disabilities  
+• 
+early and periodic screening diagnosis 
+and treatment 
+• 
+adolescent pregnancy 
+• 
+improved pregnancy outcome and 
+high risk infant care 
+• 
+geriatric evaluation services 
+• 
+family planning 
+• 
+environmental health  
+• 
+community mental health  
+• 
+community rehabilitation programs  
+• 
+community residence programs  
+• 
+alcoholism and drug abuse treatment 
+programs and  
+• 
+medical adult day care. 
+Future Needs 
+The Department’s existing facility is too small.  To meet future needs the Department 
+envisions renovating/expanding the existing building and building a new headquarters 
+building, approximately 40,000 square feet to house staff and support programs.   
+8.9.3 
+Senior Services 
+The Department of Senior Services and Community Transit offers a variety of programs and 
+services at senior centers in Elkton and Perryville.  Hot meals are served Monday through 
+Friday at the Elkton Center and Tuesday, Wednesday, and Thursday at the Perryville Center.   
+Union Hospital in Elkton is staffed by 260 physicians
+
+<!-- page 164 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+8-15 
+In 2004, Senior Services opened a Healthy Lifestyles Fitness Center in Elkton.  The center is 
+designed for adults 55 and older and offers a safe, professional environment where older 
+adults can work on their fitness goals. 
+Senior Services also coordinates with the Department of Social Services to offer caretaker 
+support, deliver meals, help residents of nursing homes and assisted living centers 
+understand their legal rights, and provide counseling, legal assistance, a shopping service 
+and subsidies for assisted living. 
+See Chapter 5, Transportation, for discussion of Community Transit. 
+8.10 
+Solid Waste 
+8.10.1 Waste Stream 
+The Cecil County Solid Waste Management Division is the second largest operational 
+division within the Department of Public Works.  Cecil County owns and operates three 
+facilities to manage the solid waste stream: the Central Landfill, Stemmer’s Run Transfer 
+Station and Woodlawn Transfer Station. 
+Central Landfill 
+The Central Landfill is on Old Philadelphia Road, west of Elkton.  Forty acres of the 418-acre 
+site have been developed for waste disposal.  As of 2008, the landfill received approximately 
+550 tons of waste per day.  
+ 
+The existing permitted disposal area is expected to be at capacity by 2017.  The County is 
+considering vertical and horizontal expansions of the existing disposal area, according to the 
+Solid Waste Management Plan 2008 – 2017, adopted in 2009.  The Central Landfill site 
+includes an additional area of 75 to 100 acres that could be developed for waste disposal, so 
+that the County’s long term (30 to 50 year) waste disposal needs are assured.  
+Stemmer's Run Transfer Station 
+Stemmer’s Run Transfer Station is located on 10 acres along Stemmer’s Run Road and 
+serves residents of the Cecilton and Chesapeake City areas.  The station receives about 
+3,200 tons of solid waste per year, not including recyclables.  According to the 2008 Solid 
+Waste Management Plan, the station meets the needs of its service area but vehicle 
+congestion at peak use times creates a potential safety hazard.  
+Woodlawn Transfer Station 
+Woodlawn Transfer Station is located at Firetower and Waibel roads in the Rising Sun area. 
+The 30-acre site, a former landfill, serves residents of Calvert, Fair Hill, North East, Oakwood, 
+Port Deposit, and Rising Sun.  The facility is permitted to receive 10,351 tons of solid waste 
+per year, not including recyclables.  
+ 
+The site has limited space for expansion.  As with Stemmer’s Run, the need to modify or 
+expand the site may be driven more by the need to reduce vehicle congestion than to expand 
+capacity. The County has no plans to expand the facility. 
+8.10.2 Recycling 
+Under the Maryland Recycling Act (MRA) of 1989, Cecil County must recycle a minimum of 
+15 percent of the solid waste generated within the County.  The state recommends that 
+jurisdictions strive to reach a recycling rate of 40 percent.  
+Cecil County exceeds this standard, recycling 57 percent of solid waste as of 2008, among 
+the highest rates in the state.  The County operates six recycling stations in addition to sites
+
+<!-- page 165 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+8-16 
+at the Central Landfill and transfer stations.  The County does not provide door-to-door or 
+curbside collection of recyclables.  Five municipalities collect yard wastes and recyclables.  
+The 2008 Cecil County Solid Waste Management Plan includes recommendations for a 
+series of programs whereby the County and towns can enhance resource recovery programs. 
+8.10.3 Future Needs 
+For environmental, conservation and economic reasons, the County continues to investigate 
+alternatives to landfilling as the primary means of disposal.  These alternatives include 
+composting, waste reduction, reuse, recycling, incineration, and waste-to-energy programs. 
+With planned expansions, upgrades and improvements, the Central Landfill and two transfer 
+stations are expected to accommodate the County’s facility needs through at least 2030, 
+though, as noted above, modifications to Stemmers Run Transfer Station may be necessary 
+to improve service.   
+8.11 
+Public Libraries 
+8.11.1 Library Facilities 
+The Cecil County Public Library (CCPL) is headquartered in a 25,000-square foot building in 
+Elkton (Map 8.2).  This facility serves the local population and supports the operation of six 
+additional branch libraries in Cecilton, Chesapeake City, North East, Perryville, Port 
+Deposit/Bainbridge, and Rising Sun). 
+More than 54,000 residents held active public library 
+cards in 2009, representing more than half of the 
+county’s population.  Population growth has a direct 
+positive effect on the demand and usage of public 
+library services and facilities.  During the past 30 
+years, growth in library usage rates far exceeded the 
+rate of population growth. This pattern of usage 
+growth continues today.  
+CCPL’s services include books on all subjects and in 
+all formats (including downloadable electronic 
+versions), audiovisuals, reference services, early 
+literacy programs, educational programs for adults, 
+young adults, and children, databases on science, 
+business, health, technology, and career 
+advancement, public high speed internet computers and Wi-Fi access, introductory computer 
+classes, and a range of library services for small/micro businesses.  
+8.11.2 Funding 
+Maryland’s public libraries are created and operated under state education law and supported 
+with county and state funds as an integral part of education services.  
+CCPL’s operating budget is approximately 82 percent county funded, 15 percent state 
+funded, with the remaining three percent coming from other sources, including fines, fees, 
+and donations. CCPL’s capital funding is provided by the county through general funds and 
+from grants by the state.  
+8.11.3 Future Needs 
+CCPL has identified three short-term facility needs and five long-term needs:  
+Cecil County Public Library in Elkton.
+
+<!-- page 166 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+8-17 
+Short-Term 
+• 
+North East Branch Library. CCPL’s top construction priority is to replace its 2,800 square 
+foot branch in North East by 2014 with a new facility capable of serving the town and 
+surrounding area.  
+• 
+Elkton Central Library. CCPL’s second priority is to replace the overcrowded library in 
+Elkton by 2022. The small site does not allow for expansion. CCPL envisions a central 
+library facility of 50,000 to 60,000 square feet, with parking for 200 vehicles.  
+The new North East Branch and Elkton Central libraries will both be evaluated as a 
+permanent location for the library’s headquarters operations, expanding the size as 
+needed. 
+• 
+Rising Sun Branch Library. This branch, at 7,400 square feet, has become one of the 
+County’s busiest libraries. CCPL plans to expand this facility to a minimum of 12, 000 to 
+15,000 square feet by 2025.  
+Long-Term 
+• 
+Cecilton Branch Library. This branch, which opened in 1991, is 2,160 square feet, too 
+small to meet the community’s needs. CCPL is working with the Town of Cecilton to 
+monitor and pursue opportunities for a new Cecilton branch. 
+• 
+Port Deposit/Bainbridge Branch.  This branch is located in a small rental facility. CCPL’s 
+long-term plan is to acquire a site in Bainbridge. The future library would include services 
+for Cecil College students at its future Bainbridge center. CCPL is evaluating 
+developments in Port Deposit and Bainbridge to determine when to move forward.  
+• 
+Chesapeake City Branch Library. This branch is located in a new rental facility that 
+should meet community needs until at least 2030. CCPL will work with the Town of 
+Chesapeake City to evaluate opportunities for land acquisition for a future permanent 
+branch. 
+• 
+Conowingo. CCPL is evaluating opportunities to develop a Conowingo/Oakwood branch 
+comparable to the existing Chesapeake City Branch by 2030.  
+• 
+Fair Hill. CCPL is evaluating opportunities for a future Fair Hill branch by 2030. 
+8.12 
+Policies and Actions 
+1. Explore funding and growth management mechanisms to ensure community facilities are 
+provided concurrent with growth and demand.   
+The County’s community facilities needs through 2030 are extensive and will likely 
+challenge the County’s ability to fund and provide them.  Funding is discussed in Chapter 
+11, Implementation.   
+2. Focus attention on providing community facilities in convenient locations in the Growth 
+Corridor to ensure this area is attractive to people and for development.  
+3. Consider co-locating and developing community facilities as joint facilities such as parks, 
+senior centers, schools, and libraries. 
+4. Encourage the use of the latest environmental and energy saving technologies in 
+community facilities buildings and site designs. 
+Education 
+5. Adopt policies and procedures to ensure public schools have adequate capacity as new 
+development occurs.  Policies and procedures could include Adequate Public Facilities 
+requirements, development contributions of land or facilities, excise taxes or impact fees, 
+and “front funding” of priority CCPS projects.
+
+<!-- page 167 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+8-18 
+6. Support infrastructure needs related to institutional growth at Cecil College, including the 
+North East campus, Elkton station, and the future facility at Bainbridge that would provide 
+programs and services to the western part of the County. 
+Parks / Cultural Resources 
+7. Acquire public recreation land in accordance with the County’s Land Preservation Parks 
+and Recreation Plan.  
+8. Identify potential public and private partnerships and funding sources to implement the 
+County’s recreation goals. 
+9. Cultivate and encourage interest in the performing arts by further strengthening the 
+relations with Cecil County Arts Council and Cecil College’s Community Cultural Center. 
+Public Safety/Fire/EMS 
+10. Support volunteer fire companies by continuing funding support for apparatus 
+replacement.  
+11. Encourage the location of new/relocated fire stations into the Designated Growth Area.   
+12. Expand the EMS infrastructure by adding a station in the Perryville area; replacing the 
+Colora station; and a larger, more efficient headquarters facility with an expanded 911 
+call center to accommodate increased call volume and activity. 
+13. Encourage the placement of holding tanks and dry hydrants for all new residential 
+subdivisions in rural areas not served by community water systems or within one mile of 
+a reasonably available water source. 
+14. Consider developing a central booking center serving the Sheriff’s Office and municipal 
+police departments.  
+15. Consider new law enforcement substations near Chesapeake City, Cecilton, Rising Sun 
+and Conowingo.  
+16. Invest more money in technology to deliver efficient and effective public safety services. 
+17. Develop a comprehensive Public Safety Master Plan, led by CCDES and a committee to 
+be determined.. 
+Health  
+18. Work with Union Hospital, the Health Department, the Department of Social Services and 
+charitable organizations to coordinate care of the sick and elderly. 
+19. Encourage the development of satellite health facilities in areas of population growth as 
+needed. 
+20. Develop a timeline to plan for future space needs/renovation/new construction of the 
+Health Department facility in Elkton. 
+Waste Management  
+21. Continue to reduce the growth of the solid waste stream through waste reduction and 
+expansion of recycling programs.  
+Libraries 
+22. Work with Cecil County Public Library to accommodate growth and demand for new or 
+expanded facilities in Elkton, North East, and Rising Sun as well as smaller branch 
+libraries in Cecilton, the Port Deposit/Bainbridge area, Chesapeake City, Conowingo and 
+Fair Hill.
+
+<!-- page 168 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+9-1 
+9 
+Housing  
+Cecil County’s housing stock has grown significantly since the 1990 Comprehensive Plan.  
+An estimated 6,200 housing units were built within Cecil County between 2000 and 2010, 
+including approximately 4,000 in the unincorporated areas of the County, and 2,200 in the 
+towns.  This represents a 22 percent increase in the towns as a whole, with some variation in 
+growth rates among the municipalities (ranging from 19 percent in Port Deposit to 33 percent 
+in Charlestown), and a 16 percent increase in the unincorporated areas of the County, for a 
+total increase of about 18 percent (Table 9.1). 
+By 2030, another 22,000 housing units are projected to be built in the County, a 54 percent 
+increase over the 2010 total.  Approximately 15,600 of these units (71 percent) would be 
+located in the unincorporated areas of the County, resulting in a total of 62,646 units within 
+Cecil County, of which 18,300 would be in the towns (Table 9.1).1 
+Table 9.1: 
+Housing Units, Cecil County and Incorporated Towns, 2000 through 2030 
+ 
+Number of Units 
+Change  
+2000-10 
+Change 
+2010-30 
+Geography 
+2000 
+Census 
+2010 
+2030 
+Units 
+Percent 
+Number
+Towns 
+9,674 
+11,844 
+18,316 
+2,170 
+22 
+6,472
+Cecilton 
+202 
+261 
+404 
+59 
+29 
+143
+Charlestown  
+415 
+553 
+857 
+138 
+33 
+304
+Chesapeake City  
+365 
+455 
+705 
+90 
+25 
+250
+Elkton 
+4,731 
+5,831 
+9,007 
+1,100 
+23 
+3,176
+North East 
+1,262 
+1,496 
+2,316 
+234 
+19 
+820
+Perryville 
+1,548 
+1,851 
+2,864 
+303 
+20 
+1,013
+Port Deposit 
+416 
+493 
+763 
+77 
+19 
+270
+Rising Sun 
+735 
+904 
+1,400 
+169 
+23 
+496
+Unincorporated Area of County 
+24,787 
+28,773 
+44,330 
+3,986 
+16 
+15,557
+Total County  
+34,461 
+40,617 
+62,646 
+6,156 
+17 
+22,029
+Source: ERM, Maryland Department of Planning. 
+House Bill 1160 Workforce Housing Grant Program 
+This chapter is intended to meet the eligibility requirements under House Bill 1160 Workforce 
+Housing Grant Program2.  That bill requires the County to have a comprehensive plan with a 
+workforce housing element that assesses workforce housing needs and contains goals, 
+objectives and policies that preserve or develop workforce housing. 
+9.1 
+Goals and objectives 
+Cecil County’s housing goals and objectives are to:  
+1. Accommodate residential growth by providing for and encouraging the development of a 
+mix of housing types and densities in the Growth Corridor. 
+2. Concentrate mixed-use and high-density residential development in appropriate locations 
+along major corridors and in areas that can be served by public transit. 
+3. Encourage the development of workforce housing, including opportunities for 
+homeownership. 
+                                                     
+1 The Maryland Department of Planning has projected municipal level population, household and housing units to the 
+year 2030 holding the proportion of the each Town’s growth relative to the County’s constant with 2010 figures.  
+Therefore, the growth in housing units between 2010 and 2030 is the same (at approximately 54 percent) for each of 
+the towns in Cecil County, as shown in Table 9.1. 
+2 2006 Session.
+
+<!-- page 169 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+9-2 
+4. Support housing options for senior adults. 
+5. Address the housing needs of the economically disadvantaged and the homeless by 
+focusing the County’s attention and resources on affordable housing. 
+6. Create attractive residential environments. 
+7. Encourage the use of sustainable materials and green practices in housing construction. 
+9.2 
+Existing Conditions 
+The most recent detailed data on housing at the County and town level is from the 2000 
+census.  Of the approximately 6,800 units constructed within Cecil County (including the 
+towns) between 1990 and 2000, approximately two-thirds, or 4,523, were single-family 
+detached units (Table 9.2). Another 869 were townhouses and 1,539 were multi-family units3.  
+As a result of the increase in multi-family units, the percentage of the County’s housing stock 
+that was single-family detached decreased slightly (from 71 percent to 70 percent between 
+1990 and 2000), while the number of multi-family units became a larger percentage of the 
+County’s stock (from 11 to 13 percent).  The share of the housing stock that is single-family 
+detached greatly exceeds the share for the state as a whole (51%).  
+In 2000, almost 68 percent of the housing units in the County were owner occupied, higher 
+than the share for the state as a whole (62%).  Close to 23 percent of the units were renter 
+occupied, compared to 30 percent for the state as a whole.  The remaining units were vacant 
+(5 percent) or seasonal housing (4 percent).   
+Table 9.2: Housing Type and Tenure, 1990 to 2000 
+  
+1990 
+2000 
+Change 1990-2000 
+  
+Units
+Percent
+Units
+Percent
+Units 
+Percent
+Units in Structure 
+  
+  
+  
+  
+  
+  
+1 unit detached 
+19,707 
+71.3 
+24,230 
+70.3 
+4,523 
+66.7
+1 unit attached 
+2,079 
+7.5 
+2,948 
+8.6 
+869 
+12.8
+2 or more units 
+2,910 
+10.5 
+4,449 
+12.9 
+1,539 
+22.6
+Mobile home, 
+trailer 
+2,960 
+10.7 
+2,834 
+8.2 
+-126 
+-1.9
+Total 
+27,656
+100.0
+34,461
+100.0
+6,805 
+100.0
+Occupancy 
+  
+  
+  
+  
+  
+  
+Owner Occupied 
+18,534 
+67.0 
+23,395 
+67.9 
+4,861 
+71.4
+Renter Occupied 
+6,191 
+22.4 
+7,828 
+22.7 
+1,637 
+24.1
+Vacant 
+1,416 
+5.1 
+1,739 
+5.1 
+323 
+4.7
+Seasonal 
+1,515 
+5.5 
+1,499 
+4.3 
+-16 
+-0.2
+Total 
+27,656
+100.0
+34,461
+100.0
+6,805 
+ 100.0
+Source: U.S. Census 
+Note: Information at this detail is only available at the decennial census. 
+ 
+9.3 
+Housing Issues 
+The major housing issues facing Cecil County are the: 
+• 
+Need to provide affordable workforce housing;  
+• 
+Need to rehabilitate some of the older portions of the existing housing stock that are in 
+poor condition, and 
+• 
+Need to create a variety of housing options and opportunities. 
+                                                     
+3  Using the census definition of 2 or more units in a structure.
+
+<!-- page 170 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+9-3 
+9.3.1 
+Cost of Housing (Affordability) 
+Affordability is a function of income and the cost of housing.  In 1999, Cecil County’s median 
+household income was $50,510, lower than that of the State as a whole $52,868.  Median 
+household income in all of the Towns in the County except Charlestown was lower than for 
+the County as a whole (Table 9.3).  In 2005, the median household income in Cecil County 
+was estimated at $57,500, or $6,950 less than the median household income for the State 
+($64,450). 
+Table 9.3: Median Household Income, 1999, 2005 
+Jurisdiction 
+1999 
+20051
+Cecil County 
+$50,510 
+$57,500 
+Maryland 
+$52,868 
+$64,450 
+Cecilton 
+$38,971 
+Not 
+available 
+Charlestown 
+$50,563 
+Chesapeake City 
+$46,917 
+Elkton 
+$38,171 
+North East 
+$39,563 
+Perryville 
+$43,984 
+Port Deposit 
+$34,167 
+Rising Sun 
+$41,089 
+Sources: 2000 U.S. Census, MDP. 
+12005 data for Maryland and Cecil County from the Maryland Department of 
+Planning; 2005 income data are not available for the municipalities.  
+An important measure of affordability is the share of income spent on housing.  Generally 
+households spending more than 30 percent of their income on housing are considered to be 
+burdened, that is the cost of housing leaves insufficient funds for other needs such as food 
+and transportation.  Generally, people who rent pay a higher share of their income on 
+housing than people who own their homes.  
+In 1999, approximately 4,100 homeowner households (21 percent of all households in the 
+County) spent more than 30 percent of their household income on housing and more than 
+2,800 households (15 percent) spent more than 35 percent (Table 9.4).  These percentages 
+were slightly lower than for the State as a whole. The towns of Chesapeake City and Port 
+Deposit had particularly high percentages of households spending 35 percent or more of their 
+income on monthly housing costs (23 and 22 percent, respectively).  
+Cecil County renter households also experienced affordability issues with respect to the 
+amount of household income spent on monthly housing costs.  In 1999, about 2,400 renter 
+households (31 percent) spent 30 percent or more of their household income on housing and 
+more than 1,700 renter households (23 percent) spent 35 percent or more.   
+Four of the eight towns in Cecil County had a higher percentage of renter households 
+spending 35 percent or more on monthly housing costs than the County as a whole, including 
+Rising Sun, North East, Elkton and Cecilton.  Elkton, in particular, has been a center of 
+affordable housing in Cecil County, where residents earn less income, are more likely to rent 
+their housing than to own it, are more likely to live in townhouse or multifamily housing than 
+single-family detached housing, and spend more of their household income on housing 
+compared with Cecil County and the state. 
+As noted in Chapter 4, Economic Development, (section 4.3.4), the availability of affordable 
+and workforce housing is an economic development issue.  The Base Realignment and 
+Closure BRAC Action Plan, for example, stated that workforce housing is a critical 
+component of the County’s business development and growth strategy.
+
+<!-- page 171 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+9-4 
+Table 9.4: 
+Monthly Housing Costs as a Percentage of Household Income, 1999 
+  
+Total 
+Owner 
+Units 
+Owner 
+Total 
+Rental 
+Units 
+Renter 
+  
+30% or More 
+35% or More 
+30% or More 
+35% or More 
+Jurisdiction 
+Units 
+% 
+Units 
+% 
+Units 
+% 
+Units 
+% 
+Cecilton 
+110 
+22 
+20% 
+12 
+11% 
+66 
+23 
+35% 
+17 
+26% 
+Charlestown 
+273 
+66 
+24% 
+47 
+17% 
+95 
+14 
+15% 
+7 
+7% 
+Chesapeake City 
+212 
+54 
+25% 
+49 
+23% 
+94 
+22 
+23% 
+17 
+18% 
+Elkton 
+1,965 
+469 
+24% 
+326 
+17% 
+2,306 
+877 
+38% 
+611 
+26% 
+North East 
+525 
+130 
+25% 
+95 
+18% 
+556 
+226 
+41% 
+172 
+31% 
+Perryville 
+843 
+152 
+18% 
+105 
+12% 
+543 
+172 
+32% 
+116 
+21% 
+Port Deposit 
+88 
+25 
+28% 
+19 
+22% 
+134 
+42 
+31% 
+29 
+22% 
+Rising Sun 
+363 
+91 
+25% 
+50 
+14% 
+307 
+105 
+34% 
+95 
+31% 
+Cecil County 
+19,065 
+4,122 
+22% 
+2,845 
+15% 
+7,607 
+2,360 
+31% 
+1,772 
+23% 
+Maryland 
+1,178,779 
+269,524 
+23% 
+189,225 
+16% 
+631,986 
+220,031 
+35% 
+170,658 
+27% 
+Note: The 2000 Census reports income data for 1999. 
+Source: U.S. Census, 2000 – Summary File 3, Tables H94 and H69. 
+Senior Housing 
+The share of income spent on housing is a particular concern for the County’s senior 
+population, because many seniors live on fixed incomes and thus have less ability to afford 
+increasing housing costs. As the County grows, assuring a mix of housing types will address 
+housing-related growth issues and help to meet the needs of an aging population. The State 
+projects that the number of persons 65 and older in Cecil County will grow from 11 percent of 
+the population in 2010 to 19 percent of the total population in 2030.   
+9.3.2 
+Rehabilitation: Condition/Age of Housing Stock 
+In most communities the existing housing stock is an important source of affordable housing, 
+especially for renters and first time home buyers. 
+Condition 
+In 2000, 169 units (0.5 percent) of the total number of housing units in Cecil County lacked 
+complete kitchen facilities and 0.6 percent of the total number of housing units in the County 
+lacked complete plumbing facilities.  These percentages were lower than the percentages of 
+units lacking similar facilities in the State as a whole (Table 9.5). 
+Table 9.5: Units Lacking Complete Kitchen and Plumbing Facilities, 2000 
+  
+Units Lacking Complete 
+Kitchen Facilities, 2000 
+Units Lacking Complete 
+Plumbing Facilities, 2000 
+  
+Number 
+Percent of all 
+units 
+Number 
+Percent of all 
+units 
+Cecil County 
+169 
+0.5 
+188 
+0.6 
+Maryland  
+17,526 
+0.8 
+15,732 
+0.7 
+Source: U.S. Census, 2000 
+While the Census count of the number of substandard units was less than 200, many housing 
+providers that work with substandard housing believe that the number of substandard 
+housing units in a community is usually greater than shown in Census data, based on factors 
+not considered by the Census such as the condition of roofs and other structural 
+components.  Rehabilitating and upgrading existing housing stock would increase the 
+inventory of available housing for workforce families in Cecil County.
+
+<!-- page 172 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+9-5 
+ 
+Age 
+The median year housing structures are built is another indicator of the condition and livability 
+of the housing stock.  In 2000, the median age of owner occupied housing in Cecil County 
+was 23 years, five years younger than the median age of owner occupied houses in the State 
+(28 years old) (Table 9.6).  The younger median age reflects the number of homes built 
+between 1990 and 2000. 
+Table 9.6: Housing Age 
+Jurisdiction 
+Median Year Built1
+Cecilton 
+1958 
+Charlestown 
+1956 
+Chesapeake City 
+1942 
+Elkton 
+1975 
+North East 
+1981 
+Perryville 
+1981 
+Port Deposit 
+1981 
+Rising Sun 
+1970 
+Cecil County 
+1977 
+Maryland 
+1972 
+1 All housing units 
+Source: U.S. Census, 2000 
+A diversity of housing types and densities will help to serve all segments of a growing 
+population.   Left to right, top to bottom: Northwoods, between North East and Charlestown; 
+Chesapeake Ridge near North East; Whitehall West south of Elkton; and Persimmon Creek, 
+north of Elkton.  Housing for seniors will be especially in demand.
+
+<!-- page 173 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+9-6 
+The housing in several of the County’s towns was significantly older than the State, though 
+the towns of North East, Perryville, and Port Deposit had a housing stock with a median age 
+younger than the State’s (19 years old). 
+Some older housing is structurally sound and can be attractively renovated to meet today’s 
+needs, but older housing can also be energy inefficient with older plumbing, electric and 
+heating service.  The cost of renovating such housing units to meet today’s needs often 
+exceeds their total value. 
+9.3.3 
+Housing Options 
+A large, growing county needs a broad range of housing options, smaller single-family 
+detached homes, townhouses, and apartments.  Most opportunities for this type of housing 
+will be in the land use plan’s growth areas, especially in the Towns and in the Medium High 
+and High Growth areas (Map 3.3).   
+Mixed-use developments, either in areas designated for mixed use on the Future Land Use 
+Map or in Planned Unit Developments, should provide a variety of housing types and the 
+opportunity to live near jobs and services.  Architectural and design flexibility and mobility- 
+and transit-friendly design is encouraged to allow more affordable and workforce housing to 
+be developed.  See also Section 3.6.1 – Community Character. 
+To date few seniors-only housing projects have been built in the County.  Cecil Woods, a 
+manufactured housing for senior ownership between Elkton and North East is one example. 
+These types of projects are likely to continue to find a market, especially for residents who 
+desire to continue living in the County, but in smaller homes or apartments, connected to 
+transit where it is available.   
+Housing for homeless and other special needs populations will also be needed, see next 
+section.  
+9.4 
+Workforce Housing Providers 
+This section discusses the work of programs, agencies and organizations that provide 
+workforce housing in Cecil County. 
+9.4.1 
+Housing Choice Voucher Program (Section 8) 
+This program is administered by the Cecil County Office of Housing and Community 
+Development, and provides rental assistance to income-eligible families, helping families 
+afford a better place to live or assist with paying a portion of the monthly rent where the family 
+is living. Household income must meet federal income guidelines.   
+Housing complexes that accept Section 8 Housing Choice Vouchers are located in Elkton 
+(with 15 complexes), North East (5), Perryville (4), Rising Sun (4), Port Deposit (1), 
+Chesapeake City (1), and Cecilton (1).  
+9.4.2 
+USDA Rural Development 
+The US Department of Agriculture (USDA) Rural Development’s Rural Housing Service offers 
+assistance to first time low-income homebuyers and renters through several loan programs: 
+• 
+Single-Family Home Loan Program (Section 502): This program provides low interest 
+loans directly from the USDA to homebuyers who would not otherwise be able to afford 
+regular monthly mortgage payments with higher interest rates.  With this loan, no down 
+payment is required and the interest rate can be as low as one percent, depending on the 
+size of the family. 
+• 
+Guaranteed Single-Family Home Loan Program: Low and moderate income families can 
+qualify for loans directly from a bank or mortgage company through this program.  This is 
+possible because the Federal Government guarantees the lender up to 90 percent of its 
+losses if the homeowner defaults on the loan.
+
+<!-- page 174 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+9-7 
+• 
+Rural Housing Repair and Rehabilitation Loans & Grants: Very low-income rural 
+residents who own and occupy a dwelling in need of repair can qualify for loans or grants 
+funded directly by the Government.  Funds are available for repairs to improve or 
+modernize a home, or to remove health and safety hazards. This loan is a one percent 
+loan that may be repaid over a 20-year period. Approximately 10 to 15 of these loans 
+have been provided annually in Cecil County.  
+USDA provides an average of 14 Direct 502 Loans and 55 Guaranteed loans a year to 
+County residents, as of 2008. 
+9.4.3 
+Habitat for Humanity 
+Habitat for Humanity is a non-profit, volunteer organization, with local operations based in 
+North East.  The organization retrofits homes for newly disabled people, renovates damaged 
+housing, and, when funding is available, develops affordable housing.  Habitat houses are 
+sold to low income families in need of shelter. These homes are built at no profit and families 
+receive affordable loans and monthly mortgage payments. All mortgage payments are used 
+to build future Habitat homes.  Habitat is also planning to open a resale store that will have 
+appliances, furniture, clothing, and housewares for sale at a reduced price.  
+9.4.4 
+Homelessness 
+There are five main homeless shelters in Cecil County, as well as one temporary shelter and 
+daytime facilities.  A Domestic Violence Shelter in Elkton offers shelter for women who are 
+victims of domestic violence.   
+Meeting Ground, a non-profit organization based in Elkton, provides emergency and 
+transitional housing, meals, care, and many related services to persons and families 
+experiencing homelessness through programs and facilities located throughout the County. 
+Meeting Ground’s facilities include the Settlement House, Clairvaux Farm, the Wayfarers’ 
+House, the George Porter House, and a rotating church-based winter shelter. Through these 
+programs, Meeting Ground provided 36,098 bed nights, served over 59,000 meals, and 
+assisted 300 persons in the transition from being homeless in 2008. 
+9.5 
+Affordable Housing Need 
+To date, no countywide assessment of affordable housing has been completed locally by 
+Cecil County or agencies in County.  The need for such an assessment has been 
+recommended in the past, including by the Town of Elkton where many of the affordable units 
+within the County are located. 
+The Governor’s Commission on Housing Policy estimated a need for approximately 2,000 
+affordable rental-housing units in Cecil County between 2004 to 20144.  Based on the 
+projections in the Comprehensive Plan, this would be approximately 20 percent of the units 
+built in Cecil County during this period, a high percentage. 
+Holding the share of affordable units at 20 percent of all new units would yield a total of 4,400 
+new affordable or workforce housing units by 2030, given the Comprehensive Plan’s growth 
+projections.  This need is unlikely to be met entirely through government programs, so the 
+County will need to work with the private sector to encourage the development of affordable 
+housing, especially for the senior population for whom resources are limited.  This likely 
+would involve creating incentives to build affordable units for the elderly and economically 
+disadvantaged populations. 
+                                                     
+4 “Workforce Affordable Housing in Maryland”, Maryland DHCD and the Governor’s Commission on Housing Policy, 
+August, 2004.
+
+<!-- page 175 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+9-8 
+ 
+9.6 
+Energy Efficient Housing Development 
+Housing, as with other forms of development, is incorporating design and technologies that 
+increase energy efficiency.  To help promote these technologies, governments can design 
+and build public facilities using green technology and sustainable development standards.  As 
+these types of technologies become more commonplace, their use in housing development 
+will become more common and economically feasible for developers and individual 
+homeowners.   
+To encourage these technologies, the County should consider establishing energy efficiency 
+standards, as well as a rating system for new residential development.  The U.S. Building 
+Council’s Leadership in Energy and Environmental Design (LEED) rating system provides a 
+set of standards that can be reviewed for possible application in Cecil County. 
+9.7 
+Policies and Actions 
+The following policies and actions are intended to help the County meet the need for 
+affordable housing, and are generally in line with the recommendations in the State’s 
+Workforce Housing Plan: 
+1. Prepare a countywide housing needs study to include numerical housing goals and 
+objectives.  The study should address affordable housing, workforce housing, senior 
+housing and housing for special populations such as the homeless and people with 
+disabilities.   
+2. Provide opportunities in the Growth Corridor for higher density mixed-use housing that 
+will facilitate the provision of affordable housing, especially where it can be served by 
+local and regional transit. Coordinate with the Towns to identify similar opportunities 
+within their borders. 
+3. Create incentives to encourage transit and mobility-friendly design in new communities, 
+especially those containing workforce housing.   Create incentives in support of 
+architectural and design flexibility to allow more affordable and workforce housing to be 
+developed.    
+Higher density housing such as Chesapeake Landing in the Town of Perryville (11 units per acre) 
+offers the the best opportunity for increasing the supply of affordable housing in the County
+
+<!-- page 176 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+9-9 
+4. Create incentives for private sector participation in the provision of affordable housing.  
+Consider tax or other incentives for developers that build affordable housing, including 
+affordable units in the same developments as more expensive units 
+5. Continue programs to rehabilitate existing substandard housing in the County. This action 
+will increase the number of affordable housing units available to workforce families. 
+6. Continue programs to support the homeless and other special needs populations.  
+7. Encourage energy efficiency standards  for new residential development. 
+8. Encourage county-wide sets of community character standards, consistent with 
+respective community character.
+
+<!-- page 177 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+10-1 
+10 
+Mineral Resources 
+State law (Article 66B) requires that a Comprehensive Plan include a mineral resources 
+element that identifies undeveloped land that should be kept in its undeveloped state until the 
+land can be used to provide or assist in providing a continuous supply of minerals and that 
+incorporates land use policies and recommendations to balance mineral resource extraction 
+with other land uses. 
+Four percent of the County’s land area, or about 8,400 acres, have been designated for 
+mineral extraction use (see Chapter 3, Land Use), and about 2,100 acres were in active 
+mining as of 2009.  The County’s mineral resources are extensive, with production expected 
+to continue for the next 40 to 100 years. 
+The three largest producers in Cecil County sell approximately 3.0 to 3.5 million tons of sand, 
+gravel, and stone each year.  In 2008, this sector, along with other natural resource 
+employment, provided approximately 620 jobs, or two percent of all full-time jobs in Cecil 
+County (see Table 4.4).   
+The County’s primary mineral resources are aggregates, including sand, gravel, stone, as 
+well as clay.  These materials are used to build roads and houses, as well as commercial 
+buildings and industrial facilities.  Cecil County benefits from large natural deposits of these 
+minerals, which provide the County with a source of building materials as well as a source of 
+jobs and income.    
+10.1 
+Goals and Objectives 
+In relation to mineral resources, the Comprehensive Plan’s goals are to: 
+• 
+Recognize the economic resource value of sand, gravel, and hard rock deposits by 
+protecting them from encroachment by incompatible uses until the minerals are extracted 
+and the excavated land is stabilized and reclaimed for productive use. 
+• 
+Reduce conflicts among incompatible uses by minimizing the impacts of mineral 
+extraction operations on nearby non-extractive uses. 
+• 
+Protect environmentally sensitive areas from mineral extraction operations. 
+• 
+Provide for the reclamation of extracted land for other uses compatible with the 
+surrounding area. 
+10.2 
+Description of Mineral Resources 
+Aggregates are a component of composite materials such as concrete and asphalt concrete; 
+aggregate serves as reinforcement to add strength to the overall composite material.  
+According to the U.S. Geological Survey, the County’s total construction aggregate 
+production in 2007 was 7.15 million tons, valued at $52 million, or an average of $7.40 per 
+ton (Table 10.1).  Production generally grew between 2004 and 2007, although 2007 totals 
+were less than the previous year’s. 
+Table 10.1: 
+Construction Aggregate Production, 2004-2007 
+Year 
+Tons 
+(000s) 
+Dollars
+(000s) 
+Average
+Unit Value 
+2004 
+6,240  
+ $39,000 
+$6.25 
+2005 
+6,680  
+ $47,500 
+$7.11 
+2006 
+7,240  
+ $58,800 
+$8.12 
+2007 
+7,150  
+ $52,900 
+$7.40 
+Source: Jason Willett, United States Geological Survey, email August 11, 2009
+
+<!-- page 178 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+10-2 
+As of 2009, 15 surface mines operated in Cecil County under permit by the Maryland 
+Department of the Environment (MDE).  Cecil County contains 11 permitted sand and gravel 
+operations, two quarries and two sites classified as miscellaneous (a 15-acre pit on MD 272 
+north of North East and the Johnson Pit on MD 222 north of Principio Road). Map 10.1 shows 
+the location of these permitted surface mines, as well as the Mineral Extraction District 
+identified on the Future Land Use Map (Map 3.3)).   
+About 2,100 of the approximately 8,400 acres in the Mineral Extraction District are in active 
+mining; the remaining land is identified for future mineral extraction.  Map 10.1 does not show 
+all of the MDE-permitted sites, as some operations are combined. The sand and gravel 
+operations account for almost 1,500 of the 2,100 acres in active mining in Cecil County 
+(Table 10.2). 
+There are three major producers of aggregates in Cecil County: Mason-Dixon Materials, 
+Maryland Materials and ICM of Maryland.  Mason-Dixon Materials, a producer of sand and 
+light gravel, operates several locations in the western portion of the County.  Maryland 
+Materials mines 350 acres for gravel and rock near North East, a site that contains 
+approximately 100 years of reserves.  ICM of Maryland produces crushed stone at a 182-
+acre site in Elk Mills. On average, 3 to 3.5 million tons of sand, gravel, and stone are 
+produced and sold annually by these three producers.1 
+Table 10.2: 
+Permitted Mining Operations in Cecil County, 2009 
+Type of Operation 
+Number of 
+Permitted Sites 
+Total Acreage 
+Sand and Gravel 
+11 
+1,464 
+Quarry 
+2 
+534 
+Miscellaneous 
+2 
+70 
+Total 
+15 
+2,068 
+Source: Maryland Department of the Environment 
+10.3 
+Discussion of Issues 
+Mineral Extraction areas consist of land with known mineral deposits.  These areas are 
+primarily owned or controlled by the mineral extraction industry.  Under Cecil County’s zoning 
+ordinance, mining activities may occur only in Mineral Extraction zoning districts that are 
+mapped based on the Mineral Extraction Area on the Comprehensive Plan’s Future Land 
+Use Map.  
+The Mineral Extraction Area recognizes the economic resource value of sand, gravel, and 
+hard rock deposits by protecting them from encroachment by incompatible uses.  By allowing 
+mining only in designated areas, the County is able to: 
+• 
+Protect economically important mineral resources for current and future use;  
+• 
+Prevent incompatible development that may directly or indirectly preclude access to the 
+mineral resources until the resource has been removed or has been demonstrated to be 
+economically unrecoverable; and  
+• 
+Protect adjacent land uses (particularly housing and commercial uses, which are 
+generally incompatible with extraction operations) from negative impacts that can result 
+from mineral extraction activity.   
+                                                     
+1 Source: Mason Dixon Materials, August 5, 2009.
+
+<!-- page 179 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+10-3 
+Map 10.1 
+Permitted Mining Operations in Cecil County, 2009
+
+<!-- page 180 -->
+2010 Cecil County Comprehensive Plan  
+ 
+ 
+10-4 
+Because mining operations can occur over many years, future land uses in Mineral Extraction 
+areas should be determined after mining and reclamation are complete.  Consistent with the 
+County’s long-standing policy and Chapter 3, Land Use, a special study and possible 
+Comprehensive Plan amendment should determine the future use of the land after extraction 
+is complete, taking into consideration the type and intensity of adjacent land uses and the 
+availability of infrastructure and services.  The ultimate land use of Mineral Extraction areas 
+will be decided in the context of the comprehensive plan in effect when a change is 
+requested. 
+The zoning ordinance addresses mineral extraction areas in two ways.  Primary areas of 
+mineral extraction are designated as Mineral Extraction District A (MEA), where mining is 
+permitted by right.  MEA areas generally consist of existing and future mineral extraction 
+operations and contain few or no incompatible land uses in or adjacent to the district.   
+Mineral Extraction District B (MEB) is applied as an overlay in areas identified for mineral 
+extraction between MEA areas and other, primarily residential and commercial, uses.  MEB 
+areas have potential for conflict between extraction activities and adjacent land uses.  Mining 
+activities in the MEB require a special exception from the County Board of Appeals (in 
+addition to state permit requirements).  Through the special exception review process, the 
+Board of Appeals can condition any approval with performance measures to minimize 
+conflicts between the extraction activities and adjacent land uses.  Conditions may address 
+measures such as hours of operation, noise, dust control, buffering, and truck routes.  
+10.4 
+Policies and Actions 
+1. Support the responsible mining of Cecil County’s mineral resources. 
+2. Reduce conflict that could interfere with the extraction of mineral resources in mineral 
+extraction areas by allowing other development of a type and intensity that is compatible 
+with nearby mining activities until the mineral resources are removed or have been 
+demonstrated to be economically unrecoverable. 
+3. Balance the interests of the mining industry against the interests of individuals living or 
+working on land adjacent to areas that may be excavated in the future so that conflicts 
+among these parties can be minimized. 
+4. Strictly control mineral extraction activities in environmentally sensitive areas to protect 
+natural resources, balancing the right to extract mineral resources with the need to 
+protect sensitive areas.  
+5. Continue to determine the future use of the Mineral Extraction areas after extraction is 
+complete.  Use the Comprehensive Plan as guidance for potential future uses including, 
+for example, use of mined land for water resource uses, reservoirs or tertiary treatment 
+wetlands, as discussed in Chapter 6..
+
+<!-- page 181 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+11-1 
+11 
+Implementation 
+The success of a Comprehensive Plan can be measured in how well it is implemented.  
+Successful implementation is tied to the ability of a jurisdiction to develop the resources it 
+needs to carry out the Plan’s policies and action items. 
+Rapidly growing counties, as Cecil County is projected to be, often face severe challenges in 
+“keeping up with growth.”  These challenges include continuing to maintain existing services; 
+meeting demands for higher levels of service from residents; and increasing the types and 
+levels of services offered consistent with the demands and expectations of a larger county.  
+With its significant growth forecast, Cecil County likely will face many, if not all, of these 
+challenges during the next 20 years. 
+Property tax and municipal bonds are the traditional funding mechanisms local governments 
+use to provide for their service, facility and infrastructure needs.  In Maryland, local 
+governments have several additional tools available to manage growth and pay for needed 
+infrastructure and community facilities.  These tools include adequate public facilities 
+ordinances (APFOs), impact fees and financial tools such as special taxing authorities and 
+districts.   
+Cecil County has considered many of these tools in the past.  In fact, the 1990 
+Comprehensive Plan recommended that the County establish mechanisms such as impact 
+fees, excise taxes, special taxing districts, and an APFO to manage growth and fund 
+infrastructure improvements, but, for a variety of reasons, most of these tools were not 
+implemented1.  This Plan recommends that the County continue to consider these tools and 
+work with state elected officials, as necessary, to grant the County the authority to use them. 
+While attention is often focused on the cost of improvements and the mechanisms used to 
+pay for them, a broader issue at play is the County’s overall capacity to address its future.  
+Cecil County has changed in the past 20 years, and while its rural character largely prevails, 
+portions of the County have become more urbanized.  With a population over 100,000 as of 
+2010 and heading towards 155,000, the County will need greater organizational capacity to 
+meet expanding and changing demands for services, facilities and infrastructure, both from 
+existing and new residents and businesses.  This will involve not only adopting new tools and 
+funding mechanisms, but also carefully considering and reinventing how the County serves 
+the public, so that needed services and facilities are provided effectively and cost-efficiently.  
+The County’s large new administration building, opened in 2008 is an example of how the 
+County is planning for a larger future.  
+Plan implementation will see increased interest at the state level as a result of Maryland’s 
+2009 Smart, Green and Growing Legislation which requires annual reports, beginning in 2011 
+on a variety of smart growth measures and indicators (see below).  
+ 
+                                                     
+1 Special taxing districts were authorized in 2008 in Designated Growth Areas but have not yet been implemented.  
+Tax Increment Financing (TIF) has also been authorized but not yet used. 
+The new 83,000 
+square foot 
+County 
+Administration 
+Building opened 
+in 2008
+
+<!-- page 182 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+11-2 
+11.1 
+Goals and Objectives 
+• 
+Establish funding and growth management mechanisms to ensure infrastructure and 
+community facilities are provided concurrent with growth and demand. 
+• 
+Assure that the County has adequate organizational, fiscal, and financial capacity to 
+implement the infrastructure and community facilities improvements it will need as it 
+grows. 
+11.2 
+Tools and Approaches to Implementing the Plan 
+Actions the County will need to take to implement the plan fall under three broad categories, 
+discussed in this section: growth management, funding, and organizational capacity.  Cecil 
+County will not be able to rely on one tool to address its future needs. Rather, the County will 
+need to pursue a range of measures to address growth and the changing character of the 
+County, as it seeks to create a planning framework that integrates land use, transportation, 
+sensitive areas, economic development, housing, water resources, community facilities and 
+other important considerations identified in this Plan.   
+11.2.1 Growth Management  
+Growth management has been defined as “specific regulatory policies aimed at influencing 
+how growth occurs …. These (policies) affect density, availability of land, mixtures of uses, 
+and timing of development.  Growth management seeks to accommodate growth rationally, 
+not to prevent or limit it.”2 
+Growth management is commonly associated with smart growth, which is a set of broad 
+goals designed to limit sprawl by reducing the outward expansion of developed areas, 
+encouraging higher density development, encouraging mixed-use zoning, reducing travel by 
+private vehicles, revitalizing older areas, and preserving open space.3  Because growth tends 
+to be regional in nature and driven by broader economic trends, managing growth, especially 
+within a smart growth framework, also requires the coordination among jurisdictions in order 
+to be effective.   
+The 2010 Comprehensive Plan incorporates smart growth goals and, in that sense, is 
+essentially a growth management plan.  The success of the Plan, then, will be tied to the 
+successful implementation of its growth management tools, particularly those in Chapter 3: 
+• 
+Facilitating development in growth areas by, for example, encouraging the provision of 
+infrastructure, creating mixed use zoning districts, making Planned Unit Developments 
+easier to develop in desired locations, and providing incentives that will enable growth 
+areas to develop as attractive, well-designed places. 
+• 
+Policies to ensure that development in rural areas does not exceed a desirable share of 
+overall county development, and greater incentives to use the Transfer of Development 
+Rights (TDR) program . 
+Infrastructure 
+For many years, the lack of water and sewer infrastructure in the Growth Corridor has been a 
+major impediment to growth in this area and, arguably, has deflected growth into the rural 
+areas.  Provision of this infrastructure is a key growth management measure. Chapter 6 lists 
+high priority actions including: 
+                                                     
+2 “Growth Management, Smart Growth, And Affordable Housing,” by Anthony Downs, Senior Fellow, Metropolitan 
+Policy Program, Brookings Institution, Keynote speech given at Brookings Symposium on the Relationship Between 
+Affordable Housing and Growth Management, May 2003.  
+http://www.brookings.edu/speeches/2003/0529metropolitanpolicy_downs.aspx 
+3 Ibid.
+
+<!-- page 183 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+11-3 
+• 
+In the Elkton West service area, expanding the water distribution system and combining 
+and upgrading the wastewater collection and treatment systems,  
+• 
+Upgrading and expanding the Seneca Point WWTP. 
+As growth continues, the County will need to pay increased attention to its transportation 
+systems ensuring, especially, that key roads the Growth Corridor (US 40. MD 213, MD 272, 
+and MD 275) function well, and that alternative travel options, especially mass transit, are 
+provided. 
+Adequate Public Facilities  
+An adequate public facilities ordinance (APFO) is a tool to time and phase development with 
+the provision of infrastructure and public facilities needed to support the Comprehensive 
+Plan’s growth needs. An APFO ties development approvals under the zoning and subdivision 
+ordinances to specific public facility standards. The ordinance is intended to ensure that 
+public facility improvements are made as new development creates the demand for them.  In 
+some cases, in areas of growth that lack adequate infrastructure, APFOs can delay 
+development approvals until adequate facilities are in place or there is reasonable assurance 
+that they will be in place.   
+Under an APFO, development approvals can be made contingent upon the local 
+government’s ability to provide services, or on a developer’s agreement to furnish or finance 
+the needed improvements. The standard in Maryland for development to proceed is that 
+adequate facilities are reasonably probable of being provided in the foreseeable future.  
+Because most roads in Cecil County have and are projected to have adequate levels of 
+service, an APFO for roads is unlikely to be effective in managing growth.  The 
+Comprehensive Plan does, however, identify many roads needs, so that financing tools 
+rather than an APFO are likely to be more effective in meeting these needs.   
+APFOs can be developed for almost any public facility, but they are most commonly applied 
+to schools and roads.  Chapter 8 of the Plan recognizes that growth in Cecil County will result 
+in significant school needs, and an APFO for schools may be helpful to manage growth so 
+that the County can meet these needs in an efficient manner.   
+APFOs for schools are written in a variety of ways and should be tailored to local conditions.  
+For example, Charles County has a housing unit allocation system as part of its Adequate 
+Public Facilities requirements.  School capacity must be available at elementary, middle, and 
+high schools before final subdivision plats may be approved.  If capacity is not available the 
+development cannot move forward unless it provides school facilities or contributions to 
+facilities through a developer agreement.  In Prince George’s County, a school facilities 
+surcharge is imposed on all new student-yielding residential construction regardless of 
+whether a subdivision passes the adequate facilities test.  The surcharge is dedicated for 
+school facilities and improvements on a countywide basis. 
+APFOs for Cecil County were drafted in 2005 and 2006, but agreement could not be reached 
+on the types of facilities to be included, adequacy thresholds, and funding mechanisms and 
+an APFO was not adopted. 
+ 
+Perryville Middle 
+School.  In Cecil 
+County adequate 
+public facilities 
+requirements will 
+be most 
+applicable to 
+schools.
+
+<!-- page 184 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+11-4 
+Developer Agreements 
+Under a developer agreement, a local government establishes conditions for approval of a 
+development on the developer providing benefits to the jurisdiction.  Cecil County currently 
+enters into Public Works Agreements with developers for items related to subdivisions such 
+as roads and recreational amenities in the common open space.  Under Article 66B, 
+Maryland’s local planning enabling legislation, counties have authority to enter into 
+“Development Rights and Responsibilities Agreements”.  The approval process is public and 
+includes public hearings.  Examples of benefits include road improvements, water and sewer 
+infrastructure, land dedication, or community facilities. 
+This Comprehensive Plan anticipates that some of its infrastructure and community facilities 
+needs could be provided or financed through developer agreements or impact fees, if an 
+impact fee is enacted (see below). 
+11.2.2 Funding  
+Cost of the Plan 
+With Cecil County’s population projected to increase by almost 50 percent by 2030 to 
+approximately 155,000, demand for community facilities and services will increase 
+significantly (see Chapter 8).  Demand for land for some community facilities, especially for 
+schools, and parks and recreation will be particularly acute. 
+Table 11-1 summarizes the costs for community facilities (including roads) anticipated to be 
+needed to meet the 2030 population demand.  A detailed table with the individual projects is 
+provided at the end of this chapter.  The tables are drawn from the FY 2010-2014 County 
+Capital Improvement Program supplemented by input from county agencies and departments 
+regarding their anticipated needs beyond 2014 based on the Comprehensive Plan’s projected 
+growth.    
+Table 11.1 
+2030 Facilities and Infrastructure Needs Cost Estimate Summary  
+  
+Cost in $ thousands 
+ 
+Total Project 
+Costs1 
+Funding Through 
+FY'10 
+Future Funding 
+Need 2011-20302 
+Cecil College 
+$75,344 
+$399  
+$74,945 
+Public Schools 
+$478,304 
+0 
+$478,304 
+Libraries 
+$53,510 
+$1,500 
+$52,010 
+Health 
+$18,550 
+0 
+$18,550 
+Social Services 
+$21,875 
+0 
+$21,875 
+EMS 
+$2,390 
+0 
+$2,390 
+Roads3 
+$270,329 
+$6,279 
+$264,050 
+Fire 
+$0 
+0 
+0 
+Public Safety 
+$43,865 
+$22,124 
+$21,741 
+Parks 
+$95,737 
+0 
+$95,737 
+Senior Services 
+$1,680 
+0 
+$1,680 
+Information Technology 
+$4,000 
+0 
+$4,000 
+ TOTAL 
+$1,065,584 
+$30,302 
+$1,035,282 
+Notes  
+Table includes only projects i) where there would be some County Funding ii) with funding needs beyond FY 2010. 
+Table does not include Enterprise Fund Projects: Water, Wastewater, Solid Waste. 
+1: Costs are expressed in 2009 dollars. 
+2: Based on costs provided in the CIP and estimates from various sources - see sources in notes in electronic 
+version of the table. 
+3 Some road construction projects are longer-range needs though the planning for them should begin before 2030.  
+The construction portions are listed as needed beyond 2030. 
+Sources: Cecil County 2010 Capital Improvement Program 4/7/09; Cecil County Public Schools 2010 Educational 
+Facilities Master Plan; February 2009 Comprehensive Plan Public Services COC Presentation; Cecil Community 
+College Strategic Plan 4/28/05; ERM
+
+<!-- page 185 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+11-5 
+The needs list is extensive and will likely challenge the County’s ability to fund and provide all 
+the facilities when needed.  Total costs through 2030 are expected to exceed $1 billion (in 
+2009 dollars).  Between FY 2007 and FY 2010 while the average annual County capital 
+budget has been approximately $60 million, the County share was approximately $30 million, 
+of which only approximately $10.6 million has been Paygo funding.4   
+Property taxes and use of general obligation bonds that are paid back through general fund 
+(tax) revenues can create a burden for existing residents and businesses.  Given the amount 
+of growth forecast for Cecil County, and the projected service, facility and infrastructure 
+needs Cecil County should consider funding mechanisms that distribute some of the costs of 
+growth to new development, through the application of impact fees, excise taxes, and/or 
+special taxing districts.   
+Taxes and fees on new development must be applied carefully as it can make new 
+development prohibitively expensive, discouraging the growth the County would like to 
+encourage, and can have a particularly negative effect on the provision of affordable housing.  
+Impact Fees 
+An impact fee is imposed on new development with the intent of recovering the growth-
+related capital costs of facilities (or portions of facilities) needed to serve growth, thereby 
+minimizing the capital fiscal impact of growth on existing residents and businesses.  
+Revenues from impact fees must be tied to the actual costs attributable to the development 
+and can only be used to fund capital improvements in the geographic area impacted by the 
+new development.  Several Maryland counties require impact fees though some have moved 
+to excise taxes that offer more spending flexibility (see below). 
+Cecil County has a Commissioner form of government and would have to obtain the authority 
+to require impact fees from the Maryland General Assembly.  The County has proposed 
+impact fees in the past but the proposal has not been supported at the state level.    
+Excise Taxes 
+An excise tax is a tax, as opposed to a fee, with different approval, collection, and spending 
+requirements.  An excise tax is levied on building construction throughout a County, including 
+any towns, and the funds used for the capital costs of additional or expanded public works, 
+improvements, and facilities required to accommodate new construction or development.  
+Unlike impact fees, revenues from excise taxes can be spent anywhere in the County, and 
+some Maryland counties that had impact fees have moved to excise taxes, in part because of 
+this geographic spending flexibility.   
+As with impact fees Cecil County would have to obtain authority from the Maryland General 
+Assembly to levy an excise tax.  In 2000 Cecil County voters defeated at referendum a 
+proposal to authorize the County to impose an excise tax on new residential units (7,584 for; 
+20,314 against).  
+Special Taxing Districts 
+Special taxing districts are typically created to provide a single service, such as a sanitary 
+district to provide sewer and water service – this can be for new development or to provide a 
+new service to existing development.  If spending on infrastructure or community facilities 
+were financed through bonds, the bonds could be retired through the tax revenues from a 
+special taxing district.   
+In 2008 the Maryland General Assembly adopted legislation authorizing Cecil County to 
+create special taxing districts in Designated Growth Areas as defined in the County 
+Comprehensive Plan. 
+                                                     
+4 Funded out of currently available funds, as opposed to bonds that are paid off over time
+
+<!-- page 186 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+11-6 
+The 2010 Comprehensive Plan recommends special taxing districts only if other means such 
+as impact fees or an excise tax could not be enacted for similar purposes, because the 
+infrastructure and community facilities recommended in the Comprehensive Plan would 
+benefit the County and its population as a whole not just the people or the area that would be 
+subject to the special tax.  In addition a special taxing district in Designated Growth Areas 
+could be a disincentive to growth where growth is desired.  
+Tax Incremental Financing 
+Tax incremental financing (TIF) is a financial tool directly related to the provision of 
+infrastructure for economic development.  TIF enables local governments to fund 
+infrastructure improvements in designated areas through the sale of bonds that are paid off 
+from the increment of tax revenue generated by the increased value of the property after it is 
+developed or redeveloped. 
+TIF is usually applied in areas where the local government wants to encourage development 
+or redevelopment.  The TIF process involves identifying a project area or TIF district, 
+calculating the existing tax base in the district, estimating the future value of the property after 
+development or redevelopment, and selling tax increment bonds to finance the infrastructure 
+improvements needed to develop the project.  As the property values rise, the tax revenue 
+generated from the “increment” of tax revenue generated by the project is used to retire the 
+bonds. 
+Cecil County has authority to use tax increment financing but, to date, it has not been used.  
+Most recently, TIF financing has been proposed for improvements related to the development 
+of a gaming parlor on 36 acres west of Perryville Road (MD 222) north of Interstate 95.  As 
+noted in Chapter 4, Economic Development, this property is part of a larger site proposed as 
+an entertainment destination.  This type of development is consistent with the goals of TIF 
+financing, and other projects could be funded through this mechanism in the future. 
+11.2.3 Organizational Capacity 
+Cecil County is one of eight counties in Maryland with a “Commissioner” form of government.  
+This means that Cecil County does not have home rule, and it has limited authority to 
+legislate on local matters without the prior specific consent of the Maryland General 
+Assembly.  The five-member Board of County Commissioners is the County’s legislative 
+governing body.  There is no County Executive. 
+Article 25 of the Maryland Annotated Code establishes specific duties and powers of the 
+Board of County Commissioners.  The Commissioners adopt ordinances (local laws) and 
+resolutions to establish policies and programs to protect the health, safety, and general 
+welfare of Cecil County residents.  Article 25 states that the Commissioners are governed by 
+express authority granted by the Maryland Legislature, which means all new legislation, other 
+than those specifically stated in Article 25, is required to be approved and passed by the 
+State Legislature.   
+Ten counties in Maryland operate as “Charter” counties under provisions of the Maryland 
+Constitution.  In these counties, voters have approved a formal charter outlining the structure 
+of the county government, and in eight of the 10 charter counties, executive and legislative 
+powers have been divided between an elected executive and an elected council. In two of the 
+charter counties, an elected council that appoints an administrator/manager has retained 
+executive and legislative powers.5  The remaining six counties operate as “Code Home Rule” 
+governments, where voters have approved home-rule power for the commissioners.  Harford 
+County functions as a charter government, while Kent and Queen Anne’s counties are code 
+home rule counties. 
+                                                     
+5 Maryland Association of Counties (MACo)
+
+<!-- page 187 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+11-7 
+In 2010, Cecil County voters will consider whether to change the County’s status to a charter 
+county.  A charter form of government would give Cecil County the authority to enact excise 
+taxes and impact fees without separate state authorization.  Numerous referenda proposing 
+charter government and Code Home rule have been defeated in the past 30 years, and a 
+Charter Board is drafting a proposed document that would serve as the basis for the 2010 
+referendum.  
+Inter-jurisdictional coordination 
+Continued coordination between the County and the towns in the County is critical to the 
+county’s future well-being and the success of this Comprehensive Plan. The towns are 
+projected to absorb close to 30 percent of future residential growth in the County (Table 2.2), 
+they contain most of the community facilities, and the retail/commercial areas in the County.  
+Past coordination efforts have had mixed success due to sometimes competing interests, but 
+need to be renewed around a common vision.  
+11.3 
+Smart, Green and Growing Legislation 
+In 2009, as part of Smart, Green and Growing Legislation, the General Assembly enacted 12 
+new planning visions that define the State’s land use policy (see Chapter 1 of this 
+Comprehensive Plan).  Related legislation sets forth a framework to measure how local 
+governments are implementing planning visions.  The Smart Growth Goals, Measures, and 
+Indicators and Implementation of Planning Visions bill (Senate Bill 276 and House Bill 295) 
+requires local planning commissions to submit annual reports beginning in 2011 that include 
+specific smart growth measures and indicators, including the: 
+• 
+Amount and share of growth that is being located inside and outside the Priority Funding 
+Area (PFA);  
+• 
+Net density of growth that is being located inside and outside the PFA;  
+• 
+Creation of new lots and the issuance of residential and commercial building permits 
+inside and outside the PFA;  
+• 
+Development capacity analysis, updated once every three years or when there is a 
+significant zoning or land use change;  
+• 
+Number of acres preserved using local agricultural land preservation funding. 
+The bill also establishes a statewide land use goal to increase the percentage of growth 
+within the PFA and decrease the percentage of growth outside the PFA (the bill does not 
+specify the percentage).  
+Recognizing that the 12 planning visions will not be realized unless local jurisdictions set their 
+own goals, the legislation requires local jurisdictions to develop a percentage goal toward 
+achieving the statewide goal. The annual report also must also include: a local goal; a 
+timeframe to achieve the local goal; the resources local governments need for infrastructure 
+inside the PFA and land preservation outside the PFA; and any incremental progress the 
+jurisdiction has made toward achieving the local goal.   
+The policy in Chapter 3 of this Comprehensive Plan to ensure that development in rural areas 
+does not exceed a desirable share of overall county development is related to the goal 
+required in the Smart Growth Goals, Measures, and Indicators legislation and provides the 
+basis for the County’s local land use goals in response to the new requirements.  As noted in 
+Chapter 3, the Priority Funding Areas in the County are not contiguous with the future land 
+use districts, so refinements to the PFAs and the County’s share of development goal may be 
+necessary after the Plan is adopted to make them consistent.
+
+<!-- page 188 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+11-8 
+11.4 
+Policies and Actions 
+1. Review the County’s ability to provide and pay for the public services and facilities 
+needed support future growth; schools, roads, transit, parks, police, fire and emergency 
+services, health care libraries, water and sewer, and solid waste. 
+2. Determine the degree to which the plan's recommendations are fiscally achievable.  
+Prioritize plan recommendations for implementation as may be constrained by periodic 
+fiscal conditions.   Examine the feasibility of impact fees, excise taxes, special taxing 
+districts, and/or other means to help keep the plan fiscally achievable. 
+3. Consider an APFO to address future needs.   
+4. Consider whether Development Rights and Responsibilities Agreements would be a 
+useful tool for Cecil County.  
+5. Coordinate with the Towns to implement the Towns’ and the County’s Comprehensive 
+Plans. 
+6. In collaboration with the Towns and the State, identify and then collect measures, 
+indicators, and data to meet the State’s Smart, Green and Growing Act requirements for 
+annual reports, beginning in 2011, establishing a goal and documenting the amount of 
+growth occurring inside and outside the Priority Funding Areas.
+
+<!-- page 189 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+11-9 
+11.5 
+Summary of Implementation Policies and Actions 
+The 2010 Comprehensive Plan includes many policies and action items to translate the 
+County’s goals into reality.  The table below summarizes the actions from each chapter, lists 
+the responsible County agency or agencies, and defines the timeframe in which the 
+implementation action should be achieved. 
+The following abbreviations are used in the “Responsibility” column of this element. 
+ 
+B 
+Department of Budget 
+BCC 
+Board of County Commissioners 
+CC 
+Cecil College 
+CPS 
+Cecil County Public Schools 
+CCPL Cecil County Public Library  
+DPW 
+Department of Public Works 
+ED 
+Office of Economic Development  
+ES 
+Department of Emergency Services 
+HO 
+Office of Housing & Community Development 
+HD 
+Health Department 
+PC 
+Planning Commission 
+P&I 
+Department of Permits and Inspections 
+PR 
+Department of Parks and Recreation 
+PZ 
+Office of Planning and Zoning 
+SCT 
+Department of Senior Services and Community Transit 
+SO 
+Sheriff’s Office 
+ 
+As described in the Plan Introduction, the following definitions are used in the “Timeframe” 
+column in this element: 
+1 = Underway/ongoing 
+2 = Immediate: 0-5 years 
+3 = Medium Range: 5-10 years 
+4 = Long Range: Beyond 10 years
+
+<!-- page 190 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+11-10 
+Table 11.2 
+Plan Implementation 
+Policy/Action Summary (see Chapters for full text) 
+Responsibility
+(Lead in bold) 
+Timeframe 
+Land Use 
+1 
+Use the future land use map as a basis for updating the County’s zoning map and zoning and land development 
+ordinances.  
+PZ 
+2 
+2 
+Make the Growth Corridor attractive and functional to attract people to live and businesses to locate and expand: 
+Provide adequate, attractive infrastructure and community facilities to serve the area; schools, transit, sidewalks and 
+trails, parks, cultural amenities, police, fire and emergency services, health care, libraries, as well as basic services such 
+as roads, water and sewer, telecommunications, and solid waste.  
+Review the Planned Unit Development (PUD) regulations and approval process to make PUDs easier to develop in 
+desired locations (see Section 3.5.1).   
+Create mixed use zoning districts to facilitate development in the Future Land Use Map’s Mixed Use areas.  Encourage 
+the development of horizontal and vertical mixed uses 
+Adopt a Smart Code Ordinance to provide urban design requirements leading to the building of attractive, walkable, 
+communities (see Section 3.6.2).  
+Consider increasing the maximum height limits in the zoning ordinance. 
+Consider establishing minimum development densities in portions of the Growth Corridor.  
+PZ 
+2 
+3 
+Consider a growth management policy to ensure that development in rural areas does not exceed a desirable share of 
+overall county development.  Appoint a broad-based committee to recommend a plan and related ordinances to 
+implement this policy.   
+BCC, PZ 
+2 
+4 
+Review the Transfer of Development Rights (TDR) program, including the sending and receiving rates, to incentivize its 
+use to the greatest degree possible.   
+PZ 
+2 
+5 
+Continue to use all means to preserve land in the Rural Areas for agricultural and natural resource pursuits.   
+BCC, PZ 
+1 
+6 
+Locate commercial uses at key intersections and nodes and not as strip development along major roads. 
+PZ, PC, BCC 
+1 
+7 
+Coordinate with the Towns to plan for future annexation areas, and for compatible land uses along common boundaries. 
+PZ, PC, BCC 
+1 
+8 
+Coordinate with the State and the Towns to identify improvements for the US 40 corridor to support its role as the 
+County’s primary business corridor 
+PZ, DPW, ED 
+2 
+9 
+Conduct a Village District Study to evaluate current conditions in villages, changes since the villages were designated, 
+and whether adjustments should be made to the zoning map and text as they affect villages. 
+PZ 
+3 
+10 
+Conduct a study of county scenic roads and determine whether a protection program for the road and of the land and 
+views from the road is warranted.   
+PZ 
+3 
+Economic Development 
+1 
+Encourage the development of office uses along the US 40 corridor, especially in the Mixed Use areas, where they can 
+be integrated with residential and commercial/retail uses. 
+PZ, PC, BCC 
+2 
+2 
+Focus the Mixed Use area between US 40 and MD 7 west of Elkton on employment uses, in campus-like office settings, 
+supporting the County’s goal of making US 40 its primary business corridor.  
+PZ, PC, BCC 
+3 
+3 
+Make available a listing of all commercially and industrially zoned land that can be developed as office uses in support of 
+BRAC.  
+ED 
+2 
+4 
+Provide infrastructure, including water, sewer and roads, to designated employment and mixed use areas.  
+DPW, PZ 
+1 
+5 
+Continue efforts to relocate the tollbooths on Interstate 95 to the Maryland-Delaware state line. 
+BCC 
+1
+
+<!-- page 191 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+11-11 
+Policy/Action Summary (see Chapters for full text) 
+Responsibility
+(Lead in bold) 
+Timeframe 
+6 
+Support the economic viability of farming, equine, forestry and related business activities. 
+Review the need to expand the types of activities considered to be value-added agricultural related enterprises. 
+Consider expanding permissible agriculture and forestry support enterprises in the Rural Conservation and Resource 
+Protection areas. 
+Review standards for retail on-site sales on land not zoned for business use (currently addressed in the zoning 
+regulations as farmers markets and roadside stands).   
+PZ 
+2 
+7 
+Promote tourism by continuing to build upon the County’s character.  Coordinate with the State, towns, and businesses 
+to attract tourists from nearby major population centers, especially to the Lower Susquehanna Heritage Greenway. 
+ED 
+1 
+8 
+Take advantage of the freight rail lines that traverse Cecil County by promoting this asset as an economic 
+development opportunity and directing employment uses that rely on fuel-efficient cargo operations to 
+designated employment areas along rail lines. 
+ED
+1 
+9 
+Encourage and support the provision of telecommunications services to commercial, industrial, governmental, and 
+residential users in the Growth Areas.  Work with service providers to extend broadband to other areas of the County. 
+ED, DPW 
+1 
+10 
+Encourage the training and development of the local labor force to fulfill the future needs of local industry, especially in 
+science, technology, engineering and math.  Continue to work with Cecil College, the Cecil County Public Schools and 
+other partners to expand workforce development programs. 
+ED 
+1 
+11 
+Explore the potential to develop a commercial fishing dock in Cecil County to provide opportunities for the offloading of 
+seafood. 
+ED 
+3 
+Transportation  
+1 
+Complete the following projects, working the State Highway Administration as appropriate. 
+I-95 widening (one lane in each direction) Delaware line to the Susquehanna River 
+MD 213 US 40 to Frenchtown Road; 2 to 4 lane divided. 
+MD 272 US 40 to Lums Road; 2 to 4 lane divided 
+Intersection upgrade at US 40 and MD 213 in Elkton. 
+North-south connection between MD 7 and US 40 to serve the Mixed Use Employment area west of Elkton. 
+Extension of Chesapeake Boulevard to Maloney Road  
+DPW, PZ 
+1 
+2 
+Work with the State Highway Administration to evaluate the following projects: 
+Northern loop route around Elkton, from MD 781 (Delancy Road) to MD 279, through Elkton West to Marley Road and to 
+US 40.  
+Intersection upgrade at US 40 and MD 222 in Perryville. 
+DPW, PZ 
+2 
+3 
+Work with the State Highway Administration and the Departments of Public Works, Planning and Zoning, and Economic 
+Development to put in place plans and programs that implement the County’s vision for US 40. 
+PZ, DPW, ED, 
+SCT 
+3 
+4 
+Work with MdTA and SHA to evaluate the relocation of tolls on I-95 and US 40 to the eastern side of the County, and to 
+minimize toll and truck weight avoidance in conjunction with establishment of a US 301 toll.. 
+DPW, ED, PZ 
+1 
+5 
+Consider amending the County’s development ordinance to refer to the Comprehensive Plan’s LOS standards or to 
+adopt those standards directly into the ordinances.   
+PZ 
+2 
+6 
+Support the extension of MARC and SEPTA service to Elkton, in cooperation with MTA, WILMAPCO, and other agencies 
+as appropriate.  
+PZ, DPW 
+1 
+7 
+Increase local bus transit in Cecil County to augment proposed rail service, and to link rail stations to employment and 
+commercial centers and residential areas. 
+SCT 
+1 
+8 
+Incorporate transit considerations into US 40 upgrades. 
+SCT 
+3
+
+<!-- page 192 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+11-12 
+Policy/Action Summary (see Chapters for full text) 
+Responsibility
+(Lead in bold) 
+Timeframe 
+9 
+Promote ride sharing by establishing and expanding park and ride lots at key locations, including train stations, and link 
+park-and-ride lots to transit service. 
+PZ, SHA 
+1 
+10 
+Encourage transit accessibility to nearby commercial airports in Baltimore and Philadelphia 
+PZ 
+3 
+11 
+Create a trails network building on the trails and greenways concept in the County’s Land Preservation Parks and 
+Recreation Plan (2005), including the Lower Susquehanna Heritage Greenway 
+PZ, PR 
+1 
+12 
+Encourage the development of walkable communities that serve a wide range of incomes and physical abilities, while 
+reducing dependence on automobile travel 
+PZ, PC 
+1 
+13 
+Consider impact fees or a development excise tax to provide additional County funds for transportation improvements.  
+PZ, B, BCC 
+2 
+14 
+Consider designating funds specifically for transit, bicycle, pedestrian, and other projects that provide alternatives to 
+single-occupant vehicle trips. 
+PZ, BCC 
+2 
+15 
+Consider a County scenic and/or historic roads program, focused on County roads.   
+PZ 
+3 
+16 
+Support the use of existing rail lines for commercial goods shipments to reduce through truck traffic on major roads. 
+ED 
+1 
+17 
+Utilize County waterway connections to the Chesapeake and Delaware Canal to promote shipment of commodity goods 
+such as gravel and agricultural products out of the County by barge rather than by truck 
+ED 
+1 
+18 
+Consider adopting an Airport Overlay District for the area around the County’s airports.  Provisions of this district would 
+include notification of potential navigation hazards, and coordination with the Maryland Aviation Administration, as 
+described in Section 3.6.6 
+PZ 
+2 
+19 
+Continue to improve the safety of roads in the County, particularly those identified in the 2007 Roadway Improvement 
+Strategic Plan, as well as the I-95/MD 222 interchange 
+DPW, SHA 
+1 
+20 
+Continue the County’s program of bridge rehabilitation and replacement 
+DPW 
+1 
+Water Resources  
+1 
+Aggressively pursue development of water resources infrastructure in growth areas.  High priority actions include: 
+Expand the water distribution system in the Elkton West service area. 
+Combine and upgrade wastewater collection and treatment systems in the Elkton West service area.  This includes 
+retirement of the Cherry Hill and Highlands WWTPs and expansion of the Meadowview WWTP. 
+Upgrade and expand the Seneca Point WWTP and collection system to a capacity of at least 5 MGD by 2030.  This 
+expansion will require nutrient credits.  Therefore, the County should utilize MDE’s Nutrient Cap Management and 
+Trading policy for point sources, and forthcoming regulations for nonpoint source trading, and identify nutrient reduction 
+strategies that could provide credits to the Seneca Point WWTP. 
+DPW 
+1 
+2 
+Amend the County’s land development and other related ordinances as follows: 
+Revise the County’s stormwater management regulations to implement 2007 Maryland Stormwater Management Act.   
+Adopt the draft wellhead protection ordinance or a similar ordinance.  
+Within 1,000 feet of perennial streams, require all new development that is not connected to public sewer systems to use 
+Best Available Technology for nitrogen removal (septic denitrification).  Elsewhere, consider requiring nutrient credits 
+(similar to those established under the state Nutrient Cap Management and Trading policy) for subdivisions built using 
+septic systems.   
+Consider developing a Denied Access policy that designates all public health-related extensions of water and sewer 
+service into rural areas as Denied Access (with provisions to remove Denied Access status where appropriate). 
+Consider developing a County policy and/or regulations regarding agricultural land application of sludge from County 
+wastewater treatment plants.  
+DPW, PZ 
+2 
+3 
+Incorporate water and sewer information from this Comprehensive Plan into the next revision of the County’s Water and 
+Sewer Master Plan. 
+PZ 
+2
+
+<!-- page 193 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+11-13 
+Policy/Action Summary (see Chapters for full text) 
+Responsibility
+(Lead in bold) 
+Timeframe 
+4 
+As a part of the next Comprehensive Plan review, update and refine the non-point source loading analyses (including 
+point source data) used for this WRE. 
+PZ 
+3 
+5 
+Closely monitor the extension of water and sewer service by Artesian to ensure that water and sewer infrastructure is 
+developed in aBCCordance with the County’s land use and growth priorities. 
+DPW 
+1 
+6 
+Design and implement a rigorous water conservation education program.  As part of this program, conduct routine 
+system-wide water use audits to minimize water loss through leaks. 
+DPW 
+3 
+7 
+Working cooperatively with the municipalities, create and implement a drought management policy for public water 
+systems. 
+DPW 
+3 
+8 
+Work with municipalities, private water suppliers, MDE, and DNR to secure new surface water sources within the county 
+to meet long-term (post-2030) needs, including (but not limited to): 
+New surface water impoundments, particularly on Principio Creek and at Elk Mills Quarry. 
+New surface water withdrawals from the Susquehanna River, coordinated with Susquehanna River basin Commission 
+and municipalities, as necessary. 
+Additional groundwater wells on Elk Neck Peninsula (coordinating with the Maryland Department of Natural Resources, 
+for well locations on State Forest land), and elsewhere throughout the County. 
+Water desalination. 
+DPW 
+3 
+9 
+Encourage fluoridation of all community water systems, and seek State funding for these improvements. 
+ 
+ 
+10 
+Investigate options for a program to encourage the use of cisterns, including regulations and requirements for the design 
+and maintenance of these facilities. 
+ 
+ 
+11 
+Continue to identify and eliminate sources of inflow and infiltration (I/I) to free up additional capacity at treatment plants. 
+DPW 
+1 
+12 
+Identify areas in the County suitable for treated wastewater land application techniques (such as spray irrigation) and 
+tertiary treatment wetlands.  Land should be acquired or reserved before 2030 to meet the County’s longer term 
+wastewater disposal needs.  
+DPW 
+3 
+13 
+Continue to actively pursue the abatement of failing septic systems—particularly those identified in the County Water and 
+Sewer Master Plan—through connection to public sewer systems, where appropriate.  Work with MDE to ensure that the 
+County receives nutrient credits for such actions. 
+DPW 
+1 
+14 
+Promote the re-use of stormwater and treated wastewater for purposes such as on-site irrigation, non-potable process 
+water (industrial activities), and other uses, where appropriate. 
+DPW 
+2 
+15 
+Incorporate watershed-based planning into the County’s comprehensive planning program, with the goal of managing 
+watersheds and making day to day decisions in ways that protect, conserve, and restore water quality.  
+PZ 
+3 
+16 
+In conjunction with the annual land use reporting requirements of Maryland’s 2009 Smart, Green, and Growing legislation 
+monitor water quality and the amount of impervious surface at the 8 digit watershed level.   
+PZ 
+2 
+17 
+Work with counterparts in Pennsylvania and Delaware to address nutrient impairments in watersheds that cross state 
+boundaries. 
+DPW 
+1 
+Sensitive Areas 
+1 
+Refine the Priority Preservation Area map and acreage goals as part of the recertification of the County’s agricultural 
+land preservation program 
+PZ 
+2 
+2 
+Review the Transfer of Development Rights program.   
+PZ 
+2 
+3 
+Continue to participate in land preservation programs including the Maryland Agricultural Land Preservation Foundation, 
+Program Open Space, Rural Legacy, and Forest Legacy, and with land trusts and other land preservation organizations. 
+PZ, BCC 
+1 
+4 
+Continue to fund the County’s Purchase of Development Rights (PDR) program and seek to increase funding.  
+PZ, BCC 
+1
+
+<!-- page 194 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+11-14 
+Policy/Action Summary (see Chapters for full text) 
+Responsibility
+(Lead in bold) 
+Timeframe 
+5 
+Consider other types of land preservation including PDR by parties other than the county or state, and cluster 
+subdivisions with a high open space preservation requirement.  
+PZ 
+2 
+6 
+Consider appointing a broad-based Committee to i) study and evaluate the 2007 Green Infrastructure Plan’s 
+recommendations in relation to the newly adopted Comprehensive Plan and ii) identify steps the County can take to 
+implement a green infrastructure plan in ways that will support and not conflict with the Comprehensive Plan’s other 
+goals, objectives, policies, and actions. 
+BCC, PZ 
+2 
+7 
+Incorporate watershed-based planning into the County’s comprehensive planning program.  
+PZ 
+3 
+8 
+Expand the required non-tidal wetland buffer outside of growth areas from 25 feet to 75 feet.  
+PZ, PC, BCC 
+2 
+9 
+Review other environmental standards, such a forest conservation and habitat protection, as part of the development 
+regulations update which will occur after adoption of the Comprehensive Plan  
+PZ 
+2 
+10 
+Consider creating a county-level forest conservation program that would allow participation by property owners whose 
+parcels are not large enough to qualify for under state programs.   
+PZ 
+3 
+Community Facilities 
+1 
+Explore funding and growth management mechanisms to ensure community facilities are provided concurrent with 
+growth and demand.     
+PZ, B 
+1 
+2 
+Focus attention on providing community facilities in convenient locations in the growth corridor to ensure this area is 
+attractive to people and for development 
+PZ with all 
+departments 
+1 
+3 
+Consider co-locating and developing community facilities as joint facilities such as parks, senior centers and Health 
+Department facilities 
+PZ with all 
+departments 
+1 
+4 
+Encourage the use of the latest environmental and energy saving technologies in community facilities buildings and site 
+designs 
+All departments 
+1 
+5 
+Expand use of technology to deliver efficient and effective community facilities and services 
+All departments 
+1 
+6 
+Adopt policies and procedures to ensure public schools have adequate capacity as new development occurs.  Policies 
+and procedures could include Adequate Public Facilities requirements, development contributions of land or facilities, 
+excise taxes or impact fees, and “front funding” of priority BCCPS projects.  
+PZ, CCPS 
+2 
+7 
+Support infrastructure needs related to institutional growth at Cecil College 
+CC, BCC 
+1 
+8 
+Acquire public recreation land in accordance with the County’s Land Preservation Parks and Recreation Plan.  
+PR 
+1 
+9 
+Identify potential public and private partnerships and funding sources to implement the County’s recreation goals 
+PR 
+1 
+10 
+Cultivate and encourage interest in the performing arts by further strengthening the relations with Cecil County Arts 
+Council and Cecil College’s Community Cultural Center 
+CC, ED 
+1 
+11 
+Identify potential sites and acquire land for a future county correctional facility 
+SO 
+4 
+12 
+Support volunteer fire companies by continuing funding support for apparatus replacement; support those departments 
+that need to hire paid personnel; and incentives to promote volunteer activity. 
+BCC 
+1 
+13 
+Expand the EMS infrastructure, including 911 technology, paramedic stations, and equipment 
+ES 
+2 
+14 
+Create a Central Booking Center 
+BCC, SO 
+3 
+15 
+Identify funding for additional facilities, including substations and other infrastructure to support both law enforcement 
+and corrections.   
+BCC, SO 
+3 
+16 
+Invest more money in technology to deliver efficient and effective public safety services. 
+BCC 
+2 
+17 
+Develop a comprehensive Public Safety Master Plan 
+SO 
+2 
+18 
+Work with Union Hospital, the Health Department, the Department of Social Services and charitable organizations to 
+coordinate care of the sick and elderly. 
+HD, SCT 
+1 
+19 
+Encourage the development of satellite health facilities in areas of population growth as needed 
+HD 
+3
+
+<!-- page 195 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+11-15 
+Policy/Action Summary (see Chapters for full text) 
+Responsibility
+(Lead in bold) 
+Timeframe 
+20 
+Develop a timeline to plan for future space needs/renovation/new construction of the Health Department facility in Elkton 
+HD 
+2 
+21 
+Continue to reduce the growth of the solid waste stream through waste reduction and expansion of recycling programs.  
+DPW 
+1 
+22 
+Work with Cecil County Public Library to accommodate growth and demand for new or expanded facilities and smaller 
+branch libraries. 
+CCPL 
+1 
+Housing 
+1 
+Prepare a countywide housing needs study to include numerical housing goals and objectives.   
+HO 
+2 
+2 
+Provide opportunities in the Growth Corridor for higher density mixed-use housing that will facilitate the provision of 
+affordable housing, especially where it can be served by local and regional transit. Coordinate with the Towns to identify 
+similar opportunities within their borders. 
+PZ, HO 
+2 
+3 
+Encourage transit and mobility-friendly design in new communities, especially those containing workforce housing.  
+Support architectural and design flexibility to allow more affordable and workforce housing to be developed. 
+PZ, PC 
+1 
+4 
+Create incentives for private sector participation in the provision of affordable housing.  Consider tax or other incentives 
+for developers that build affordable housing, including affordable units in the same developments as more expensive 
+units 
+HO, PZ, B 
+2 
+5 
+Continue programs to rehabilitate existing substandard housing in the County. This action will increase the number of 
+affordable housing units available to workforce families. 
+HO 
+1 
+6 
+Continue programs to support the homeless and other special needs populations. 
+HO 
+1 
+7 
+Improve energy efficiency standards and establish a rating system for new residential development. 
+PZ, HO, P&i 
+ 
+Mineral Resources 
+1 
+Support the responsible mining of Cecil County’s mineral resources. 
+PZ, BCC, PC 
+1 
+2 
+Reduce conflict that could interfere with the extraction of mineral resources in mineral extraction areas by allowing other 
+development of a type and intensity that is compatible with nearby mining activities until the mineral resources are 
+removed or have been demonstrated to be economically unrecoverable. 
+PZ 
+1 
+3 
+Balance the interests of the mining industry against the interests of individuals living or working on land adjacent to areas 
+that may be excavated in the future so that conflicts among these parties can be minimized. 
+PZ, ED 
+1 
+4 
+Strictly control mineral extraction activities in environmentally sensitive areas to protect natural resources, balancing the 
+right to extract mineral resources with the need to protect sensitive areas. 
+PZ 
+1 
+5 
+Continue to require that a special study be completed to determine the future use of the Mineral Extraction areas after 
+extraction is complete.  Use the Comprehensive Plan as guidance for potential future uses including, for example, use of 
+mined land for water resource uses, reservoirs or tertiary treatment wetlands. 
+PZ, BCC, PC  
+1 
+Implementation 
+ 
+ 
+1 
+Review the County’s ability to provide and pay for the public services and facilities needed support future growth. ; 
+schools, roads, transit, parks, police, fire and emergency services, health care libraries, water and sewer, and solid 
+waste. 
+B, and all agencies 
+1 
+2 
+Determine whether the County will need additional funding sources to pay for the plan.  Determine which funding 
+sources, if any, would be best for the County; impact fees, excise taxes, and/or special taxing districts. 
+B, BCC 
+2 
+3 
+Consider an APFO to address future needs.   
+PZ, CCPS 
+3 
+4 
+Consider whether Development Rights and Responsibilities Agreements would be a useful tool for Cecil County.  
+PZ, PC 
+2 
+5 
+Coordinate with the Towns to implement the Towns’ and the County’s Comprehensive Plans. 
+All agencies 
+1 
+6 
+Work with the Towns and the State to collect measures and indicators data to meet the State’s Smart, Green and 
+Growing requirements for an annual report beginning in 2011, establishing a goal and documenting the amount of growth 
+occurring inside and outside Priority Funding Areas. 
+PZ 
+2
+
+<!-- page 196 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+11-16 
+Table 11.3 
+ 2030 Facilities and Infrastructure Needs Cost Estimate  
+Community Facilities Needs and Funding 2010 - 2030 
+Table includes only projects i) where there would be some County Funding ii) with funding needs beyond FY 2010. Table does not include Enterprise Fund 
+Projects: Water, Wastewater, Solid Waste 
+ 
+ 
+ 
+$ Cost in thousands (2009 $) 
+ 
+ 
+2030 Community Facilities Need 
+Total Project 
+Cost
+1 
+Funding 
+Through 
+FY'10 
+Future Funding 
+Need 2011-2030
+2 
+County Share 
+of Future 
+Funding Need 
+Source 
+Cecil 
+College 
+Cecil College Engineering and Math Building - NE Campus 
+19,526  
+399 
+19,127 
+7,810 
+CIP FY'10, EFMP '10 
+Cecil College HVAC Systems 
+573 
+- 
+573 
+229 
+CIP FY'10 
+Cecil College Technology Infrastructure Phase II 
+425 
+- 
+425 
+170 
+CIP FY'10 
+New Student Center (North East) 
+12,345 
+- 
+12,345 
+4,938 
+Cecil College Campus Master Plan 
+New Facilities Management and Receiving Bldg (North East) 
+2,447 
+- 
+2,447 
+979 
+Cecil College Campus Master Plan 
+New Learning Commons (North East) 
+1,718 
+- 
+1,718 
+687 
+Cecil College Campus Master Plan 
+Arts and Sciences Building Renovations (North East) 
+1,519 
+- 
+1,519 
+608 
+Cecil College Campus Master Plan 
+Technology Center Renovations (North East) 
+995 
+- 
+995 
+398 
+Cecil College Campus Master Plan 
+Community Cultural Center Renovation/Addition (North East) 
+1,915 
+- 
+1,915 
+766 
+Cecil College Campus Master Plan 
+Facilities Maintenance Projects (North East) 
+1,728 
+- 
+1,728 
+691 
+Cecil College Campus Master Plan 
+New Academic Building (North East) 
+10,829 
+- 
+10,829 
+4,332 
+Cecil College Campus Master Plan 
+Future Maintenance Projects (North East) 
+324 
+- 
+324 
+130 
+Cecil College Campus Master Plan 
+New building (Bainbridge) 
+21,000 
+- 
+21,000 
+8,400 
+Cecil College Campus Master Plan 
+Public 
+Schools 
+New Comprehensive Career and Technology (CTE) High School 
+62,463 
+- 
+62,463 
+30,854 
+CIP FY'10, EFMP '10 
+North East High School Addition/Renovation 
+62,245 
+- 
+62,245 
+32,125 
+CIP FY'10, EFMP '10 
+North East Middle School Addition/Renovation 
+35,696 
+- 
+35,696 
+17,219 
+CIP FY'10, EFMP '10 
+New Gilpin Manor Elementary School  
+24,456 
+- 
+24,456 
+12,216 
+CIP FY'10, EFMP '10 
+Perryville Elementary Addition/Renovation 
+19,276 
+- 
+19,276 
+9,380 
+CIP FY'10 
+Chesapeake City Elementary Addition/Renovation 
+15,775 
+- 
+15,775 
+7,771 
+CIP FY'10, EFMP '10 
+Bohemia Manor Middle / High School (Addition ) 
+47,352 
+- 
+47,352 
+22,877 
+EFMP '10 
+Cherry Hill Middle School Renovation 
+24,407 
+- 
+24,407 
+11,819 
+EFMP '10 
+Leeds Elementary Addition/Renovation 
+19,110 
+- 
+19,110 
+9,932 
+EFMP '10 
+Thomson Estates Elementary Addition/Renovation 
+15,573 
+- 
+15,573 
+8,016 
+EFMP '10 
+Kenmore Elementary Addition/Renovation 
+11,951 
+- 
+11,951 
+5,871 
+EFMP '10 
+Elementary Schools (4) to accommodate 2020 to 2030 growth 
+80,000 
+ 
+80,000 
+? 
+ERM, CCPS 
+High School (1) needed to accommodate 2020 to 2030 growth 
+60,000 
+ 
+60,000 
+? 
+ERM, CCPS 
+Libraries 
+Elkton Central Library Replacement (replace by 2022) 
+25,000 
+- 
+25,000 
+? 
+COC Presentation 2/09, CCPL 
+North East Branch Library Replacement (includes central library 
+HQ) 
+19,810 
+1,500 
+18,310 
+? 
+CIP FY'10, CCPL
+
+<!-- page 197 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+11-17 
+Community Facilities Needs and Funding 2010 - 2030 
+Table includes only projects i) where there would be some County Funding ii) with funding needs beyond FY 2010. Table does not include Enterprise Fund 
+Projects: Water, Wastewater, Solid Waste 
+ 
+ 
+ 
+$ Cost in thousands (2009 $) 
+ 
+ 
+2030 Community Facilities Need 
+Total Project 
+Cost
+1 
+Funding 
+Through 
+FY'10 
+Future Funding 
+Need 2011-2030
+2 
+County Share 
+of Future 
+Funding Need 
+Source 
+Rising Sun Branch Library Expansion (replace by 2025) 
+3,000 
+- 
+3,000 
+? 
+COC Presentation 2/09, CCPL 
+Elkton & Rising Sun Security Upgrade 
+595 
+- 
+595 
+? 
+CIP FY'10 
+Port Deposit / Bainbridge Landscaping 
+105 
+- 
+105 
+? 
+CIP FY'10 
+New Cecilton Branch Library 
+4,000 
+- 
+4,000 
+? 
+COC Presentation 2/09, CCPL 
+Conowingo / Oakwood Branch 
+1,000 
+- 
+1,000 
+? 
+CCPL 
+Health 
+Health Department Systemic Upgrades 
+800 
+- 
+800 
+? 
+CIP FY'10 
+New Health Department Building 
+10,000 
+ 
+10,000 
+8,000 
+Stephanie Garrity, Health Dept 
+Health Department Building renovation 
+7,750 
+ 
+7,750 
+6,200 
+Stephanie Garrity, Health Dept 
+Social 
+Services 
+New Social Services Building 
+20,000 
+ 
+20,000 
+5,000 
+Nicholas Ricciuti, Dept of Social 
+Services 
+Child Advocacy Center 
+875 
+ 
+875 
+219 
+Nicholas Ricciuti, Dept of Social 
+Services 
+Relocated Domestic Violence Center 
+1,000 
+ 
+1,000 
+250 
+Nicholas Ricciuti, Dept of Social 
+Services 
+EMS 
+Fair Hill Station Construction 
+875 
+- 
+875 
+? 
+CIP FY'10 
+Sylmar Tower Construction 
+515 
+- 
+515 
+? 
+CIP FY'10 
+Paramedic Station #4 Perry Woods/Woodlands 
+500 
+- 
+500 
+? 
+CIP FY'10 
+Cecil College campus replacement station to serve the North 
+East area   
+500 
+- 
+500 
+? 
+COC Presentation 2/09 
+Roads 
+Roads and Bridges Through 2014 
+72,134 
+6,279 
+65,855 
+56,576 
+CIP FY'10 
+Roads and Bridges 2015-2030 
+197,565 
+ 
+197,565 
+169,729 
+ERM, Future need based on CIP 
+Elkton Loop Road - Entire Length - Planning and Environmental 
+Compliance 
+400 
+ 
+400 
+400 
+ERM, 2007 Roadway Strategic 
+Plan 
+Elkton Loop Road Right of Way acquisition 
+170 
+ 
+170 
+170 
+ERM, 2007 Roadway Strategic 
+Plan 
+US 40 to MD 7 connector (linking mixed use areas west of 
+Elkton) - Right of Way acquisition 
+60 
+ 
+60 
+60 
+ERM 
+US 40-MD 213 intersection improvement, Planning (County 
+forward fund?) 
+? 
+ 
+? 
+? 
+ERM 
+Fire 
+Fire Training Facility in the County 
+0 
+- 
+0 
+0 
+COC Presentation 2/09 
+Public 
+Safety 
+Cecil County Detention Center renovations 
+31,755 
+22,124 
+9,631 
+4,703 
+CIP FY'10 
+Land acquisition for correctional facility expansion/replacement 
+110 
+ 
+110 
+? 
+Sheriff Janney 
+Sheriff Substation in the proximity of Chesapeake City and 
+Cecilton 
+6,000 
+- 
+6,000 
+? 
+COC Presentation 2/09, Sheriff 
+Janney
+
+<!-- page 198 -->
+2010 Cecil County Comprehensive Plan 
+ 
+ 
+ 
+11-18 
+Community Facilities Needs and Funding 2010 - 2030 
+Table includes only projects i) where there would be some County Funding ii) with funding needs beyond FY 2010. Table does not include Enterprise Fund 
+Projects: Water, Wastewater, Solid Waste 
+ 
+ 
+ 
+$ Cost in thousands (2009 $) 
+ 
+ 
+2030 Community Facilities Need 
+Total Project 
+Cost
+1 
+Funding 
+Through 
+FY'10 
+Future Funding 
+Need 2011-2030
+2 
+County Share 
+of Future 
+Funding Need 
+Source 
+Sheriff Substation in the proximity of Rising Sun and Conowingo 
+6,000 
+- 
+6,000 
+? 
+COC Presentation 2/09, Sheriff 
+Janney 
+Parks 
+Acquire & develop 250-410 acres 
+25,961 
+- 
+25,961 
+? 
+LPPRP '05 
+Facility development projects 
+25,951 
+- 
+25,951 
+? 
+LPPRP '05 
+Acquire 1,750 acres of additional park/open space land to meet 
+needs through 2030 
+43,825 
+ 
+43,825 
+? 
+ERM/Dept Rec  & Parks 
+Senior 
+Services 
+Southern County Community Center 
+1,680 
+- 
+1,680 
+? 
+CIP FY'10 
+Informati
+on 
+Technolo
+gy 
+Upgrades and Improvements 
+4,000 
+ 
+4,000 
+4,000 
+Cecil County Budget Office 
+ 
+TOTAL COST³ 
+$1,065,584 
+$30,302 
+$1,035,282 
+ 
+ 
+ 
+Road Projects (beyond 2030) 
+ 
+ 
+ 
+ 
+ Source  
+Roads 
+Elkton Loop Road - 279 East to US 40 Construction $ 
+5,200 
+ 
+ 
+ 
+ERM, with inputs from JMT, SHA 
+ 
+Elkton Loop Road - 279 West to Marley Road Construction $ 
+17,200 
+ 
+ 
+ 
+ERM, with inputs from JMT, SHA 
+ 
+Elkton Loop Road - Amtrak and MD 279 Crossing (assumes 
+bridge) 
+26,000 
+ 
+ 
+ 
+ERM, with inputs from JMT, SHA 
+ 
+US 40 to MD 7 connector (mixed use area) Construction $ 
+2,000 
+ 
+ 
+ 
+ERM, with inputs from JMT, SHA 
+ 
+US 40 -MD 213 Intersection Reconstruction 
+ 
+ 
+ 
+ 
+SHA - Jim Dooley 
+Notes: 
+1: Costs are expressed in 2009 dollars 
+2: Based on costs provided in the CIP and estimates from various sources - see  sources in notes in electronic version of the table 
+Sources: Cecil County 2010 Capital Improvement Program 4/7/09; Cecil County Public Schools 2010 Educational Facilities Master Plan; February 2009 Comprehensive Plan Public Services 
+COC Presentation; Cecil Community College Strategic Plan 4/28/05

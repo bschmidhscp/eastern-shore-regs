@@ -74,8 +74,8 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - Two Sonnet agents collected 69 guidance documents (CAC buffer guides and model ordinance, FCA Technical Manual and
   2026 model ordinance, MDE BAT lists, OSSD site-evaluation guidance, BRF FY27 grant guidance, SB 236 guidance and
   MDP tier maps, Stormwater Design Manual, 2011 ESC standards, 2025 draft SWM rules, MALPF lot-exclusion forms, SDAT
-  ag transfer tax). Two scans are not OCR'd yet (Worcester Critical Area review, MDE site-evaluation manual;
-  `ocr.py --county Maryland --all`).
+  ag transfer tax). The two scanned ones (Worcester Critical Area review, MDE site-evaluation manual) were OCR'd.
+  Checked the public GitHub push: no originals/PDFs, no personal data (only vendor contacts from MDE's public BAT lists).
 - Wrote `01. Maryland/00. Summary.md` (cited; section 9 lists what each county summary must cover).
 - Findings: see Key findings (statewide) above.
 - **Next:** county digests and summaries (`Session - County Digests and Summaries.md`), citing the statewide summary.

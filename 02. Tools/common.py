@@ -79,7 +79,7 @@ def slug(s, maxlen=80):
     return s[:maxlen].rstrip("-") or "untitled"
 
 
-def get(url, retries=3, **kw):
+def get(url, retries=4, **kw):
     """GET with a real-browser TLS fingerprint (gets past Cloudflare on eCode360 etc.)."""
     url = url.replace(" ", "%20")  # links copied from pages often contain raw spaces
     last = None
@@ -89,6 +89,10 @@ def get(url, retries=3, **kw):
             if r.status_code == 200:
                 return r
             last = RuntimeError(f"HTTP {r.status_code} for {url}")
+            if r.status_code in (429, 503):  # rate-limited: honor Retry-After, else back off hard
+                ra = r.headers.get("retry-after", "")
+                time.sleep(int(ra) if ra.isdigit() else 30 * (i + 1))
+                continue
         except Exception as e:  # network hiccup
             last = e
         time.sleep(2 * (i + 1))

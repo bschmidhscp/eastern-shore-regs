@@ -36,7 +36,7 @@ added=$(git diff --cached --name-only --diff-filter=A -- '*/Code/*' '*/Documents
       [ "$(git diff --cached --name-status -- "$f" | cut -f1)" = "M" ] || continue
       echo "### $f"
       echo '```diff'
-      git diff --cached -U1 "${NOISE[@]}" -- "$f" | grep -E '^[-+][^-+]' | head -60
+      git diff --cached -U1 "${NOISE[@]}" -- "$f" | grep -E '^[-+][^-+]' | head -60 || true
       echo '```'
     done
   fi
