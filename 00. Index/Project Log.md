@@ -107,6 +107,24 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
+### 2026-10-15 (late) — Who buys lots, what moves each deal, diligence packs, owner outreach (Brian + Claude)
+- **Who buys lots (`Screener/12. Who Buys Lots.md`):** traced from SDAT chains (vacant lot sale → house built → new home
+  sold: the home's seller bought the lot). 796 lots, 275 buyers, 49 bought 3+: NVR/Ryan Homes 86 (median lot $165K),
+  CMH/Clayton 62 ($44K), MD Residential by LaCrosse 48 ($68K), Gemcraft 40 ($99K), Davidson Development 26 ($55K).
+  Each deal lists the most active lot buyers within 15 miles (last 6 years) — the builders to line up before the plat.
+- **What moves this deal** on every deal: profit with lots −20%, owner's price +25%, soft costs +25%, one lot failing
+  perc, and a 6-month delay (shown as IRR: carve-outs carry no land, so a delay costs time, not money). Typical
+  Pursue: one lot failing perc −$112K, lots −20% −$92K, land +25% −$26K, soft +25% −$23K.
+- **Diligence pack on request** (`python -m screener.diligence --acct …` → `Screener/Diligence/`) and **owner outreach**
+  (`python -m screener.outreach` → `Screener/Outreach/<date>/`: mail-merge CSV + letter template, most-likely sellers
+  first; opening price and walk-away kept internal; nothing is sent automatically). Owner names aren't published.
+- **Lot model sharpened:** the local adjustment now uses the 4 nearest sales within 3 km — out-of-time error ±33%
+  (was ±35%), CV 30.2%; Cecil no longer runs high (Somerset +21%, Wicomico +11% still do). Regional price indexes
+  were tested and rejected (no improvement). Side effect: 53 deals entered and 53 left Pursue (borderline deals moved
+  with closer comps) — see `Screener/11. What Changed.md`.
+- **Historical replay:** no public archive of past parcel maps (MDP iMAP serves current boundaries only); MDP's
+  Property Mapping Unit (410-767-4500) would have to supply older MdProperty View editions.
+
 ### 2026-10-15 (night) — Trust layer and monthly autopilot (Brian + Claude)
 - **Automatic checks ("Check" badge + filter on the board):** a deal is flagged when our numbers disagree sharply with
   independent evidence — non-farm value vs. assessment; for farms (assessed at farm-use value) the land model vs. five

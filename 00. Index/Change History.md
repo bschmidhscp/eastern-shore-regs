@@ -2,6 +2,9 @@
 
 *Generated on each sync. Shows which regulation text changed and the exact wording differences (`-` removed, `+` added). Narrative context is in the Project Log.*
 
+## 2026-10-14 — 2026-10-15: lot buyers, sensitivities, diligence, outreach
+
+
 ## 2026-10-14 — 2026-10-15: trust layer and monthly autopilot
 
 
