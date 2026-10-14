@@ -29,6 +29,11 @@ Code: private GitHub repo `bschmidhscp/eastern-shore-screener` — **all deal as
 `assumptions/deal.yaml`**; county taxes/fees in `rules/<County>.yaml`. Change a number there and re-run; never
 hand-edit the generated files.
 
+**Eastern Shore Land database:** `Database/Eastern Shore Land.duckdb` (top of the drive) holds every dataset the
+screener gathers — parcels, assessments, the deed chain, assessor land lines, land sales, deals, builders, playbooks,
+rules and assumptions — in one file queryable with SQL (DuckDB). Tables, columns and joins: `Database/Data
+Dictionary.md`. Rebuilt by `python -m screener.database`; never edited by hand.
+
 **Eastern Shore Deal Board** (interactive, ranked, map, shared status + notes): [claude.ai/artifact/CBZiWuVtS4vecCcgEGvHxL](https://claude.ai/artifact/CBZiWuVtS4vecCcgEGvHxL) — private
 claude.ai page; Brian invites Ben by email as **Editor** so he can mark parcels and add notes (Viewers can only
 read; adding a public link would also make Ben read-only). Refresh: `python -m screener.proforma` then

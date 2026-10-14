@@ -17,7 +17,7 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | Statewide rules (COMAR etc.) | ✅ `01. Maryland/00. Summary.md` + 72 COMAR chapters / statute ranges and 69 agency guidance docs (retrieved 2026-10-11) |
 | Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico, Worcester, Somerset | ✅ Documents, digests, Fee Findings, summary (layer 1), Key Metrics — 2026-10-11/12 |
 | County comparison table | ✅ `00. Index/County Comparison.md` — all 9 counties |
-| Deal pro forma + Deal Board | ✅ all 9 counties priced as deals (buy; unlevered + levered, monthly cash flows): 9 Pursue / 38 Diligence (land value model) — `Screener/02. Deal Shortlist.md`, board link in Start Here (2026-10-13) |
+| Deal pro forma + Deal Board | ✅ all 9 counties priced as deals (buy; unlevered + levered, monthly cash flows): 14 Pursue / 64 Diligence (land model v2) — `Screener/02. Deal Shortlist.md`, board link in Start Here (2026-10-13) |
 | By-right playbooks | ✅ all 9 counties — `<County>/03. By-Right Playbook.md` + `Playbook Metrics.json` (2026-10-13) |
 
 ## Open questions / watch items
@@ -100,6 +100,27 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-13 (night) — Why land values are hard; land model v2; Eastern Shore Land database (Brian + Claude)
+- **Land model v2** (`Screener/06. Land Value Model.md`): added the assessor's full-market land value (at the sale;
+  non-farm only), actual shoreline frontage and distance to water (state shoreline layer), marsh / ag-class shares
+  (assessor CAMA land lines), value of surrounding homes, assessor valuation neighborhoods (micro-market pooling).
+  Fixed: sales now classed by what they were **at the sale** (75 vacant lots with houses built since were mis-filed);
+  commercial land and developer purchases (tracts subdivided after the sale) dropped. Result: land with a house
+  **±14% median error (±12% on 2–5 ac)**; vacant land **±32%**.
+- **Diagnosis:** vacant lots in the same subdivision sell within ~12% of each other, so the market isn't random — but
+  most vacant sales are acreage tracts (median 2 sales per assessor neighborhood) whose price turns on things no
+  public table records: perc/buildability, woods vs tillable, access and shape, timber, buyer type (neighbor, hunter,
+  farmer). Better land data (MLS sold land with remarks, perc records) is what closes the rest.
+- **Underwriting stance (Brian):** optimism — leftover land at the central estimate; the downside land case is shown
+  on each deal but does not demote it. Results: Pursue 14 (Queen Anne's 8, Worcester 5, Cecil 1), Diligence 64.
+- **Fixed:** farm-assessed land is taxed on its farm-use (preferential) value in carry; the state's "land value" for
+  farms is full market (the old screen note was wrong).
+- **Eastern Shore Land database:** `Eastern Shore Land/Database/Eastern Shore Land.duckdb` + `Data Dictionary.md` —
+  23 tables (parcels, assessments, transfers/deed chain, assessor land lines, land sales, candidates, deals, builders,
+  playbooks, rules, assumptions, land model, small map layers). Rebuild: `python -m screener.database` (~40 s).
+- **Faster refreshes:** state map/records downloads now run 8 pages in parallel at the server's max page size
+  (286k assessor records in 38 s); shoreline frontage vectorized (model rebuild 3.6 min → 14 s).
 
 ### 2026-10-13 (late) — Land value model for purchases and leftover land (Brian + Claude)
 - **Why:** purchase price was a county $/acre bucket and leftover land was "our $/acre less 15%" — not how land trades.
