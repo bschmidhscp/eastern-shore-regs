@@ -87,7 +87,7 @@ Answer from the cheapest layer that can answer; go deeper only to verify.
 
 | Layer | What | Where |
 |---|---|---|
-| 0 | Orientation, status, decisions | this guide, the Project Log |
+| 0 | Orientation, status, decisions | this guide, the Project Log, Pending Rule Changes (county rewrites and whether they threaten our deals) |
 | 1 | **County summary** — rules, fees, process, risks for small subdivisions, all cited (~2 pages) | `<County>/00. Summary.md` |
 | 2 | **Digests** — one line per item: Legislation Index, Planning Commission Actions, Board of Appeals Decisions, County Council / Commissioners Land-Use Actions, Pre-Application Projects, **Fee Findings** | `<County>/01. Digests/` (.md and .csv) |
 | 3 | Search — snippets with file + page | Drive full-text search or `02. Tools/search.py` |

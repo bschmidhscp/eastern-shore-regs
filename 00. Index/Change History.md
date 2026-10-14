@@ -2,6 +2,9 @@
 
 *Generated on each sync. Shows which regulation text changed and the exact wording differences (`-` removed, `+` added). Narrative context is in the Project Log.*
 
+## 2026-10-14 — Start Here: pending rule changes
+
+
 ## 2026-10-14 — 2026-10-16: rule-change review, woods/fields fix, forest replacement
 
 - New text files: 1
