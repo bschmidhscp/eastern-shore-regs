@@ -107,6 +107,28 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
+### 2026-10-15 (night) — Trust layer and monthly autopilot (Brian + Claude)
+- **Automatic checks ("Check" badge + filter on the board):** a deal is flagged when our numbers disagree sharply with
+  independent evidence — non-farm value vs. assessment; for farms (assessed at farm-use value) the land model vs. five
+  adjusted comparable sales; asking price vs. our value; lot price vs. nearby lot sales; returns over 8×; layouts that
+  fit few lots for their frontage. 19 of 241 Pursue flagged.
+- **Backtest (`Screener/10. Backtest.md`):** fit before 2025, tested on 2025–26 sales never seen. Lots ±35%, bias 0%
+  (priced as proven-buildable, as we price ours); raw land ±31%, bias −2%. By county the lot model ran high in Cecil
+  (+12%), Somerset (+20%), Wicomico (+10%) and low in Dorchester (−29%) — treat those as optimistic/conservative.
+  (A first version showed −46%; that was a bug in the backtest's frozen index, found and fixed.) A full replay of which
+  tracts we'd have flagged years ago needs archived parcel/zoning maps (MDP MdProperty View editions).
+- **Sell one lot at a time:** every deal now shows the case where lots go to end users one by one (full lot price, 6%
+  commission, first sale 3 months after the plat, one every 8 months — history says 13; carve-outs close at the plat).
+  Typical Pursue: profit $313K vs. $255K selling the set to a builder, but equity $175K vs. $96K and 24 vs. 12 months;
+  every Pursue deal still clears 1.5×.
+- **Live accuracy (`screener/calibration.py`):** listed board parcels and our values are logged (11 so far); when SDAT
+  records the sale, the comparison is added to the backtest file.
+- **What changed (`Screener/11. What Changed.md`)** since the last publish; **monthly autopilot** — scheduled task
+  "Eastern Shore Deal Board — monthly refresh" (2nd of each month, 6 AM, after the regs refresh on the 1st): refresh
+  data and listings (within the RentCast budget), re-run, publish only what changed, update this log, notify Brian.
+  Runs while the Claude app is open; click "Run now" once to pre-approve its tools.
+- **Tests + GitHub Actions** (9 fast tests; money math, builder math, layout, data rules) on every push/PR.
+
 ### 2026-10-15 (evening) — Which deals are listed for sale (Brian + Claude)
 - RentCast key added (Brian's, stored only at `~/.config/esl/rentcast.key`). First sweep: 3,786 active listings
   (2,899 land, 887 homes on 3+ ac). **Pursue:** 1130 Old Love Point Rd, Stevensville listed (36.7 ac, ask $1.9M, 154 days; our

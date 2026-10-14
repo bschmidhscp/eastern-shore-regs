@@ -26,7 +26,9 @@ deal, top 40), `03. Deal Assumptions.md` (every valuation/cost/risk/financing nu
 `04. Plat History Worksheet.md` (deed-chain evidence to confirm on MDLandRec), `05. Builders.md` (who builds in each
 county), `06. Land Value Model.md` (how raw-land purchase prices are valued, with accuracy), `07. Lot Pricing Model.md`
 (the builder-residual cross-check), `08. Lot Price Model.md` (what a recorded, buildable lot sells for — the price we
-underwrite, with accuracy and guardrails), `One Pagers/` (investor PDFs, made on request: `python -m screener.onepager --acct <account>`), one folder per county with candidate, deal and builder CSVs, and `Dashboard/` (the Deal Board and its data).
+underwrite, with accuracy and guardrails), `09. Who Does This.md` (who already subdivides here and how they did),
+`10. Backtest.md` (how accurate the price models were on sales they never saw), `11. What Changed.md` (since the
+last board update; refreshed monthly by a scheduled task on the 2nd), `One Pagers/` (investor PDFs, made on request: `python -m screener.onepager --acct <account>`), one folder per county with candidate, deal and builder CSVs, and `Dashboard/` (the Deal Board and its data).
 On the board, every deal's aerial shows its screening lot layout (waterfront lots brass, inland white, any new private
 road grey), and every budget line opens to show how it was built, its source and its confidence (H/M/L).
 Code: private GitHub repo `bschmidhscp/eastern-shore-screener` — **all deal assumptions live in
