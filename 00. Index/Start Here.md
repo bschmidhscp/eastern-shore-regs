@@ -21,8 +21,17 @@ Step two is comparing counties and narrowing to the best two or three.
 ## Where things are
 
 **Deal screener:** the folder `Screener/` (next to `Docs + Regs/`) holds the parcel screener's results —
-`00. Summary.md` (all counties), `01. Inputs and Roadmap.md`, and one folder per county with ranked candidate
-CSVs and reports. Code: private GitHub repo `bschmidhscp/eastern-shore-screener`.
+`00. Summary.md` (all counties), `01. Inputs and Roadmap.md`, `02. Deal Shortlist.md` (every parcel priced as a
+deal, top 40), `03. Deal Assumptions.md` (every valuation/cost/risk number with its source and confidence), one
+folder per county with candidate and deal CSVs, and `Dashboard/` (the Deal Board page and its data).
+Code: private GitHub repo `bschmidhscp/eastern-shore-screener` — **all deal assumptions live in
+`assumptions/deal.yaml`**; county taxes/fees in `rules/<County>.yaml`. Change a number there and re-run; never
+hand-edit the generated files.
+
+**Eastern Shore Deal Board** (interactive, ranked, map, shared status + notes): [claude.ai/artifact/CBZiWuVtS4vecCcgEGvHxL](https://claude.ai/artifact/CBZiWuVtS4vecCcgEGvHxL) — private
+claude.ai page; Brian invites Ben by email as **Editor** so he can mark parcels and add notes (Viewers can only
+read; adding a public link would also make Ben read-only). Refresh: `python -m screener.proforma` then
+`python -m screener.dashboard`, then republish the HTML to the same link.
 
 | What | Location | Link |
 |---|---|---|

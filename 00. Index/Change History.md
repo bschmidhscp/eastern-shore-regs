@@ -2,6 +2,9 @@
 
 *Generated on each sync. Shows which regulation text changed and the exact wording differences (`-` removed, `+` added). Narrative context is in the Project Log.*
 
+## 2026-10-13 — Deal pro forma, Eastern Shore Deal Board, local soils; Start Here + Project Log updated
+
+
 ## 2026-10-12 — Project Log: screener v1.1
 
 

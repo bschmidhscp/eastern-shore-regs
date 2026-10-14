@@ -17,9 +17,14 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | Statewide rules (COMAR etc.) | ✅ `01. Maryland/00. Summary.md` + 72 COMAR chapters / statute ranges and 69 agency guidance docs (retrieved 2026-10-11) |
 | Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico, Worcester, Somerset | ✅ Documents, digests, Fee Findings, summary (layer 1), Key Metrics — 2026-10-11/12 |
 | County comparison table | ✅ `00. Index/County Comparison.md` — all 9 counties |
+| Deal pro forma + Deal Board | ✅ all 9 counties priced as deals (buy, unlevered): 22 Pursue / 115 Diligence — `Screener/02. Deal Shortlist.md`, board link in Start Here (2026-10-13) |
 
 ## Open questions / watch items
 
+- **Deal assumptions are mostly estimates (L):** engineering, survey, attorney, perc, demolition, builder package
+  discount, owner price for options, and the waterfall terms. Get 2–3 local quotes per county (Queen Anne's,
+  Worcester, Cecil first) and the real term sheet; change `assumptions/deal.yaml`, re-run, republish.
+- **Whole-farm buys assume the remainder resells at our cost basis** — stress-test (sale timing, discount).
 - **Fees not posted for FY27** in Cecil (latest 2/2024), Kent (9/2024), Wicomico (planning section 2012–15), Worcester
   (FY26), Queen Anne's (FY27 impact fee inferred from a State fiscal note) — confirm with each county before underwriting.
 - **Septic/perc fees, sewer connection charges and BAT costs** were not found for any county except Talbot (BAT) and
@@ -91,6 +96,36 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-13 — Deal pro forma, Eastern Shore Deal Board, local soils (Brian + Claude)
+- **Goal restated (Brian):** a formulaic way to take Eastern Shore projects to *final* approval by right — no public
+  hearing or public notice — then sell the approved paper lots to a home builder. Buy (or option) the land, hire a
+  civil engineer + land-use attorney, get approval, sell. No building permits. Existing houses get demolished.
+- **Deal terms (Brian):** equity waterfall with outside investors; buying land cheaply is the base plan (options TBD);
+  no debt by default (≤7 lots). So tiers and ranking use the **buy** structure; option and lots-only are shown as upside.
+- **Every parcel is now priced as a deal** (`python -m screener.proforma`, 14 s for all 9 counties, no AI tokens):
+  builder price per lot = lower of nearby lot comps less a 15% package discount and the builder residual (new homes
+  nearby × 22% lot share − well/septic/BAT/driveway/electric/stormwater − impact fee); soft costs to final approval
+  (survey, perc, civil, forest conservation plan + fee-in-lieu, wetlands/Critical Area, attorney, county fees, 15%
+  contingency); demolition; ag transfer tax; three structures; odds of approval (soils, zoning source, plat-history
+  risk, wetlands/flood, Critical Area, clustering, outlier comps); expected profit; investor/sponsor waterfall split.
+- **Assumptions live in one file:** `assumptions/deal.yaml` (GitHub `eastern-shore-screener`), each with basis and
+  confidence; county taxes/fees in `rules/<County>.yaml`. Readable copy: `Screener/03. Deal Assumptions.md`. Most cost
+  items are our estimates (L) until we get local quotes. Waterfall terms (90% investor capital, 8% pref, 20% promote to
+  15% IRR, 30% above) are placeholders.
+- **Soils for every candidate, locally:** each county's USDA soil map is downloaded once (Web Soil Survey, ~25 MB) and
+  overlaid on all parcels (`screener/soils.py`) — replaces per-parcel USDA queries (40+ min, top 150 only).
+- **Results (buy, unlevered):** Pursue 22 / Diligence 115 / Watch 567 of 20,420 candidates. Queen Anne's 14 / 37,
+  Worcester 6 / 26, Cecil 2 / 40, Wicomico 0 / 9, Kent 0 / 2, Talbot 0 / 1; Caroline, Dorchester, Somerset none.
+  Shortlist: `Screener/02. Deal Shortlist.md`.
+- **Eastern Shore Deal Board:** https://claude.ai/artifact/CBZiWuVtS4vecCcgEGvHxL — ranked deals with filters (county,
+  tier, structure, odds, equity, land cost/lot price, status), map, county view, assumptions, and shared status + notes
+  per parcel. Brian shares it with Ben by email as **Editor**.
+- **Learned:** buying at market only works with 5+ lots or a cheap entry; Talbot's 3-lot cap leaves ~1 deal. Whole-farm
+  buys assume the remainder resells at our cost basis — stress-test before relying on them. Lot comps far above the
+  county median (waterfront) are blended down and flagged.
+- **Next:** local quotes (engineer, surveyor, attorney) for Queen Anne's, Worcester, Cecil to replace L assumptions;
+  plat history on the Pursue list; real waterfall terms; county by-right approval playbooks (see Roadmap).
 
 ### 2026-10-12 (later) — Screener v1.1 (Brian + Claude)
 - Lot values now come from vacant-lot sales within 3–6 miles of each candidate (60–100% coverage by county;
