@@ -107,6 +107,15 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
+### 2026-10-15 — Efficiency pass (Claude)
+- **Pipeline 7–8 min → 55 s** when only costs/financing/tiers change (~3.5 min after code or data changes); results
+  verified identical. Biggest fix: the lot layout was buffering whole road lines ~95,000 times per county; roads are
+  now clipped to the parcel and each parcel's geometry is computed once. Per-parcel test fits, both price models,
+  the land-sales table and the aerials are reused until something they depend on changes (README "Speed").
+- **Board 10.2 MB → 1.9 MB** (faster on phones): only displayed columns are embedded; budget breakdowns load from
+  `audit.json` the first time a deal is opened, with each source text stored once.
+- **Publishing sends only changed files** (`publish_delta.json`, then `python -m screener.dashboard --mark-published`).
+
 ### 2026-10-14 (night) — Site constraints, per-lot septic, automated development rights, low-lot-price case (Claude)
 - **Lots stay off wet ground:** wetlands and the 100-year floodplain (FEMA A/AE/AO/VE) don't count toward a lot's
   minimum area; every lot needs a 20,000 sf buildable envelope outside them and the tidal Critical Area buffer
