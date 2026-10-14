@@ -109,9 +109,11 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ### 2026-10-15 (evening) — Which deals are listed for sale (Brian + Claude)
 - RentCast key added (Brian's, stored only at `~/.config/esl/rentcast.key`). First sweep: 3,786 active listings
-  (2,899 land, 887 homes on 3+ ac). **Listed now: 3 Pursue** — 1130 Old Love Point Rd, Stevensville (ask $1.9M, 154
-  days); QA 1802011093 (ask $2.43M, 891 days); 841 Greenville Rd (ask $300K, 153 days) — **and 5 Diligence**. Asking
-  prices are for the whole property; compare to the deal's whole-tract value and max bid in each deal's listing panel.
+  (2,899 land, 887 homes on 3+ ac). **Pursue:** 1130 Old Love Point Rd, Stevensville listed (36.7 ac, ask $1.9M, 154 days; our
+  max bid $911K); QA 1802011093 listed as part of a 162-ac sale ("Sparks Mill at Route 213", ask $2.43M, 891 days);
+  841 Greenville Rd: a 6-ac piece (Damsontown Rd, $300K) is listed, not the 105-ac farm — Brian caught the first
+  version reading it as the whole farm at $300K; listings now must match the parcel's acreage to count as the parcel.
+  **Diligence:** 4 listed, 1 part listed.
 - Cost controls (Brian: "don't crush me with costs"): monthly cap 40 requests (free plan = 50), counted before every
   call, no retries, 30-day reuse, resumable sweeps. 23 requests used this month (15 lost to two RentCast timeouts and
   a save bug, since fixed and tested offline). Off-market (past-year) sweeps time out on RentCast at Shore-wide
