@@ -17,7 +17,7 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | Statewide rules (COMAR etc.) | ✅ `01. Maryland/00. Summary.md` + 72 COMAR chapters / statute ranges and 69 agency guidance docs (retrieved 2026-10-11) |
 | Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico, Worcester, Somerset | ✅ Documents, digests, Fee Findings, summary (layer 1), Key Metrics — 2026-10-11/12 |
 | County comparison table | ✅ `00. Index/County Comparison.md` — all 9 counties |
-| Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **140 Pursue / 696 Diligence** after the lot price model (same day) — `Screener/00. Summary.md`, board link in Start Here |
+| Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **219 Pursue / 636 Diligence** after site constraints, per-lot septic and automated rights (2026-10-14 night) — `Screener/00. Summary.md`, board link in Start Here |
 | By-right playbooks | ✅ all 9 counties — `<County>/03. By-Right Playbook.md` + `Playbook Metrics.json` (2026-10-13) |
 
 ## Open questions / watch items
@@ -106,6 +106,26 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-14 (night) — Site constraints, per-lot septic, automated development rights, low-lot-price case (Claude)
+- **Lots stay off wet ground:** wetlands and the 100-year floodplain (FEMA A/AE/AO/VE) don't count toward a lot's
+  minimum area; every lot needs a 20,000 sf buildable envelope outside them and the tidal Critical Area buffer
+  (100 ft; 200 ft in the RCA). Drawn in blue on the aerials. Several waterfront layouts shrank (e.g. the QA cove
+  parcel: 2 waterfront lots, not 4–5 — most of its shore is marsh and buffer).
+- **Septic per lot:** each lot's envelope must hold 10,000 sf on soils USDA rates suitable for septic; the share of
+  lots that pass drives the perc odds (was a parcel-wide soil share).
+- **Development rights already used — automated** (`screener/rights.py`): SDAT open data records the year each tax
+  account was created and its tax-map parcel number; accounts carved from the same parcel since the county's cap base
+  date (ever, where the rule has no date, e.g. QA sliding scale) count as rights used — with the deed-chain screen,
+  the larger count wins. Lots are capped at what the county's cumulative cap has left (721 candidates capped); a MALPF
+  preservation area on the account removes the parcel. No MDLandRec use.
+- **Low-lot-price case on every deal:** profit and MOIC if every lot sells at the 25th percentile of the lot model.
+- **Results:** 219 Pursue (Cecil 118, QA 75, Worcester 18, Talbot 5, Kent 2, Dorchester 1), 636 Diligence; candidates
+  fell to 11,988 (constraints + rights). Typical Pursue: 4-lot carve-out, ~$96K equity, ~$260K profit if approved,
+  3.7× MOIC, 56% odds. All checks pass.
+- **Access options discussed (Brian):** Bright MLS has a RESO Web API but needs a data license via a Bright subscriber;
+  MDLandRec automation would need a written bulk agreement with the State Archives (bulk subscriptions existed until
+  FY24); MDP may have archived MdProperty View editions for parcel genealogy.
 
 ### 2026-10-14 (evening) — Lot price model: what a recorded, buildable lot actually sells for (Brian + Claude)
 - **Brian: "I think we're drastically undervaluing paper lots."** Right. The production-builder residual on national
