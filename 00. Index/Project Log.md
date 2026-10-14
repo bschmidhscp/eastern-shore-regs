@@ -17,7 +17,7 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | Statewide rules (COMAR etc.) | ✅ `01. Maryland/00. Summary.md` + 72 COMAR chapters / statute ranges and 69 agency guidance docs (retrieved 2026-10-11) |
 | Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico, Worcester, Somerset | ✅ Documents, digests, Fee Findings, summary (layer 1), Key Metrics — 2026-10-11/12 |
 | County comparison table | ✅ `00. Index/County Comparison.md` — all 9 counties |
-| Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **109 Pursue / 447 Diligence** (2026-10-15 late: measured 26% builder package discount, perc evidence, county corrections) — `Screener/00. Summary.md`, board link in Start Here |
+| Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **94 Pursue / 396 Diligence** (2026-10-16: woods/fields land fix, forest replacement, perc timelines) |
 | By-right playbooks | ✅ all 9 counties — `<County>/03. By-Right Playbook.md` + `Playbook Metrics.json` (2026-10-13) |
 
 ## Open questions / watch items
@@ -26,9 +26,9 @@ was decided, what was learned, and what's next. Background and layout are in **S
   what we pay the owner for the land, it's ~$4.5K. Ask the land-use attorney which transfer triggers it in a carve-out
   closing at the plat (owner → us → builder at one table) and whether it can be computed on the raw-land consideration.
 - **Builders may take lots down in phases** rather than all 3 months after the plat — ask when getting builder quotes.
-- **Rules can change before our plat records** (rights vest at recording): comp plan / zoning rewrites pending in
-  Talbot, Queen Anne's, Kent, Caroline, Dorchester, Somerset, Wicomico and Worcester. Each deal's "Approval watch" lists
-  them; re-read bills before each filing.
+- **Worcester BAT:** the 2026 Comp Plan (hearing 2026-10-06) says all new septic will require BAT (~$15K per lot to
+  the builder). Not yet priced into Worcester lot prices; watch adoption and the code change. Other rewrites reviewed
+  and low/no risk — `00. Index/Pending Rule Changes.md`.
 
 - **The Deal Board is shared "Anyone with the link"** and now carries the deal tracker (offers, notes) and builder
   price checks — any signed-in person with the link can read them. Restrict it to invited people (Ben as Editor so he
@@ -117,6 +117,22 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-16 (evening) — What's in the rule rewrites; a land-pricing bug; forest replacement (Brian + Claude)
+- **Rewrites reviewed** (minutes, digests, legislation, posted drafts) → `00. Index/Pending Rule Changes.md`. None cuts
+  rural minor subdivisions; several are pro-housing. Worcester **medium** (2026 plan: BAT on all new septic, 5-year
+  pump-outs; zoning rewrite later; rights vest at recording). Somerset medium-low (rezoning contract awarded
+  2026-10-06; tier review only at town fringes). Talbot low (Land Use draft 2026-09-03 keeps 1/20 RC/WRC, Tier IV,
+  clustering — same text as 2016). Wicomico low/upside (Bill 2026-03 removed minors' 50% set-aside; plan 2027).
+  Caroline low/upside. Queen Anne's low (school APFO only >7 lots). Kent, Cecil low. Dorchester none (smaller lots
+  only with water/sewer). Tier remaps don't hurt minors — Tier IV allows minors everywhere. Talbot's Land Use draft
+  added to the corpus. Each deal's Approval watch now carries its county's assessment.
+- **Bug fixed:** the land model wasn't given candidates' woods/fields shares (vacant land: fully wooded −26%, all
+  fields +15%), so farm-field tracts were priced ~12% low and wooded tracts ~25% high.
+- **Forest replacement priced:** since 1 Jul 2026 every acre of forest cleared is replaced 1:1 (Ch. 457 of 2024):
+  0.5 ac cleared per lot × wooded share × fee-in-lieu; median $5.3K on Pursue.
+- **Result: 94 Pursue** (1 new, 15 dropped — mostly field tracts whose land now costs more; dropped deals' median
+  profit $194K vs. the $200K bar). Kept deals: profit −$11.8K median. All checks pass.
 
 ### 2026-10-16 (later) — Owner extensions, approval watch, schedule/disapproval risks (Brian + Claude)
 - **Owner extension payments** added as an expected soft cost on carve-outs: chance of missing a wet season × $2,500 per
