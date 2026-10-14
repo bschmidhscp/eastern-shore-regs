@@ -17,7 +17,7 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | Statewide rules (COMAR etc.) | ✅ `01. Maryland/00. Summary.md` + 72 COMAR chapters / statute ranges and 69 agency guidance docs (retrieved 2026-10-11) |
 | Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico, Worcester, Somerset | ✅ Documents, digests, Fee Findings, summary (layer 1), Key Metrics — 2026-10-11/12 |
 | County comparison table | ✅ `00. Index/County Comparison.md` — all 9 counties |
-| Deal pro forma + Deal Board | ✅ all 9 counties priced as deals (buy; unlevered + levered, monthly cash flows): 14 Pursue / 64 Diligence (land model v2) — `Screener/02. Deal Shortlist.md`, board link in Start Here (2026-10-13) |
+| Deal pro forma + Deal Board | ✅ all 9 counties priced as deals (buy; unlevered + levered, monthly cash flows): 31 Pursue / 219 Diligence (levered; owner's-view comps) — `Screener/02. Deal Shortlist.md`, board link in Start Here (2026-10-13) |
 | By-right playbooks | ✅ all 9 counties — `<County>/03. By-Right Playbook.md` + `Playbook Metrics.json` (2026-10-13) |
 
 ## Open questions / watch items
@@ -100,6 +100,24 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-14 (early) — Owner's-view comps, land cover, deal / LP / GP returns, total budget, mobile (Brian + Claude)
+- **Land cover:** wooded and cropland/pasture shares per tract (MDP land use/land cover 2010) added to the land model —
+  vacant land 32% → 30% median error; land with a house 12% on 2–5 ac.
+- **Comps the owner would recognize:** for each parcel, the 5 most similar recent sales nearby (houses vs houses, land vs
+  land; similar size, woods, waterfront), each adjusted to the subject with the model's measured effects. Land price =
+  reconciliation (geometric mean) of the model and the adjusted comps — tested best (14% / 11% on 2–5 ac with a house).
+- **Owner's view on every deal:** assessment notice, what they paid (today's dollars), adjusted comps → owner's likely
+  expectation (highest of the three) vs our max bid → credible / stretch / unlikely (`deal.yaml` land_value.credibility).
+- **Returns:** one MOIC and one IRR (if approved) for the chosen financing; three rows — Deal, Investors (LP),
+  High Side (GP) — check size, profit, MOIC, IRR, all from the same monthly cash flows. **Total budget** table:
+  revenue, land, closing, soft costs, demolition, property tax, upkeep, farm lease, loan interest, selling costs.
+- **Defaults (Brian):** levered and Pursue only. Tiers = levered projected MOIC + odds (Pursue ≥ 1.5×, ≥ 55%,
+  ≥ $200k profit; Diligence ≥ 1.3×, ≥ 40%, ≥ $100k). Max bid targets a 1.5× unlevered MOIC.
+- **Fixed:** leftover land now gets the same reconciliation as the purchase and can't exceed the land we paid for
+  (a mismatch had inflated big-farm profits).
+- **Phone and iPad:** deal cards on phones, collapsible filters, single-column details; trimmed columns on tablets.
+- **Results:** Pursue 31 (Queen Anne's 19, Worcester 11, Cecil 1), Diligence 219; 27 of 31 Pursue offers credible.
 
 ### 2026-10-13 (night) — Why land values are hard; land model v2; Eastern Shore Land database (Brian + Claude)
 - **Land model v2** (`Screener/06. Land Value Model.md`): added the assessor's full-market land value (at the sale;

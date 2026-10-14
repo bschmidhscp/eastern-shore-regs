@@ -2,6 +2,9 @@
 
 *Generated on each sync. Shows which regulation text changed and the exact wording differences (`-` removed, `+` added). Narrative context is in the Project Log.*
 
+## 2026-10-13 — Project Log: owner's-view comps, returns, budget, mobile
+
+
 ## 2026-10-13 — Land model v2 + database: Project Log, Start Here
 
 
