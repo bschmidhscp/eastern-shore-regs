@@ -22,6 +22,11 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Open questions / watch items
 
+- **Time to a recorded plat may be underwritten short:** typical Pursue deals assume ~9 months (playbook review + 3
+  prep); subdividers who bought land to subdivide took a median 33 months to recorded lots (an upper bound — includes
+  slack before work began). Carve-outs carry no land, so it moves IRR and how long an owner waits, not dollars. Ask
+  county staff for recent minor-subdivision review times.
+
 - **The Deal Board is shared "Anyone with the link"** and now carries the deal tracker (offers, notes) and builder
   price checks — any signed-in person with the link can read them. Restrict it to invited people (Ben as Editor so he
   can write to the tracker) from the board's Share menu.
@@ -109,6 +114,26 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-15 (late night) — Calibration loop: every input tracked to its evidence (Brian + Claude)
+- **Paper lots measured** (`Screener/14. Paper Lots Measured.md`): 143 lots from recent small subdivisions, sold one at
+  a time, went for a **median 116% of the lot model** (refit without them); random vacant lots priced the same way come
+  in at ~90%. New, surveyed, perc-approved lots sell at a premium. Not stacked on the price, because 3+ lot packages
+  (−40%) are largely the same kind of lots: one at a time ~116%, a set to one buyer ~60%; we underwrite ~74%.
+  Builder quotes decide where takedowns land.
+- **Sell-out:** subdividers selling lots one by one averaged ~20 months between sales (26 projects) vs. the 8 months
+  our "one at a time" side case assumes.
+- **Purchase to recorded lots:** median 33 months (53 projects; Queen Anne's 11, Wicomico 19, Cecil 30, Worcester 35,
+  Talbot 49) vs. ~9 months underwritten — see Open questions.
+- **Lot listings ledger:** 228 vacant-lot listings (0.3–10 ac) logged with the model's price; asking runs 110% of model.
+  Sales are matched from SDAT monthly — a free, growing out-of-sample test.
+- **Cost quotes on the board:** each deal has a Cost quotes log (survey, civil, perc, topo, forest plan, wetlands,
+  Critical Area report, attorney, title). A deal's own quote replaces our line; 3+ quotes for a line rescale it on
+  every deal. Exported monthly to `Screener/Cost Quotes.csv`.
+- **Calibration scorecard** (`Screener/15. Calibration Scorecard.md`, board Model tab): 15 inputs with evidence,
+  status (Estimate → Measured → Quoted → Actual), impact and next step. 8 are still estimates — all soft-cost lines
+  and builder construction cost.
+- Pursue unchanged at 109 (nothing quoted yet). PR #11 updated.
 
 ### 2026-10-15 (night) — Lot price calibrated to the market; deal tracker on the board (Brian + Claude)
 - **Builder package discount, measured** (`Screener/13. Package Discount.md`, `screener/packages.py`): 94 package sales

@@ -2,6 +2,9 @@
 
 *Generated on each sync. Shows which regulation text changed and the exact wording differences (`-` removed, `+` added). Narrative context is in the Project Log.*
 
+## 2026-10-14 — 2026-10-15: calibration loop (paper lots, listings ledger, cost quotes, scorecard)
+
+
 ## 2026-10-14 — 2026-10-15: measured package discount, perc evidence, county corrections, deal tracker
 
 
