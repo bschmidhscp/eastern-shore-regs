@@ -2,6 +2,9 @@
 
 *Generated on each sync. Shows which regulation text changed and the exact wording differences (`-` removed, `+` added). Narrative context is in the Project Log.*
 
+## 2026-10-14 — 2026-10-14: builder-residual lot pricing, raw-land purchase, test-fit layouts, auditable budgets
+
+
 ## 2026-10-14 — Overnight: waterfront, aerials, one-pagers, redesign, cleanup — Project Log, Start Here, roadmap
 
 

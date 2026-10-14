@@ -17,17 +17,19 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | Statewide rules (COMAR etc.) | ✅ `01. Maryland/00. Summary.md` + 72 COMAR chapters / statute ranges and 69 agency guidance docs (retrieved 2026-10-11) |
 | Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico, Worcester, Somerset | ✅ Documents, digests, Fee Findings, summary (layer 1), Key Metrics — 2026-10-11/12 |
 | County comparison table | ✅ `00. Index/County Comparison.md` — all 9 counties |
-| Deal pro forma + Deal Board | ✅ all 9 counties priced as deals (buy; unlevered + levered, monthly cash flows): 46 Pursue / 244 Diligence (levered; waterfront lots priced) — `Screener/00. Summary.md`, board link in Start Here (2026-10-13) |
+| Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **2 Pursue / 49 Diligence** — `Screener/00. Summary.md`, board link in Start Here |
 | By-right playbooks | ✅ all 9 counties — `<County>/03. By-Right Playbook.md` + `Playbook Metrics.json` (2026-10-13) |
 
 ## Open questions / watch items
 
 - **The Deal Board is shared "Anyone with the link"** and now carries one-pagers and parcel detail. Consider
   restricting it to invited people (Ben as Viewer or Editor) from the board's Share menu.
-- **Waterfront deals:** each assumes its lots reach tidal water; have the engineer sketch the layout (and the Critical
-  Area buffer) before an offer — waterfront is most of the Pursue list's value.
-- **Deal assumptions are mostly estimates (L):** engineering, survey, attorney, perc, demolition, builder package
-  discount, owner price for options, and the waterfall terms. Get 2–3 local quotes per county (Queen Anne's,
+- **Lot layouts are screening test fits** (drawn on every board aerial): have the civil engineer test-fit each Pursue
+  deal before an offer. Private-road cost ($350/ft + $35K turnaround) is our estimate — get an engineer's number.
+- **Builder construction cost ($150/sf, NAHB) drives every lot price** — get 2–3 Eastern Shore builder quotes
+  (Screener/07. Lot Pricing Model.md shows the sensitivity).
+- **Deal assumptions are mostly estimates (L):** engineering, survey, attorney, perc, private road, the carve-out
+  premium over raw land, and the waterfall terms. Get 2–3 local quotes per county (Queen Anne's,
   Worcester, Cecil first) and the real term sheet; change `assumptions/deal.yaml`, re-run, republish.
 - **Vacant land values are ±38%** (median model error) — check each Pursue deal's comps and range before an offer; the
   max bid, not the model value, is the price discipline.
@@ -104,6 +106,38 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-14 (day) — Builder-residual lot pricing, raw-land purchase, real lot layouts, auditable budgets (Brian + Claude)
+- **Lot price = what a builder can pay** (Brian): nearby new-home price − construction ($150/sf NAHB) − rural lot
+  development (well, septic/BAT, drive, power, stormwater, any private road) − permits/impact fee − overhead, selling,
+  financing and the builder's 11% profit; capped at what comparable vacant lots sell for (a builder won't pay more for
+  a paper lot than for a lot it can buy). Method, inputs, worked example and calibration: `Screener/07. Lot Pricing
+  Model.md`. Finding: inland rural lots are worth ~$0–90K to a builder; waterfront lots $150–350K.
+- **We buy raw land** (Brian: "the whole point is we add value via entitlements"). Whole parcel = the tract's raw
+  market value. Carve-out (large tracts: contract for just the lot land, close at the recorded plat) = **before-and-after**:
+  the tract's value today − what the owner's remaining land is worth after our lots use its development rights (open
+  space where clustering is required), + 10%. Paying owners "lot value" leaves no margin by construction.
+- **No demolition, no leftover-land sales** (Brian): an existing house stays on its own lot; we never resell acreage.
+  Option / lots-only structures retired.
+- **Real lot layouts** (`screener/layout.py`, drawn on every aerial): waterfront lots first (shore split so lots fan
+  around coves); flag lots only where the code allows them (Talbot, QA, Worcester, Caroline, Cecil); a new private
+  road only where the county allows one in a minor subdivision (QA, Kent, Caroline, Wicomico, Dorchester, Worcester —
+  not Talbot, where any road makes it a Planning Commission "small scale" subdivision, nor Cecil, where it needs the
+  major process + a variance) and only when it pays — the test fit tries one straight road + cul-de-sac from several
+  frontage points and keeps the layout worth the most net of road cost. Lots never overlap, meet the zoning minimum
+  and at least 1 ac without sewer (well + septic + reserve area), and lots are capped at what physically fits.
+- **Frontage = public roads only** (US, MD, county, municipal, other public). Unnamed farm lanes ("LL") and private
+  roads were counting as frontage — that inflated several waterfront Pursue deals.
+- **Every budget line is clickable** on the board: formula with the deal's inputs, the source (deal.yaml key with its
+  basis, county rule, model), and confidence H/M/L. No cross-deal totals anywhere (Brian: one deal at a time).
+- **Assessor non-perc flag** (SDAT) now cuts the odds when >25% of a parcel is recorded non-perc.
+- **MDLandRec:** the Archives' Acceptable Use Policy bars scripts/bots and re-posting images or data on third-party
+  sites, so plat-history lookups stay manual (Plat History Worksheet); nothing from it goes on the board or GitHub.
+- **Results:** 2 Pursue (Worcester 1, Queen Anne's 1 — both 5-lot carve-outs), 49 Diligence (Talbot 20, Worcester
+  15, QA 11); typical Pursue: equity ~$108K, profit if approved ~$218K, 3.0× MOIC, 70% odds. Waterfront deals sit in
+  Diligence on lower odds (Critical Area, flag lots, wetlands). All model checks pass.
+- **Next:** engineer test fits + road cost on the Diligence waterfront deals; 2–3 builder construction quotes; a
+  county zoning-verification letter and title/plat search on the two Pursue deals; confirm QA's delegation of minors.
 
 ### 2026-10-14 (overnight) — Waterfront lots, aerials, new map, investor one-pagers, redesign, cleanup (Claude)
 - **Waterfront lots now priced from waterfront sales.** Tidal waterfront vacant lots (shoreline in the Critical Area)
