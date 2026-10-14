@@ -17,7 +17,7 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | Statewide rules (COMAR etc.) | ✅ `01. Maryland/00. Summary.md` + 72 COMAR chapters / statute ranges and 69 agency guidance docs (retrieved 2026-10-11) |
 | Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico, Worcester, Somerset | ✅ Documents, digests, Fee Findings, summary (layer 1), Key Metrics — 2026-10-11/12 |
 | County comparison table | ✅ `00. Index/County Comparison.md` — all 9 counties |
-| Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **2 Pursue / 49 Diligence** — `Screener/00. Summary.md`, board link in Start Here |
+| Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **140 Pursue / 696 Diligence** after the lot price model (same day) — `Screener/00. Summary.md`, board link in Start Here |
 | By-right playbooks | ✅ all 9 counties — `<County>/03. By-Right Playbook.md` + `Playbook Metrics.json` (2026-10-13) |
 
 ## Open questions / watch items
@@ -106,6 +106,29 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-14 (evening) — Lot price model: what a recorded, buildable lot actually sells for (Brian + Claude)
+- **Brian: "I think we're drastically undervaluing paper lots."** Right. The production-builder residual on national
+  (NAHB, $150/sf) costs said inland lots were worth ~$0–40K, yet buildable lots sell for $30–160K and builders keep
+  building. Backing out what construction cost would reconcile them gives ~$90–125/sf, and scattered rural lots mostly
+  sell to end users / custom builders at cost-plus, not to spec builders.
+- **New lot price model** (`screener/lotprice.py`, card `Screener/08. Lot Price Model.md`): 2,579 arms-length
+  vacant-lot sales (0.3–10 ac, 2019–2026, nine counties); drivers: size (+25% per doubling), tidal waterfront (×2.9),
+  near water (×1.16), proven buildable — a house was built after the sale (×1.2), assessor non-perc (×0.6), value of
+  homes around it, subdivision density, town distance, county, and a **year-by-year price index** (2019 = 100 → 2026
+  = 197; used only to bring old sales to today — no future appreciation is assumed). Local adjustment from the nearest
+  sales. **Cross-validated median error 32%.** Guardrails: neighborhood value held to the county's sales range; no lot
+  above the county's 90th-percentile buildable-lot sale (inland / waterfront separately).
+- **Underwritten lot price** = the model's value for our lot (planned size, proven buildable, location) − 15% package
+  discount. The builder residual stays on every deal as a cross-check ("home prices support X% of the lot price").
+- **Results:** 140 Pursue (QA 64, Cecil 49, Worcester 16, Wicomico 7, Kent 2, Dorchester 2), 696 Diligence; typical
+  Pursue = 4-lot carve-out, ~$108K equity, ~$267K profit if approved, 3.6× MOIC. Median net lot price by county:
+  Talbot $104K, QA $100K, Cecil $99K, Worcester $71K, Kent $56K, Caroline $52K, Wicomico $51K, Dorchester $40K,
+  Somerset $27K. All checks pass.
+- **Caution:** the Pursue list selects the parcels the model values highest, where its error is largest — confirm
+  lot value with a local broker or two builder calls before an offer.
+- **One-pagers are now on request** (`python -m screener.onepager --acct <account>`; or ask Claude), not rendered on
+  every run; the board links only one-pagers made after the latest pricing.
 
 ### 2026-10-14 (day) — Builder-residual lot pricing, raw-land purchase, real lot layouts, auditable budgets (Brian + Claude)
 - **Lot price = what a builder can pay** (Brian): nearby new-home price − construction ($150/sf NAHB) − rural lot
