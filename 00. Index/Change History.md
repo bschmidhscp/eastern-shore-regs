@@ -2,6 +2,9 @@
 
 *Generated on each sync. Shows which regulation text changed and the exact wording differences (`-` removed, `+` added). Narrative context is in the Project Log.*
 
+## 2026-10-13 — Land value model: Project Log + Start Here
+
+
 ## 2026-10-13 — By-right playbooks (9 counties), playbook prompt, Project Log + Start Here: financing, plat history, sellers, builders
 
 

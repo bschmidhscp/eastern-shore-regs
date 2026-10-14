@@ -17,7 +17,7 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | Statewide rules (COMAR etc.) | ✅ `01. Maryland/00. Summary.md` + 72 COMAR chapters / statute ranges and 69 agency guidance docs (retrieved 2026-10-11) |
 | Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico, Worcester, Somerset | ✅ Documents, digests, Fee Findings, summary (layer 1), Key Metrics — 2026-10-11/12 |
 | County comparison table | ✅ `00. Index/County Comparison.md` — all 9 counties |
-| Deal pro forma + Deal Board | ✅ all 9 counties priced as deals (buy; unlevered + levered, monthly cash flows): 12 Pursue / 70 Diligence — `Screener/02. Deal Shortlist.md`, board link in Start Here (2026-10-13) |
+| Deal pro forma + Deal Board | ✅ all 9 counties priced as deals (buy; unlevered + levered, monthly cash flows): 9 Pursue / 38 Diligence (land value model) — `Screener/02. Deal Shortlist.md`, board link in Start Here (2026-10-13) |
 | By-right playbooks | ✅ all 9 counties — `<County>/03. By-Right Playbook.md` + `Playbook Metrics.json` (2026-10-13) |
 
 ## Open questions / watch items
@@ -25,8 +25,8 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Deal assumptions are mostly estimates (L):** engineering, survey, attorney, perc, demolition, builder package
   discount, owner price for options, and the waterfall terms. Get 2–3 local quotes per county (Queen Anne's,
   Worcester, Cecil first) and the real term sheet; change `assumptions/deal.yaml`, re-run, republish.
-- **Whole-farm buys resell the leftover land** at a 15% discount to our basis — still the biggest single assumption on
-  large parcels; stress-test before an offer.
+- **Vacant land values are ±38%** (median model error) — check each Pursue deal's comps and range before an offer; the
+  max bid, not the model value, is the price discipline.
 - **Playbook open questions** (each county's § 7) — call staff before relying on a county: Cecil minor density,
   Queen Anne's delegation of minors to the Director, Talbot/Kent access caps, Wicomico 20-ac remainder.
 - **Fees not posted for FY27** in Cecil (latest 2/2024), Kent (9/2024), Wicomico (planning section 2012–15), Worcester
@@ -100,6 +100,26 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-13 (late) — Land value model for purchases and leftover land (Brian + Claude)
+- **Why:** purchase price was a county $/acre bucket and leftover land was "our $/acre less 15%" — not how land trades.
+- **Built `screener/landvalue.py`:** a model fit to ~4,700 actual arms-length rural sales (≥ 2 ac, last 5 years, outside
+  towns, all 9 counties; multi-parcel farm sales grouped). Two segments: vacant **land** and **improved** (with a house).
+  Factors: county, size (price per acre falls with size), Critical Area/water, RCA, wetlands, floodplain, easements,
+  PFA, distance to town, soils, farm assessment, platted lot, time (≈ +6%/yr). 5-fold cross-validated.
+  Model card with every coefficient and error: `Screener/06. Land Value Model.md`. Settings: `deal.yaml` → `land_value`.
+- **Accuracy (honest):** improved rural property ±19% median error (±16% on 2–5 ac); vacant land ±38%. The vacant market
+  is noisy (perc, woods, access, motivated sellers) — every deal now shows a likely range and its 5 nearest comps.
+- **Finding:** raw land here carries **no measurable premium for unapproved development rights** (the sales gave those
+  terms negative signs, so they were dropped). The approval is what creates the value — supports the strategy.
+- **How deals use it:** purchase price = land value of the whole tract + what a house adds (1.21 × assessed
+  improvements, measured from improved sales); a recent arms-length sale (≤ 36 months, time-adjusted) is used when
+  within ±35% of the model, else averaged and flagged. Leftover land = same land model at its acres and remaining
+  rights (none left → priced like easement-restricted farmland), at the 35th percentile, never above the whole tract.
+- **Results:** Pursue 9 (Queen Anne's 4, Worcester 4, Cecil 1), Diligence 38. Large farms dropped out — the old method
+  overstated leftover land on them.
+- **Next:** shoreline frontage and woods/cleared land as factors; MLS or broker data on land listings would tighten the
+  vacant-land error most.
 
 ### 2026-10-13 (later) — By-right playbooks, financing, plat history, sellers, builders (Brian + Claude)
 - **County by-right playbooks (all 9):** `Docs + Regs/<County>/03. By-Right Playbook.md` + `01. Digests/Playbook

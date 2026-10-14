@@ -24,7 +24,7 @@ Step two is comparing counties and narrowing to the best two or three.
 `00. Summary.md` (all counties), `01. Inputs and Roadmap.md`, `02. Deal Shortlist.md` (every parcel priced as a
 deal, top 40), `03. Deal Assumptions.md` (every valuation/cost/risk/financing number with its source and confidence),
 `04. Plat History Worksheet.md` (deed-chain evidence to confirm on MDLandRec), `05. Builders.md` (who builds in each
-county), one folder per county with candidate, deal and builder CSVs, and `Dashboard/` (the Deal Board and its data).
+county), `06. Land Value Model.md` (how purchase prices and leftover land are valued, with accuracy), one folder per county with candidate, deal and builder CSVs, and `Dashboard/` (the Deal Board and its data).
 Code: private GitHub repo `bschmidhscp/eastern-shore-screener` — **all deal assumptions live in
 `assumptions/deal.yaml`**; county taxes/fees in `rules/<County>.yaml`. Change a number there and re-run; never
 hand-edit the generated files.
