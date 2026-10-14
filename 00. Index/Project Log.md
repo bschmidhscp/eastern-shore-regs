@@ -107,6 +107,16 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
+### 2026-10-15 (evening) — Which deals are listed for sale (Brian + Claude)
+- RentCast key added (Brian's, stored only at `~/.config/esl/rentcast.key`). First sweep: 3,786 active listings
+  (2,899 land, 887 homes on 3+ ac). **Listed now: 3 Pursue** — 1130 Old Love Point Rd, Stevensville (ask $1.9M, 154
+  days); QA 1802011093 (ask $2.43M, 891 days); 841 Greenville Rd (ask $300K, 153 days) — **and 5 Diligence**. Asking
+  prices are for the whole property; compare to the deal's whole-tract value and max bid in each deal's listing panel.
+- Cost controls (Brian: "don't crush me with costs"): monthly cap 40 requests (free plan = 50), counted before every
+  call, no retries, 30-day reuse, resumable sweeps. 23 requests used this month (15 lost to two RentCast timeouts and
+  a save bug, since fixed and tested offline). Off-market (past-year) sweeps time out on RentCast at Shore-wide
+  radius — left off by default.
+
 ### 2026-10-15 (later) — Market tab; are lot prices falling?; full-freight lot comps (Brian + Claude)
 - **Lot prices aren't falling.** The raw median lot price fell ~10% in the last 12 months because smaller, cheaper
   lots sold (median 1.24 vs 1.53 ac, fewer waterfront, more Somerset/Dorchester). Like-for-like lots rose ~9% (±9%);
