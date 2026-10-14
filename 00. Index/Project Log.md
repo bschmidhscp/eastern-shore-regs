@@ -17,13 +17,16 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | Statewide rules (COMAR etc.) | ✅ `01. Maryland/00. Summary.md` + 72 COMAR chapters / statute ranges and 69 agency guidance docs (retrieved 2026-10-11) |
 | Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico, Worcester, Somerset | ✅ Documents, digests, Fee Findings, summary (layer 1), Key Metrics — 2026-10-11/12 |
 | County comparison table | ✅ `00. Index/County Comparison.md` — all 9 counties |
-| Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **241 Pursue / 639 Diligence** (2026-10-15: full-freight, setting-aware lot model) — `Screener/00. Summary.md`, board link in Start Here |
+| Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **109 Pursue / 447 Diligence** (2026-10-15 late: measured 26% builder package discount, perc evidence, county corrections) — `Screener/00. Summary.md`, board link in Start Here |
 | By-right playbooks | ✅ all 9 counties — `<County>/03. By-Right Playbook.md` + `Playbook Metrics.json` (2026-10-13) |
 
 ## Open questions / watch items
 
-- **The Deal Board is shared "Anyone with the link"** and now carries one-pagers and parcel detail. Consider
-  restricting it to invited people (Ben as Viewer or Editor) from the board's Share menu.
+- **The Deal Board is shared "Anyone with the link"** and now carries the deal tracker (offers, notes) and builder
+  price checks — any signed-in person with the link can read them. Restrict it to invited people (Ben as Editor so he
+  can write to the tracker) from the board's Share menu.
+- **The builder package discount for 3+ lot sets is thin evidence** (17 packages, 80% range 2–45%; we underwrite 26%).
+  Builder price checks logged on the board are the test; if builders quote near the model, lower it in deal.yaml.
 - **Lot layouts are screening test fits** (drawn on every board aerial): have the civil engineer test-fit each Pursue
   deal before an offer. Private-road cost ($350/ft + $35K turnaround) is our estimate — get an engineer's number.
 - **Builder construction cost ($150/sf, NAHB) drives every lot price** — get 2–3 Eastern Shore builder quotes
@@ -106,6 +109,27 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-15 (night) — Lot price calibrated to the market; deal tracker on the board (Brian + Claude)
+- **Builder package discount, measured** (`Screener/13. Package Discount.md`, `screener/packages.py`): 94 package sales
+  (one seller, one date, 2–30 vacant lots, since 2019) vs. the lot model's price for one buildable lot that day.
+  All packages: **14%** (80% range 7–24%) — mostly 2-lot sales. **3+ lot sets (what our deals sell): 40%** (2–45%,
+  only 17 packages). Underwritten: **26%** (3+ blended toward all-package by count; deal.yaml). Package sales no
+  longer count as single-lot sales in the lot model (multi-lot deeds record the total on each lot).
+- **County bias:** tested year by year (2022, 2023, 2024, 2025+); most counties flip sign — noise, not corrected.
+  Corrected only where the miss repeats 3 of 4 years by 10%+: Somerset ×0.94, Dorchester ×0.93, Queen Anne's ×1.03
+  (`10. Backtest.md`). Recent-trend and regional fixes were tested and rejected.
+- **Perc evidence from the ground** (`screener/perc.py`): rural lots recorded 1995–2014 within 2 km still without a
+  house vs. the county rate. Tested on 14,826 lots: a lot's own buildout tracks this ~1:1 beyond its soils. Deal odds
+  ×0.75–1.10 (half weight). Shown on each deal and in diligence packs.
+- **Deal tracker + builder price checks on the board:** Pipeline tab; each deal has status (letter sent → in talks →
+  offer → under contract), next step and date, offer, history; and a log of builder quotes vs. our lot price. Stored
+  in the board's shared database; the monthly refresh copies them to `Screener/Deal Tracker.csv` and
+  `Screener/Builder Quotes.csv` (`screener/tracker.py`). Nothing tracked yet.
+- **Result: Pursue 241 → 109** (Diligence 447). Perc evidence + county corrections alone: 241 → 203; the 26% discount:
+  203 → 109. Typical Pursue profit $269K, 3.6×, odds 62%. All checks pass.
+- Board cleanup: 371 stale aerials removed (the board had hit its 512-file limit); publishes now remove stale files.
+- **Next:** builder price checks on 3–5 Pursue deals (settles the discount); restrict board sharing; PR #11.
 
 ### 2026-10-15 (late) — Who buys lots, what moves each deal, diligence packs, owner outreach (Brian + Claude)
 - **Who buys lots (`Screener/12. Who Buys Lots.md`):** traced from SDAT chains (vacant lot sale → house built → new home
