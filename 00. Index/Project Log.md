@@ -17,7 +17,7 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | Statewide rules (COMAR etc.) | ✅ `01. Maryland/00. Summary.md` + 72 COMAR chapters / statute ranges and 69 agency guidance docs (retrieved 2026-10-11) |
 | Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico, Worcester, Somerset | ✅ Documents, digests, Fee Findings, summary (layer 1), Key Metrics — 2026-10-11/12 |
 | County comparison table | ✅ `00. Index/County Comparison.md` — all 9 counties |
-| Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **219 Pursue / 636 Diligence** after site constraints, per-lot septic and automated rights (2026-10-14 night) — `Screener/00. Summary.md`, board link in Start Here |
+| Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **241 Pursue / 639 Diligence** (2026-10-15: full-freight, setting-aware lot model) — `Screener/00. Summary.md`, board link in Start Here |
 | By-right playbooks | ✅ all 9 counties — `<County>/03. By-Right Playbook.md` + `Playbook Metrics.json` (2026-10-13) |
 
 ## Open questions / watch items
@@ -106,6 +106,21 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-15 (later) — Market tab; are lot prices falling?; full-freight lot comps (Brian + Claude)
+- **Lot prices aren't falling.** The raw median lot price fell ~10% in the last 12 months because smaller, cheaper
+  lots sold (median 1.24 vs 1.53 ac, fewer waterfront, more Somerset/Dorchester). Like-for-like lots rose ~9% (±9%);
+  restated as a 1.5-acre lot, +13%. Volume is up 15% (416 vs 361 sales). Home prices are flat on a per-sf basis
+  (+3% all counties; Talbot −5% is the one soft spot). Caroline's "drop": prior year's lots were twice the size and
+  included three $300K–$1.35M outliers — per acre +28%, size-adjusted +16%.
+- **New Market tab on the board** (`screener/market.py`, every run): lot sales, size-adjusted lot price, like-for-like
+  change with its uncertainty, home $/sf, quarterly over three years, by county with sale counts.
+- **Lot comps are now full freight and in the right setting:** sales under half the assessed land value (6.5% —
+  family / distressed / troubled lots recorded as arm's-length) are dropped; a sewer-service / growth-area factor
+  separates town-style lots with utilities; our lots are priced as rural, existing-road, septic, proven-buildable
+  paper lots. 2,410 sales, CV error 31%. Comps are recorded vacant lots (paper lots), not finished subdivision lots.
+- **Listings:** no permitted automated source for active listings without a Bright MLS data license; web search is
+  unreliable for this (misses unindexed listings).
 
 ### 2026-10-15 — Who already does this (Brian + Claude)
 - **`screener/developers.py` → `Screener/09. Who Does This.md`** (+ `Subdivision projects <date>.csv`, `Subdividers <date>.csv`):
