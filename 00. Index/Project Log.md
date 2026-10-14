@@ -22,10 +22,12 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Open questions / watch items
 
-- **Time to a recorded plat may be underwritten short:** typical Pursue deals assume ~9 months (playbook review + 3
-  prep); subdividers who bought land to subdivide took a median 33 months to recorded lots (an upper bound — includes
-  slack before work began). Carve-outs carry no land, so it moves IRR and how long an owner waits, not dollars. Ask
-  county staff for recent minor-subdivision review times.
+- **Agricultural transfer tax is charged on lot sales (5%, median $27K on 91% of Pursue deals).** If it's computed on
+  what we pay the owner for the land, it's ~$4.5K. Ask the land-use attorney which transfer triggers it in a carve-out
+  closing at the plat (owner → us → builder at one table) and whether it can be computed on the raw-land consideration.
+- **Owners will want paid extensions** if a wet season is missed (contracts need to cover ~24 months); only a 5%
+  deposit is modeled. **Builders may take lots down in phases** rather than all 3 months after the plat.
+- **IRR on carve-outs is not meaningful** (median 600%+: equity is mostly soft costs). Judge deals on profit and MOIC.
 
 - **The Deal Board is shared "Anyone with the link"** and now carries the deal tracker (offers, notes) and builder
   price checks — any signed-in person with the link can read them. Restrict it to invited people (Ben as Editor so he
@@ -114,6 +116,24 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-16 — Why platting takes so long; calendar-aware timelines (Brian + Claude)
+- **Finding:** on a minor subdivision the planning review is quick (staff-approved; Worcester code: 30 days); the
+  bottleneck is the **Health Department's septic approval, gated by the wet-season perc window** (Feb–Apr on most
+  Shore soils, Nov–Mar in Wicomico; COMAR 26.04.02.04B). Somerset Board of Health minutes show the yearly cycle;
+  Wicomico PC minutes (2026-05-21) record the planning director's frustration with Health/MDE, a 2026 state exception
+  for off-season perc tests, and Health approval now required on letterhead before final plats. A Wicomico minor
+  (Basch, lots 3–4) had PC approval Jan 2024 and Health final approval Sep 2026. The 33-month SDAT figure was
+  inflated by crash-era holds, commercial parcels and family splits; the SDAT account-date lag is only months.
+- **Model:** each deal now has its own months to plat. Season-gated deals (well-drained share < 50%) wait for the next
+  window: 8–11 months if signed Aug–Nov (May–Aug in Wicomico), up to ~17 otherwise, plus a 15–42% chance (by hydric
+  share) of missing a window (+12). Year-round deals: prep + review, ~8 months. Board: timeline row on each deal,
+  "Perc any month" filter. Pursue unchanged at 109 (89% of Pursue are on soils testable year-round; carve-outs carry no
+  land, so time moves IRR, not profit). Median Pursue months to plat 10 (8–17).
+- One-lot-at-a-time pace raised from 8 to 20 months per lot (evidence; Brian approved).
+- Diligence packs now ask the Health Department for the application deadline, backlog, off-season policy and letterhead
+  approval; owner letters carry each deal's signing window (mail spring/summer, sign by fall, 24-month term with a perc
+  contingency).
 
 ### 2026-10-15 (late night) — Calibration loop: every input tracked to its evidence (Brian + Claude)
 - **Paper lots measured** (`Screener/14. Paper Lots Measured.md`): 143 lots from recent small subdivisions, sold one at
