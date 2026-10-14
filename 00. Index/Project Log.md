@@ -25,9 +25,10 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Agricultural transfer tax is charged on lot sales (5%, median $27K on 91% of Pursue deals).** If it's computed on
   what we pay the owner for the land, it's ~$4.5K. Ask the land-use attorney which transfer triggers it in a carve-out
   closing at the plat (owner → us → builder at one table) and whether it can be computed on the raw-land consideration.
-- **Owners will want paid extensions** if a wet season is missed (contracts need to cover ~24 months); only a 5%
-  deposit is modeled. **Builders may take lots down in phases** rather than all 3 months after the plat.
-- **IRR on carve-outs is not meaningful** (median 600%+: equity is mostly soft costs). Judge deals on profit and MOIC.
+- **Builders may take lots down in phases** rather than all 3 months after the plat — ask when getting builder quotes.
+- **Rules can change before our plat records** (rights vest at recording): comp plan / zoning rewrites pending in
+  Talbot, Queen Anne's, Kent, Caroline, Dorchester, Somerset, Wicomico and Worcester. Each deal's "Approval watch" lists
+  them; re-read bills before each filing.
 
 - **The Deal Board is shared "Anyone with the link"** and now carries the deal tracker (offers, notes) and builder
   price checks — any signed-in person with the link can read them. Restrict it to invited people (Ben as Editor so he
@@ -116,6 +117,23 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-16 (later) — Owner extensions, approval watch, schedule/disapproval risks (Brian + Claude)
+- **Owner extension payments** added as an expected soft cost on carve-outs: chance of missing a wet season × $2,500 per
+  lot (deal.yaml, L). Median $0 on Pursue (most are on year-round soils), up to ~$5.6K. One Talbot deal dropped to
+  Diligence: **108 Pursue**.
+- **IRR shown as ">100%"** where it isn't meaningful (carve-outs: equity is mostly soft costs); headline shows median
+  profit instead of median IRR.
+- **Diligence pack:** owner-as-applicant and lender partial-release steps; how long approvals stay valid vs. the perc
+  season.
+- **Approval watch on every deal** (from each playbook's off-ramps, cited): pending rule changes (8 of 9 counties have a
+  comp plan / zoning / forest rewrite in progress; Worcester rights vest only at recording), approvals that lapse
+  (Talbot 12 months; Kent plat must record within 6 months; Dorchester final within 1 year of preliminary), and
+  discretionary bumps to a public process (director referral to PC in Talbot/Kent/Wicomico; Worcester DRP "major
+  impact"; Kent 30-day appeal window; Cecil staff treating a minor as major — LaPointe).
+- Checked and not a risk for our product: Queen Anne's Res. 25-12 moratorium (sewered projects over 1,750 gpd only);
+  other 2025–26 moratoria are on data centers, solar, cannabis. No Pursue deal fronts a state highway (SHA entrance
+  permits not on the critical path).
 
 ### 2026-10-16 — Why platting takes so long; calendar-aware timelines (Brian + Claude)
 - **Finding:** on a minor subdivision the planning review is quick (staff-approved; Worcester code: 30 days); the
