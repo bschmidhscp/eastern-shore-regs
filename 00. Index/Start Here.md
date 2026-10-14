@@ -24,7 +24,8 @@ Step two is comparing counties and narrowing to the best two or three.
 `00. Summary.md` (all counties), `01. Inputs and Roadmap.md`, `02. Deal Shortlist.md` (every parcel priced as a
 deal, top 40), `03. Deal Assumptions.md` (every valuation/cost/risk/financing number with its source and confidence),
 `04. Plat History Worksheet.md` (deed-chain evidence to confirm on MDLandRec), `05. Builders.md` (who builds in each
-county), `06. Land Value Model.md` (how purchase prices and leftover land are valued, with accuracy), one folder per county with candidate, deal and builder CSVs, and `Dashboard/` (the Deal Board and its data).
+county), `06. Land Value Model.md` (how purchase prices and leftover land are valued, with accuracy), `One Pagers/`
+(investor PDFs for every Pursue deal), one folder per county with candidate, deal and builder CSVs, and `Dashboard/` (the Deal Board and its data).
 Code: private GitHub repo `bschmidhscp/eastern-shore-screener` — **all deal assumptions live in
 `assumptions/deal.yaml`**; county taxes/fees in `rules/<County>.yaml`. Change a number there and re-run; never
 hand-edit the generated files.
@@ -36,8 +37,9 @@ Dictionary.md`. Rebuilt by `python -m screener.database`; never edited by hand.
 
 **Eastern Shore Deal Board** (interactive, ranked, map, shared status + notes): [claude.ai/artifact/CBZiWuVtS4vecCcgEGvHxL](https://claude.ai/artifact/CBZiWuVtS4vecCcgEGvHxL) — private
 claude.ai page; Brian invites Ben by email as **Editor** so he can mark parcels and add notes (Viewers can only
-read; adding a public link would also make Ben read-only). Refresh: `python -m screener.proforma` then
-`python -m screener.dashboard`, then republish the HTML to the same link.
+read; adding a public link would also make Ben read-only). Refresh everything: `python -m screener.run_all`
+(~2 min; add `--screen` or `--refresh-data` for a full rebuild), then republish the board to the same link.
+**Brand for screens and generated PDFs:** `My Drive/Logo/HSCP-Brand-Standards-Digital-Addendum-v1.2.pdf`.
 
 | What | Location | Link |
 |---|---|---|

@@ -17,11 +17,15 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | Statewide rules (COMAR etc.) | ✅ `01. Maryland/00. Summary.md` + 72 COMAR chapters / statute ranges and 69 agency guidance docs (retrieved 2026-10-11) |
 | Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico, Worcester, Somerset | ✅ Documents, digests, Fee Findings, summary (layer 1), Key Metrics — 2026-10-11/12 |
 | County comparison table | ✅ `00. Index/County Comparison.md` — all 9 counties |
-| Deal pro forma + Deal Board | ✅ all 9 counties priced as deals (buy; unlevered + levered, monthly cash flows): 31 Pursue / 219 Diligence (levered; owner's-view comps) — `Screener/02. Deal Shortlist.md`, board link in Start Here (2026-10-13) |
+| Deal pro forma + Deal Board | ✅ all 9 counties priced as deals (buy; unlevered + levered, monthly cash flows): 46 Pursue / 244 Diligence (levered; waterfront lots priced) — `Screener/00. Summary.md`, board link in Start Here (2026-10-13) |
 | By-right playbooks | ✅ all 9 counties — `<County>/03. By-Right Playbook.md` + `Playbook Metrics.json` (2026-10-13) |
 
 ## Open questions / watch items
 
+- **The Deal Board is shared "Anyone with the link"** and now carries one-pagers and parcel detail. Consider
+  restricting it to invited people (Ben as Viewer or Editor) from the board's Share menu.
+- **Waterfront deals:** each assumes its lots reach tidal water; have the engineer sketch the layout (and the Critical
+  Area buffer) before an offer — waterfront is most of the Pursue list's value.
 - **Deal assumptions are mostly estimates (L):** engineering, survey, attorney, perc, demolition, builder package
   discount, owner price for options, and the waterfall terms. Get 2–3 local quotes per county (Queen Anne's,
   Worcester, Cecil first) and the real term sheet; change `assumptions/deal.yaml`, re-run, republish.
@@ -100,6 +104,33 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-14 (overnight) — Waterfront lots, aerials, new map, investor one-pagers, redesign, cleanup (Claude)
+- **Waterfront lots now priced from waterfront sales.** Tidal waterfront vacant lots (shoreline in the Critical Area)
+  sell 2–4× inland lots: Talbot $575K vs $140K, Queen Anne's $420K vs $128K, Worcester $400K vs $128K. A parcel's
+  new lots count as waterfront when its tidal shoreline gives each the district's minimum width (flagged "confirm the
+  layout"); priced from waterfront lot sales within 10 km (else the county median), and the Critical Area buffer
+  planting is budgeted (100 ft; 200 ft in RCA). Ponds and non-tidal streams don't count.
+- **Aerial snapshot on every Pursue + top Diligence deal** (Maryland 6-inch imagery, parcel outlined, scale + north
+  arrow). The first one exposed a false positive — an HOA common-area ring around a built subdivision — so
+  **subdivision common areas are now excluded** (residential land assessed ~$0, or strip/ring-shaped parcels wrapping
+  5+ small lots), in the screen and the pro forma.
+- **Road names** for every parcel's frontage; Google Maps satellite/directions and property-record links per deal.
+- **New board design** (High Side Brand Standards v1.2 · Digital addendum): app bar, KPI strip, segmented filters,
+  slide-in deal panel (full-screen on phones) with aerial, returns (Deal / Investors / High Side), total budget,
+  owner's view, site/approvals/title; real pan-and-zoom map (shoreline, routes, towns, parcel outlines, tap a deal).
+- **Investor one-pagers** (`Screener/One Pagers/`, linked from each deal): Letter PDF — opportunity, by-right path,
+  business plan, uses/sources/exit, projected Deal / Investor / High Side returns, risks. Confidential by default
+  (town and county only); never shows our max bid or the owner's expectation. `python -m screener.onepager --reveal`
+  adds the address.
+- **Brand:** `My Drive/Logo/HSCP-Brand-Standards-Digital-Addendum-v1.2.pdf` — Geist / Geist Mono for screens and
+  generated PDFs (Arial/Georgia stay for Office), screen neutrals, components, map/exhibit and one-pager specs.
+- **Cleanup:** one command for everything (`python -m screener.run_all`, ~2 min); `proforma.py` split into
+  `assumptions` / `finance` / `reports`; `checks.py` invariants (all pass — budget ties out, LP+GP = deal, …; they
+  caught a real issue: tiny land loans cost more than they save → loans under $100K are dropped); retired the old
+  per-parcel soils step; old dated outputs pruned; lint clean; README rewritten with the architecture.
+- **Results:** Pursue 46 (Queen Anne's 31, Worcester 11, Cecil 2, Dorchester 1, Talbot 1), Diligence 244; 186 lots
+  in Pursue (43 on tidal water), $19.0M equity, $18.6M profit if approved, median levered MOIC 1.92×.
 
 ### 2026-10-14 (early) — Owner's-view comps, land cover, deal / LP / GP returns, total budget, mobile (Brian + Claude)
 - **Land cover:** wooded and cropland/pasture shares per tract (MDP land use/land cover 2010) added to the land model —
