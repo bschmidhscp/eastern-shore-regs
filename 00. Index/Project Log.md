@@ -119,8 +119,11 @@ was decided, what was learned, and what's next. Background and layout are in **S
   family / distressed / troubled lots recorded as arm's-length) are dropped; a sewer-service / growth-area factor
   separates town-style lots with utilities; our lots are priced as rural, existing-road, septic, proven-buildable
   paper lots. 2,410 sales, CV error 31%. Comps are recorded vacant lots (paper lots), not finished subdivision lots.
-- **Listings:** no permitted automated source for active listings without a Bright MLS data license; web search is
-  unreliable for this (misses unindexed listings).
+- **Listings → `screener/listings.py`:** RentCast's licensed listings API (MLS-sourced; terms allow internal analytics,
+  storage and display) — land and 3+ ac home listings, active and off-market in the past year, matched to parcels by
+  location then address. Board: "Listed $X" badge, "Listed for sale" filter, listing panel (asking price, days on
+  market, MLS #, agent, asking vs. our max bid). Needs Brian's RentCast key in `~/.config/esl/rentcast.key`; free plan
+  (50 requests/month) covers a monthly sweep. Web search was tested and rejected (misses unindexed listings).
 
 ### 2026-10-15 — Who already does this (Brian + Claude)
 - **`screener/developers.py` → `Screener/09. Who Does This.md`** (+ `Subdivision projects <date>.csv`, `Subdividers <date>.csv`):
