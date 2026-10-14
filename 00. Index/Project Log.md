@@ -107,6 +107,18 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
+### 2026-10-15 — Who already does this (Brian + Claude)
+- **`screener/developers.py` → `Screener/09. Who Does This.md`** (+ `Subdivision projects <date>.csv`, `Subdividers <date>.csv`):
+  every rural tract split into new lot accounts since 2010, from SDAT transfer chains (seller names, prices, dates).
+- **Findings:** 408 rural subdivisions since 2010 across nine counties: 187 sold as finished homes by a builder,
+  107 family splits, **only 26 sold paper lots**, and in **only 6 did the subdivider buy the land and entitle it
+  within 6 years** (Cecil ×2, Kent, QA, Wicomico, Worcester; LLCs). Those 6: land $11–63K per lot; lots sold
+  $64–213K; revenue ÷ land 1.0–18×; but lot sales were slow — typically 6 of 14–37 lots sold, over 2–10+ years.
+  Paper lots exist as a business here, but it's thin and absorption is the risk, not the spread.
+- **Limits:** SDAT keeps three transfers per account; lots given new parcel numbers are missed; owners (buyers)
+  aren't published. LLC principals: no free bulk source — Maryland's Business Express is per-entity only (state
+  site use policy bars scripts); bulk = the SDAT Corporate Master File licensee or a commercial API.
+
 ### 2026-10-15 — Efficiency pass (Claude)
 - **Pipeline 7–8 min → 55 s** when only costs/financing/tiers change (~3.5 min after code or data changes); results
   verified identical. Biggest fix: the lot layout was buffering whole road lines ~95,000 times per county; roads are
