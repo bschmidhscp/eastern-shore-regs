@@ -1,0 +1,17 @@
+{
+  "county": "Talbot",
+  "path_name": "Minor subdivision",
+  "max_lots": 3,
+  "decider": "Planning Director",
+  "public_hearing": false,
+  "public_notice": {"required": false, "type": "none", "cite": "§ 190-54.5.B; § 190-68.2.B; § 190-66.2.A; § 190-67.3.D (TAC agenda on county website only; PC referral under § 190-66.2.A.3 would add agenda ad and signs per § 190-67.6.B)"},
+  "cumulative_cap": {"applies": true, "base_date": "1991-06-22", "counted_from": "original tract as of 1991-06-22 (non-Critical Area) or 1989-08-13 (Critical Area)", "cite": "§ 190-78 (Subdivision, Minor; Parcel, Original); § 190-8.7.A"},
+  "months_to_recorded_plat": {"low": 3, "typical": 5, "high": 9, "basis": "estimate"},
+  "perc_season": {"months": "Feb-Apr", "cite": "COMAR 26.04.02.04B; 01. Maryland/00. Summary.md § 1"},
+  "county_fees": {"lots_3": 1300, "lots_max": 1300, "fiscal_year": "FY2026 (eff. 2025-07-01); Critical Area 3-lot = 1450", "cite": "Planning Fees 2025-2026 p.1"},
+  "forest_conservation": {"applies_to_minor": true, "fee_in_lieu_psf": 0.30, "cite": "§ 73-3.A; § 73-11; Planning Fees 2025-2026 p.2 (exempt if wholly in Critical Area or agricultural-purposes-only plat)"},
+  "studies_required": ["boundary survey and plat", "topographic survey", "soils/perc and Health Department site evaluation (Feb-Apr)", "forest stand delineation", "forest conservation plan or declaration of intent", "wetland/stream delineation (if applicable)", "stormwater (ESD) concept and sediment/erosion control plan", "Critical Area report, buffer plan, lot coverage (if within 1,000 ft of tidal water)", "title search", "reserved-land agreement and right-to-farm covenants"],
+  "access": {"min_frontage_ft": 50, "flag_lots_allowed": true, "shared_driveway_max_lots": 2, "cite": "§ 190-35.1.A-B (50 ft; 25 ft with joint access); § 190-35.2.B.5 (max 2 lots off original parcel on existing road); § 190-36.3.B (pipestem: 25 ft stem, adjacent pipestems share one entrance)"},
+  "off_ramps": ["4th lot or cumulative 4+ lots from 1991/1989 original parcel (becomes small-scale or major, PC hearing and notice)", "new or modified public or private road", "third lot lacking existing-road access (2-lot limit, waiver or internal road)", "insufficient development rights or remainder lot in AC/CP/WRC (Table II-7)", "variance or special exception (Board of Appeals)", "rezoning or map amendment", "Critical Area growth allocation (Council plus State)", "water and sewer plan amendment", "perc or soils failure", "Tier IV/unsewered Tier II lot cap of 7 (8+ appears not possible)", "Director referral to Planning Commission", "approval lapse after 12 months (restart at sketch)", "easements or floodplain/buffer/slope constraints"],
+  "open_questions": ["Does the remainder parcel count toward the two-lots-on-existing-road limit in § 190-35.2.B.5, and what waiver standard applies?", "Is the full AC/CP/WRC cluster and reserved-land layout required for a 3-lot minor?", "How often and why does the Director refer minors to the Planning Commission; is any posting or mailing ever required?", "Actual elapsed time for recent minors, and routine use of combined preliminary/final?", "Current forest conservation replacement ratio and FY27 planning fee schedule", "Health Department perc season, fees, and Soil Conservation District fees", "Tier map status of target parcels and Comprehensive Plan rewrite impacts"]
+}

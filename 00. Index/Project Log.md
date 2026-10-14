@@ -17,14 +17,18 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | Statewide rules (COMAR etc.) | ✅ `01. Maryland/00. Summary.md` + 72 COMAR chapters / statute ranges and 69 agency guidance docs (retrieved 2026-10-11) |
 | Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico, Worcester, Somerset | ✅ Documents, digests, Fee Findings, summary (layer 1), Key Metrics — 2026-10-11/12 |
 | County comparison table | ✅ `00. Index/County Comparison.md` — all 9 counties |
-| Deal pro forma + Deal Board | ✅ all 9 counties priced as deals (buy, unlevered): 22 Pursue / 115 Diligence — `Screener/02. Deal Shortlist.md`, board link in Start Here (2026-10-13) |
+| Deal pro forma + Deal Board | ✅ all 9 counties priced as deals (buy; unlevered + levered, monthly cash flows): 12 Pursue / 70 Diligence — `Screener/02. Deal Shortlist.md`, board link in Start Here (2026-10-13) |
+| By-right playbooks | ✅ all 9 counties — `<County>/03. By-Right Playbook.md` + `Playbook Metrics.json` (2026-10-13) |
 
 ## Open questions / watch items
 
 - **Deal assumptions are mostly estimates (L):** engineering, survey, attorney, perc, demolition, builder package
   discount, owner price for options, and the waterfall terms. Get 2–3 local quotes per county (Queen Anne's,
   Worcester, Cecil first) and the real term sheet; change `assumptions/deal.yaml`, re-run, republish.
-- **Whole-farm buys assume the remainder resells at our cost basis** — stress-test (sale timing, discount).
+- **Whole-farm buys resell the leftover land** at a 15% discount to our basis — still the biggest single assumption on
+  large parcels; stress-test before an offer.
+- **Playbook open questions** (each county's § 7) — call staff before relying on a county: Cecil minor density,
+  Queen Anne's delegation of minors to the Director, Talbot/Kent access caps, Wicomico 20-ac remainder.
 - **Fees not posted for FY27** in Cecil (latest 2/2024), Kent (9/2024), Wicomico (planning section 2012–15), Worcester
   (FY26), Queen Anne's (FY27 impact fee inferred from a State fiscal note) — confirm with each county before underwriting.
 - **Septic/perc fees, sewer connection charges and BAT costs** were not found for any county except Talbot (BAT) and
@@ -96,6 +100,36 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-13 (later) — By-right playbooks, financing, plat history, sellers, builders (Brian + Claude)
+- **County by-right playbooks (all 9):** `Docs + Regs/<County>/03. By-Right Playbook.md` + `01. Digests/Playbook
+  Metrics.json` — eligibility checklist, step-by-step path to a recorded plat, public notice, county fees, off-ramps,
+  staff call list. Written by Sonnet agents from the corpus with the shared prompt `02. Tools/Prompts/By-Right Playbook
+  Prompt.md` (re-run per county when codes change). Review times are estimates (minors aren't minuted).
+  - **Public notice on the by-right path:** none in Talbot, Cecil, Worcester, Wicomico, Caroline, Somerset;
+    **adjoining-owner letters** in Queen Anne's and Kent; Dorchester's preliminary plat goes on a Planning Commission
+    agenda (no hearing).
+  - **Traps found:** Talbot allows only 2 lots off an original parcel onto an existing road (§ 190-35.2.B.5) — now
+    modeled, Talbot drops out; Kent AZD same (2 lots); Cecil minor density disputed (1/ac in text vs 1 per 10 ac applied
+    by staff in 2026) — modeled as a 0.7 odds factor until staff confirm; Wicomico's 3-lot right needs a ≥20-ac remainder.
+- **Financing, month by month:** buy-structure cash flows (close, soft costs over the approval period, demolition,
+  property tax at the actual assessment and county rate, insurance/upkeep, farm-lease income, loan interest, sale).
+  Unlevered and levered (raw-land loan = lower of 50% of value / 60% of cost, 8.5% interest-only, 1% + $6k fees) —
+  equity invested, profit, MOIC, IRR, expected MOIC. Timeline per county = playbook typical + 3 months prep, minimum 9.
+  Tiers stay on unlevered expected MOIC (Pursue ≥ 1.40×, Diligence ≥ 1.20×). Board now shows MOIC (was profit ÷ equity).
+- **Land price:** our estimate of what the land costs today — the last arms-length sale if within 5 years and
+  plausible, else acres × market $/acre (higher of assessed land $/ac and nearby raw-land sale comps) + improvements.
+  Shown with its basis on every deal, plus a **max bid** (price at which expected unlevered MOIC = 1.40×).
+- **Plat history (automated screen):** deed-chain test from SDAT (`screener/history.py`) — parcels deeded out of the
+  owner's deed and the prior owner's deed since the county's cap base date; feeds the odds and
+  `Screener/04. Plat History Worksheet.md` (owner deed liber/folio for MDLandRec confirmation).
+- **Seller signals:** absentee, inherited/estate transfer, no mortgage at last transfer, held 20+ years,
+  not owner-occupied (0–5; filter on the board). **Builders:** entity sellers of new homes by county
+  (`Screener/05. Builders.md`); each deal lists the three most active within 12 miles.
+- **Conservatism added:** leftover land resold at a 15% discount to our basis.
+- **Results:** Pursue 12 (Queen Anne's 7, Worcester 4, Cecil 1), Diligence 70, Watch 319 of 20,420 candidates.
+- **Next:** call county staff with each playbook's open questions (Queen Anne's, Worcester, Cecil first); confirm the
+  Pursue list's plat history on MDLandRec; local quotes; real term sheet and a bank quote for land loans.
 
 ### 2026-10-13 — Deal pro forma, Eastern Shore Deal Board, local soils (Brian + Claude)
 - **Goal restated (Brian):** a formulaic way to take Eastern Shore projects to *final* approval by right — no public

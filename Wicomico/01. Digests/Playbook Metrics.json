@@ -1,0 +1,17 @@
+{
+  "county": "Wicomico",
+  "path_name": "Minor subdivision of three lots or fewer (exempt, § 200-3A)",
+  "max_lots": 3,
+  "decider": "Director of Public Works and County Health Department",
+  "public_hearing": false,
+  "public_notice": {"required": false, "type": "none", "cite": "§ 200-3A; § 200-6B(1); notice rules only for PC action, § 200-7A(4), § 200-8A(2)"},
+  "cumulative_cap": {"applies": true, "base_date": "1957-07-09 or 1968-04-01, whichever applies", "counted_from": "original tract as of 7/9/1957 or 4/1/1968; one-time, 3 lots total", "cite": "§ 200-3A(1), (2)"},
+  "months_to_recorded_plat": {"low": 3, "typical": 6, "high": 10, "basis": "estimate"},
+  "perc_season": {"months": "Nov-Mar (wet season, high water table soils); MDE expedite for off-season in 2026", "cite": "Fee Findings; PC minutes 2026-05-21 p.6; COMAR 26.04.02.04B"},
+  "county_fees": {"lots_3": 425, "lots_max": 4635, "fiscal_year": "not stated in Ch. 141; DPW through Res. 72-2025 (FY26); FY27 not found", "cite": "§ 141-3A(3), (4), (5)(a); § 141-4A(1), (2). Low = plat $225 + FCA $200; high adds CA $50, DPW $2,060, stormwater $2,150"},
+  "forest_conservation": {"applies_to_minor": true, "fee_in_lieu_psf": 0.10, "cite": "§ 126-4; § 126-17A (floor of $0.10 per sf; actual rate in Council fee schedule, not found); FCA(E) exemption commonly used"},
+  "studies_required": ["boundary survey and plat", "perc/soils and septic design (wet season)", "forest conservation exemption or FSD/FCP", "wetland/stream delineation where indicated", "stormwater concept or exemption (disturbance over 5,000 sf)", "Critical Area report if within 1,000 ft of tidal water", "title and prior-lot history", "SHA entrance review if State road"],
+  "access": {"min_frontage_ft": null, "flag_lots_allowed": null, "shared_driveway_max_lots": null, "cite": "§ 200-3A(1)(b), (c) publicly maintained road frontage; § 200-11G no private streets; § 200-11J road-class limits of 3 lots; Ch. 225 Attach. 3 width 100/120 ft in A-1"},
+  "off_ramps": ["4th lot from original tract (PC review, 4-7 lot minor)", "remnant parcel under 20 acres", "prior 3-lot right already used", "new or interior road required", "no public road frontage / private street", "more than 3 lots on State or major collector", "variance (Board of Appeals)", "special exception or rezoning", "perc failure / lacking 10,000 sf septic area", "public sewer or W&S plan amendment", "RCA 1 per 20 acres density", "Director or applicant requests PC review", "floodplain, wetland, A-2 airport, Paleochannel overlays"],
+  "open_questions": ["Does the 3-lot right override A-1 1:15 density (§ 225-75; § 200-3A.1)?", "Are flag/panhandle lots or shared driveways allowed, and how many lots per driveway?", "How is the future street extension waiver requested and is it routinely granted?", "Health Dept perc and plat fees, wet-season window, turnaround", "Does a 3-lot plat require DPW stormwater concept/improvements plan and FY27 fees?", "How does the county verify the 1957/1968 base date and prior-lot count?"]
+}

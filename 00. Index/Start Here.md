@@ -22,8 +22,9 @@ Step two is comparing counties and narrowing to the best two or three.
 
 **Deal screener:** the folder `Screener/` (next to `Docs + Regs/`) holds the parcel screener's results —
 `00. Summary.md` (all counties), `01. Inputs and Roadmap.md`, `02. Deal Shortlist.md` (every parcel priced as a
-deal, top 40), `03. Deal Assumptions.md` (every valuation/cost/risk number with its source and confidence), one
-folder per county with candidate and deal CSVs, and `Dashboard/` (the Deal Board page and its data).
+deal, top 40), `03. Deal Assumptions.md` (every valuation/cost/risk/financing number with its source and confidence),
+`04. Plat History Worksheet.md` (deed-chain evidence to confirm on MDLandRec), `05. Builders.md` (who builds in each
+county), one folder per county with candidate, deal and builder CSVs, and `Dashboard/` (the Deal Board and its data).
 Code: private GitHub repo `bschmidhscp/eastern-shore-screener` — **all deal assumptions live in
 `assumptions/deal.yaml`**; county taxes/fees in `rules/<County>.yaml`. Change a number there and re-run; never
 hand-edit the generated files.
@@ -55,6 +56,8 @@ Each county folder has the same layout:
                    + Fee Findings.md (impact/excise fee, fee schedule and FY, septic/sewer charges, cited)
                    + Key Metrics.json (feeds the County Comparison)
   02. Coverage Report.md   what was found / missing for this county
+  03. By-Right Playbook.md the repeatable path to a recorded plat with no hearing: eligibility, steps, notice, fees,
+                   off-ramps, staff questions (+ 01. Digests/Playbook Metrics.json, read by the deal model)
   Code/            county code, one markdown file per section (e.g. Chapter 190/190-36.md);
                    each chapter folder has "00. Contents.md" (outline) and "00. History.md";
                    "Code/00. Amendments Not Yet in Code.md" lists newer bills to read alongside

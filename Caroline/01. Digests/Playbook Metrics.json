@@ -1,0 +1,17 @@
+{
+  "county": "Caroline",
+  "path_name": "Minor subdivision",
+  "max_lots": 4,
+  "decider": "Zoning Administrator",
+  "public_hearing": false,
+  "public_notice": {"required": false, "type": "none", "cite": "§ 162-13 (no notice provision); appeal of denial to Planning Commission § 162-13.I"},
+  "cumulative_cap": {"applies": true, "base_date": "1972-11-30", "counted_from": "original tract as of 1972-11-30; residue under 20 acres counts as a lot", "cite": "§ 175-38.A(2); § 162-5.A-B; § 175-38.C"},
+  "months_to_recorded_plat": {"low": 4, "typical": 6, "high": 9, "basis": "estimate"},
+  "perc_season": {"months": "Feb-Apr (wet season); submit Health Dept application before Dec 1", "cite": "COMAR 26.04.02.04B (MD Summary §1); Fee Findings (Health Dept page)"},
+  "county_fees": {"lots_3": 1475, "lots_max": 1850, "fiscal_year": "FY2027", "cite": "55_FY2027-Fee-Schedule pp.2-5: plat $375/lot ($450 in Critical Area) + forest conservation plan $300 + stormwater $50; excludes Health Dept fees and $5,000/home impact fee paid at building permit (§ 167-14.A)"},
+  "forest_conservation": {"applies_to_minor": true, "fee_in_lieu_psf": null, "cite": "§ 109-3.A (40,000 sf); § 109-10 ($0.30 inside PFA / $0.36 outside PFA as of 2014, indexed annually; current rate not found)"},
+  "studies_required": ["boundary survey and plat (field-located new lines)", "title and lot history since 1972-11-30", "perc/soils evaluation (Health Dept plat evaluation, wet season)", "forest stand delineation and forest conservation plan or declaration/exemption", "wetland, stream (100 ft/25 ft buffers) and drainage ditch delineation", "stormwater concept plan", "Critical Area report/project notification if in CA", "DNR sensitive species review if mapped", "right-of-way and access/maintenance agreements", "right-to-farm covenant (R district)"],
+  "access": {"min_frontage_ft": null, "flag_lots_allowed": true, "shared_driveway_max_lots": null, "cite": "§ 162-15.A (existing County/State road or private road with 30-ft ROW); § 162-35.A (panhandle ban applies to majors only); R district lot width 150 ft (Attach. 4); no minimum frontage figure found"},
+  "off_ramps": ["5th lot or residue under 20 acres exceeding 4-lot count (rural major, Planning Commission, receiving area only)", "prior divisions since 1972-11-30 consume lot rights", "new road or lack of frontage/30-ft ROW", "perc failure or insufficient septic area", "Tier IV limit on septic (minor only)", "Critical Area RCA density 1 per 20 acres", "variance, special exception or rezoning (public hearing)", "water and sewer plan amendment for community system", "denial appealed to Planning Commission", "comprehensive plan or rezoning changes to density/tiers", "unpaid taxes, forest conservation or APFO deficiencies"],
+  "open_questions": ["Which plat copy count/format is current (7, 5 or 3 copies)? Any published minor review timeline?", "Does 4-lot cap include the original parcel; how is a 20+ acre residue treated (written example)?", "Is any notice or agency circulation triggered for minors in practice?", "Is stormwater/sediment control required at plat or only at building permit; what does County Engineer require for ROW deed?", "Health Dept plat evaluation and perc fees, exact wet-season window, backlog, BAT outside Critical Area?", "Current indexed forest fee-in-lieu rate; has Ch. 109 been updated to state 1:1; will the 2026 draft plan or rezoning change R density/tiers?"]
+}

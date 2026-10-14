@@ -1,0 +1,17 @@
+{
+  "county": "Worcester",
+  "path_name": "Minor subdivision",
+  "max_lots": 5,
+  "decider": "Department of Development Review and Permitting (DRP), approval constitutes Planning Commission approval",
+  "public_hearing": false,
+  "public_notice": {"required": false, "type": "none", "cite": "§ ZS 2-302; no notice step in §§ ZS 2-301 to 2-304 (DRP may forward to PC at its discretion, § ZS 2-304)"},
+  "cumulative_cap": {"applies": true, "base_date": "1967-07-25", "counted_from": "original tract as of 1967-07-25", "cite": "§ ZS 1-311(a) (Subdivision, Minor / Major)"},
+  "months_to_recorded_plat": {"low": 2.5, "typical": 4, "high": 8, "basis": "estimate"},
+  "perc_season": {"months": "Feb-Apr (Shore wet season; confirm with Environmental Programs)", "cite": "01. Maryland/00. Summary.md (COMAR 26.04.02.04B; 26.04.03.02C)"},
+  "county_fees": {"lots_3": 2090, "lots_max": 2990, "fiscal_year": "FY26 (eff. 7/1/2025)", "cite": "Fee Findings; Res. 25-11; Env. Schedule 2024; includes $150 construction plans and ~$10 recording; excludes Critical Area review fee"},
+  "forest_conservation": {"applies_to_minor": true, "fee_in_lieu_psf": 0.305, "cite": "§ NR 1-403(a), § NR 1-405, § NR 1-413 (30.5 cents/sf inside priority funding area; exempt in Critical Area per § NR 1-403(b)(2))"},
+  "studies_required": ["boundary survey (PLS)", "1967 parent-parcel title and prior plat research", "perc/soils evaluation", "simplified forest stand delineation and forest conservation plan", "wetland delineation (if wetlands/floodplain mapped)", "Critical Area report (if within 1,000 ft of tidal waters)", "civil engineer plat and access layout"],
+  "access": {"min_frontage_ft": 35, "flag_lots_allowed": true, "shared_driveway_max_lots": null, "cite": "§ ZS 2-502(d)(4), § ZS 2-502(j) (flag lots: 35 ft pole, shared driveway with cross easements; 20% cap applies to majors only); rural cluster access easement 20 ft, § ZS 1-308(b)(6)"},
+  "off_ramps": ["6th lot from 1967 parent parcel (major subdivision; effectively needs public sewer)", "DRP forces major review or PC referral (§ ZS 2-304)", "variance (frontage, width, setbacks) - BZA hearing", "special exception (RP zone)", "new road or access easement serving 3+ lots", "failed perc / no 10,000 sf septic area", "rezoning or map amendment", "Critical Area growth allocation / RCA density 1 per 20 ac", "water and sewer plan amendment", "moratorium or code change before recordation (rights vest only on recording)"],
+  "open_questions": ["Actual elapsed time from acceptance to recording for recent minors", "Official perc/wet-season window and who performs tests", "Any stormwater/ESD submission at plat stage for 3-5 lots", "Is BAT required on all new septic now", "How DRP determines 1967 parent parcel and how often it uses 2-304", "FY27 fee schedule and sewer EDU/connection charges; effect of Route 589 moratorium and 2026 Comp Plan"]
+}

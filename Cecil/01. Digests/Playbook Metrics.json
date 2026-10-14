@@ -1,0 +1,17 @@
+{
+  "county": "Cecil",
+  "path_name": "Minor subdivision (combined preliminary/final plat)",
+  "max_lots": 5,
+  "decider": "Director, Land Use and Development Services",
+  "public_hearing": false,
+  "public_notice": {"required": false, "type": "none", "cite": "Sub Regs §§ 2.4.1-2.4.2, 4.2.3 (no TAC/PC); notice letters and sign attach to TAC/PC submittals, § 4.0, § 4.1.20(a); caveat: LaPointe 3-lot plat went to PC with § 3.8 notification, PC minutes 2026-05-18"},
+  "cumulative_cap": {"applies": true, "base_date": "1976-04-15", "counted_from": "original parcel (any lot recorded or existing before 1976-04-15); 5 or more lots off it triggers major procedures; 'up to five' vs 'five or more' wording conflict, underwrite 4", "cite": "Sub Regs § 2.4.3, definition of Original Parcel"},
+  "months_to_recorded_plat": {"low": 2, "typical": 4, "high": 8, "basis": "estimate"},
+  "perc_season": {"months": "Feb-Apr (late winter/early spring high water table; State rule)", "cite": "COMAR 26.04.02.04B; PC minutes 2026-01-21 pp.5-6"},
+  "county_fees": {"lots_3": 300, "lots_max": 400, "fiscal_year": "Planning schedule updated 2/2024 (FY27 not found)", "cite": "Fees 847 p.1 ($50 + $50/lot); Fees 656 ($100 ESD narrative); excludes Health Dept, recording, possible $100 record plat review"},
+  "forest_conservation": {"applies_to_minor": true, "fee_in_lieu_psf": null, "cite": "Sub Regs § 2.3.5 (declaration of intent), definitions p.8; exemption § 3.2K used in PC minutes 2026-05-18"},
+  "studies_required": ["boundary survey with 2-5 ft topography", "soils/perc site evaluation with test pits (Health Dept)", "forest conservation declaration of intent or FSD/FCP", "stormwater ESD narrative", "stream/wetland delineation and buffers", "Critical Area environmental assessment (if mapped)", "rare species/MDNR coordination (if flagged)", "title and original-parcel lot history"],
+  "access": {"min_frontage_ft": 100, "flag_lots_allowed": true, "shared_driveway_max_lots": 2, "cite": "Zoning Art. VI (100 ft; 25 ft on local road, note 6); Sub Regs § 7.4.2 (no more than two flag lots with adjoining entrances); 50 ft shared access easement for 2 lots accepted, PC minutes 2026-05-18"},
+  "off_ramps": ["cumulative lot count reaches 5 or more off original parcel", "new street or internal road", "more than two adjoining flag-lot entrances", "Tier III/IV septic limits", "Critical Area RCA 1 unit/20 ac, no variance", "variance for lot size, width or frontage", "special exception or rezoning", "Master W&S Plan category change", "perc failure on a lot", "remainder under 5 acres must be platted", "wetlands, buffers, floodplain or habitat conditions", "county processes the plat as a major subdivision (LaPointe precedent)"],
+  "open_questions": ["Is the fifth lot still a minor (Sub Regs 2.4.2 vs 2.4.3)?", "Why was the 3-lot LaPointe plat processed as a major with PC review and notice?", "Which minor density applies in NAR/SAR: 1 per acre (Zoning 22.2.a) or Art. VIII note 5 (same as major)?", "Current FY27 fees, record plat review charge and realistic review time for a minor", "Forest conservation thresholds, exemptions and fee in lieu", "Health Dept perc fees, test window and rules for multi-lot septic"]
+}

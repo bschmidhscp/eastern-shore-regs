@@ -1,0 +1,81 @@
+{
+  "county": "Dorchester",
+  "path_name": "Minor subdivision (combined preliminary/final plat)",
+  "max_lots": 7,
+  "decider": "Planning Commission Chairman signs final minor plat; Planning Commission reviews at a regular meeting (Director screens)",
+  "public_hearing": false,
+  "public_notice": {
+    "required": false,
+    "type": "PC agenda",
+    "cite": "No adjoining-owner, sign or published notice in Ch. 140 for minors; preliminary presented at PC regular meeting \u00a7 140-17.C; Chairman may sign final without full Commission \u00a7 140-21.D(1); waivers need certified-mail notice \u00a7 140-46.B(2)(a)"
+  },
+  "cumulative_cap": {
+    "applies": true,
+    "base_date": "1995-04-01",
+    "counted_from": "single lot, tract or parcel existing as of April 1, 1995, all at once or lot by lot",
+    "cite": "\u00a7 140-6 (Minor Subdivision; Bill 2012-6)"
+  },
+  "months_to_recorded_plat": {
+    "low": 3,
+    "typical": 5,
+    "high": 9,
+    "basis": "estimate"
+  },
+  "perc_season": {
+    "months": "Feb-Apr (wet-season testing; estimate from State rule)",
+    "cite": "COMAR 26.04.02.04B; State Summary section 2; County perc fees Code \u00a7 131-3"
+  },
+  "county_fees": {
+    "lots_3": 1500,
+    "lots_max": 2400,
+    "fiscal_year": "FY2027",
+    "cite": "Res. 695 pp.10-12 and Code \u00a7 131-3. 3-lot = $500 subdivision + $250 simplified FSD + $500 FCP + $250 perc per subdivision site; 7-lot = $1,400 subdivision (assumes +$300 after lot 4) + $250 FSD + $500 FCP + $250 perc. Excludes recording, building excise tax ($5,000/dwelling), stormwater permit, consultants. Estimate."
+  },
+  "forest_conservation": {
+    "applies_to_minor": true,
+    "fee_in_lieu_psf": 0.1,
+    "cite": "\u00a7 140-59, \u00a7 140-63, Table 140-64; Res. 695 p.12 (exempt if wholly in Critical Area or under 40,000 sf)"
+  },
+  "studies_required": [
+    "boundary survey and topography",
+    "title / subdivision history since 1972 and 1995",
+    "perc and soils evaluation (Health Dept)",
+    "wetland and stream delineation",
+    "Forest Stand Delineation",
+    "Forest Conservation Plan",
+    "habitat consultation (DNR) if required",
+    "stormwater/erosion plan if over 5,000 sf disturbed",
+    "Critical Area report and buffer plan if within 1,000 ft of tidal water",
+    "driveway/entrance review (Roads Board)"
+  ],
+  "access": {
+    "min_frontage_ft": 100,
+    "flag_lots_allowed": null,
+    "shared_driveway_max_lots": 2,
+    "cite": "Att. 2 (lot width at front lot line, local road 100 ft; minor collector 140; major collector 200); \u00a7 140-26.A(2)(c), C(1)(f) (one interior lot by easement; two lots may share driveway); flag/panhandle not addressed"
+  },
+  "off_ramps": [
+    "8th lot or more (major subdivision)",
+    "Tier IV septic cap on majors",
+    "density table yields fewer than 7 lots",
+    "new or private road serving more than one lot",
+    "collector-road access limits",
+    "subdivision waiver or modification (certified-mail notice)",
+    "zoning variance (Board of Appeals)",
+    "special exception or rezoning",
+    "Critical Area growth allocation",
+    "water and sewer plan amendment",
+    "perc failure or missed wet-season window",
+    "final plat not filed within 1 year of preliminary",
+    "prior subdivisions consume the cap",
+    "Bill 2026-9 / density table amendment changes"
+  ],
+  "open_questions": [
+    "Does a combined minor still go to a Commission vote or only the Chairman's signature, and is any owner notice or agenda posting triggered?",
+    "Current Tier map adoption and any Tier IV exemption",
+    "RR/SR lot size and frontage after Bill 2026-9 and the density table amendment",
+    "Meaning of $300 per additional lot (after lot 4 or lot 1), plus recording and Health Dept fees",
+    "Flag/panhandle lot acceptance and frontage measured at the strip",
+    "Actual elapsed time for recent minors and whether the building excise tax is suspended in FY27"
+  ]
+}
