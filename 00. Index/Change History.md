@@ -2,6 +2,9 @@
 
 *Generated on each sync. Shows which regulation text changed and the exact wording differences (`-` removed, `+` added). Narrative context is in the Project Log.*
 
+## 2026-10-15 — PR #12 merged; restructure paused
+
+
 ## 2026-10-15 — 2026-10-16: restructure handoff
 
 

@@ -118,6 +118,11 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
+### 2026-10-16 (late) — PR #12 merged; restructure paused (Brian + Claude)
+- Merged screener PR #12 (hyperlocal models, development rights, entitlement spread, parity tool, restructure brief)
+  into `main`. The restructure has **not started** — it is paused at Brian's call. When resumed, start from
+  `docs/Restructure Brief.md` in the screener repo and the saved `pre-restructure` parity snapshot.
+
 ### 2026-10-16 (evening) — Architecture review; restructure handed to a new session (Brian + Claude)
 - Decision: **restructure the plumbing, not the models** — (1) one parcel feature table as the source of truth (every
   per-parcel fact computed once, in the database), (2) split the 1,000-line pro forma into feasibility / valuation /
