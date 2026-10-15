@@ -118,6 +118,19 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
+### 2026-10-16 (morning) — Land vs. home growth spread; like-for-like comps (Brian + Claude)
+- **Growth since 2019, quality-adjusted:** paper lots +90% (~9.6%/yr), raw vacant land ~+60% (~7.6%/yr), homes +56%
+  (~6.6%/yr). Lots have outgrown homes by ~22% (land leverage — the lot is the residual of the home's value — mostly in
+  2025–26 as homes flattened) and outgrown raw land by ~2 pts/yr, so the entitlement spread has been widening. Raw
+  lot price ÷ home value at the spot stayed ~18–21% because the mix of lots selling shifted cheaper. Year-to-year lot
+  growth is volatile (−1% to +20%), so it isn't a timing signal; deals are underwritten at today's prices (no
+  appreciation assumed), which leaves the widening spread as upside.
+- **Like-for-like comps tested:** borrowing lot sales from areas with similar home values (beyond 3 km) did worse than
+  the 4 nearest sales within 3 km (all lots 32.7–33.9% vs 31.8%; thin-comp lots 34.6–35.8% vs 33.6%). Proximity beats
+  similarity — kept as is.
+- **The heat map's role:** absolute home value at ~500 m is one of the strongest inputs to the lot and land models;
+  local appreciation differences aren't detectable (three tests). No model change today.
+
 ### 2026-10-16 (early morning) — Assessments, Monte Carlo, repeat sales, accuracy gates (Brian + Claude)
 - **Assessments** (Brian: "a bad way to value land vs sales data"): they never set a value — every price is fit to
   sales. Tested removing them as model inputs: lot out-of-time 31.8% → 32.7%, land 30.6% → 32.5% (bias −3% → −5%);
