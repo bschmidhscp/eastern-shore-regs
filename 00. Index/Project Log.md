@@ -17,7 +17,7 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | Statewide rules (COMAR etc.) | ✅ `01. Maryland/00. Summary.md` + 72 COMAR chapters / statute ranges and 69 agency guidance docs (retrieved 2026-10-11) |
 | Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico, Worcester, Somerset | ✅ Documents, digests, Fee Findings, summary (layer 1), Key Metrics — 2026-10-11/12 |
 | County comparison table | ✅ `00. Index/County Comparison.md` — all 9 counties |
-| Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **166 Pursue / 523 Diligence** (2026-10-16: carve-out land cost fix — reserved land per lot) |
+| Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **86 Pursue / 338 Diligence** (2026-10-16: development rights priced from MALPF easements) |
 | By-right playbooks | ✅ all 9 counties — `<County>/03. By-Right Playbook.md` + `Playbook Metrics.json` (2026-10-13) |
 
 ## Open questions / watch items
@@ -117,6 +117,24 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-16 (afternoon) — Valuing development rights (Brian + Claude)
+- **Sales can't price rights.** Re-fit the land model on by-right lots actually remaining at each sale (cumulative
+  cap minus lots already carved from the original tract, from SDAT): no premium (vacant land with any remaining −8%,
+  per extra lot ~0) — subdivision potential is lost in the noise of rural land sales.
+- **Easements can.** MALPF Board of Public Works charts (Jun 2024 – Feb 2026, database table `malpf_easements`): the
+  State paid per acre to retire ALL of a farm's rights — Cecil ~$5,700, Kent ~$5,700, Talbot ~$4,700, Queen Anne's
+  ~$4,100, Somerset ~$3,900, Caroline ~$3,500, Dorchester ~$3,400, Wicomico ~$3,400, Worcester ~$2,300 (1 purchase).
+  Cross-check: the land model's protected-land discount ≈ $3,100/ac on a Talbot farm — same range, a bit low.
+- **Rule now in the model** (`deal.yaml development_rights`): rights cost per lot = easement $/acre × acres per right
+  on the parcel, capped at the owner's share (50%) of the value the lot creates (lot price − raw acreage − soft costs;
+  no buyer pays more), floored at $6,500 (Calvert TDR price; QA/Talbot TDR markets thin). The carve-out's land cost =
+  carved acres at the farm's per-acre value + rights + any reserved-land discount. Median per lot on Pursue/Diligence
+  carve-outs: Queen Anne's ~$33.5K (easement-implied), Talbot ~$39K and Kent ~$45K (half-spread cap), Cecil and
+  Worcester at the $6.5K floor (plentiful rights per acre). Shown on each deal.
+- **Result: 86 Pursue / 338 Diligence** (Queen Anne's 41, Cecil 28, Worcester 14, Talbot 3). Sensitivity to the owner's
+  share: 25% → 115 Pursue, 50% → 86, 75% → 85. What owners accept for rights is now the biggest swing factor — the
+  first owner responses in the tracker should calibrate `owner_share_of_spread`.
 
 ### 2026-10-16 (midday) — Correction: "raw land costs more than entitled land in Talbot" was wrong (Brian + Claude)
 - Brian challenged the spread map. Two errors found and fixed:
