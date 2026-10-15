@@ -17,7 +17,7 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | Statewide rules (COMAR etc.) | ✅ `01. Maryland/00. Summary.md` + 72 COMAR chapters / statute ranges and 69 agency guidance docs (retrieved 2026-10-11) |
 | Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico, Worcester, Somerset | ✅ Documents, digests, Fee Findings, summary (layer 1), Key Metrics — 2026-10-11/12 |
 | County comparison table | ✅ `00. Index/County Comparison.md` — all 9 counties |
-| Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **90 Pursue / 416 Diligence** (2026-10-16: home value surface + schools in the lot model) |
+| Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **101 Pursue / 427 Diligence** (2026-10-16: hyperlocal location, land model on home values) |
 | By-right playbooks | ✅ all 9 counties — `<County>/03. By-Right Playbook.md` + `Playbook Metrics.json` (2026-10-13) |
 
 ## Open questions / watch items
@@ -117,6 +117,23 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-16 (late night) — Hyperlocal (Brian: "real estate is a hyperlocal game") (Brian + Claude)
+- **PR #11 merged.** New work on PR #12.
+- **Location at ~500 m.** Fit on pre-2025 home sales and tested on 2025-26 sales, a 500 m location scale beat 750 m,
+  1, 1.5 and 2.5 km (median miss 14.0% vs. 15.1% at 2.5 km). Lot model: CV 29.2%, out-of-time 31.9% (was 29.8% /
+  32.7%). Somerset's persistent-bias correction is no longer needed — the model now sees its location value.
+- **Recorded prices ≠ market prices:** home sales outside 0.5x–3x the assessment at the time of sale dropped (~6%;
+  gifts, family/tax transfers, data errors), on top of the arm's-length filter and outlier trimming.
+- **Land model** now uses home values from sales (both segments) and schools (land with a house): CV with local
+  adjustment vacant 29.6% → 29.0%, improved 13.8% → 13.1%.
+- **Builder cross-check** prices the specific house for each lot (local new-home size, new, this lot, these schools,
+  today) with the joint home model; e.g. a new 2,400 sf house near Easton on 1.1 ac: $627K inland, $1.11M waterfront.
+- **Local appreciation** (Brian: likely varies far more very locally than by county): county indexes ≈ Shore-wide
+  (16.33% vs 16.37% CV); 2019–24 local trends didn't predict 2025–26 (corr 0.06); a recency-weighted local trend
+  layer on top of the 500 m level made held-out 2025–26 predictions worse (14.4–14.7% vs 14.2%). The 500 m level —
+  built from each spot's own sales — already absorbs most local appreciation; re-test as sales accumulate.
+- **Result: 101 Pursue / 427 Diligence** (Cecil 40, Queen Anne's 33, Worcester 22, Talbot 4, Kent 2). All checks pass.
 
 ### 2026-10-16 (night) — Home value map, schools, one feature store (Brian + Claude)
 - **Home value surface** (`Screener/16. Home Value Map.md`; board Map tab → "Home values"): 37,330 arm's-length home
