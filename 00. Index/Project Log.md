@@ -118,6 +118,17 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
+### 2026-10-16 (evening) — Architecture review; restructure handed to a new session (Brian + Claude)
+- Decision: **restructure the plumbing, not the models** — (1) one parcel feature table as the source of truth (every
+  per-parcel fact computed once, in the database), (2) split the 1,000-line pro forma into feasibility / valuation /
+  finance / presentation, (3) one model-evaluation harness (CV, out-of-time, IAAO, gates, history; a slot for approval
+  odds), (4) automated publishing, (5) prune deal.yaml. No output may change: `python -m screener.parity --check
+  pre-restructure` must show zero differences (snapshot saved; pipeline verified deterministic).
+- Brief for the new session: code repo `docs/Restructure Brief.md` (architecture map, problems, target, rules,
+  definition of done). Base: PR #12 (`hyperlocal-models`) — merge before starting.
+- Data to pursue in parallel (Brian): owner responses, builder and engineer quotes (tracker); Bright MLS sold-land data
+  through a broker; health department perc/septic records (MPIA request); county building permits.
+
 ### 2026-10-16 (afternoon) — Valuing development rights (Brian + Claude)
 - **Sales can't price rights.** Re-fit the land model on by-right lots actually remaining at each sale (cumulative
   cap minus lots already carved from the original tract, from SDAT): no premium (vacant land with any remaining −8%,
