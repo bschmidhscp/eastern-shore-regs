@@ -17,7 +17,7 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | Statewide rules (COMAR etc.) | ✅ `01. Maryland/00. Summary.md` + 72 COMAR chapters / statute ranges and 69 agency guidance docs (retrieved 2026-10-11) |
 | Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico, Worcester, Somerset | ✅ Documents, digests, Fee Findings, summary (layer 1), Key Metrics — 2026-10-11/12 |
 | County comparison table | ✅ `00. Index/County Comparison.md` — all 9 counties |
-| Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **94 Pursue / 396 Diligence** (2026-10-16: woods/fields land fix, forest replacement, perc timelines) |
+| Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **90 Pursue / 416 Diligence** (2026-10-16: home value surface + schools in the lot model) |
 | By-right playbooks | ✅ all 9 counties — `<County>/03. By-Right Playbook.md` + `Playbook Metrics.json` (2026-10-13) |
 
 ## Open questions / watch items
@@ -117,6 +117,25 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-16 (night) — Home value map, schools, one feature store (Brian + Claude)
+- **Home value surface** (`Screener/16. Home Value Map.md`; board Map tab → "Home values"): 37,330 arm's-length home
+  sales since 2019, fit jointly — living area (+57% per doubling), lot size (+6% per doubling, after separating it
+  from location), age, waterfront (×1.75), **school proficiency (+9% per 10 points)**, and a **quarterly price index**
+  (every past sale brought to today: prices +59% since mid-2019, flat over the last year). Location smoothed at
+  ~10 km and ~2.5 km. Standard home (2,000 sf, 1 ac, built 2000–14) at the typical Shore location: ~$470K.
+- **New vs. resale:** a brand-new home sells about the same as a recently built (2015+) resale of the same size and
+  place (×0.98); new is ~9% over a 2000–14 home, ~13% over 1980–99, ~28% over pre-1980. The "new premium" is age.
+- **Schools** (`screener/schools.py`): 181 Shore public schools (MD iMAP) matched to 2026 MCAP English + math
+  proficiency (MSDE Report Card); nearest elementary/middle/high in the county.
+- **Lot model** now uses home values from sales and school proficiency (CV 30.5% → 29.8%; out-of-time unchanged
+  32.7%): ×1.15 per +10% home values, ×1.12 per +10 points proficiency.
+- **Builder cross-check:** new-home comps are now escalated to today's prices (they weren't).
+- **Parcel feature store** (`parcel_features` table, 269,937 parcels, builds in ~4 s): location value incl. schools,
+  school scores, record data, last sale escalated to today — the shared base everything joins to on ACCTID. Database
+  now 33 tables (home sales, price index, schools, value grid, lot sales/packages/listings, old lots, lot buyers).
+- **Result: 90 Pursue / 416 Diligence** (11 new, 15 dropped). Package discount underwritten 29%; county corrections
+  Dorchester ×0.93, Somerset ×0.93, Worcester ×1.07. All checks pass.
 
 ### 2026-10-16 (evening) — What's in the rule rewrites; a land-pricing bug; forest replacement (Brian + Claude)
 - **Rewrites reviewed** (minutes, digests, legislation, posted drafts) → `00. Index/Pending Rule Changes.md`. None cuts

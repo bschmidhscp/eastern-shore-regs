@@ -2,6 +2,9 @@
 
 *Generated on each sync. Shows which regulation text changed and the exact wording differences (`-` removed, `+` added). Narrative context is in the Project Log.*
 
+## 2026-10-15 — 2026-10-16: home value surface, schools, feature store
+
+
 ## 2026-10-14 — Start Here: pending rule changes
 
 
