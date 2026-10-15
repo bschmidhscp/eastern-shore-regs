@@ -118,6 +118,18 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
+### 2026-10-16 (late morning) — Entitlement spread map (Brian + Claude)
+- `Screener/17. Entitlement Spread.md` and board Map tab → "Entitlement spread": for all 11,987 parcels that pass the
+  by-right screen (not only profitable deals), per lot: paper lot to a builder − the land's raw cost per lot (the
+  deal's land price: before-and-after for carve-outs) − soft costs at a standard 4-lot deal (soft costs are mostly
+  fixed per deal, so this compares places, not parcel sizes). Gross spread (before soft costs) is the pure location
+  signal. Database table `entitlement_spread`.
+- **Where entitlement adds the most:** Worcester (median net +$4K/lot, 54% positive; Newark, Berlin, Bishopville,
+  Whaleyville +$15–21K/lot: cheap farmland, resort-area lot prices), then parts of Caroline and Cecil (Earleville,
+  Warwick). **Least:** Talbot (raw land per lot $148K vs. paper lot $88K), Kent, Dorchester. Cecil and Queen Anne's are
+  parcel-by-parcel (34–44% positive) — and they hold most Pursue deals because larger, pricier lots clear the $200K bar.
+- Use: aim owner outreach at high-spread areas, including parcels the deal tiers don't pass today.
+
 ### 2026-10-16 (morning) — Land vs. home growth spread; like-for-like comps (Brian + Claude)
 - **Growth since 2019, quality-adjusted:** paper lots +90% (~9.6%/yr), raw vacant land ~+60% (~7.6%/yr), homes +56%
   (~6.6%/yr). Lots have outgrown homes by ~22% (land leverage — the lot is the residual of the home's value — mostly in
