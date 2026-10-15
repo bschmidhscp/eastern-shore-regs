@@ -118,6 +118,21 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
+### 2026-10-16 (early morning) — Assessments, Monte Carlo, repeat sales, accuracy gates (Brian + Claude)
+- **Assessments** (Brian: "a bad way to value land vs sales data"): they never set a value — every price is fit to
+  sales. Tested removing them as model inputs: lot out-of-time 31.8% → 32.7%, land 30.6% → 32.5% (bias −3% → −5%);
+  as a non-market screen 31.8% vs 32.2% without. So they stay only in those two roles, re-tested on each refit. The
+  "value vs. assessed" review flag was replaced with a sales-only check (land model vs. adjusted comparable sales).
+- **Monte Carlo per deal** (board: "Simulated outcomes"): lot price, builder discount, land, soft costs, approval and a
+  missed perc season drawn together, 2,000 runs. Typical Pursue: profit −$56K (P10) / $62K (median) / $426K (P90);
+  chance of a loss 44% overall — almost all approval risk (lose deposit + soft spent) — and **6% if approved**.
+- **Repeat sales:** 23,435 same-house resale pairs since 2008. Same houses up ~70% since 2019 (hedonic index, size/age
+  held fixed: +59%; gap ≈ renovations). Local appreciation beyond the Shore trend does **not** predict at 0.5–5 km
+  (9.6% unexplained either way) — property-specific, not neighborhood-level, in this period. Re-tested monthly.
+- **Accuracy gates:** lot out-of-time ≤36%, bias ±10%; land ≤35%, ±10%; lot CV ≤34% (now 32/−3, 31/−3, 30) — a breach
+  is a ❌ and the monthly refresh won't publish. Drift history kept (table `backtest_history`). Database: 38 tables.
+- 128 Pursue (unchanged). All checks pass. PR #12.
+
 ### 2026-10-16 (overnight) — Model improvements #1-3: clean data, lot detail, ensembles and confidence (Brian + Claude)
 - **Where the lot model misses:** mid-priced lots ($45K–$170K) ~25% typical miss, unbiased. "Tail" errors (cheapest
   sales +48%, priciest −32% when grouped by sale price) are mostly individual noisy sales — grouped by *predicted*
