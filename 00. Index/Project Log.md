@@ -17,7 +17,7 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | Statewide rules (COMAR etc.) | ✅ `01. Maryland/00. Summary.md` + 72 COMAR chapters / statute ranges and 69 agency guidance docs (retrieved 2026-10-11) |
 | Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico, Worcester, Somerset | ✅ Documents, digests, Fee Findings, summary (layer 1), Key Metrics — 2026-10-11/12 |
 | County comparison table | ✅ `00. Index/County Comparison.md` — all 9 counties |
-| Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **101 Pursue / 427 Diligence** (2026-10-16: hyperlocal location, land model on home values) |
+| Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **128 Pursue / 482 Diligence** (2026-10-16: clean lot sales, per-deal lot confidence) |
 | By-right playbooks | ✅ all 9 counties — `<County>/03. By-Right Playbook.md` + `Playbook Metrics.json` (2026-10-13) |
 
 ## Open questions / watch items
@@ -117,6 +117,28 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-16 (overnight) — Model improvements #1-3: clean data, lot detail, ensembles and confidence (Brian + Claude)
+- **Where the lot model misses:** mid-priced lots ($45K–$170K) ~25% typical miss, unbiased. "Tail" errors (cheapest
+  sales +48%, priciest −32% when grouped by sale price) are mostly individual noisy sales — grouped by *predicted*
+  value (assessor practice) the tiers are near even. Distances to the Bay Bridge, Salisbury, Ocean City, Wilmington
+  and Easton don't explain misses (the 500 m home-value surface already does).
+- **#1 Clean data (adopted):** lot sales judged against the assessor's land value *at the time of sale* (not today's
+  higher one) and bank / estate / government sellers dropped. An upper cut was tested and removed — farm-use land is
+  assessed far below market, so 10x+ ratios are normal and a 4x cap threw out good sales. Assessor-standard ratio study
+  now in `10. Backtest.md`: COD 53, PRD 1.67 (single rural lot sales are noisy), tiers by predicted value near even.
+- **#2 Lot-level detail (tested, not adopted):** each sale's own wetland, floodplain, wooded, soils share and broadband
+  providers (MD iMAP, 32,749 census blocks). Effects are sensible (wetland −28%, wooded −21%, hydric −23%, well-drained
+  +14%) but out-of-time accuracy didn't improve — the 500 m location and nearest-sale adjustment already carry it.
+  Broadband data is coarse (1–4 providers/block). Kept in the database; perc odds already use soils/wetlands.
+- **#3 Ensemble + confidence:** a gradient-boosted model alone did worse (30.7% vs 28.2%); a 25% blend gained 0.2 pts
+  (noise) — not adopted. **Adopted:** each deal's lot price range and confidence are calibrated on what actually
+  happened to similar lots out of time — waterfront 38% typical miss, inland with ≤6 lot sales within 3 km 33%, 7–15
+  28%, 15+ 23%. Board shows confidence (high/medium/low), lot sales within 3 km and the middle-half range per lot.
+- **Result: 128 Pursue / 482 Diligence** (27 moved up from Diligence on a ~3% higher builder price; package
+  discount 22%). Lot confidence on Pursue: 16 high, 105 medium, 7 low (waterfront). All checks pass.
+- Not yet built from the plan: repeat-sales price index, Monte Carlo deal outcomes, CI accuracy gates; poultry houses
+  (no state layer — would need building-footprint detection or MDE permit records).
 
 ### 2026-10-16 (late night) — Hyperlocal (Brian: "real estate is a hyperlocal game") (Brian + Claude)
 - **PR #11 merged.** New work on PR #12.
