@@ -17,7 +17,7 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | Statewide rules (COMAR etc.) | ✅ `01. Maryland/00. Summary.md` + 72 COMAR chapters / statute ranges and 69 agency guidance docs (retrieved 2026-10-11) |
 | Kent, Cecil, Queen Anne's, Caroline, Dorchester, Wicomico, Worcester, Somerset | ✅ Documents, digests, Fee Findings, summary (layer 1), Key Metrics — 2026-10-11/12 |
 | County comparison table | ✅ `00. Index/County Comparison.md` — all 9 counties |
-| Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **128 Pursue / 482 Diligence** (2026-10-16: clean lot sales, per-deal lot confidence) |
+| Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **166 Pursue / 523 Diligence** (2026-10-16: carve-out land cost fix — reserved land per lot) |
 | By-right playbooks | ✅ all 9 counties — `<County>/03. By-Right Playbook.md` + `Playbook Metrics.json` (2026-10-13) |
 
 ## Open questions / watch items
@@ -117,6 +117,27 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-16 (midday) — Correction: "raw land costs more than entitled land in Talbot" was wrong (Brian + Claude)
+- Brian challenged the spread map. Two errors found and fixed:
+  1. **Reserved land.** Talbot (AC/CP/WRC) and Queen Anne's (AG) require cluster subdivisions with permanently
+     protected reserved land / open space — real law (Talbot § 190-73: "permanently protected", "perpetually restricts
+     land development"; farming allowed). But it is a **per-lot slice**, not the whole farm: Talbot § 190-8.8.C.1 —
+     lot + reserved land ≥ original acres ÷ development rights (a 137-ac farm with 9 rights: ~15 ac per lot); QA cluster
+     1 lot per 8 ac with 85% open space. The model had treated the owner's entire remainder as protected, overstating the
+     carve-out land cost. Now: the remainder is valued as one farm and the reserved share takes the land model's
+     protection discount (−18%). Example: 137-ac Talbot AC farm, 2 lots — 28.5 ac reserved, rights cost $95K (was
+     $354K); land per lot ~$52K vs. builder lot $67K.
+  2. **Spread map:** whole-parcel deals with a house counted the house in "raw land"; the house lot is now netted out.
+- Also found: the land model gives development rights **no value** — in rural land sales the "extra lots" term comes
+  out negative and is dropped (assessments and site features already carry it). Public TDR benchmark: Calvert pays
+  ~$6,500/right; QA and Talbot TDR markets are thin. The owner's by-right allowance is now reduced by our lots in the
+  "after" valuation (correct, though the model doesn't price it). Expect owners to ask for more than raw value on
+  farms with by-right lot potential — the offer-credibility panel and the 10% premium are the guard.
+- **Result: 166 Pursue / 523 Diligence** (Queen Anne's 82, Cecil 54, Worcester 24, Talbot 4, Kent 2). Talbot now:
+  raw land ~$66K/lot vs. paper lot $88K (gross +$17K/lot; about break-even after Talbot's higher soft costs on a 4-lot
+  deal); its ~3-lot by-right cap keeps most Talbot deals under the $200K bar. Entitlement spread by county (net per lot,
+  4-lot deal): Cecil +$21.6K, Worcester +$9.7K, Queen Anne's +$8.5K, Caroline −$7.6K, Talbot −$9.6K, Kent −$40K.
 
 ### 2026-10-16 (late morning) — Entitlement spread map (Brian + Claude)
 - `Screener/17. Entitlement Spread.md` and board Map tab → "Entitlement spread": for all 11,987 parcels that pass the
