@@ -19,10 +19,12 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | County comparison table | ✅ `00. Index/County Comparison.md` — all 9 counties |
 | Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **86 Pursue / 338 Diligence** (2026-10-16: development rights priced from MALPF easements) |
 | By-right playbooks | ✅ all 9 counties — `<County>/03. By-Right Playbook.md` + `Playbook Metrics.json` (2026-10-13) |
-| Screener restructure | ✅ Step 1 of 5 done (parcel site + feature tables; PR #13); next: split the pro forma. Parity: zero differences (2026-10-15) |
+| Screener restructure | ✅ Done — all 5 steps merged (PRs #13–#17, 2026-10-15/16); no deal number changed. Assumption impact ranking in `Screener/18.` |
 
 ## Open questions / watch items
 
+- **Approval outcomes on the board (2026-10-16):** the Pipeline ends at "Under contract"; adding plat recorded / approved / denied / perc failed lets the evaluation harness test our approval odds against what happens. Board change — Brian's call.
+- **Low-confidence numbers that move results most (2026-10-16):** 1-ac septic lot floor, waterfront depth limit, whole-parcel remainder threshold, ag transfer tax share, rights floor (`Screener/18. Assumption Impact.md`).
 - **Re-screen drift (2026-10-15):** the screen's local lot comps use a rolling 36-month window, so re-running the screen today changes Caroline and Kent; the monthly refresh doesn't re-screen. Decide whether it should.
 - **Agricultural transfer tax is charged on lot sales (5%, median $27K on 91% of Pursue deals).** If it's computed on
   what we pay the owner for the land, it's ~$4.5K. Ask the land-use attorney which transfer triggers it in a carve-out
@@ -119,6 +121,38 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-16 (overnight) — Restructure finished: steps 2–5 merged, no deal number changed (Brian + Claude)
+- Brian asked to finish the restructure overnight and merge each step on green CI. Screener PRs #14 (step 2), #15
+  (step 3), #16 (step 4) and #17 (step 5) — all checked the strict way (feature caches deleted, models refit, full run).
+- **Step 2 — the pro forma is four stages.** `proforma.py` (1,012 lines) is now a short driver over `feasibility.py`
+  (candidates, test fit, rights, timeline, odds), `valuation.py` (lot and land prices, carve-out cost), `finance.py`
+  (soft costs, cash flows, tiers, downside / retail / sensitivity / Monte Carlo cases) and `reports.py` (explanations,
+  flags, audit, outputs), each with its own tests. All 55 pro forma outputs byte-identical.
+- **Step 3 — one evaluation harness** (`screener/evaluate.py`): every model is tested the same way (5-fold CV,
+  out-of-time, year by year, assessor ratio study, accuracy gates, drift history). `python -m screener.evaluate` prints
+  the scorecard in seconds; experiments are short files in the code repo's `experiments/` folder, results in the
+  database (`evaluation_runs`). First experiment: widening the lot model's local adjustment from 3 to 5 km looked better
+  in cross-validation but **worse out of time** (31.8% → 32.1%), so 3 km stays — hyperlocal wins again. An approval-odds
+  slot will score our odds against real outcomes once 10 exist — **the board's Pipeline needs outcome statuses (plat
+  recorded / approved / denied / perc failed) before any can be recorded** (a board change; Brian's call).
+- **Step 4 — publishing is automated** (`screener/publish.py`, last `run_all` stage): a checked plan (model checks,
+  file limits, aerials), batches of ≤255 with removals first, and a verify step that records the publish only when every
+  file is on the board with the right size. Checked against the live board: 174 of 174 files match. The monthly task
+  now follows it.
+- **Step 5 — which assumptions matter** (`Screener/18. Assumption Impact.md`): every numeric deal.yaml number moved ±20%
+  and every county re-priced. 93 of 163 move profit or tiers; the other 70 still feed something shown on each deal
+  (investor split, max bid, Monte Carlo range, odds, the builder cross-check), so none is dead. **Firm up first — they
+  move results most and are low-confidence:** the 1-acre septic lot floor, the waterfront lot depth limit, the
+  whole-parcel remainder threshold, the ag transfer tax share, the $6,500 rights floor. Removed the two settings no code
+  read (cul-de-sac radius; the unused downside gate — the downside case stays shown, not a gate).
+- **Found along the way:** (1) parity snapshots only hold on the day they're taken — the models count months from today,
+  so re-running unchanged code the next day moved ~20 of 11,987 land prices (board unaffected); branches are now checked
+  against main run the same day. (2) The schools download timed out and failed a whole run; it now keeps the cached
+  schools (same fix as soils). (3) Full run ~115 s (was 148 s).
+- **Board not republished tonight:** nothing in the restructure changed a board number; today's 4 changed board files
+  are date drift plus the two removed assumption rows. The Nov 2 monthly run publishes through the new flow (or publish
+  on request).
 
 ### 2026-10-15 (late night) — Restructure step 1 done: every per-parcel fact in one place (Brian + Claude)
 - Finished step 1 and opened screener PR #13 (merge into `main` on green CI, per Brian). **No output changed**: parity vs
