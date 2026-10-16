@@ -152,6 +152,9 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Board republished (version 37)** with everything from 2026-10-16: approval-outcome statuses, the design pass,
   phone polish and the deal story. All 174 files verified against the manifest and recorded as published, so the
   "changed since" line restarts from today. Still shared "Anyone with the link"; restrict it from the Share menu.
+- **Dark-mode tap fix (PR #29, board version 38):** on phones in dark mode, tapped rows turned white (a stuck hover
+  colour that was hard-coded light). Hover effects now apply only with a mouse or trackpad; the remaining fixed light
+  colours (credibility chips, map background) follow the theme.
 
 ### 2026-10-16 (evening) — Faster, tidier pipeline and board (Brian + Claude)
 - Screener PRs #24–#25, merged on green CI. No deal number changed.
