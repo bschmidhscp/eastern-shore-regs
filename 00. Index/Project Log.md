@@ -122,7 +122,17 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
-### 2026-10-16 (midday) — Moving highsidecapitalpartners.com DNS to Cloudflare, for deals.highsidecapitalpartners.com (Brian + Claude, in progress)
+### 2026-10-16 (late morning, cont.) — Deal Board live at deals.highsidecapitalpartners.com (Brian + Claude)
+- **https://deals.highsidecapitalpartners.com** is the board's address now (same site; eastern-shore-deal-board.pages.dev
+  still works). Same sign-in: email + one-time code, Brian and Ben only, 30-day sessions. Checked from outside: every
+  page, data file and the API redirect to sign-in; only the app icon and app-name file are public. The sign-in gate
+  was put on the new address before the board was attached, so it was never exposed.
+- highsidecapitalpartners.com's DNS now runs on Cloudflare (the domain is still registered at Squarespace). DNSSEC was
+  turned off at Squarespace first. After the switch: website (Squarespace) and www load over HTTPS; email records
+  (MX smtp.google.com, SPF, Google DKIM) resolve the same through Google and Cloudflare DNS.
+- On a phone: open the new address in Safari → sign in → Share → Add to Home Screen (delete any older icon).
+
+### 2026-10-16 (midday) — Moving highsidecapitalpartners.com DNS to Cloudflare, for deals.highsidecapitalpartners.com (Brian + Claude, done)
 - Goal: the Deal Board at **deals.highsidecapitalpartners.com**, behind the same Cloudflare Access sign-in. Access only
   protects domains whose DNS Cloudflare runs, so the domain's DNS moves from Squarespace to Cloudflare (free). The domain
   stays registered at Squarespace; the website (Squarespace) and email (Google Workspace) are unchanged.

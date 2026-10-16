@@ -42,7 +42,7 @@ Dictionary.md`. Rebuilt by `python -m screener.database`; never edited by hand. 
 water, town, density, land cover, soils, wetland/flood, Critical Area, zoning, rights already used, perc evidence,
 comps density — the inputs the screen and every model use) are in one table, `parcel_features`, keyed by county + account.
 
-**Eastern Shore Deal Board** (interactive, ranked, map, shared status + notes; each deal has Copy and Print; dark mode and a phone tab bar): **[eastern-shore-deal-board.pages.dev](https://eastern-shore-deal-board.pages.dev)** —
+**Eastern Shore Deal Board** (interactive, ranked, map, shared status + notes; each deal has Copy and Print; dark mode and a phone tab bar): **[deals.highsidecapitalpartners.com](https://deals.highsidecapitalpartners.com)** (also at eastern-shore-deal-board.pages.dev) —
 its own site (Cloudflare Pages), private behind Cloudflare Access: sign in with your email and the one-time code
 Cloudflare emails you (Brian and Ben are on the list; a sign-in lasts 30 days). Both partners can update the deal
 tracker, builder price checks and cost quotes, which live in the site's database (Cloudflare D1). On a phone, open it in
