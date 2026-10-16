@@ -19,10 +19,11 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | County comparison table | ✅ `00. Index/County Comparison.md` — all 9 counties |
 | Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **86 Pursue / 338 Diligence** (2026-10-16: development rights priced from MALPF easements) |
 | By-right playbooks | ✅ all 9 counties — `<County>/03. By-Right Playbook.md` + `Playbook Metrics.json` (2026-10-13) |
-| Screener restructure | 🔄 Step 1 of 5 (parcel site table) in progress on branch `restructure`; parity: zero differences (2026-10-15) |
+| Screener restructure | ✅ Step 1 of 5 done (parcel site + feature tables; PR #13); next: split the pro forma. Parity: zero differences (2026-10-15) |
 
 ## Open questions / watch items
 
+- **Re-screen drift (2026-10-15):** the screen's local lot comps use a rolling 36-month window, so re-running the screen today changes Caroline and Kent; the monthly refresh doesn't re-screen. Decide whether it should.
 - **Agricultural transfer tax is charged on lot sales (5%, median $27K on 91% of Pursue deals).** If it's computed on
   what we pay the owner for the land, it's ~$4.5K. Ask the land-use attorney which transfer triggers it in a carve-out
   closing at the plat (owner → us → builder at one table) and whether it can be computed on the raw-land consideration.
@@ -118,6 +119,21 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-15 (late night) — Restructure step 1 done: every per-parcel fact in one place (Brian + Claude)
+- Finished step 1 and opened screener PR #13 (merge into `main` on green CI, per Brian). **No output changed**: parity vs
+  `pre-restructure` OK after a forced rebuild; the screen and the deals CSVs are byte-identical to the previous code in
+  all nine counties; the board has 0 files to republish.
+- **Now in the parcel tables (database `parcel_features`, one row per parcel, keyed by county + account):** everything
+  from the earlier entry plus the screen's facts (zoning code, septic tier, sewer, PFA, town, Critical Area, protected
+  land, wetland/flood), location value and schools, development rights already used (deed chain + SDAT), perc evidence
+  (old lots nearby still vacant) and comps density (recent vacant-lot sales within 3 and 6 miles). The screen, the lot and
+  land models (their training rows too) and the pro forma all read them. One location-value/schools function now.
+- **Found:** re-running the screen today would change Caroline and Kent deals, because the local lot comps use a rolling
+  36-month window and have moved since the 2026-10-14 screen. Not a bug, but it means the monthly refresh (which doesn't
+  re-screen) and a re-screen can disagree; worth deciding whether the screen should re-run monthly. Also two parcel
+  "points" are in use (the pro forma's and the models'); unifying them is a small model change for after the restructure.
+- Full run ~110 s (was 148 s). Next: step 2 — split the pro forma into feasibility / valuation / finance / presentation.
 
 ### 2026-10-15 (night) — Restructure step 1 under way: one parcel site table (Brian + Claude)
 - Resumed the restructure on branch `restructure` (screener repo; not yet pushed or PR'd). Parity vs `pre-restructure`

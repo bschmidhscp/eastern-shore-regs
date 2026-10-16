@@ -39,8 +39,8 @@ hand-edit the generated files.
 screener gathers — parcels, assessments, the deed chain, assessor land lines, land sales, deals, builders, playbooks,
 rules and assumptions — in one file queryable with SQL (DuckDB). Tables, columns and joins: `Database/Data
 Dictionary.md`. Rebuilt by `python -m screener.database`; never edited by hand. Per-parcel facts (location value, schools,
-water, town, density, land cover, soils, wetland/flood, Critical Area — the inputs every model uses) are in one table,
-`parcel_features`, keyed by county + account.
+water, town, density, land cover, soils, wetland/flood, Critical Area, zoning, rights already used, perc evidence,
+comps density — the inputs the screen and every model use) are in one table, `parcel_features`, keyed by county + account.
 
 **Eastern Shore Deal Board** (interactive, ranked, map, shared status + notes): [claude.ai/artifact/CBZiWuVtS4vecCcgEGvHxL](https://claude.ai/artifact/CBZiWuVtS4vecCcgEGvHxL) — private
 claude.ai page; Brian invites Ben by email as **Editor** so he can mark parcels and add notes (Viewers can only
