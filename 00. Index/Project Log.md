@@ -23,9 +23,9 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Open questions / watch items
 
-- **Approval outcomes on the board (2026-10-16):** the Pipeline ends at "Under contract"; adding plat recorded / approved / denied / perc failed lets the evaluation harness test our approval odds against what happens. Board change — Brian's call.
+- **Approval outcomes (2026-10-16):** the board's Pipeline now has Plat submitted / approved / recorded / Denied / Perc failed (live at the next publish). Record outcomes as they happen; at 10, `python -m screener.evaluate` tests our approval odds.
 - **Low-confidence numbers that move results most (2026-10-16):** 1-ac septic lot floor, waterfront depth limit, whole-parcel remainder threshold, ag transfer tax share, rights floor (`Screener/18. Assumption Impact.md`).
-- **Re-screen drift (2026-10-15):** the screen's local lot comps use a rolling 36-month window, so re-running the screen today changes Caroline and Kent; the monthly refresh doesn't re-screen. Decide whether it should.
+- **Re-screen drift (2026-10-15; corrected 2026-10-16):** the screen's local lot comps use a rolling 36-month window, so each re-screen moves some deals (Caroline and Kent since 2026-10-14). The monthly refresh does re-screen (`run_all --refresh-data` implies `--screen`), so this is expected month to month — not a decision; the 2026-10-15 note saying otherwise was wrong.
 - **Agricultural transfer tax is charged on lot sales (5%, median $27K on 91% of Pursue deals).** If it's computed on
   what we pay the owner for the land, it's ~$4.5K. Ask the land-use attorney which transfer triggers it in a carve-out
   closing at the plat (owner → us → builder at one table) and whether it can be computed on the raw-land consideration.
@@ -121,6 +121,30 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-16 (day) — Hardening after the restructure: outages, as-of date, board outcomes, end-to-end test (Brian + Claude)
+- Brian asked for all the follow-ups and to merge each on green CI. Screener PRs #18–#23. No deal number changed.
+- **Monthly refresh fixed and outage-proof (#18).** A simulated outage (every download failing) showed `run_all
+  --refresh-data` — what the monthly task runs — would have **crashed at its first stage on Nov 2 even with every server
+  up** (a restructure step reordered stages). Fixed. Now each download keeps last month's copy if a server fails, a
+  server that is down is asked once per run (an outage costs about a minute, not hours of retries), county zoning stays
+  county zoning, and the run lists every input that isn't this month's. Tested end to end: the full refresh finished in
+  13 minutes with every download failing.
+- **As-of date (#19).** Every calculation counts back from one run date instead of the computer's clock, so the same data
+  and `run_all --as-of <date>` give the same numbers on any later day. Parity snapshots record their date. CI now fails
+  if any calculation reads the clock directly.
+- **Approval outcomes on the board (#21)** — takes effect at the next publish: Pipeline statuses Plat submitted, Plat
+  approved, Plat recorded, Denied, Perc failed, and an "Approval outcomes" tile. Once 10 are recorded, the evaluation
+  harness tests our approval odds against them (`python -m screener.evaluate`).
+- **End-to-end test in CI (#22):** the real screen and pro forma run on every code change against a 1,340-parcel slice of
+  Kent (its Diligence deal prices exactly as in production); a planted pricing change fails it.
+- **Assumption ranking 2.5x faster (#20)** (66 → 26 min) with identical results.
+- **Tested, not changed (#23):** one definition of water distance and neighborhood value for both price models. Out of
+  time it's a tie (lot-price error 31.80% either way), so nothing moved; recorded in the screener's Restructure Brief.
+- **Correction:** the monthly refresh *does* re-screen (`--refresh-data` implies it), so the Caroline/Kent screen drift
+  is normal month to month (watch item corrected).
+- **Board:** not republished today (the outcome statuses and 4 date-drift files are pending); the Nov 2 monthly run
+  publishes them through the checked plan, or publish on request.
 
 ### 2026-10-16 (overnight) — Restructure finished: steps 2–5 merged, no deal number changed (Brian + Claude)
 - Brian asked to finish the restructure overnight and merge each step on green CI. Screener PRs #14 (step 2), #15
