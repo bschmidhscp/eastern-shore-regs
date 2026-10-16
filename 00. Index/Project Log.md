@@ -19,6 +19,7 @@ was decided, what was learned, and what's next. Background and layout are in **S
 | County comparison table | ✅ `00. Index/County Comparison.md` — all 9 counties |
 | Deal pro forma + Deal Board | ✅ all 9 counties re-priced 2026-10-14 on builder-residual lot prices, raw-land purchase (before-and-after), engineer-style test-fit layouts, public-road frontage only: **86 Pursue / 338 Diligence** (2026-10-16: development rights priced from MALPF easements) |
 | By-right playbooks | ✅ all 9 counties — `<County>/03. By-Right Playbook.md` + `Playbook Metrics.json` (2026-10-13) |
+| Screener restructure | 🔄 Step 1 of 5 (parcel site table) in progress on branch `restructure`; parity: zero differences (2026-10-15) |
 
 ## Open questions / watch items
 
@@ -117,6 +118,27 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-15 (night) — Restructure step 1 under way: one parcel site table (Brian + Claude)
+- Resumed the restructure on branch `restructure` (screener repo; not yet pushed or PR'd). Parity vs `pre-restructure`
+  holds at **zero differences** after every change, checked the strict way: feature caches deleted, land and lot models
+  refit from scratch, full pipeline run (a plain run mostly replays cached fits, so it proves little).
+- **New `screener/sites.py` + `run_all` stage `sites`:** every geometric fact about a parcel (water and shoreline, town
+  distance, density, sewer/growth area, woods/fields/developed, assessor marsh/ag acres, wetland, flood, soils,
+  broadband, Critical Area class) computed once for all 269,937 parcels. Cached; rebuilt only when county layers or the
+  feature code change (~5 min, split across 8 cores). The database table `parcel_features` now carries all of it.
+- **Switched to read it:** the pro forma (lot- and land-model inputs for candidates), the lot model's training sales,
+  the package-discount measurement, and the lot-sale site detail. The land model's multi-parcel farm sales use the same
+  functions on tract geometry. Duplicate feature code deleted from `lotprice.py`, `landvalue.py`, `proforma.py`.
+- **Found:** (1) the lot and land models define "the same" features differently (water distance from the parcel's point
+  to *tidal* shore vs. from its edge to *any* shoreline; neighborhood value needs 5+ homes in the land model only). Kept
+  both (`lot_*` / `land_*` columns) since the restructure may not change outputs; unifying them is a model decision for
+  after. (2) Database table `lot_sales_site` had no stage that rebuilt it — now rebuilt every run. (3) The soils step
+  called USDA's service on every run and failed the run when it returned an error — now falls back to the cached survey.
+- **Faster:** full run 148 s → 98 s (pro forma 39 → 19 s, packages and paper lots 13 → 4 s each).
+- **Next in step 1:** the screener's own wetland/flood/Critical Area/PFA columns, zoning district, rights used / cap, perc
+  evidence and comps density into the table; location value and schools (still computed per model). Then step 2 (split
+  the pro forma). Merge before the monthly refresh on Nov 2 or pause it.
 
 ### 2026-10-16 (late) — PR #12 merged; restructure paused (Brian + Claude)
 - Merged screener PR #12 (hyperlocal models, development rights, entitlement spread, parity tool, restructure brief)
