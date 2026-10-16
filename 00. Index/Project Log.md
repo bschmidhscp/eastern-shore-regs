@@ -122,6 +122,20 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
+### 2026-10-16 (late morning) — The Deal Board has its own site (Brian + Claude)
+- **New home: https://eastern-shore-deal-board.pages.dev** (Cloudflare Pages, free plan). No Claude bar; on a phone,
+  Safari → Share → Add to Home Screen makes it a full-screen app with the HSCP icon.
+- **Private:** Cloudflare Access in front of every page and file. Sign in with your email + the one-time code Cloudflare
+  emails; only brian@highsidecapitalpartners.com and ben@c2legacy.com are allowed; a sign-in lasts 30 days. Checked from
+  outside: every address redirects to sign-in (only the app icon and app-name file are public).
+- **Ben can now edit the tracker** (he couldn't save notes in the claude.ai copy, being on another Claude organization).
+  Tracker, builder price checks and cost quotes live in the site's D1 database; edits are stamped with the signer's email.
+  The claude.ai copy had no tracker entries, so nothing needed moving.
+- Code: PRs #30–#31 (`site/` API + schema, `screener/site.py` build/deploy/export, `dashboard/src/store.js`). The
+  monthly task now exports the tracker from the site and deploys the site; the claude.ai copy is still published as a backup.
+- Brian: a Cloudflare API token limited to Access settings is saved on Brian's Mac for future changes (e.g. adding
+  people); delete it from Cloudflare → My Profile → API Tokens if it's no longer wanted.
+
 ### 2026-10-16 (night) — Deal Board design pass (Brian + Claude)
 - Screener PR #26, merged on green CI. No deal number changed.
 - **Sharing a deal:** each deal page has **Copy** (a text summary to paste into email or a text) and **Print** (a clean

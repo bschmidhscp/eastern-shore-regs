@@ -42,9 +42,12 @@ Dictionary.md`. Rebuilt by `python -m screener.database`; never edited by hand. 
 water, town, density, land cover, soils, wetland/flood, Critical Area, zoning, rights already used, perc evidence,
 comps density — the inputs the screen and every model use) are in one table, `parcel_features`, keyed by county + account.
 
-**Eastern Shore Deal Board** (interactive, ranked, map, shared status + notes; each deal has Copy and Print; dark mode and a phone tab bar): [claude.ai/artifact/CBZiWuVtS4vecCcgEGvHxL](https://claude.ai/artifact/CBZiWuVtS4vecCcgEGvHxL) — private
-claude.ai page; Brian invites Ben by email as **Editor** so he can mark parcels and add notes (Viewers can only
-read; adding a public link would also make Ben read-only). Refresh everything: `python -m screener.run_all`
+**Eastern Shore Deal Board** (interactive, ranked, map, shared status + notes; each deal has Copy and Print; dark mode and a phone tab bar): **[eastern-shore-deal-board.pages.dev](https://eastern-shore-deal-board.pages.dev)** —
+its own site (Cloudflare Pages), private behind Cloudflare Access: sign in with your email and the one-time code
+Cloudflare emails you (Brian and Ben are on the list; a sign-in lasts 30 days). Both partners can update the deal
+tracker, builder price checks and cost quotes, which live in the site's database (Cloudflare D1). On a phone, open it in
+Safari → Share → **Add to Home Screen** to get it as an app. Deploy: `python -m screener.site` (see screener/site.py).
+A backup copy is still published to [claude.ai](https://claude.ai/artifact/CBZiWuVtS4vecCcgEGvHxL), but its tracker is no longer used. Refresh everything: `python -m screener.run_all`
 (~40 s when nothing upstream changed; add `--screen` or `--refresh-data` for a full rebuild; `--as-of <date>` reproduces that day's numbers;
 if a state server is down, the run keeps last month's copy and says so). To publish the board, a Claude session follows
 `Screener/Dashboard/publish_plan.json` and then runs `python -m screener.publish --verify <files listing>` (screener
