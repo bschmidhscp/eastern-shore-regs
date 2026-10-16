@@ -2,6 +2,9 @@
 
 *Generated on each sync. Shows which regulation text changed and the exact wording differences (`-` removed, `+` added). Narrative context is in the Project Log.*
 
+## 2026-10-16 — Project Log: DNS move to Cloudflare in progress
+
+
 ## 2026-10-16 — Deal Board on its own site (PRs #30-31)
 
 

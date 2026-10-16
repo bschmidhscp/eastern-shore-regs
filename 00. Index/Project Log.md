@@ -122,6 +122,18 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
+### 2026-10-16 (midday) — Moving highsidecapitalpartners.com DNS to Cloudflare, for deals.highsidecapitalpartners.com (Brian + Claude, in progress)
+- Goal: the Deal Board at **deals.highsidecapitalpartners.com**, behind the same Cloudflare Access sign-in. Access only
+  protects domains whose DNS Cloudflare runs, so the domain's DNS moves from Squarespace to Cloudflare (free). The domain
+  stays registered at Squarespace; the website (Squarespace) and email (Google Workspace) are unchanged.
+- Done: the domain is added to Cloudflare (pending). Its records match what's live today, checked against Squarespace's
+  name servers: 4 website A records and www → Squarespace (DNS-only, as Squarespace requires), MX smtp.google.com, SPF,
+  Google DKIM, Squarespace domain-connect. No DMARC record exists today.
+- Blocker found: **DNSSEC is on** at Squarespace. Switching name servers with it on would make the website and email
+  fail for most of the internet. Order: Brian turns DNSSEC off at Squarespace → wait ~24 h (the .com record is cached
+  for 86,400 s) → Claude confirms it's cleared → Brian sets the name servers to chin.ns.cloudflare.com and
+  leland.ns.cloudflare.com → Claude re-checks email/website, then adds deals. behind Access (Access first, then the site).
+
 ### 2026-10-16 (late morning) — The Deal Board has its own site (Brian + Claude)
 - **New home: https://eastern-shore-deal-board.pages.dev** (Cloudflare Pages, free plan). No Claude bar; on a phone,
   Safari → Share → Add to Home Screen makes it a full-screen app with the HSCP icon.
