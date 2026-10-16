@@ -122,6 +122,18 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
+### 2026-10-16 (night) — Deal Board design pass (Brian + Claude)
+- Screener PR #26, merged on green CI. No deal number changed.
+- **Sharing a deal:** each deal page has **Copy** (a text summary to paste into email or a text) and **Print** (a clean
+  one-deal printout). Opened directly (not inside claude.ai), the address shows `#deal=<account>` and that link opens the deal.
+- **Filters are remembered** per viewer, the Filters button shows how many are on, and **Reset** clears them.
+- **What changed since the last publish:** a line under the headline numbers ("1 new Pursue · 1 price cut …"), badges
+  on the changed deals, and a filter to show only those. The `changes` step now runs before the board is built.
+- **Phones:** tabs move to a bottom bar with thumb-sized buttons, the intro is cut to two lines (tap to read more), and
+  the HSCP logo no longer squishes.
+- **Dark mode** follows the phone or computer setting; keyboard focus is visible; small text meets WCAG AA contrast.
+- Checked in a browser at phone width (light and dark) and desktop. Goes live at the next publish.
+
 ### 2026-10-16 (evening) — Faster, tidier pipeline and board (Brian + Claude)
 - Screener PRs #24–#25, merged on green CI. No deal number changed.
 - **A normal run now takes about 40 seconds (was ~110).** One rule decides what gets redone: a step reruns only when

@@ -42,7 +42,7 @@ Dictionary.md`. Rebuilt by `python -m screener.database`; never edited by hand. 
 water, town, density, land cover, soils, wetland/flood, Critical Area, zoning, rights already used, perc evidence,
 comps density — the inputs the screen and every model use) are in one table, `parcel_features`, keyed by county + account.
 
-**Eastern Shore Deal Board** (interactive, ranked, map, shared status + notes): [claude.ai/artifact/CBZiWuVtS4vecCcgEGvHxL](https://claude.ai/artifact/CBZiWuVtS4vecCcgEGvHxL) — private
+**Eastern Shore Deal Board** (interactive, ranked, map, shared status + notes; each deal has Copy and Print; dark mode and a phone tab bar): [claude.ai/artifact/CBZiWuVtS4vecCcgEGvHxL](https://claude.ai/artifact/CBZiWuVtS4vecCcgEGvHxL) — private
 claude.ai page; Brian invites Ben by email as **Editor** so he can mark parcels and add notes (Viewers can only
 read; adding a public link would also make Ben read-only). Refresh everything: `python -m screener.run_all`
 (~40 s when nothing upstream changed; add `--screen` or `--refresh-data` for a full rebuild; `--as-of <date>` reproduces that day's numbers;
