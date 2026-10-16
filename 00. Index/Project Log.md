@@ -133,6 +133,10 @@ was decided, what was learned, and what's next. Background and layout are in **S
   the HSCP logo no longer squishes.
 - **Dark mode** follows the phone or computer setting; keyboard focus is visible; small text meets WCAG AA contrast.
 - Checked in a browser at phone width (light and dark) and desktop. Goes live at the next publish.
+- **Phone polish (PR #27):** the first deal now shows on the first screen (filters on two rows, badges under the
+  address, a one-line "N deals changed" chip); on small phones Counties and Model fold into a More tab; the Counties
+  tab no longer scrolls sideways; on the map, layers fold behind a Layers button, controls are thumb-sized, and the
+  map itself follows dark mode.
 
 ### 2026-10-16 (evening) — Faster, tidier pipeline and board (Brian + Claude)
 - Screener PRs #24–#25, merged on green CI. No deal number changed.
