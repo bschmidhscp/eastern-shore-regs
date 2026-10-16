@@ -23,7 +23,7 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Open questions / watch items
 
-- **Approval outcomes (2026-10-16):** the board's Pipeline now has Plat submitted / approved / recorded / Denied / Perc failed (live at the next publish). Record outcomes as they happen; at 10, `python -m screener.evaluate` tests our approval odds.
+- **Approval outcomes (2026-10-16):** the board's Pipeline now has Plat submitted / approved / recorded / Denied / Perc failed (live since the 2026-10-16 publish). Record outcomes as they happen; at 10, `python -m screener.evaluate` tests our approval odds.
 - **Low-confidence numbers that move results most (2026-10-16):** 1-ac septic lot floor, waterfront depth limit, whole-parcel remainder threshold, ag transfer tax share, rights floor (`Screener/18. Assumption Impact.md`).
 - **Re-screen drift (2026-10-15; corrected 2026-10-16):** the screen's local lot comps use a rolling 36-month window, so each re-screen moves some deals (Caroline and Kent since 2026-10-14). The monthly refresh does re-screen (`run_all --refresh-data` implies `--screen`), so this is expected month to month — not a decision; the 2026-10-15 note saying otherwise was wrong.
 - **Agricultural transfer tax is charged on lot sales (5%, median $27K on 91% of Pursue deals).** If it's computed on
@@ -149,6 +149,9 @@ was decided, what was learned, and what's next. Background and layout are in **S
     still estimates, approval odds untested until 10 outcomes are recorded. The header shows the data date and next update.
   - Fixed: some deal notes said "was listed in the past year at $nan".
   - No deal number changed (86 Pursue / 338 Diligence / 300 Watch).
+- **Board republished (version 37)** with everything from 2026-10-16: approval-outcome statuses, the design pass,
+  phone polish and the deal story. All 174 files verified against the manifest and recorded as published, so the
+  "changed since" line restarts from today. Still shared "Anyone with the link"; restrict it from the Share menu.
 
 ### 2026-10-16 (evening) — Faster, tidier pipeline and board (Brian + Claude)
 - Screener PRs #24–#25, merged on green CI. No deal number changed.
