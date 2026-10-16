@@ -2,6 +2,9 @@
 
 *Generated on each sync. Shows which regulation text changed and the exact wording differences (`-` removed, `+` added). Narrative context is in the Project Log.*
 
+## 2026-10-16 — Project Log: deal story on the board (PR #28)
+
+
 ## 2026-10-16 — Project Log: Deal Board phone polish (PR #27)
 
 

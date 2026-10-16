@@ -137,6 +137,18 @@ was decided, what was learned, and what's next. Background and layout are in **S
   address, a one-line "N deals changed" chip); on small phones Counties and Model fold into a More tab; the Counties
   tab no longer scrolls sideways; on the map, layers fold behind a Layers button, controls are thumb-sized, and the
   map itself follows dark mode.
+- **Each deal tells its story (PR #28):** after a review of what the board says about the deals and about us
+  (compared with investor deal pages, Zillow-style estimates and deal-pipeline tools):
+  - Multiples are rounded to one decimal, with the simulated 10th–90th percentile range under each (e.g. 8.0×,
+    0.6–12.4×; the low end includes the chance the plat isn't approved). The odds-weighted multiple is on each deal
+    page, and Filters → Sort by can rank on it.
+  - Each deal opens with a one-sentence thesis (what we'd make, how it's approved, the main risk) and a suggested
+    next step from its Pipeline status (a written next step replaces it).
+  - Check reasons are printed on the deal; key terms (MOIC, range, odds, levered, carve-out, tiers) are tap-to-define.
+  - The Model tab opens with **How sure we are**: lots ±32% and land ±31% typical miss in the backtest, 8 of 15 inputs
+    still estimates, approval odds untested until 10 outcomes are recorded. The header shows the data date and next update.
+  - Fixed: some deal notes said "was listed in the past year at $nan".
+  - No deal number changed (86 Pursue / 338 Diligence / 300 Watch).
 
 ### 2026-10-16 (evening) — Faster, tidier pipeline and board (Brian + Claude)
 - Screener PRs #24–#25, merged on green CI. No deal number changed.
