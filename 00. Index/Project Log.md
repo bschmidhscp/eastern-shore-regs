@@ -122,6 +122,20 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
+### 2026-10-16 (evening) — Faster, tidier pipeline and board (Brian + Claude)
+- Screener PRs #24–#25, merged on green CI. No deal number changed.
+- **A normal run now takes about 40 seconds (was ~110).** One rule decides what gets redone: a step reruns only when
+  the *contents* of what it reads change (or the code, assumptions, rules or as-of date). Schools download only on a
+  data refresh; the home value surface, parcel feature table, repeat sales and the lot model are skipped when nothing
+  changed; the database updates only changed tables and re-copies its 300 MB file to Drive only when something changed.
+  The pricing itself (~20 s) always runs. Proven byte-identical against the previous code the same day.
+- **Board front end reorganized** into modules (stylesheet, page, and one script per tab) assembled into the same
+  single page, with shared helpers for tiles and tables. Checked in a browser: every tab reads exactly as before; at
+  phone width it fits without sideways scrolling. The HTML file now also displays correctly when opened from Drive.
+- **Board on phones and pinned:** the board is pinned to Brian's claude.ai sidebar; on a phone, open the board link
+  in Safari → Share → Add to Home Screen (Android: Chrome menu → Add to Home screen).
+- Board not yet republished (the outcome statuses, front-end changes and date drift go live at the next publish).
+
 ### 2026-10-16 (day) — Hardening after the restructure: outages, as-of date, board outcomes, end-to-end test (Brian + Claude)
 - Brian asked for all the follow-ups and to merge each on green CI. Screener PRs #18–#23. No deal number changed.
 - **Monthly refresh fixed and outage-proof (#18).** A simulated outage (every download failing) showed `run_all

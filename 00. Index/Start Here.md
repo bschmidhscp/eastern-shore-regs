@@ -45,7 +45,7 @@ comps density — the inputs the screen and every model use) are in one table, `
 **Eastern Shore Deal Board** (interactive, ranked, map, shared status + notes): [claude.ai/artifact/CBZiWuVtS4vecCcgEGvHxL](https://claude.ai/artifact/CBZiWuVtS4vecCcgEGvHxL) — private
 claude.ai page; Brian invites Ben by email as **Editor** so he can mark parcels and add notes (Viewers can only
 read; adding a public link would also make Ben read-only). Refresh everything: `python -m screener.run_all`
-(~2 min; add `--screen` or `--refresh-data` for a full rebuild; `--as-of <date>` reproduces that day's numbers;
+(~40 s when nothing upstream changed; add `--screen` or `--refresh-data` for a full rebuild; `--as-of <date>` reproduces that day's numbers;
 if a state server is down, the run keeps last month's copy and says so). To publish the board, a Claude session follows
 `Screener/Dashboard/publish_plan.json` and then runs `python -m screener.publish --verify <files listing>` (screener
 README, "Publishing"); the monthly task does this. How accurate each model is: `python -m screener.evaluate` (seconds).
