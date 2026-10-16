@@ -122,6 +122,22 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
+### 2026-10-16 (midday) — The monthly refresh moves off Brian's Mac (Brian + Claude, setup in progress)
+- Built (PRs #32–#33): the monthly refresh as a **GitHub Actions** workflow ("Monthly refresh" in the repo's Actions
+  tab; either partner, or their AI, can press Run workflow). The data cache lives in **Cloudflare R2**; reports, CSVs
+  and the database are written to this shared drive by a **Google service account**; keys are GitHub secrets. Each run
+  deploys the board only if its checks pass and both addresses still require sign-in, writes a Project Log entry and
+  its Word copy, and opens a GitHub issue with the summary. How it works and the setup: `docs/Cloud Run.md` in the repo.
+- Rehearsed on the Mac with stand-in storage: all 724 board parcels and 96 of 98 outputs identical to today's run
+  (the other two list file paths); peak memory 2.2 GB, well under the cloud machine's 7 GB.
+- Waiting on Brian (one-time, ~15 min at a computer): enable R2 and add Pages/D1/R2 permissions to the Cloudflare
+  token; create the Google service account, add it to this shared drive as Content manager, and paste its key into
+  GitHub as GOOGLE_SERVICE_ACCOUNT_JSON. Then Claude runs a test from GitHub, compares, and switches the schedule over
+  (until then the Mac's monthly task still runs; the cloud schedule is off).
+- The regs corpus refresh (county codes, minutes, digests) still needs Claude and stays a separate task for now.
+- Slip, fixed: #32 was merged with one failing test (a date read straight from the clock); #33 fixed it two minutes
+  later and main is green.
+
 ### 2026-10-16 (late morning, cont.) — Deal Board live at deals.highsidecapitalpartners.com (Brian + Claude)
 - **https://deals.highsidecapitalpartners.com** is the board's address now (same site; eastern-shore-deal-board.pages.dev
   still works). Same sign-in: email + one-time code, Brian and Ben only, 30-day sessions. Checked from outside: every

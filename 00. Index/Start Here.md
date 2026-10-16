@@ -47,7 +47,9 @@ its own site (Cloudflare Pages), private behind Cloudflare Access: sign in with 
 Cloudflare emails you (Brian and Ben are on the list; a sign-in lasts 30 days). Both partners can update the deal
 tracker, builder price checks and cost quotes, which live in the site's database (Cloudflare D1). On a phone, open it in
 Safari → Share → **Add to Home Screen** to get it as an app. Deploy: `python -m screener.site` (see screener/site.py).
-A backup copy is still published to [claude.ai](https://claude.ai/artifact/CBZiWuVtS4vecCcgEGvHxL), but its tracker is no longer used. Refresh everything: `python -m screener.run_all`
+A backup copy is still published to [claude.ai](https://claude.ai/artifact/CBZiWuVtS4vecCcgEGvHxL), but its tracker is no longer used.
+The monthly refresh is moving to GitHub Actions (no one's Mac needed; Actions → Monthly refresh → Run workflow):
+see `docs/Cloud Run.md` in the screener repo. Refresh everything: `python -m screener.run_all`
 (~40 s when nothing upstream changed; add `--screen` or `--refresh-data` for a full rebuild; `--as-of <date>` reproduces that day's numbers;
 if a state server is down, the run keeps last month's copy and says so). To publish the board, a Claude session follows
 `Screener/Dashboard/publish_plan.json` and then runs `python -m screener.publish --verify <files listing>` (screener

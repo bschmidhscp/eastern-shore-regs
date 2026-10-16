@@ -2,6 +2,9 @@
 
 *Generated on each sync. Shows which regulation text changed and the exact wording differences (`-` removed, `+` added). Narrative context is in the Project Log.*
 
+## 2026-10-16 — Project Log: cloud run built, setup pending
+
+
 ## 2026-10-16 — Deal Board at deals.highsidecapitalpartners.com
 
 
