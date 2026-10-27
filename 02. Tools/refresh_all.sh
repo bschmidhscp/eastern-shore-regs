@@ -11,11 +11,13 @@ PY=~/.venvs/esl/bin/python
 LOG=~/.cache/esl/refresh-$(date +%Y-%m-%d).log
 mkdir -p ~/.cache/esl
 echo "== refresh $(date) ==" >> "$LOG"
+rm -f "$LOG.failed"
 
 # counties = every config; 3 at a time; eCode360 rate limits are handled by common.get backoff
 export ESL_SKIP_INDEX=1   # each county skips the search index; it's built once below
 ls "02. Tools/County Configs/"*.json | sed 's|.*/||; s|\.json$||' | tr '\n' '\0' |
-  xargs -0 -P 3 -n 1 sh -c '"$0" -I "02. Tools/run_county.py" --county "$1" --steps code,inventory,meetings,select,fetch,text,index >> "$2" 2>&1; echo "$1 refreshed" >> "$2"' "$PY" _ "$LOG"
+  xargs -0 -P 3 -n 1 sh -c 'if "$0" -I "02. Tools/run_county.py" --county "$2" --steps code,inventory,meetings,select,fetch,text,index >> "$1" 2>&1
+    then echo "$2 refreshed" >> "$1"; else echo "$2 FAILED" >> "$1"; echo "$2" >> "$1.failed"; fi' "$PY" "$LOG"
 
 # refresh each county's digest-ready legislation index and the comparison, then commit + record changes
 "$PY" -I "02. Tools/build_comparison.py" >> "$LOG" 2>&1
@@ -26,3 +28,4 @@ ls "02. Tools/County Configs/"*.json | sed 's|.*/||; s|\.json$||' | tr '\n' '\0'
 "02. Tools/publish_guides.sh" >> "$LOG" 2>&1
 echo "== done $(date) ==" >> "$LOG"
 tail -5 "$LOG"
+if [ -s "$LOG.failed" ]; then echo "Counties that failed: $(tr '\n' ' ' < "$LOG.failed")"; exit 1; fi

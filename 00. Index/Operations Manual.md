@@ -9,7 +9,8 @@ For the project itself see Start Here; for what happened when, the Project Log. 
 |---|---|---|---|
 | 1st of the month, ~6 AM ET | **Regs refresh**: re-pulls county codes, minutes, legislation and fees; new originals go to the archive; changed text back to Drive; Change History | GitHub Actions, "Regs refresh" (scheduled once the variable `ESL_CLOUD_REGS` is `on`; until then the Mac's scheduled task) | GitHub issue "Regs refresh <date>" + Project Log entry |
 | 2nd of the month, ~6 AM ET | **Deal Board refresh**: re-downloads parcel and sales data, refits models, prices every parcel, deploys the board, writes reports to Drive | GitHub Actions, "Monthly refresh" (scheduled once `ESL_CLOUD_RUN` is `on`) | GitHub issue "Monthly refresh <date>" + Project Log entry + the board's **Model → System status** panel |
-| Any time | Either run by hand | github.com/bschmidhscp/eastern-shore-screener → **Actions** → pick the workflow → **Run workflow** | Same |
+| Mondays, ~7 AM ET | **Site health check**: from outside with no sign-in, confirms the board, its data and originals ask for sign-in, icons load, and the guest address refuses everything without a pass | GitHub Actions, "Site health check" | Only on failure: GitHub issue "Site health check failed" |
+| Any time | Any of them by hand | github.com/bschmidhscp/eastern-shore-screener → **Actions** → pick the workflow → **Run workflow** | Same |
 
 A full Deal Board run takes about an hour; the regs refresh 1–3 hours. GitHub emails repository watchers when an issue
 is opened, so both partners should **Watch** the screener repo (top right of the repo page → Watch → All activity).
@@ -44,7 +45,9 @@ is opened, so both partners should **Watch** the screener repo (top right of the
 - **Share the board with someone for 2 hours**: on the board, tap **Share** (top right; partners only), pick the
   contact in Messages. The link opens a read-only board at `guest.highsidecapitalpartners.com` on the first phone or
   computer that opens it (another device can take it over only in the first 5 minutes, e.g. Messages → Safari). Guests
-  never see the tracker, notes, quotes, max bid, the owner's expectation, offer credibility or seller signals.
+  never see the tracker, notes, quotes, max bid, the owner's expectation or assessment, offer credibility, seller
+  signals, or High Side's share (GP returns, promote, waterfall terms); the build refuses to publish if a new column
+  looks like that kind of data (`screener/site.py`, GUEST_DROP).
   **Pipeline → Guest links** shows each link: opened or not, on what device, roughly where, how many views, with
   **Revoke** and **Turn off all**. Emergency off for every guest link: set `GUEST_LINKS_OFF = "1"` in
   `site/wrangler.toml` and redeploy (or ask Claude).

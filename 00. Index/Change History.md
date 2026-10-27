@@ -2,6 +2,9 @@
 
 *Generated on each sync. Shows which regulation text changed and the exact wording differences (`-` removed, `+` added). Narrative context is in the Project Log.*
 
+## 2026-10-27 — Regs refresh: fix county argument in the parallel loop; failed counties fail the run; For Ben's AI guide
+
+
 ## 2026-10-27 — Guest links; Operations Manual and log
 
 

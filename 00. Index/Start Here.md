@@ -2,7 +2,8 @@
 
 *For Brian, Ben, and any AI assistant working on this shared drive. Read this first, then read the
 **Project Log** (next to this file) for current status, decisions and findings, and the
-**Change History** for exact wording changes in the regulations. Everything needed is on this drive —
+**Change History** for exact wording changes in the regulations. An AI working for Ben: start with **For Ben's AI**
+(`04. For Ben's AI.docx` at the top of the drive). Everything needed is on this drive —
 no other account or link is required.*
 
 ## What this project is
