@@ -56,5 +56,9 @@ git add "$HIST"
 
 git diff --cached --stat | tail -1
 git commit -q -m "$msg" -m "Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
-git push -q origin HEAD:main
-echo "Pushed: $msg"
+if [ -n "${ESL_NO_PUSH:-}" ]; then     # cloud run without a key for the GitHub mirror: history is local only
+  echo "Committed locally (not pushed): $msg"
+else
+  git push -q origin HEAD:main
+  echo "Pushed: $msg"
+fi

@@ -20,7 +20,7 @@ from bs4 import BeautifulSoup
 from curl_cffi import requests as _req
 
 sys.path.insert(0, str(Path(__file__).parent))
-from common import clean_name, county_dir, get, sha256, upsert_manifest, CORPUS  # noqa: E402
+from common import CORPUS, TODAY, clean_name, county_dir, get, read_manifest, sha256, upsert_manifest  # noqa: E402
 
 EXT = {"application/pdf": ".pdf", "text/html": ".html",
        "application/vnd.openxmlformats-officedocument.wordprocessingml.document": ".docx",
@@ -91,21 +91,30 @@ def main():
     if not a.download:
         return
 
-    got = miss = 0
+    got = miss = kept = 0
     outdir = cdir / "Originals" / "Meeting Minutes" / a.body
     outdir.mkdir(parents=True, exist_ok=True)
+    # Already downloaded (on disk or in the originals archive, per the manifest): skip, except the last 60 days, when
+    # counties sometimes replace draft minutes under the same name. The extension is only known after the download,
+    # so match on the name without it.
+    recent = (dt.date.fromisoformat(TODAY) - dt.timedelta(days=60)).isoformat()
+    rel = str(outdir.relative_to(CORPUS)) + "/"
+    have_stems = {Path(k).stem for k in read_manifest(a.county) if k.startswith(rel)}
     for r in rows:
         if not r["date"] or r["date"] < a.since:
             continue
         for kind in ("minutes", "agenda", "packet"):
             if not r[kind]:
                 continue
+            extra = "" if re.match(rf"^{re.escape(a.body)}\s*$", r["name"], re.I) else f" - {clean_name(r['name'])[:60]}"
+            if r["date"] < recent and f"{r['date']} {kind.title()}{extra}" in have_stems:
+                kept += 1
+                continue
             res = fetch(r[kind])
             if not res:
                 miss += 1
                 continue
             data, ext, final = res
-            extra = "" if re.match(rf"^{re.escape(a.body)}\s*$", r["name"], re.I) else f" - {clean_name(r['name'])[:60]}"
             dest = outdir / f"{r['date']} {kind.title()}{extra}{ext}"
             dest.write_bytes(data)
             upsert_manifest(a.county, [dict(path=str(dest.relative_to(CORPUS)),
@@ -114,7 +123,7 @@ def main():
                                             source_url=final, effective=r["date"], sha256=sha256(dest),
                                             bytes=dest.stat().st_size, notes=f"Granicus view {a.view}")])
             got += 1
-    print(f"downloaded {got} files; {miss} links empty or broken on the county's side")
+    print(f"downloaded {got} files; {kept} already had; {miss} links empty or broken on the county's side")
 
 
 if __name__ == "__main__":

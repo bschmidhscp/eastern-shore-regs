@@ -15,6 +15,7 @@ Logs go to ~/.cache/esl/<County>/run.log (progress lines also printed).
 """
 import argparse
 import json
+import os
 import re
 import subprocess
 import sys
@@ -131,7 +132,8 @@ def main():
         run(log, "legislation_index.py", "--county", cname, *(["--zoning-chapter", zc] if zc else []))
         run(log, "digest_prep.py", "--county", cname)
         run(log, "coverage.py", "--county", cname)
-        run(log, "build_index.py")
+        if not os.environ.get("ESL_SKIP_INDEX"):      # refresh_all.sh builds the index once, after every county
+            run(log, "build_index.py")
     print(f"== {cname} done. Next: digest agents on ~/.cache/esl/{cname}/digest/*.txt, then "
           f"merge_digests.py, summary agent (02. Tools/Prompts/County Summary Prompt.md), build_comparison.py ==")
 

@@ -30,6 +30,8 @@ def main():
     cdir = county_dir(cname)
     pdf = cdir / "Originals" / "Code" / f"{clean_name(a.name)}.pdf"
     download(a.url, pdf, cname, "code", title=f"{cname} {a.name} (standalone PDF)")
+    if not pdf.exists():     # downloaded before and since moved to the originals archive: its text is already built
+        return print(f"{cname} {a.name}: already converted (original archived) — kept the current text")
     doc = fitz.open(pdf)
     pages = [p.get_text("text") for p in doc]
 

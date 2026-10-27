@@ -13,6 +13,7 @@ mkdir -p ~/.cache/esl
 echo "== refresh $(date) ==" >> "$LOG"
 
 # counties = every config; 3 at a time; eCode360 rate limits are handled by common.get backoff
+export ESL_SKIP_INDEX=1   # each county skips the search index; it's built once below
 ls "02. Tools/County Configs/"*.json | sed 's|.*/||; s|\.json$||' | tr '\n' '\0' |
   xargs -0 -P 3 -n 1 sh -c '"$0" -I "02. Tools/run_county.py" --county "$1" --steps code,inventory,meetings,select,fetch,text,index >> "$2" 2>&1; echo "$1 refreshed" >> "$2"' "$PY" _ "$LOG"
 

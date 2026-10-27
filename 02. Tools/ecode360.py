@@ -14,6 +14,7 @@ Outputs (under <County>/):
 """
 import argparse
 import csv
+import os
 import re
 import shutil
 import sys
@@ -227,10 +228,27 @@ def main():
     ap.add_argument("--guid", required=True, nargs="+",
                     help="node(s) to print: the whole-code node, or several Part/chapter nodes in order")
     ap.add_argument("--html", help="use an already-downloaded print html instead of fetching (single guid)")
+    ap.add_argument("--force", action="store_true", help="re-download even if the 'legislation through' date is unchanged")
     a = ap.parse_args()
 
     a.county = county_name(a.county)
     cdir = county_dir(a.county)
+
+    # Cheap check first: the code's table-of-contents page says "Includes legislation through MM-DD-YYYY". If that
+    # matches the code we already have, skip the multi-MB print views. A full pull still happens every quarter
+    # (Jan/Apr/Jul/Oct), with --force, or with ESL_FORCE_CODE set, in case eCode360 changes text without a new date.
+    try:
+        m = re.search(r"Includes legislation through ([0-9-]+)", get(f"{BASE}{a.code}").text)
+        through = m.group(1) if m else "unknown"
+    except Exception:
+        through = "unknown"
+    contents = cdir / "Code" / "00. Contents.md"
+    had = re.search(r"Includes legislation through ([0-9-]+)", contents.read_text()) if contents.exists() else None
+    quarterly = TODAY[5:7] in ("01", "04", "07", "10")
+    if (had and through != "unknown" and had.group(1) == through and not (a.force or a.html or quarterly
+                                                                          or os.environ.get("ESL_FORCE_CODE"))):
+        print(f"{a.county} code unchanged (legislation through {through}) — kept the current text")
+        return
     raws = []
     for i, guid in enumerate(a.guid):
         suffix = "" if len(a.guid) == 1 else f" part {i + 1}"
@@ -245,12 +263,6 @@ def main():
             download(url, raw, a.county, "code", title=title, force=True)
         raws.append(raw)
 
-    # "Includes legislation through MM-DD-YYYY" lives on the code's table-of-contents page
-    try:
-        m = re.search(r"Includes legislation through ([0-9-]+)", get(f"{BASE}{a.code}").text)
-        through = m.group(1) if m else "unknown"
-    except Exception:
-        through = "unknown"
     man = read_manifest(a.county)
     upsert_manifest(a.county, [{**man[str(r.relative_to(CORPUS))], "effective": f"legislation through {through}"}
                                for r in raws])

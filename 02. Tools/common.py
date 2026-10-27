@@ -160,10 +160,15 @@ def have(dest, county):
         dest = CORPUS / dest
     if dest.exists():
         return True
+    return str(dest.relative_to(CORPUS)) in _archived(county)
+
+
+def _archived(county):
+    """Manifest rows with a checksum, read once per county per run (fetchers check thousands of files)."""
     c = county_name(county)
     if c not in _ARCHIVED:
-        _ARCHIVED[c] = {p for p, r in read_manifest(c).items() if r.get("sha256")}
-    return str(dest.relative_to(CORPUS)) in _ARCHIVED[c]
+        _ARCHIVED[c] = {p: r for p, r in read_manifest(c).items() if r.get("sha256")}
+    return _ARCHIVED[c]
 
 
 def download(url, dest, county, category, title="", effective="", notes="", force=False):
@@ -173,7 +178,7 @@ def download(url, dest, county, category, title="", effective="", notes="", forc
         dest = CORPUS / dest
     dest.parent.mkdir(parents=True, exist_ok=True)
     if not force and not dest.exists() and have(dest, county):     # archived: keep what the manifest recorded
-        return read_manifest(county)[str(dest.relative_to(CORPUS))]
+        return _archived(county)[str(dest.relative_to(CORPUS))]
     if force or not dest.exists():
         r = get(url)
         tmp = dest.with_name(dest.name + ".part")

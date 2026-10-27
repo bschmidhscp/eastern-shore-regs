@@ -122,6 +122,33 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
+### 2026-10-27 — Monthly refresh (cloud run)
+- **Pipeline:** 277,171 parcels → 11,989 staff-approvable candidates → 1,105 profitable if approved → **341 Diligence · 84 Pursue**.
+- Changed since the last publish: **4 new Pursue · 6 dropped · 0 newly listed · 0 price cuts · 0 newly flagged**
+- Board: https://deals.highsidecapitalpartners.com · details: `Screener/00. Summary.md`, `Screener/11. What Changed.md` · run log: https://github.com/bschmidhscp/eastern-shore-screener/actions/runs/40434969025
+- RentCast requests this month: {'2026-10': 23}
+
+### 2026-10-27 — The monthly refreshes move to GitHub Actions; professional tidy-up (Brian + Claude)
+- **Deal Board refresh now runs in the cloud** (GitHub Actions "Monthly refresh", 2nd of the month). The Mac's
+  scheduled task is switched off. A full run (fresh downloads, pricing, deploy, reports to Drive) takes ~55 minutes;
+  the entry above is its first real run. Each run opens a GitHub issue and adds an entry here.
+- **The first full cloud run raised a false alarm.** Its safety check reported "board was public" and put the holding
+  page up for about an hour. It never was public: Cloudflare blocks Python's web client (error 1010) and the check
+  misread the block. Fixed (#40); it now uses curl and counts only the board's own page. Also fixed on the way:
+  Ubuntu's rclone couldn't update files in R2 (pinned 1.75.2), memory (1 county priced at a time + 8 GB swap), and the
+  log entry format (#41, #42).
+- **Mac vs cloud:** with the same data and date, 720 of 728 parcels match exactly; 8 borderline lot layouts land
+  differently on Intel-type vs Apple chips. Each machine is consistent with itself (`docs/Cloud Run.md`).
+- **Regs refresh workflow built** ("Regs refresh"), not yet scheduled: part A (automated pull) is in testing; part B
+  (the AI review that writes the monthly regs entry) switches on when Brian adds a Claude token. Search-index rebuilds
+  now happen once per refresh and only when text changed (it was 11 full rebuilds, each a new 300 MB Drive version).
+- **Also:** System status panel on the board (Model tab); sign-in page branded High Side Capital Partners; older dated
+  deal/builder/screen lists move to the archive automatically (three tools could read an older run's rows: fixed);
+  tracker backed up each run; the old claude.ai link shows a "moved" notice with its data removed;
+  **Operations Manual** (`00. Index/Operations Manual.md`, Word copy at the top of the drive).
+- **Brian, when convenient:** roll the Cloudflare token (an R2 key derived from it appeared in tonight's run logs, now
+  masked); approve the DMARC record and the regs deploy key; run `claude setup-token` for the AI review.
+
 ### 2026-10-26 — Drive storage: original downloads moved to a private archive (Brian + Claude)
 - Google Workspace was over its storage limit. This project used ~10 GB of the shared drive, 9.3 GB of it the original
   downloads (4,926 PDFs, web pages and map files under each county's `Originals/`).

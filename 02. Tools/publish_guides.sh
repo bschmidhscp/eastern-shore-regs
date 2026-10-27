@@ -23,4 +23,5 @@ publish() {
 publish "Start Here.md" "00. Start Here.docx"
 publish "Project Log.md" "01. Project Log.docx"
 [ -f "$CORPUS/00. Index/Change History.md" ] && publish "Change History.md" "02. Change History.docx"
+[ -f "$CORPUS/00. Index/Operations Manual.md" ] && publish "Operations Manual.md" "03. Operations Manual.docx"
 rm -rf "$TMP"

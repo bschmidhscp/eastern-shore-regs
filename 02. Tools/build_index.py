@@ -62,7 +62,25 @@ def chunks_for(meta, body, limit):
         yield start, end, buf
 
 
+def inputs_key():
+    """Fingerprint of every indexed file's path and contents: unchanged = the index is current, nothing to rebuild."""
+    import hashlib
+    h = hashlib.sha1()
+    for md in sorted(CORPUS.rglob("*.md")):
+        rel = md.relative_to(CORPUS)
+        if rel.parts[0] in SKIP_DIRS or any(p in SKIP_DIRS for p in rel.parts[:-1]) or md.name == "00. Contents.md":
+            continue
+        h.update(str(rel).encode() + b"\0" + md.read_bytes() + b"\0")
+    return h.hexdigest()
+
+
 def main():
+    # Skip the rebuild when no indexed text changed: it saves the time and, on Drive, a new 300 MB version of the file
+    key_file, out = CORPUS / "00. Index" / "corpus.key", CORPUS / "00. Index" / "corpus.db"
+    key = inputs_key()
+    if out.exists() and key_file.exists() and key_file.read_text().strip() == key and "--force" not in sys.argv:
+        print("search index: no text changed since the last build — kept corpus.db")
+        return
     tmpdir = Path(tempfile.mkdtemp())
     db = tmpdir / "corpus.db"
     con = sqlite3.connect(db)
@@ -103,6 +121,7 @@ def main():
     tmp_out = out.with_suffix(".db.part")
     shutil.copy(db, tmp_out)
     os.replace(tmp_out, out)
+    key_file.write_text(key + "\n")
     shutil.rmtree(tmpdir)
     print(f"indexed {nd} files, {nc} chunks -> {out} ({out.stat().st_size/1e6:.1f} MB)")
 

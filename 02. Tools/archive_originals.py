@@ -87,6 +87,8 @@ def main():
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--restore", metavar="COUNTY")
     a = ap.parse_args()
+    if os.environ.get("ESL_NO_ARCHIVE") and not a.restore:     # cloud test runs leave originals where they are
+        return print("archive skipped (ESL_NO_ARCHIVE)")
     if not shutil.which("rclone", path=env()["PATH"]):
         raise SystemExit("rclone not found: brew install rclone")
     if a.restore:

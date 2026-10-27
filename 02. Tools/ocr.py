@@ -51,6 +51,8 @@ def main():
     for p, r in read_manifest(a.county).items():
         if "needs_ocr" not in r.get("notes", "") or not p.lower().endswith(".pdf"):
             continue
+        if not (CORPUS / p).exists():     # original archived (archive_originals.py): restore the county to OCR it
+            continue
         # Targeted OCR: always do decisions, minutes, plans, fees, code; skip meeting packets and
         # very long scans of anything else (searchable later with --all).
         try:
