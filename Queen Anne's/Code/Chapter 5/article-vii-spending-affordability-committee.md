@@ -6,7 +6,7 @@ article: "Article VII. Spending Affordability Committee"
 section: "article-vii-spending-affordability-committee"
 title: "Article VII. Spending Affordability Committee"
 url: "https://ecode360.com/30589960"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-13-2026"
 ---
 

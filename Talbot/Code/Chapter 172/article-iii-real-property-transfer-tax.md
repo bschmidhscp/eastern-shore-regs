@@ -6,7 +6,7 @@ article: "Article III. Real Property Transfer Tax"
 section: "article-iii-real-property-transfer-tax"
 title: "Article III. Real Property Transfer Tax"
 url: "https://ecode360.com/10158834"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "12-09-2025"
 ---
 

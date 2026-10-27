@@ -6,7 +6,7 @@ article: "Article XVIII. Residential Sprinkler System Tax Credit"
 section: "article-xviii-residential-sprinkler-system-tax-credit"
 title: "Article XVIII. Residential Sprinkler System Tax Credit"
 url: "https://ecode360.com/31512395"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-03-2025"
 ---
 

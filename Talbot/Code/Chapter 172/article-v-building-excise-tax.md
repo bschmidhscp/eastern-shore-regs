@@ -6,7 +6,7 @@ article: "Article V. Building Excise Tax"
 section: "article-v-building-excise-tax"
 title: "Article V. Building Excise Tax"
 url: "https://ecode360.com/10158885"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "12-09-2025"
 ---
 

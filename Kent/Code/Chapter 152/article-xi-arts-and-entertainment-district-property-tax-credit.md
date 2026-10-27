@@ -6,7 +6,7 @@ article: "Article XI. Arts and Entertainment District Property Tax Credit"
 section: "article-xi-arts-and-entertainment-district-property-tax-credit"
 title: "Article XI. Arts and Entertainment District Property Tax Credit"
 url: "https://ecode360.com/45093775"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "04-07-2026"
 ---
 

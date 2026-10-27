@@ -6,7 +6,7 @@ article: "Article I. Real Property Tax Exemptions"
 section: "article-i-real-property-tax-exemptions"
 title: "Article I. Real Property Tax Exemptions"
 url: "https://ecode360.com/10158810"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "12-09-2025"
 ---
 

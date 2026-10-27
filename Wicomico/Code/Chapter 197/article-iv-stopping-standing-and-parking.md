@@ -6,7 +6,7 @@ article: "Article IV. Stopping, Standing and Parking"
 section: "article-iv-stopping-standing-and-parking"
 title: "Article IV. Stopping, Standing and Parking"
 url: "https://ecode360.com/10172195"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

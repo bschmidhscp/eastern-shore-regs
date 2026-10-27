@@ -6,7 +6,7 @@ article: "SUBTITLE VIII. County Transfer Tax"
 section: "subtitle-viii-county-transfer-tax"
 title: "SUBTITLE VIII. County Transfer Tax"
 url: "https://ecode360.com/14012307"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "11-18-2025"
 ---
 

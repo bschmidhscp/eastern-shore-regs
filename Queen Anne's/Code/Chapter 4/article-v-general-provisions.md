@@ -6,7 +6,7 @@ article: "Article V. General Provisions"
 section: "article-v-general-provisions"
 title: "Article V. General Provisions"
 url: "https://ecode360.com/7128832"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-13-2026"
 ---
 

@@ -6,7 +6,7 @@ article: ""
 section: "DL-1"
 title: "§ DL-1. Disposition of legislation."
 url: "https://ecode360.com/9896307"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "05-05-2026"
 ---
 

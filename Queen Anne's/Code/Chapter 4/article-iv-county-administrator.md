@@ -6,7 +6,7 @@ article: "Article IV. County Administrator"
 section: "article-iv-county-administrator"
 title: "Article IV. County Administrator"
 url: "https://ecode360.com/7128818"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-13-2026"
 ---
 

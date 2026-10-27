@@ -6,7 +6,7 @@ article: "Article II. Board of Parks and Recreation"
 section: "article-ii-board-of-parks-and-recreation"
 title: "Article II. Board of Parks and Recreation"
 url: "https://ecode360.com/15790909"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "05-05-2026"
 ---
 

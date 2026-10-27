@@ -6,7 +6,7 @@ article: "Article V. Animal Abuse Registry"
 section: "article-v-animal-abuse-registry"
 title: "Article V. Animal Abuse Registry"
 url: "https://ecode360.com/45787730"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-13-2026"
 ---
 

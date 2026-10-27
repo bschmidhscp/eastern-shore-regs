@@ -6,7 +6,7 @@ article: "Article I. General Regulations"
 section: "article-i-general-regulations"
 title: "Article I. General Regulations"
 url: "https://ecode360.com/13600575"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-09-2026"
 ---
 

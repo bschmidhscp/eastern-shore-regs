@@ -6,7 +6,7 @@ article: "Article I. Tax on Recorded Instruments"
 section: "article-i-tax-on-recorded-instruments"
 title: "Article I. Tax on Recorded Instruments"
 url: "https://ecode360.com/10172661"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

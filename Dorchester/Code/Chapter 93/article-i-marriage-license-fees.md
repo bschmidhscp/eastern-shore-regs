@@ -6,7 +6,7 @@ article: "Article I. Marriage License Fees"
 section: "article-i-marriage-license-fees"
 title: "Article I. Marriage License Fees"
 url: "https://ecode360.com/10453658"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-03-2025"
 ---
 

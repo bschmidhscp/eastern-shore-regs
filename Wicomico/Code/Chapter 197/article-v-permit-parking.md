@@ -6,7 +6,7 @@ article: "Article V. Permit Parking"
 section: "article-v-permit-parking"
 title: "Article V. Permit Parking"
 url: "https://ecode360.com/10172250"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

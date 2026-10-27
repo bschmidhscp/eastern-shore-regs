@@ -6,7 +6,7 @@ article: "Article V. Tax Credit for Surviving Spouses of Law Enforcement Officer
 section: "article-v-tax-credit-for-surviving-spouses-of-law-enforcement-officers"
 title: "Article V. Tax Credit for Surviving Spouses of Law Enforcement Officers"
 url: "https://ecode360.com/15794102"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "05-05-2026"
 ---
 

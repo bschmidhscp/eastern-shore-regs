@@ -6,7 +6,7 @@ article: "Article VI. Tax Setoff"
 section: "article-vi-tax-setoff"
 title: "Article VI. Tax Setoff"
 url: "https://ecode360.com/28426269"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-13-2026"
 ---
 

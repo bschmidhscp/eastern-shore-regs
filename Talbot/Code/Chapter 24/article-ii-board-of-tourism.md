@@ -6,7 +6,7 @@ article: "Article II. Board of Tourism"
 section: "article-ii-board-of-tourism"
 title: "Article II. Board of Tourism"
 url: "https://ecode360.com/10154952"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "12-09-2025"
 ---
 

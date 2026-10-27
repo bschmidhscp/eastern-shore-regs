@@ -6,7 +6,7 @@ article: "SUBTITLE VII. Recordation Tax"
 section: "subtitle-vii-recordation-tax"
 title: "SUBTITLE VII. Recordation Tax"
 url: "https://ecode360.com/14012303"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "11-18-2025"
 ---
 

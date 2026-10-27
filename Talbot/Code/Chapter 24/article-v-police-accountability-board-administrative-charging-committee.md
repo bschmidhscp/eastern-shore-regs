@@ -6,7 +6,7 @@ article: "Article V. Police Accountability Board; Administrative Charging Commit
 section: "article-v-police-accountability-board-administrative-charging-committee"
 title: "Article V. Police Accountability Board; Administrative Charging Committee"
 url: "https://ecode360.com/39503710"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "12-09-2025"
 ---
 

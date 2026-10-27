@@ -6,7 +6,7 @@ article: "Article I. Disposal of Vehicle Tires"
 section: "article-i-disposal-of-vehicle-tires"
 title: "Article I. Disposal of Vehicle Tires"
 url: "https://ecode360.com/10454942"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-03-2025"
 ---
 

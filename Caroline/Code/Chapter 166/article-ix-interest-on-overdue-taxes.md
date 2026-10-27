@@ -6,7 +6,7 @@ article: "Article IX. Interest on Overdue Taxes"
 section: "article-ix-interest-on-overdue-taxes"
 title: "Article IX. Interest on Overdue Taxes"
 url: "https://ecode360.com/8726671"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-09-2026"
 ---
 

@@ -6,7 +6,7 @@ article: "Article I. Location of Premises"
 section: "article-i-location-of-premises"
 title: "Article I. Location of Premises"
 url: "https://ecode360.com/15791927"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "05-05-2026"
 ---
 

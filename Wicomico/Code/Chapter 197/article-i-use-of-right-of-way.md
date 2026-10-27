@@ -6,7 +6,7 @@ article: "Article I. Use of Right-of-Way"
 section: "article-i-use-of-right-of-way"
 title: "Article I. Use of Right-of-Way"
 url: "https://ecode360.com/10172119"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

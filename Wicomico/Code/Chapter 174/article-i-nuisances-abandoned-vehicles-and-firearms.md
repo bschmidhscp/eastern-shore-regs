@@ -6,7 +6,7 @@ article: "Article I. Nuisances, Abandoned Vehicles and Firearms"
 section: "article-i-nuisances-abandoned-vehicles-and-firearms"
 title: "Article I. Nuisances, Abandoned Vehicles and Firearms"
 url: "https://ecode360.com/14928708"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

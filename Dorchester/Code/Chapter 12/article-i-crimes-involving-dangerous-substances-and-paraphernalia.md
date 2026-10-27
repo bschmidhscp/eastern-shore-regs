@@ -6,7 +6,7 @@ article: "Article I. Crimes Involving Dangerous Substances And Paraphernalia"
 section: "article-i-crimes-involving-dangerous-substances-and-paraphernalia"
 title: "Article I. Crimes Involving Dangerous Substances And Paraphernalia"
 url: "https://ecode360.com/14056043"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-03-2025"
 ---
 

@@ -6,7 +6,7 @@ article: "Article XIX. Partial Tax Abatement for Rehabilitation of Structures"
 section: "article-xix-partial-tax-abatement-for-rehabilitation-of-structures"
 title: "Article XIX. Partial Tax Abatement for Rehabilitation of Structures"
 url: "https://ecode360.com/32832243"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-03-2025"
 ---
 

@@ -6,7 +6,7 @@ article: "Article III. County Attorney"
 section: "article-iii-county-attorney"
 title: "Article III. County Attorney"
 url: "https://ecode360.com/7128804"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-13-2026"
 ---
 

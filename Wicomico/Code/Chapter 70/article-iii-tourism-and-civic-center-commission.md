@@ -6,7 +6,7 @@ article: "Article III. Tourism and Civic Center Commission"
 section: "article-iii-tourism-and-civic-center-commission"
 title: "Article III. Tourism and Civic Center Commission"
 url: "https://ecode360.com/14322406"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

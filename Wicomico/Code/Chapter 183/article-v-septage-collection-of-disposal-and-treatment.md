@@ -6,7 +6,7 @@ article: "Article V. Septage Collection of Disposal and Treatment"
 section: "article-v-septage-collection-of-disposal-and-treatment"
 title: "Article V. Septage Collection of Disposal and Treatment"
 url: "https://ecode360.com/10171767"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

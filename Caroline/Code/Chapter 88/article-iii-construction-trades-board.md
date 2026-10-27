@@ -6,7 +6,7 @@ article: "Article III. Construction Trades Board"
 section: "article-iii-construction-trades-board"
 title: "Article III. Construction Trades Board"
 url: "https://ecode360.com/27558994"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-09-2026"
 ---
 

@@ -6,7 +6,7 @@ article: "Article III. Road Construction Districts"
 section: "article-iii-road-construction-districts"
 title: "Article III. Road Construction Districts"
 url: "https://ecode360.com/15791893"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "05-05-2026"
 ---
 

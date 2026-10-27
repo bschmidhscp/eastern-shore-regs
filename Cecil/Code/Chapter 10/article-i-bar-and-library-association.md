@@ -6,7 +6,7 @@ article: "Article I. Bar and Library Association"
 section: "article-i-bar-and-library-association"
 title: "Article I. Bar and Library Association"
 url: "https://ecode360.com/15790885"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "05-05-2026"
 ---
 

@@ -6,7 +6,7 @@ article: "Article I. Wicomico County Building Construction"
 section: "article-i-wicomico-county-building-construction"
 title: "Article I. Wicomico County Building Construction"
 url: "https://ecode360.com/10168214"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

@@ -6,7 +6,7 @@ article: "Article XXI. Property Tax Credit for Qualifying Members of Volunteer F
 section: "article-xxi-property-tax-credit-for-qualifying-members-of-volunteer-fire-compani"
 title: "Article XXI. Property Tax Credit for Qualifying Members of Volunteer Fire Companies"
 url: "https://ecode360.com/44143072"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-03-2025"
 ---
 

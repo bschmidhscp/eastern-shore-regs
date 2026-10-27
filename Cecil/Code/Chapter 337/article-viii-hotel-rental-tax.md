@@ -6,7 +6,7 @@ article: "Article VIII. Hotel Rental Tax"
 section: "article-viii-hotel-rental-tax"
 title: "Article VIII. Hotel Rental Tax"
 url: "https://ecode360.com/33691218"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "05-05-2026"
 ---
 

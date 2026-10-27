@@ -6,7 +6,7 @@ article: "Article III. Installation of Pipes in Outlet Ditches"
 section: "article-iii-installation-of-pipes-in-outlet-ditches"
 title: "Article III. Installation of Pipes in Outlet Ditches"
 url: "https://ecode360.com/10455378"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-03-2025"
 ---
 

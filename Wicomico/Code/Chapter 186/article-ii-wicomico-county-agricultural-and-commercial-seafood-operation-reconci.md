@@ -6,7 +6,7 @@ article: "Article II. Wicomico County Agricultural and Commercial Seafood Operat
 section: "article-ii-wicomico-county-agricultural-and-commercial-seafood-operation-reconci"
 title: "Article II. Wicomico County Agricultural and Commercial Seafood Operation Reconciliation Committee"
 url: "https://ecode360.com/10171798"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

@@ -6,7 +6,7 @@ article: "Article III. Positions for Which Confirmation by Council Is Required"
 section: "article-iii-positions-for-which-confirmation-by-council-is-required"
 title: "Article III. Positions for Which Confirmation by Council Is Required"
 url: "https://ecode360.com/39761416"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

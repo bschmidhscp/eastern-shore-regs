@@ -6,7 +6,7 @@ article: "Article II. Terminology"
 section: "article-ii-terminology"
 title: "Article II. Terminology"
 url: "https://ecode360.com/11473951"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "04-07-2026"
 ---
 

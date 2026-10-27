@@ -6,7 +6,7 @@ article: "Article I. Notice of Claims"
 section: "article-i-notice-of-claims"
 title: "Article I. Notice of Claims"
 url: "https://ecode360.com/29201609"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "12-09-2025"
 ---
 

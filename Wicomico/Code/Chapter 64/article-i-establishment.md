@@ -6,7 +6,7 @@ article: "Article I. Establishment"
 section: "article-i-establishment"
 title: "Article I. Establishment"
 url: "https://ecode360.com/10167778"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

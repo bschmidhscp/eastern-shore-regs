@@ -6,7 +6,7 @@ article: "Article II. Animal Care and Control Advisory Board"
 section: "article-ii-animal-care-and-control-advisory-board"
 title: "Article II. Animal Care and Control Advisory Board"
 url: "https://ecode360.com/16162790"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "05-05-2026"
 ---
 

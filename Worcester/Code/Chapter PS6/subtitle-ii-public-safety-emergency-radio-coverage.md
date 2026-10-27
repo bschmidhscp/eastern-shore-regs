@@ -6,7 +6,7 @@ article: "SUBTITLE II. Public Safety Emergency Radio Coverage"
 section: "subtitle-ii-public-safety-emergency-radio-coverage"
 title: "SUBTITLE II. Public Safety Emergency Radio Coverage"
 url: "https://ecode360.com/14011365"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "11-18-2025"
 ---
 

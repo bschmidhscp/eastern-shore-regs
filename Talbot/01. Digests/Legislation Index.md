@@ -2,7 +2,7 @@
 
 *One row per bill/resolution (latest version). Zoning = amends Chapter 190; W&S = water & sewer plan amendment. Open the file only if you need the text.*
 
-## Bills (82)
+## Bills (87)
 
 | No. | Title | Status | Enacted | Effective | Zoning | W&S |
 |---|---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | 1538 | FY24 Cap. Enabl. Leg. - Chapel Elem. School | posted |  |  |  |  |
 | 1531 | FY24 Capital Enabling Leg. | enacted | July 25, 2023 |  |  |  |
 | 1530 | Bill to Address CAC Conditions of Approval of Bill 1525 | enacted | June 13, 2023 | August 12, 2023 | ✓ |  |
-| 1529 | , AN ACT TO ESTABLISH THE 2023-2024 ANNUAL BUDGET AND APPROPRIATION ORDINANCE, | enacted | May 23,2023 |  |  |  |
+| 1529 | FY 2024 Approved Budget Ordinance Bill 1529 | enacted | May 23, 2023 |  |  |  |
 | 1528 | Bill to Amend Talbot Co. Code - Ch. 190 - Piers and Riparian Structures | enacted | April 25, 2023 | June 24, 2023 | ✓ |  |
 | 1527 |  | enacted | October 25, 2022 | December 24, 2022 |  |  |
 | 1526 | Emergency Bill to Authorize Capital Project - Removal and Replacement of Ice Rink Floor | enacted | October 18, 2022 | October 18, 2022 |  |  |
@@ -60,8 +60,12 @@
 | 1501 | FY2022 - 2023 Capital Enabling Legislation | enacted | July 12, 2022 | September 10, 2022 |  |  |
 | 1500 | Bill to Amend Ch. 60 - Talbot Co. Code - Ethics Provisions | enacted | June 14, 2022 | August 13, 2022 |  |  |
 | 1499 | Bill to Amend Ch. 56 - Talbot Co. Code - Electrical Standards | enacted | June 14, 2022 | August 13, 2022 |  |  |
-| 1498 | FY2022-2023 Annual Budget and Appropriation Ordinance | enacted | May 17,2022 |  |  |  |
-| 1497 | Bill To Amend Ch. 24 Talbot Co. Code to Add a New Article V Entitled Police Accountability Board and Administ | posted | April 26, 2022 | June 25, 2022 |  |  |
+| 1498 | FY 2023 Approved Budget Ordinance (Bill 1498 | enacted | May 17,2022 |  |  |  |
+| 1497 | Bill to Amend Ch. 24 Talbot Co. Code to Add New Article V - Police Accountability Board and Admin. Charging C | posted |  |  |  |  |
+| 1496 | Bill to Repeal and Reenact Ch. 102 Talbot Co. Code - Parks and Recreation | enacted | February 22, 2022 |  |  |  |
+| 1473 | AN ACT TO ESTABLISH THE 2021-2022 ANNUAL BUDGET AND APPROPRIATION ORDINANCE | enacted | May 25, 2021 |  |  |  |
+| 1445 | FY2021-2022 Budget and Appropriation Ordinance | enacted | May 26,2020 |  |  |  |
+| 1402 | Zoning Maps | posted | September 11, 2018 |  |  |  |
 | 1376 | Village Boundaries | enacted | December 12, 2017 |  |  |  |
 | 1064 | FY2007-2008 Capital Enabling Leg. | enacted | August 14, 2007 |  |  |  |
 | 398 | CWSP Amendment - Goose Neck Rd.) - Sept. 2026 | posted |  |  |  | ✓ |
@@ -88,8 +92,9 @@
 | Admin. Resol. - Transfer of Local DOC to CORS | Admin. Resol. - Transfer of Local DOC to CORS | posted |  |  |  |  |
 | Admin. Resolution - Change of Start Time for Co. Council Legislative Sessions) As Approved on 9-12-2023 | Admin. Resolution - Change of Start Time for Co. Council Legislative Sessions) As Approved on 9-12-2023 | enacted |  |  |  |  |
 | Amended Admin. Resolution - Seniors Task Force - As Enacted | Amended Admin. Resolution - Seniors Task Force | enacted |  |  |  |  |
+| comar091251 | comar091251 | posted |  |  |  |  |
 
-## Resolutions (125)
+## Resolutions (131)
 
 | No. | Title | Status | Enacted | Effective | Zoning | W&S |
 |---|---|---|---|---|---|---|
@@ -98,8 +103,8 @@
 | 400 | Conveyance of Property to TOE and SHS | posted |  |  |  |  |
 | 399 | Conveyance of Prop. to State of MD | posted |  |  |  |  |
 | 398 | CWSP Amendment - Goose Neck Rd.) - Sept. 2026 | posted |  |  |  | ✓ |
-| 397 | CWSP Amendment - 5586 Leeward Lane, Tilghman) Sept. 2026 | posted |  |  |  | ✓ |
-| 396 | CWSP Amendment - 27414 Ferry Bridge Rd.) - Sept. 2026 | posted |  |  |  | ✓ |
+| 397 | CWSP Amendment 5586 Leeward Lane, Tilghman) Sept. 2026 | enacted | October 13,2026 |  |  | ✓ |
+| 396 | CWSP Amendment 27414 Ferry Bridge Rd, Easton) Sept. 2026 | enacted | October 13,2026 |  |  | ✓ |
 | 395 | Temp. Moratorium on Appl., etc. - Data Centers | enacted | September 8,2026 |  |  |  |
 | 394 | Res. to Amend Res. 175 | enacted | June 9, 2026 |  |  |  |
 | 393 | CWSP Amendment (St. Michaels Rd | enacted | April 14, 2026 |  |  | ✓ |
@@ -181,8 +186,11 @@
 | 317 | CWSP Amendment - Region II Emergency Generator - March 2022 | enacted |  |  |  | ✓ |
 | 316 | CWSP Amendment - Force Main and Vacuum Sensors - March 2022 | enacted | April 26, 2022 |  |  | ✓ |
 | 315 | CWSP Amendment - Town of Easton's Glebe Wastewater Treatment Plant - March 2022 | enacted | April 26, 2022 |  |  | ✓ |
+| 314 | Authorizing Transfer of Portion of Brooks Lane to Town of St. Michaels | enacted | January 11, 2022 | January 11, 2022 |  |  |
+| 311 | as amended and enrolled January 25 2022 | enacted | January 25, 2022 | January 25, 2022 |  |  |
 | 302 | Res. to Approve Execution of Lease of Unimproved Land at Easton Airport | enacted | June 8, 2021 |  |  |  |
 | 281 | Minority PC Opinion) 8-10-2020 | posted | September 11, 2018 |  |  |  |
+| 235 | Bid No. 22-19 Phase 2 - Resolution 235 Foremain Installation | posted |  |  |  |  |
 | 143 | CWSP Amendment - Unionville - Tunis Mills) July 2007 | enacted |  |  |  | ✓ |
 | 142 | CWSP Amendment - Town of Oxford ) July 2007 | enacted | August 28, 2007 |  |  | ✓ |
 | 141 | CWSP Amendment - Revise Talbot Co. Septage Mgmt. Plan) July 2007 | enacted |  |  |  | ✓ |
@@ -213,7 +221,10 @@
 | Administrative Resol. - Amending Membership of Senior Citizens Task Force (Faith Community and DSS) | Administrative Resol. - Amending Membership of Senior Citizens Task Force (Faith Community and DSS | posted |  |  |  |  |
 | Administrative Resolution (Authorizing Issuance and Sale of Gen. Oblig. Bonds in Sum of $26,900,000) As Approved | Administrative Resolution (Authorizing Issuance and Sale of Gen. Oblig. Bonds in Sum of $26,900,000) As Approved | enacted |  |  |  |  |
 | Administrative Resolution (Change of Starting Time of Leg. Sessions - 11-12-2024) | Administrative Resolution (Change of Starting Time of Leg. Sessions - 11-12-2024 | posted |  |  |  |  |
+| Administrative Resolution - Burn Ban - Oct 2024 | Administrative Resolution - Burn Ban - Oct 2024 | posted |  |  |  |  |
 | Administrative Resolution - Diversity AR Repeal (Tabled on 2-25-2025) | Administrative Resolution - Diversity AR Repeal (Tabled on 2-25-2025 | posted |  |  |  |  |
+| Administrative Resolution - designating County Council meeting times | Administrative Resolution - designating County Council meeting times | posted |  |  |  |  |
+| Administrative Resolution Establishing Aa Talbot 250 Commission) | Administrative Resolution Establishing Aa Talbot 250 Commission | posted |  |  |  |  |
 | Resolutio 330 (Res. to Amend CWSP - Town of Easton New South Well - June 2022) As Enacted and Enrolled | Resolutio 330 (Res. to Amend CWSP - Town of Easton New South Well - June 2022 | enacted | July 12, 2022 |  |  | ✓ |
 | Resoluton 329 (Res. to Adopt Temporary Moratorium on Processing of Applications for Large-Scale Solar Energy Systems) | Resoluton 329 (Res. to Adopt Temporary Moratorium on Processing of Applications for Large-Scale Solar Energy Systems | posted |  |  |  |  |
 | Resoluton 336 (CWSP Amendment - Town of Oxford - Sept. 2022) | Resoluton 336 (CWSP Amendment - Town of Oxford - Sept. 2022 | posted |  |  |  | ✓ |

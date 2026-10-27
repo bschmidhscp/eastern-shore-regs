@@ -6,7 +6,7 @@ article: "Article II. Plumbing Standards"
 section: "article-ii-plumbing-standards"
 title: "Article II. Plumbing Standards"
 url: "https://ecode360.com/8725480"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-09-2026"
 ---
 

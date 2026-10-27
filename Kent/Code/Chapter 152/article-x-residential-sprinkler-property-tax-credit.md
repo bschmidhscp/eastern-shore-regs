@@ -6,7 +6,7 @@ article: "Article X. Residential Sprinkler Property Tax Credit"
 section: "article-x-residential-sprinkler-property-tax-credit"
 title: "Article X. Residential Sprinkler Property Tax Credit"
 url: "https://ecode360.com/37070148"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "04-07-2026"
 ---
 

@@ -6,7 +6,7 @@ article: "Article V. Release of Balloons"
 section: "article-v-release-of-balloons"
 title: "Article V. Release of Balloons"
 url: "https://ecode360.com/34571482"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-13-2026"
 ---
 

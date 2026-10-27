@@ -6,7 +6,7 @@ article: "Article VI. Requirements Applicable in Coastal A Zones"
 section: "article-vi-requirements-applicable-in-coastal-a-zones"
 title: "Article VI. Requirements Applicable in Coastal A Zones"
 url: "https://ecode360.com/29937589"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-09-2026"
 ---
 

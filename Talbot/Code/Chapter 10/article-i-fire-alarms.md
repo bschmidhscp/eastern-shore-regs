@@ -6,7 +6,7 @@ article: "Article I. Fire Alarms"
 section: "article-i-fire-alarms"
 title: "Article I. Fire Alarms"
 url: "https://ecode360.com/10154271"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "12-09-2025"
 ---
 

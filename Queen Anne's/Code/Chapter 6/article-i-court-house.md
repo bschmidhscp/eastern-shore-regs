@@ -6,7 +6,7 @@ article: "Article I. Court House"
 section: "article-i-court-house"
 title: "Article I. Court House"
 url: "https://ecode360.com/7129110"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-13-2026"
 ---
 

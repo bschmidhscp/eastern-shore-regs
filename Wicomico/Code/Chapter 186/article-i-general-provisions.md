@@ -6,7 +6,7 @@ article: "Article I. General Provisions"
 section: "article-i-general-provisions"
 title: "Article I. General Provisions"
 url: "https://ecode360.com/10171782"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

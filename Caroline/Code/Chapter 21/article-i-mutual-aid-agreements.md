@@ -6,7 +6,7 @@ article: "Article I. Mutual Aid Agreements"
 section: "article-i-mutual-aid-agreements"
 title: "Article I. Mutual Aid Agreements"
 url: "https://ecode360.com/37773888"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-09-2026"
 ---
 

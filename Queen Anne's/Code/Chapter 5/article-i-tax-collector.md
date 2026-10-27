@@ -6,7 +6,7 @@ article: "Article I. Tax Collector"
 section: "article-i-tax-collector"
 title: "Article I. Tax Collector"
 url: "https://ecode360.com/7128950"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-13-2026"
 ---
 

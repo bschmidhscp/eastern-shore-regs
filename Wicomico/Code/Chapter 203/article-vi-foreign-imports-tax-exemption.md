@@ -6,7 +6,7 @@ article: "Article VI. Foreign Imports Tax Exemption"
 section: "article-vi-foreign-imports-tax-exemption"
 title: "Article VI. Foreign Imports Tax Exemption"
 url: "https://ecode360.com/10172689"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

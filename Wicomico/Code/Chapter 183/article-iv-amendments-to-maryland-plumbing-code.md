@@ -6,7 +6,7 @@ article: "Article IV. Amendments to Maryland Plumbing Code"
 section: "article-iv-amendments-to-maryland-plumbing-code"
 title: "Article IV. Amendments to Maryland Plumbing Code"
 url: "https://ecode360.com/10171754"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

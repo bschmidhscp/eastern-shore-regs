@@ -6,7 +6,7 @@ article: "Article I. Smoking"
 section: "article-i-smoking"
 title: "Article I. Smoking"
 url: "https://ecode360.com/10157933"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "12-09-2025"
 ---
 

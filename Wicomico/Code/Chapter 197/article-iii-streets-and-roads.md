@@ -6,7 +6,7 @@ article: "Article III. Streets and Roads"
 section: "article-iii-streets-and-roads"
 title: "Article III. Streets and Roads"
 url: "https://ecode360.com/10172159"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

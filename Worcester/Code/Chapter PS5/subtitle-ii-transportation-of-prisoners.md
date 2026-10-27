@@ -6,7 +6,7 @@ article: "SUBTITLE II. Transportation of Prisoners"
 section: "subtitle-ii-transportation-of-prisoners"
 title: "SUBTITLE II. Transportation of Prisoners"
 url: "https://ecode360.com/14011334"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "11-18-2025"
 ---
 

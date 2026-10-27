@@ -6,7 +6,7 @@ article: "Article II. Emergency and Disaster Planning"
 section: "article-ii-emergency-and-disaster-planning"
 title: "Article II. Emergency and Disaster Planning"
 url: "https://ecode360.com/10167385"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

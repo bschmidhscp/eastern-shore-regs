@@ -6,7 +6,7 @@ article: "Article V. Snow Emergency Parking"
 section: "article-v-snow-emergency-parking"
 title: "Article V. Snow Emergency Parking"
 url: "https://ecode360.com/14986828"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-03-2025"
 ---
 

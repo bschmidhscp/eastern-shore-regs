@@ -6,7 +6,7 @@ article: "Article III. Department of Emergency Services"
 section: "article-iii-department-of-emergency-services"
 title: "Article III. Department of Emergency Services"
 url: "https://ecode360.com/7130861"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-13-2026"
 ---
 

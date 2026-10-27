@@ -6,7 +6,7 @@ article: "Article I. Drainage, Obstructions, Alterations and Signs"
 section: "article-i-drainage-obstructions-alterations-and-signs"
 title: "Article I. Drainage, Obstructions, Alterations and Signs"
 url: "https://ecode360.com/15793010"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "05-05-2026"
 ---
 

@@ -6,7 +6,7 @@ article: "Article II. Expenditures and Contracts"
 section: "article-ii-expenditures-and-contracts"
 title: "Article II. Expenditures and Contracts"
 url: "https://ecode360.com/15794577"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "05-05-2026"
 ---
 

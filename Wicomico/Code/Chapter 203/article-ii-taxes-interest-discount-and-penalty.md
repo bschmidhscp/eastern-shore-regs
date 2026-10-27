@@ -6,7 +6,7 @@ article: "Article II. Taxes; Interest, Discount and Penalty"
 section: "article-ii-taxes-interest-discount-and-penalty"
 title: "Article II. Taxes; Interest, Discount and Penalty"
 url: "https://ecode360.com/10172666"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

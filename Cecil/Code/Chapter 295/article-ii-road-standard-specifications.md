@@ -6,7 +6,7 @@ article: "Article II. Road Standard Specifications"
 section: "article-ii-road-standard-specifications"
 title: "Article II. Road Standard Specifications"
 url: "https://ecode360.com/15793017"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "05-05-2026"
 ---
 

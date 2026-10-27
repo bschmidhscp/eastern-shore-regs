@@ -6,7 +6,7 @@ article: "Article III. Jurors"
 section: "article-iii-jurors"
 title: "Article III. Jurors"
 url: "https://ecode360.com/11474041"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "04-07-2026"
 ---
 

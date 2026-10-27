@@ -6,7 +6,7 @@ article: "Article II. Collective Bargaining"
 section: "article-ii-collective-bargaining"
 title: "Article II. Collective Bargaining"
 url: "https://ecode360.com/16176065"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "05-05-2026"
 ---
 

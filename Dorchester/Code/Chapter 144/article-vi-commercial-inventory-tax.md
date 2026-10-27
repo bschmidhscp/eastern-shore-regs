@@ -6,7 +6,7 @@ article: "Article VI. Commercial Inventory Tax"
 section: "article-vi-commercial-inventory-tax"
 title: "Article VI. Commercial Inventory Tax"
 url: "https://ecode360.com/10456099"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-03-2025"
 ---
 

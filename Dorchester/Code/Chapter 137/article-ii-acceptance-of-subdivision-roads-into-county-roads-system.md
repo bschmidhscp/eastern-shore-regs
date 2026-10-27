@@ -6,7 +6,7 @@ article: "Article II. Acceptance of Subdivision Roads into County Roads System"
 section: "article-ii-acceptance-of-subdivision-roads-into-county-roads-system"
 title: "Article II. Acceptance of Subdivision Roads into County Roads System"
 url: "https://ecode360.com/10455354"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-03-2025"
 ---
 

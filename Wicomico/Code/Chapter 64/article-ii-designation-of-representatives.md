@@ -6,7 +6,7 @@ article: "Article II. Designation of Representatives"
 section: "article-ii-designation-of-representatives"
 title: "Article II. Designation of Representatives"
 url: "https://ecode360.com/10167782"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

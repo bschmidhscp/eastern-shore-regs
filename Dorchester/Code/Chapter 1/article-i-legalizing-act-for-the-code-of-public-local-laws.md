@@ -6,7 +6,7 @@ article: "Article I. Legalizing Act for the Code of Public Local Laws"
 section: "article-i-legalizing-act-for-the-code-of-public-local-laws"
 title: "Article I. Legalizing Act for the Code of Public Local Laws"
 url: "https://ecode360.com/10452953"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-03-2025"
 ---
 

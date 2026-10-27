@@ -6,7 +6,7 @@ article: "Article I. Right of Entry for Street and Sidewalk Construction"
 section: "article-i-right-of-entry-for-street-and-sidewalk-construction"
 title: "Article I. Right of Entry for Street and Sidewalk Construction"
 url: "https://ecode360.com/10158302"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "12-09-2025"
 ---
 

@@ -6,7 +6,7 @@ article: "Article VI. Tax Credits for Businesses That Create New Jobs"
 section: "article-vi-tax-credits-for-businesses-that-create-new-jobs"
 title: "Article VI. Tax Credits for Businesses That Create New Jobs"
 url: "https://ecode360.com/11475022"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "04-07-2026"
 ---
 

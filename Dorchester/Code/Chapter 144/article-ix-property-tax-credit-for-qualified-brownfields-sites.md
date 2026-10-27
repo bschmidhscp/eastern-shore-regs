@@ -6,7 +6,7 @@ article: "Article IX. Property Tax Credit for Qualified Brownfields Sites"
 section: "article-ix-property-tax-credit-for-qualified-brownfields-sites"
 title: "Article IX. Property Tax Credit for Qualified Brownfields Sites"
 url: "https://ecode360.com/10456175"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-03-2025"
 ---
 

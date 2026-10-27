@@ -6,7 +6,7 @@ article: "SUBTITLE III. Weapons"
 section: "subtitle-iii-weapons"
 title: "SUBTITLE III. Weapons"
 url: "https://ecode360.com/13999181"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "11-18-2025"
 ---
 

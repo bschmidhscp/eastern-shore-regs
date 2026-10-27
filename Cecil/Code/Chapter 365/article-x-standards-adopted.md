@@ -6,7 +6,7 @@ article: "Article X. Standards Adopted"
 section: "article-x-standards-adopted"
 title: "Article X. Standards Adopted"
 url: "https://ecode360.com/15794462"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "05-05-2026"
 ---
 

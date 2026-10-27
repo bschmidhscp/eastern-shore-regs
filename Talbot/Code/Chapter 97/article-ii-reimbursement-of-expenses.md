@@ -6,7 +6,7 @@ article: "Article II. Reimbursement of Expenses"
 section: "article-ii-reimbursement-of-expenses"
 title: "Article II. Reimbursement of Expenses"
 url: "https://ecode360.com/10156911"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "12-09-2025"
 ---
 

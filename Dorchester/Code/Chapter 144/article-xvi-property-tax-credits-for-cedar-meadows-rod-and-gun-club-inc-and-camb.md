@@ -6,7 +6,7 @@ article: "Article XVI. Property Tax Credits for Cedar Meadows Rod and Gun Club, 
 section: "article-xvi-property-tax-credits-for-cedar-meadows-rod-and-gun-club-inc-and-camb"
 title: "Article XVI. Property Tax Credits for Cedar Meadows Rod and Gun Club, Inc. and Cambridge Street and Gun Club Inc."
 url: "https://ecode360.com/14056068"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-03-2025"
 ---
 

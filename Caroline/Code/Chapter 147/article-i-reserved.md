@@ -6,7 +6,7 @@ article: "Article I. (Reserved)"
 section: "article-i-reserved"
 title: "Article I. (Reserved)"
 url: "https://ecode360.com/8725473"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-09-2026"
 ---
 

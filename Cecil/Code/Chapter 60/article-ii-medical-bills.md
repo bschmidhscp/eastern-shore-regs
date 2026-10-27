@@ -6,7 +6,7 @@ article: "Article II. Medical Bills"
 section: "article-ii-medical-bills"
 title: "Article II. Medical Bills"
 url: "https://ecode360.com/15791547"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "05-05-2026"
 ---
 

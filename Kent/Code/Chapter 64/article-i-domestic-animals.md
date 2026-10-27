@@ -6,7 +6,7 @@ article: "Article I. Domestic Animals"
 section: "article-i-domestic-animals"
 title: "Article I. Domestic Animals"
 url: "https://ecode360.com/11474297"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "04-07-2026"
 ---
 

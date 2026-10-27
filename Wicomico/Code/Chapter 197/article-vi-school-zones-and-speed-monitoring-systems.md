@@ -6,7 +6,7 @@ article: "Article VI. School Zones and Speed-Monitoring Systems"
 section: "article-vi-school-zones-and-speed-monitoring-systems"
 title: "Article VI. School Zones and Speed-Monitoring Systems"
 url: "https://ecode360.com/16009089"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

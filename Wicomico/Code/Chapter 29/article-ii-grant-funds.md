@@ -6,7 +6,7 @@ article: "Article II. Grant Funds"
 section: "article-ii-grant-funds"
 title: "Article II. Grant Funds"
 url: "https://ecode360.com/28564988"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

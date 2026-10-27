@@ -6,7 +6,7 @@ article: "Article XVII. Tax Credit to Habitat for Humanity of Talbot and Dorches
 section: "article-xvii-tax-credit-to-habitat-for-humanity-of-talbot-and-dorchester-countie"
 title: "Article XVII. Tax Credit to Habitat for Humanity of Talbot and Dorchester Counties, Inc."
 url: "https://ecode360.com/14056160"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-03-2025"
 ---
 

@@ -6,7 +6,7 @@ article: "Article XVIII. Appeals"
 section: "article-xviii-appeals"
 title: "Article XVIII. Appeals"
 url: "https://ecode360.com/8727902"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-09-2026"
 ---
 

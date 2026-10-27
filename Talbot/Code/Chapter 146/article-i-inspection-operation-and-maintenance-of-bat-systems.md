@@ -6,7 +6,7 @@ article: "Article I. Inspection, Operation and Maintenance of BAT Systems"
 section: "article-i-inspection-operation-and-maintenance-of-bat-systems"
 title: "Article I. Inspection, Operation and Maintenance of BAT Systems"
 url: "https://ecode360.com/30727043"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "12-09-2025"
 ---
 

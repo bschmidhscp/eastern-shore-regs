@@ -6,7 +6,7 @@ article: "Article IV. Opening and Closing of County Public Roads"
 section: "article-iv-opening-and-closing-of-county-public-roads"
 title: "Article IV. Opening and Closing of County Public Roads"
 url: "https://ecode360.com/10453100"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-03-2025"
 ---
 

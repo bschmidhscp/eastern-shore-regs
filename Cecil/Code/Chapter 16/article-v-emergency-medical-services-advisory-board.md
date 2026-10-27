@@ -6,7 +6,7 @@ article: "Article V. Emergency Medical Services Advisory Board"
 section: "article-v-emergency-medical-services-advisory-board"
 title: "Article V. Emergency Medical Services Advisory Board"
 url: "https://ecode360.com/45795436"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "05-05-2026"
 ---
 

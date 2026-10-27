@@ -6,7 +6,7 @@ article: "Article III. Defense and Indemnification"
 section: "article-iii-defense-and-indemnification"
 title: "Article III. Defense and Indemnification"
 url: "https://ecode360.com/10156916"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "12-09-2025"
 ---
 

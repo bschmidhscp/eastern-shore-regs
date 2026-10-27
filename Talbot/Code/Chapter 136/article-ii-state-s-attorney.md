@@ -6,7 +6,7 @@ article: "Article II. State's Attorney"
 section: "article-ii-state-s-attorney"
 title: "Article II. State's Attorney"
 url: "https://ecode360.com/10157533"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "12-09-2025"
 ---
 

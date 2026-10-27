@@ -6,7 +6,7 @@ article: "Article II. Fox Hunting Club Dog Kennels Licenses"
 section: "article-ii-fox-hunting-club-dog-kennels-licenses"
 title: "Article II. Fox Hunting Club Dog Kennels Licenses"
 url: "https://ecode360.com/48295834"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "04-07-2026"
 ---
 

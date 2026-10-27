@@ -6,7 +6,7 @@ article: "Article VIII. Clean Energy Loan Program"
 section: "article-viii-clean-energy-loan-program"
 title: "Article VIII. Clean Energy Loan Program"
 url: "https://ecode360.com/30820082"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-13-2026"
 ---
 

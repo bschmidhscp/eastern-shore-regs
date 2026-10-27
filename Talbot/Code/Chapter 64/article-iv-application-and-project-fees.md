@@ -6,7 +6,7 @@ article: "Article IV. Application and Project Fees"
 section: "article-iv-application-and-project-fees"
 title: "Article IV. Application and Project Fees"
 url: "https://ecode360.com/12222802"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "12-09-2025"
 ---
 

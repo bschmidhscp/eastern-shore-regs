@@ -6,7 +6,7 @@ article: "Article II. Graffiti"
 section: "article-ii-graffiti"
 title: "Article II. Graffiti"
 url: "https://ecode360.com/14928741"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

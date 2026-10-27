@@ -6,7 +6,7 @@ article: "SUBTITLE IX. Food and Beverage Sales Tax"
 section: "subtitle-ix-food-and-beverage-sales-tax"
 title: "SUBTITLE IX. Food and Beverage Sales Tax"
 url: "https://ecode360.com/14012312"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "11-18-2025"
 ---
 

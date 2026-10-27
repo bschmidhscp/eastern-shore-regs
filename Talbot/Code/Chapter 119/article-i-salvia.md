@@ -6,7 +6,7 @@ article: "Article I. Salvia"
 section: "article-i-salvia"
 title: "Article I. Salvia"
 url: "https://ecode360.com/15390654"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "12-09-2025"
 ---
 

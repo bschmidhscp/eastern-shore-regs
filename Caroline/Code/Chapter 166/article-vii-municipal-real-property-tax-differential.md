@@ -6,7 +6,7 @@ article: "Article VII. Municipal Real Property Tax Differential"
 section: "article-vii-municipal-real-property-tax-differential"
 title: "Article VII. Municipal Real Property Tax Differential"
 url: "https://ecode360.com/8726664"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-09-2026"
 ---
 

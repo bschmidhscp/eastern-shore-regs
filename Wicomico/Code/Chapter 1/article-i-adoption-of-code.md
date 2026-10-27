@@ -6,7 +6,7 @@ article: "Article I. Adoption of Code"
 section: "article-i-adoption-of-code"
 title: "Article I. Adoption of Code"
 url: "https://ecode360.com/10167235"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

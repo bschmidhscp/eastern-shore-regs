@@ -6,7 +6,7 @@ article: "Article II. Adult-Oriented Entertainment Establishments"
 section: "article-ii-adult-oriented-entertainment-establishments"
 title: "Article II. Adult-Oriented Entertainment Establishments"
 url: "https://ecode360.com/10171405"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

@@ -6,7 +6,7 @@ article: "SUBTITLE IV. Defacement"
 section: "subtitle-iv-defacement"
 title: "SUBTITLE IV. Defacement"
 url: "https://ecode360.com/13999198"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "11-18-2025"
 ---
 

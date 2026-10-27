@@ -6,7 +6,7 @@ article: "Article XI. Property Tax Credit for Shoreline Erosion Control Structur
 section: "article-xi-property-tax-credit-for-shoreline-erosion-control-structures"
 title: "Article XI. Property Tax Credit for Shoreline Erosion Control Structures"
 url: "https://ecode360.com/10456242"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-03-2025"
 ---
 

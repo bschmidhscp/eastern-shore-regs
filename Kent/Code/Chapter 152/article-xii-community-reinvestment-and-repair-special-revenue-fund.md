@@ -6,7 +6,7 @@ article: "Article XII. Community Reinvestment and Repair Special Revenue Fund"
 section: "article-xii-community-reinvestment-and-repair-special-revenue-fund"
 title: "Article XII. Community Reinvestment and Repair Special Revenue Fund"
 url: "https://ecode360.com/48295227"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "04-07-2026"
 ---
 

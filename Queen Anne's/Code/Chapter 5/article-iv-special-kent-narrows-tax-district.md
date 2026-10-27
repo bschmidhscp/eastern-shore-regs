@@ -6,7 +6,7 @@ article: "Article IV. Special Kent Narrows Tax District"
 section: "article-iv-special-kent-narrows-tax-district"
 title: "Article IV. Special Kent Narrows Tax District"
 url: "https://ecode360.com/7129061"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-13-2026"
 ---
 

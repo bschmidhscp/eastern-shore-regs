@@ -6,7 +6,7 @@ article: "Article IV. Removal From Office"
 section: "article-iv-removal-from-office"
 title: "Article IV. Removal From Office"
 url: "https://ecode360.com/39800456"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

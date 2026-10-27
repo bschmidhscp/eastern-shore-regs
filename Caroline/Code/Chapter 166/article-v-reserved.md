@@ -6,7 +6,7 @@ article: "Article V. (Reserved)"
 section: "article-v-reserved"
 title: "Article V. (Reserved)"
 url: "https://ecode360.com/8726591"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-09-2026"
 ---
 

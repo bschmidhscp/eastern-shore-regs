@@ -6,7 +6,7 @@ article: "Article XX. Uses and Standards Enumerated"
 section: "article-xx-uses-and-standards-enumerated"
 title: "Article XX. Uses and Standards Enumerated"
 url: "https://ecode360.com/10174580"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

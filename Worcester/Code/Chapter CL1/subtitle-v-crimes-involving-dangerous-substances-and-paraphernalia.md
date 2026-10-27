@@ -6,7 +6,7 @@ article: "SUBTITLE V. Crimes Involving Dangerous Substances and Paraphernalia"
 section: "subtitle-v-crimes-involving-dangerous-substances-and-paraphernalia"
 title: "SUBTITLE V. Crimes Involving Dangerous Substances and Paraphernalia"
 url: "https://ecode360.com/14012857"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "11-18-2025"
 ---
 

@@ -6,7 +6,7 @@ article: "SUBTITLE VI. Special Hazards Response Team"
 section: "subtitle-vi-special-hazards-response-team"
 title: "SUBTITLE VI. Special Hazards Response Team"
 url: "https://ecode360.com/14012918"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "11-18-2025"
 ---
 

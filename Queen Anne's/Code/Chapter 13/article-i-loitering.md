@@ -6,7 +6,7 @@ article: "Article I. Loitering"
 section: "article-i-loitering"
 title: "Article I. Loitering"
 url: "https://ecode360.com/7130130"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-13-2026"
 ---
 

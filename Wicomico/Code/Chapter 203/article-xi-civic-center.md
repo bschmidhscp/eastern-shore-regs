@@ -6,7 +6,7 @@ article: "Article XI. Civic Center"
 section: "article-xi-civic-center"
 title: "Article XI. Civic Center"
 url: "https://ecode360.com/10172758"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

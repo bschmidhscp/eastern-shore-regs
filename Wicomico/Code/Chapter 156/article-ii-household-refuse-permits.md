@@ -6,7 +6,7 @@ article: "Article II. Household Refuse Permits"
 section: "article-ii-household-refuse-permits"
 title: "Article II. Household Refuse Permits"
 url: "https://ecode360.com/10170752"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

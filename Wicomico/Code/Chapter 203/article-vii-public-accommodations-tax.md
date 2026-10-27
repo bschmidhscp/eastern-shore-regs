@@ -6,7 +6,7 @@ article: "Article VII. Public Accommodations Tax"
 section: "article-vii-public-accommodations-tax"
 title: "Article VII. Public Accommodations Tax"
 url: "https://ecode360.com/10172694"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

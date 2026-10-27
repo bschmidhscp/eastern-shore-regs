@@ -6,7 +6,7 @@ article: "Article I. Installation of Pipes for Private Roads and Driveways Adjac
 section: "article-i-installation-of-pipes-for-private-roads-and-driveways-adjacent-to-coun"
 title: "Article I. Installation of Pipes for Private Roads and Driveways Adjacent to County Roads"
 url: "https://ecode360.com/10455338"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-03-2025"
 ---
 

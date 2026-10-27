@@ -6,7 +6,7 @@ article: "Article V. Interest on Delinquent County Real Estate Taxes and Persona
 section: "article-v-interest-on-delinquent-county-real-estate-taxes-and-personal-property"
 title: "Article V. Interest on Delinquent County Real Estate Taxes and Personal Property Taxes"
 url: "https://ecode360.com/10456094"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-03-2025"
 ---
 

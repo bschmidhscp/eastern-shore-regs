@@ -6,7 +6,7 @@ article: "Article I. Volunteer Fire Companies"
 section: "article-i-volunteer-fire-companies"
 title: "Article I. Volunteer Fire Companies"
 url: "https://ecode360.com/7130820"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-13-2026"
 ---
 

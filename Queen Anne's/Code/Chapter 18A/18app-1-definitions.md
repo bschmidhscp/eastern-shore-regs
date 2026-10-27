@@ -6,7 +6,7 @@ article: ""
 section: "18app-1-definitions"
 title: "§ 18App-1. Definitions."
 url: "https://ecode360.com/7143297"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-13-2026"
 ---
 

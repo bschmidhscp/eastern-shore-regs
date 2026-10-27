@@ -6,7 +6,7 @@ article: "Article III. Historic Property Tax Credit"
 section: "article-iii-historic-property-tax-credit"
 title: "Article III. Historic Property Tax Credit"
 url: "https://ecode360.com/15794088"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "05-05-2026"
 ---
 

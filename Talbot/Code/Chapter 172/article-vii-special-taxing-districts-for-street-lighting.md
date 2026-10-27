@@ -6,7 +6,7 @@ article: "Article VII. Special Taxing Districts for Street Lighting"
 section: "article-vii-special-taxing-districts-for-street-lighting"
 title: "Article VII. Special Taxing Districts for Street Lighting"
 url: "https://ecode360.com/36698056"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "12-09-2025"
 ---
 

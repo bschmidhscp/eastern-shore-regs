@@ -6,7 +6,7 @@ article: "Article II. Law Library"
 section: "article-ii-law-library"
 title: "Article II. Law Library"
 url: "https://ecode360.com/7129114"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-13-2026"
 ---
 

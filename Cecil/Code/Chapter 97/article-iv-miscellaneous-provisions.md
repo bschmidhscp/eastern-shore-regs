@@ -6,7 +6,7 @@ article: "Article IV. Miscellaneous Provisions"
 section: "article-iv-miscellaneous-provisions"
 title: "Article IV. Miscellaneous Provisions"
 url: "https://ecode360.com/15791859"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "05-05-2026"
 ---
 

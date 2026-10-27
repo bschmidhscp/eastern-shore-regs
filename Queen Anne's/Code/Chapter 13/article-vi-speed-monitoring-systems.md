@@ -6,7 +6,7 @@ article: "Article VI. Speed Monitoring Systems"
 section: "article-vi-speed-monitoring-systems"
 title: "Article VI. Speed Monitoring Systems"
 url: "https://ecode360.com/51421426"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-13-2026"
 ---
 

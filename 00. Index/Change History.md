@@ -2,6 +2,21 @@
 
 *Generated on each sync. Shows which regulation text changed and the exact wording differences (`-` removed, `+` added). Narrative context is in the Project Log.*
 
+## 2026-10-27 — Monthly refresh 2026-10-27
+
+- New text files: 682
+- Files whose content changed: 3
+
+### Cecil/Code/Chapter A387/00. History.md
+```diff
+```
+### Dorchester/Code/Chapter 10/00. History.md
+```diff
+```
+### Queen Anne's/Code/Chapter 19/00. History.md
+```diff
+```
+
 ## 2026-10-27 — Project Log: sign-in token fix, guest fallback fix, regs refresh test; Operations Manual: Access AUD
 
 

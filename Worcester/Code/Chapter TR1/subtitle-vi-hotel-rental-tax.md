@@ -6,7 +6,7 @@ article: "SUBTITLE VI. Hotel Rental Tax"
 section: "subtitle-vi-hotel-rental-tax"
 title: "SUBTITLE VI. Hotel Rental Tax"
 url: "https://ecode360.com/14012277"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "11-18-2025"
 ---
 

@@ -6,7 +6,7 @@ article: "Article IX. Business Personal Property Taxes on Public Utilities"
 section: "article-ix-business-personal-property-taxes-on-public-utilities"
 title: "Article IX. Business Personal Property Taxes on Public Utilities"
 url: "https://ecode360.com/33144909"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "04-07-2026"
 ---
 

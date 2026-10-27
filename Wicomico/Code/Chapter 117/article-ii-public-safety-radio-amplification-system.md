@@ -6,7 +6,7 @@ article: "Article II. Public Safety Radio Amplification System"
 section: "article-ii-public-safety-radio-amplification-system"
 title: "Article II. Public Safety Radio Amplification System"
 url: "https://ecode360.com/10168225"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

@@ -6,7 +6,7 @@ article: "Article I. County Commissioners"
 section: "article-i-county-commissioners"
 title: "Article I. County Commissioners"
 url: "https://ecode360.com/7128732"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-13-2026"
 ---
 

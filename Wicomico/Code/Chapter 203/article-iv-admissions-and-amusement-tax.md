@@ -6,7 +6,7 @@ article: "Article IV. Admissions and Amusement Tax"
 section: "article-iv-admissions-and-amusement-tax"
 title: "Article IV. Admissions and Amusement Tax"
 url: "https://ecode360.com/10172673"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

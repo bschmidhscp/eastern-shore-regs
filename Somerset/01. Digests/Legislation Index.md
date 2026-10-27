@@ -2,7 +2,7 @@
 
 *One row per bill/resolution (latest version). Zoning = amends Chapter Zoning Ordinance (Ord. 1144, 2019; current consolidated w/ amendments PDF - see documents); W&S = water & sewer plan amendment. Open the file only if you need the text.*
 
-## Bills (10)
+## Bills (12)
 
 | No. | Title | Status | Enacted | Effective | Zoning | W&S |
 |---|---|---|---|---|---|---|
@@ -10,6 +10,8 @@
 | 1192 | Housing Board of Review Reorganization 2023 | posted |  |  |  |  |
 | 1173 |  | posted |  |  |  |  |
 | 2026 UPDATE DRAFT_v2 | 2026 UPDATE DRAFT_v2 | posted |  |  |  |  |
+| CRRF Amended Ordinance_Draft | CRRF Amended Ordinance_Draft | posted |  |  |  |  |
+| Ordinance 1237 - 2026 Forest Conservation Program Ordinance | Ordinance 1237 - 2026 Forest Conservation Program Ordinance | posted |  |  |  |  |
 | R 1200 Tipping Fee | R 1200 Tipping Fee | posted |  |  |  |  |
 | SOCO Zoning Ordinance - August 2026 Amendments FINAL_v1 | SOCO Zoning Ordinance - August 2026 Amendments FINAL_v1 | posted |  |  |  |  |
 | SOCO Zoning Ordinance - August 2026 Amendments ONLY FINAL_v1 | SOCO Zoning Ordinance - August 2026 Amendments ONLY FINAL_v1 | posted |  |  |  |  |

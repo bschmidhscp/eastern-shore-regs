@@ -6,7 +6,7 @@ article: "Article I. County Finance Officer"
 section: "article-i-county-finance-officer"
 title: "Article I. County Finance Officer"
 url: "https://ecode360.com/10156892"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "12-09-2025"
 ---
 

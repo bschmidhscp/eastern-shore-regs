@@ -6,7 +6,7 @@ article: "Article XI. Hotel Rental Tax"
 section: "article-xi-hotel-rental-tax"
 title: "Article XI. Hotel Rental Tax"
 url: "https://ecode360.com/8726690"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-09-2026"
 ---
 

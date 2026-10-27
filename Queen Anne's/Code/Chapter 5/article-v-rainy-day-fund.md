@@ -6,7 +6,7 @@ article: "Article V. Rainy Day Fund"
 section: "article-v-rainy-day-fund"
 title: "Article V. Rainy Day Fund"
 url: "https://ecode360.com/27116856"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-13-2026"
 ---
 

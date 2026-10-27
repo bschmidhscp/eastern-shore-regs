@@ -6,7 +6,7 @@ article: "Article V. Junked Vehicles; Traffic Hazards"
 section: "article-v-junked-vehicles-traffic-hazards"
 title: "Article V. Junked Vehicles; Traffic Hazards"
 url: "https://ecode360.com/15794311"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "05-05-2026"
 ---
 

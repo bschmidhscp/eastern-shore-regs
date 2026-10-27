@@ -6,7 +6,7 @@ article: "Article VIII. Property Tax Credit: Commerce Zones"
 section: "article-viii-property-tax-credit-commerce-zones"
 title: "Article VIII. Property Tax Credit: Commerce Zones"
 url: "https://ecode360.com/33144893"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "04-07-2026"
 ---
 

@@ -6,7 +6,7 @@ article: "Article XV. Senior Citizens' Tax Credit"
 section: "article-xv-senior-citizens-tax-credit"
 title: "Article XV. Senior Citizens' Tax Credit"
 url: "https://ecode360.com/10456267"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-03-2025"
 ---
 

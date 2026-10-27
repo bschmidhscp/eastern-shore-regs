@@ -2,7 +2,7 @@
 
 *One row per bill/resolution (latest version). Zoning = amends Chapter 225; W&S = water & sewer plan amendment. Open the file only if you need the text.*
 
-## Bills (78)
+## Bills (80)
 
 | No. | Title | Status | Enacted | Effective | Zoning | W&S |
 |---|---|---|---|---|---|---|
@@ -72,7 +72,9 @@
 | Leg-Bill-2026-09-ENROLLED | Leg-Bill-2026-09-ENROLLED | enacted |  |  |  |  |
 | Leg-Bill-2026-09-Introduced | Leg-Bill-2026-09-Introduced | introduced |  |  |  |  |
 | Leg-Bill-2026-10-ENROLLED | Leg-Bill-2026-10-ENROLLED | enacted |  |  |  |  |
+| Leg-Bill-2026-11-ENROLLED | Leg-Bill-2026-11-ENROLLED | enacted |  |  |  |  |
 | Leg-Bill-2026-11-INTRODUCED | Leg-Bill-2026-11-INTRODUCED | introduced |  |  |  |  |
+| Leg-Bill-2026-12-ENROLLED | Leg-Bill-2026-12-ENROLLED | enacted |  |  |  |  |
 | Leg-Bill-2026-12-INTRODUCED | Leg-Bill-2026-12-INTRODUCED | introduced |  |  |  |  |
 | Leg-Bill-2026-13-INTRODUCED | Leg-Bill-2026-13-INTRODUCED | introduced |  |  | ✓ |  |
 | Leg-Bill-No-2025-06-ENROLLED | Leg-Bill-No-2025-06-ENROLLED | enacted |  |  |  |  |

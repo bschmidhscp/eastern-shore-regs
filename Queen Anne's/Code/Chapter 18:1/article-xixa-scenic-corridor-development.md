@@ -6,7 +6,7 @@ article: "Article XIXA. Scenic Corridor Development"
 section: "article-xixa-scenic-corridor-development"
 title: "Article XIXA. Scenic Corridor Development"
 url: "https://ecode360.com/7140915"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-13-2026"
 ---
 

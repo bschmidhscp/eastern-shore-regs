@@ -6,7 +6,7 @@ article: "Article I. Orphan's Court"
 section: "article-i-orphan-s-court"
 title: "Article I. Orphan's Court"
 url: "https://ecode360.com/10155279"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "12-09-2025"
 ---
 

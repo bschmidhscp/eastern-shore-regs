@@ -6,7 +6,7 @@ article: "Article I. Health Department Fees"
 section: "article-i-health-department-fees"
 title: "Article I. Health Department Fees"
 url: "https://ecode360.com/10155417"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "12-09-2025"
 ---
 

@@ -6,7 +6,7 @@ article: "Article V. County Income Tax"
 section: "article-v-county-income-tax"
 title: "Article V. County Income Tax"
 url: "https://ecode360.com/10172686"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

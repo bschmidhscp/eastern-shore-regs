@@ -6,7 +6,7 @@ article: "Article I. Election Districts"
 section: "article-i-election-districts"
 title: "Article I. Election Districts"
 url: "https://ecode360.com/11474110"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "04-07-2026"
 ---
 

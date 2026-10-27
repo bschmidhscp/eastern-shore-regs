@@ -6,7 +6,7 @@ article: "SUBTITLE II. Construction Standards"
 section: "subtitle-ii-construction-standards"
 title: "SUBTITLE II. Construction Standards"
 url: "https://ecode360.com/14004469"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "11-18-2025"
 ---
 

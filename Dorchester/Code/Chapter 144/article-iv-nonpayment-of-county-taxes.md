@@ -6,7 +6,7 @@ article: "Article IV. Nonpayment of County Taxes"
 section: "article-iv-nonpayment-of-county-taxes"
 title: "Article IV. Nonpayment of County Taxes"
 url: "https://ecode360.com/10456092"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-03-2025"
 ---
 

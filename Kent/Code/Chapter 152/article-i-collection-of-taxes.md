@@ -6,7 +6,7 @@ article: "Article I. Collection of Taxes"
 section: "article-i-collection-of-taxes"
 title: "Article I. Collection of Taxes"
 url: "https://ecode360.com/11474987"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "04-07-2026"
 ---
 

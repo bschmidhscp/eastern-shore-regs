@@ -6,7 +6,7 @@ article: "SUBTITLE I. Shared Sanitary Facilities"
 section: "subtitle-i-shared-sanitary-facilities"
 title: "SUBTITLE I. Shared Sanitary Facilities"
 url: "https://ecode360.com/13999856"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "11-18-2025"
 ---
 

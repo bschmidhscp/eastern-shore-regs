@@ -6,7 +6,7 @@ article: "Article I. Crystal Beach Manor"
 section: "article-i-crystal-beach-manor"
 title: "Article I. Crystal Beach Manor"
 url: "https://ecode360.com/15791875"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "05-05-2026"
 ---
 

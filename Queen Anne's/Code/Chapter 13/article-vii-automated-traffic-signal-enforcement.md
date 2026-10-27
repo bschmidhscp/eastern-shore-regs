@@ -6,7 +6,7 @@ article: "Article VII. Automated Traffic Signal Enforcement"
 section: "article-vii-automated-traffic-signal-enforcement"
 title: "Article VII. Automated Traffic Signal Enforcement"
 url: "https://ecode360.com/51421427"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-13-2026"
 ---
 

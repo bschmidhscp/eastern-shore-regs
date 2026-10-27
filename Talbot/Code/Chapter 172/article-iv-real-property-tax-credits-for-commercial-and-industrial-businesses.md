@@ -6,7 +6,7 @@ article: "Article IV. Real Property Tax Credits for Commercial and Industrial Bu
 section: "article-iv-real-property-tax-credits-for-commercial-and-industrial-businesses"
 title: "Article IV. Real Property Tax Credits for Commercial and Industrial Businesses"
 url: "https://ecode360.com/10158845"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "12-09-2025"
 ---
 

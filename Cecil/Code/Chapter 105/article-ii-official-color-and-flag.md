@@ -6,7 +6,7 @@ article: "Article II. Official Color and Flag"
 section: "article-ii-official-color-and-flag"
 title: "Article II. Official Color and Flag"
 url: "https://ecode360.com/15791868"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "05-05-2026"
 ---
 

@@ -6,7 +6,7 @@ article: "Article IV. Use and Installation of Tidegates"
 section: "article-iv-use-and-installation-of-tidegates"
 title: "Article IV. Use and Installation of Tidegates"
 url: "https://ecode360.com/10455383"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-03-2025"
 ---
 

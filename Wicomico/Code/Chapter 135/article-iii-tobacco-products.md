@@ -6,7 +6,7 @@ article: "Article III. Tobacco Products"
 section: "article-iii-tobacco-products"
 title: "Article III. Tobacco Products"
 url: "https://ecode360.com/10170168"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

@@ -6,7 +6,7 @@ article: "SUBTITLE IV. Subsurface Conditions"
 section: "subtitle-iv-subsurface-conditions"
 title: "SUBTITLE IV. Subsurface Conditions"
 url: "https://ecode360.com/14004782"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "11-18-2025"
 ---
 

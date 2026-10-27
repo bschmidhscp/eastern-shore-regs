@@ -6,7 +6,7 @@ article: "Article II. Miscellaneous"
 section: "article-ii-miscellaneous"
 title: "Article II. Miscellaneous"
 url: "https://ecode360.com/11757158"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-03-2025"
 ---
 

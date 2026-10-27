@@ -6,7 +6,7 @@ article: "Article II. Drug-Free School Zones"
 section: "article-ii-drug-free-school-zones"
 title: "Article II. Drug-Free School Zones"
 url: "https://ecode360.com/10170160"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "unknown"
 ---
 

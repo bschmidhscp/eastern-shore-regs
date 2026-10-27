@@ -6,7 +6,7 @@ article: "Article VI. Commission on Veterans' Affairs"
 section: "article-vi-commission-on-veterans-affairs"
 title: "Article VI. Commission on Veterans' Affairs"
 url: "https://ecode360.com/45795440"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "05-05-2026"
 ---
 

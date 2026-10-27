@@ -6,7 +6,7 @@ article: "Article XVI. Historic Structures"
 section: "article-xvi-historic-structures"
 title: "Article XVI. Historic Structures"
 url: "https://ecode360.com/7140351"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-13-2026"
 ---
 

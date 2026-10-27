@@ -6,7 +6,7 @@ article: "Article III. Development Impact Fees"
 section: "article-iii-development-impact-fees"
 title: "Article III. Development Impact Fees"
 url: "https://ecode360.com/10155443"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "12-09-2025"
 ---
 

@@ -6,7 +6,7 @@ article: "Article I. Other Post Employment Benefits Trust"
 section: "article-i-other-post-employment-benefits-trust"
 title: "Article I. Other Post Employment Benefits Trust"
 url: "https://ecode360.com/13562289"
-retrieved: "2026-10-11"
+retrieved: "2026-10-27"
 current_through: "06-03-2025"
 ---
 
