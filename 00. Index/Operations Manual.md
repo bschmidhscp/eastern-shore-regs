@@ -41,6 +41,13 @@ is opened, so both partners should **Watch** the screener repo (top right of the
 
 ## Common tasks
 
+- **Share the board with someone for 2 hours**: on the board, tap **Share** (top right; partners only), pick the
+  contact in Messages. The link opens a read-only board at `guest.highsidecapitalpartners.com` on the first phone or
+  computer that opens it (another device can take it over only in the first 5 minutes, e.g. Messages → Safari). Guests
+  never see the tracker, notes, quotes, max bid, the owner's expectation, offer credibility or seller signals.
+  **Pipeline → Guest links** shows each link: opened or not, on what device, roughly where, how many views, with
+  **Revoke** and **Turn off all**. Emergency off for every guest link: set `GUEST_LINKS_OFF = "1"` in
+  `site/wrangler.toml` and redeploy (or ask Claude).
 - **Add or remove someone's sign-in**: Cloudflare dashboard → Zero Trust → Access → Applications → Deal Board →
   Policies → Partners → edit the emails. (Or ask Claude; it keeps a token that can do this.)
 - **Open an original document**: take its path from the county's `Manifest.csv` and open
@@ -71,7 +78,8 @@ is opened, so both partners should **Watch** the screener repo (top right of the
 | RentCast API key | Listing searches | GitHub secret `RENTCAST_API_KEY`; Mac `~/.config/esl/rentcast.key` | RentCast dashboard; update both |
 | Wrangler login (Mac only) | Deploying the site from the Mac | Mac `~/Library/Preferences/.wrangler/` | `npx wrangler login` in `site/` |
 | *Pending:* Claude token | Lets the regs refresh write its AI review | GitHub secret `CLAUDE_CODE_OAUTH_TOKEN` | `claude setup-token` on a computer, paste into the secret |
-| *Pending:* regs deploy key | Lets the regs refresh push the GitHub mirror | GitHub secret `REGS_DEPLOY_KEY` + the regs repo's Deploy keys | Settings → Deploy keys on `eastern-shore-regs` |
+| Regs deploy key | Lets the regs refresh push the GitHub mirror (that repo only) | GitHub secret `REGS_DEPLOY_KEY` + the regs repo's Deploy keys | Settings → Deploy keys on `eastern-shore-regs`: delete, then ask Claude for a new one |
+| Guest-link sealing key | Seals guest passes so they can't be forged | Cloudflare Pages secret `GUEST_SECRET` | `npx wrangler pages secret put GUEST_SECRET` in `site/` with a new random value (ends every live guest link) |
 
 ## Costs
 

@@ -122,6 +122,18 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
+### 2026-10-27 — Guest links: share the board for 2 hours with one tap (Brian + Claude)
+- **Share** on the board (partners only) makes a link and opens the phone's share sheet. The recipient taps it and is
+  in, no sign-in, for 2 hours, on the first device that opens it (a second device can take over only within 5
+  minutes, e.g. Messages' preview browser → Safari). Link previews in Messages can't use up the link.
+- Guests get a read-only board at `guest.highsidecapitalpartners.com`: deals, map, analysis, budgets and original
+  documents, without the tracker, notes, quotes, max bid, owner's expectation, offer credibility or seller signals
+  (removed from what their browser receives, not just hidden). Owner names were never on the board.
+- **Pipeline → Guest links** logs each link (opened on, rough place, views) with Revoke and Turn off all.
+- Verified on the live site: the guest address refuses every page, file and API without a pass; partner addresses are
+  still behind the email sign-in. Code: PR #54. Also fixed: original documents with spaces in their names didn't open.
+- Also tonight: DMARC record added (monitor-only) and a deploy key for the regs mirror, both approved by Brian.
+
 ### 2026-10-27 — Monthly refresh (cloud run)
 - **Pipeline:** 277,171 parcels → 11,989 staff-approvable candidates → 1,105 profitable if approved → **341 Diligence · 84 Pursue**.
 - Changed since the last publish: **4 new Pursue · 6 dropped · 0 newly listed · 0 price cuts · 0 newly flagged**

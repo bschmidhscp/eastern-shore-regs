@@ -2,6 +2,9 @@
 
 *Generated on each sync. Shows which regulation text changed and the exact wording differences (`-` removed, `+` added). Narrative context is in the Project Log.*
 
+## 2026-10-27 — Guest links; Operations Manual and log
+
+
 ## 2026-10-26 — Regs tools: incremental code/meetings/index, archived-original fixes; Operations Manual; log cleanup
 
 

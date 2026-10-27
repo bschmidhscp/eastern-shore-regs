@@ -14,6 +14,11 @@ HIST="00. Index/Change History.md"
 # lines that change on every refresh and aren't real content changes
 NOISE=(-I '^retrieved: ' -I '^current_through: ' -I 'retrieved [0-9-]+\)')
 
+# Line up with GitHub first: the cloud refresh and this Mac both push the mirror. Drive is the source of truth, so the
+# commit is simply "Drive as it is now" on top of whatever GitHub has (a soft reset keeps the working tree as is).
+if [ -z "${ESL_NO_PUSH:-}" ] && git fetch -q origin main 2>/dev/null; then
+  git reset -q --soft FETCH_HEAD
+fi
 git add -A
 if git diff --cached --quiet; then
   echo "No changes."
