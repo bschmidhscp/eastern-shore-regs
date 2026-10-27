@@ -12,7 +12,7 @@ For the project itself see Start Here; for what happened when, the Project Log. 
 | Mondays, ~7 AM ET | **Site health check**: from outside with no sign-in, confirms the board, its data and originals ask for sign-in, icons load, and the guest address refuses everything without a pass | GitHub Actions, "Site health check" | Only on failure: GitHub issue "Site health check failed" |
 | Any time | Any of them by hand | github.com/bschmidhscp/eastern-shore-screener → **Actions** → pick the workflow → **Run workflow** | Same |
 
-A full Deal Board run takes about an hour; the regs refresh about 2½ hours. GitHub emails repository watchers when an issue
+A full Deal Board run takes about an hour; the regs refresh under an hour in a normal month (its report shows minutes per tool). GitHub emails repository watchers when an issue
 is opened, so both partners should **Watch** the screener repo (top right of the repo page → Watch → All activity).
 
 ## Where things live

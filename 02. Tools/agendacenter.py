@@ -13,7 +13,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from common import CORPUS, county_dir, get, have, sha256, upsert_manifest  # noqa: E402
+from common import CORPUS, county_dir, get, have, read_manifest, sha256, upsert_manifest  # noqa: E402
 
 
 def main():
@@ -41,16 +41,23 @@ def main():
             meetings.setdefault(mid, {"date": d})[kind] = True
     outdir = county_dir(a.county) / "Originals" / "Meeting Minutes" / a.body
     outdir.mkdir(parents=True, exist_ok=True)
+    # Already fetched from this exact address (on disk or archived): skip. Matching on the address, not the file name,
+    # matters: the name gets the meeting id only when a second meeting shares the date, so a name check alone took
+    # every meeting we already had for a second one and downloaded it again under the longer name.
+    fetched = {r.get("source_url") for r in read_manifest(a.county).values()
+               if r.get("sha256") and "/Meeting Minutes/" in r["path"]}
     got = failed = n_min = 0
     for mid, info in sorted(meetings.items(), key=lambda x: x[1]["date"]):
         kind = "Minutes" if info.get("Minutes") else "Agenda"
         n_min += kind == "Minutes"
+        src = f"{site}/AgendaCenter/ViewFile/{kind}/{mid}"
+        if src in fetched:
+            continue
         dest = outdir / f"{info['date'].isoformat()} {kind}.pdf"
         if have(dest, a.county):
             dest = outdir / f"{info['date'].isoformat()} {kind} {mid[-4:]}.pdf"
             if have(dest, a.county):
                 continue
-        src = f"{site}/AgendaCenter/ViewFile/{kind}/{mid}"
         try:
             r = get(src, timeout=120)
         except Exception as e:

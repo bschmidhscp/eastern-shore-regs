@@ -124,6 +124,20 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
+### 2026-10-27 — Regs refresh made faster (Claude)
+- **Found a re-download bug.** The meetings fetcher for Caroline, Dorchester, Queen Anne's and Wicomico (AgendaCenter)
+  mistook every meeting it already had for a second meeting on the same day. It downloaded each one again under a
+  longer name. Today's run fetched, converted and archived **592 identical duplicates (~400 MB)**, which is most of why
+  it took 95 minutes. Fixed in `agendacenter.py`: a meeting already fetched from the same address is skipped.
+  Queen Anne's meetings step now takes 4 seconds. The duplicates are still in the archive and search; cleanup is pending
+  Brian's OK.
+- **Site crawl 4× faster.** With the duplicates gone, the site crawl is about 95% of each county's time (Queen Anne's:
+  7 of 7.3 minutes). `crawl_links.py` now fetches 4 pages at a time in the same order: Queen Anne's dropped from
+  423 s to 100 s. Crawls stop at 800 pages, so which listing pages make the cut already varies a little from run to
+  run (±5 of ~5,200 documents).
+- **Expected:** a normal monthly run should now take well under an hour, mostly the Drive pull and push. The report
+  issue now lists every county and the minutes per tool (PR #64). Check the Nov 1 issue to confirm.
+
 ### 2026-10-27 — Regs refresh moves to the cloud; guest links fixed for iPhone (Claude)
 - **First real cloud regs refresh** ([run](https://github.com/bschmidhscp/eastern-shore-screener/actions/runs/40527189820),
   issue #63) took 2 h 20 min:

@@ -12,6 +12,7 @@ import csv
 import re
 import sys
 from collections import deque
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from urllib.parse import urldefrag, urljoin, urlparse
 
@@ -36,6 +37,7 @@ def main():
     ap.add_argument("--extra-hosts", nargs="*", default=[], help="other hosts to treat as same site")
     ap.add_argument("--label", help="name for the inventory file (default: host)")
     ap.add_argument("--max-depth", type=int, default=99, help="link hops from the start pages")
+    ap.add_argument("--workers", type=int, default=4, help="pages fetched at once (same host; keep it polite)")
     ap.add_argument("--skip", default="press-release|calendar|news|/events?/|election|sheriff|animal|aging|parks|tourism|library|job|employment",
                     help="regex of page URLs not to follow")
     a = ap.parse_args()
@@ -45,14 +47,24 @@ def main():
     q, seen, docs = deque((u, 0) for u in a.start), set(a.start), {}
     pages = 0
     rows = []
-    while q and pages < a.max_pages:
-        url, depth = q.popleft()
+    pool = ThreadPoolExecutor(a.workers)
+
+    def fetch(item):
         try:
-            r = get(url, retries=2, timeout=40)
+            return item, get(item[0], retries=2, timeout=40)
         except Exception as e:
-            print("  ! ", url, e, file=sys.stderr)
-            continue
-        if "html" not in r.headers.get("content-type", ""):
+            print("  ! ", item[0], e, file=sys.stderr)
+            return item, None
+
+    # Fetch the next batch from the front of the queue in parallel, then handle the pages in queue order, so the
+    # result is the same as a one-at-a-time crawl (only faster).
+    ahead = deque()
+    while (q or ahead) and pages < a.max_pages:
+        if not ahead:
+            batch = [q.popleft() for _ in range(min(len(q), max(a.max_pages - pages, a.workers)))]
+            ahead.extend(pool.map(fetch, batch))
+        (url, depth), r = ahead.popleft()
+        if r is None or "html" not in r.headers.get("content-type", ""):
             continue
         pages += 1
         if pages % 25 == 0:
@@ -87,7 +99,7 @@ def main():
         w = csv.writer(f)
         w.writerow(["page_url", "link_url", "anchor_text", "ext"])
         w.writerows(sorted(set(rows)))
-    print(f"crawled {pages} pages; {len(docs)} unique documents; queue left {len(q)} -> {out}")
+    print(f"crawled {pages} pages; {len(docs)} unique documents; queue left {len(q) + len(ahead)} -> {out}")
 
 
 if __name__ == "__main__":
