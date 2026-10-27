@@ -23,6 +23,8 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Open questions / watch items
 
+- **Should guests see High Side's share (GP returns, promote, waterfall)? (2026-10-27)** Hidden by default; Brian to decide.
+- **Monthly regs change notes need the Claude token (2026-10-27):** until `CLAUDE_CODE_OAUTH_TOKEN` is set, ask Claude for them after the 1st.
 - **Approval outcomes (2026-10-16):** the board's Pipeline now has Plat submitted / approved / recorded / Denied / Perc failed (live since the 2026-10-16 publish). Record outcomes as they happen; at 10, `python -m screener.evaluate` tests our approval odds.
 - **Low-confidence numbers that move results most (2026-10-16):** 1-ac septic lot floor, waterfront depth limit, whole-parcel remainder threshold, ag transfer tax share, rights floor (`Screener/18. Assumption Impact.md`).
 - **Re-screen drift (2026-10-15; corrected 2026-10-16):** the screen's local lot comps use a rolling 36-month window, so each re-screen moves some deals (Caroline and Kent since 2026-10-14). The monthly refresh does re-screen (`run_all --refresh-data` implies `--screen`), so this is expected month to month — not a decision; the 2026-10-15 note saying otherwise was wrong.
@@ -121,6 +123,23 @@ was decided, what was learned, and what's next. Background and layout are in **S
 - **Impact fees (FY2026, single-family detached):** $9,356 outside municipalities, $8,080 inside.
 
 ## Log
+
+### 2026-10-27 — Regs refresh moves to the cloud; guest links fixed for iPhone (Claude)
+- **First real cloud regs refresh** ([run](https://github.com/bschmidhscp/eastern-shore-screener/actions/runs/40527189820),
+  issue #63) took 2 h 20 min:
+  - all nine counties refreshed, none failed;
+  - 693 new originals (0.62 GB) archived to R2;
+  - text pushed to the GitHub mirror and Drive.
+
+  The schedule is now on (`ESL_CLOUD_REGS=on`): the 1st of each month, ~6 AM ET. The Mac's scheduled task is turned
+  off, so the Mac no longer needs to be awake.
+- **Gap until the Claude token exists:** the cloud run downloads and records changes (Change History, GitHub mirror),
+  but nothing writes the monthly "what changed" notes into this log. Once Brian runs `claude setup-token` and saves it
+  as the `CLAUDE_CODE_OAUTH_TOKEN` secret, the run's AI review writes them. Until then, ask Claude in a session after
+  the 1st: "write this month's regs change notes".
+- **Fixed: a guest got "Not available"** (PR #62). Messages' built-in browser on iPhone sends no usable origin when the
+  guest taps "Open the board", so the claim check refused them. The check now uses the browser's `Sec-Fetch-Site`
+  header, which still blocks other sites from claiming a link. Tested live with iPhone-style and cross-site requests.
 
 ### 2026-10-27 — Code review, weekly site check, regs refresh fixes, guide for Ben's AI (Claude)
 - **Code review** of the cloud run, the site and guest links (Sonnet subagent), with fixes in PR #56, deployed and

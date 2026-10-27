@@ -2,6 +2,10 @@
 
 *Generated on each sync. Shows which regulation text changed and the exact wording differences (`-` removed, `+` added). Narrative context is in the Project Log.*
 
+## 2026-10-27 — Regs refresh moves to GitHub Actions; guest claim fix logged
+
+- New text files: 36
+
 ## 2026-10-27 — Monthly refresh 2026-10-27
 
 - New text files: 682

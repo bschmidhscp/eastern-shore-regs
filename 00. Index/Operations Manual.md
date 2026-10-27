@@ -7,12 +7,12 @@ For the project itself see Start Here; for what happened when, the Project Log. 
 
 | When | What | Where it runs | You hear about it |
 |---|---|---|---|
-| 1st of the month, ~6 AM ET | **Regs refresh**: re-pulls county codes, minutes, legislation and fees; new originals go to the archive; changed text back to Drive; Change History | GitHub Actions, "Regs refresh" (scheduled once the variable `ESL_CLOUD_REGS` is `on`; until then the Mac's scheduled task) | GitHub issue "Regs refresh <date>" + Project Log entry |
+| 1st of the month, ~6 AM ET | **Regs refresh**: re-pulls county codes, minutes, legislation and fees; new originals go to the archive; changed text back to Drive; Change History | GitHub Actions, "Regs refresh" (scheduled since 2026-10-27; `ESL_CLOUD_REGS` is `on`; the Mac's task is retired) | GitHub issue "Regs refresh <date>". The Project Log "what changed" entry is written by the run's AI review once the Claude token exists; until then ask Claude for it |
 | 2nd of the month, ~6 AM ET | **Deal Board refresh**: re-downloads parcel and sales data, refits models, prices every parcel, deploys the board, writes reports to Drive | GitHub Actions, "Monthly refresh" (scheduled once `ESL_CLOUD_RUN` is `on`) | GitHub issue "Monthly refresh <date>" + Project Log entry + the board's **Model → System status** panel |
 | Mondays, ~7 AM ET | **Site health check**: from outside with no sign-in, confirms the board, its data and originals ask for sign-in, icons load, and the guest address refuses everything without a pass | GitHub Actions, "Site health check" | Only on failure: GitHub issue "Site health check failed" |
 | Any time | Any of them by hand | github.com/bschmidhscp/eastern-shore-screener → **Actions** → pick the workflow → **Run workflow** | Same |
 
-A full Deal Board run takes about an hour; the regs refresh 1–3 hours. GitHub emails repository watchers when an issue
+A full Deal Board run takes about an hour; the regs refresh about 2½ hours. GitHub emails repository watchers when an issue
 is opened, so both partners should **Watch** the screener repo (top right of the repo page → Watch → All activity).
 
 ## Where things live
