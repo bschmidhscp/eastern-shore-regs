@@ -82,6 +82,7 @@ is opened, so both partners should **Watch** the screener repo (top right of the
 | Wrangler login (Mac only) | Deploying the site from the Mac | Mac `~/Library/Preferences/.wrangler/` | `npx wrangler login` in `site/` |
 | *Pending:* Claude token | Lets the regs refresh write its AI review | GitHub secret `CLAUDE_CODE_OAUTH_TOKEN` | `claude setup-token` on a computer, paste into the secret |
 | Regs deploy key | Lets the regs refresh push the GitHub mirror (that repo only) | GitHub secret `REGS_DEPLOY_KEY` + the regs repo's Deploy keys | Settings → Deploy keys on `eastern-shore-regs`: delete, then ask Claude for a new one |
+| Access sign-in check (not a secret) | The site verifies sign-in tokens against the Access team and the Deal Board app's audience tag | `ACCESS_TEAM`, `ACCESS_AUD` in `site/wrangler.toml` | Only if the Access app is recreated: copy its new Application Audience (AUD) tag into `ACCESS_AUD` and redeploy; otherwise partners sign in but see no tracker |
 | Guest-link sealing key | Seals guest passes so they can't be forged | Cloudflare Pages secret `GUEST_SECRET` | `npx wrangler pages secret put GUEST_SECRET` in `site/` with a new random value (ends every live guest link) |
 
 ## Costs

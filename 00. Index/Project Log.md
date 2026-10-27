@@ -122,6 +122,40 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
+### 2026-10-27 — Code review, weekly site check, regs refresh fixes, guide for Ben's AI (Claude)
+- **Code review** of the cloud run, the site and guest links (Sonnet subagent), with fixes in PR #56, deployed and
+  re-tested live:
+  - Guests no longer receive High Side's own returns, promote or waterfall terms, the owner's assessment or the
+    internal review flags; they still see deal and investor (LP) returns.
+  - The board build now refuses to publish if a dropped column was renamed or a new column looks like
+    owner, seller, bid or promote data. This check immediately caught two stale names.
+  - A guest link can be re-claimed only once, and only from our own landing page.
+  - Guests' original documents aren't cached after a revoke.
+  - The regs AI review runs with no keys in reach, because it reads downloaded documents.
+  - 16 new tests, 74 in total.
+- **Weekly site health check** (PR #55; Mondays). From outside, with no sign-in, it checks that:
+  - the board, its data, the API and the originals all ask for sign-in;
+  - icons load;
+  - the guest address refuses everything without a pass.
+  
+  A failure opens a GitHub issue. The first run passed all 16 checks.
+- **Regs refresh test:** the cloud run reported "success", but every county had failed. The cause was an argument bug
+  in the new parallel loop in `refresh_all.sh`; it is now fixed. A failed county is now named in the issue and fails
+  the run. The 22-minute Drive pull of 13,000 files now starts from the previous run's copy and fetches only changes
+  (PR #58). The second test run refreshed all nine counties in 95 minutes (meeting minutes and OCR are most of it)
+  without errors; nothing was written because it was a test. The corpus is now cached for next time.
+- **Fixed: no tracker and no Share on deals.highsidecapitalpartners.com** (PR #59). Live logs from Brian's phone showed
+  that Cloudflare Access let him in, but its email header never reached the site: the custom domain proxies to
+  pages.dev, and the header is dropped on that hop. The API answered "not signed in". This probably affected the
+  tracker since the domain switch on Oct 16; the data was never lost. The site now verifies Access's signed token
+  itself (`site/lib/access.mjs`), which also can't be forged; 8 token cases are tested in CI. Brian confirmed the
+  tracker and Share now load, and made a guest link.
+- **Fixed: Pages' fallback could hand a guest the partner board** (PR #61). For a missing file, Pages serves the main
+  page. A guest with a valid pass asking for a made-up path got the partner build. The gate now returns 404 for any
+  HTML coming back on a file path. The phone icons for guest links work too.
+- New **For Ben's AI** guide (`04. For Ben's AI.docx`): what Ben's AI can reach, where to answer deal and rules
+  questions, and how to change things (board vs. pull requests vs. Project Log).
+
 ### 2026-10-27 — Guest links: share the board for 2 hours with one tap (Brian + Claude)
 - **Share** on the board (partners only) makes a link and opens the phone's share sheet. The recipient taps it and is
   in, no sign-in, for 2 hours, on the first device that opens it (a second device can take over only within 5
