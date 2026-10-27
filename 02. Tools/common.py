@@ -148,12 +148,32 @@ def _upsert(county, rows):
     os.replace(tmp, p)
 
 
+_ARCHIVED = {}
+
+
+def have(dest, county):
+    """True when dest is on disk, or was downloaded before and has since moved to the originals archive (Cloudflare R2,
+    archive_originals.py): its manifest row records a checksum. Fetchers use this instead of dest.exists(), so archived
+    originals are never downloaded again."""
+    dest = Path(dest)
+    if not dest.is_absolute():
+        dest = CORPUS / dest
+    if dest.exists():
+        return True
+    c = county_name(county)
+    if c not in _ARCHIVED:
+        _ARCHIVED[c] = {p for p, r in read_manifest(c).items() if r.get("sha256")}
+    return str(dest.relative_to(CORPUS)) in _ARCHIVED[c]
+
+
 def download(url, dest, county, category, title="", effective="", notes="", force=False):
     """Download url to dest (absolute or CORPUS-relative) and record it. Returns manifest row."""
     dest = Path(dest)
     if not dest.is_absolute():
         dest = CORPUS / dest
     dest.parent.mkdir(parents=True, exist_ok=True)
+    if not force and not dest.exists() and have(dest, county):     # archived: keep what the manifest recorded
+        return read_manifest(county)[str(dest.relative_to(CORPUS))]
     if force or not dest.exists():
         r = get(url)
         tmp = dest.with_name(dest.name + ".part")

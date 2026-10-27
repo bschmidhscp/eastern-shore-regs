@@ -11,7 +11,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from common import CORPUS, clean_name, county_dir, get, sha256, upsert_manifest  # noqa: E402
+from common import CORPUS, clean_name, county_dir, get, have, sha256, upsert_manifest  # noqa: E402
 
 
 def main():
@@ -44,7 +44,7 @@ def main():
         for f in pick:
             kind = "Minutes" if f in mins else "Agenda"
             dest = outdir / f"{date} {kind}{'' if len(pick) == 1 else ' - ' + clean_name(f.get('name', ''))[:50]}.pdf"
-            if dest.exists():
+            if have(dest, a.county):
                 continue
             src = f"{api}/Meetings/GetMeetingFileStream(fileId={f['fileId']},plainText=false)"
             try:

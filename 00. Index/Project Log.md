@@ -122,6 +122,22 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
+### 2026-10-26 — Drive storage: original downloads moved to a private archive (Brian + Claude)
+- Google Workspace was over its storage limit. This project used ~10 GB of the shared drive, 9.3 GB of it the original
+  downloads (4,926 PDFs, web pages and map files under each county's `Originals/`).
+- **Moved all 4,926 originals to Cloudflare R2** (bucket `esl-originals`, private): each county copied, checked file by
+  file (size + MD5), then removed from Drive. `Docs + Regs` went from 9.2 GB to 0.5 GB. Every text copy, digest,
+  summary, playbook and manifest stays on Drive.
+- **Opening an original:** `https://deals.highsidecapitalpartners.com/originals/<path from the county's Manifest.csv>`
+  (same sign-in as the Deal Board), e.g. `.../originals/Kent/Originals/Code/Unified Development Ordinance.pdf`.
+- Fetch tools now treat a file listed in the manifest as already downloaded (`common.have`), so the monthly refresh
+  won't re-download archived files; new downloads land in `Originals/` and `refresh_all.sh` archives them at the end
+  (`02. Tools/archive_originals.py`; `--restore <County>` brings a county back, e.g. to re-extract text).
+- Cost: R2's free tier is 10 GB; with the cloud run's 1.2 GB cache it's ~10.5 GB, about 1–2 cents a month.
+- **To get the space back now:** the removed files sit in the shared drive's Trash (Google empties it after 30 days).
+  Brian: Eastern Shore Land → Trash → Empty trash. Old versions of the two database files (`Database/Eastern Shore
+  Land.duckdb`, `Docs + Regs/00. Index/corpus.db`) may also hold space: right-click → File information → Manage versions.
+
 ### 2026-10-16 (midday) — The monthly refresh moves off Brian's Mac (Brian + Claude, setup in progress)
 - Built (PRs #32–#33): the monthly refresh as a **GitHub Actions** workflow ("Monthly refresh" in the repo's Actions
   tab; either partner, or their AI, can press Run workflow). The data cache lives in **Cloudflare R2**; reports, CSVs

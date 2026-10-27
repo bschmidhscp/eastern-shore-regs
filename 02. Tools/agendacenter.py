@@ -13,7 +13,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from common import CORPUS, county_dir, get, sha256, upsert_manifest  # noqa: E402
+from common import CORPUS, county_dir, get, have, sha256, upsert_manifest  # noqa: E402
 
 
 def main():
@@ -46,9 +46,9 @@ def main():
         kind = "Minutes" if info.get("Minutes") else "Agenda"
         n_min += kind == "Minutes"
         dest = outdir / f"{info['date'].isoformat()} {kind}.pdf"
-        if dest.exists():
+        if have(dest, a.county):
             dest = outdir / f"{info['date'].isoformat()} {kind} {mid[-4:]}.pdf"
-            if dest.exists():
+            if have(dest, a.county):
                 continue
         src = f"{site}/AgendaCenter/ViewFile/{kind}/{mid}"
         try:

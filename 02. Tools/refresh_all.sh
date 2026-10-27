@@ -19,6 +19,8 @@ ls "02. Tools/County Configs/"*.json | sed 's|.*/||; s|\.json$||' | tr '\n' '\0'
 # refresh each county's digest-ready legislation index and the comparison, then commit + record changes
 "$PY" -I "02. Tools/build_comparison.py" >> "$LOG" 2>&1
 "$PY" -I "02. Tools/build_index.py" >> "$LOG" 2>&1
+# move this month's new downloads off Drive to the originals archive (R2; served behind the board's sign-in)
+"$PY" -I "02. Tools/archive_originals.py" >> "$LOG" 2>&1
 "02. Tools/sync_repo.sh" "Monthly refresh $(date +%Y-%m-%d)" >> "$LOG" 2>&1
 "02. Tools/publish_guides.sh" >> "$LOG" 2>&1
 echo "== done $(date) ==" >> "$LOG"
