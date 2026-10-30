@@ -2,6 +2,9 @@
 
 *Generated on each sync. Shows which regulation text changed and the exact wording differences (`-` removed, `+` added). Narrative context is in the Project Log.*
 
+## 2026-10-29 — Remove 590 duplicate meeting files from the AgendaCenter bug
+
+
 ## 2026-10-27 — Regs refresh: no duplicate meeting downloads; parallel site crawl
 
 

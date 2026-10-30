@@ -124,6 +124,21 @@ was decided, what was learned, and what's next. Background and layout are in **S
 
 ## Log
 
+### 2026-10-29 — Duplicate meeting files removed (Brian + Claude)
+- On Brian's OK, removed the **590 duplicate meetings** left by the AgendaCenter bug (2026-10-27 entry):
+  - Caroline 185, Dorchester 71, Queen Anne's 157, Wicomico 177.
+  - Each one was named `<date> <Minutes|Agenda> <meeting id>` and identical (same SHA-256) to `<date> <Minutes|Agenda>`
+    in the same folder. The kept copy, its text and its digests are unchanged.
+- **What happened to them, all recoverable:**
+  - their manifest rows were dropped;
+  - their text copies were deleted from Drive and sit in Drive's trash for 30 days;
+  - the archived originals (382 MB) were moved to the R2 bucket `esl-screener` under `Removed Duplicates/`, not erased.
+- No digest or summary referred to them.
+- Rebuilt each county's legislation index, digest list and coverage, and the search index.
+- Left alone:
+  - two Wicomico pairs that share content but have different dates;
+  - genuine second meetings on the same date, which carry an id in the name from the October 11 pull.
+
 ### 2026-10-27 — Regs refresh made faster (Claude)
 - **Found a re-download bug.** The meetings fetcher for Caroline, Dorchester, Queen Anne's and Wicomico (AgendaCenter)
   mistook every meeting it already had for a second meeting on the same day. It downloaded each one again under a
